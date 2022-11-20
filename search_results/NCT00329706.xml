@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2900">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00329706</url>
+  </required_header>
+  <id_info>
+    <org_study_id>02-10-079, 03-04-026</org_study_id>
+    <nct_id>NCT00329706</nct_id>
+  </id_info>
+  <brief_title>Metabolic Cerebral Imaging in Incipient Dementia (MCI-ID)</brief_title>
+  <official_title>Early and Long-Term Value of Imaging Brain Metabolism</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centers for Medicare and Medicaid Services</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A brain PET scan is recognized as &quot;reasonable and necessary&quot; for some patients with &quot;a&#xD;
+      recently established diagnosis of dementia&quot; (Centers for Medicare and Medicaid Services,&#xD;
+      Decision Memo CAG-00088R, 2004), but evidence is less clear for patients having less severe&#xD;
+      cognitive problems. A substantial portion of such patients will develop Alzheimer's disease&#xD;
+      and other forms of dementia, which affect millions of people in the U.S., costing us over&#xD;
+      $100 billion annually. This project employs a prospective randomized protocol to determine&#xD;
+      whether PET scanning can help distinguish those patients with early Alzheimer's changes in&#xD;
+      their brains from those having other causes of cognitive impairment more accurately than is&#xD;
+      done with current clinical practices alone, and lead to earlier, more effective therapies&#xD;
+      which extend patients' abilities to think and function independently.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      People experiencing mild cognitive changes represent an epidemiologically major segment of&#xD;
+      the geriatric patient population. In the present proposal, we aim to measure how knowledge of&#xD;
+      cerebral metabolic information 1) influences working diagnoses and management of patients&#xD;
+      being evaluated for symptoms of early cognitive decline, and 2) impacts upon long-term&#xD;
+      clinical outcomes, particularly of subjects having metabolic patterns consistent with&#xD;
+      presence of Alzheimer's disease (AD)-like changes in their brains. A total of 710 patients&#xD;
+      suffering from documentable decline of cognitive function in the absence of overt dementia&#xD;
+      will be studied at nine U.S. institutions with extensive experience and infrastructure in&#xD;
+      place for the evaluation of Alzheimer's disease and related disorders, and for neuroimaging.&#xD;
+      In this prospective, investigation, subjects will undergo baseline neuropsychologic testing&#xD;
+      and neuroimaging with MRI and FDGPET. PET scan reports will be sealed and randomized with&#xD;
+      respect to whether they are released to patients' managing physicians at the time of&#xD;
+      interpretation, or two years after the time that scanning is performed.&#xD;
+&#xD;
+      Working diagnoses of managing physicians will be recorded, as will the treatment decisions&#xD;
+      made by the managing physicians and their patients. Cognitive abilities, functional status,&#xD;
+      utilization of healthcare resources, and other clinical and social contact parameters will be&#xD;
+      assessed every six months. Our major hypotheses are that among patients whose PET results are&#xD;
+      immediately conveyed to their referring physicians, diagnoses and management plans will be&#xD;
+      positively affected, leading to more effective utilization of healthcare resources and to&#xD;
+      maintenance of cognitive and functional abilities at a higher level. This project will also&#xD;
+      provide a rich source of data that can be used to address questions outside of its major&#xD;
+      focus (e.g., prognostic accuracy of volumetric MRI data used instead of, or in conjunction&#xD;
+      with, FDG-PET data; incremental predictive value of applying statistically parameterizing&#xD;
+      and/or quantifying software tools to imaging data).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2006</start_date>
+  <completion_date type="Actual">January 2017</completion_date>
+  <primary_completion_date type="Actual">January 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>change from baseline in neuropsychological (cognitive,functional) test results</measure>
+    <time_frame>baseline and 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>utilization of healthcare resources</measure>
+    <time_frame>baseline and 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PET results, compared with working diagnoses made before and after time of PET</measure>
+    <time_frame>baseline and up to 2 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>rates of prescription of AD-specific therapies</measure>
+    <time_frame>baseline and 2 years</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">710</enrollment>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental arm will have an immediate release of the PET report</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Active Comparator arm will have a delayed release of 2 years</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>FDG-PET brain scan</intervention_name>
+    <description>The difference in the two arms' interventions is the time at which the FDG-PET brain scan information is available for the subjects' managing physicians. Experimental arms will have an immediate release of the PET report, while the Active Comparator arms will have a delayed release of 2 years.</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+    <other_name>[F-18]FDG PET brain scan administered once to both arms</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Cognitive deficit and/or personality change is present, as observable by physician&#xD;
+             and/or close contact(s) of the patient; or in the absence of this, the patient&#xD;
+             provides a clear history of decline which the patient's physician deems to be&#xD;
+             reliable.&#xD;
+&#xD;
+          -  If history or neurologic exam reveals findings suspicious for stroke, tumor, bleed,&#xD;
+             ictal activity, or hydrocephalus, then CT/MRI and appropriate neurological or&#xD;
+             neurosurgical consultation must have been obtained.&#xD;
+&#xD;
+          -  Standard history, physical, and laboratory screen have been performed to identify&#xD;
+             possible presence of depression, substance abuse, malnourishment, medication effects&#xD;
+             and interactions, cardiopulmonary compromise, electrolyte/calcium imbalance, anemia,&#xD;
+             hypoxemia, infection, thyroid dysfunction, renal dysfunction, hepatic dysfunction, or&#xD;
+             glucose dysregulation.&#xD;
+&#xD;
+          -  Any positive findings revealed in 2) or 3) above have been appropriately treated,&#xD;
+             wherever possible, but cognitive/behavioral deficit persists post-therapy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects under age 65 will not be recruited, in order to enhance the clinical&#xD;
+             relevance of the project by focusing on the age groups in whom serious concerns about&#xD;
+             early signs and symptoms of senile onset dementia are most typically emerging.&#xD;
+&#xD;
+          -  Overt dementia, as discussed above.&#xD;
+&#xD;
+          -  Cognitive dysfunction has impaired subject's ability to perform activities of daily&#xD;
+             living.&#xD;
+&#xD;
+          -  Present or past history of thyroid disease (due to effects of both the disease and&#xD;
+             thyroid hormone replacement therapy on brain metabolism that we and others have begun&#xD;
+             to identify, but which remain incompletely characterized.)&#xD;
+&#xD;
+          -  Claustrophobia or metal in body or other condition that would preclude PET or MRI from&#xD;
+             being acquired, or visual, auditory or motor deficits that would preclude accurate&#xD;
+             neuropsychological testing.&#xD;
+&#xD;
+          -  Cholinesterase inhibition therapy already initiated.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel H Silverman, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Los Angeles</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-6942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Monica-UCLA Medical Center</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gene E. Myers Cardiac and Vascular Consultants</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lahey Clinic Hospital</name>
+      <address>
+        <city>Burlington</city>
+        <state>Massachusetts</state>
+        <zip>01805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2017</verification_date>
+  <study_first_submitted>May 24, 2006</study_first_submitted>
+  <study_first_submitted_qc>May 24, 2006</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 25, 2006</study_first_posted>
+  <last_update_submitted>May 1, 2017</last_update_submitted>
+  <last_update_submitted_qc>May 1, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 2, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Los Angeles</investigator_affiliation>
+    <investigator_full_name>Daniel H. Silverman</investigator_full_name>
+    <investigator_title>Professor, Medical and Molecular Pharmacology</investigator_title>
+  </responsible_party>
+  <keyword>mild cognitive impairment</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>dementia</keyword>
+  <keyword>FDG</keyword>
+  <keyword>PET</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
