@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="919">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05138263</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KBASE02</org_study_id>
+    <secondary_id>U01AG072177</secondary_id>
+    <nct_id>NCT05138263</nct_id>
+  </id_info>
+  <brief_title>Korean Brain Aging Study for Early Diagnosis and Prediction of Alzheimer's disease2 (KBASE2)</brief_title>
+  <acronym>KBASE2</acronym>
+  <official_title>Korean Brain Aging Study for Early Diagnosis and Prediction of Alzheimer's disease2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Seoul National University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The KBASE2 is the second phase of the KBASE project, which consists of roll-over participants&#xD;
+      from the first phase of the KBASE as well as newly enrolled participants with varying degrees&#xD;
+      of cognitive functions (e.g. individuals with normal cognition, mild cognitive impairment, or&#xD;
+      AD dementia). In addition to the aims of the first phase of the KBASE, the KBASE2 will focus&#xD;
+      on new data collection and integrative analysis of the rich structural, functional, and&#xD;
+      molecular neuroimaging data in relation to whole genome sequencing and other -omics. Network&#xD;
+      analysis of disruption in brain connectivity in relation to clinical status and AD biomarker&#xD;
+      profiles also will be conducted.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Korean Brain Aging Study for the Early Diagnosis and Prediction of AD (KBASE) is a&#xD;
+      comprehensive prospective cohort study launched at Seoul National University (SNU) in 2014&#xD;
+      using similar methods to the North American AD Neuroimaging Initiative (ADNI). KBASE includes&#xD;
+      well-characterized participants with normal cognition (CN), mild cognitive impairment (MCI)&#xD;
+      and AD dementia. Clinical/cognitive and lifestyle data, multimodal neuroimaging (structural&#xD;
+      MRI, MR angiography, diffusion tensor imaging, and resting-state fMRI, as well as amyloid,&#xD;
+      tau and FDG-PET, and bio-specimens were longitudinally collected during the past five years.&#xD;
+&#xD;
+      The KBASE2, the second phase of the KBASE project, will focus on new data collection and&#xD;
+      integrative analysis of the rich structural, functional, and molecular neuroimaging data in&#xD;
+      relation to WGS and other -omics. Network analysis of disruption in brain connectivity in&#xD;
+      relation to clinical status and AD biomarker profiles in KBASE will be related back to the&#xD;
+      NIA AD Sequencing Project (ADSP) multi-ethnic dataset (N&gt;20,000) results. Amyloid, tau,&#xD;
+      neurodegeneration, and cerebrovascular integrity (A/T/N/V) neuroimaging biomarkers will be&#xD;
+      investigated cross-sectionally and longitudinally. Findings will be contrasted with and&#xD;
+      validated in independent cohorts, including ADNI and the Indiana Memory and Aging Study&#xD;
+      (IMAS), which both have similar genetic and deep longitudinal endophenotype data. The&#xD;
+      overarching premise is that 1) development of precision medicine for ADRD requires systematic&#xD;
+      multi-modal biomarker collection in diverse cohorts during early at-risk stages of disease to&#xD;
+      identify diagnostic, prognostic and therapeutic targets, and 2) sophisticated analytic&#xD;
+      strategies are required to address the complexity of multimodal data, heterogeneity, and&#xD;
+      diverse participant cohorts. Integrative longitudinal analysis of genetic and -omics networks&#xD;
+      with structural and functional brain networks in this Asian cohort will yield new targets&#xD;
+      related to A/T/N/V pathology and other pathways&#xD;
+&#xD;
+      In KBASE2 projects, the KBASE team at Seoul National University (SNU) and AD research team at&#xD;
+      Indiana University (ADNI Genetics Core, Indiana ADRC, IU Network Science Institute) will&#xD;
+      closely collaborate with the ADSP and its multi-institutional working groups, and the&#xD;
+      Universities of Pennsylvania and Southern California. Whole genome sequences (WGS) will be&#xD;
+      ADSP-harmonized by the NIA Genomic Center for AD (GCAD) and shared via NIAGADS (both UPenn).&#xD;
+      The Laboratory of Neuroimaging (LONI; USC) will support imaging and related data sharing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2022</start_date>
+  <completion_date type="Anticipated">June 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Amount of brain amyloid deposition</measure>
+    <time_frame>baseline</time_frame>
+    <description>Group difference in baseline brain amyloid deposition on florbetaben PET and the relationship between the amount of brain amyloid deposition and clinical, neuropsychological, neuroimaging, genetic, biochemical measurement will be investigated.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Amount of brain tau deposition</measure>
+    <time_frame>baseline</time_frame>
+    <description>Group difference in baseline brain amyloid deposition on AV1451 PET and the relationship between the amount of brain tau deposition and clinical, neuropsychological, neuroimaging, genetic, biochemical measurement will be investigated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of brain amyloid deposition</measure>
+    <time_frame>2 years</time_frame>
+    <description>The change of brain amyloid deposition and its relation to the clinical, neuropsychological, neuroimaging, genetic and biochemical variables will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of brain tau deposition</measure>
+    <time_frame>2 years</time_frame>
+    <description>The change of brain tau deposition and its relation to the clinical, neuropsychological, neuroimaging, genetic and biochemical variables will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of CERAD total score</measure>
+    <time_frame>2 years</time_frame>
+    <description>The change of CERAD total score and its relation to neuroimaging, genetic and biochemical variables will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of cortical thickness</measure>
+    <time_frame>2 years</time_frame>
+    <description>The change of Alzheimer-signature region cortical thickness and its relation to neuroimaging, biochemical, genetic biomarkers will be assessed</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">640</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Young normal controls</arm_group_label>
+    <description>age : 20 ~ 54&#xD;
+without dementia, MCI, or other major neurological/psychiatric illness</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Elderly normal controls</arm_group_label>
+    <description>age : 55 ~ 90&#xD;
+without dementia, MCI, or other major neurological/psychiatric illness</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MCI (Mild cognitive impairment)</arm_group_label>
+    <description>age : 55 ~ 90&#xD;
+without major neurological/psychiatric illness&#xD;
+concern regarding a change in cognition, lower performance in any cognitive domain that is greater than would be expected for the subject's age and educational background and preservation of independence in functional abilities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AD (Alzheimer's diseases)</arm_group_label>
+    <description>age: 55 ~ 90&#xD;
+National Institute of Aging and the Alzheimer's Association (NIA-AA) Probable AD dementia(Alzheimer's diseases)</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Plasma, Serum, DNA, RNA, hair, and stool&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Young and elderly normal controls: community-based population AD and MCI: clinic or&#xD;
+        community-based population&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Participants will be classified as either Alzheimer's disease(AD) group, mild cognitive&#xD;
+        impairment(MCI) group, elderly normal controls or young normal controls. Specific inclusion&#xD;
+        criteria for each group is described below.&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        [Inclusion criteria: AD]&#xD;
+&#xD;
+          -  Age : 55 - 90&#xD;
+&#xD;
+          -  Clinical Dementia Rating (CDR)=0.5 or 1&#xD;
+&#xD;
+          -  Diagnostic and Statistical Manual-IV(DSM-IV) criteria for dementia&#xD;
+&#xD;
+          -  National Institute of Aging and the Alzheimer's Association (NIA-AA) Probable AD&#xD;
+             dementia&#xD;
+&#xD;
+          -  Study partner or caregiver to accompany patient to all scheduled visits&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        [Inclusion criteria: MCI (amnestic)]&#xD;
+&#xD;
+          -  Age : 55 - 90&#xD;
+&#xD;
+          -  Clinical Dementia Rating (CDR)=0.5&#xD;
+&#xD;
+          -  Concern regarding a change in cognition (obtained from the subject, from an informant&#xD;
+             who knows the subject, or from a skilled clinician observing the subject)&#xD;
+&#xD;
+          -  Lower performance in any cognitive domain that is greater than would be expected for&#xD;
+             the subject's age and educational background&#xD;
+&#xD;
+          -  Preservation of independence in functional abilities&#xD;
+&#xD;
+          -  Study partner or caregiver to accompany subject to all scheduled visits&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        [Inclusion criteria: Elderly normal controls]&#xD;
+&#xD;
+          -  Age : 55 - 90&#xD;
+&#xD;
+          -  Clinical Dementia Rating (CDR)=0&#xD;
+&#xD;
+          -  Those with contactable Informant&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        [Inclusion criteria: Young normal controls]&#xD;
+&#xD;
+          -  Age : 20 - 54&#xD;
+&#xD;
+          -  Clinical Dementia Rating (CDR)=0&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        [Exclusion criteria: general]&#xD;
+&#xD;
+          -  Past history or presence of major psychiatric illness (e.g. schizophrenia, bipolar&#xD;
+             disorder, alcohol/substance abuse or dependence, delirium)&#xD;
+&#xD;
+          -  Significant neurologic or medical condition that can influence the mental state&#xD;
+&#xD;
+          -  Contraindications for MRI scan (e.g. pacemaker, claustrophobia)&#xD;
+&#xD;
+          -  Illiteracy&#xD;
+&#xD;
+          -  Significant visual or hearing difficulty&#xD;
+&#xD;
+          -  Taking investigational drug&#xD;
+&#xD;
+          -  In pregnancy or breast-feeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dong Young Lee, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Psychiatry, Seoul National University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dong young Lee, MD, PhD</last_name>
+    <phone>+82-2-2072-2205</phone>
+    <email>selfpsy@snu.ac.kr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Dong Young Lee, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SMG-SNU Boramae Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jun-Young Lee, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>October 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2021</study_first_posted>
+  <last_update_submitted>May 5, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Seoul National University Hospital</investigator_affiliation>
+    <investigator_full_name>Dong Young Lee</investigator_full_name>
+    <investigator_title>professor</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Early diagnosis</keyword>
+  <keyword>Prediction</keyword>
+  <keyword>Biomarker</keyword>
+  <keyword>Neuroimaging</keyword>
+  <keyword>Network-based analysis</keyword>
+  <keyword>Multiomics</keyword>
+  <keyword>Systems biology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

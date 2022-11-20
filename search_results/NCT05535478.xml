@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2619">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05535478</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00053280</org_study_id>
+    <nct_id>NCT05535478</nct_id>
+  </id_info>
+  <brief_title>Deprescribing of Diabetes Regimens in Long Term Care Residents With Alzheimer's</brief_title>
+  <official_title>Deprescribing of Diabetes Treatment Regimens in Long Term Care (LTC) Residents With Alzheimer's Disease or Related Dementias (ADRD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Joslin Diabetes Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Brown University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Theoria Medical</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Joslin Diabetes Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objectives To 1) examine the ability of the STRIDE (Simplification of Treatment Regimens and&#xD;
+      Individualized Diabetes Education) educational program to increase deprescribing of high&#xD;
+      hypoglycemia risk glucose-lowering medications (HRMs) among long term care facility (LTCF)&#xD;
+      residents with ADRD, 2) assess key implementation constructs (secondary outcomes) of the&#xD;
+      STRIDE program, including acceptability, appropriateness, and feasibility, and 3) validate&#xD;
+      the primary HRM use outcome measure.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 6, 2023</start_date>
+  <completion_date type="Anticipated">February 5, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 2, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in proportion of long term care facility (LTCF) residents with Alzheimer's disease adn related dementias (ADRD) and diabetes with high risk medications (HRM) use</measure>
+    <time_frame>Baseline vs 6 months</time_frame>
+    <description>HRM use will include any sulfonylurea use (i.e., glyburide, glipizide, glimepiride, or chlorpropamide) and any insulin use.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability of the STRIDE Educational Program</measure>
+    <time_frame>6 months</time_frame>
+    <description>The extent to which the program is agreeable to LTCF staff- using the Acceptability of Intervention Measure (AIM)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Appropriateness of the STRIDE Educational Program</measure>
+    <time_frame>6 months</time_frame>
+    <description>The extent to which the program is suitable for a particular purpose, i.e., to improve the frequency at which LTCF staff attempt diabetes medication regimen deprescribing- using the Intervention Appropriateness Measure (IAM)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility of the STRIDE Educational Program</measure>
+    <time_frame>6 months</time_frame>
+    <description>The extent to which the program is practical at the LTCF level- using the Feasibility of Intervention Measure (FIM)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Diabetes</condition>
+  <condition>Dementia</condition>
+  <condition>Hypoglycemia; Drug</condition>
+  <arm_group>
+    <arm_group_label>STRIDE Intervention</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Educational intervention for clinicians</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>STRIDE</intervention_name>
+    <description>a. Targeted providers for STRIDE program: i. Clinical staff at the LTCF who participate in deprescribing at the facilities (physicians (MDs), physician's assistants (PAs), nurse practitioners (NPs), clinical pharmacists): clinical staff members caring for LTCF residents with ADRD and diabetes at 6 LTCFs in the Ohio and Michigan areas will be invited via email from the LTCF leadership to participate in the STRIDE education program. The STRIDE program consist of practical algorithms and educational material, which they are free to view at any time, and participation in 2 webinars and monthly telementoring calls</description>
+    <arm_group_label>STRIDE Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Clinical staff at the LTCF (MDs, PAs, NPs, clinical pharmacists) - (Targeted providers&#xD;
+             for STRIDE program)&#xD;
+&#xD;
+          -  Clinical staff that participated in the STRIDE program (Providers doing stakeholder&#xD;
+             exit interviews)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Consistent with the pragmatic nature of the trial, there are no exclusion criteria.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medha Munshi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Joslin Diabetes Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christine Slyne</last_name>
+    <phone>6173094683</phone>
+    <email>christine.slyne@joslin.harvard.edu</email>
+  </overall_contact>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>August 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 6, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 10, 2022</study_first_posted>
+  <last_update_submitted>October 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>older adults</keyword>
+  <keyword>long term care facility</keyword>
+  <keyword>high risk medications</keyword>
+  <keyword>hypoglycemia</keyword>
+  <keyword>deprescribing</keyword>
+  <keyword>diabetes</keyword>
+  <keyword>dementia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Hypoglycemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

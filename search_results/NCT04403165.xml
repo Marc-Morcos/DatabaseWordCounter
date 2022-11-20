@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1599">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04403165</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-00002</org_study_id>
+    <secondary_id>1R21AG067549-01</secondary_id>
+    <nct_id>NCT04403165</nct_id>
+  </id_info>
+  <brief_title>Locus-coeruleus Function in Normal Elderly and AD Risk</brief_title>
+  <acronym>LEAD</acronym>
+  <official_title>Locus-coeruleus Function in Normal Elderly and AD Risk</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Growing evidence suggests that Alzheimer's disease (AD) pathological changes begin decades&#xD;
+      before clinical symptoms and tau abnormalities in the locus coeruleus (LC) can be observed&#xD;
+      since midlife. We have previously demonstrated functional vulnerability of the LC to aging&#xD;
+      and stress, as well as an association between higher CSF tau and impaired sleep phenomena&#xD;
+      influenced by the LC. We now aim to test whether LC dysfunction can be measured in&#xD;
+      preclinical AD stages by LC targeted imaging, and whether it objectively affects sleep&#xD;
+      architecture and attention. We will test this hypothesis in 30 cognitively normal older&#xD;
+      adults by performing a full clinical evaluation, one night of polysomnography, a lumbar&#xD;
+      puncture to obtain cerebrospinal fluid, [11C]MRB PET-MR, and attention testing. This study&#xD;
+      has the potential to identify a new mechanism by which tau pathology contributes to sleep and&#xD;
+      attention dysfunction and may provide a new therapeutic target for AD prevention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is three-fold: to test whether lower NET availability in the LC is&#xD;
+      associated with: first, CSF tau levels typical of preclinical stages of AD (Aim 1); second,&#xD;
+      reduced REM and spindle density (Aim 2); and third, impaired performance on attention tasks&#xD;
+      (Aim 3). The goal is to test the overarching hypothesis that LC dysfunction occurs in&#xD;
+      preclinical AD stages, can be measured with MRB-PET, and translates into impairment of sleep&#xD;
+      architecture (LC tonic dysfunction) and attention (LC phasic dysfunction).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 6, 2020</start_date>
+  <completion_date type="Anticipated">August 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Methylreboxetine (MRB)-LC Mean Standardized Uptake Value Ratio (SUVR) Values</measure>
+    <time_frame>Visit 4 (1-4 weeks after LP)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total REM Duration (Min)</measure>
+    <time_frame>Visit 3 (1-4 weeks after Visit 2)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Time Spent in REM Sleep</measure>
+    <time_frame>Visit 3 (1-4 weeks after Visit 2)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>REM Sleep Continuity</measure>
+    <time_frame>Visit 3 (1-4 weeks after Visit 2)</time_frame>
+    <description>Reported as percentage of REM runs that are less than 5, greater than or equal to 5 and greater than or equal to 10 minutes).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>N2 Spindle Density</measure>
+    <time_frame>Visit 3 (1-4 weeks after Visit 2)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Psychomotor Vigilance Test (PVT) Reaction Time</measure>
+    <time_frame>Visit 3 (1-4 weeks after Visit 2)</time_frame>
+    <description>PVT measures the reaction speed to a randomly time-occuring visual stimuli, allowing the assessment of several aspects of attention including response times, attention lapses and false starts.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Oddball Test Response Time</measure>
+    <time_frame>Visit 3 (1-4 weeks after Visit 2)</time_frame>
+    <description>The OddBall test measures task-related attention. Two different visual stimuli (frequent and infrequent) are presented in random succession as the subject presses a button only when the infrequent stimuli appears.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Correct Responses</measure>
+    <time_frame>Visit 3 (1-4 weeks after Visit 2)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Levels of Hyperphosphorylated Tau (P-Tau, T-Tau)</measure>
+    <time_frame>Visit 4 (1-4 weeks after LP)</time_frame>
+    <description>Levels will be derived from the CSF and reported in pg/mL</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Aβ42/Aβ40 Ratio</measure>
+    <time_frame>Visit 4 (1-4 weeks after LP)</time_frame>
+    <description>The presence of amyloid plaques will be represented as the binary indicator of a CSF Aβ42/Aβ40 ratio</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Cognitively Normal (CN) Older Adults</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Nocturnal polysomnography (NPSG)</intervention_name>
+    <description>Nocturnal polysomnography (NPSG) to measure REM sleep and sleep spindles characteristics.</description>
+    <arm_group_label>Cognitively Normal (CN) Older Adults</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Lumbar Puncture (LP)</intervention_name>
+    <description>Lumbar puncture (LP) to measure CSF P-Tau, T-Tau and Aβ42/40 ratio.</description>
+    <arm_group_label>Cognitively Normal (CN) Older Adults</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PET-MR measurement with a norepinephrine transporter (NET)-selective radiotracer (S,S)-[11C]Omethylreboxetine ([11C]MRB)</intervention_name>
+    <description>PET-MR measurement with a norepinephrine transporter (NET)-selective radiotracer (S,S)-[11C]O-methylreboxetine ([11C]MRB) to measure NET availability.</description>
+    <arm_group_label>Cognitively Normal (CN) Older Adults</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Psychomotor Vigilance Task (PVT)</intervention_name>
+    <description>Psychomotor vigilance task (PVT) and the OddBall to measure test taskattention performance.</description>
+    <arm_group_label>Cognitively Normal (CN) Older Adults</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  Male and female subjects with normal cognition and 60-75 years of age will be&#xD;
+             enrolled.&#xD;
+&#xD;
+          -  Subjects will be within normal limits on neurological and psychiatric examinations.&#xD;
+             All subjects enrolled will have both a Clinical Dementia Rating (CDR)=0 and a MMSE&gt;27.&#xD;
+&#xD;
+          -  All subjects will have had a minimum of 12 years of education. Among underrepresented&#xD;
+             group (URG) subjects, &gt;80% of the elderly individuals coming to the NYU-ADRC meet this&#xD;
+             criterion. (The education restriction reduces performance variance on cognitive test&#xD;
+             measures and improves the sensitivity for detecting pathology and disease progression&#xD;
+             using the robust norms available at the NYU ADRC. Given the majority of subjects will&#xD;
+             meet this criterion we do not consider this a major selection bias or generalization&#xD;
+             limitation for this study).&#xD;
+&#xD;
+          -  An informed family member or life-partner (preferably bed-partner) will be interviewed&#xD;
+             to confirm the reliability of the subject interview.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of brain tumor, MRI evidence of brain damage or brain disease including&#xD;
+             significant trauma, hydrocephalus, seizures, mental retardation or other serious&#xD;
+             neurological disorder (e.g. Parkinson's disease or other movement disorders). Subjects&#xD;
+             with a Fazekas scale &gt;2 will be excluded.&#xD;
+&#xD;
+          -  Significant history of alcoholism or drug abuse.&#xD;
+&#xD;
+          -  History of psychiatric illness (e.g., schizophrenia, bipolar, PTSD, or life-long&#xD;
+             history of major depression).&#xD;
+&#xD;
+          -  Geriatric Depression Scale (short form)&gt;5.&#xD;
+&#xD;
+          -  Insulin dependent diabetes.&#xD;
+&#xD;
+          -  Evidence of clinically relevant cardiac, pulmonary, endocrine or hematological&#xD;
+             conditions.&#xD;
+&#xD;
+          -  Physical impairment of such severity as to adversely affect the validity of&#xD;
+             psychological testing.&#xD;
+&#xD;
+          -  Any prosthetic devices (e.g., pacemaker or surgical clips) that constitutes a hazard&#xD;
+             for MRI imaging.&#xD;
+&#xD;
+          -  History of a first-degree family member with early onset (age &lt;60 years) dementia.&#xD;
+&#xD;
+          -  Irregular sleep-wake rhythms (based on the actigraphy recordings) or significant OSA&#xD;
+             (AHI3a%&gt;/=15).&#xD;
+&#xD;
+          -  Medications affecting cognition or sleep.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ricardo Osorio</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dishari Azad</last_name>
+    <phone>646-754-2229</phone>
+    <email>Dishari.azad@nyulangone.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ricardo Osorio</last_name>
+    <phone>212-263-3255</phone>
+    <email>ricardo.osorio@nyulangone.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NYU Grossman School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>May 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 27, 2020</study_first_posted>
+  <last_update_submitted>October 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Norepinephrine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication. No end date.</ipd_time_frame>
+    <ipd_access_criteria>The investigator who proposed to use the ricardo.osorio@nyulangone.org. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

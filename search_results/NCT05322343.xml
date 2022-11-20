@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2754">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05322343</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHUBX 2020/34</org_study_id>
+    <nct_id>NCT05322343</nct_id>
+  </id_info>
+  <brief_title>Biobank and Brain Health in Bordeaux.</brief_title>
+  <acronym>B-cube</acronym>
+  <official_title>Biobank and Brain Health in Bordeaux. A Population-based Cohort to Study the Biology of Brain and Cognitive Aging in Young Seniors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Bordeaux</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Bordeaux</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      B cube is a new generation cohort to study the determinants and natural history of brain&#xD;
+      aging, using molecular epidemiology, in a representative sample (N=2000) of the general&#xD;
+      population from the age of 55 (the approximate age of onset of the first cognitive disorders&#xD;
+      and a target population particularly receptive to prevention messages). Special interest will&#xD;
+      be given to nutrition, a promising environmental exposure for prevention.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cognitive aging and associated pathologies, primarily dementia and its main cause Alzheimer's&#xD;
+      disease, are a major public health issue. Because of the under-diagnosis of dementia in the&#xD;
+      population and the very long preclinical phase of these diseases, population-based cohorts&#xD;
+      are essential to better understand brain aging. With the PAQUID and 3-Cités cohorts, the&#xD;
+      Bordeaux Population Health Research Center (BPH) has been a world pioneer in population-based&#xD;
+      studies on aging and dementia, and has thus contributed greatly to a better understanding of&#xD;
+      age-realted brain diseases. As these cohorts are aging, and in view of the importance of&#xD;
+      studying the early stages of brain aging, it seems essential to continue our research efforts&#xD;
+      for the prevention of cognitive aging with the establishment of a new cohort of young&#xD;
+      seniors. In addition to the population-based design of the study, the representativeness of&#xD;
+      the cohort appears to be a crucial issue (since population-based cohorts depend on the&#xD;
+      voluntary participation of healthy individuals, unfavorable exposures and altered health&#xD;
+      states are often largely under-represented, which reduces the variability of exposures and&#xD;
+      events, leading to an underestimation of prevalences, a decrease in statistical power and a&#xD;
+      potential bias in the estimation of associations). Finally, the multifactorial nature of&#xD;
+      brain ageing pathologies now calls for the replacement of the reductionist approach of risk&#xD;
+      factors by a more holistic vision of the exposome (defined as all the environmental exposures&#xD;
+      with which an individual is confronted throughout the lifecourse). The development of an&#xD;
+      integrated approach of complex, high-dimensional, multi-omics biological data (genomics,&#xD;
+      transcriptomics, epigenomics, metabolomics, proteomics), applied to various biological&#xD;
+      matrices, is an indispensable tool to deep phenotyping and to the establishment of a new&#xD;
+      generation etiological epidemiological research framework in the field of brain aging&#xD;
+      pathologies.&#xD;
+&#xD;
+      The Biobank and Brain health in Bordeaux cohort (B cube) will include the completion of a&#xD;
+      general questionnaire (during the V1 visit), a dietary survey (during the V1, V4 and V5&#xD;
+      visits), a computerized cognitive battery (during the V1 visit), a collection of biological&#xD;
+      material (blood, urine, stool, saliva, hair, nails and nasopharyngeal swab) for the&#xD;
+      constitution of a biobank (during the V2 biobank visit, 2000 samples of blood, urine, hair,&#xD;
+      nails and 1000 samples expected for the other fluids/samples) An MRI will be performed in&#xD;
+      volunteers aged 55 to 70 years (during the V3 visit). Finally, a complementary visit by a&#xD;
+      medical specialist may be proposed to participants with cognitive disorders or Parkinson's&#xD;
+      syndrome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 22, 2022</start_date>
+  <completion_date type="Anticipated">September 21, 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 21, 2025</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Number of participants for whom samples are available in the biobank and nutritional and cognitive surveys have been completed.</measure>
+    <time_frame>Inclusion visit</time_frame>
+    <description>General questionnaire and a computerized cognitive battery.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants for whom samples are available in the biobank and nutritional and cognitive surveys have been completed.</measure>
+    <time_frame>week 1</time_frame>
+    <description>Collection of biological material for the constitution of a biobank</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants for whom samples are available in the biobank and nutritional and cognitive surveys have been completed.</measure>
+    <time_frame>week 2</time_frame>
+    <description>An MRI will be performed in volunteers aged 55 to 70 years.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants for whom samples are available in the biobank and nutritional and cognitive surveys have been completed.</measure>
+    <time_frame>week 12 and week 24</time_frame>
+    <description>Dietary survey</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Biobank inventory</measure>
+    <time_frame>Week 1</time_frame>
+    <description>of the following biological samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive performance, assessed through: non-verbal cognition-Neuropsychological</measure>
+    <time_frame>Inclusion visit</time_frame>
+    <description>Cambridge Neuropsychological Test Automated Battery (CANTAB)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive performance, assessed through: non-verbal cognition - Verbal fluency</measure>
+    <time_frame>Inclusion visit</time_frame>
+    <description>Isaacs' set test (IST)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive performance, assessed through: non-verbal cognition -Dementia</measure>
+    <time_frame>Inclusion visit</time_frame>
+    <description>Clinical Dementia Rating scale-Sum of Boxes (CDR-SOB)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive performance, assessed through: non-verbal cognition- Mental</measure>
+    <time_frame>Inclusion visit</time_frame>
+    <description>Mini Mental State Examination (MMSE)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assement anxiety and depressive symptomatology - Anxiety</measure>
+    <time_frame>Inclusion visit</time_frame>
+    <description>Spielberger State-Trait Anxiety Inventory (STAI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assement anxiety and depressive symptomatology - Drepression</measure>
+    <time_frame>Inclusion visit</time_frame>
+    <description>Center for Epidemiological Studies-Drepression scale (CES-D).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nutrition and Lifestyle evaluated</measure>
+    <time_frame>week 12 and week 24</time_frame>
+    <description>Eating habits :The average of 3 recalls of 24 hours at 3-month intervals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Study to the microbiota intestinal, nasal and salivary</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Heterogeneity and diversity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunosenescence mechanism study</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Identification of mechanisms immunosenescence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive performance, assessed through: non-verbal cognition- Mental</measure>
+    <time_frame>inclusion visit</time_frame>
+    <description>episodic memory: Free and Cued Selective Reminding test (FCSRT) (Grober &amp; Buschke test in French)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive performance, assessed through: non-verbal cognition- Mental</measure>
+    <time_frame>inclusion visit</time_frame>
+    <description>Executive functions: Trail Making tests A and B (TMTA and B)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incapacity and dependance</measure>
+    <time_frame>inclusion visit</time_frame>
+    <description>Estriction to mobility (Rosow and Breslow)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incapacity and dependance</measure>
+    <time_frame>inclusion visit</time_frame>
+    <description>Instrumental and basic activities of Daily Living (Lawton, Katz)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incapacity and dependance</measure>
+    <time_frame>inclusion visit</time_frame>
+    <description>Degree of dependency according to french health insurance system (AG.G.I.R)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nutrition and Lifestyle evaluated</measure>
+    <time_frame>week 12 and week 24</time_frame>
+    <description>Physical activity (International Physical Activity Questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nutrition and Lifestyle evaluated</measure>
+    <time_frame>week 12 and week 24</time_frame>
+    <description>other lifestyle factors (smoking and alcohol intakes)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Brain</condition>
+  <condition>Aging</condition>
+  <condition>Cognitive Aging</condition>
+  <condition>Immunosenescence</condition>
+  <condition>Mental Processes</condition>
+  <condition>Mental Disorders</condition>
+  <condition>Neurocognitive Disorders</condition>
+  <condition>Cognition</condition>
+  <condition>Brain Diseases</condition>
+  <condition>Dementia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mental Health</condition>
+  <condition>Behavioral Symptoms</condition>
+  <condition>Depression</condition>
+  <condition>Anxiety</condition>
+  <arm_group>
+    <arm_group_label>Prospective cohort</arm_group_label>
+    <description>The general population from the age of 55.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>Participants will complete a series of three questionnaires at the V1 visit (at home, by a trained interviewer):&#xD;
+A general questionnaire, with collection of general health history and exposure data&#xD;
+A nutritional survey (24-hour recall), that will be repeated by telephone twice at 3-month intervals, at the V4 and V5 visits.&#xD;
+An evaluation of cognitive performance using a validated computerized battery (Cantab®), completed of neuropsychological tests to evaluate dementia syndromes, depressive symptoms and anxiety.</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Fasting blood sampling.</intervention_name>
+    <description>In the morning, during the V2 visit by a nurse at the participant's home. Blood collection will include 8 blood tubes (volume approx.. 35.5 mL), plus 2 additional tubes for 500 participants accepting MRI, for a total volume of blood drawn of 41.5 mL for these participants. For the immunological substudy, a second sample will be taken at a distance (after 4 weeks) for 150 volunteer participants meeting the criteria.</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saliva collection and nasal or nasopharyngeal swab</intervention_name>
+    <description>On the day of the V2 visit, the nurse will collect a volume of saliva that has flowed spontaneously for 5 min in a sterile 40-mL polypropylene tube, and a nasal or nasopharyngeal swab using a specific kit.</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Urine samples</intervention_name>
+    <description>During the V2 visit, the nurse will collect urine samples collected by the participant in the week preceding the appointment, using the equipment provided and kept in the refrigerator.</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Hair and a tonenail (or hand nail) sampling</intervention_name>
+    <description>During the V2 visit, the nurse will collect some hair and a toenail sample from the participant, in a dedicated envelope</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nasal microbiota</intervention_name>
+    <description>Nasal or nasopharyngeal swab</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Measurements</intervention_name>
+    <description>In addition to the samples, anthropometric measurements (weight, height,ead, waist, hip, calf and arm circumferences, subjective evaluation of body shape trajectories over the lifecourse), blood pressure, orthostatic hypotension, walking speed, grip strength, and hearing screening of sarcopenia and Parkinson's syndromes will also be collected by the nurse on the day of the V2 visit.&#xD;
+Analyses may be performed on the biobank samples. These analyses will include metabolite assays (Metabolon®), and may include genotyping for research purposes (without searching for specific genes.</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Neuroimaging</intervention_name>
+    <description>A multi-sequence MRI will be performed at the V3 visit. None of the sequences used will require contrast injection. The MRI sequences used will be: a 3D MPRAGE T1-weighted sequence, a T2-weighted sequence (FLAIR), a diffusion EPI sequence, a magnetization transfer sequence, and a resting state functional MRI BOLD sequence. The total duration of the MRI examination will be approximately 50 minutes.&#xD;
+The MRI will be performed at the Bioimaging Institute on an imager dedicated to research activities (3T Prisma Siemens).During V3 visit, a measurement of skin autofluorescence of advanced glycation products will also be performed</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Medical visit</intervention_name>
+    <description>For the participants with cognitive disorders (evaluated by the neuropsychologist during the V1 visit) or Parkinson's syndrome (evaluated by the nurse during the V2 visit),a complementary visit by a neurologist may be proposed in order to specify the etiology of these disorders and to establish a possible diagnosis and etiology.</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood, urine, saliva, hair, nails and nasopharyngeal swab samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The general population from the age of 55.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For the main study:&#xD;
+&#xD;
+          1. live in Bordeaux metropolitan area,&#xD;
+&#xD;
+          2. be between 55 and 80 years old (included),&#xD;
+&#xD;
+          3. selected in terms of socioeconomic level, according to a sampling strategy by age&#xD;
+             groups and income categories representative of the general population between 55 and&#xD;
+             80 years of age&#xD;
+&#xD;
+          4. be affiliated with the social security system,&#xD;
+&#xD;
+          5. agree to take a blood sample for the biobank.&#xD;
+&#xD;
+        For the MRI sub-study: be between 55 and 70 years old (included). Inclusion criteria for&#xD;
+        the immune response substudy: be 70 years of age or older or participate in the MRI study;&#xD;
+        agree to take a supplemental blood sample for this substudy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        For the main study: persons under guardianship (or more generally under protection), unable&#xD;
+        to give consent to participate.&#xD;
+&#xD;
+        For the MRI sub-study: have a contraindication to MRI examination (pacemaker, a valve&#xD;
+        prosthesis or any other internal electrical/magnetic device; history of neurosurgery or&#xD;
+        aneurysm; claustrophobia; presence of metal fragments in the eyes, brain or spinal cord).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cécilia SAMIERI, Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Bordeaux Population Health Researh Center Inserm</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cécilia SAMIERI, Dr</last_name>
+    <phone>5 57 57 45 15</phone>
+    <phone_ext>+33</phone_ext>
+    <email>cecilia.samieri@u-bordeaux.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital of Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>SAMIERI Cécilia, Dr</last_name>
+      <phone>05 57 57 45 15</phone>
+      <phone_ext>+33</phone_ext>
+      <email>cecilia.samieri@u-bordeaux.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>March 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 1, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 11, 2022</study_first_posted>
+  <last_update_submitted>September 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Epidemiologic Methods</keyword>
+  <keyword>Risk factors</keyword>
+  <keyword>Public Health</keyword>
+  <keyword>Environmental Exposure</keyword>
+  <keyword>Exposome</keyword>
+  <keyword>Dietary Exposure</keyword>
+  <keyword>Diet</keyword>
+  <keyword>Food and Nutrition</keyword>
+  <keyword>Nutritional Status</keyword>
+  <keyword>Metabolomics</keyword>
+  <keyword>Systems biology</keyword>
+  <keyword>Environmental Biomarkers</keyword>
+  <keyword>Inflammation Mediators</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+    <mesh_term>Behavioral Symptoms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

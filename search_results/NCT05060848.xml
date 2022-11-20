@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="973">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05060848</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00000059</org_study_id>
+    <nct_id>NCT05060848</nct_id>
+  </id_info>
+  <brief_title>Plasma Hydrogen Sulfide as a Biomarker for Alzheimer's Disease and Related Dementias</brief_title>
+  <official_title>Plasma Hydrogen Sulfide as a Biomarker for Alzheimer's Disease and Related Dementias</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Louisiana State University Health Sciences Center Shreveport</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Louisiana State University Health Sciences Center Shreveport</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hydrogen sulfide is a signaling molecule that is important for vascular health. Because&#xD;
+      vascular factors such as hypertension and high cholesterol are risk factors for Alzheimer's&#xD;
+      disease and related dementias, we hypothesize that hydrogen sulfide plays an important role&#xD;
+      in brain health as well. We will compare blood levels of hydrogen sulfide across groups of&#xD;
+      people with and without dementia. We will also look at the relationship between hydrogen&#xD;
+      sulfide, cognitive dysfunction and measures of brain microvascular disease examine the&#xD;
+      contribution of hydrogen sulfide to cognitive decline. Our goal is to identify a biomarker of&#xD;
+      vascular dysfunction in dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We have described hydrogen sulfide (H2S), a signaling molecule important in vascular&#xD;
+      homeostasis, as a biomarker of cardiovascular disease. There is accumulating evidence that&#xD;
+      vascular factors such as hypertension, hypercholesterolemia, and type 2 diabetes are&#xD;
+      associated with increased risk of Alzheimer's disease and related dementias (ADRD).&#xD;
+      Furthermore, in the brain, H2S acts as a neurotransmitter/second messenger produced following&#xD;
+      nerve excitation. It also modulates N-methyl-D-aspartate (NMDA) receptors during long term&#xD;
+      potentiation for memory consolidation. Three biochemical forms of reactive sulfur pools&#xD;
+      exist: free H2S, acid-labile (e.g. iron-sulfur clusters) and bound sulfide (e.g. persulfides,&#xD;
+      polysulfides). We hypothesize that H2S becomes dysregulated in ADRD, where vascular and&#xD;
+      cognitive functions are linked. We will use analytical biochemical methods to measure plasma&#xD;
+      H2S and its metabolites, and 3T MRI to evaluate indicators of microvascular disease in ADRD.&#xD;
+      We will compare H2S levels in people with and without cognitive dysfunction consistent with&#xD;
+      ADRD, and determine the specificity and sensitivity of H2S indistinguishing people with and&#xD;
+      without cognitive dysfunction. In addition, because previous studies report differences in&#xD;
+      the incidence and prevalence of ADRD by race and sex, we will compare outcomes across these&#xD;
+      groups as well. Finally, we will examine the potentially mediating role of H2S in the&#xD;
+      relationship between cognitive function and microvascular disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">May 2027</completion_date>
+  <primary_completion_date type="Anticipated">May 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cognitive Outcomes</measure>
+    <time_frame>Prospective, single measurement</time_frame>
+    <description>ADAS Cog score</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Imaging Outcomes</measure>
+    <time_frame>Prospective, single measurement</time_frame>
+    <description>MRI based brain volume measures, FLAIR lesion volume</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood Outcomes</measure>
+    <time_frame>Prospective, single measurement</time_frame>
+    <description>Plasma Hydrogen sulfide including metabolites: free, acid labile, bound and total sulfides.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Demographic Data</measure>
+    <time_frame>Prospective, single measurement</time_frame>
+    <description>Age, Race, Sex, Socioeconomic status</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Comorbidity Data (covariates)</measure>
+    <time_frame>Prospective, single measurement</time_frame>
+    <description>BP, weight, Hx of smoking, diabetes, hypertension, elevated cholesterol</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>ADRD</arm_group_label>
+    <description>Participants in the ADRD group will have a score of greater than or equal to 17 on the ADAS-cog, a paper and pencil test of cognitive function including memory.&#xD;
+Subgroups based on sex and race categories will also be examined.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Participants in the control group will have a score of less than 17 on the ADAS-cog, a paper and pencil test of cognitive function including memory</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        A total of 50 people with a study based diagnosis of AD (ADAS-cog score ≥17) and 50&#xD;
+        controls will be enrolled in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All participants must be aged &gt;55 years with English as the 1⁰ language, with stable&#xD;
+             permitted medications for &lt;4 weeks, geriatric depression scale score &lt;6, visual and&#xD;
+             auditory acuity adequate to perform tests, and history of education excluding&#xD;
+             developmental cognitive abnormalities.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria are history of significant neurologic disease or mental illness,&#xD;
+             unstable medical conditions that could interfere with completion of study, substance&#xD;
+             abuse within 2 years, contraindications to MRI, abnormal findings on MRI, history of&#xD;
+             chronic kidney disease, and investigational agents within 1 month of participation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Elizabeth A Disbrow, PhD</last_name>
+    <phone>3186757184</phone>
+    <email>elizabeth.disbrow@lsuhsc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tyler Reekes, BA</last_name>
+    <phone>3186754932</phone>
+    <email>tyler.reekes@lsuhsc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>LSU Health Shreveport Center for Brain Health</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth A Disbrow, PhD</last_name>
+      <phone>916-600-9672</phone>
+      <email>elizabeth.disbrow@lsuhs.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicola Sullivan</last_name>
+      <phone>3186755409</phone>
+      <phone_ext>Disbrow</phone_ext>
+      <email>nicola.sullivan@lsuhs.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Elizabeth A Disbrow, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christopher Kevil, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Steve Alexander, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Karen Stokes, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Roger Kelley, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Disbrow E, Stokes KY, Ledbetter C, Patterson J, Kelley R, Pardue S, Reekes T, Larmeu L, Batra V, Yuan S, Cvek U, Trutschl M, Kilgore P, Alexander JS, Kevil CG. Plasma hydrogen sulfide: A biomarker of Alzheimer's disease and related dementias. Alzheimers Dement. 2021 Aug;17(8):1391-1402. doi: 10.1002/alz.12305. Epub 2021 Mar 12.</citation>
+    <PMID>33710769</PMID>
+  </results_reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2021</study_first_posted>
+  <last_update_submitted>September 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Louisiana State University Health Sciences Center Shreveport</investigator_affiliation>
+    <investigator_full_name>Elizabeth Disbrow</investigator_full_name>
+    <investigator_title>Professor, Dept. of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>biomarker</keyword>
+  <keyword>vascular disease</keyword>
+  <keyword>sex differences</keyword>
+  <keyword>race differences</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

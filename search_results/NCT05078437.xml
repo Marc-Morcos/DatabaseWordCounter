@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2888">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05078437</url>
+  </required_header>
+  <id_info>
+    <org_study_id>69305</org_study_id>
+    <secondary_id>R24AG064025</secondary_id>
+    <nct_id>NCT05078437</nct_id>
+  </id_info>
+  <brief_title>Assessment of Medication Optimization in Rural Kentucky Appalachian Patients With Mild Cognitive Impairment or Dementia</brief_title>
+  <acronym>AMOR-KY</acronym>
+  <official_title>Assessment of Medication Optimization in Rural Kentucky Appalachian Patients With Mild Cognitive Impairment or Dementia: The AMOR Kentucky Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daniela Moga</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Northern California Institute of Research and Education</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kentucky</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The AMOR-Kentucky study will examine the impact of a pharmacist-physician patient-centered&#xD;
+      medication therapy management deprescribing intervention to address inappropriate medication&#xD;
+      use in patients with cognitive impairment in underserved, lower socioeconomic populations in&#xD;
+      rural Appalachian Kentucky. The results of this study will provide valuable insights on how&#xD;
+      to expand and implement deprescribing interventions using telemedicine to reduce the&#xD;
+      prevalence and the associated healthcare costs of medication-related problems in patients&#xD;
+      with mild cognitive impairment, Alzheimer's disease and other dementias in rural areas&#xD;
+      throughout the US. The investigators will assess the potential use of telemedicine in this&#xD;
+      population by performing an initial single arm, unblinded study of the medication therapy&#xD;
+      management (MTM) describing intervention in rural/underserved Kentucky Appalachian&#xD;
+      populations with cognitive impairment and/or dementia using potentially inappropriate&#xD;
+      medications (n=50). Following initial recruitment and clinical evaluation, engaged&#xD;
+      participants will have their medication list reviewed by a pharmacist-clinician team to&#xD;
+      identify targets for deprescribing intervention. The intervention will be engaged remotely&#xD;
+      with the participant and their caregiver, and the MTM team at 4 weeks post initial&#xD;
+      evaluation, and then reinforced at a 3-month timepoint. This approach will be carried forward&#xD;
+      through a telemedicine practice at University of Kentucky that is comprised of approximately&#xD;
+      500 patient-caregiver dyads throughout rural areas of Appalachian Kentucky.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 14, 2021</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in medication use</measure>
+    <time_frame>3 months and 6 months</time_frame>
+    <description>Medication Appropriateness Index (MAI) and change in number of medications (total number and number of PIM)will be measured as change from baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant satisfaction</measure>
+    <time_frame>6 months</time_frame>
+    <description>Patients and caregivers will be asked to provide feedback on participation in the deprescribing process.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Connectivity issues</measure>
+    <time_frame>3 months and 6 months</time_frame>
+    <description>Participants will be asked to report on any connectivity issues that would impact the appropriate delivery of the intervention using the telemedicine approach.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Deprescribing assessments</measure>
+    <time_frame>6 months</time_frame>
+    <description>The revised Patients Attitudes towards deprescribing (rPATD) will assess attitudes towards deprescribing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver assessment</measure>
+    <time_frame>6 months</time_frame>
+    <description>The appraisal of self-care will be used to asses additional outcomes in caregiver</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive function</measure>
+    <time_frame>6 months</time_frame>
+    <description>The investigators will use the cognitive battery that is incorporated in the telemedicine assessments to explore the impact of the intervention on cognitive function.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Dementia</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Treatment optimization</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will undergo an evaluation of all the medications taken and changes will be proposed for treatment optimization.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Medication therapy management</intervention_name>
+    <description>The proposed deprescribing intervention is using a patient-centered framework by: (1) balancing the risks and benefits, and addressing the specific needs of each individual patient, (2) considering the individual patient and the caregiver's preferences and values, and (3) empowering the patient and the caregiver to take responsibility and fully participate in the decision-making process as equal team players.</description>
+    <arm_group_label>Treatment optimization</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        1. 60 years or older,&#xD;
+&#xD;
+          2. diagnosed with mild cognitive impairment or dementia,&#xD;
+&#xD;
+          3. using at least one potentially inappropriate medications,&#xD;
+&#xD;
+          4. living in the community,&#xD;
+&#xD;
+          5. willing to participate in the study (both the patient and the caregiver)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Daniela C Moga, MD PhD</last_name>
+    <phone>8593239682</phone>
+    <email>daniela.moga@uky.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536-0596</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniela C Moga, MD PhD</last_name>
+      <phone>859-323-9682</phone>
+      <email>daniela.moga@uky.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>September 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>June 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kentucky</investigator_affiliation>
+    <investigator_full_name>Daniela Moga</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>medication optimization</keyword>
+  <keyword>rural population</keyword>
+  <keyword>dementia</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>telemedicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>This trial will be registered with clinicaltrials.gov and all raw data, stripped of identifiers, will be made available to interested parties and researchers with submission of written request to the study PI not sooner than one year after acceptance and publication of the primary manuscript. There will be no charge for release of the dataset.</ipd_description>
+    <ipd_time_frame>not sooner than one year after acceptance and publication of the primary manuscript</ipd_time_frame>
+    <ipd_access_criteria>request submitted to the study PI</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

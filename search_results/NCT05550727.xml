@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2317">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05550727</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00013917</org_study_id>
+    <nct_id>NCT05550727</nct_id>
+  </id_info>
+  <brief_title>The PorchLight Project</brief_title>
+  <official_title>The PorchLight Project</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Lutheran Social Service of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brown University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The University of Texas at Arlington</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed project is a fully embedded pragmatic trial (R01), following an R61 pilot&#xD;
+      collaboration with Lutheran Social Service of Minnesota (LSS-MN).&#xD;
+&#xD;
+      For this project: a) the training program for Senior Companions that was developed in the R61&#xD;
+      Phase will now be delivered as part of a routine onboarding process provided by LSS-MN to all&#xD;
+      senior support volunteers in half of their program regions across Minnesota; LSS-MN will&#xD;
+      offer the PorchLight Project program to all regions and volunteers in the state during the&#xD;
+      final months of the proposed NIA project, consistent with quality improvement approaches; and&#xD;
+      b) LSS-MN will administer regular surveys to volunteers, clients, and their proxies (e.g.,&#xD;
+      family caregivers) as part of ongoing tracking and quality improvement efforts.&#xD;
+&#xD;
+      The University of Minnesota investigators will not collect data nor administer training, as&#xD;
+      these activities will be fully integrated into the workflow of LSS-MN.&#xD;
+&#xD;
+      UNIVERSITY OF MINNESOTA INVOLVEMENT:&#xD;
+&#xD;
+      The University of Minnesota and collaborating investigators outside of LSS-MN will only 1)&#xD;
+      assist in survey item selection, 2) randomize the LSS-MN regions for the initial phases of&#xD;
+      the real-world trial for evaluation purposes, 3) analyze the de-identified data shared by&#xD;
+      LSS-MN, and 4) disseminate the project results in scientific, practice, and policy&#xD;
+      outlets/contexts.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 23, 2022</start_date>
+  <completion_date type="Anticipated">October 12, 2027</completion_date>
+  <primary_completion_date type="Anticipated">October 12, 2027</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>This study doesn't use any drugs or devices and is exempt from IRB approval requirements.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Volunteer Competence [Volunteers only]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>6-items assess the preparedness to provide visiting services for clients with a variety of conditions, including memory loss. This measure was designed for LSS-MN to determine the proportion of volunteers who indicate their level of preparedness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in De Jong Gierveld Scale [Clients only]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>6-items assessing loneliness</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Patient-Reported Outcomes Measurement Information System Global Health Scale [All participants]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>10-items assessing physical health, mental health, and quality of life.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Caregiver Burden [Caregivers only]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>2-items regarding time spent caregiving (days, hours) and 1-item regarding stress associated with caregiving (0-10 scale). These measures were designed for LSS-MN to assess the proportion of caregivers indicating burden.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Program Cost-Effectiveness</measure>
+    <time_frame>12 months</time_frame>
+    <description>Incremental cost-effectiveness ratio (ICER) is the difference between the cost of the PorchLight Project and the usual LSS-MN Caregiver &amp; Companion Services divided by the difference in the benefit (is the person with AD/ADRD's quality-adjusted life-years [QALYs]) between the PorchLight Project and the usual Caregiver &amp; Companion Services.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Self-Efficacy (Fortinsky, Kercher, &amp; Burant) [Caregivers only]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>8-items regarding confidence in caregiving</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Live Well at Home Rapid Screen [Clients only]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>6-items regarding falls, caregiving, living status, and cognition</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in client service use [Caregivers only]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>3-items regarding frequency of overnight hospitalization, emergency department visits, and outpatient visits; checklist of 13-items regarding community based long term service and support use. This measure was designed for LSS-MN to assess the proportion of clients using various services.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Experience/impact/satisfaction related to LSS programming [All participants]</measure>
+    <time_frame>Baseline, 6 months, and 12 months</time_frame>
+    <description>Experience/impact related to LSS programming (Volunteers: 3 quantitative, 1 open-ended item; Clients: 11 quantitative and 1 open-ended item; Family: 5 quantitative for caregiver, 9 quantitative items about care recipient, 1 open-ended item). These items were designed for LSS-MN to assess both the proportion of participants who are satisfied with LSS programming, and to provide qualitative data about their experience.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">171</enrollment>
+  <condition>Memory Loss</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>PorchLight</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PorchLight</intervention_name>
+    <description>The PorchLight Project intervention consists of three components: 1) CARES® Dementia Care Specialist online training modules; 2) a PorchLight Project training course; and 3) monthly check-in sessions.</description>
+    <arm_group_label>PorchLight</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Screening:&#xD;
+&#xD;
+        All screening of volunteers, clients, and caregivers will occur outside of the context of&#xD;
+        this project and in line with standard practices by LSS-MN Caregiver &amp; Companion Service&#xD;
+        programs.&#xD;
+&#xD;
+        The eligibility criteria of volunteers, persons with AD/ADRD, and their caregivers is&#xD;
+        deliberately lax in order to best reflect LSS-MN &quot;routine practice.&quot;&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        1) A Volunteer, client, or proxy involved in the LSS-MN standard Caregiver &amp; Companion&#xD;
+        Program service program.&#xD;
+&#xD;
+        Note: De-identified programmatic and survey data on the volunteers, clients, and proxies&#xD;
+        involved will be shared with the UMN team. While all de-identified data received may be&#xD;
+        analyzed, data analysis is expected to focus on those who meet the following additional&#xD;
+        criteria:&#xD;
+&#xD;
+          1. Volunteers who completed LSS-MN required training components.&#xD;
+&#xD;
+          2. Clients who report memory loss and/or a diagnosis for their memory loss, via the&#xD;
+             LSS-MN surveys.&#xD;
+&#xD;
+          3. Caregivers whose care recipient has memory loss and/or diagnosis for their memory loss&#xD;
+             based on LSS survey responses.&#xD;
+&#xD;
+        Note: When discrepancies in reported memory loss between caregivers and clients occur, data&#xD;
+        from both the caregiver and client will be included and it will be assumed that the client&#xD;
+        has memory loss. Due to the nature of the data, we expect discrepancies to exist and will&#xD;
+        document other decisions made during analysis.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        As data is made available, the UMN research team expects to receive survey data from all&#xD;
+        the clients, caregivers, and volunteers in LSS-MN Caregiver &amp; Companion Services&#xD;
+        programming who complete the surveys. Since LSS-MN administers surveys to every client,&#xD;
+        caregiver, and volunteer involved in their LSS-MN Caregiver &amp; Companion program (as able),&#xD;
+        de-identified data likely will be obtained from individuals who do not meet the&#xD;
+        memory-specific criteria. However, as needed, UMN may choose to exclude one or more of the&#xD;
+        following from analysis. Again, the researcher/research staff best judgement will be used&#xD;
+        when conducting analyses and will document decisions accordingly:&#xD;
+&#xD;
+          1. Clients who do not have memory loss&#xD;
+&#xD;
+          2. Treatment group volunteers not completing required LSS-MN PorchLight program training&#xD;
+&#xD;
+          3. Caregivers who do not indicate presence of memory loss for their care recipient.&#xD;
+&#xD;
+        In addition, any client, caregiver, and volunteer can choose to not complete surveys, so we&#xD;
+        would not have survey data from those individuals, and may continue with routine attempts&#xD;
+        at surveying at the next data collection time-point. Missing surveys may be considered&#xD;
+        during analysis.&#xD;
+&#xD;
+        Please note: Due to the eligibility criteria for volunteers and clients in the LSS-MN&#xD;
+        program, we do not anticipate any data for those under 18 years of age. Although the&#xD;
+        real-world, pragmatic design will allow us to include caregivers under the age of 21, it is&#xD;
+        important to note that LSS-MN's most recent data on caregivers participating in their&#xD;
+        volunteer programs indicate none under the age of 21&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Minnesota (with Lutheran Social Service of Minnesota)</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>August 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 19, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2022</study_first_posted>
+  <last_update_submitted>October 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Memory Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

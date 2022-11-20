@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2212">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05350514</url>
+  </required_header>
+  <id_info>
+    <org_study_id>22-0608</org_study_id>
+    <nct_id>NCT05350514</nct_id>
+  </id_info>
+  <brief_title>Preclinical Imaging Biomarkers of Alzheimer's Disease Neuropathology in Young Adults With Youth-onset Diabetes: a Proof-of-concept Study</brief_title>
+  <official_title>Preclinical Imaging Biomarkers of Alzheimer's Disease Neuropathology in Young Adults With Youth-onset Diabetes: a Proof-of-concept Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>American College of Radiology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of the study is to characterize preclinical Alzheimer's Disease and related&#xD;
+      dementias (AD/ADRD) neuropathology in a selected group of young adults with youth-onset&#xD;
+      diabetes, and an age-similar group of young adults without diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of the current proof-of-concept study is to characterize brain structural,&#xD;
+      functional, and molecular imaging biomarkers of preclinical Alzheimer's Disease and related&#xD;
+      dementias (AD/ADRD) neuropathology in a selected group of young adults with youth-onset&#xD;
+      diabetes (Y-DM; type 1 diabetes [T1D], n=5; type 2 diabetes [T2D], n=5) from the SEARCH for&#xD;
+      Diabetes in Youth study cohort, and an age-similar group of young adults without diabetes&#xD;
+      (n=5). This study will quantify structural and functional imaging biomarkers of AD/ADRD&#xD;
+      neuropathology via magnetic resonance imaging by assessing gray matter (GM) volume/cortical&#xD;
+      thickness, as well as GM and white matter (WM) microstructure, resting state functional&#xD;
+      network connectivity (rsfMRI), and cerebral blood flow (CBF) and WM hyperintensity volume.&#xD;
+      This study will additionally quantify brain tau density via positron emission tomography as&#xD;
+      the gold-standard measure of preclinical AD/ADRD neuropathology.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 19, 2022</start_date>
+  <completion_date type="Anticipated">May 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Temporal lobe volume in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Voxel-based morphometry via Sagittal 3D Accelerated MPRAGE/IRSPGR</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Temporal lobe cortical thickness in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Voxel-based morphometry via Sagittal 3D Accelerated MPRAGE/IRSPGR</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Whole brain white matter hyperintensities volume in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Structural cerebrovascular disease via Sagittal 3D FLAIR</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Regional homogeneity of the default mode network in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Resting-state functional connectivity via Axial T2* EPI fcMRI</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Whole brain cerebral blood flow in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Cerebral blood flow or perfusion via Axial 3D pCASL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Whole brain fractional anisotropy in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Gray matter and white matter microstructure via Diffusion Kurtosis Imaging</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standardized uptake value ratio for hippocampal to cerebellar comparison in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Tau accumulation via positron emission tomography with PI-2620 radiotracer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standardized uptake value ratio for entorhinal to cerebellar comparison in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Tau accumulation via positron emission tomography with PI-2620 radiotracer</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standardized uptake value ratio for cerebral to cerebellar comparison in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Tau accumulation via positron emission tomography with PI-2620 radiotracer</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Whole brain gray matter volume in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Voxel-based morphometry via Sagittal 3D Accelerated MPRAGE/IRSPGR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Whole brain white matter volume in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Voxel-based morphometry via Sagittal 3D Accelerated MPRAGE/IRSPGR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perivascular space in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Structural cerebrovascular disease via Sagittal 3D FLAIR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Atlas based region of interest cerebral blood flow in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Cerebral blood flow via Axial 3D pCASL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Atlas based region of interest fractional anisotropy in young adults with Type 1 diabetes, Type 2 diabetes, and young adults without diabetes</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Gray matter and white matter microstructure via Diffusion Kurtosis Imaging</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Diabetes Mellitus, Type 1</condition>
+  <condition>Diabetes Mellitus, Type 2</condition>
+  <condition>Diabetes, Youth Onset</condition>
+  <arm_group>
+    <arm_group_label>T1D</arm_group_label>
+    <description>Young adults with youth-onset type 1 diabetes (n=5) from the SEARCH for Diabetes in Youth study cohort</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>T2D</arm_group_label>
+    <description>Young adults with youth-onset type 2 diabetes (n=5) from the SEARCH for Diabetes in Youth study cohort</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NDM</arm_group_label>
+    <description>Age-similar group of young adults without diabetes (n=5)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PI-2620 tracer</intervention_name>
+    <description>Following published manufacturer guidelines for Flutemetamol (VizamylTM), Flortaucipir (TauvidTM) and PI-2620 tracer administration162, all participants will be given a 370 MBq (10 mCi) single intravenous bolus (total volume 10mL) of the radiotracer, followed with an intravenous flush of 0.9% sodium chloride injection. Radiotracer administration and participant monitoring will be conducted by trained personnel from the CU-RIC.</description>
+    <arm_group_label>NDM</arm_group_label>
+    <arm_group_label>T1D</arm_group_label>
+    <arm_group_label>T2D</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will consist of young adults with youth-onset type 1 diabetes and type&#xD;
+        2 diabetes from the SEARCH for Diabetes in Youth study cohort, and an age-similar group of&#xD;
+        young adults (18-40 years old) without diabetes.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Part of the SEARCH for Diabetes in Youth study cohort or&#xD;
+&#xD;
+          -  Age 18-40&#xD;
+&#xD;
+          -  Without diabetes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Head trauma with loss of consciousness &gt;30 minutes&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+&#xD;
+          -  Metal in the body&#xD;
+&#xD;
+          -  Major psychiatric disorder (eg. schizophrenia, bipolar, and major depression)&#xD;
+&#xD;
+          -  Neurological conditions affecting cognition (eg. epilepsy)&#xD;
+&#xD;
+          -  Stroke&#xD;
+&#xD;
+          -  If female, breastfeeding, plan to become pregnant or are pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Allison Shapiro, PhD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado - Anschutz Medical Campus</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Christopher T Whitlow, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest University Health Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer Truong, MPH</last_name>
+    <phone>3037247703</phone>
+    <email>jennifer.truong@cuanschutz.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Allison Shapiro, PhD, MPH</last_name>
+    <phone>3037241148</phone>
+    <email>allison.shapiro@cuanschutz.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Lifecourse Epidemiology of Adiposity and Diabetes Center</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Testaverde, MS</last_name>
+      <phone>303-724-7700</phone>
+      <email>lisa.testaverde@cuanschutz.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>April 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 21, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 28, 2022</study_first_posted>
+  <last_update_submitted>October 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diabetes Mellitus, Type 1</keyword>
+  <keyword>Diabetes Mellitus, Type 2</keyword>
+  <keyword>Diabetes, Youth Onset</keyword>
+  <keyword>Magnetic Resonance Imaging</keyword>
+  <keyword>Positron Emission Tomography Imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 2</mesh_term>
+    <mesh_term>Diabetes Mellitus, Type 1</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

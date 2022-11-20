@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1459">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077826</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-203</org_study_id>
+    <nct_id>NCT05077826</nct_id>
+  </id_info>
+  <brief_title>Enhancing Memory in Mild Cognitive Impairment and Early Stage Alzheimer's Disease</brief_title>
+  <acronym>MEMORI</acronym>
+  <official_title>Modern Energetic Methods of Response Improvement (MEMORI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Mind Research Network</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Mind Research Network</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigators have developed a low-risk transcranial Electrical Stimulation (tES)&#xD;
+      treatment that has improved learning and performance in young adults up to nearly 4 times&#xD;
+      when compared with a sham control. This randomized pilot trial will determine if this same&#xD;
+      tES protocol improves memory in older adults (50-90 years old) who are healthy, and&#xD;
+      separately in older adults with mild cognitive impairment (MCI) or early stage Alzheimer's&#xD;
+      disease (AD). TES will be applied to the right temple and left arm for up to 40 minutes. MRI&#xD;
+      images, along with other measures, may be obtained before and after tES. If effective, this&#xD;
+      intervention may help to improve the quality of life for AD patients and their families.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Learning Task Performance</measure>
+    <time_frame>Within one hour after treatment</time_frame>
+    <description>Performance accuracy on a complex visual learning and categorization task after full-current tES in comparison to partial-current tES.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Full Current tES</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TES delivered with the anode over the right temple and cathode on the left arm, at an intensity of up to 4 milliamps, delivered for up to 40 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Partial Current tES</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>TES delivered with the anode over the right temple and cathode on the left arm, at an intensity of 0.1 milliamp, delivered for up to 40 minutes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>North Coast Medical Activadose II</intervention_name>
+    <description>tES device model Activadose II (North Coast Medical, Morgan Hill, CA, USA) programed to deliver tES.</description>
+    <arm_group_label>Full Current tES</arm_group_label>
+    <arm_group_label>Partial Current tES</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Inclusion criteria for healthy participants:&#xD;
+&#xD;
+          1. 50-90 years of age, as verified via photo identification with date of birth.&#xD;
+&#xD;
+          2. Should be right-handed and learned English by seven years old.&#xD;
+&#xD;
+          3. Generally healthy&#xD;
+&#xD;
+        Inclusion criteria for participants with MCI or AD:&#xD;
+&#xD;
+          1. 50-90 years of age, as verified via photo identification with date of birth.&#xD;
+&#xD;
+          2. Should be right-handed and learned English by seven years old.&#xD;
+&#xD;
+          3. Is legally able to sign the consent form on their own behalf, or has a legally&#xD;
+             authorized representative that is able to sign.&#xD;
+&#xD;
+          4. Has a caregiver that can assist with taking health history.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Exclusion criteria for healthy participants:&#xD;
+&#xD;
+          1. Significant history of psychiatric disorders or current psychosis including&#xD;
+             self-report or Geriatric Depression Scale short form score-GDS &gt;5 if uncertain.&#xD;
+&#xD;
+          2. Current excessive drug, alcohol or nicotine use defined by participant self-report.&#xD;
+&#xD;
+          3. History of epilepsy, migraines, severe stroke, or traumatic brain injury.&#xD;
+&#xD;
+          4. Taking medications with significant psychotropic effects.&#xD;
+&#xD;
+          5. Severe sensory impairment.&#xD;
+&#xD;
+          6. Severe chronic illness where participation in the study could put participants at an&#xD;
+             unusual level of risk. Chronic conditions will be evaluated on a case by case basis as&#xD;
+             they arise.&#xD;
+&#xD;
+          7. Severe subjective cognitive concerns.&#xD;
+&#xD;
+          8. Requires a helper animal.&#xD;
+&#xD;
+          9. Has sufficient prior experience with neurostimulation that might unblind or alter the&#xD;
+             results.&#xD;
+&#xD;
+         10. Has metal or electronic implants that may be sensitive to stimulation or could&#xD;
+             interfere with stimulation or be an MRI contraindication, or has any other MRI&#xD;
+             contraindication.&#xD;
+&#xD;
+         11. Has sensitivity to components of tES electrodes being used (typically nickel or&#xD;
+             latex).&#xD;
+&#xD;
+         12. Feels ill or have any potential COVID-19 symptoms, such as fever or chills, cough,&#xD;
+             difficulty breathing, overly tired, unusual aches or pains including headache or sore&#xD;
+             throat, recent or unusual (for them) loss of taste or smell, congestion or runny nose,&#xD;
+             nausea or diarrhea.&#xD;
+&#xD;
+        Exclusion criteria for participants with MCI or AD:&#xD;
+&#xD;
+          1. Significant history of psychiatric disorders or current psychosis not related to a&#xD;
+             neurodegenerative condition.&#xD;
+&#xD;
+          2. Current excessive drug, alcohol or nicotine use.&#xD;
+&#xD;
+          3. Significant history of epilepsy, stroke, or traumatic brain injury.&#xD;
+&#xD;
+          4. Taking medications with significant psychotropic effects, not related to&#xD;
+             neurodegenerative condition&#xD;
+&#xD;
+          5. Severe sensory impairment&#xD;
+&#xD;
+          6. Severe chronic illness where participation in the study could put participants at an&#xD;
+             unusual level of risk. Chronic conditions will be evaluated on a case by case basis as&#xD;
+             they arise.&#xD;
+&#xD;
+          7. Requires a helper animal.&#xD;
+&#xD;
+          8. Has sufficient prior experience with neurostimulation that might unblind or alter the&#xD;
+             results.&#xD;
+&#xD;
+          9. Has metal or electronic implants that may be sensitive to stimulation or could&#xD;
+             interfere with stimulation.&#xD;
+&#xD;
+         10. Has sensitivity to components of tES electrodes being used (typically nickel or&#xD;
+             latex).&#xD;
+&#xD;
+         11. Feels ill or have any potential COVID-19 symptoms, such as fever or chills, cough,&#xD;
+             difficulty breathing, overly tired, unusual aches or pains including headache or sore&#xD;
+             throat, unusual loss of taste or smell, or unusual (for them) congestion or runny&#xD;
+             nose, nausea or diarrhea.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vincent Clark, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of New Mexico</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Research Assistant</last_name>
+    <phone>(505) 221-6884</phone>
+    <email>MEMORISTUDY@MRN.ORG</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Mind Research Network</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent P Clark</last_name>
+      <phone>505-272-4936</phone>
+      <email>vclark@unm.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>September 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>August 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dementia</keyword>
+  <keyword>Memory</keyword>
+  <keyword>Transcranial direct current stimulation (tDCS)</keyword>
+  <keyword>Magnetic resonance imaging (MRI)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

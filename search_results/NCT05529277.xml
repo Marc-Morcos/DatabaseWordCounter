@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2551">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05529277</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GR025</org_study_id>
+    <secondary_id>ZMI1-2521FSB907</secondary_id>
+    <secondary_id>BB110/22</secondary_id>
+    <nct_id>NCT05529277</nct_id>
+  </id_info>
+  <brief_title>Implementing Dementia Care Management Into Routine Care in the Region Siegen-Wittgenstein</brief_title>
+  <acronym>RoutineDeCM</acronym>
+  <official_title>Dementia Care Management in Der Routineversorgung am Beispiel Der Region Siegen-Wittgenstein (RoutineDeCM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>German Center for Neurodegenerative Diseases (DZNE)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Siegen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gesundheitsregion Siegerland eG (GRS)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alzheimer Gesellschaft Siegen-Wittgenstein eV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kreisklinikum Siegen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Caritasverband Siegen-Wittgenstein eV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>German Center for Neurodegenerative Diseases (DZNE)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dementia Care Management (DeCM) is an evidence-based model of care in Germany. It has proven&#xD;
+      its efficacy and cost-effectiveness. However it has not been implemented into routine care so&#xD;
+      far.&#xD;
+&#xD;
+      The aim of this trial is to implement Dementia Care Management into routine care in a&#xD;
+      selected region in Germany and evaluate the process of implementation as well as the effect&#xD;
+      of Dementia Care Management on participants.&#xD;
+&#xD;
+      Recruited in regular routine care n=60 people with cognitive impairment and/ or their cares&#xD;
+      will receive Dementia Care Management provided by specifically trained and qualified dementia&#xD;
+      care managers for 6 months.&#xD;
+&#xD;
+      Data will be assessed and analysed prior to the implementation, immediately after having&#xD;
+      received the intervention and at a later time point.&#xD;
+&#xD;
+      The effect of the intervention on person-oriented health care outcomes wil be analysed as&#xD;
+      well as factors associated with that.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>unmet needs</measure>
+    <time_frame>6 months after baseline assessment</time_frame>
+    <description>generic standardized assessment implemented as computer-assisted intervention management system (CMS) addresses caregiver burden, medical needs, home care needs, psychosocial needs (depression, sleep quality, pain, hearing, seeing, teeth problems, dementia related problems caused by PwD, medical aids). Adding the needs indicated provides a number of unmet needs.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>unmet needs</measure>
+    <time_frame>12 months after baseline assessment</time_frame>
+    <description>generic standardized assessment implemented as computer-assisted intervention management system (CMS) addresses caregiver burden, medical needs, home care needs, psychosocial needs (depression, sleep quality, pain, hearing, seeing, teeth problems, dementia related problems caused by PwD, medical aids). Adding the needs indicated provides a number of unmet needs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Antidementia drug treatment</measure>
+    <time_frame>12 months after baseline assessment</time_frame>
+    <description>A computer-based home medication review (HMR) encompasses all medications used by the study participants and includes questions about compliance, adverse effects and drug administration. The collection of primary data on medication in the context of the HMR includes both prescription drugs and over-the-counter drugs. The assignment was then integrated using a master file of the Pharmaceutical Index. The following antidementia drugs will be considered: donepezil (N06AD02), rivastigmine (N06AD03), galantamine (N06AD04) and memantine (N06AX01)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antidementia drug treatment</measure>
+    <time_frame>6 months after baseline assessment</time_frame>
+    <description>A computer-based home medication review (HMR) encompasses all medications used by the study participants and includes questions about compliance, adverse effects and drug administration. The collection of primary data on medication in the context of the HMR includes both prescription drugs and over-the-counter drugs. The assignment was then integrated using a master file of the Pharmaceutical Index. The following antidementia drugs will be considered: donepezil (N06AD02), rivastigmine (N06AD03), galantamine (N06AD04) and memantine (N06AX01)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Symptoms</measure>
+    <time_frame>6 months after baseline assessment</time_frame>
+    <description>Neuropsychiatric Inventory (NPI; Cummings 1997); The NPI represents an interview by proxy on twelve dimensions of neuropsychiatric behaviors, i.e. delusions, hallucinations, agitation, dysphoria, anxiety, apathy, irritability, euphoria, disinhibition, aberrant motor behavior, night-time behavior disturbances, and appetite and eating abnormalities. The presence (0= no, 1= yes) is asked. If present, the severity (rated 1 through 3; mild to severe) and frequency (1 to 4, rarely to very often) of each neuropsychiatric symptom are rated on. Thus the score for each dimension ranges from 0 = not present, 1= mildly and rarely to 12 = severe and often. A total NPI score is calculated as the sum of the frequency by severity scores ofeach domain range: 0 to 144, the higher the more neuropsychiatric symptomatic).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Symptoms</measure>
+    <time_frame>12 months after baseline assessment</time_frame>
+    <description>Neuropsychiatric Inventory (NPI; Cummings 1997); The NPI represents an interview by proxy on twelve dimensions of neuropsychiatric behaviors, i.e. delusions, hallucinations, agitation, dysphoria, anxiety, apathy, irritability, euphoria, disinhibition, aberrant motor behavior, night-time behavior disturbances, and appetite and eating abnormalities. The presence (0= no, 1= yes) is asked. If present, the severity (rated 1 through 3; mild to severe) and frequency (1 to 4, rarely to very often) of each neuropsychiatric symptom are rated on. Thus the score for each dimension ranges from 0 = not present, 1= mildly and rarely to 12 = severe and often. A total NPI score is calculated as the sum of the frequency by severity scores ofeach domain range: 0 to 144, the higher the more neuropsychiatric symptomatic).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver Burden</measure>
+    <time_frame>6 months after baseline assessment</time_frame>
+    <description>The revised version of the Zarit-Burden Inventory (ZBI; Zarit et al., 1980) will be used.The revised version ZBI is a caregiver self-report measure to examine burden which is associated with functional/behavioural impairments and home care situation. It contains 22 items using a 5-point scale. Response options range from 0 (Never) to 4 (Nearly Always).Total scores range from 0 indicating low burden to 88 indicating high burden.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver Burden</measure>
+    <time_frame>12 months after baseline assessment</time_frame>
+    <description>The revised version of the Zarit-Burden Inventory (ZBI; Zarit et al., 1980) will be used.The revised version ZBI is a caregiver self-report measure to examine burden which is associated with functional/behavioural impairments and home care situation. It contains 22 items using a 5-point scale. Response options range from 0 (Never) to 4 (Nearly Always).Total scores range from 0 indicating low burden to 88 indicating high burden.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>cognition</measure>
+    <time_frame>6 months after baseline assessment</time_frame>
+    <description>The Mini Mental State Examination (MMSE; Cockrell &amp; Folstein, 1988) will be used. The MMSE is a 30-point questionnaire to measure cognitive impairment. The questions are grouped into seven categories, each representing a different cognitive domain or function: Orientation to time (5 points); Orientation to place (5 points); Registration of three words (3 points); Attention and Calculation (5 points); Recall of three words (3 points); Language (8 points) and Visual Construction (1 point). Scores of 25-30 out of 30 are considered normal; 21-24 as mild, 10-20 as moderate and &lt;10 as severe impairment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>cognition</measure>
+    <time_frame>12 months after baseline assessment</time_frame>
+    <description>The Mini Mental State Examination (MMSE; Cockrell &amp; Folstein, 1988) will be used. The MMSE is a 30-point questionnaire to measure cognitive impairment. The questions are grouped into seven categories, each representing a different cognitive domain or function: Orientation to time (5 points); Orientation to place (5 points); Registration of three words (3 points); Attention and Calculation (5 points); Recall of three words (3 points); Language (8 points) and Visual Construction (1 point). Scores of 25-30 out of 30 are considered normal; 21-24 as mild, 10-20 as moderate and &lt;10 as severe impairment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>frailty</measure>
+    <time_frame>6 months after baseline assessment</time_frame>
+    <description>Frailty will be assessed using the Edmonton frailty scale (EFS; Rolfson et al. 2006) will be used. The EFS is reliable tool in geriatric medicine to assess the frailty of older patients on the domains Cognition, General health status, Functional independence, Social support, Medication use, Nutrition, Mood, Continence and Functional performance.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>frailty</measure>
+    <time_frame>12 months after baseline assessment</time_frame>
+    <description>Frailty will be assessed using the Edmonton frailty scale (EFS; Rolfson et al. 2006) will be used. The EFS is reliable tool in geriatric medicine to assess the frailty of older patients on the domains Cognition, General health status, Functional independence, Social support, Medication use, Nutrition, Mood, Continence and Functional performance.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>(health-related) quality of life</measure>
+    <time_frame>6 months after baseline assessment</time_frame>
+    <description>Quality of life will be assessed using the EQ-5D, a standardized measure of health status developed by the EuroQol Group in order to provide a simple, generic measure of health for clinical and economic appraisal.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>(health-related) quality of life</measure>
+    <time_frame>12 months after baseline assessment</time_frame>
+    <description>Quality of life will be assessed using the EQ-5D, a standardized measure of health status developed by the EuroQol Group in order to provide a simple, generic measure of health for clinical and economic appraisal.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Dementia</condition>
+  <condition>Dementia Alzheimers</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Care Management</condition>
+  <arm_group>
+    <arm_group_label>Dyad of person with cognitive impairment and caregiver</arm_group_label>
+    <description>Households identified in routine care receiving a home-based Dementia Care Management.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Dementia Care Management</intervention_name>
+    <description>Comprehensive assessment of health care needs of person with cognitive impairment and caregiver followed by algorithm-/ and person-based support in health care planning, implementing and monitoring</description>
+    <arm_group_label>Dyad of person with cognitive impairment and caregiver</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People identified in routine care that have a cognitive impairment or live as carerer in a&#xD;
+        household with a person with cognitive impairment&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  person with cognitive impairment living in household&#xD;
+&#xD;
+          -  living in the region of Siegen-Wittgenstein&#xD;
+&#xD;
+          -  written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  institutionalisation of person with cognitive impairment&#xD;
+&#xD;
+          -  lacking sufficient communication skills&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jochen René Thyrian, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>German Center for Neurodegenerative Diseases (DZNE)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bernhard Holle, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>German Center for Neurodegenerative Diseases (DZNE)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jochen René Thyrian, Prof. Dr.</last_name>
+    <phone>+49383486</phone>
+    <phone_ext>7592</phone_ext>
+    <email>rene.thyrian@dzne.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Melanie Boekholt</last_name>
+    <phone>+49383486</phone>
+    <phone_ext>7593</phone_ext>
+    <email>melanie.boekholt@dzne.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE)</name>
+      <address>
+        <city>Greifswald</city>
+        <state>MV</state>
+        <zip>17489</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Siegen</name>
+      <address>
+        <city>Siegen</city>
+        <state>NRW</state>
+        <zip>57068</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Caritasverband Siegen-Wittgenstein eV</name>
+      <address>
+        <city>Siegen</city>
+        <state>NRW</state>
+        <zip>57072</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Charlotte Boes</last_name>
+    </contact>
+    <investigator>
+      <last_name>Charlotte Boes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer Gesellschaft Siegen-Wittgenstein eV</name>
+      <address>
+        <city>Siegen</city>
+        <state>NRW</state>
+        <zip>57076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stefanie Kremer</last_name>
+    </contact>
+    <investigator>
+      <last_name>Stefanie Kremer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kreisklinikum Siegen, Kliniken für Neurologie und Psychiatrie</name>
+      <address>
+        <city>Siegen</city>
+        <state>NRW</state>
+        <zip>57076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Martin Grond, Prof.Dr.</last_name>
+    </contact>
+    <investigator>
+      <last_name>Martin Grond, Prof. Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Deutsches Zentrum für Neurodegenerative Erkrankungen (DZNE)</name>
+      <address>
+        <city>Witten</city>
+        <state>NRW</state>
+        <zip>58453</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>August 26, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 7, 2022</study_first_posted>
+  <last_update_submitted>September 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

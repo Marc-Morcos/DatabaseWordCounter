@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2476">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04701177</url>
+  </required_header>
+  <id_info>
+    <org_study_id>altoidaML02</org_study_id>
+    <secondary_id>GR-00546</secondary_id>
+    <nct_id>NCT04701177</nct_id>
+  </id_info>
+  <brief_title>Digitally-enhanced, Decentralized, Multi-omics Observational Cohort</brief_title>
+  <acronym>ANANEOS</acronym>
+  <official_title>Precision Medicine Initiative Against Alzheimer's Disease (PMIAAD): Digitally-enhanced, Decentralized, Multi-omics, Observational Cohort</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Altoida</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ionio University, Greece</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Greek Association Against Alzheimer's disease and related disorders</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Altoida</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is carried out as part of the GR2021 Priority project &quot;Healthy Brains for life (Age&#xD;
+      20-99): Digitally-enhanced personalized medicine study ANANEOS&quot; and code numbered GR-00546&#xD;
+      and it will look at the decentralized and remote assessment of the symptoms of preclinical&#xD;
+      stages in Alzheimer's disease and movement disorders, e.g. Parkinson's. For this study we are&#xD;
+      looking for participants aged over 45 without cognitive complaints or with subjective&#xD;
+      perception of cognitive decline or with mild cognitive complaints. Specific aims for the&#xD;
+      proposed study: a) to develop novel sensitive measures that can provide an early&#xD;
+      identification of those SCD and MCI individuals harboring AD pathology that are at high risk&#xD;
+      of cognitive worsening over time; b) to track pre-motor stages in Parkinson's disease and&#xD;
+      trials that enable active digital functional biomarkers; c) to track disease progression&#xD;
+      during pre-dementia and pre-motor stages in clinical practice and trials with measures that&#xD;
+      enable to capture subtle changes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Digital technologies, particularly those based on the use of smartphones, wearables and/or&#xD;
+      home-based monitoring devices, here defined as 'Remote Measurement Technologies' (RMTs),&#xD;
+      provide an opportunity to change radically the way in which functional assessment is&#xD;
+      undertaken in AD, RMTs have the potential to obtain better measurements of behavioural and&#xD;
+      biological parameters associated with individual Activities of Daily Living (ADL) when&#xD;
+      compared to the current subjective scales or questionnaires. Divergence from normative ADL&#xD;
+      profiles could objectively indicate the presence of specific incipient functional impairments&#xD;
+      even at the very early stages of AD.&#xD;
+&#xD;
+      Therefore, the main hypothesis of this project is that RMTs should allow the detection of&#xD;
+      impairments in functional components of ADLs that occur below the threshold of clinical scale&#xD;
+      detection or disability questionnaires.&#xD;
+&#xD;
+      ANANEOS is an independent Brain Registry (patient registry), created as an organized system&#xD;
+      to collect uniform data (clinical and other) to evaluate specified outcomes for the&#xD;
+      Neurological Progression Index (NPI) and serves as a real-world view of clinical practice,&#xD;
+      patient outcomes, safety, and can serve a number of evidence development and decision making&#xD;
+      purposes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">March 15, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2026</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>Establish standardized protocols for acquisition, transfer &amp; analysis of clinical, digital, imaging, biologic and genetic data that can be used in the AD &amp; PD research community.</measure>
+    <time_frame>baseline to 60 months</time_frame>
+    <description>This protocol will build on the existing Greek Brain Registry infrastructure</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comprehensive and uniformly acquired dataset</measure>
+    <time_frame>baseline to 60 months</time_frame>
+    <description>Develop a comprehensive and uniformly acquired clinical, digital and imaging dataset and repository of biological and genetic samples that would be available to the PD research community to test hypotheses of the underlying molecular pathobiology of PD, enable modeling of PD progression to identify clinical and/or data driven PD progression sub-sets, and inform studies testing PD therapeutics (for examples, clinical trials targeting synuclein, LRRK2, GBA as well as other targets)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Diagnostic Area Under the Receiver Operating Characteristic Curve (ROC-AUC)</measure>
+    <time_frame>60 months of follow up</time_frame>
+    <description>The machine learning models capturing voice data, hands micromovements &amp; micro-errors, posture changes, eye tracking, visuospatial navigation micro-errors and spatio-temporal gait parameters developed for the Altoida system will be tested in this prospective cohort. Sensitivity, specificity and accuracy of the model will be tested in differential diagnosis between the study groups as well as the accuracy of predicting cognitive trajectories as measured by neuropsychological test battery in both groups.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Establish the probability of phenoconversion to PD</measure>
+    <time_frame>study intervals ranging from baseline to 60 months</time_frame>
+    <description>Evaluate the probability of phenoconversion to PD for individuals with prodromal PD enrolled in the prodromal cohorts (including individuals with RBD, olfactory loss, a LRRK2, GBA, SNCA or rare genetic mutations (such as Parkin or Pink1) and/ or other risk factors for PD with and without DAT deficit).</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">100000</enrollment>
+  <condition>Presymptomatic Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Memory Loss (Excluding Dementia)</condition>
+  <condition>Cognitive Change</condition>
+  <condition>Dementia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Parkinson's Disease and Parkinsonism</condition>
+  <arm_group>
+    <arm_group_label>Subjective cognitive decline (SCD)</arm_group_label>
+    <description>subjective perception of cognitive decline in the absence of cognitive impairment in formal neuropsychological assessment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild cognitive impairment (MCI)</arm_group_label>
+    <description>Single or multidomain cognitive deficits with preservation of activities of daily living.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prodromal Parkinson's Disease</arm_group_label>
+    <description>Parkinson's disease (PD) has a prodromal phase during which nonmotor clinical features as well as physiological abnormalities may be present.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>AltoidaML</intervention_name>
+    <description>Computerized Complex Instrumental Activities of Daily Living Marker (NMI) (AltoidaML). ClinicalTrials.gov Identifier: NCT02843529</description>
+    <arm_group_label>Mild cognitive impairment (MCI)</arm_group_label>
+    <arm_group_label>Prodromal Parkinson's Disease</arm_group_label>
+    <arm_group_label>Subjective cognitive decline (SCD)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole exome sequencing and GWAS analysis from buccal swab or saliva swab. For a subset of&#xD;
+      3'000 deeper phenotyped individuals, the DNA would be extracted from blood.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study is a decentralized, observational, digital assessment cohort study in healthy&#xD;
+        volunteers with negative AD biomarkers as control, subjects with preclinical AD and MCI due&#xD;
+        to AD dementia.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for Cohort participants:&#xD;
+&#xD;
+          -  Male or female over 45 years of age.&#xD;
+&#xD;
+          -  Subject is seen at a memory clinic or is part of an observational study.&#xD;
+&#xD;
+          -  An informant (caregiver/family member) is available to collaborate.&#xD;
+&#xD;
+          -  Diagnosis of individuals in the AD biological continuum with evidence of amyloid-beta&#xD;
+             accumulation based on the presence of Aβ load AD biomarkers (either in CSF or PET&#xD;
+             scan), MMSE, CDR score and cognitive tests as defined by the Guidance document of EMA&#xD;
+             (2016) or FDA (2018):&#xD;
+&#xD;
+          -  preclinical AD: MMSE≥27 and CDR=0, either none or borderline cognitive deficits&#xD;
+             (compatible with FDA stages 1 and 2, with positive AD biomarkers). Patients reporting&#xD;
+             subjective cognitive decline who meet the criteria above are eligible for assignment&#xD;
+             to the preclinical AD group.&#xD;
+&#xD;
+          -  prodromal AD/MCI due to AD: MMSE &gt;23, CDR=0.5, impairment on cognitive testing with&#xD;
+             RBANS (compatible with stage 3 FDA, with positive AD biomarkers).&#xD;
+&#xD;
+          -  Prodromal PD: Male or female age 60 years or older (except age 30 years or older for&#xD;
+             SNCA, or rate genetic mutations (such as Parkin or Pink1) participants).&#xD;
+&#xD;
+          -  Individuals taking any of the following drugs: alpha methyldopa, methylphenidate,&#xD;
+             amphetamine derivatives or modafinil, must be willing and medically able to hold the&#xD;
+             medication for at least 5 half-lives before DaTscan imaging.&#xD;
+&#xD;
+          -  Informed consent signed by the subject and informant.&#xD;
+&#xD;
+          -  Informant should be able to read and communicate in the language of the recruitment&#xD;
+             centre and available to actively engage in tests and questionnaires.&#xD;
+&#xD;
+          -  Subject and the informant own a smartphone.&#xD;
+&#xD;
+        Inclusion Criteria for Healthy volunteers:&#xD;
+&#xD;
+          -  Male or female over 45 years of age.&#xD;
+&#xD;
+          -  Individuals with no evidence of amyloid-beta accumulation based on the presence of Aβ&#xD;
+             load AD biomarkers (either in CSF or PET scan).&#xD;
+&#xD;
+          -  Approximately age and gender matched to AD subjects on a group level.&#xD;
+&#xD;
+          -  An informant is available to collaborate.&#xD;
+&#xD;
+          -  MMSE &gt;27, CDR=0.&#xD;
+&#xD;
+          -  In otherwise good health conditions, or with diagnosis mild chronic disorders (of&#xD;
+             metabolic, respiratory, immunological, cardiologic, and metabolic origin) or any other&#xD;
+             affections that are controlled by the therapy and do not importantly limit ADLs or&#xD;
+             social interactions.&#xD;
+&#xD;
+          -  Able to read and to communicate in the language of the recruitment centre.&#xD;
+&#xD;
+          -  nformed consent signed by the subject and caregiver.&#xD;
+&#xD;
+          -  Subject and informant own a smartphone.&#xD;
+&#xD;
+        Exclusion Criteria for Cohort participants:&#xD;
+&#xD;
+          -  Presence of an additional neurological or psychiatric disease that may affect ADL,&#xD;
+             cognitive function or social interactions.&#xD;
+&#xD;
+          -  Clinical diagnosis of PD, other parkinsonism, or dementia.&#xD;
+&#xD;
+          -  Received any of the following drugs: dopamine receptor blockers (neuroleptics),&#xD;
+             metoclopramide and reserpine within 6 months of Screening visit.&#xD;
+&#xD;
+          -  Current treatment with anticoagulants (e.g. coumadin, heparin) that might preclude&#xD;
+             safe completion of the lumbar puncture.&#xD;
+&#xD;
+          -  Abnormal VB12 value.&#xD;
+&#xD;
+          -  Any other kind of disorders that relevantly affect mobility and/or ADL, cognitive&#xD;
+             function or social interactions (e.g., immune-mediated inflammatory disorders,&#xD;
+             recovery from recent trauma, stroke, etc.).&#xD;
+&#xD;
+          -  TSH above normal range&#xD;
+&#xD;
+          -  T3 or T4 outside normal range with clinically significant.&#xD;
+&#xD;
+        Exclusion Criteria for Healthy volunteers:&#xD;
+&#xD;
+          -  Presence of an additional neurological or psychiatric disease that may affect ADL,&#xD;
+             cognitive function or social interactions.&#xD;
+&#xD;
+          -  Diagnosis of any disorders or post traumatic conditions that are not fully controlled&#xD;
+             by the therapy and produce relevant limitations of ADL, cognitive function or social&#xD;
+             interactions.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Panagiotis Vlamos, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Bioinformatics and Human Electrophysiology Laboratory, Department of Informatics, Ionian University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ionian University</name>
+      <address>
+        <city>Corfu</city>
+        <zip>49100</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Greece</country>
+  </location_countries>
+  <reference>
+    <citation>Buegler M, Harms R, Balasa M, Meier IB, Exarchos T, Rai L, Boyle R, Tort A, Kozori M, Lazarou E, Rampini M, Cavaliere C, Vlamos P, Tsolaki M, Babiloni C, Soricelli A, Frisoni G, Sanchez-Valle R, Whelan R, Merlo-Pich E, Tarnanas I. Digital biomarker-based individualized prognosis for people at risk of dementia. Alzheimers Dement (Amst). 2020 Aug 19;12(1):e12073. doi: 10.1002/dad2.12073. eCollection 2020.</citation>
+    <PMID>32832589</PMID>
+  </reference>
+  <reference>
+    <citation>Meier IB, Buegler M, Harms R, Seixas A, Çöltekin A, Tarnanas I. Using a Digital Neuro Signature to measure longitudinal individual-level change in Alzheimer's disease: the Altoida large cohort study. NPJ Digit Med. 2021 Jun 24;4(1):101. doi: 10.1038/s41746-021-00470-z.</citation>
+    <PMID>34168269</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>January 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 8, 2021</study_first_posted>
+  <last_update_submitted>May 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 11, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Digital Biomarkers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Parkinsonian Disorders</mesh_term>
+    <mesh_term>Memory Disorders</mesh_term>
+    <mesh_term>Asymptomatic Diseases</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1697">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02051764</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18F-AV-1451-A04</org_study_id>
+    <nct_id>NCT02051764</nct_id>
+  </id_info>
+  <brief_title>Imaging Characteristics of a Follow-up 18F-AV-1451 Scan</brief_title>
+  <official_title>An Open Label, Multicenter Study, Evaluating the Imaging Characteristics of a Follow-up 18F-AV-1451 Scan in Subjects Who Have Had a Prior 18F-AV-1451 Scan</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Avid Radiopharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Avid Radiopharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the imaging characteristics of flortaucipir in subjects with a&#xD;
+      previous flortaucipir scan in order to assess the rate of change of tau deposition over time.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Lower than expected enrollment&#xD;
+  </why_stopped>
+  <start_date type="Actual">May 2014</start_date>
+  <completion_date type="Actual">December 2016</completion_date>
+  <primary_completion_date type="Actual">December 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Tau Deposition</measure>
+    <time_frame>baseline scan and at least 6 months after baseline scan</time_frame>
+    <description>Rate of tau deposition change as measured by flortaucipir standardized uptake value ratio (SUVr). For SUVr, a value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">44</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Follow-up Flortaucipir PET Scan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flortaucipir F18</intervention_name>
+    <description>370 megabecquerel (MBq) IV single-dose</description>
+    <arm_group_label>Follow-up Flortaucipir PET Scan</arm_group_label>
+    <other_name>18F-AV-1451</other_name>
+    <other_name>LY3191748</other_name>
+    <other_name>[F-18]T807</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Florbetapir F 18</intervention_name>
+    <description>370 megabecquerel (MBq) IV single-dose</description>
+    <arm_group_label>Follow-up Flortaucipir PET Scan</arm_group_label>
+    <other_name>Amyvid</other_name>
+    <other_name>18F-AV-45</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Brain PET Scan</intervention_name>
+    <description>positron emission tomography (PET) scan of the brain</description>
+    <arm_group_label>Follow-up Flortaucipir PET Scan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have a previous 18F-AV-1451 brain scan&#xD;
+&#xD;
+          -  Can tolerate up to two Positron Emission Tomography (PET) imaging sessions and a&#xD;
+             Magnetic Resonance Imaging (MRI) scan&#xD;
+&#xD;
+          -  Ability to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current clinically significant psychiatric disease&#xD;
+&#xD;
+          -  Are claustrophobic&#xD;
+&#xD;
+          -  Current clinically significant cardiovascular disease or ECG abnormalities, or&#xD;
+             additional risk factors for Torsades de Pointes&#xD;
+&#xD;
+          -  Current clinically significant infectious disease, endocrine or metabolic disease,&#xD;
+             pulmonary, renal or hepatic impairment, or cancer&#xD;
+&#xD;
+          -  Females of childbearing potential who are not surgically sterile, not refraining from&#xD;
+             sexual activity or not using reliable methods of contraception&#xD;
+&#xD;
+          -  Have had a non-study related radiopharmaceutical imaging or treatment procedure within&#xD;
+             7 days prior to the study imaging session&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chief Medical Officer</last_name>
+    <role>Study Chair</role>
+    <affiliation>Avid Radiopharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hoag Memorial Hospital</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC Irvine Medical Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Clinical Imaging Research, Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>January 30, 2014</study_first_submitted>
+  <study_first_submitted_qc>January 30, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 31, 2014</study_first_posted>
+  <results_first_submitted>June 27, 2020</results_first_submitted>
+  <results_first_submitted_qc>September 3, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 7, 2020</results_first_posted>
+  <disposition_first_submitted>February 8, 2017</disposition_first_submitted>
+  <disposition_first_submitted_qc>February 8, 2017</disposition_first_submitted_qc>
+  <disposition_first_posted type="Estimate">February 9, 2017</disposition_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Enrolled subjects who had previously undergone flortaucipir PET (positron emission tomography) scans in other Avid-sponsored (NCT04474405 and NCT01992380) and non-Avid protocols and brought back to the clinic a minimum of 6 months after the initial flortaucipir PET scan for cognitive testing and an additional flortaucipir scan.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Cognitively Impaired</title>
+          <description>Clinically-diagnosed Alzheimer's disease (AD), mild cognitive impairment (MCI), and other dementing disorders (ODD) from the flortaucipir PET scan arm</description>
+        </group>
+        <group group_id="P2">
+          <title>Healthy Volunteers</title>
+          <description>Male or female subjects ≥50 years of age without cognitive impairment from the flortaucipir PET scan arm</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="28"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Study terminated by sponsor</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="7"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Excluded 7 subjects who did not receive a flortaucipir scan</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Cognitively Impaired</title>
+          <description>Clinically-diagnosed AD, MCI, and other dementing disorders (ODD) from the flortaucipir PET scan arm</description>
+        </group>
+        <group group_id="B2">
+          <title>Healthy Volunteers</title>
+          <description>Healthy Volunteers from the flortaucipir PET scan arm</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="16"/>
+            <count group_id="B2" value="21"/>
+            <count group_id="B3" value="37"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67.6" spread="9.15"/>
+                    <measurement group_id="B2" value="75.3" spread="4.98"/>
+                    <measurement group_id="B3" value="71.9" spread="7.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="21"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="35"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="21"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Amyloid status</title>
+          <description>Amyloid status as previously determined either by PET imaging or cerebral spinal fluid (CSF) measures</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Positive</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Negative</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Tau Deposition</title>
+        <description>Rate of tau deposition change as measured by flortaucipir standardized uptake value ratio (SUVr). For SUVr, a value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+        <time_frame>baseline scan and at least 6 months after baseline scan</time_frame>
+        <population>Amyloid positive and negative row n's reflect the subgroup counts.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Cognitively Impaired</title>
+            <description>Clinically-diagnosed AD, MCI, and other dementing disorders (ODD) from the flortaucipir PET scan arm</description>
+          </group>
+          <group group_id="O2">
+            <title>Healthy Volunteers</title>
+            <description>Male or female subjects ≥50 years of age without cognitive impairment from the flortaucipir PET scan arm</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Tau Deposition</title>
+          <description>Rate of tau deposition change as measured by flortaucipir standardized uptake value ratio (SUVr). For SUVr, a value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+          <population>Amyloid positive and negative row n's reflect the subgroup counts.</population>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Overall</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                    <count group_id="O2" value="21"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0347" spread="0.047"/>
+                    <measurement group_id="O2" value="-0.0008" spread="0.013"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Amyloid Negative</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0364" spread="0.082"/>
+                    <measurement group_id="O2" value="-0.0026" spread="0.013"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Amyloid Positive</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="14"/>
+                    <count group_id="O2" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0345" spread="0.045"/>
+                    <measurement group_id="O2" value="-0.0002" spread="0.013"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Overall change from baseline between groups. Test compared slopes of cognitively impaired (CI) vs healthy volunteers (HV). As the time between scans varied across subjects, an ANCOVA model was used to estimate slopes in each diagnosis group and test whether they were the different at 1 year. The flortaucipir change from baseline was used as the dependent variable in the model.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.2837</p_value>
+            <p_value_desc>Not adjusted for multiple comparisons. No a priori threshold was selected.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjustments included baseline tau deposition, age, time (in years) between imaging, and included an interaction of time and enrolling diagnosis.</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change from baseline between groups for amyloid negative only. Test compared slopes of CI vs HV. As the time between scans varied across subjects, an ANCOVA model was used to estimate slopes in each diagnosis group and test whether they were different at 1 year. The flortaucipir change from baseline was used as the dependent variable in the model.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.9276</p_value>
+            <p_value_desc>Not adjusted for multiple comparisons. No a priori threshold was selected.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjustments included baseline tau deposition, age, time (in years) between imaging, and included an interaction of time and enrolling diagnosis.</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change from baseline between groups for amyloid positive only. Test compared slopes of CI vs HV. As the time between scans varied across subjects, an ANCOVA model was used to estimate slopes in each diagnosis group and test whether they were different at 1 year. The flortaucipir change from baseline was used as the dependent variable in the model.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.6324</p_value>
+            <p_value_desc>Not adjusted for multiple comparisons. No a priori threshold was selected.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjustments included baseline tau deposition, age, time (in years) between imaging, and included an interaction of time and enrolling diagnosis.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Administration of study drug until 48 hours post administration</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Cognitively Impaired</title>
+          <description>Clinically-diagnosed Alzheimer's disease (AD), mild cognitive impairment (MCI), and other dementing disorders (ODD) from the flortaucipir PET scan arm</description>
+        </group>
+        <group group_id="E2">
+          <title>Healthy Volunteers</title>
+          <description>Male or female subjects ≥50 years of age without cognitive impairment from the flortaucipir PET scan arm</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <default_vocab>MedDRA (17.0)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <description>Moderate</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Data confidentiality for a period of 5 years following study termination</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Medical Director</name_or_title>
+      <organization>Avid Radiopharmaceuticals, Inc.</organization>
+      <phone>215-298-0700</phone>
+      <email>clinicaloperations@avidrp.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

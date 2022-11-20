@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2437">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04686838</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17-2</org_study_id>
+    <secondary_id>P30AG024978-17</secondary_id>
+    <nct_id>NCT04686838</nct_id>
+  </id_info>
+  <brief_title>REmote Assessment and Dynamic Response Intervention II</brief_title>
+  <acronym>READyR-II</acronym>
+  <official_title>READyR-II: Dynamic Tailoring Phase for a Remote Assessment and Dynamic Response Intervention to Support Couples in Planning for Changing Dementia Care Needs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oregon Health and Science University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the READyR II Study is to test a dynamic tailoring phase of a remote&#xD;
+      assessment for changing dementia-related care needs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Unmet dementia-related care needs are highly prevalent, and are detrimental to the care&#xD;
+      dyad's (person with dementia and their family care partner) health, safety, mortality, and&#xD;
+      likelihood of nursing home placement. READyR II tests a dynamic tailoring phase of an&#xD;
+      intervention program that was previously developed to remotely assess dementia-related care&#xD;
+      needs using digital data on behavioral patterns (from sensors and wearables) in the home.&#xD;
+      READyR II follows participants who have completed READyR for a total of six months in order&#xD;
+      to detect anomalies in activity patterns that may indicate new and unforeseen care needs.&#xD;
+&#xD;
+      People who voluntarily decide to participate in this follow-up intervention study will be&#xD;
+      asked to continue participating with the in-home monitoring sensor platform, complete weekly&#xD;
+      questionnaires, and receive regular follow-up telephone calls from the study team.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 1, 2021</start_date>
+  <completion_date type="Anticipated">November 25, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 17, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Dyads will be randomized (assigned by chance) to one of two groups: 1) READyR A or 2) READyR B</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participants will all agree to the dynamic tailoring phase with remote monitoring and surveys, and will not know whether the phone calls are related to anomaly detection or are a control condition phone call.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean difference effect sizes for pre-post change the care dyad's preparation for future care needs</measure>
+    <time_frame>Baseline compared with 18 weeks</time_frame>
+    <description>The Preparation for Future Care Needs Scale (Short Form) assesses the degree to which an individual has engaged in planning for future care needs in late life using 15 items and 5 subscales representing distinct planning processes (awareness, gathering information, decision making, concrete planning, avoidance). Items are scored on a 5 point Likert scale with higher scores indicating greater preparation for future care needs.&#xD;
+Sorensen, S., Chapman, B. P., Duberstein, P. R., Pinquart, M., &amp; Lyness, J. M. (2017). Assessing future care preparation in late life: Two short measures. Psychol Assess, 29(12), 1480-1495.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in the care dyad's relationship quality</measure>
+    <time_frame>Baseline compared with 18 weeks</time_frame>
+    <description>The Dyadic Relationship Scale assesses the positive dyadic interactions and negative dyadic strain experienced by caregivers (11 items) and care recipients (10 items). Items are averaged for a summary score that ranges from 0 to 3, with higher scores indicating more positive interactions in the relationship, or more relationship strain, respectively.&#xD;
+Sebern, M.D. &amp; Whitlatch, C.J. (2007). Dyadic Relationship Scale: A measure of the impact of the provision and receipt of family care. The Gerontologist, 47(6), 741-751.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in the amount of incongruence between the care partner's understanding of the care values of the person with dementia</measure>
+    <time_frame>Baseline compared with 18 weeks</time_frame>
+    <description>The Care Values Scale assesses the importance of four care-related values to the person with dementia from the perspectives of the person with dementia and their care partner. Items for each of the four subscales are averaged for a summary score that ranges from 1 to 3, with higher scores indicating greater importance of the care value to the person with dementia.&#xD;
+Miller LM, Whitlatch CJ, Lee CS, Caserta MS. Care Values in Dementia: Patterns of Perception and Incongruence Among Family Care Dyads. The Gerontologist. 2018.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in the amount of care-related strain reported</measure>
+    <time_frame>Baseline compared with 12 weeks</time_frame>
+    <description>Subjective strain from caregiving will be assessed among family care partners at baseline and follow-up assessments using the Zarit Burden Interview (ZBI), short-form (12 items). Scores range from 0-48 with higher scores indicating a greater degree of strain from providing care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in the care dyad's quality of life</measure>
+    <time_frame>Baseline compared with 18 weeks</time_frame>
+    <description>The Quality of Life: Alzheimer's Disease Scale assesses individual perceptions of quality of life (from poor to excellent) across 13 items. Items are averaged for a summary score of 1 to 4, higher scores indicating greater degree of quality of life. Logsdon, R. G., Gibbons, L. E., McCurry, S. M., &amp; Teri, L. (1999). Quality of Life in Alzheimer's Disease: Patient and Caregiver Reports. Journal of Mental Health and Aging, 5(1), 21-32.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in the care dyad's concealment of emotions</measure>
+    <time_frame>Baseline compared with 18 weeks</time_frame>
+    <description>The Emotional Intimacy Disruptive Behavior Scale (8 items) assesses the frequency of engagement in behaviors to conceal emotions about an illness from one's partner. Druley, J. A., Stephens, M. A. P., &amp; Coyne, J. C. (1997). Emotional and physical intimacy in coping with Lupus: Women's dilemmas of disclosure and approach. Health Psychology, 16, 506-514.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Time spent out of the home</measure>
+    <time_frame>Continuously over 18 weeks</time_frame>
+    <description>Time spent out of home will be robustly and accurately measured through an algorithm using sensor (motion/contact) and actigraphy data.&#xD;
+Petersen J, Austin D, Mattek N, Kaye J. Time Out-of-Home and Cognitive, Physical, and Emotional Wellbeing of Older Adults: A Longitudinal Mixed Effects Model. PloS one. 2015;10(10):e0139643.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Physical activity / sedentary behavior</measure>
+    <time_frame>Continuously over 18 weeks</time_frame>
+    <description>Physical activity and sedentary bouts will be measured using actigraphy data.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time spent together / separate</measure>
+    <time_frame>Continuously over 18 weeks</time_frame>
+    <description>Time spent together/separate as a dyad will be observed through previously-developed algorithms using data from PIR motion/contact sensors and actigraphy. We will consider times when the informal care dyad is together in the same room, separate within/outside of the home, and time in bathroom together (indicating ADL dependency).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Sleep patterns</measure>
+    <time_frame>Continuously over 18 weeks</time_frame>
+    <description>Sleep patterns be measured using actigraphy, motion sensors, and a bed mat sensor.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Dementia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Relationship, Marital</condition>
+  <condition>Caregiver Stress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>READyR II A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Continuous monitoring will be conducted and analyzed for anomaly detection. Participants in this arm will receive contact phone call when a potential change in care needs is indicated by an anomaly.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>READyR II B (comparison)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Sensors will remain in the home but anomaly detection analysis will not be performed and contact phone calls will be at regular intervals without dynamic tailoring content. Standard educational content will instead be shared over the phone.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>READyR II: A</intervention_name>
+    <description>Continuous monitoring for anomaly detection and contact phone call when a potential change in care needs is indicated by an anomaly.</description>
+    <arm_group_label>READyR II A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>READyR II: B</intervention_name>
+    <description>Sensors will remain in the home but anomaly detection analysis will not be performed and contact phone calls will be at regular intervals without dynamic tailoring content.</description>
+    <arm_group_label>READyR II B (comparison)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  62 years or older;&#xD;
+&#xD;
+          -  Able to identify a family care partner over age 20 who is living with you and will&#xD;
+             also consent to fully participate in the study&#xD;
+&#xD;
+          -  Probable or confirmed diagnosis of mild cognitive impairment or early-stage dementia&#xD;
+&#xD;
+          -  Age and education adjusted MOCA score &gt; 15 (at most recent measurement by parent&#xD;
+             study) corresponding to early to moderate stage dementia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to speak English or read printed materials in English&#xD;
+&#xD;
+          -  Conditions that would limit participation at entry to study (e.g. visual or hearing&#xD;
+             impairments prohibiting reading and discussing the intervention materials)&#xD;
+&#xD;
+          -  Any uncontrolled medical condition that is expected to preclude completion of the&#xD;
+             study, such as late stage cancers&#xD;
+&#xD;
+        Family Care Partners&#xD;
+&#xD;
+        Inclusion:&#xD;
+&#xD;
+          -  21 years or older;&#xD;
+&#xD;
+          -  Self-identifying as a family member and care partner residing with the PwD&#xD;
+             participant;&#xD;
+&#xD;
+        Exclusion:&#xD;
+&#xD;
+          -  Inability to speak English or read printed materials in English&#xD;
+&#xD;
+          -  Conditions that would limit participation at entry to study (e.g. visual or hearing&#xD;
+             impairments prohibiting reading and discussing the intervention materials);&#xD;
+&#xD;
+          -  Any uncontrolled medical condition that is expected to preclude completion of the&#xD;
+             study, such as late stage cancers.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lyndsey M Miller, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>December 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 29, 2020</study_first_posted>
+  <last_update_submitted>June 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 30, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oregon Health and Science University</investigator_affiliation>
+    <investigator_full_name>Lyndsey Miller</investigator_full_name>
+    <investigator_title>Co-Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Needs Assessment</keyword>
+  <keyword>Remote Monitoring</keyword>
+  <keyword>Technology</keyword>
+  <keyword>Care Values</keyword>
+  <keyword>Aging-in-Place</keyword>
+  <keyword>Family Caregiver</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified IPD will be available upon request to our Alzheimer's Disease Research Center&#xD;
+Supporting Information:&#xD;
+Time Frame:&#xD;
+Data will become available after completion of study and after publication of primary study aims.&#xD;
+Access Criteria:&#xD;
+Requests need to made to the PI at the Oregon Alzheimer's Disease Research Center (OARDC). A short data request form will need to be submitted to the OADRC.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

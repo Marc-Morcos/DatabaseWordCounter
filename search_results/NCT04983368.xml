@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2154">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04983368</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACW0005</org_study_id>
+    <nct_id>NCT04983368</nct_id>
+  </id_info>
+  <brief_title>A Double-Blind, Placebo-Controlled, Dose Ranging Study of Xanamem® in Healthy Elderly Volunteers</brief_title>
+  <acronym>XanaMIA-DR</acronym>
+  <official_title>XanaMIA-DR A Double-Blind, Placebo-Controlled, Dose Ranging Study to Assess the Efficacy, Pharmacodynamics and Safety of Xanamem® in Healthy Elderly Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Actinogen Medical</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Avance Clinical</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Actinogen Medical</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Xanamem® is being developed as a potential drug for Mild Cognitive Impairment in Alzheimer's&#xD;
+      disease. This study drug has been designed to change the cortisol levels in the brain.&#xD;
+      Cortisol is a naturally occurring hormone in the body. It is believed that reducing the level&#xD;
+      of cortisol will be a benefit in the treatment of Mild Cognitive Impairment in Alzheimer's&#xD;
+      disease.&#xD;
+&#xD;
+      The purpose of this study in older volunteers is to investigate the smallest dose of Xanamem®&#xD;
+      (5 mg or 10 mg) which works and to investigate which dose in this study will be used in the&#xD;
+      upcoming clinical trials in patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 30, 2021</start_date>
+  <completion_date type="Actual">February 11, 2022</completion_date>
+  <primary_completion_date type="Actual">February 11, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Volunteer subjects will be randomly assigned to 1 of 3 treatment groups to receive either 5 mg Xanamem®, 10 mg Xanamem® or placebo in the ratio of 1:1:1 with approximately 35 subjects in each treatment group. This sample size has been selected to allow for approximately 30 subjects per treatment group to complete the study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Study treatment is blinded for participants, investigators.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Short-term efficacy: Assessment of changes of different doses of Xanamem® on cognition.</measure>
+    <time_frame>Baseline, Week 2, Week 4, Week 6 (End of Treatment), Week 10 (Follow-Up)</time_frame>
+    <description>Using a tailored Cogstate Neuropsychological Test Battery (NTB), changes from baseline, as well as composite scores based on a combination of these variables at each treatment visit [Week 2, Week 4, Week 6 (End of Treatment), Week 10 (Follow-Up)] will be analyzed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessment of safety and tolerability of different Xanamem® doses by the occurrence of Treatment-Emergent Adverse Events (TEAEs).</measure>
+    <time_frame>10 Weeks [Baseline to Week 10 Follow-Up (4 Weeks Post Last Dose of Study Drug)]</time_frame>
+    <description>The number, type, and severity of Treatment-Emergent Adverse Events (TEAEs) that are reported from Baseline to Follow-up Visit will be collected and evaluated.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Short-term efficacy of different doses of Xanamem® on cognition</measure>
+    <time_frame>Screening, Baseline, Week 2, Week 4, Week 6 (End of Treatment), Week 10 (Follow-Up)</time_frame>
+    <description>Using the International Daily Digit Symbol Substitution Test-Symbols, to analyze changes from Screening to, Baseline, Week 2, Week 4, Week 6 (End of Treatment), Week 10 (Follow-Up).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">107</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Xanamem® 5 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral Xanamem® capsules 5 mg, to be administered once daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Xanamem® 10 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral Xanamem® capsules 10 mg, to be administered once daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo which is identical in appearance to the test product except that it contains no active ingredient, to be administered once daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Xanamem® 5 mg</intervention_name>
+    <description>Oral Xanamem® (&quot;UE2343&quot;) capsules 5 mg, administered orally once daily.</description>
+    <arm_group_label>Xanamem® 5 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo which is identical in appearance to the test product (5 mg, 10 mg Xanamem® QD) except that it contains no active ingredient.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Xanamem® 10 mg</intervention_name>
+    <description>Oral Xanamem® (&quot;UE2343&quot;) capsules 10 mg, administered orally once daily.</description>
+    <arm_group_label>Xanamem® 10 mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female aged 50 to 80&#xD;
+&#xD;
+          2. Body mass index 17.5 to &lt; 35 kg/m2, inclusive at the time of screening&#xD;
+&#xD;
+          3. Mini-Mental State Score of ≥ 25 points at screening&#xD;
+&#xD;
+          4. Must provide written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Abnormalities in vital signs at screening or baseline&#xD;
+&#xD;
+          2. Clinically significant abnormal hematology or biochemistry values, as determined by&#xD;
+             the investigator at screening and/or baseline.&#xD;
+&#xD;
+          3. Previous clinically significant systemic illness or infection within the past 4 weeks&#xD;
+             prior to screening or baseline, as determined by the investigator&#xD;
+&#xD;
+          4. Clinically significant ECG abnormalities&#xD;
+&#xD;
+          5. Use of tobacco- or nicotine-containing products in the past month or unwillingness to&#xD;
+             abstain during study participation&#xD;
+&#xD;
+          6. Participation in another clinical study of a drug or device&#xD;
+&#xD;
+          7. Known allergy to the study drug (Xanamem®) or any of the excipients&#xD;
+&#xD;
+          8. Subjects who are likely to be unable to comply with the study schedule and/ or&#xD;
+             subjects with an inability to communicate well with the investigator&#xD;
+&#xD;
+          9. Positive testing for human immunodeficiency virus (HIV), hepatitis B surface antigen,&#xD;
+             or hepatitis C antibodies at screening&#xD;
+&#xD;
+         10. Subjects with a history of drug abuse or addiction in the past 5 years.&#xD;
+&#xD;
+         11. Evidence of alcohol abuse (defined as greater than 21 standard units per week for&#xD;
+             males and greater than 14 standard units per week for females)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Miriam Roesner</last_name>
+    <role>Study Director</role>
+    <affiliation>Actinogen Medical Limited</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research Canberra</name>
+      <address>
+        <city>Bruce</city>
+        <state>Australian Capital Territory</state>
+        <zip>2617</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research Western Sydney</name>
+      <address>
+        <city>Blacktown</city>
+        <state>New South Wales</state>
+        <zip>2148</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research Central Coast</name>
+      <address>
+        <city>Kanwal</city>
+        <state>New South Wales</state>
+        <zip>2259</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Paratus Clinical Research Brisbane</name>
+      <address>
+        <city>Albion</city>
+        <state>Queensland</state>
+        <zip>4010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USC Clinical Trials</name>
+      <address>
+        <city>Sippy Downs</city>
+        <state>Queensland</state>
+        <zip>4556</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/28012176/</url>
+    <description>Selection and early clinical evaluation of the brain-penetrant 11β-HSD1 inhibitor UE2343</description>
+  </link>
+  <reference>
+    <citation>Webster SP, McBride A, Binnie M, Sooy K, Seckl JR, Andrew R, Pallin TD, Hunt HJ, Perrior TR, Ruffles VS, Ketelbey JW, Boyd A, Walker BR. Selection and early clinical evaluation of the brain-penetrant 11β-hydroxysteroid dehydrogenase type 1 (11β-HSD1) inhibitor UE2343 (Xanamem™). Br J Pharmacol. 2017 Mar;174(5):396-408. doi: 10.1111/bph.13699. Epub 2017 Jan 25.</citation>
+    <PMID>28012176</PMID>
+  </reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>July 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>July 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2021</study_first_posted>
+  <last_update_submitted>April 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cognitive Function</keyword>
+  <keyword>Healthy Volunteers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

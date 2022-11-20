@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="79">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03507790</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COG0201</org_study_id>
+    <nct_id>NCT03507790</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety and Efficacy of CT1812 in Subjects With Mild to Moderate Alzheimer's Disease.</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 2 Study to Evaluate the Safety and Efficacy of CT1812 in Subjects With Mild to Moderate Alzheimer's Disease.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cognition Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cognition Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multi-center, randomized, double-blind, placebo-controlled, parallel group 36 week&#xD;
+      multicenter Phase 2 study of two doses of CT1812 in adults with mild to moderate Alzheimer's&#xD;
+      Disease (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multi-center, randomized, double-blind, placebo-controlled, parallel group 36 week&#xD;
+      multicenter Phase 2 study of two doses of CT1812 in adults with mild to moderate Alzheimer's&#xD;
+      Disease (AD).&#xD;
+&#xD;
+      This Phase 2 study is designed to evaluate the safety of two doses of CT1812 administered&#xD;
+      once daily for 6 months in adults aged 50 to 85 who have been diagnosed with mild to moderate&#xD;
+      Alzheimer's disease (the targeted clinical indication for CT1812). Randomized participants&#xD;
+      will receive 100 mg of CT1812, 300 mg of CT1812, or placebo once daily for 182 days.&#xD;
+      Exploratory endpoints that evaluate the effect of CT1812 on biomarkers are also included.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 2, 2018</start_date>
+  <completion_date type="Anticipated">October 24, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 24, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a multi-center Phase 2, randomized, double-blind, placebo-controlled, parallel-group study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of study participants with treatment related adverse events and serious adverse events</measure>
+    <time_frame>210 Days</time_frame>
+    <description>Adverse events will be collected starting at Day 1 through Day 210 to evaluate safety.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">144</enrollment>
+  <condition>Mild to Moderate Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Active Treatment- CT1812 100 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>CT1812 at a dose of 100 n=48 group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Treatment- CT1812 300 mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>CT1812 at a dose of 300mg, n=48 group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Comparator - Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, n=48 group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CT1812</intervention_name>
+    <description>Active Study Drug</description>
+    <arm_group_label>Active Treatment- CT1812 100 mg</arm_group_label>
+    <arm_group_label>Active Treatment- CT1812 300 mg</arm_group_label>
+    <other_name>Study Drug</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Non-active study drug</description>
+    <arm_group_label>Placebo Comparator - Placebo</arm_group_label>
+    <other_name>Matching Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        1. Men, and women of non-childbearing potential, 50-85 years of age inclusively, with a&#xD;
+             diagnosis of mild to moderate Alzheimer's disease according to the 2011 NIA-AA&#xD;
+             criteria and at least a 6 month decline in cognitive function documented in the&#xD;
+             medical record.&#xD;
+&#xD;
+             i) Non-childbearing potential for women is defined as postmenopausal (last natural&#xD;
+             menses greater than 24 months) or undergone a documented bilateral tubal ligation or&#xD;
+             hysterectomy. If last natural menses less than 24 months, a serum FSH value confirming&#xD;
+             post-menopausal status can be employed.&#xD;
+&#xD;
+             ii) Male participants who are sexually active with a woman of child-bearing potential&#xD;
+             must agree to use condoms during the trial and for 3 months after last dose unless the&#xD;
+             woman is using an acceptable means of birth control. Acceptable forms of birth control&#xD;
+             include abstinence, birth control pills, or any double combination of: intrauterine&#xD;
+             device (IUD), male or female condom, diaphragm, sponge, and cervical cap.&#xD;
+&#xD;
+          2. Diagnostic confirmation by amyloid PET with florbetaben or another approved amyloid&#xD;
+             PET ligand. Previous amyloid imaging study with a positive result will be accepted. If&#xD;
+             none is available, then amyloid PET will be conducted during screening. Diagnostic&#xD;
+             confirmation by a CSF sample collected at the screening visit lumbar puncture in place&#xD;
+             of amyloid PET will also be acceptable&#xD;
+&#xD;
+          3. Neuroimaging (MRI) obtained during screening consistent with the clinical diagnosis of&#xD;
+             Alzheimer's disease and without findings of significant exclusionary abnormalities&#xD;
+             (see exclusion criteria, number 4). An historical MRI, up to 1 year prior to&#xD;
+             screening, may be used as long as there is no history of intervening neurologic&#xD;
+             disease or clinical events (such as a stroke, head trauma etc.) and the subject is&#xD;
+             without clinical symptoms or signs suggestive of such intervening events.).&#xD;
+&#xD;
+          4. MMSE 18-26 inclusive.&#xD;
+&#xD;
+          5. No active depression and a GDS ≤6 (see exclusion criteria number 6).&#xD;
+&#xD;
+          6. Modified Hachinski ≤ 4.&#xD;
+&#xD;
+          7. Formal education of eight or more years.&#xD;
+&#xD;
+          8. Subjects must have a caregiver/ study partner who in the opinion of the site principal&#xD;
+             investigator, has contact with the study subject for a sufficient number of hours per&#xD;
+             week to provide informative responses on the protocol assessments, oversee the&#xD;
+             administration of study drug, and is willing and able to participate in all clinic&#xD;
+             visits and some study assessments. The caregiver/ study partner must provide written&#xD;
+             informed consent to participate in the study.&#xD;
+&#xD;
+          9. Subjects living at home or in the community (assisted living acceptable).&#xD;
+&#xD;
+         10. Ability to swallow CT1812 capsules.&#xD;
+&#xD;
+         11. Stable pharmacological treatment of any other chronic conditions for at least 30 days&#xD;
+             prior to screening.&#xD;
+&#xD;
+         12. Subjects must be capable of providing written informed consent to the study procedures&#xD;
+             and for use of protected health information [Health Insurance Portability and&#xD;
+             Accountability Act (HIPAA), if applicable]. Written informed consent also shall be&#xD;
+             obtained from the responsible caregiver. All consent processes must be undertaken in&#xD;
+             the presence of a witness and prior to any study procedures.&#xD;
+&#xD;
+         13. Must consent to apolipoprotein E (ApoE) genotyping for data analysis stratification.&#xD;
+&#xD;
+         14. Subjects shall be generally healthy with mobility (ambulatory or ambulatory-aided,&#xD;
+             i.e., walker or cane), vision and hearing (hearing aid permissible) sufficient for&#xD;
+             compliance with testing procedures.&#xD;
+&#xD;
+         15. Must be able to complete all screening evaluations.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Participants will be excluded from the study if any of the following conditions apply:&#xD;
+&#xD;
+          1. Hospitalization (except for planned procedures) or change of chronic concomitant&#xD;
+             medication within one month prior to screening.&#xD;
+&#xD;
+          2. Subjects living in a continuous care nursing facility.&#xD;
+&#xD;
+          3. Contraindication to the MRI examination for any reason.&#xD;
+&#xD;
+          4. Screening MRI (or historical MRI, if applicable) of the brain indicative of&#xD;
+             significant abnormality, including, but not limited to, prior hemorrhage or infarct &gt;1&#xD;
+             cm3, &gt;3 lacunar infarcts, cerebral contusion, encephalomalacia, aneurysm, vascular&#xD;
+             malformation, subdural hematoma, hydrocephalus, space-occupying lesion (e.g. abscess&#xD;
+             or brain tumor such as meningioma). If a small incidental meningioma is observed, the&#xD;
+             medical monitor may be contacted to discuss eligibility..&#xD;
+&#xD;
+          5. Clinical or laboratory findings consistent with:&#xD;
+&#xD;
+               1. Other primary degenerative dementia, (dementia with Lewy bodies, fronto-temporal&#xD;
+                  dementia, Huntington's disease, Creutzfeldt-Jakob Disease, Down syndrome, etc.).&#xD;
+&#xD;
+               2. Other neurodegenerative condition (Parkinson's disease, amyotrophic lateral&#xD;
+                  sclerosis, etc.).&#xD;
+&#xD;
+               3. Seizure disorder.&#xD;
+&#xD;
+               4. Other infectious, metabolic or systemic diseases affecting the central nervous&#xD;
+                  system (syphilis, present hypothyroidism, present vitamin B12 or folate&#xD;
+                  deficiency, other laboratory values etc.).&#xD;
+&#xD;
+          6. A current DSM-V diagnosis of active major depression, schizophrenia or bipolar&#xD;
+             disorder. Subjects with depressive symptoms successfully managed by a stable dose of&#xD;
+             an antidepressant are allowed entry.&#xD;
+&#xD;
+          7. Clinically significant, advanced or unstable disease that may interfere with outcome&#xD;
+             evaluations, such as:&#xD;
+&#xD;
+               1. Chronic liver disease, liver function test abnormalities or other signs of&#xD;
+                  hepatic insufficiency (ALT, AST, alkaline phosphatase &gt; 1.5 ULN, lactate&#xD;
+                  dehydrogenase (LDH) &gt; 1.5 x ULN).&#xD;
+&#xD;
+               2. Respiratory insufficiency.&#xD;
+&#xD;
+               3. Renal insufficiency eGFR &lt; 50 mL/min based on the CKD-EPI formula,&#xD;
+                  https://www.mdcalc.com/ckd-epi-equations-glomerular-filtration-rate-gfr&#xD;
+&#xD;
+               4. Heart disease (myocardial infarction, unstable angina, heart failure,&#xD;
+                  cardiomyopathy within six months before screening).&#xD;
+&#xD;
+               5. Bradycardia (&lt;50/min.) or tachycardia (&gt;100/min.).&#xD;
+&#xD;
+               6. Poorly managed hypertension (systolic &gt;160 mm Hg and/or diastolic &gt;95 mm Hg) or&#xD;
+                  hypotension (systolic &lt;90 mm Hg and/or diastolic &lt;60 mm Hg).&#xD;
+&#xD;
+               7. Uncontrolled diabetes defined by HbA1c &gt;7.5.&#xD;
+&#xD;
+          8. History of cancer within 3 years of screening with the exception of fully excised&#xD;
+             non-melanoma skin cancers or non-metastatic prostate cancer that has been stable for&#xD;
+             at least 6 months.&#xD;
+&#xD;
+          9. Seropositive for human immunodeficiency virus (HIV).&#xD;
+&#xD;
+         10. History of acute/chronic hepatitis B or C and/or carriers of hepatitis B (seropositive&#xD;
+             for hepatitis B surface antigen [HbsAg] or anti-hepatitis C [HCV] antibody).&#xD;
+&#xD;
+         11. Clinically significant abnormalities in screening laboratory tests, including:&#xD;
+&#xD;
+             a. Hematocrit less than 35% for males and less than 32% for females, absolute&#xD;
+             neutrophil cell count of 1500/uL (with the exception of a documented history of a&#xD;
+             chronic benign neutropenia), or platelet cell count of &lt; 120,000/uL; INR &gt;1.4 or other&#xD;
+             coagulopathy, confirmed by repeat assessment of: i. Hematocrit ii. Neutrophil count&#xD;
+             iii. Platelet count&#xD;
+&#xD;
+         12. Disability that may prevent the subject from completing all study requirements (e.g.&#xD;
+             blindness, deafness, severe language difficulty, etc.).&#xD;
+&#xD;
+         13. Within 4 weeks of screening visit or during the course of the study, concurrent&#xD;
+             treatment with antipsychotic agents, antiepileptics, centrally active&#xD;
+             anti-hypertensive drugs (e.g., clonidine, l-methyl dopa, guanidine, guanfacine, etc.),&#xD;
+             sedatives, opioids, mood stabilizers (e.g., valproate, lithium); or benzodiazepines,&#xD;
+             with the following exception:&#xD;
+&#xD;
+             a. Low dose lorazepam may be used for sedation prior to MRI scan for those subjects&#xD;
+             requiring sedation. At the discretion of the investigator, 0.5 to 1 mg may be given&#xD;
+             orally prior to scan with a single repeat dose given if the first dose is ineffective.&#xD;
+             No more than a total of 2 mg lorazepam may be used for the MRI scan.&#xD;
+&#xD;
+         14. Any disorder that could interfere with the absorption, distribution, metabolism or&#xD;
+             excretion of drugs (e.g. small bowel disease, Crohn's disease, celiac disease, or&#xD;
+             liver disease).&#xD;
+&#xD;
+         15. Nootropic drugs except stable AD meds (acetylcholinesterase inhibitors and memantine.&#xD;
+&#xD;
+         16. Suspected or known drug or alcohol abuse, i.e. more than approximately 60 g alcohol&#xD;
+             (approximately 1 liter of beer or 0.5 liter of wine) per day indicated by elevated MCV&#xD;
+             significantly above normal value at screening.&#xD;
+&#xD;
+         17. Suspected or known allergy to any components of the study treatments.&#xD;
+&#xD;
+         18. Enrollment in another investigational study or intake of investigational drug within&#xD;
+             the previous 30 days or five half lives of the investigational drug, whichever is&#xD;
+             longer.&#xD;
+&#xD;
+         19. Intake of drugs or substances potentially involved in clinically significant induction&#xD;
+             or inhibition of CYP3A4 or P-gp mediated drug interactions with CT1812, within 4 weeks&#xD;
+             or five half-lives of the interacting drug prior to administration of CT1812 and&#xD;
+             throughout the course of the study. Grapefruit juice should be avoided in the two&#xD;
+             weeks prior to dosing and throughout the course of the study. See Appendix A for a&#xD;
+             complete list of prohibited substances.&#xD;
+&#xD;
+         20. Exposure to immunomodulators, anti Aβ vaccines, passive immunotherapies for AD (e.g.&#xD;
+             monoclonal antibodies) within the past 180 days and/or exposure to BACE inhibitors&#xD;
+             within the past 30 days.&#xD;
+&#xD;
+         21. Anticipated use of nonsteroidal anti-inflammatory drugs (NSAIDs) on more than 14 days&#xD;
+             during the period from Baseline to Day 182.&#xD;
+&#xD;
+         22. Contraindication to undergoing an LP including, but not limited to: inability to&#xD;
+             tolerate an appropriately flexed position for the time necessary to perform an LP;&#xD;
+             international normalized ratio (INR) &gt; 1.4 or other coagulopathy; platelet count of &lt;&#xD;
+             120,000/μL; infection at the desired lumbar puncture site; taking anti-coagulant&#xD;
+             medication within 90 days of screening (Note: low dose aspirin is permitted);&#xD;
+             degenerative arthritis of the lumbar spine; suspected non-communicating hydrocephalus&#xD;
+             or intracranial mass; prior history of spinal mass or trauma.&#xD;
+&#xD;
+         23. Any condition, which in the opinion of the investigator or the sponsor makes the&#xD;
+             subject unsuitable for inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Caggiano, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cognition Therapuetics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jiney Asthappan</last_name>
+    <phone>914-221-6733</phone>
+    <email>jasthappan@cogrx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>21st Century Neurology/ Xenoscience Inc.</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen S Flitman, MD</last_name>
+      <phone>602-274-9500</phone>
+      <email>sflitman@xenoscience.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Derek Soto</last_name>
+      <phone>602 274 9500</phone>
+      <phone_ext>502</phone_ext>
+      <email>dsoto@xenoscience.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Stephen S Flitman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Imaging Endpoints</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diana De Santiago</last_name>
+      <email>ddesantiago@imagingendpoints.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alan Block, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ATP Clinical Research</name>
+      <address>
+        <city>Costa Mesa</city>
+        <state>California</state>
+        <zip>92626-4627</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gustavo Alva, MD</last_name>
+      <phone>714-277-4472</phone>
+      <email>galva@atpcr.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Bobby Shih</last_name>
+      <phone>1 714 277 4472</phone>
+      <email>bshih@atpcr.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gustavo Alva, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ki Health Partners</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Peter McAllister, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research Institute</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie Andrew, RN</last_name>
+      <email>jandrew@jemri.net</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Goldstein, MD, CPI</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey A Norton, MD</last_name>
+      <phone>352-775-1000</phone>
+      <email>jeffrey.norton@charterresearch.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Omar Cortez</last_name>
+      <phone>1 352 775 1000</phone>
+      <email>Omar.Cortes@charterresearch.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jeffrey A Norton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Allied Biomedical Research Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Compass Research LLC- Bioclinica Research</name>
+      <address>
+        <city>The Villages</city>
+        <state>Florida</state>
+        <zip>32162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud</name>
+      <address>
+        <city>Viera</city>
+        <state>Florida</state>
+        <zip>32940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosemary Laird, MD</last_name>
+      <phone>407-680-0534</phone>
+      <email>rlaird@myclincloud.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kasey Estes</last_name>
+      <phone>1 407 680 0534</phone>
+      <email>kestes@myclincloud.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rosemary Laird, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ActivMed Practices &amp; Research, LLC</name>
+      <address>
+        <city>Methuen</city>
+        <state>Massachusetts</state>
+        <zip>01844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc Shay, MD</last_name>
+      <phone>603-319-8863</phone>
+      <email>marc.shay@activmedresearch.com</email>
+    </contact>
+    <contact_backup>
+      <phone>1 603 319 8863</phone>
+      <email>alfaurys.Rosario@activmedresearch.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Marc Shay, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Memory Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28270</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Porto</last_name>
+      <email>jporto@amcneurology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mohammad Bolouri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Ohio State University - Wexner</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221-3502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Douglas Scharre, MD</last_name>
+      <phone>614-293-4969</phone>
+      <email>doug.scharre@osumc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jenny Icenhour</last_name>
+      <phone>1 614 293 6882</phone>
+      <email>jennifer.icenhour@osumc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Douglas W Scharre, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro Behavirol Clinical Research C</name>
+      <address>
+        <city>North Canton</city>
+        <state>Ohio</state>
+        <zip>44720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shiskuka Malhotra, MD</last_name>
+      <phone>330-493-1118</phone>
+      <email>smalhotra@nb-cr.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maggie Jedlinsky</last_name>
+      <phone>1 330 493 1118</phone>
+      <email>mjedlinsky@nb-cr.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Shiskuka Malhotra, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gill Neurosciences</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Harpaul GIll</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health</name>
+      <address>
+        <city>Ivanhoe</city>
+        <state>Victoria</state>
+        <zip>3079</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent's Hospital Sydney</name>
+      <address>
+        <city>Ivanhoe</city>
+        <state>Victoria</state>
+        <zip>3079</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Health</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Melbourne Health</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Australian Alzheimer's Research Foundation</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://shineadstudy.com</url>
+    <description>Title: &quot; Ready to shine a new light on Alzheimer's disease?&quot;</description>
+  </link>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>April 10, 2018</study_first_submitted>
+  <study_first_submitted_qc>April 16, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 25, 2018</study_first_posted>
+  <last_update_submitted>September 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

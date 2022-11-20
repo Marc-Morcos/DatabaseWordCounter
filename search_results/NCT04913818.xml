@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2681">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04913818</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BUDPA</org_study_id>
+    <nct_id>NCT04913818</nct_id>
+  </id_info>
+  <brief_title>Effects of the Buddy-Up Dyadic Physical Activity Program on Health Outcomes of Care Dyads of Dementia: A Pilot Study</brief_title>
+  <acronym>BUDPA</acronym>
+  <official_title>The Effects of the Buddy-Up Dyadic Physical Activity (BUDPA) Program on the Health Outcomes of Care Dyads of Dementia: A Pilot Feasibility Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project seeks to develop a novel dyadic intervention (titled as Buddy-Up Dyadic Physical&#xD;
+      Activity; BUDPA), using exercise as the common treatment component to improve the cognitive&#xD;
+      outcomes of persons with dementia and manage the stress-related symptoms of their family&#xD;
+      caregivers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project is a pilot study that seeks to develop a novel dyadic BUDPA intervention, using&#xD;
+      exercise as the common treatment component to improve the cognitive outcomes of persons with&#xD;
+      dementia and manage the stress-related symptoms of their family caregivers. BUDPA has&#xD;
+      integrated the concept of developing social capital for dementia management. By applying&#xD;
+      partner exercise, the longer-term provider for this therapeutic care will be shifted from&#xD;
+      service providers to the family caregivers and the persons with dementia. Helping them to&#xD;
+      translate the practice to a home-care setting further strengthens the notions of family&#xD;
+      responsibility and ability in dementia management. BUDPA fully engages the care dyads in a&#xD;
+      mutual helping relationship during the exercise training. The partner exercise also creates a&#xD;
+      platform to enable more meaningful encounter within the care dyad. The family caregivers are&#xD;
+      facilitated to find meaning in the caregiving process, which eventually can benefit their&#xD;
+      role commitment and mental wellness. Also, the use of mixed-method study design can provide&#xD;
+      high quality findings to inform both the feasibility and preliminary effects of the BUDPA&#xD;
+      program.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>To examine the feasibility and preliminary effect of a partnering exercise program on the health outcomes of the PwD and their family caregivers</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale-Cognitive subscale (ADAS-Cog)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>evaluating various domains (i.e. attention and working memory, episodic memory, complex attention, executive function and task switching) of cognition of the PwD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale-Cognitive subscale (ADAS-Cog)</measure>
+    <time_frame>6th week</time_frame>
+    <description>evaluating various domains (i.e. attention and working memory, episodic memory, complex attention, executive function and task switching) of cognition of the PwD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale-Cognitive subscale (ADAS-Cog)</measure>
+    <time_frame>12th week</time_frame>
+    <description>evaluating various domains (i.e. attention and working memory, episodic memory, complex attention, executive function and task switching) of cognition of the PwD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale-Cognitive subscale (ADAS-Cog)</measure>
+    <time_frame>18th week</time_frame>
+    <description>evaluating various domains (i.e. attention and working memory, episodic memory, complex attention, executive function and task switching) of cognition of the PwD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Zarit Burden Interview (Chinese version; ZBI-C)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>measuring the caregiving burden of the family caregivers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Zarit Burden Interview (Chinese version; ZBI-C)</measure>
+    <time_frame>6th week</time_frame>
+    <description>measuring the caregiving burden of the family caregivers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Zarit Burden Interview (Chinese version; ZBI-C)</measure>
+    <time_frame>12th week</time_frame>
+    <description>measuring the caregiving burden of the family caregivers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Zarit Burden Interview (Chinese version; ZBI-C)</measure>
+    <time_frame>18th week</time_frame>
+    <description>measuring the caregiving burden of the family caregivers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neuro-psychiatric Inventory (CNPI; Chinese version)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Evaluating neuro-psychiatric symptoms of the PwD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuro-psychiatric Inventory (CNPI; Chinese version)</measure>
+    <time_frame>6th week</time_frame>
+    <description>Evaluating neuro-psychiatric symptoms of the PwD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuro-psychiatric Inventory (CNPI; Chinese version)</measure>
+    <time_frame>12th week</time_frame>
+    <description>Evaluating neuro-psychiatric symptoms of the PwD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuro-psychiatric Inventory (CNPI; Chinese version)</measure>
+    <time_frame>18th week</time_frame>
+    <description>Evaluating neuro-psychiatric symptoms of the PwD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lawton Instrumental activities of daily living IADL(IADL) Questionnaire</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measuring the ability of engaging in instrumental Activities of daily living(ADL) for the Pwd</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lawton Instrumental activities of daily living IADL(IADL) Questionnaire</measure>
+    <time_frame>6th week</time_frame>
+    <description>Measuring the ability of engaging in instrumental Activities of daily living(ADL) for the Pwd</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lawton Instrumental activities of daily living IADL(IADL) Questionnaire</measure>
+    <time_frame>12th week</time_frame>
+    <description>Measuring the ability of engaging in instrumental Activities of daily living(ADL) for the Pwd</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lawton Instrumental activities of daily living IADL(IADL) Questionnaire</measure>
+    <time_frame>18th week</time_frame>
+    <description>Measuring the ability of engaging in instrumental Activities of daily living(ADL) for the Pwd</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Profile of Mood State (Abbreviated)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measuring the six identifiable mood status including tension anxiety, depression dejection, anger hostility, vigor activity, fatigue inertia and confusion bewilderment of family caregivers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Profile of Mood State (Abbreviated)</measure>
+    <time_frame>6th week</time_frame>
+    <description>Measuring the six identifiable mood status including tension anxiety, depression dejection, anger hostility, vigor activity, fatigue inertia and confusion bewilderment of family caregivers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Profile of Mood State (Abbreviated)</measure>
+    <time_frame>12th week</time_frame>
+    <description>Measuring the six identifiable mood status including tension anxiety, depression dejection, anger hostility, vigor activity, fatigue inertia and confusion bewilderment of family caregivers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Profile of Mood State (Abbreviated)</measure>
+    <time_frame>18th week</time_frame>
+    <description>Measuring the six identifiable mood status including tension anxiety, depression dejection, anger hostility, vigor activity, fatigue inertia and confusion bewilderment of family caregivers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Affect Index</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Assessing the current relationship quality of family caregivers with PwD. It covers the feelings of understanding, trust, respect, fairness and affection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Affect Index</measure>
+    <time_frame>6th week</time_frame>
+    <description>Assessing the current relationship quality of family caregivers with PwD. It covers the feelings of understanding, trust, respect, fairness and affection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Affect Index</measure>
+    <time_frame>12th week</time_frame>
+    <description>Assessing the current relationship quality of family caregivers with PwD. It covers the feelings of understanding, trust, respect, fairness and affection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Affect Index</measure>
+    <time_frame>18th week</time_frame>
+    <description>Assessing the current relationship quality of family caregivers with PwD. It covers the feelings of understanding, trust, respect, fairness and affection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Aspects of Caregiving Scale</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To measure caregiver gain of the family caregivers. It measures two components, self-affirmation and outlook on life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Aspects of Caregiving Scale</measure>
+    <time_frame>6th week</time_frame>
+    <description>To measure caregiver gain of the family caregivers. It measures two components, self-affirmation and outlook on life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Aspects of Caregiving Scale</measure>
+    <time_frame>12th week</time_frame>
+    <description>To measure caregiver gain of the family caregivers. It measures two components, self-affirmation and outlook on life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive Aspects of Caregiving Scale</measure>
+    <time_frame>18th week</time_frame>
+    <description>To measure caregiver gain of the family caregivers. It measures two components, self-affirmation and outlook on life.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Mild Dementia</condition>
+  <condition>Moderate Dementia</condition>
+  <arm_group>
+    <arm_group_label>BUDPA Program</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The overall program includes 12 weekly 1-hour training class. Each session starts with a 10-minute warm-up period using stretching exercise and stationary mobilizing exercise for trunk and limb joints at both upper and lower bodies and followed by a session of four to six selected partnering exercise, with duration increase gradually from 20 minutes to 40 minutes in four weeks' time. The Borg Rate of Perceived Exertion (Borg RPE) will be used to monitor the exercise intensity. The research assistant will explain the Borg RPE scale to the subjects and instruct them to speed up or slow down their movements in order to achieve a feeling of 'somewhat hard' at the Borg RPE rating of 12-14. The training session will end with a 10-minute cool down exercise session.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Activities will be provided by the elderly community center such as dementia or caregiver supporting service. They will be allowed to use the regular service provided such services are not related to physical activity or exercise training.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>BUDPA Program</intervention_name>
+    <description>The overall program includes 12 weekly 1-hour training class. Each session starts with a 10-minute warm-up period using stretching exercise and stationary mobilizing exercise for trunk and limb joints at both upper and lower bodies (e.g. shoulders, elbows, wrists, hips, knees and ankles), and followed by a session of four to six selected partnering exercise, with duration increase gradually from 20 minutes to 40minutes in four weeks' time. The Borg Rate of Perceived Exertion (Borg RPE) will be used to monitor the exercise intensity. The Research assistant will explain the Borg RPE scale to the subjects and instruct them to speed up or slow down their movements. The training session will end with a 10-minute cool down session with walking exercise and stationary trunk and limb mobilizing exercise involving joints of shoulders, elbows, wrists, hips, knees, and ankles.</description>
+    <arm_group_label>BUDPA Program</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control arm (Usual care)</intervention_name>
+    <description>Active Comparator: Usual Care Activities will be provided by the elderly community center such as dementia or caregiver supporting service. They will be allowed to use the regular service provided such services are not related to physical activity or exercise training</description>
+    <arm_group_label>Usual Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        For PwD,&#xD;
+&#xD;
+          -  confirmed diagnosed of mild to moderate-intensity dementia&#xD;
+&#xD;
+          -  cognitive impairment as indicated by a HK-Montreal Cognitive Assessment (Hong Kong&#xD;
+             version; HK-MoCA) score of 8-19 to indicate mild to early moderate dementia will be&#xD;
+             recruited&#xD;
+&#xD;
+        For family caregivers&#xD;
+&#xD;
+          -  live together with the PwD&#xD;
+&#xD;
+          -  identify as the primary family caregivers of the PwD&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  engaging in &gt; 60 minutes per week of moderate or more vigorous exercise in the&#xD;
+             previous six months&#xD;
+&#xD;
+          -  acute muscular-skeletal problem, stroke or cardio-respiratory disease.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Doris, Sau Fung YU, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Hong Kong</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Doris, Sau Fung YU, PhD</last_name>
+    <phone>+852 39176319</phone>
+    <email>dyu1@hku.hk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Wai Man Fu, BSocSc</last_name>
+    <phone>+852 39176657</phone>
+    <email>po170617@hku.hk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>School of Nursing, LKS Faculty of Medicine</name>
+      <address>
+        <city>Hong Kong</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <link>
+    <url>https://www.alz.co.uk/research/world-report-2015</url>
+    <description>Alzheimer's Disease International. World Alzheimer Report-2015</description>
+  </link>
+  <link>
+    <url>https://www.alz.co.uk/research/world-report-2016</url>
+    <description>Alzheimer's Disease International. World Alzheimer Report-2016</description>
+  </link>
+  <link>
+    <url>http://www.cdc.gov/physicalactivity/everyone/measuring/exertion.html</url>
+    <description>Centers for Disease Control and Prevention. Perceived exertion (Borg Rating of Perceived Exertion Scale)</description>
+  </link>
+  <reference>
+    <citation>Dassel KB, Carr DC. Does Dementia Caregiving Accelerate Frailty? Findings From the Health and Retirement Study. Gerontologist. 2016 Jun;56(3):444-50. doi: 10.1093/geront/gnu078. Epub 2014 Aug 26.</citation>
+    <PMID>25161263</PMID>
+  </reference>
+  <reference>
+    <citation>Van't Leven N, Prick AE, Groenewoud JG, Roelofs PD, de Lange J, Pot AM. Dyadic interventions for community-dwelling people with dementia and their family caregivers: a systematic review. Int Psychogeriatr. 2013 Oct;25(10):1581-603. doi: 10.1017/S1041610213000860. Epub 2013 Jul 24. Review.</citation>
+    <PMID>23883489</PMID>
+  </reference>
+  <reference>
+    <citation>Yu DSF, Cheng ST, Wang J. Unravelling positive aspects of caregiving in dementia: An integrative review of research literature. Int J Nurs Stud. 2018 Mar;79:1-26. doi: 10.1016/j.ijnurstu.2017.10.008. Epub 2017 Oct 16. Review.</citation>
+    <PMID>29128685</PMID>
+  </reference>
+  <reference>
+    <citation>Hernández SS, Sandreschi PF, da Silva FC, Arancibia BA, da Silva R, Gutierres PJ, Andrade A. What are the Benefits of Exercise for Alzheimer's Disease? A Systematic Review of the Past 10 Years. J Aging Phys Act. 2015 Oct;23(4):659-68. doi: 10.1123/japa.2014-0180. Epub 2014 Nov 21. Review.</citation>
+    <PMID>25414947</PMID>
+  </reference>
+  <reference>
+    <citation>Puterman E, Weiss J, Lin J, Schilf S, Slusher AL, Johansen KL, Epel ES. Aerobic exercise lengthens telomeres and reduces stress in family caregivers: A randomized controlled trial - Curt Richter Award Paper 2018. Psychoneuroendocrinology. 2018 Dec;98:245-252. doi: 10.1016/j.psyneuen.2018.08.002. Epub 2018 Aug 2.</citation>
+    <PMID>30266522</PMID>
+  </reference>
+  <reference>
+    <citation>Prick AE, de Lange J, Scherder E, Twisk J, Pot AM. The effects of a multicomponent dyadic intervention on the mood, behavior, and physical health of people with dementia: a randomized controlled trial. Clin Interv Aging. 2016 Mar 31;11:383-95. doi: 10.2147/CIA.S95789. eCollection 2016.</citation>
+    <PMID>27099480</PMID>
+  </reference>
+  <reference>
+    <citation>Gellert P, Ziegelmann JP, Warner LM, Schwarzer R. Physical activity intervention in older adults: does a participating partner make a difference? Eur J Ageing. 2011 Jul 7;8(3):211. doi: 10.1007/s10433-011-0193-5. eCollection 2011 Sep.</citation>
+    <PMID>28798651</PMID>
+  </reference>
+  <reference>
+    <citation>Yeung PY, Wong LL, Chan CC, Leung JL, Yung CY. A validation study of the Hong Kong version of Montreal Cognitive Assessment (HK-MoCA) in Chinese older adults in Hong Kong. Hong Kong Med J. 2014 Dec;20(6):504-10. doi: 10.12809/hkmj144219. Epub 2014 Aug 15.</citation>
+    <PMID>25125421</PMID>
+  </reference>
+  <reference>
+    <citation>American College of Sports Medicine, Chodzko-Zajko WJ, Proctor DN, Fiatarone Singh MA, Minson CT, Nigg CR, Salem GJ, Skinner JS. American College of Sports Medicine position stand. Exercise and physical activity for older adults. Med Sci Sports Exerc. 2009 Jul;41(7):1510-30. doi: 10.1249/MSS.0b013e3181a0c95c.</citation>
+    <PMID>19516148</PMID>
+  </reference>
+  <reference>
+    <citation>Chu LW, Chiu KC, Hui SL, Yu GK, Tsui WJ, Lee PW. The reliability and validity of the Alzheimer's Disease Assessment Scale Cognitive Subscale (ADAS-Cog) among the elderly Chinese in Hong Kong. Ann Acad Med Singap. 2000 Jul;29(4):474-85.</citation>
+    <PMID>11056778</PMID>
+  </reference>
+  <reference>
+    <citation>Leung VP, Lam LC, Chiu HF, Cummings JL, Chen QL. Validation study of the Chinese version of the neuropsychiatric inventory (CNPI). Int J Geriatr Psychiatry. 2001 Aug;16(8):789-93.</citation>
+    <PMID>11536346</PMID>
+  </reference>
+  <reference>
+    <citation>Ko KT, Yip PK, Liu SI, Huang CR. Chinese version of the Zarit caregiver Burden Interview: a validation study. Am J Geriatr Psychiatry. 2008 Jun;16(6):513-8. doi: 10.1097/JGP.0b013e318167ae5b.</citation>
+    <PMID>18515696</PMID>
+  </reference>
+  <reference>
+    <citation>Chen KM, Snyder M, Krichbaum K. Translation and equivalence: the Profile of Mood States Short Form in English and Chinese. Int J Nurs Stud. 2002 Aug;39(6):619-24.</citation>
+    <PMID>12100873</PMID>
+  </reference>
+  <reference>
+    <citation>Lou VW, Lau BH, Cheung KS. Positive aspects of caregiving (PAC): scale validation among Chinese dementia caregivers (CG). Arch Gerontol Geriatr. 2015 Mar-Apr;60(2):299-306. doi: 10.1016/j.archger.2014.10.019. Epub 2014 Nov 7.</citation>
+    <PMID>25488014</PMID>
+  </reference>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>April 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 4, 2021</study_first_posted>
+  <last_update_submitted>May 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Prof. Yu, Doris Sau Fung</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>mild to early moderate dementia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Only study investigators and research assistants involved in the study will have access to the data.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/18/NCT04913818/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

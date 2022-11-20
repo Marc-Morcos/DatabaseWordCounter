@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="493">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02600130</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00-0000-01</org_study_id>
+    <nct_id>NCT02600130</nct_id>
+  </id_info>
+  <brief_title>Lomecel-B Infusion Versus Placebo in Patients With Alzheimer's Disease</brief_title>
+  <official_title>A Phase, I Prospective, Randomized, Double-Blinded, Placebo-controlled, Trial to Evaluate the Safety and Potential Efficacy of Lomecel-B Infusion Versus Placebo in Patients With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Longeveron Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Longeveron Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase I, prospective, randomized, placebo-controlled, double-blinded study designed&#xD;
+      to test the safety and efficacy of LMSCs (Longeveron Mesenchymal Stem Cells) for the&#xD;
+      treatment of subjects with clinically diagnosed Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, placebo-controlled clinical trial designed to evaluate the safety and&#xD;
+      efficacy of LMSCs (Longeveron Mesenchymal Stem Cells) or placebo in subjects with Alzheimer's&#xD;
+      Disease. Following a successful Safety Run-In Phase, a total of twenty-five (25) subjects&#xD;
+      will be randomized to (2:2:1) to receive low-dose LMSCs, high-dose LMSCs or placebo. After&#xD;
+      randomization, baseline imaging, and study product infusion, subjects will be followed up at&#xD;
+      2,4,13, 26, 39 and 52 week post study product infusion. Intention-to-treat study population&#xD;
+      will be used for the purpose of the endpoint analysis and safety evaluations.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 10, 2016</start_date>
+  <completion_date type="Actual">September 2021</completion_date>
+  <primary_completion_date type="Actual">September 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To demonstrate the safety of LMSCs administered to subjects with Alzheimer's disease.</measure>
+    <time_frame>30 days post infusion</time_frame>
+    <description>Incidence of any treatment-emergent serious adverse event (TE-SAE), defined as one or more of the following untoward medical occurrences happening within the first 30 days after infusion.&#xD;
+Life-threatening event (e.g., stroke or non-fatal pulmonary embolism).&#xD;
+Requires inpatient hospitalization or prolongation of existing hospitalization.&#xD;
+Results in persistent or significant disability/incapacity.&#xD;
+Results in death.&#xD;
+Leads to other clinically significant untoward laboratory test result(s) or medical condition(s), determined per Investigator's judgement (e.g., new clinically asymptomatic brain microhemorrhages).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Preliminary efficacy will be determined by examining for changes in AD status and rate decline as assessed by the following.</measure>
+    <time_frame>At Baseline, 2, 4, 13, 26, 39, and 52 weeks</time_frame>
+    <description>Neurological/neurocognitive assessments. ADAS-Cog 11 (Alzheimer's Disease Assessment Scale-cognitive subscale 11) MMSE (Mini Mental State Examination) NPI (Neuropsychiatric Inventory) UPSIT (University of Pennsylvania Smell Identification Test) GDS (Geriatric Depression Scale)&#xD;
+Quality of life assessments. ADCS-ADL (Alzheimer's Disease Cooperative Study Activities of Daily Living) QOL-AD (Quality of Life-Alzheimer's Disease)&#xD;
+Blood inflammatory and AD biomarkers. IL-1 IL-6 TGF-β1 TNF-α CRP D-Dimer Fibrinogen ApoE&#xD;
+Cerebrospinal fluid (CSF) inflammatory biomarkers. IL-1 IL-6 TGF-β1 TNF-α&#xD;
+CSF biomarkers of AD. Tau. Phosphorylated tau. Beta-amyloid.&#xD;
+Brain volumetry calculated using MRI, including:&#xD;
+Hippocampal volume. Ventricular volume. Whole-brain volume.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">33</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 1 (10 subjects) Target dose 20 million Longeveron Mesenchymal Stem Cells (LMSCs) via peripheral intravenous infusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 2 (10 subjects) Target dose 100 million Longeveron Mesenchymal Stem Cells (LMSCs)via peripheral intravenous infusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Cohort 3 (5 subjects) Placebo (Plasmalyte A and 1% human serum albumin (HSA)) via peripheral intravenous infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Longeveron Mesenchymal Stem Cells</intervention_name>
+    <description>via peripheral intravenous infusion</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>via peripheral intravenous infusion</description>
+    <arm_group_label>Cohort 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: All subjects enrolled in this trial must:&#xD;
+&#xD;
+          -  provide written informed consent;&#xD;
+&#xD;
+          -  be 50 - 80 years of age at the time of signing the Informed Consent form;&#xD;
+&#xD;
+          -  have a body mass of 45 - 150 kg;&#xD;
+&#xD;
+          -  at the time of enrollment, be diagnosed with AD in accordance with the NINCDS-AA&#xD;
+             criteria;&#xD;
+&#xD;
+          -  score between 18 and 24 on the Mini Mental State Examination (MMSE);&#xD;
+&#xD;
+          -  has one (or more) identified adult caregiver who is willing to provide written&#xD;
+             informed consent for his/her own participation; is able to read, understand, and speak&#xD;
+             the designated language at the study site; either lives with the subject or sees the&#xD;
+             subject for ≥2 hours/day ≥3 days/week; and agrees to accompany the subject to each&#xD;
+             study visit;&#xD;
+&#xD;
+          -  blood oxygen saturation ≥93% determined via pulse oximetry;&#xD;
+&#xD;
+          -  have a brain MRI consistent with AD;&#xD;
+&#xD;
+          -  have a PET scan using an FDA-approved tracer (e.g., AMYViD, Vizamyl, or Neuraceq), and&#xD;
+             which indicates the presence of beta-amyloid plaques in the cerebral cortex, within 5&#xD;
+             years of enrollment;&#xD;
+&#xD;
+          -  have normal levels of thyroid hormone (free T4) and thyroid-stimulating hormone (TSH);&#xD;
+&#xD;
+          -  have normal levels of B12 and folate;&#xD;
+&#xD;
+          -  have a designated study partner who will accompany the subject to all clinic visits&#xD;
+             and participate in the subject's clinical assessments; or&#xD;
+&#xD;
+          -  be living in the community, including in an assisted living facility, but excluding&#xD;
+             long-term care nursing facilities.&#xD;
+&#xD;
+        Exclusion Criteria: All subjects enrolled in this trial must not:&#xD;
+&#xD;
+          -  be unable to perform any of the assessments required for endpoint analysis;&#xD;
+&#xD;
+          -  show signs of dementia other than AD, such as from AIDS (Acquired Immunodeficiency&#xD;
+             Syndrome), CJD (Creutzfeldt-Jakob disease), LBD (Lewy Bodies dementia), CVD&#xD;
+             (Cerebrovascular dementia), PSP (Progressive Supranuclear Palsy), MCI (multiple&#xD;
+             cerebral infarctions) or NPH (normal pressure hydrocephalus);&#xD;
+&#xD;
+          -  have any other neurodegenerative disease;&#xD;
+&#xD;
+          -  have a history of a seizure disorder;&#xD;
+&#xD;
+          -  have clinically important abnormal screening laboratory values beyond AD;&#xD;
+&#xD;
+          -  have any conditions that would contraindicate an MRI, such as the presence metallic&#xD;
+             objects in the eyes, skin, or heart;&#xD;
+&#xD;
+          -  have any conditions that would contraindicate a PET scan;&#xD;
+&#xD;
+          -  have &gt; 4 cerebral microhemorrhages (regardless of their anatomical location or&#xD;
+             diagnostic characterization as &quot;possible&quot; or &quot;definite&quot;), a single area of superficial&#xD;
+             siderosis, or evidence of a prior macrohemorrhage as assessed by MRI;&#xD;
+&#xD;
+          -  be currently using corticosteroids or similar powerful steroidal anti-inflammatory&#xD;
+             medication (e.g., Prednisone) on a regular basis (exceptions allowed include regular&#xD;
+             use of steroidal nasal sprays, topical steroids, and estrogen-replacement therapy);&#xD;
+&#xD;
+          -  be active listed (or expected to be listed) for transplant of any organ;&#xD;
+&#xD;
+          -  be an organ transplant recipient;&#xD;
+&#xD;
+          -  have a known hypersensitivity to dimethyl sulfoxide (DMSO).&#xD;
+&#xD;
+          -  have a condition that is projected to limited life expectancy to &lt; 1 year.&#xD;
+&#xD;
+          -  have a sitting or resting systolic blood pressure &gt;180 mm Hg or diastolic blood&#xD;
+             pressure &gt;110 mm Hg at Screening;&#xD;
+&#xD;
+          -  have a history of alcohol or drug abuse within the past 5 years.&#xD;
+&#xD;
+          -  have been diagnosed with malignancy within the past 5 years, with the exception of&#xD;
+             curatively-treated basal cell carcinoma, squamous cell carcinoma, melanoma in situ or&#xD;
+             cervical carcinoma;&#xD;
+&#xD;
+          -  be a female who is pregnant, nursing, or of childbearing potential while not&#xD;
+             practicing effective contraception (female subjects must undergo a urine pregnancy&#xD;
+             test at screening and on the infusion day prior to infusion);&#xD;
+&#xD;
+          -  have any serious illness or any other condition that, in the opinion of the&#xD;
+             investigator, may compromise the safety or compliance of the subject or preclude&#xD;
+             successful completion of the study;&#xD;
+&#xD;
+          -  have any serious illness or any other condition that, in the opinion of the&#xD;
+             investigator, may compromise the validity of the study (e.g., signs of stroke,&#xD;
+             traumatic brain injury (TBI), multiple sclerosis (MS), amyotrophic lateral sclerosis&#xD;
+             (ALS), and Parkinsonism;&#xD;
+&#xD;
+          -  have participated in any investigational therapeutic or device trial within the past 5&#xD;
+             years that the investigator feels would influence or affect the outcome of the study;&#xD;
+&#xD;
+          -  be currently participating (or participated within the previous 30 days) in an&#xD;
+             investigational therapeutic or device trial;&#xD;
+&#xD;
+          -  be positive for HIV, Syphilis and Hepatitis C; or&#xD;
+&#xD;
+          -  be positive for Hepatitis B. If the subject tests positive for anti-HBc or anti-HBs,&#xD;
+             subject must be currently receiving treatment for hHepatitis B prior to infusion and&#xD;
+             remain on treatment throughout the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Brain Matters Research</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Miller School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Jewish Health</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>November 2, 2015</study_first_submitted>
+  <study_first_submitted_qc>November 6, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 9, 2015</study_first_posted>
+  <last_update_submitted>December 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2491">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04815122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Process HCRP 3.844.428</org_study_id>
+    <nct_id>NCT04815122</nct_id>
+  </id_info>
+  <brief_title>Correlation Between COMT Val158Met Polymorphism and Dopaminergic Transporter Density (DAT) in Obese Women</brief_title>
+  <official_title>Correlation Between the Presence of COMT Val158Met Polymorphism and Dopaminergic Transporter Density (DAT) in Obese Young Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fundação de Amparo à Pesquisa do Estado de São Paulo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Sao Paulo</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present study aims to evaluate the correlation between the presence of COMT Val158Met&#xD;
+      polymorphism and the density of dopaminergic transporters (DAT) in young obese women.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The prevalence of obesity remains increasingly alarming in Brazil and worldwide. The most&#xD;
+      widely recommended therapy for obesity is lifestyle modification, however, implementing these&#xD;
+      changes that can lead to weight loss is difficult and maintaining a long-term weight loss is&#xD;
+      even more challenging. Consequently, an academic effort is required to understand the&#xD;
+      pathophysiology and treat obesity for the establishment of new approaches to reducing food&#xD;
+      intake.&#xD;
+&#xD;
+      Recent evidence in the field of obesity and brain-based integration indicates a potential for&#xD;
+      designing new therapeutic interventions. Noninvasive neuromodulation of brain activity has&#xD;
+      been shown to be a technique that can help reduce food cravings and food intake and, more&#xD;
+      recently, body weight, offering a new way to treat obesity. However, recent studies have&#xD;
+      shown that this biomedical intervention could have a paradoxical effect related to COMT&#xD;
+      Val158Met polymorphism, which impacts dopamine levels in the prefrontal cortex. The potential&#xD;
+      mechanisms underlying this effect are unclear and future studies are needed to promote this&#xD;
+      clarification.&#xD;
+&#xD;
+      This study aims to verify the influence of the COMT Val158Met polymorphism on the density of&#xD;
+      dopaminergic transporters in the presynaptic membrane of dopaminergic neurons, exploring the&#xD;
+      3 dopaminergic pathways: via nigroestrital, mesolimbic and mesocortical. This investigation&#xD;
+      will be carried out through the cerebral SPECT using the radiopharmaceutical&#xD;
+      99mTecnécio-TRODAT-1 in young obese women with and without COMT Val158Met polymorphism. In&#xD;
+      baseline conditions, the investigators will compare the SPECT 99mTc-TRODAT-1 of obese women&#xD;
+      with and without the COMT Val158Met polymorphism with a database of non-obese volunteers.&#xD;
+&#xD;
+      Our hypothesis is that the study will facilitate understanding of the variability of the&#xD;
+      individual response of carriers and non-carriers of the Met allele of the COMT Val158Met&#xD;
+      polymorphism, affecting dopamine levels in the brain and to design, in the future, for the&#xD;
+      treatment of obesity based on the individuals' genotypic differences.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Density of Dopaminergic transporters (DAT)</measure>
+    <time_frame>During the procedure</time_frame>
+    <description>The primary outcome is to compare the density of dopaminergic transporters (DAT) in the 3 dopaminergic pathways: via nigroestrital, mesolimbic and mesocortical in obese women with and without COMT Val158Met polymorphism.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">38</enrollment>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Carriers of the Met allele of the COMT Val158Met polymorphism</arm_group_label>
+    <description>Women with obesity carriers of the Met allele of the COMT Val158Met polymorphism</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-carriers of the Met allele of the COMT Val158Met polymorphism</arm_group_label>
+    <description>Women with obesity non-carriers of the Met allele of the COMT Val158Met polymorphism</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>SPECT TRODAT-1</intervention_name>
+    <description>The Single-photon Emission Tomography (SPECT) TRODAT-1 will be performed after the voluntary rest in a dark and silent room for 30 minutes, to eliminate possible influences from external stimuli; the radiopharmaceutical [99mTC] -TRODAT-1 will be injected through the venous access previously established, 4 hours after the injection of the radiopharmaceutical, the acquisition of cerebral SPECT will be performed in the two groups of obese women, with and without COMT Val158Met polymorphism. The images will be acquired on Philips BrightView XCT equipment, equipped with a double detector.</description>
+    <arm_group_label>Carriers of the Met allele of the COMT Val158Met polymorphism</arm_group_label>
+    <arm_group_label>Non-carriers of the Met allele of the COMT Val158Met polymorphism</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Young women with obesity (BMI 30-35kg/m2), with and without COMT Val158Met polymorphism who&#xD;
+        participated in a previous study registered at clinicaltrials.gov (NCT02953353).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women with obesity (BMI 30-35kg/m2), with and without COMT Val158Met polymorphism.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  pregnancy&#xD;
+&#xD;
+          -  any active psychiatric or neurological condition at the time of joining the study&#xD;
+&#xD;
+          -  any other significant medical condition&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vivian MM Suen, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of São Paulo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Lauro Winchert-Ana, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of São Paulo</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Priscila G Fassini, PhD</last_name>
+    <phone>+55 16 36022366</phone>
+    <email>priscilafassini@usp.br</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinical Hospital of Ribeirão Preto Medical School</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <state>São Paulo</state>
+        <zip>14048-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <reference>
+    <citation>Avsar O, Kuskucu A, Sancak S, Genc E. Are dopaminergic genotypes risk factors for eating behavior and obesity in adults? Neurosci Lett. 2017 Jul 27;654:28-32. doi: 10.1016/j.neulet.2017.06.023. Epub 2017 Jun 16.</citation>
+    <PMID>28629779</PMID>
+  </reference>
+  <reference>
+    <citation>Barnett JH, Scoriels L, Munafò MR. Meta-analysis of the cognitive effects of the catechol-O-methyltransferase gene Val158/108Met polymorphism. Biol Psychiatry. 2008 Jul 15;64(2):137-44. doi: 10.1016/j.biopsych.2008.01.005. Epub 2008 Mar 14. Erratum in: Biol Psychiatry. 2011 Feb 15;69(4):389.</citation>
+    <PMID>18339359</PMID>
+  </reference>
+  <reference>
+    <citation>Chen PS, Yang YK, Yeh TL, Lee IH, Yao WJ, Chiu NT, Lu RB. Correlation between body mass index and striatal dopamine transporter availability in healthy volunteers--a SPECT study. Neuroimage. 2008 Mar 1;40(1):275-9. Epub 2007 Nov 21.</citation>
+    <PMID>18096411</PMID>
+  </reference>
+  <reference>
+    <citation>Fassini PG, Das SK, Suen VMM, Magerowski G, Marchini JS, da Silva Junior WA, Changyu S, Alonso-Alonso M. Appetite effects of prefrontal stimulation depend on COMT Val158Met polymorphism: A randomized clinical trial. Appetite. 2019 Sep 1;140:142-150. doi: 10.1016/j.appet.2019.05.015. Epub 2019 May 13.</citation>
+    <PMID>31095973</PMID>
+  </reference>
+  <reference>
+    <citation>Fassini PG, Das SK, Magerowski G, Marchini JS, da Silva Junior WA, da Silva IR, de Souza Ribeiro Salgueiro R, Machado CD, Suen VMM, Alonso-Alonso M. Noninvasive neuromodulation of the prefrontal cortex in young women with obesity: a randomized clinical trial. Int J Obes (Lond). 2020 Jun;44(6):1279-1290. doi: 10.1038/s41366-020-0545-3. Epub 2020 Feb 19.</citation>
+    <PMID>32076105</PMID>
+  </reference>
+  <reference>
+    <citation>Fonteneau C, Redoute J, Haesebaert F, Le Bars D, Costes N, Suaud-Chagny MF, Brunelin J. Frontal Transcranial Direct Current Stimulation Induces Dopamine Release in the Ventral Striatum in Human. Cereb Cortex. 2018 Jul 1;28(7):2636-2646. doi: 10.1093/cercor/bhy093.</citation>
+    <PMID>29688276</PMID>
+  </reference>
+  <reference>
+    <citation>Horstmann A, Fenske WK, Hankir MK. Argument for a non-linear relationship between severity of human obesity and dopaminergic tone. Obes Rev. 2015 Oct;16(10):821-30. doi: 10.1111/obr.12303. Epub 2015 Jun 22. Review.</citation>
+    <PMID>26098597</PMID>
+  </reference>
+  <reference>
+    <citation>Van Laere K, De Ceuninck L, Dom R, Van den Eynden J, Vanbilloen H, Cleynhens J, Dupont P, Bormans G, Verbruggen A, Mortelmans L. Dopamine transporter SPECT using fast kinetic ligands: 123I-FP-beta-CIT versus 99mTc-TRODAT-1. Eur J Nucl Med Mol Imaging. 2004 Aug;31(8):1119-27. Epub 2004 Apr 3.</citation>
+    <PMID>15064872</PMID>
+  </reference>
+  <reference>
+    <citation>Slifstein M, Kolachana B, Simpson EH, Tabares P, Cheng B, Duvall M, Frankle WG, Weinberger DR, Laruelle M, Abi-Dargham A. COMT genotype predicts cortical-limbic D1 receptor availability measured with [11C]NNC112 and PET. Mol Psychiatry. 2008 Aug;13(8):821-7. doi: 10.1038/mp.2008.19. Epub 2008 Mar 4.</citation>
+    <PMID>18317466</PMID>
+  </reference>
+  <reference>
+    <citation>Volkow ND, Wang GJ, Telang F, Fowler JS, Thanos PK, Logan J, Alexoff D, Ding YS, Wong C, Ma Y, Pradhan K. Low dopamine striatal D2 receptors are associated with prefrontal metabolism in obese subjects: possible contributing factors. Neuroimage. 2008 Oct 1;42(4):1537-43. doi: 10.1016/j.neuroimage.2008.06.002. Epub 2008 Jun 13.</citation>
+    <PMID>18598772</PMID>
+  </reference>
+  <reference>
+    <citation>Wang GJ, Volkow ND, Logan J, Pappas NR, Wong CT, Zhu W, Netusil N, Fowler JS. Brain dopamine and obesity. Lancet. 2001 Feb 3;357(9253):354-7.</citation>
+    <PMID>11210998</PMID>
+  </reference>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 24, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Sao Paulo</investigator_affiliation>
+    <investigator_full_name>Vivian Marques Miguel Suen</investigator_full_name>
+    <investigator_title>Professor of Internal Medicine Department at Ribeirão Preto Medical School</investigator_title>
+  </responsible_party>
+  <keyword>Obesity</keyword>
+  <keyword>Genetic polymorphism</keyword>
+  <keyword>Dopamine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obesity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

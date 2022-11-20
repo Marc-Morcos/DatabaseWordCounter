@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1657">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02795780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18F-AV-1451-A18</org_study_id>
+    <nct_id>NCT02795780</nct_id>
+  </id_info>
+  <brief_title>Follow up 18F-AV-1451 Scan in Confirmatory Cohort Subjects From Study 18F-AV-1451-A05</brief_title>
+  <official_title>An Open Label, Multicenter Study Evaluating the Imaging Characteristics of a Follow up 18F-AV-1451 Scan in Subjects That Participated in the Confirmatory Cohort of 18F-AV-1451-A05</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Avid Radiopharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Avid Radiopharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate longitudinal change of tau deposition as measured by flortaucipir F&#xD;
+      18 uptake over time.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2016</start_date>
+  <completion_date type="Actual">August 28, 2017</completion_date>
+  <primary_completion_date type="Actual">August 28, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Tau Deposition Over Time by Diagnostic Group and Amyloid Status</measure>
+    <time_frame>18 months</time_frame>
+    <description>Change in flortaucipir standardized uptake value ratio (SUVr) over 18 months. For SUVr, a value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain. A positive change in SUVr represents an increase in tau deposition in the brain. Change = 18 month SUVr - baseline SUVr obtained in Study A05.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">79</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Follow-up Flortaucipir PET Scan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flortaucipir F18</intervention_name>
+    <description>370 megabecquerel (MBq) IV single-dose</description>
+    <arm_group_label>Follow-up Flortaucipir PET Scan</arm_group_label>
+    <other_name>T807</other_name>
+    <other_name>18F-AV-1451</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>PET Scan</intervention_name>
+    <description>positron emission tomography (PET) scan</description>
+    <arm_group_label>Follow-up Flortaucipir PET Scan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmatory cohort subjects who completed the 18F-AV-1451-A05 (NCT02016560) study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current clinically significant cardiovascular disease, ECG abnormalities, risk factors&#xD;
+             for Torsades de Pointes (TdP), or are taking drugs known to cause QT prolongation&#xD;
+&#xD;
+          -  Current clinically significant infectious disease, endocrine or metabolic disease,&#xD;
+             pulmonary, renal or hepatic impairment, or cancer&#xD;
+&#xD;
+          -  Females of childbearing potential who are not surgically sterile, not refraining from&#xD;
+             sexual activity or not using reliable methods of contraception&#xD;
+&#xD;
+          -  Have had a non-study related radiopharmaceutical imaging or treatment procedure within&#xD;
+             7 days prior to the study imaging session&#xD;
+&#xD;
+          -  Have received or participated in a trial with investigational medications in the past&#xD;
+             30 days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Imaging Endpoints</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Arizona</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Sun Health Research Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute for Brain Aging and Dementia, UC Irvine</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Disease Center, UC Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Medical Clinic for Headache</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropsychiatric Research Center of Southwest Florida</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Compass Research, LLC</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida Health Byrd Alzheimer's Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Premiere Research Institute</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston University School of Medicine</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Las Vegas Radiology</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York University Center for Brain Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>June 7, 2016</study_first_submitted>
+  <study_first_submitted_qc>June 7, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 10, 2016</study_first_posted>
+  <results_first_submitted>June 27, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 7, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 24, 2020</results_first_posted>
+  <disposition_first_submitted>October 23, 2018</disposition_first_submitted>
+  <disposition_first_submitted_qc>October 23, 2018</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">October 25, 2018</disposition_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 22, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/80/NCT02795780/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 11, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/80/NCT02795780/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Enrolled between Aug 2016 and Aug 2017. The only subjects eligible were those who completed the Confirmatory Phase of Study A05 (NCT02016560).</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>AD Subjects</title>
+          <description>Clinically diagnosed dementia with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+        <group group_id="P2">
+          <title>MCI Subjects</title>
+          <description>Clinically diagnosed mild cognitive impairment with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="54"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="54"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>AD Subjects</title>
+          <description>Clinically diagnosed dementia with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27 from the flortaucipir PET scan arm</description>
+        </group>
+        <group group_id="B2">
+          <title>MCI Subjects</title>
+          <description>Clinically diagnosed mild cognitive impairment with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27 from the flortaucipir PET scan arm</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="25"/>
+            <count group_id="B2" value="54"/>
+            <count group_id="B3" value="79"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="73.8" spread="10.63"/>
+                    <measurement group_id="B2" value="73.2" spread="9.1"/>
+                    <measurement group_id="B3" value="73.4" spread="9.54"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="76"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="54"/>
+                    <measurement group_id="B3" value="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>MMSE</title>
+          <description>Mini-mental status exam (MMSE) is a 30-point questionnaire that is used to measure cognitive impairment. Scores range from 0 to 30 with lower scores representing greater levels of cognitive impairment.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23.7" spread="2.39"/>
+                    <measurement group_id="B2" value="25.9" spread="1.48"/>
+                    <measurement group_id="B3" value="25.2" spread="2.06"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>CDR-SB</title>
+          <description>The CDR scale (Berg 1988) examines 6 cognitive functioning domains individually on a scale of 0 to 3. CDR Sum of Boxes (CDR-SB) is generated by summing the total score across domains. Scores range from 0 to 18, with higher scores indicating higher levels of cognitive impairment.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.8" spread="1.53"/>
+                    <measurement group_id="B2" value="2.6" spread="1.91"/>
+                    <measurement group_id="B3" value="3.3" spread="2.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Amyloid status</title>
+          <description>Amyloid status (positive/negative) determined by florbetapir PET</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Amyloid positive</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="45"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Amyloid Negative</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="28"/>
+                    <measurement group_id="B3" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Tau Deposition Over Time by Diagnostic Group and Amyloid Status</title>
+        <description>Change in flortaucipir standardized uptake value ratio (SUVr) over 18 months. For SUVr, a value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain. A positive change in SUVr represents an increase in tau deposition in the brain. Change = 18 month SUVr - baseline SUVr obtained in Study A05.</description>
+        <time_frame>18 months</time_frame>
+        <population>Excluded 1 MCI Aβ+ and 1 MCI Aβ- subject for whom 18 month follow-up clinical was not available</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD Aβ+ Subjects</title>
+            <description>Amyloid positive AD subjects from the flortaucipir PET scan arm</description>
+          </group>
+          <group group_id="O2">
+            <title>AD Aβ- Subjects</title>
+            <description>Amyloid negative AD subjects from the flortaucipir PET scan arm</description>
+          </group>
+          <group group_id="O3">
+            <title>MCI Aβ+ Subjects</title>
+            <description>Amyloid positive MCI subjects from the flortaucipir PET scan arm</description>
+          </group>
+          <group group_id="O4">
+            <title>MCI Aβ- Subjects</title>
+            <description>Amyloid negative MCI subjects from the flortaucipir PET scan arm</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Tau Deposition Over Time by Diagnostic Group and Amyloid Status</title>
+          <description>Change in flortaucipir standardized uptake value ratio (SUVr) over 18 months. For SUVr, a value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain. A positive change in SUVr represents an increase in tau deposition in the brain. Change = 18 month SUVr - baseline SUVr obtained in Study A05.</description>
+          <population>Excluded 1 MCI Aβ+ and 1 MCI Aβ- subject for whom 18 month follow-up clinical was not available</population>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="6"/>
+                <count group_id="O3" value="26"/>
+                <count group_id="O4" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0205" spread="0.01871"/>
+                    <measurement group_id="O2" value="-0.0912" spread="0.03619"/>
+                    <measurement group_id="O3" value="0.0352" spread="0.01185"/>
+                    <measurement group_id="O4" value="-0.0124" spread="0.01185"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Test of whether difference in least squares mean change is 0</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0166</p_value>
+            <p_value_desc>No adjustments for multiplicity. No a priori threshold defined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjusted for baseline SUVr, age, and diagnosis group (AD/MCI)</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <groups_desc>Test of whether difference in least squares mean change is 0</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0108</p_value>
+            <p_value_desc>No adjustments for multiplicity. No a priori threshold defined.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjusted for baseline SUVr, age, and diagnosis group (AD/MCI)</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>48 hours after study drug administration</time_frame>
+      <desc>Adverse events (AEs) were collected at scan visits, regardless of attribution to study drug. AEs occurring after study drug administration, but outside that window were not recorded, unless considered attributable to study drug.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>MCI Subjects</title>
+          <description>MCI subjects receiving a dose of flortaucipir</description>
+        </group>
+        <group group_id="E2">
+          <title>AD Subjects</title>
+          <description>AD subjects receiving a dose of flortaucipir</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="54"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="54"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0.5</frequency_threshold>
+        <default_vocab>MedDRA (20.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="54"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>injection site pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="54"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>dizziness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="54"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>flushing</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="54"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="25"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Medical Director</name_or_title>
+      <organization>Avid Radiopharmaceuticals, Inc.</organization>
+      <phone>215-298-0700</phone>
+      <email>clinicaloperations@avidrp.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

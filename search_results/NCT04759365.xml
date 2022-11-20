@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="286">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04759365</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ASN51-101</org_study_id>
+    <nct_id>NCT04759365</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability, Pharmacokinetic, and Pharmacodynamic Study of Oral ASN51 in Healthy Subjects and Subjects With Alzheimer's Disease</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Phase 1 Safety, Tolerability, Pharmacokinetics and Pharmacodynamics Study of Oral ASN51 in Healthy Young Adult and Elderly Subjects and Elderly Subjects With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Asceneuron Pty Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Asceneuron S.A.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Neuroscience Trials Australia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Asceneuron S.A.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ASN51-101 is a randomized, double-blind, placebo-controlled, phase 1 first in human (FIH)&#xD;
+      safety, tolerability, pharmacokinetics (PK) and pharmacodynamics (PD) study of oral ASN51 in&#xD;
+      healthy young adult and elderly subjects and elderly subjects with AD. The study is comprised&#xD;
+      of three parts (Part 1, Part 2, and Part 3).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part 1:&#xD;
+&#xD;
+      Five (5) single-ascending oral doses will be administered to 40 healthy adult male or female&#xD;
+      subjects (aged 18-55 years, inclusive). Escalation to the next higher dose level may occur&#xD;
+      only after evaluation of the safety and PK results of the previous dose level (at least 6&#xD;
+      evaluable subjects). Within each cohort, 6 subjects will receive one dose of ASN51, and 2&#xD;
+      subjects will receive one dose of matching placebo. Based on this interim safety evaluation,&#xD;
+      dose levels may be revised.&#xD;
+&#xD;
+      Part 2:&#xD;
+&#xD;
+      Multiple ascending oral doses will be administered to 24 healthy elderly subjects (aged 55 -&#xD;
+      80 years, inclusive) in 3 sequential dosing groups (8 subjects in each dosing group). Six (6)&#xD;
+      subjects will receive ASN51 and two (2) subjects will receive matching placebo in each dosing&#xD;
+      group (cohort) for 10 days. Escalation to the next higher dose level may occur only after&#xD;
+      evaluation of the safety and PK results of the previous dose level (at least 6 evaluable&#xD;
+      subjects). Based on this interim safety evaluation, dose levels may be revised.&#xD;
+&#xD;
+      Treatment of the subjects of each cohort will be administered as follows:&#xD;
+&#xD;
+      Day 1 - 9: Twice daily (BID) dosing (or once daily (QD) dosing); to be defined after Part 1&#xD;
+      (SAD) of ASN51 or placebo.&#xD;
+&#xD;
+      Day 10: Only one dose will be administered in the morning of Day 10 Selection of the dosing&#xD;
+      regimen and dose levels to be administered in Part 2 will be made by the safety review&#xD;
+      committee (SRC), depending on the results of Part 1.&#xD;
+&#xD;
+      Part 3:&#xD;
+&#xD;
+      Multiple oral doses will be administered to 12 AD subjects (aged 55-85, inclusive) in a&#xD;
+      single dosing group for 10 days. Eight (8) AD subjects will receive ASN51 and four (4) AD&#xD;
+      subjects will receive placebo in that dosing group (cohort). Selection of the dose level to&#xD;
+      be administered in Part 3 will be made by the SRC and will depend on the results of study&#xD;
+      Part 1 (SAD) and Part 2 (MAD), and will be below the maximum tolerated dose administered to&#xD;
+      healthy subjects in Part 2.&#xD;
+&#xD;
+      Treatment of the AD subjects will be administered as follows:&#xD;
+&#xD;
+      Day 1 - 9: Twice daily (BID) dosing (or once daily (QD) dosing); to be defined after Part 2&#xD;
+      (MAD) of ASN51 or placebo.&#xD;
+&#xD;
+      Day 10: Only one dose will be administered in the morning of Day 10. Selection of the dosing&#xD;
+      regimen and dose level to be administered in Part 3 will be made by the safety review&#xD;
+      committee (SRC), depending on the results of both Part 1 and Part 2.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 2, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to 38 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The area under the concentration-time curve from time zero to time t of the last measured concentration above the limit of quantification (AUC0-t) in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The area under the concentration-time curve from zero to infinity (AUC0-inf) in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The maximum concentration (Cmax) at steady state in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The time to reach maximum concentration (tmax) in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The terminal elimination rate constant (λZ) with the respective half-life (t½) in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The percentage of the extrapolated AUC in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: Area under the concentration-time curve from time zero to the end of the dosing interval (AUCtau) in plasma (Part 2 Day 1 only)</measure>
+    <time_frame>Up to 1 day</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The minimal observed trough concentration (Cmin) at steady state in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The average concentration (Cavg) at steady state in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: Accumulation Ratio: AUCtau at Day 10/ AUCtau at Day 1 in plasma</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The mean cumulative amounts excreted (both in % of the administered dose and in mg ASN51) will be calculated both for Fe(0-72h) and Fe(0-tau) and Ae(0-72h) and Ae(0-tau), respectively</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The area under the plasma concentration-time curve from time zero to time t of the last measured concentration above the limit of quantification (AUC0-t) in cerebrospinal fluid (CSF)</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The area under the plasma concentration-time curve from zero to infinity (AUC0-∞) in CSF</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Parameter: The maximum plasma concentration (Cmax) in CSF</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The time to reach maximum plasma concentration (tmax) in CSF</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The terminal elimination rate constant (λZ) with the respective half-life (t½) in CSF</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: The percentage of the extrapolated AUC in CSF</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK parameter: Area under the concentration-time curve from time zero to the end of the dosing interval (AUCtau) in CSF</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PD parameter: Change from baseline in total and phosphorylated CSF tau</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PD parameter: Change from baseline in quantitative electroencephalography power and the P300 event related potential (ERP)</measure>
+    <time_frame>Up to 10 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">76</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>ASN51</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ASN51 will be administered as an oral capsule</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be administered as an oral capsule</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ASN51</intervention_name>
+    <description>ASN51 formulation for oral capsule</description>
+    <arm_group_label>ASN51</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo formulation for oral capsule</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Part 1 and Part 2 Only:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy as determined by the Investigator, based on a medical evaluation including&#xD;
+             medical history, physical examination, neurological examination, laboratory tests and&#xD;
+             cardiac monitoring. A subject with a clinical abnormality or laboratory parameters&#xD;
+             outside the reference range for the population being studied may be included only if,&#xD;
+             in the opinion of the Investigator, the finding is (a) unlikely to introduce&#xD;
+             additional risk to the subject, (b) will not interfere with study procedures or&#xD;
+             confound study results, and (c) is not otherwise exclusionary (see Exclusion&#xD;
+             Criteria).&#xD;
+&#xD;
+          2. Men and women aged 18-55 years, inclusive, at Screening (Part 1) or 55-80 years,&#xD;
+             inclusive, at Screening (Part 2)&#xD;
+&#xD;
+          3. Subject must understand the nature of the study and provide signed and dated written&#xD;
+             informed consent in accordance with local regulations before the conduct of any&#xD;
+             study-related procedures.&#xD;
+&#xD;
+          4. Able to complete all study related testing and evaluations&#xD;
+&#xD;
+          5. Women (Part 1 only) and men of child-bearing potential with partners of child-bearing&#xD;
+             potential must agree to use highly effective contraception. Contraception should&#xD;
+             consist of: (1) a condom for the male participant or partner of a female participant,&#xD;
+             combined with (2) a highly effective method of contraception (e.g., a hormonal method&#xD;
+             associated with suppression of ovulation, an intrauterine device [IUD]) for the female&#xD;
+             participant or partner of a male participant. Abstinence from heterosexual intercourse&#xD;
+             should only be used in place of contraception when this is consistent with the usual&#xD;
+             and preferred lifestyle of the participant. For male subjects, contraception should&#xD;
+             continue for 90 days after the last dose of investigational medicinal product (IMP,&#xD;
+             one spermatic cycle). Male subjects should agree to refrain from sperm donation&#xD;
+             throughout this same period.&#xD;
+&#xD;
+          6. Women of non-childbearing potential must be post-menopausal (the last menstrual period&#xD;
+             was at least 12 months ago, and follicle-stimulating hormone [FSH] at Screening&#xD;
+             confirms post-menopausal status), or have no uterus, ovaries, or fallopian tubes (or&#xD;
+             have their fallopian tubes tied). All women must have a negative pregnancy test result&#xD;
+             before administration of test article. Women who are surgically sterile must provide&#xD;
+             documentation of the procedure by an operative report or by ultrasound.&#xD;
+&#xD;
+          7. Body weight &gt; 50.0 kg for men and &gt; 50 kg for women and Body Mass Index (BMI) within&#xD;
+             the range 18.5-30.0 kg/m2, inclusive.&#xD;
+&#xD;
+          8. Subject must be, in the opinion of the Investigator, able to participate in all&#xD;
+             scheduled evaluations, likely to complete all required tests, and likely to be&#xD;
+             compliant.&#xD;
+&#xD;
+          9. Subjects is fluent in the local language.&#xD;
+&#xD;
+         10. Subject agrees not to post any personal medical data related to the study or&#xD;
+             information related to the study on any website or social media site (e.g., Facebook,&#xD;
+             Twitter, etc.) until the trial has been completed, this does not include information&#xD;
+             about participating in a clinical study in general.&#xD;
+&#xD;
+         11. [Part 2 only] Subject is able to undergo Lumbar Puncture (LP)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A positive urine drug screen/alcohol breath test at Screening or Day -1.&#xD;
+&#xD;
+          2. Any history of intellectual disability or psychiatric disorders, including substance&#xD;
+             use disorders, according to the Diagnostic and Statistical Manual of Mental Disorders,&#xD;
+             5th Edition (DSM-5) criteria, except a history of mild depression/anxiety that has&#xD;
+             been resolved for at least the past 12 months.&#xD;
+&#xD;
+          3. A positive Hepatitis B surface antigen, Hepatitis C antibody, or Human&#xD;
+             Immunodeficiency Virus (HIV) antibody test at Screening.&#xD;
+&#xD;
+          4. Alanine aminotransferase or aspartate aminotransferase levels greater than 1.5 times&#xD;
+             the upper limit of normal (ULN) at Screening or between Screening and first dose&#xD;
+             administration.&#xD;
+&#xD;
+          5. Frequent use of any tobacco-containing (e.g., cigar, cigarette, or snuff) or&#xD;
+             nicotine-containing product (e.g., nicotine chewing gum, nicotine plasters, or other&#xD;
+             product used for smoking cessation) within 3 months prior to 1 week before study drug&#xD;
+             administration. Frequent use is defined as more than 10 cigarettes or equivalent per&#xD;
+             week. Use of any tobacco or nicotine-containing product is prohibited from 1 week&#xD;
+             prior to study drug administration throughout the study (final visit).&#xD;
+&#xD;
+          6. History of regular alcohol consumption within the last 12 months, defined as an&#xD;
+             average weekly intake of &gt;21 alcoholic drinks/week for men or &gt;14 alcoholic&#xD;
+             drinks/week for women.&#xD;
+&#xD;
+          7. Regularly consumed (e.g., more days than not) excessive quantities of&#xD;
+             xanthine-containing beverages (e.g., more than five cups of coffee or the equivalent&#xD;
+             per day) within 30 days prior to Day -1.&#xD;
+&#xD;
+          8. Received or used an investigational product (including placebo) or device within the&#xD;
+             following time period prior to Day -1 in the current study: 90 days, 5 half-lives, or&#xD;
+             twice the duration of the biological effect of the investigational product (whichever&#xD;
+             is longer).&#xD;
+&#xD;
+          9. Use of prescription or non-prescription drugs, vitamins, herbal, and dietary&#xD;
+             supplements (including St John's Wort) within 7 days (or 28 days if the drug is a&#xD;
+             potential hepatic enzyme inducer) or 5 half-lives (whichever is longer) prior to Day&#xD;
+             -1.&#xD;
+&#xD;
+         10. History of clinically significant sensitivity to any of the study medications, or&#xD;
+             components thereof or a history of drug or other allergy that, in the opinion of the&#xD;
+             Investigator or Medical Monitor, contraindicates their participation.&#xD;
+&#xD;
+         11. Loss of more than 400 mL of blood within 3 months prior to Day -1, i.e., blood donor&#xD;
+&#xD;
+         12. A positive serum pregnancy test or lactation.&#xD;
+&#xD;
+         13. Hearing test result considered unacceptable for auditory ERP P300 assessment.&#xD;
+&#xD;
+         14. A history or presence of any disease, condition, or surgery likely to affect drug&#xD;
+             absorption, distribution, metabolism, or excretion. Subjects with a history of&#xD;
+             cholecystectomy should be excluded.&#xD;
+&#xD;
+         15. A history or presence of a clinically significant hepatic, renal, gastrointestinal,&#xD;
+             cardiovascular, endocrine, pulmonary, ophthalmologic, immunologic, hematologic,&#xD;
+             dermatologic, or neurologic abnormality.&#xD;
+&#xD;
+         16. A clinically significant abnormality on physical examination, neurological&#xD;
+             examination, electrocardiogram (ECG), or laboratory evaluations at Screening or&#xD;
+             between Screening and first dose administration.&#xD;
+&#xD;
+         17. A corrected QT interval measurement corrected according to the Fridericia rule (QTcF)&#xD;
+             &gt; 450 msec during controlled rest at screening or between screening and first dose&#xD;
+             administration, or family history of long QT syndrome.&#xD;
+&#xD;
+         18. Any clinically significant abnormalities in rhythm, conduction, or morphology of the&#xD;
+             resting ECG and any abnormalities in the 12-lead ECG that, in the judgement of the&#xD;
+             Investigator or Medical Monitor, may interfere with the interpretation of QTc interval&#xD;
+             changes, including abnormal ST-T-wave morphology or left ventricular hypertrophy.&#xD;
+&#xD;
+         19. PR (PQ) interval shortening &lt; 120 msec (PR &lt; 120 msec but &gt; 110 msec is acceptable if&#xD;
+             there is no evidence of ventricular pre-excitation).&#xD;
+&#xD;
+         20. PR (PQ) interval prolongation (&gt; 220 msec), intermittent second- (Wenckebach block&#xD;
+             while asleep or in deep rest is not exclusionary) or third-degree AV block.&#xD;
+&#xD;
+         21. Persistent or intermittent complete bundle branch block (BBB), incomplete bundle&#xD;
+             branch block (IBBB), or intraventricular conduction delay (IVCD) with QRS &gt; 120 msec.&#xD;
+&#xD;
+         22. A clinically significant vital signs abnormality at Screening or Day -1 This includes,&#xD;
+             but is not limited to, the following, in the sitting position (3 measurements, each 5&#xD;
+             minutes apart): (a) systolic blood pressure &lt; 90 or &gt;140 mmHg, (b) diastolic blood&#xD;
+             pressure &lt; 50 or &gt; 95 mmHg, or (c) heart rate &lt; 45 or &gt; 100 beats per minute.&#xD;
+&#xD;
+         23. Significant (&gt; 10%) weight loss or gain within 30 days prior to Day -1&#xD;
+&#xD;
+         24. A history of seizure.&#xD;
+&#xD;
+         25. A history of head trauma, with loss of consciousness, except for minor head trauma&#xD;
+             that occurred at least 20 years prior to first dose.&#xD;
+&#xD;
+         26. A history of symptomatic orthostatic hypotension (i.e., postural syncope) or&#xD;
+             symptomatic orthostatic hypotension at Screening.&#xD;
+&#xD;
+         27. A history of neuroleptic malignant syndrome.&#xD;
+&#xD;
+         28. A history of chronic urinary tract infections.&#xD;
+&#xD;
+         29. The subject is, in the opinion of the Investigator or Medical Monitor, unlikely to&#xD;
+             comply with the protocol or is unsuitable for any reason, e.g., known issues with&#xD;
+             ability to swallow size 00 capsules.&#xD;
+&#xD;
+         30. Currently employed by Asceneuron SA or by a clinical trial site participating in this&#xD;
+             study, or a first-degree relative of an Asceneuron SA employee or of an employee at a&#xD;
+             participating clinical trial site.&#xD;
+&#xD;
+         31. Unsatisfactory venous access.&#xD;
+&#xD;
+         32. Identification of suicide risk in the Columbia-Suicide Severity Rating Scale (C-SSRS).&#xD;
+&#xD;
+         33. Part 2 only: Abnormal exercise ECG in relation to age.&#xD;
+&#xD;
+        Part 3 Only:&#xD;
+&#xD;
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Between 55-85 years of age, inclusive.&#xD;
+&#xD;
+          2. Mild cognitive impairment due to AD or Mild-to-moderate AD dementia, Mini-Mental State&#xD;
+             Examination (MMSE) 14-27 and Clinical Dementia Rating (CDR) 0.5, 1 or 2 at the&#xD;
+             Screening Visit.&#xD;
+&#xD;
+          3. Clinical diagnosis of mild cognitive impairment or dementia, due probably to AD, by&#xD;
+             Revised National Institute on Aging-Alzheimer's Association criteria.&#xD;
+&#xD;
+          4. Reliable and capable support person/caregiver.&#xD;
+&#xD;
+          5. Able to undergo Lumbar Puncture (LP) and complete all study related testing and&#xD;
+             evaluations.&#xD;
+&#xD;
+          6. Women of non-childbearing potential must be post-menopausal [the last menstrual period&#xD;
+             was at least 12 months ago, and FSH at Screening confirms post-menopausal status], or&#xD;
+             have no uterus, ovaries, or fallopian tubes; or have their fallopian tubes tied. All&#xD;
+             women must have a negative pregnancy test result before administration of test&#xD;
+             article. Women who are surgically sterile must provide documentation of the procedure&#xD;
+             by an operative report or by ultrasound.&#xD;
+&#xD;
+          7. Women and men of child-bearing potential with partners of child-bearing potential must&#xD;
+             agree to use highly effective contraception. Contraception should consist of: (1) a&#xD;
+             condom for the male participant or partner of a female participant, combined with (2)&#xD;
+             a highly effective method of contraception (e.g., a hormonal method associated with&#xD;
+             suppression of ovulation, an IUD) for the female participant or partner of a male&#xD;
+             participant. Abstinence from heterosexual intercourse should only be used in place of&#xD;
+             contraception when this is consistent with the usual and preferred lifestyle of the&#xD;
+             participant. For male subjects, contraception should continue for 90 days after the&#xD;
+             last dose of IMP (one spermatic cycle). Male subjects should agree to refrain from&#xD;
+             sperm donation throughout this same period.&#xD;
+&#xD;
+          8. Treatment-free or receiving stable acetylcholinesterase inhibitor (AChEI) treatment,&#xD;
+             defined as:&#xD;
+&#xD;
+               -  Subjects who are taking an approved AChEI for at least 2 weeks prior to the first&#xD;
+                  Screening biomarker for efficacy assessment at a dose that is not anticipated to&#xD;
+                  change through the study follow-up period, OR&#xD;
+&#xD;
+               -  Subjects who received an AChEI in the past and discontinued, e.g., due to&#xD;
+                  tolerability issues, at least 5 half-lives or 30 days before the first Screening&#xD;
+                  biomarker or efficacy assessment, whichever is longer.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Receipt of any investigational drug or device within 8 weeks or 4 half-lives,&#xD;
+             whichever is longer, prior to randomization.&#xD;
+&#xD;
+          2. History of cardiovascular disease or at risk of stroke or heart attack, peripheral&#xD;
+             vascular intervention, atrial fibrillation, clinically relevant cardiac arrhythmias,&#xD;
+             or uncontrolled hypertension.&#xD;
+&#xD;
+          3. History within 2 years of Screening, or current diagnosis of the any of the following&#xD;
+             psychiatric disorders: Schizophrenia, schizoaffective disorder, bipolar disorder I, or&#xD;
+             alcohol abuse or dependence per DSM-5 criteria.&#xD;
+&#xD;
+          4. History of unexplained loss of consciousness, and seizures (excluding infant febrile&#xD;
+             seizures)&#xD;
+&#xD;
+          5. Ongoing infectious, metabolic, or systemic diseases affecting the central nervous&#xD;
+             system (CNS) (e.g. syphilis, untreated hypothyroidism, current vitamin B12 or folate&#xD;
+             deficiency, potentially clinically significant serum electrolyte disturbances,&#xD;
+             unstable diabetes mellitus (HbA1c &gt; 10.5%); or other similar conditions.&#xD;
+&#xD;
+          6. History within 2 years of Screening, or current diagnosis of a chronic inflammatory&#xD;
+             disease (i.e., rheumatoid arthritis, systemic lupus, erythematosus, Crohn's disease,&#xD;
+             etc.).&#xD;
+&#xD;
+          7. A positive Hepatitis B surface antigen, Hepatitis C antibody, or Human&#xD;
+             Immunodeficiency Virus (HIV) antibody test at Screening.&#xD;
+&#xD;
+          8. The subject has received active amyloid or tau immunization at any time, or passive&#xD;
+             immunization within 12 months of Screening.&#xD;
+&#xD;
+          9. Intake of any of the prohibited medications listed below within the past 30 days or 5&#xD;
+             half-lives, whichever is longer. Subjects need to stay off the medication during the&#xD;
+             trial.&#xD;
+&#xD;
+               -  For memantine, a 1-month drug-free period is required between the last dose&#xD;
+                  received and Screening&#xD;
+&#xD;
+               -  Anticonvulsants&#xD;
+&#xD;
+               -  Neuroleptics (quetiapine and clozapine are allowed)&#xD;
+&#xD;
+               -  Centrally active anti-hypertensive drugs (e.g., clonidine, alpha-methyldopa,&#xD;
+                  guanidine, or guanfacine)&#xD;
+&#xD;
+               -  Immunosuppressants or systemic corticosteroids &gt;10 mg/day prednisone or&#xD;
+                  equivalent&#xD;
+&#xD;
+               -  Anticoagulants&#xD;
+&#xD;
+        9. History or presence of brain MRI scans indicative of a neurologic disease other than AD&#xD;
+        or any other significant abnormality.&#xD;
+&#xD;
+        10. Subject has an atypical variant presentation of AD, if known from medical history,&#xD;
+        particularly non-amnestic AD.&#xD;
+&#xD;
+        11. History of treatment for cancer within the past 2 years. Subjects who have undergone&#xD;
+        curative excision of basal cell carcinoma or squamous cell carcinoma of the skin within the&#xD;
+        past 2 years are permitted.&#xD;
+&#xD;
+        12. Blood pressure and ECG parameters at Screening:&#xD;
+&#xD;
+          -  Seated systolic blood pressure &lt; 90 mmHg or &gt; 150 mmHg; or diastolic blood pressure &lt;&#xD;
+             50 mmHg or &gt; 95 mmHg&#xD;
+&#xD;
+          -  ECG abnormalities on the screening ECG including: clinically significant conduction&#xD;
+             abnormalities, ischemic changes (e.g., prior Q-wave myocardial infarction and/or&#xD;
+             marked ischemic ST- and T-wave), arrhythmias (e.g., persistent or paroxysmal&#xD;
+             ventricular or supraventricular arrhythmias, including atrial fibrillation), or other&#xD;
+             ECG abnormalities that would pose unnecessary risk in the opinion of the Investigator&#xD;
+&#xD;
+          -  QTc interval &gt; 450 in males or &gt; 470 in females utilizing Fredericia's correction&#xD;
+             (QTcF)&#xD;
+&#xD;
+             13. Abnormal stress ECG in relation to age at Screening.&#xD;
+&#xD;
+             14. Renal insufficiency (serum creatinine &gt;177 μmol/L).&#xD;
+&#xD;
+             15. Hepatic impairment with alanine aminotransferase or aspartate aminotransferase &gt;&#xD;
+             1.5 times the upper limit of normal, or Child-Pugh class B or C.&#xD;
+&#xD;
+             16. Hearing test result considered unacceptable for auditory ERP P300 assessment.&#xD;
+&#xD;
+             17. Positive urine or serum pregnancy test, lactating, or plans to become pregnant&#xD;
+             during the trial.&#xD;
+&#xD;
+             18. Significant suicide risk as assessed by C-SSRS.&#xD;
+&#xD;
+             19. Any condition that in the judgement of the Investigator would interfere with the&#xD;
+             ability to complete the trial, pose significant risk to subject safety, or potentially&#xD;
+             confound interpretation of trial results, e.g., known issues with ability to swallow&#xD;
+             size 5 capsules.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ryan Schubert, MD</last_name>
+    <phone>602-769-0975</phone>
+    <email>Ryan.Schubert@asceneuron.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Nucleus Network</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>My-Trang Vo</last_name>
+      <phone>0401 260 186</phone>
+      <email>m.vo@nucleusnetwork.com.au</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>February 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>June 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

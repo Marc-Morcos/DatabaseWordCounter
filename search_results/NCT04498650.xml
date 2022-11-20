@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1635">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04498650</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PBD-01180</org_study_id>
+    <secondary_id>2019-003532-23</secondary_id>
+    <nct_id>NCT04498650</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Safety and Tolerability of Different Doses and Efficacy of PQ912 in Subjects With MCI and Mild AD</brief_title>
+  <acronym>VIVIAD</acronym>
+  <official_title>A Phase 2b Multicentre, Randomized, Double-blind, Placebo-controlled, Parallel Group Dose Finding, Safety, Tolerability and Efficacy Study of PQ912 in Subjects With MCI and Mild Dementia Due to Alzheimer's Disease.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vivoryon Therapeutics N.V.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nordic Bioscience A/S</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Amsterdam UMC, location VUmc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vivoryon Therapeutics N.V.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 2B multicenter, randomized, double-blind, placebo-controlled, parallel group&#xD;
+      dose finding study to evaluate the safety, tolerability and efficacy of PQ912, an inhibitor&#xD;
+      of the glutaminyl cyclase enzyme, in 250 subjects with mild cognitive impairment and mild&#xD;
+      dementia due to Alzheimer 's Disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In the parallel group dose finding part of the study the first 90 subjects will be randomized&#xD;
+      1:1:1 between PQ912 300 mg BID, 600 mg BID, and placebo. When the 90th patient has completed&#xD;
+      the week 24 treatment visit, the DSMB will decide on the dose of PQ912 to be continued. The&#xD;
+      decision is based on safety findings only, no efficacy data will be considered. After the&#xD;
+      DSMB has reached a decision on the dose to be continued, all subjects randomized to receive&#xD;
+      PQ912 will be reallocated to this dose (1:1). The duration of Subjects participation in the&#xD;
+      study is either 48, 60, 72, 84 or 96 weeks of treatment (depending on time of randomization).&#xD;
+      Subjects recruited early into the study will be kept on treatment for 96 weeks or until the&#xD;
+      regular, scheduled study visit which is closest to the scheduled week 48 visit of the last&#xD;
+      subject recruited in the study, whichever comes first.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 6, 2020</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary safety: The proportion of participants who experience any Adverse Event (AE), Serious Adverse Event (SAE), Adverse Event of Interest (AE-I)</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>The safety analysis will include the number of subjects with, and the number of any AE, any SAE (both overall and related), AEs leading to discontinuation of treatment, AEs leading to temporary treatment interruption, treatment compliance, the number of subjects with AEs of interest as defined above, the severity, duration and outcome of AEs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Primary efficacy: within-participant linear change with time of the combinded z-score for cognition compared between active arm and placebo.</measure>
+    <time_frame>48 weeks and EoT (96 weeks at maximum)</time_frame>
+    <description>The within-participant change over time in cognition measured by the combined z-score of the Detection test, Identification test and the 'One Back' test (attention and working memory domains) of the Neurological Test Battery</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary efficacy: The within-participant linear change from baseline to week 48 in quantitative EEG (global relative theta wave power), compared between active and placebo.</measure>
+    <time_frame>48 weeks at minimum or until EoT (96 weeks at maximum)</time_frame>
+    <description>Using a quantitative EEG the within-participant change from baseline to week 48 of the global relative theta wave power (4-8 Hz) will serve as a primary efficacy outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary efficacy: The within-participant linear change with time in overall cognition as measured by the CogState Brief Battery (CBB) Z-score compared between active arm and placebo</measure>
+    <time_frame>48 weeks and EoT (96 weeks at maximum)</time_frame>
+    <description>he within-participant linear change with time in overall cognition as measured by the CBB (CogState Detection, Identification, One Card Learning and One Back test) -Z-score</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory efficacy - The within-participants change from baseline in a set of representative functional network topology EEG measures compared between active arms and placebo.</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Evaluation of brain functional network activity and connectivity will be performed using quantitative EEG measurements, as described by (Briels et al. 2020; Poil et al. 2013; Scheltens et al. 2018) Global relative power in the delta (0.5 - 4 Hz), alpha (8 -13 Hz) and beta (13 - 30Hz) frequency bands&#xD;
+Global posterior dominant peak frequency&#xD;
+Amplitude Envelope Correlation (AEC) in the 4- 13 Hz band Functional network topology measures such as centrality, modularity, minimum spanning tree.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Early Alzheimers Disease</condition>
+  <condition>Mild Cognitive Impairment Due to AD</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>300 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose in weeks 1 and 2: 50 mg once daily (evening) Dose in weeks 3 and 4: 50 mg BID Dose in weeks 5-8: 150 mg BID Dose in weeks 9-24: 300 mg BID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>600 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose in weeks 1 and 2: 50 mg once daily (evening) Dose in weeks 3 and 4: 50 mg BID Dose in weeks 5-8: 150 mg BID Dose in weeks 9-12: 300 mg BID Dose in weeks 12-24: 600 mg BID</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PQ912</intervention_name>
+    <description>PQ912 50 mg tablets and 150 mg tablets</description>
+    <arm_group_label>300 mg</arm_group_label>
+    <arm_group_label>600 mg</arm_group_label>
+    <other_name>varoglutamstat</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo tablets to mimic PQ912 50 mg and 150 mg tablets</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Main Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive CSF AD biomarker signature according to the AA-NIA criteria&#xD;
+&#xD;
+          -  Clinical syndrome of MCI or mild dementia according to the AA-NIA Research Framework&#xD;
+&#xD;
+          -  A cognitive impairment in the WAIS IV Coding Test of at least 0.5 standard deviation&#xD;
+             below the normative data&#xD;
+&#xD;
+          -  Adequate visual and auditory abilities to perform the cognitive and functional&#xD;
+             assessments in the opinion of the investigator&#xD;
+&#xD;
+          -  Meeting the completion and performance criteria for the CogState NTB&#xD;
+&#xD;
+          -  Outpatient with study partner capable of accompanying the subject on all applicable&#xD;
+             clinic visits&#xD;
+&#xD;
+        Main Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant neurological or psychiatric disorders, other than AD, that may affect&#xD;
+             cognition.&#xD;
+&#xD;
+          -  Atypical clinical presentations of MCI due to AD or mild dementia due to AD, such as&#xD;
+             the visual variant of AD (including posterior cortical atrophy), frontal variant or&#xD;
+             the language variant (including logopenic aphasia).&#xD;
+&#xD;
+          -  Moderate and severe dementia with a Mini-Mental State Examination score (MMSE) below&#xD;
+             20.&#xD;
+&#xD;
+          -  Current presence of a clinically important major psychiatric disorder (e.g. major&#xD;
+             depressive disorder) as defined by DSM-5 criteria, or symptom(s) (e.g. hallucinations)&#xD;
+             that could affect the subject's ability to complete the study.&#xD;
+&#xD;
+          -  History of clinically evident stroke.&#xD;
+&#xD;
+          -  History of seizures within the last two years prior to the screening visit.&#xD;
+&#xD;
+          -  Myocardial infarction within the last six months prior to screening.&#xD;
+&#xD;
+          -  History of uncontrolled hypertension (in the opinion of the investigator) within six&#xD;
+             months prior to screening.&#xD;
+&#xD;
+          -  Contraindication to lumbar puncture and MRI&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philip Scheltens</last_name>
+    <role>Study Chair</role>
+    <affiliation>Amsterdam UMC, location VUmc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Katharina Fuchs</last_name>
+    <phone>+49 345 5559900</phone>
+    <email>clinics@vivoryon.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kerstin Kuehn-Wache</last_name>
+    <phone>+49 345 5559900</phone>
+    <email>clinics@vivoryon.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sanos Clinics</name>
+      <address>
+        <city>Ganderup</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hanne Soerensen</last_name>
+    </contact>
+    <investigator>
+      <last_name>Pernille Luehdorf, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sanos Clinics</name>
+      <address>
+        <city>Herlev</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charlotta Arpi</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ulla Schmidt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sanos Clinics</name>
+      <address>
+        <city>Vejle</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ellen Frank</last_name>
+    </contact>
+    <investigator>
+      <last_name>Peter Alexandersen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charité - Universitätsmedizin Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10450</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katja Lindner</last_name>
+    </contact>
+    <investigator>
+      <last_name>Oliver Peters, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Schleswig-Holstein (UKSH), Klinik für Neurologie</name>
+      <address>
+        <city>Kiel</city>
+        <zip>24105</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katrin Lange</last_name>
+    </contact>
+    <investigator>
+      <last_name>Thorsten Bartsch, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Magdeburg / Institut für Kognitive Neurologie und Demenzforschung</name>
+      <address>
+        <city>Magdeburg</city>
+        <zip>39120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Urte Schneider</last_name>
+    </contact>
+    <investigator>
+      <last_name>Emrah Duezel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut für Studien zur Psychischen Gesundheit (ISPG)</name>
+      <address>
+        <city>Mannheim</city>
+        <zip>68165</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dörthe Hafke</last_name>
+    </contact>
+    <investigator>
+      <last_name>Georg Adler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum rechts der Isar der TU München / Klinik für Psychiatrie und Psychotherapie</name>
+      <address>
+        <city>München</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karin Liebl</last_name>
+    </contact>
+    <investigator>
+      <last_name>Timo Grimmer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Münster / Klinik für Allgemeine Neurologie</name>
+      <address>
+        <city>Münster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gloria Lwanga</last_name>
+    </contact>
+    <investigator>
+      <last_name>Matthias Pawlowski, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Klinik für Neurologie Universitätsklinikum Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Doerte Polivka, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Femke van der Linden</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sterre Rutgers, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center</name>
+      <address>
+        <city>Den Bosch</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hetty Den Burger</last_name>
+    </contact>
+    <investigator>
+      <last_name>Paul Dautzenberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center Zwolle</name>
+      <address>
+        <city>Zwolle</city>
+        <zip>8025</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlie Dille-Amo</last_name>
+    </contact>
+    <investigator>
+      <last_name>Niels Prins, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology (Memory Unit) - Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Subirana</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alberto Lleo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundació ACE</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mar Buendia</last_name>
+    </contact>
+    <investigator>
+      <last_name>Merce Boada, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unidad de Neurociencias. Hospital Victoria Eugenia</name>
+      <address>
+        <city>Seville</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angelles Barro</last_name>
+    </contact>
+    <investigator>
+      <last_name>Felix Vinuela, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+    <country>Germany</country>
+    <country>Netherlands</country>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>July 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 4, 2020</study_first_posted>
+  <last_update_submitted>August 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

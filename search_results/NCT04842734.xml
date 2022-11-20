@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1509">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842734</url>
+  </required_header>
+  <id_info>
+    <org_study_id>25.03.2021/37</org_study_id>
+    <nct_id>NCT04842734</nct_id>
+  </id_info>
+  <brief_title>Comparison of the Effect of Online Physical Exercise and Computerized Cognitive Stimulation in Patients With Alzheimer's Disease</brief_title>
+  <official_title>Comparison of the Effect of Online Physical Exercise and Computerized Cognitive Stimulation in Patients With Alzheimer's Disease During the Covid-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yeditepe University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Yeditepe University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Our aim has been determined to investigate the effect of physical exercise alone and in&#xD;
+      combination with cognitive exercise, on cognitive, physical function and quality of life in&#xD;
+      individuals with Alzheimer's Disease during the Covid-19 pandemic period.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 27, 2021</start_date>
+  <completion_date type="Actual">December 25, 2021</completion_date>
+  <primary_completion_date type="Actual">July 23, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>It is planned to include 60 individuals diagnosed with AD according to DSM-IV diagnostic criteria by the neurologist. Individuals will be randomly divided into three groups; as the physical exercise group (n=20), physical exercise and cognitive stimulation (n=20) and the control group (n=20) according to inclusion criteria</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Related Quality of Life Scale</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>This scale evaluates health-related quality of life in individuals with AD. The scale includes 40 questions in total and examines 5 quality of life domains (A-Social Interaction, B-Self Awareness, C-Affect and Mood, D- Enjoying Activities, E-Interaction with the Environment).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Montreal Cognitive Assessment Scale</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>MOCA is a short cognitive assessment method developed to detect particularly mild stages of cognitive impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Berg Balance Scale</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Berg Balance Scale measures static and dynamic balance in elderly individuals.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time up and Go Test</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>TUG test evaluates fall risk, mobility and physical performance in the elderly</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sit to Stand Test</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Sit-to-stand test will be performed on an armless chair with a height of 46 cm to determine the physical fitness level of elderly individuals</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arm Curl Test</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>The Arm Curl test is one of the subtests of the Senior fitness test and it is performed to evaluate upper extremity muscle strength</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Katz Activities of Daily Living Scale</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Katz ADLs consist of six questions that include information about bathing, dressing, toilet, movement, excretion, and feeding activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lawton Instrumental Activities of Daily Living Scale</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Lawton IADL scale consists of 8 items and a single subscale. In addition, it consists of eight questions about using the phone, preparing meals, shopping, doing daily household chores, washing clothes, getting on the transportation vehicle, taking medicines and money management</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geriatric Depression Scale (Short Form)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>The GDS Short Form (GDS-15) is a 15-item scale that is used for the diagnosis of depression in elderly individuals</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Telerehabilitation</condition>
+  <condition>Online Physical Exercise</condition>
+  <condition>Computerized Cognitive Stimulation</condition>
+  <condition>Covid-19 Pandemic</condition>
+  <arm_group>
+    <arm_group_label>Physical exercise and computerized cognitive stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Supervised Physical Exercise Program (SPEP) sessions will be performed simultaneously online together with the physiotherapist and the patient. Participants will be able to do the exercises together with their caregivers if needed.&#xD;
+The Computerized Cognitive Stimulation Program (CCSP) (Beynex) will be planned for 12 weeks, 5 days a week, approximately 10 minutes, for a total of 40 sessions.&#xD;
+Fisrtly, the use of CCSP will be demonstrated to the patients. Then, it will be given as home program. While the patients play the games in CCSP via their smartphones, their caregivers will be informed in detail about accompanying the patients if they need it. The follow-up of cognitive stimulation will be made with the person accompanying the patient over the phone.&#xD;
+Individuals will be evaluated by a physiotherapist who will perform the assessment at pre-treatment, post-treatment (12th week) and follow-up period (24th week).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>physical exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SPEP sessions will be demonstrated to individuals by a 6-year-experienced physiotherapist via videoconference (Zoom Inc.) and the exercises will be performed simultaneously online together with the physiotherapist and the patient. Participants will be able to do the exercises together with their caregivers if needed.&#xD;
+Individuals will be evaluated by a physiotherapist who will perform the assessment at pre-treatment, post-treatment (12th week) and follow-up period (24th week).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The individuals included in this group will be informed that they should continue their normal daily life activities.&#xD;
+Individuals will be evaluated by a physiotherapist who will perform the assessment at pre-treatment, post-treatment (12th week) and follow-up period (24th week).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physical exercise</intervention_name>
+    <description>SPEP are planned for 12 weeks, 2 times a week, once a day, 60 minutes / 1 hour</description>
+    <arm_group_label>physical exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Physical exercise and computerized cognitive training</intervention_name>
+    <description>SPEP are planned for 12 weeks, 2 times a week, once a day, 60 minutes / 1 hour. The CCSP is planned for 12 weeks, minimum 3 to maximum 5 days a week, approximately 10 minutes, for a total of 36-60 sessions</description>
+    <arm_group_label>Physical exercise and computerized cognitive stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥ 65 years and older&#xD;
+&#xD;
+          -  Diagnosed with AD according to DSM-IV diagnostic criteria by a neurologist,&#xD;
+&#xD;
+          -  MOCA ≥ 13&#xD;
+&#xD;
+          -  Clinical Dementia Rating Scale &lt; 2&#xD;
+&#xD;
+          -  Having sufficient wireless support or telephone connection where the person lives&#xD;
+&#xD;
+          -  Who gave consent to participate in the study&#xD;
+&#xD;
+          -  No history of any neurological or orthopedic injury that could prevent participation&#xD;
+             in the study and affect functional mobility.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Geriatric Depression Scale score &gt; 11&#xD;
+&#xD;
+          -  Various mobility restrictions, musculoskeletal disorders, (wheelchair use, etc.)&#xD;
+&#xD;
+          -  Clinically significant aphasia (must be able to understand the therapist's commands)&#xD;
+&#xD;
+          -  Significant visual or sensory impairment&#xD;
+&#xD;
+          -  MoCA &lt; 13&#xD;
+&#xD;
+          -  Having a severe musculoskeletal disorder&#xD;
+&#xD;
+          -  Having paralysis&#xD;
+&#xD;
+          -  Impaired balance&#xD;
+&#xD;
+          -  The presence of severe lung and heart disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Yeditepe University</name>
+      <address>
+        <city>İstanbul</city>
+        <state>Eyalet/Yerleşke</state>
+        <zip>34865</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>April 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>July 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Yeditepe University</investigator_affiliation>
+    <investigator_full_name>Ebru Akbuğa Koç</investigator_full_name>
+    <investigator_title>Lecturer</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>Telerehabilitation</keyword>
+  <keyword>Physical exercise</keyword>
+  <keyword>Computerized Cognitive Stimulation</keyword>
+  <keyword>Covid-19 Pandemic</keyword>
+  <keyword>Cognitive Stimulation</keyword>
+  <keyword>Online physical exercise</keyword>
+  <keyword>Alzheimer disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>COVID-19</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="228">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04735536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COG0202</org_study_id>
+    <nct_id>NCT04735536</nct_id>
+  </id_info>
+  <brief_title>Pilot Clinical Study of CT1812 in Mild to Moderate Alzheimer's Disease Using EEG</brief_title>
+  <official_title>A Pilot Electroencephalography (EEG) Study to Evaluate the Effect of CT1812 Treatment on Synaptic Activity in Subjects With Mild to Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cognition Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cognition Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-site, randomized, double-blind, placebo-controlled, 29-day, 2-period&#xD;
+      crossover Phase 2 study of 1 dose level of CT1812 (active) or placebo in adults with mild to&#xD;
+      moderate AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single-site, randomized, double-blind, placebo-controlled, 29-day, 2-period&#xD;
+      crossover Phase 2 study of 1 dose level of CT1812 (active) or placebo in adults with mild to&#xD;
+      moderate AD.&#xD;
+&#xD;
+      16 participants (8 randomized to 300 mg CT1812, 8 randomly assigned to placebo during each&#xD;
+      treatment period): the 8 participants randomly assigned to CT1812 in Treatment Period 1 will&#xD;
+      receive placebo in Treatment Period 2; the 8 participants randomly assigned to placebo in&#xD;
+      Treatment Period 1 will receive CT1812 in Treatment Period 2.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 15, 2020</start_date>
+  <completion_date type="Anticipated">March 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Single-site, randomized, double-blind, placebo-controlled, 29-day, 2-period crossover Phase 2 study of 1 dose level of CT1812 (active) or placebo in adults with mild to moderate AD.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measurement of CT1812 plasma concentration ratio</measure>
+    <time_frame>58 days</time_frame>
+    <description>Measure CT1812 plasma concentration ratio at the end of study</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Active Treatment- CT1812</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Active Treatment- CT1812 at a dose of 300mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Drug: Placebo Non-active study drug</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CT1812</intervention_name>
+    <description>Active Treatment- CT1812 at a dose of 300mg</description>
+    <arm_group_label>Active Treatment- CT1812</arm_group_label>
+    <arm_group_label>Control - Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo Comparator</description>
+    <arm_group_label>Active Treatment- CT1812</arm_group_label>
+    <arm_group_label>Control - Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Women of non-childbearing potential and men, aged 50 to 85 years, inclusive, with a&#xD;
+             diagnosis of mild to moderate Alzheimer's disease according to the 2018 NIA-AA&#xD;
+             criteria and at least a 6-month history of decline in cognitive function documented in&#xD;
+             the medical record.&#xD;
+&#xD;
+             i) Non-childbearing potential for women is defined as postmenopausal (last menses&#xD;
+             greater than 24 months) or undergone a documented bilateral tubal ligation or&#xD;
+             hysterectomy. If last menses less than 24 months, a serum follicle stimulating hormone&#xD;
+             (FSH) value confirming post-menopausal status may be used.&#xD;
+&#xD;
+             ii) Male participants who are sexually active with a woman of child-bearing potential&#xD;
+             must agree to use condoms during the study and for 3 months after last dose. Female&#xD;
+             partners should also consider using an acceptable means of birth control, though it is&#xD;
+             not mandatory. Acceptable forms of birth control include abstinence, birth control&#xD;
+             pills, or any double combination of: intrauterine device (IUD), male or female condom,&#xD;
+             diaphragm, sponge, and cervical cap.&#xD;
+&#xD;
+          2. CSF positive for amyloid beta (as defined in the study manual). Historical CSF results&#xD;
+             will be considered provided the results are consistent with the CSF amyloid beta&#xD;
+             threshold required for inclusion and following discussion with the medical monitor;&#xD;
+             however, an LP is still required as part of screening procedures&#xD;
+&#xD;
+          3. Neuroimaging (MRI) consistent with the clinical diagnosis of Alzheimer's disease and&#xD;
+             without findings of significant exclusionary abnormalities (see Section 9.3 exclusion&#xD;
+             criteria no. 4). An historical MRI, up to 1 year prior to screening, may be used as&#xD;
+             long as there have been no interval clinical neurologic events that may suggest a&#xD;
+             change in the MRI scan.&#xD;
+&#xD;
+          4. MMSE 18-26 inclusive.&#xD;
+&#xD;
+          5. Geriatric Depression Scale (GDS) ≤ 6 with no active depression (see Section 9.3&#xD;
+             exclusion criteria no. 6).&#xD;
+&#xD;
+          6. Formal education of 8 or more years.&#xD;
+&#xD;
+          7. Participants must have a caregiver/study partner who in the opinion of the site's&#xD;
+             Principal Investigator, has contact with the study participant for a sufficient number&#xD;
+             of hours per week to provide informative responses on the protocol assessments,&#xD;
+             oversee the administration of study drug, and is willing and able to participate in&#xD;
+             all study site visits and some study assessments. The caregiver/ study partner must&#xD;
+             provide written informed consent to participate in the study.&#xD;
+&#xD;
+          8. Participants living at home or in the community (assisted living acceptable).&#xD;
+&#xD;
+          9. Participants must have no known history of difficulty swallowing capsules.&#xD;
+&#xD;
+         10. Stable pharmacological treatment of any other chronic conditions for at least 30 days&#xD;
+             prior to screening.&#xD;
+&#xD;
+         11. Must consent to apolipoprotein E (APOE) genotyping.&#xD;
+&#xD;
+         12. Participants shall be generally healthy with mobility (ambulatory or ambulatory-aided,&#xD;
+             ie, walker or cane), vision and hearing (hearing aid permissible) sufficient for&#xD;
+             compliance with testing procedures.&#xD;
+&#xD;
+         13. Must be able to complete all screening evaluations.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Hospitalization (except for planned procedures) or change of chronic concomitant&#xD;
+             medication within 1 month prior to screening.&#xD;
+&#xD;
+          2. Participants living in a continuous care nursing facility.&#xD;
+&#xD;
+          3. Contraindications to the MRI examination for any reason.&#xD;
+&#xD;
+          4. Screening MRI (or historical MRI, if applicable) of the brain indicative of&#xD;
+             significant abnormality, including, but not limited to, prior hemorrhage or infarct &gt;&#xD;
+             1 cm3, &gt; 3 lacunar infarcts, cerebral contusion, encephalomalacia, aneurysm, vascular&#xD;
+             malformation, subdural hematoma, hydrocephalus, space-occupying lesion (eg, abscess or&#xD;
+             brain tumor such as meningioma).&#xD;
+&#xD;
+          5. Clinical or laboratory findings consistent with:&#xD;
+&#xD;
+               1. Other primary degenerative dementia, (dementia with Lewy bodies, fronto-temporal&#xD;
+                  dementia, Huntington's disease, Creutzfeldt-Jakob Disease, Down syndrome, etc).&#xD;
+&#xD;
+               2. Other neurodegenerative condition (Parkinson's disease, amyotrophic lateral&#xD;
+                  sclerosis, etc).&#xD;
+&#xD;
+               3. Seizure disorder.&#xD;
+&#xD;
+               4. Other infectious, metabolic or systemic diseases affecting the central nervous&#xD;
+                  system (syphilis, present hypothyroidism, present vitamin B12 or folate&#xD;
+                  deficiency, other laboratory values etc).&#xD;
+&#xD;
+          6. A current DSM-V diagnosis of active major depression, schizophrenia or bipolar&#xD;
+             disorder. Participants with depressive symptoms successfully managed by a stable dose&#xD;
+             of an antidepressant are allowed entry.&#xD;
+&#xD;
+          7. Clinically significant, advanced or unstable disease that may interfere with outcome&#xD;
+             evaluations, such as:&#xD;
+&#xD;
+               1. Chronic liver disease, liver function test abnormalities or other signs of&#xD;
+                  hepatic insufficiency (ALT, AST, alkaline phosphatase &gt; 1.5 ULN, lactate&#xD;
+                  dehydrogenase (LDH) &gt; 1.5 x ULN).&#xD;
+&#xD;
+               2. Respiratory insufficiency.&#xD;
+&#xD;
+               3. Renal insufficiency eGFR &lt; 50 mL/min based on the CKD-EPI formula,&#xD;
+&#xD;
+               4. Heart disease (myocardial infarction, unstable angina, heart failure,&#xD;
+                  cardiomyopathy within 6 months before screening).&#xD;
+&#xD;
+               5. Bradycardia (&lt; 50/min.) or tachycardia (&gt; 100/min.).&#xD;
+&#xD;
+               6. Poorly managed hypertension (systolic &gt; 160 mm Hg and/or diastolic &gt; 95 mm Hg) or&#xD;
+                  hypotension (systolic &lt; 90 mm Hg and/or diastolic &lt; 60 mm Hg).&#xD;
+&#xD;
+               7. Uncontrolled diabetes in known diabetics, as defined by hemoglobin A1c (HbA1c) &gt;&#xD;
+                  7.5.&#xD;
+&#xD;
+          8. History of cancer within 3 years of screening with the exception of fully excised&#xD;
+             non-melanoma skin cancers or non-metastatic prostate cancer that has been stable for&#xD;
+             at least 6 months.&#xD;
+&#xD;
+          9. Seropositive for human immunodeficiency virus (HIV).&#xD;
+&#xD;
+         10. History of acute/chronic hepatitis B or C and/or carriers of hepatitis B (seropositive&#xD;
+             for hepatitis B surface antigen [HbsAg] or anti-hepatitis C [HCV] antibody).&#xD;
+&#xD;
+         11. Clinically significant abnormalities in screening laboratory tests, including:&#xD;
+&#xD;
+             a) Hematocrit less than 35% for males and less than 32% for females, absolute&#xD;
+             neutrophil cell count of &lt;1500/uL (with the exception of a documented history of a&#xD;
+             chronic benign neutropenia), or platelet cell count of &lt; 120,000/uL; international&#xD;
+             normalized ratio (INR) &gt; 1.4 or other coagulopathy, confirmed by repeat assessment.&#xD;
+&#xD;
+         12. Disability that may prevent the participant from completing all study requirements&#xD;
+             (e.g., blindness, deafness, severe language difficulty, etc).&#xD;
+&#xD;
+         13. Within 4 weeks of screening visit or during the study, concurrent treatment with&#xD;
+             antipsychotic agents, antiepileptics, centrally active anti-hypertensive drugs (e.g.,&#xD;
+             clonidine, l-methyl dopa, guanidine, guanfacine, etc), sedatives, opioids, mood&#xD;
+             stabilizers (e.g., valproate, lithium); or benzodiazepines, with the following&#xD;
+             exception:&#xD;
+&#xD;
+             a) Low dose lorazepam may be used for sedation prior to MRI scan for those&#xD;
+             participants requiring sedation. At the discretion of the Investigator, 0.5 to 1 mg&#xD;
+             may be given orally prior to scan with a single repeat dose given if the first dose is&#xD;
+             ineffective. No more than a total of 2 mg lorazepam may be used for the MRI scan.&#xD;
+&#xD;
+         14. Any disorder that could interfere with the absorption, distribution, metabolism or&#xD;
+             excretion of drugs (eg, small bowel disease, Crohn's disease, celiac disease, or liver&#xD;
+             disease).&#xD;
+&#xD;
+         15. Nootropic drugs except stable AD meds (acetylcholinesterase inhibitors and memantine).&#xD;
+&#xD;
+         16. Suspected or known drug or alcohol abuse, ie, more than approximately 60 g alcohol&#xD;
+             (approximately 1 liter of beer or 0.5 liter of wine) per day.&#xD;
+&#xD;
+         17. Suspected or known allergy to any components of the study treatments.&#xD;
+&#xD;
+         18. Enrollment in another investigational study or intake of investigational drug within&#xD;
+             the previous 30 days or 5 half-lives of the investigational drug, whichever is longer.&#xD;
+&#xD;
+         19. Intake of drugs or substances potentially involved in clinically significant induction&#xD;
+             or inhibition of CYP3A4 or P-gp mediated drug interactions with CT1812, within 4 weeks&#xD;
+             or 5 half-lives of the interacting drug prior to administration of CT1812 and&#xD;
+             throughout the study. Grapefruit juice should be avoided in the 2 weeks prior to&#xD;
+             dosing and throughout the study. See Appendix A for a complete list of prohibited&#xD;
+             substances.&#xD;
+&#xD;
+         20. Exposure to immunomodulators, anti Aβ vaccines, passive immunotherapies for AD (e.g.,&#xD;
+             monoclonal antibodies) within the past 180 days and/or exposure to BACE inhibitors&#xD;
+             within the past 30 days&#xD;
+&#xD;
+         21. Anticipated use of nonsteroidal anti-inflammatory drugs (NSAIDs) on more than 14 days&#xD;
+             from Baseline/Day 1 to Day 182. Contraindication to undergoing an LP including, but&#xD;
+             not limited to: inability to tolerate an appropriately flexed position for the time&#xD;
+             necessary to perform an LP; international normalized ratio (INR) &gt; 1.4 or other&#xD;
+             coagulopathy; platelet count of &lt; 120,000/μL; infection at the desired LP site; taking&#xD;
+             anti-coagulant medication within 90 days of screening (low-dose aspirin is permitted);&#xD;
+             degenerative arthritis of the lumbar spine; suspected non-communicating hydrocephalus&#xD;
+             or intracranial mass; prior history of spinal mass or trauma.&#xD;
+&#xD;
+         22. Any condition, which in the opinion of the Investigator or the Sponsor, makes the&#xD;
+             participant unsuitable for inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Everard Vijverberg, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brain Research Center, Amsterdam</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jiney Asthappan</last_name>
+    <phone>914-221-6733</phone>
+    <email>jasthappan@cogrx.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Brain Research Center</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>January 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 3, 2021</study_first_posted>
+  <last_update_submitted>September 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

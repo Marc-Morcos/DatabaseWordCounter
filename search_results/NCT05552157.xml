@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1507">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05552157</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DIAN-TU-002</org_study_id>
+    <secondary_id>5U01AG059798</secondary_id>
+    <nct_id>NCT05552157</nct_id>
+  </id_info>
+  <brief_title>A Study of Potential Disease Modifying Treatments in Individuals at Risk for or With a Type of Early Onset AD Caused by a Genetic Mutation</brief_title>
+  <acronym>DIAN-TU</acronym>
+  <official_title>A Phase II/III Multicenter Randomized, Double-Blind, Placebo-Controlled, Two-part Adaptive Design, Platform Trial of Investigational Treatments for Primary Prevention of Disease Progression in Dominantly Inherited Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alzheimer's Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose is to evaluate the biomarker effect, safety, and tolerability of investigational&#xD;
+      study drugs in participants who are known to have an Alzheimer's disease (AD)-causing&#xD;
+      mutation. Part 1 will determine if treatment with the study drug prevents or slows the rate&#xD;
+      of amyloid beta (Aβ) pathological disease accumulation demonstrated by Aβ positron emission&#xD;
+      tomography (PET) imaging. Part 2 will evaluate the effect of early Aβ plaque&#xD;
+      reduction/prevention on disease progression by assessing downstream non-Aβ biomarkers of AD&#xD;
+      (e.g., CSF total tau, p-tau, NfL) compared to an external control group from the DIAN-OBS&#xD;
+      natural history study and the DIAN-TU-001 placebo-treated participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will recruit participants from the Dominantly Inherited Alzheimer Network&#xD;
+      observational study (DIAN-OBS), a multicenter international study supported by the National&#xD;
+      Institutes of Health (Grant Number U01-AG032438; RJ Bateman), Dominantly Inherited Alzheimer&#xD;
+      Network Trials Unit (DIAN-TU) sites, DIAN-TU partner sites, DIAN Expanded Registry&#xD;
+      (DIAN-EXR), and families identified by the sites. As part of the DIAN-TU-002 protocol,&#xD;
+      participants undergo longitudinal assessments that include clinical assessment, cognitive&#xD;
+      testing, magnetic resonance imaging (MRI) and amyloid imaging, and analysis of cerebrospinal&#xD;
+      fluid (CSF).&#xD;
+&#xD;
+      Participants in DIAN are recruited from families that have at least one member who has been&#xD;
+      identified as having a mutation linked to dominantly inherited Alzheimer's disease (DIAD).&#xD;
+      The mutations in presenilin 1 (PSEN1), presenilin 2 (PSEN2) and amyloid precursor protein&#xD;
+      (APP) genes that are associated with DIAD have very high penetrance (near 100%). This study&#xD;
+      will enroll individuals who are either known to have a known disease-causing mutation, or who&#xD;
+      are at risk for such a mutation (the child or sibling of a proband with a known mutation) and&#xD;
+      unaware of their genetic status. Because the age at onset of cognitive changes is relatively&#xD;
+      consistent within each family and for each mutation, an age at onset is determined for each&#xD;
+      affected parent or mutation as part of the DIAN-OBS study protocol. This study will enroll&#xD;
+      participants who are asymptomatic and are within a specific window of time of expected age at&#xD;
+      onset for their family and/or mutation.&#xD;
+&#xD;
+      The ability to identify individuals destined to develop Alzheimer's disease (AD) with a high&#xD;
+      degree of confidence provides a unique opportunity to assess the efficacy of therapies at&#xD;
+      asymptomatic and very early stages of dementia. Families with known disease-causing mutations&#xD;
+      are extremely rare and are geographically dispersed throughout the world. These constraints&#xD;
+      necessitate a specialized study design. Participants in this study will not yet have&#xD;
+      developed any symptoms of AD; they will be &quot;asymptomatic&quot; carriers of mutations that cause&#xD;
+      DIAD and would be expected to perform normally on standard cognitive and functional testing.&#xD;
+      Further, most mutation carriers will have levels of AD-associated amyloid beta (Aβ) and&#xD;
+      non-Aβ biomarkers that are the same as non-carriers. Imaging and fluid biomarkers will be&#xD;
+      used to demonstrate that the treatment compounds have engaged their therapeutic targets. A&#xD;
+      set of cognitive measures designed to assess the very earliest and most subtle cognitive&#xD;
+      changes will be collected. However, the goal of this study is to address whether decreasing&#xD;
+      plaque prone Aβ peptides in the absence of measurable or mild elevations of Aβ plaques in&#xD;
+      participants with minimal to no amyloid plaque at baseline can lead to the subsequent&#xD;
+      prevention of non-Aβ biomarkers of disease progression. Additionally, because many at-risk&#xD;
+      individuals decide not to know whether they have the disease-associated mutation, some of the&#xD;
+      at-risk individuals enrolled in this study will not have the disease-causing mutations; they&#xD;
+      will be &quot;mutation-negative.&quot; It is important to enroll these participants to avoid coercion&#xD;
+      (e.g., potential participants may feel pressured into genetic testing to learn their genetic&#xD;
+      status to be eligible for the trial). These mutation-negative individuals will be assigned to&#xD;
+      the placebo group and data will be used to determine normal ranges of outcome. Participants&#xD;
+      and site study staff will remain blinded as to these individuals' active or placebo group&#xD;
+      assignment and mutation status. Thus, the study will be blinded for placebo and for mutation&#xD;
+      status, except for mutation carriers who are aware of their genetic status. There may be&#xD;
+      exceptional circumstances as required by local regulation or health authorities where&#xD;
+      enrollment may be restricted to mutation carriers only, but such mandates will be thoroughly&#xD;
+      documented and agreed upon by the governing regulatory agency and the study sponsor.&#xD;
+&#xD;
+      This study is an adaptive-platform-based study. Several different therapies (each referred to&#xD;
+      as a study drug arm) may be tested in order to increase the likelihood that an effective&#xD;
+      treatment will be discovered. The compounds are selected for this trial based on mechanism of&#xD;
+      action and available data on efficacy and safety profile. In the case of multiple study arms,&#xD;
+      the study design includes a pooled placebo group (referred to as the mutation positive&#xD;
+      placebos) shared by all study drug arms. Mutation carriers will be assigned to a study drug&#xD;
+      arm and subsequently randomized within that arm in an overall 1:1 ratio to active drug:&#xD;
+      placebo. Mutation-negative participants will all receive placebo treatment. Participants and&#xD;
+      study staff will not be blinded as to which study drug arm each participant has been&#xD;
+      assigned; they will be blinded to whether participants have been randomized to receive active&#xD;
+      drug or placebo.&#xD;
+&#xD;
+      The study has 2 treatment periods: Part 1 is a blinded placebo-controlled period that will&#xD;
+      continue until the last randomized participant completes 4 years of treatment (i.e., a common&#xD;
+      close design), and Part 2 is an open-label period of 4 years (with a planned 2-year interim&#xD;
+      efficacy analysis) in which all mutation carriers will receive active drug. At the start of&#xD;
+      Part 2, participants who were randomized to placebo in Part 1 will follow the same dose&#xD;
+      titration schedule and MRI safety schedule used in Part 1. Participants who were randomized&#xD;
+      to active drug in Part 1 will follow a mock dose titration and will have the same MRI safety&#xD;
+      schedule used during the initial drug titration as Part 1 but will remain on the dose that&#xD;
+      they were on at the end of Part 1. This will protect the blind to the original treatment&#xD;
+      assignment from Part 1. Participants, investigators, and the sponsor's clinical team will&#xD;
+      remain blinded throughout the study to the Part 1 treatment assignment.&#xD;
+&#xD;
+      Part 1 of the study is designed to test whether the study drug can slow, prevent, or reverse&#xD;
+      progression of Aβ pathology associated with AD and Part 2 is designed to assess the study&#xD;
+      drug's effect on non-amyloid biomarkers of AD that may lead to future slowing or prevention&#xD;
+      of clinical symptoms of dementia.&#xD;
+&#xD;
+      Biomarker, cognitive, and/or clinical endpoints will be specified for each study drug arm.&#xD;
+      Biomarker data will be analyzed for pre-specified endpoints consistent with the drug's&#xD;
+      mechanism of action and other AD biomarker outcomes. The clinical and cognitive assessments&#xD;
+      are designed to assess subtle cognitive changes that may be detectable before the onset of&#xD;
+      dementia as well as cognitive and clinical decline in symptomatic groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2022</start_date>
+  <completion_date type="Anticipated">March 2034</completion_date>
+  <primary_completion_date type="Anticipated">November 2029</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Part 1: Interventional/matching placebo; Part 2: Open Label Non-interventional run-in component Potential for future interventions to be added</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1: Difference in change from baseline in amyloid deposition as measured by [11C]PiB-PET average cortical composite between active drug and placebo groups.</measure>
+    <time_frame>Baseline and Week 208</time_frame>
+    <description>Comparison of the study drug to placebo on change from baseline to week 208 in amyloid deposition as measured by [11C]PiB-PET cortical composite SUVR, which is derived from the average of cortical regions of interest (superior frontal, rostral middle frontal, superior temporal, middle temporal, lateral orbito-frontal, medial orbito-frontal and precuneus).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Odds ratio between treated group and the external control group of being in the lower biomarker disease progression stage based on two-stage modeling of 6 biomarkers.</measure>
+    <time_frame>Part 2 Week 208</time_frame>
+    <description>The primary endpoint will be the odds ratio of being in the lower biomarker disease progression stage after treatment with study drug compared to the external control group (DIAN-OBS and DIAN-TU-001 placebo. Disease progression will be based on two-stage modeling of 6 biomarkers (CSF pT153/T153 ratio, CSF pT205/T205 ratio, CSF MTBR-tau299, MRI hippocampal volume, CSF NfL, and MRI precuneus thickness). These biomarkers represent tau and neurodegenerative pathobiological events in the disease cascade for temporally different periods of the pre-symptomatic phases of the disease.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Alzheimers Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Alzheimers Disease, Familial</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Gantenerumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Active gantenerumab- blinded</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Matching placebo (Gantenerumab)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Gantenerumab Open Label</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Open label will start after last dose of Part 1</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gantenerumab</intervention_name>
+    <description>Subcutaneously every 4 weeks at escalating doses</description>
+    <arm_group_label>Part 1: Gantenerumab</arm_group_label>
+    <arm_group_label>Part 2: Gantenerumab Open Label</arm_group_label>
+    <other_name>RO4909832</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Matching Placebo (Gantenerumab)</intervention_name>
+    <description>Subcutaneous injection of placebo every 4 weeks</description>
+    <arm_group_label>Part 1: Matching placebo (Gantenerumab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed consent form (ICF) is signed and dated by the participant and study partner,&#xD;
+             or by the participant's legally acceptable representative (LAR) if applicable,&#xD;
+             according to local regulations for the ICF and, if applicable, the DIAN-TU cognitive&#xD;
+             run-in (CRI) ICF and/or country-specific ICFs.&#xD;
+&#xD;
+          2. Participant is at least 18 years old.&#xD;
+&#xD;
+          3. Women of childbearing potential, if partner is not sterilized, must agree to use&#xD;
+             effective contraceptive measures (e.g., hormonal contraception, intra-uterine device,&#xD;
+             sexual abstinence, barrier method with spermicide) from Screening visit (V1) until 16&#xD;
+             weeks after last dose of study drug.&#xD;
+&#xD;
+          4. Participants must fulfill mutation status and EYO criteria:&#xD;
+&#xD;
+               1. Participant is a carrier of a mutation in an APP, PSEN1, or PSEN2 gene that is&#xD;
+                  associated with DIAD or does not know their mutation status and has a 50% chance&#xD;
+                  of having an AD-causing mutation (e.g., parent or biological sibling clinically&#xD;
+                  affected with known AD-causing mutation in family).&#xD;
+&#xD;
+               2. Participant is -25 to -11 EYO based on their mutation type or family pedigree&#xD;
+                  (refer to Global Manual of Operations for calculation of EYO).&#xD;
+&#xD;
+             Note: If the at-risk parent is deemed a non-carrier through confirmed genetic testing&#xD;
+             at any time during the study, the participant will be withdrawn.&#xD;
+&#xD;
+          5. Cognitive status of participant is normal (CDR 0).&#xD;
+&#xD;
+          6. Participant's confirmed primary language is a DIAN-TU study-approved language.&#xD;
+&#xD;
+          7. Participant has adequate visual and auditory abilities to perform all aspects of the&#xD;
+             cognitive and clinical assessments.&#xD;
+&#xD;
+          8. If participant is receiving stable doses of medication(s) for the treatment of&#xD;
+             non-excluded medical condition(s) for at least 30 days prior to CRI Entry visit and&#xD;
+             Screening visit (V1) except for medications taken for episodic conditions (e.g.,&#xD;
+             migraine abortive therapy, antibiotics, and other medications for upper respiratory&#xD;
+             and gastrointestinal ailments).&#xD;
+&#xD;
+          9. The participant has a study partner who in the PI's judgment can provide accurate&#xD;
+             information as to the participant's cognitive and functional abilities, who agrees to&#xD;
+             provide information at the study visits that require study partner input for scale&#xD;
+             completion, and who signs the necessary ICF, if applicable.&#xD;
+&#xD;
+         10. The participant agrees not to donate blood or blood products for transfusion from the&#xD;
+             time of Screening (V1) for a study drug arm, for the duration of the study, and for 1&#xD;
+             year after the final dose of study drug. Donation of blood or blood products for&#xD;
+             transfusion is allowed during the CRI period.&#xD;
+&#xD;
+         11. In the opinion of the PI, the participant will be compliant and have a high&#xD;
+             probability of completing the study.&#xD;
+&#xD;
+         12. The participant is able and willing to complete all study-related testing,&#xD;
+             evaluations, and procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Significant neurologic disease (other than AD) or psychiatric disease that may&#xD;
+             currently or during the study affect cognition or the participant's ability to&#xD;
+             complete the study. This would include disorders such as: recent or severe head trauma&#xD;
+             causing cognitive change, seizure disorder, neurodegenerative disease other than DIAD,&#xD;
+             hydrocephalus, cerebral/spinal hematoma, inflammatory disease, CNS infection (e.g.,&#xD;
+             encephalitis or meningitis), neoplasm, toxic exposure, metabolic disorder (including&#xD;
+             hypoxic or hypoglycemic episodes) or endocrine disorder; psychiatric disorders such as&#xD;
+             schizophrenia, schizoaffective disorder, bipolar disorder or major depression, or any&#xD;
+             other psychiatric condition/disorder which could significantly interfere with the&#xD;
+             participant's cooperative participation (e.g., prominent anxiety, agitation or&#xD;
+             behavioral problems). Disorders that are controlled medically or remote history of&#xD;
+             these disorders (e.g., history of febrile seizures in childhood) that are not likely&#xD;
+             to interfere with cognitive function and compliance with study procedures are not&#xD;
+             exclusionary.&#xD;
+&#xD;
+          2. At high risk for suicide, e.g., significant suicidal ideation or attempt within last&#xD;
+             12 months, current major depression (as defined in Diagnostic and Statistical Manual&#xD;
+             of Mental Disorders, Fifth Edition [DSM-V]), or increased suicide risk based on&#xD;
+             screening Columbia Suicide Severity Rating Scale (C-SSRS). Current stable mild&#xD;
+             depression or current use of antidepressant medications is not exclusionary.&#xD;
+&#xD;
+          3. History of clinically evident stroke or history of clinically important carotid or&#xD;
+             vertebrobasilar stenosis, plaque, or other prominent risk factor for stroke or&#xD;
+             cerebral hemorrhage (including atrial fibrillation and anticoagulation, documented&#xD;
+             transient ischemic attack [TIA] in the last 12 months). Low dose aspirin (≤ 325 mg&#xD;
+             daily) is not exclusionary.&#xD;
+&#xD;
+          4. Alcohol or substance use sufficient to meet DSM-V criteria currently or within the&#xD;
+             past year.&#xD;
+&#xD;
+          5. History of or Baseline visit brain MRI scan indicative of any other significant&#xD;
+             abnormality, including but not limited to &gt; 5 definite microhemorrhages, history or&#xD;
+             evidence of a single prior hemorrhage &gt; 1 cm3, 2 or more subcortical infarcts,&#xD;
+             evidence of a single prior cortical infarct &gt; 1 cm3, evidence of a cerebral contusion,&#xD;
+             encephalomalacia, aneurysms, vascular malformations, subdural hematoma, or&#xD;
+             space-occupying lesions (e.g., arachnoid cysts or brain tumors, such as meningioma),&#xD;
+             hydrocephalus (other than hydrocephalus ex vacuo). Minor or clinically insignificant&#xD;
+             imaging findings are not exclusionary. Participants with &gt; 5 definite microhemorrhages&#xD;
+             or &gt; 1 area of leptomeningeal hemosiderosis will be evaluated on a case-by-case basis&#xD;
+             by the site PI or designated sub-investigator and the PAL and medical director or&#xD;
+             designee.&#xD;
+&#xD;
+          6. Presence of pacemakers, aneurysm clips, artificial heart valves, ear implants, or&#xD;
+             foreign metal objects in the eyes, skin, or body which would preclude MRI scan.&#xD;
+&#xD;
+          7. Uncontrolled hypertension within 6 months prior to screening (e.g., sustained systolic&#xD;
+             blood pressure [BP] &gt;160 mm Hg or diastolic blood pressure &gt; 95 mm Hg).&#xD;
+&#xD;
+          8. Myocardial infarction or other myocardial ischemic events within the last 2 years.&#xD;
+&#xD;
+          9. Heart failure that results in limitation of physical activity (e.g., New York Heart&#xD;
+             Association [NYHA] functional classification stage 2 or higher).&#xD;
+&#xD;
+         10. History of atrial fibrillation unless more than 1 year ago, and no structural lesions&#xD;
+             (e.g., atrial enlargement or cardiomyopathy) that would increase risk of stroke.&#xD;
+&#xD;
+         11. 12-lead ECG: Clinically significant abnormalities including Bazett's corrected QT&#xD;
+             (QTc) interval greater than 450 msec for males and 470 msec for females; in&#xD;
+             participants above 65 years of age: 470 msec (atrioventricular [AV]-block I° allowed;&#xD;
+             right bundle branch block [RBBB] allowed).&#xD;
+&#xD;
+         12. Alanine aminotransferase (ALT) ≥ 2 times the upper limit of normal or aspartate&#xD;
+             aminotransferase (AST) ≥ 3 times the upper limit of normal or Baseline total bilirubin&#xD;
+             ≥ 2 times the upper limit of normal.&#xD;
+&#xD;
+         13. Creatinine clearance lower than 30 mL/min according to Cockcroft-Gault formula (if&#xD;
+             confirmed at re-test).&#xD;
+&#xD;
+         14. Clinically significant abnormalities in urinalysis.&#xD;
+&#xD;
+         15. History of Human Immunodeficiency Virus (HIV) infection, history of Hepatitis B&#xD;
+             infection within the past year, history of Hepatitis C infection which has not been&#xD;
+             adequately treated or history of spirochete infection of the CNS, (e.g., syphilis,&#xD;
+             Lyme or borreliosis).&#xD;
+&#xD;
+         16. Known allergies, hypersensitivity, or intolerance to study drug or its excipients (see&#xD;
+             current investigator's brochures [IB]) or sensitivity to study-drug specific PET&#xD;
+             imaging agents.&#xD;
+&#xD;
+         17. Treatment with immunosuppressive medications (e.g., systemic corticosteroids) within&#xD;
+             90 days prior to the CRI Entry and Baseline (V2) visit (topical and nasal&#xD;
+             corticosteroids and inhaled corticosteroids for asthma are permitted) or&#xD;
+             chemotherapeutic agents for malignancy within the last 3 years.&#xD;
+&#xD;
+         18. Current clinically significant abnormalities of thyroid function, or clinically&#xD;
+             significant deficiency in vitamin B12.&#xD;
+&#xD;
+         19. Screening hemoglobin A1c (HbA1c) &gt; 8% (retesting is permitted if slightly elevated) or&#xD;
+             poorly controlled insulin-dependent diabetes (including hypoglycemic episodes).&#xD;
+             Participants may be rescreened after 3 months to allow optimization of diabetic&#xD;
+             control.&#xD;
+&#xD;
+         20. Morbid obesity with significant comorbidities or that would preclude MRI imaging.&#xD;
+&#xD;
+         21. Current use of anticoagulants (e.g., warfarin, dabigatran, rivaroxaban, or apixaban).&#xD;
+             Daily use of low dose (&lt; 325 mg) aspirin is not exclusionary.&#xD;
+&#xD;
+         22. Have been exposed to a monoclonal antibody targeting Aβ peptide within the past 6&#xD;
+             months or 5 half-lives from screening, whichever is longer.&#xD;
+&#xD;
+         23. Received any other investigational pharmacological treatment within 3 months of&#xD;
+             Screening or 5 half-lives, whichever is longer.&#xD;
+&#xD;
+         24. Lack of sufficient venous access.&#xD;
+&#xD;
+         25. Clinically relevant abnormalities in hematology, coagulation, or clinical chemistry.&#xD;
+&#xD;
+         26. History of cancer within the last 3 years, except basal cell carcinoma, non-squamous&#xD;
+             skin carcinoma, prostate cancer, or carcinoma in situ with no significant progression&#xD;
+             over the past 2 years.&#xD;
+&#xD;
+         27. Any other medical condition that could be expected to progress, recur, or change to&#xD;
+             such an extent that it could bias the assessment of the clinical or mental status of&#xD;
+             the participant to a significant degree or put the participant at special risk.&#xD;
+&#xD;
+         28. Currently, or within the last month prior to screening, participated in a clinical&#xD;
+             study, including a nonpharmacological study, without prior approval.&#xD;
+&#xD;
+         29. Positive urine or serum pregnancy test or plans to become pregnant during the study.&#xD;
+&#xD;
+         30. Currently breastfeeding. Participants must agree to refrain from breastfeeding from&#xD;
+             the time of signed ICF until 16 weeks after the last dose of study drug.&#xD;
+&#xD;
+         31. Participants with the &quot;Dutch&quot; APP E693Q mutation.&#xD;
+&#xD;
+         32. Unable to fully complete CRI Entry visit and baseline visit (V2) procedures with&#xD;
+             appropriate cognitive and clinical scores for eligibility (e.g., mild dementia).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric M McDade, DO</last_name>
+    <role>Study Director</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ellen Ziegemeier, MA</last_name>
+    <phone>844-DIANEXR (342-6397)</phone>
+    <email>dianexr@wustl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Petranek</last_name>
+    <phone>844-DIANEXR (342-6397)</phone>
+    <email>dianexr@wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Alabama in Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Erik Roberson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Diego Medical Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Doug Galasko</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>USC Keck School of Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Sonia Pawluczyk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University School of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>James Lah</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Lutheran General Hospital</name>
+      <address>
+        <city>Park Ridge</city>
+        <state>Illinois</state>
+        <zip>60068</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Darren Gitelman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University School of Medicine</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jared Brosch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University in St. Louis</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Barbara Snider</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Sarah Berman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02096</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ghulam Surti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kerwin Research and Memory Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Diana Kerwin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Suman Jayadev</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones Neurologicas Raul Carrea, FLENI</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos Aire</city>
+        <zip>C1428AQK</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ricardo Allegri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neuroscience Research Australia</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>William Brooks</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mental Health Research Institute</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Colin Masters</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UBC Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6T 2B5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Robin Hsiung</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Mario Masellis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>McGill Center for Studies in Aging</name>
+      <address>
+        <city>Verdun</city>
+        <state>Quebec</state>
+        <zip>H4H 1R3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Pedro Rosa-Neto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Quebec - Hôpital de l' Enfant Jésus</name>
+      <address>
+        <city>Québec</city>
+        <zip>G1J 1Z4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Robert LaForce</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Grupo de Neurociencias Sede de la Universidad de Antioquia</name>
+      <address>
+        <city>Medellín</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Francisco Lopera, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Toulouse - Hôpital Purpan</name>
+      <address>
+        <city>Toulouse</city>
+        <state>Haute Garonne</state>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jérémie Pariente</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Roger Salengro - CHU Lille</name>
+      <address>
+        <city>Lille</city>
+        <state>Nord</state>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Florence Pasquier</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Pitie-Salpetriere</name>
+      <address>
+        <city>Paris cedex 13</city>
+        <state>Paris</state>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Richard Levy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Neurologique Pierre Wertheimer</name>
+      <address>
+        <city>Bron cedex</city>
+        <state>Rhone</state>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Maité Formaglio</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rouen - Hôpital Charles Nicolle</name>
+      <address>
+        <city>Rouen</city>
+        <state>Seine Maritime</state>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>David Wallon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Tubingen</name>
+      <address>
+        <city>Tübingen</city>
+        <state>Baden Wuerttemberg</state>
+        <zip>72076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Cristoph Laski, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LMU-Campus Grosshadern</name>
+      <address>
+        <city>Muenchen</city>
+        <state>Bayern</state>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Johannes Levin, M.D,</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent's University Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <zip>DUBLIN 4</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Justin Kinsella</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Centro San Giovanni di Dio Fatebenefratelli</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Giovanni Frisoni, M.D,</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Careggi</name>
+      <address>
+        <city>Firenze</city>
+        <zip>50134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Sandro Sorbi, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez</name>
+      <address>
+        <city>Mexico</city>
+        <state>Distrito Federal</state>
+        <zip>14269</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ana Luisa Sosa Ortiz, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1081 GM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Jort Vijverberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Puerto Rico, School of Medicine</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ivonne Jimenez-Velazquez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínic I Provincial de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Raquel Sanchez Valle</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The National Hospital for Neurology and Neurosurgery</name>
+      <address>
+        <city>London</city>
+        <state>Greater London</state>
+        <zip>WC1B 3BG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Catherine Mummery</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Colombia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Ireland</country>
+    <country>Italy</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>Puerto Rico</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.dianexr.org/</url>
+    <description>Expanded registry</description>
+  </link>
+  <reference>
+    <citation>Bateman RJ, Xiong C, Benzinger TL, Fagan AM, Goate A, Fox NC, Marcus DS, Cairns NJ, Xie X, Blazey TM, Holtzman DM, Santacruz A, Buckles V, Oliver A, Moulder K, Aisen PS, Ghetti B, Klunk WE, McDade E, Martins RN, Masters CL, Mayeux R, Ringman JM, Rossor MN, Schofield PR, Sperling RA, Salloway S, Morris JC; Dominantly Inherited Alzheimer Network. Clinical and biomarker changes in dominantly inherited Alzheimer's disease. N Engl J Med. 2012 Aug 30;367(9):795-804. doi: 10.1056/NEJMoa1202753. Epub 2012 Jul 11. Erratum in: N Engl J Med. 2012 Aug 23;367(8):780.</citation>
+    <PMID>22784036</PMID>
+  </reference>
+  <reference>
+    <citation>Mills SM, Mallmann J, Santacruz AM, Fuqua A, Carril M, Aisen PS, Althage MC, Belyew S, Benzinger TL, Brooks WS, Buckles VD, Cairns NJ, Clifford D, Danek A, Fagan AM, Farlow M, Fox N, Ghetti B, Goate AM, Heinrichs D, Hornbeck R, Jack C, Jucker M, Klunk WE, Marcus DS, Martins RN, Masters CM, Mayeux R, McDade E, Morris JC, Oliver A, Ringman JM, Rossor MN, Salloway S, Schofield PR, Snider J, Snyder P, Sperling RA, Stewart C, Thomas RG, Xiong C, Bateman RJ. Preclinical trials in autosomal dominant AD: implementation of the DIAN-TU trial. Rev Neurol (Paris). 2013 Oct;169(10):737-43. doi: 10.1016/j.neurol.2013.07.017. Epub 2013 Sep 6. Review.</citation>
+    <PMID>24016464</PMID>
+  </reference>
+  <reference>
+    <citation>Wang G, Berry S, Xiong C, Hassenstab J, Quintana M, McDade EM, Delmar P, Vestrucci M, Sethuraman G, Bateman RJ; Dominantly Inherited Alzheimer Network Trials Unit. A novel cognitive disease progression model for clinical trials in autosomal-dominant Alzheimer's disease. Stat Med. 2018 Sep 20;37(21):3047-3055. doi: 10.1002/sim.7811. Epub 2018 May 14.</citation>
+    <PMID>29761523</PMID>
+  </reference>
+  <reference>
+    <citation>Weninger S, Carrillo MC, Dunn B, Aisen PS, Bateman RJ, Kotz JD, Langbaum JB, Mills SL, Reiman EM, Sperling R, Santacruz AM, Tariot PN, Welsh-Bohmer KA. Collaboration for Alzheimer's Prevention: Principles to guide data and sample sharing in preclinical Alzheimer's disease trials. Alzheimers Dement. 2016 May;12(5):631-2. doi: 10.1016/j.jalz.2016.04.001.</citation>
+    <PMID>27157073</PMID>
+  </reference>
+  <reference>
+    <citation>Grill JD, Bateman RJ, Buckles V, Oliver A, Morris JC, Masters CL, Klunk WE, Ringman JM; Dominantly Inherited Alzheimer's Network. A survey of attitudes toward clinical trials and genetic disclosure in autosomal dominant Alzheimer's disease. Alzheimers Res Ther. 2015 Jul 22;7(1):50. doi: 10.1186/s13195-015-0135-0. eCollection 2015.</citation>
+    <PMID>26203303</PMID>
+  </reference>
+  <reference>
+    <citation>McDade E, Bateman RJ. Stop Alzheimer's before it starts. Nature. 2017 Jul 12;547(7662):153-155. doi: 10.1038/547153a.</citation>
+    <PMID>28703214</PMID>
+  </reference>
+  <reference>
+    <citation>McDade E, Wang G, Gordon BA, Hassenstab J, Benzinger TLS, Buckles V, Fagan AM, Holtzman DM, Cairns NJ, Goate AM, Marcus DS, Morris JC, Paumier K, Xiong C, Allegri R, Berman SB, Klunk W, Noble J, Ringman J, Ghetti B, Farlow M, Sperling RA, Chhatwal J, Salloway S, Graff-Radford NR, Schofield PR, Masters C, Rossor MN, Fox NC, Levin J, Jucker M, Bateman RJ; Dominantly Inherited Alzheimer Network. Longitudinal cognitive and biomarker changes in dominantly inherited Alzheimer disease. Neurology. 2018 Oct 2;91(14):e1295-e1306. doi: 10.1212/WNL.0000000000006277. Epub 2018 Sep 14.</citation>
+    <PMID>30217935</PMID>
+  </reference>
+  <reference>
+    <citation>Ryman DC, Acosta-Baena N, Aisen PS, Bird T, Danek A, Fox NC, Goate A, Frommelt P, Ghetti B, Langbaum JB, Lopera F, Martins R, Masters CL, Mayeux RP, McDade E, Moreno S, Reiman EM, Ringman JM, Salloway S, Schofield PR, Sperling R, Tariot PN, Xiong C, Morris JC, Bateman RJ; Dominantly Inherited Alzheimer Network. Symptom onset in autosomal dominant Alzheimer disease: a systematic review and meta-analysis. Neurology. 2014 Jul 15;83(3):253-60. doi: 10.1212/WNL.0000000000000596. Epub 2014 Jun 13. Review.</citation>
+    <PMID>24928124</PMID>
+  </reference>
+  <reference>
+    <citation>Weng H, Bateman R, Morris JC, Xiong C. Validity and power of minimization algorithm in longitudinal analysis of clinical trials. Biostat Epidemiol. 2017;1(1):59-77. doi: 10.1080/24709360.2017.1331822. Epub 2017 Jun 13.</citation>
+    <PMID>29250611</PMID>
+  </reference>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>September 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 23, 2022</study_first_posted>
+  <last_update_submitted>September 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's</keyword>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Mutation</keyword>
+  <keyword>Genetic Mutation</keyword>
+  <keyword>Dominantly Inherited Alzheimer's Disease</keyword>
+  <keyword>Dominantly Inherited Alzheimer Network</keyword>
+  <keyword>Autosomal Dominant Alzheimer's Disease</keyword>
+  <keyword>Early Onset Alzheimer's Disease</keyword>
+  <keyword>DIAN</keyword>
+  <keyword>DIAN-TU</keyword>
+  <keyword>DIAN TU</keyword>
+  <keyword>DIAD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Access to DIAN-TU trial data will follow the DIAN-TU data access policy, which complies with the guidelines established by the Collaboration for Alzheimer's Prevention [CAP REF].</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

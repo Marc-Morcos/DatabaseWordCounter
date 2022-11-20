@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575337</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Bio-AD</org_study_id>
+    <nct_id>NCT04575337</nct_id>
+  </id_info>
+  <brief_title>Study on Biomarkers for Early Diagnosis of Alzheimer's Disease</brief_title>
+  <official_title>Study on Body Fluid, Gene and Neuroimaging Biomarkers for Early Diagnosis of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Capital Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Capital Medical University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The project of Bio-AD is a population- based cohort study among the elderly in China.&#xD;
+&#xD;
+      The project includes not only Alzheimer's disease (AD including familial AD and sporadic AD),&#xD;
+      but also other clinical stage of AD, as well as elderly people with normal cognitive&#xD;
+      function.&#xD;
+&#xD;
+      The project will collect, detect and screen the special biomarkers at different clinical&#xD;
+      stage of AD based on body fluid, gene and brain image. The standard and consistent assessment&#xD;
+      protocols are employed to obtain clinical, cognitive, genetic, neuroimaging and biospecimen&#xD;
+      data.&#xD;
+&#xD;
+      The purpose of this project is to establish a panel of biomarkers which could be used to&#xD;
+      diagnose AD at the early stage, and to establish a risk prediction models for AD to predict&#xD;
+      the 5-years risk of the onset and progression of AD among elderly population in China.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Set up a large population- based cohort including AD, MCI, pre-MCI, other&#xD;
+           neurodegenerative diseases, and elderly individuals with normal cognitive function.&#xD;
+&#xD;
+        2. Collect the information of clinical and neuropsychological assessment, individual traits&#xD;
+           and social environmental factors, and neuroimaging data, as well as the biological&#xD;
+           samples, such as peripheral blood and cerebrospinal fluid.&#xD;
+&#xD;
+        3. Screen biomarkers with high specificity and sensitivity from peripheral blood,&#xD;
+           cerebrospinal fluid and neuroimaging to distinguish different clinical stages of AD at&#xD;
+           baseline.&#xD;
+&#xD;
+        4. Screen the AD-associated gene and their risk variants.&#xD;
+&#xD;
+        5. Establish a panel of AD-specific biomarkers for the preliminary development of&#xD;
+           diagnostic kit.&#xD;
+&#xD;
+        6. Identify AD-relevant factors and the special biomarkers to create a preliminary risk&#xD;
+           models to predict the onset and progression of AD.&#xD;
+&#xD;
+        7. Follow up the cohort for next 5 years and collect the multiple information and&#xD;
+           biological samples each year to validate and revise the risk prediction models and the&#xD;
+           diagnostic kit of AD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 28, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A multiple diagnostic kit for early diagnosis of AD.</measure>
+    <time_frame>An Average of 1 year</time_frame>
+    <description>A panel of special biomarkers is identified for early diagnosis of AD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>A 5-years risk prediction model for onset and progression of AD among elderly population in China.</measure>
+    <time_frame>An Average of 1 year</time_frame>
+    <description>A 5-years risk prediction model including multiple factors to predict the onset and progression of AD in China.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>A panel of biomarker with high specificity and sensibility</measure>
+    <time_frame>An Average of 1 year</time_frame>
+    <description>Screening the biomarker with high specificity and sensibility in body fluid at different clinical stage of AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AD-associated genes in Chinese.</measure>
+    <time_frame>An Average of 1 year</time_frame>
+    <description>AD-associated genes and their risk variants will be identified by whole exome sequencing in this project.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuroimaging biomarkers for AD</measure>
+    <time_frame>An Average of 1 year</time_frame>
+    <description>The certain threshold on neuroimaging biomarkers will be established to distinguish the different clinical stage of AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Risks and protective factors for AD among elderly in China</measure>
+    <time_frame>An Average of 1 year</time_frame>
+    <description>The risks and protective factors of individual and environment will be estimated in this project.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>AD group</arm_group_label>
+    <description>Dementia is diagnosed according to the 2011 NIA-AA criteria.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MCI group</arm_group_label>
+    <description>aMCI diagnosed according to the criteria of 2004 Peterson.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>pre-MCI group</arm_group_label>
+    <description>β-Amyloid positive or APOE ε4 carrier or complains of cognitive impairment; not up to MCI or cognitive impairment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other neurodegenerative diseases</arm_group_label>
+    <description>Frontotemporal Dementia; or Parkinson's disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cognitive normal group</arm_group_label>
+    <description>Individuals are with normal cognitive function and ≥ 60 years old.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood, cerebral spinal fluid, saliva, and urine&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population was calculated according to objectives of this project. There are five&#xD;
+        gruops in this cohort, AD, MCI, pre-MCI, normal cognitive subjects and other&#xD;
+        neurodegenerative disease, respectively. AD gruop include familial AD and sporadic AD. The&#xD;
+        study population include subjects at different clinical stages of AD.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent obtained from participant or legal guardian prior to any&#xD;
+             study-related procedures.&#xD;
+&#xD;
+          -  Aged 18 (inclusive) or older.&#xD;
+&#xD;
+          -  Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision&#xD;
+             (DSM-IV-R). The diagnosis of AD is made using the National Institute of Neurologic and&#xD;
+             Communicative Disorders and Stroke and the Alzheimer's Disease and Related Disorders&#xD;
+             Association (NINCDS- ADRDA) or National Institute on Aging and the Alzheimer's&#xD;
+             Assocation (NIA-AA) criteria. A diagnosis of mild cognitive impairment (MCI) is&#xD;
+             assigned according to Petersen criteria. A diagnosis of pre-MCI group is assigned by&#xD;
+             β-Amyloid positive or APOE ε4 carrier or complains of cognitive impairment, but not up&#xD;
+             to MCI or cognitive impairment. Normal cognitive function assessed/evaluated by MMSE,&#xD;
+             CDR and other cognitive function scales.&#xD;
+&#xD;
+          -  Follow up 5 years and collect the information.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under age 18.&#xD;
+&#xD;
+          -  Medical or psychiatric illness that would interfere in completing initial and&#xD;
+             follow-up visits.&#xD;
+&#xD;
+          -  No one can serve as a study informant.&#xD;
+&#xD;
+          -  With current or past neurological or psychiatric illnesses such as schizophrenia,&#xD;
+             epilepsy, brain tumors, severe head trauma and other diseases which can induce&#xD;
+             dementia.&#xD;
+&#xD;
+          -  Refused to complete a cognitive test and provide biospecimen.&#xD;
+&#xD;
+          -  With history of alcohol or drug abuse.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jianping Jia, Doctor</last_name>
+    <role>Study Chair</role>
+    <affiliation>Xuanwu Hospital of Capital Medical University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jianping Jia, Doctor</last_name>
+    <phone>#8610-83199449</phone>
+    <email>jiajp@vip.126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xuanwu Hospital of Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100053</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jianping Jia, Doctor</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Jia L, Fu Y, Shen L, Zhang H, Zhu M, Qiu Q, Wang Q, Yan X, Kong C, Hao J, Wei C, Tang Y, Qin W, Li Y, Wang F, Guo D, Zhou A, Zuo X, Yu Y, Li D, Zhao L, Jin H, Jia J. PSEN1, PSEN2, and APP mutations in 404 Chinese pedigrees with familial Alzheimer's disease. Alzheimers Dement. 2020 Jan;16(1):178-191. doi: 10.1002/alz.12005.</citation>
+    <PMID>31914229</PMID>
+  </reference>
+  <reference>
+    <citation>Jia L, Quan M, Fu Y, Zhao T, Li Y, Wei C, Tang Y, Qin Q, Wang F, Qiao Y, Shi S, Wang YJ, Du Y, Zhang J, Zhang J, Luo B, Qu Q, Zhou C, Gauthier S, Jia J; Group for the Project of Dementia Situation in China. Dementia in China: epidemiology, clinical management, and research advances. Lancet Neurol. 2020 Jan;19(1):81-92. doi: 10.1016/S1474-4422(19)30290-X. Epub 2019 Sep 4. Review.</citation>
+    <PMID>31494009</PMID>
+  </reference>
+  <reference>
+    <citation>Jia L, Qiu Q, Zhang H, Chu L, Du Y, Zhang J, Zhou C, Liang F, Shi S, Wang S, Qin W, Wang Q, Li F, Wang Q, Li Y, Shen L, Wei Y, Jia J. Concordance between the assessment of Aβ42, T-tau, and P-T181-tau in peripheral blood neuronal-derived exosomes and cerebrospinal fluid. Alzheimers Dement. 2019 Aug;15(8):1071-1080. doi: 10.1016/j.jalz.2019.05.002.</citation>
+    <PMID>31422798</PMID>
+  </reference>
+  <reference>
+    <citation>Qiu Q, Jia L, Wang Q, Zhao L, Jin H, Li T, Quan M, Xu L, Li B, Li Y, Jia J. Identification of a novel PSEN1 Gly111Val missense mutation in a Chinese pedigree with early-onset Alzheimer's disease. Neurobiol Aging. 2020 Jan;85:155.e1-155.e4. doi: 10.1016/j.neurobiolaging.2019.05.018. Epub 2019 May 31.</citation>
+    <PMID>31235344</PMID>
+  </reference>
+  <reference>
+    <citation>Shen L, Qin W, Wu L, Zhou A, Tang Y, Wang Q, Jia L, Jia J. Two novel presenilin-1 mutations (I249L and P433S) in early onset Chinese Alzheimer's pedigrees and their functional characterization. Biochem Biophys Res Commun. 2019 Aug 13;516(1):264-269. doi: 10.1016/j.bbrc.2019.05.185. Epub 2019 Jun 21.</citation>
+    <PMID>31235249</PMID>
+  </reference>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>September 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2020</study_first_posted>
+  <last_update_submitted>March 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Capital Medical University</investigator_affiliation>
+    <investigator_full_name>Jianping Jia</investigator_full_name>
+    <investigator_title>Chief Director</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

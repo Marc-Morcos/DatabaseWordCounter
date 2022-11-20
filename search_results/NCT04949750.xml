@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="26">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04949750</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-VNO1002</org_study_id>
+    <secondary_id>R01AG064688</secondary_id>
+    <nct_id>NCT04949750</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Paper-based Cognitive Training in Vietnamese Patients With Early Alzheimer's Disease</brief_title>
+  <official_title>Efficacy of Paper-based Cognitive Training in Vietnamese Patients With Early Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Medicine and Pharmacy at Ho Chi Minh City</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Geriatric Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Medicine and Pharmacy at Ho Chi Minh City</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the efficacy of paper-based cognitive training in&#xD;
+      Vietnamese patients with early Alzheimer's disease&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 6, 2022</start_date>
+  <completion_date type="Anticipated">December 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in the Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>It is a 30-point questionnaire that is used extensively in clinical and research settings to measure cognitive impairment. The score is between 0-30. Higher score indicating better cognition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the Memory tests</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>Immediate Recall, Delayed Recall, Delayed Recognition are tests that measure memory function. Higher score indicating better cognition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the Trail Making test scores</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>Raw score, assessing attention, executive function. TMT is divided into two parts, TMT-A and TMT-B. In the TMT part A, circles with number from 1 to 25 are arranged randomly. Numerical sequence should be connected by patients as quickly as possible, cutoff value &gt; 180 seconds. In the TMT part B, patients must alternate between numbers and letters, cut off value &gt; 300 second. Cutoff scores indicate the value above suggest cognitive performance is normal.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the Digits Span forward and backward</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>The longest digits of forward and backward are 8 and 7, respectively. The total scores are twelve for each test. Higher score indicating better cognition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the Verbal fluency test</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>Semantic memory score will be measured using the Verbal fluency test. The verbal fluency test is a short test of verbal functioning. Participants are given 1 min to produce as many animals as possible within a semantic category (category fluency). The participant's score is the number of animals. Higher score means better cognition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the Clock drawing test</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>1-6 points, with higher scores indicating worse visuo-spatial function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the 15-Item Version of the Boston Naming Test</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>Cognitive test of semantic memory. Object naming to confrontation, which also depends upon intact perceptual and word retrieval ability. Higher scores indicating better cognition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the Instrumental Activities of Daily Living (IADL) score.</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>Instrumental Activities of Daily Living (IADL) is a questionnaire to assess patient's capacity to live independently.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the Zarit Burden Interview (ZBI) score.</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>Zarit Burden Interview score is a questionnaire to assess patient's caregiver burden.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants completes the full 12-week cognitive training.</measure>
+    <time_frame>12 weeks from baseline cognitive assessment</time_frame>
+    <description>Every 4 weeks participants will follow-up at Dementia Center and be able to continue the training if they complete 80% of each level of difficulty workload. Therefore, we aim to calculate the percentage of participants who can completes the full 12-week cognitive training.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Paper based cognitive training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with Alzheimer's disease in the early stage receive 12 weeks paper based cognitive training and standard care (medication)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients with Alzheimer's disease in the early stage only receive standard care (medication)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Paper - based cognitive training</intervention_name>
+    <description>Cognitive training</description>
+    <arm_group_label>Paper based cognitive training</arm_group_label>
+    <other_name>Non pharmacological treatment for AD</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  For patient:&#xD;
+&#xD;
+               -  Diagnosis of Probable Alzheimer's Disease per DSM-5 criteria;&#xD;
+&#xD;
+               -  In the early stage of AD (MMSE from 20 to 25);&#xD;
+&#xD;
+               -  Age from 60 - 80 years old;&#xD;
+&#xD;
+               -  Had greater than 5 years of formal education.&#xD;
+&#xD;
+          -  For Caregiver:&#xD;
+&#xD;
+               -  Members (including, but not limited to partners, children, relatives, lived-in&#xD;
+                  helper of the patient) that are important for care delivery and provide&#xD;
+                  care-related tasks (eg personal care, eating, cooking, cleaning) and everyday&#xD;
+                  decision making to the patients. They are not required to live together or spend&#xD;
+                  a specific amount of time with the patients;&#xD;
+&#xD;
+               -  Older than 18 years of age;&#xD;
+&#xD;
+               -  Possess adequate Vietnamese language skills and no cognitive impairment to&#xD;
+                  conduct interview and evaluation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  For patient:&#xD;
+&#xD;
+               -  Patients with concomitant diseases (heart failure, kidney failure, liver failure&#xD;
+                  or thyroid diseases) that affect cognitive functions;&#xD;
+&#xD;
+               -  Diagnosed with significant neurologic disease other than AD (Parkinson's disease,&#xD;
+                  multi-infarct dementia, schizophrenia, history of significant head trauma&#xD;
+                  followed by persistent neurologic defaults, …), major depression within the past&#xD;
+                  1 year, or taking psychoactive medications (antidepressants with significant&#xD;
+                  anticholinergic side effects, neuroleptics, chronic anxiolytics or sedative&#xD;
+                  hypnotics, etc) within the past 1 month;&#xD;
+&#xD;
+               -  Having major visual, auditory, reading, or writing impairments;&#xD;
+&#xD;
+               -  Patients and/or caregivers who decline to participate.&#xD;
+&#xD;
+          -  For cargiver:&#xD;
+&#xD;
+               -  Having subjective complaints of cognitive impairment prevents them from&#xD;
+                  understanding the instruction from the research team;&#xD;
+&#xD;
+               -  Having significant visual, auditory, reading, or writing impairments;&#xD;
+&#xD;
+               -  Caregivers who decline to participate&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Trang M. Tong, Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Medicine and Pharmacy at Ho Chi Minh City</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Trang M. Tong, Dr</last_name>
+    <phone>+84 919280403</phone>
+    <email>trang.tm@umc.edu.vn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Khang V. Nguyen, Dr</last_name>
+    <phone>+84 787415562</phone>
+    <email>vinkhang23@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Medical Center</name>
+      <address>
+        <city>Ho Chi Minh City</city>
+        <zip>70000</zip>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Trang Mai Tong, MD</last_name>
+      <phone>0919280403</phone>
+      <email>trang.tm@umc.edu.vn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Vietnam</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>June 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>June 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 2, 2021</study_first_posted>
+  <last_update_submitted>September 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Medicine and Pharmacy at Ho Chi Minh City</investigator_affiliation>
+    <investigator_full_name>Tống Mai Trang</investigator_full_name>
+    <investigator_title>Attending Physician, Neurology Department, University Medical Center, Ho Chi Minh City</investigator_title>
+  </responsible_party>
+  <keyword>Early Alzheimer Disease</keyword>
+  <keyword>Paper - based cognitive training</keyword>
+  <keyword>Randomized trial</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

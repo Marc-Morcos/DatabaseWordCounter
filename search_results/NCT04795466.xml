@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="984">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04795466</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CADPT06A12201</org_study_id>
+    <nct_id>NCT04795466</nct_id>
+  </id_info>
+  <brief_title>Study of the Efficacy and Safety of Various Anti-inflammatory Agents in Participants With Mild Cognitive Impairment or Mild Alzheimer's Disease</brief_title>
+  <official_title>Exploratory PLatform Trial on Anti-Inflammatory Agents in Alzheimer's Disease (EXPLAIN-AD): A Randomized, Placebo-controlled, Multicenter Platform Study to Evaluate the Efficacy, Safety, Tolerability and Pharmacokinetics of Various Anti-inflammatory Agents in Patients With Mild Cognitive Impairment Due to Alzheimer's Disease and Mild Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this platform study is to evaluate the effect of anti-inflammatory agents on&#xD;
+      cognition in early Alzheimer's disease. Additionally, the safety and tolerability of these&#xD;
+      anti-inflammatory agents and the effects on central and peripheral inflammation will be&#xD;
+      evaluated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, placebo-controlled, participant- and investigator-blinded study in&#xD;
+      participants with either mild cognitive impairment or mild Alzheimer's disease with evidence&#xD;
+      of peripheral inflammation. This study is using a platform design to be able to investigate&#xD;
+      different agents (therapies) in a perpetual manner. Each unique investigational agent will&#xD;
+      have a unique cohort of participants assigned. New cohorts of participants may be enrolled to&#xD;
+      investigate additional agents at unspecified timepoints throughout the study.&#xD;
+&#xD;
+      There are three periods in the study: screening period of 60 days that includes a baseline&#xD;
+      period of 5 days, a treatment period (20 weeks) and a follow-up period (28 days) and an&#xD;
+      additional follow-up visit for therapies with a longer washout.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 28, 2021</start_date>
+  <completion_date type="Anticipated">February 26, 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 26, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in cognition as measured by the Neuropsychological Test Battery (NTB) total score</measure>
+    <time_frame>Baseline and at 24 weeks</time_frame>
+    <description>Neuropsychological Test Battery (NTB) is a composite of multiple globally-established neuropsychological tests that parovide a thorough assessment of the cognitive domains affect by early Alzheimer's Disease (AD), in particular, memory, executive function, attention and verbal fluency.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants who experience adverse events and serious adverse events</measure>
+    <time_frame>Baseline up to 30 days post last dose</time_frame>
+    <description>Clinically significant abnormalities of laboratory values, physical findings, electrocardiogram findings and other safety assessments will be recorded as adverse events if the findings meet the defined criteria for adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in microglia activation as measured by Positron-Emission Tomography-Translocator Protein 18kDa - microglia activation</measure>
+    <time_frame>Baseline and at 12 weeks</time_frame>
+    <description>Positron-Emission Tomography-Translocator Protein 18kDa-microglia activation (PET TSPO) is considered a marker of central inflammation (a marker for activated microglia and astrocytes) and the signal strength has been shown to correlate with worsening clinical severity in participants with MCI or AD, measures of cognition and various clinical scores.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in neuropsychiatric symptoms as measured by the Neuropsychiatric Inventory (NPI) total score</measure>
+    <time_frame>Baseline and at 24 weeks</time_frame>
+    <description>Neuropsychiatric Inventory (NPI) total score is a globally recognized and the most frequently used assessment of neuropsychiatric symptoms in AD trials that covers twelve neuropsychiatric domains.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in function (activities of daily living) as measured by the Everyday Cognition (eCog) total score</measure>
+    <time_frame>Baseline and at 24 weeks</time_frame>
+    <description>Everyday Cognition (eCog) scale measures cognitively-relevant everyday abilities and is comprised of 39 items covering six cognitively-relevant domains: Everyday Memory, Everyday Language, Everyday Visuospatial Abilities, Everyday Planning, Everyday Organization, and Everyday Divided Attention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in memory as measured by the total Neuropsychological Test Battery memory composite score and change from baseline in executive function as measured by the total Neuropsychological Test Battery executive function composite score</measure>
+    <time_frame>Baseline and at 24 weeks</time_frame>
+    <description>Total Neuropsychological Test Battery memory composite score is a &quot;memory function&quot; composite score and is obtained by averaging the following z-scores from the NTB: RAVLT immediate and delayed scores. The total Neuropsychological Test Battery executive function composite score is an &quot;executive function&quot; composite score that is obtained by averaging the following three z-scores from the NTB: Wechsler Memory Scale Digit Span, COWAT, and CFT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in pharmacokinetic concentrations and immunogenetic anti-agent antibody levels in serum and/or plasma and/or cerebrospinal fluid</measure>
+    <time_frame>Baseline through to 24 weeks</time_frame>
+    <description>Pharmacokinetic concentrations and Immunogenic anti-agent antibodies that are measured to assess how the study agent is transported around the body in the blood and CSF and if antibodies are produced by the body in response to the study agent.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Canakinumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>increasing doses of sub-cutaneous injections</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo sub-cutaneous injections</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Canakinumab</intervention_name>
+    <description>Biological sub-cutaneous injection</description>
+    <arm_group_label>Canakinumab</arm_group_label>
+    <other_name>ACZ885</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo subcutaneous injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female, age ≥ 45 years and ≤ 90 years at the time of signing the informed&#xD;
+             consent;&#xD;
+&#xD;
+          -  Participant has a reliable study partner or caregiver can accompany the participant to&#xD;
+             all visits;&#xD;
+&#xD;
+          -  A diagnosis of probable MCI due to AD or mild AD according to the National Institute&#xD;
+             on Aging and the Alzheimer's Association (NIA-AA) criteria;&#xD;
+&#xD;
+          -  Confirmed amyloid and tau positivity via CSF sampling performed at screening;&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) total score of 20 to 30 (inclusive) and DSST&#xD;
+             score at least one standard deviation (SD) below normative data at point of screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Use of other investigational agents prior to screening until: a) Small molecules:&#xD;
+             after five half-lives, or within 30 days until the expected pharmacodynamic effect has&#xD;
+             returned to baseline, whichever is longer; OR b) Biologicals: blood concentration has&#xD;
+             returned to baseline (or below serological responder threshold) for antibodies induced&#xD;
+             by active immunotherapy; or five half-lives for monoclonal antibodies or other&#xD;
+             biologicals;&#xD;
+&#xD;
+          -  Current medical or neurological condition that might impact cognition or performance&#xD;
+             on cognitive assessments, e.g., MCI not due to AD, non-Alzheimer dementia,&#xD;
+             Huntington's disease, Parkinson's disease, stroke, schizophrenia, bipolar disorder,&#xD;
+             active major depression, multiple sclerosis (MS), amyotrophic lateral sclerosis (ALS),&#xD;
+             active seizure disorder, or history of traumatic brain injury associated with loss of&#xD;
+             consciousness and ongoing residual transient or permanent neurological signs/symptoms&#xD;
+             including cognitive deficits, and/or associated with skull fracture;&#xD;
+&#xD;
+          -  If a historical MRI or CT scan has been performed, signs of major cerebrovascular&#xD;
+             disease shown on such scans (i.e., presence of infarction in greater than 25% of white&#xD;
+             matter; more than one lacune within basal ganglia or more than 2 lacunes in white&#xD;
+             matter);&#xD;
+&#xD;
+          -  Diagnosis of vascular dementia prior to screening (e.g.., modified Hachinski Ischaemic&#xD;
+             Scale score &gt; 6 or those who meet the NINDS AIREN criteria for vascular dementia);&#xD;
+&#xD;
+          -  Previous exposure to amyloid vaccines or intravenous immunoglobulins meant to treat&#xD;
+             Alzheimer's disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+    <email>novartis.email@novartis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>+41613241111</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Charlestown</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794-8161</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Reykjavik</city>
+        <zip>101</zip>
+        <country>Iceland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Plymouth</city>
+        <state>Devon</state>
+        <zip>PL6 8BT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Guildford</city>
+        <state>Surrey</state>
+        <zip>GU27YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>London</city>
+        <zip>W1G 9JF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO30 3JB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+    <country>Iceland</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>March 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 12, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer disease</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Elderly adults</keyword>
+  <keyword>Adults</keyword>
+  <keyword>Memory loss</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Inflammation</keyword>
+  <keyword>ADPT06</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.&#xD;
+This trial data availability is according to the criteria and process described on https://www.clinicalstudydatarequest.com/</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

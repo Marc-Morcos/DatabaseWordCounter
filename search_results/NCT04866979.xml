@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2055">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04866979</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UStudidiTrento</org_study_id>
+    <nct_id>NCT04866979</nct_id>
+  </id_info>
+  <brief_title>Applying Non-invasive Brain Stimulation in Alzheimer's Rehabilitation</brief_title>
+  <acronym>StimoLaMente</acronym>
+  <official_title>StimoLaMente - La Stimolazione Cerebrale Non Invasiva Applicata Alla Riabilitazione Della Malattia di Alzheimer/ StimoLaMente - Applying Non-invasive Brain Stimulation in Alzheimer's Rehabilitation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Università degli Studi di Trento</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Università degli Studi di Trento</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Presently, few studies have evaluated the clinical impact of rTMS in Alzheimer's disease.&#xD;
+      Though some studies have demonstrated an improvement, there have been conflicting results, as&#xD;
+      others do not seem to demonstrate beneficial effects. Furthermore, it is the combined&#xD;
+      application of rTMS with cognitive training that could represent a real turning point in&#xD;
+      interventions aiming to slow down cognitive decline resulting from AD. Research has shown&#xD;
+      that the best way to promote the strengthening of a network is to stimulate the area while&#xD;
+      simultaneously activating the network (i.e. through cognitive training) which supports the&#xD;
+      specific function of interest.&#xD;
+&#xD;
+      Recently, there have been new protocols from animal model research showing that &quot;bursts&quot; of&#xD;
+      repetitive stimulation at a high theta frequency induce synaptic plasticity in a much shorter&#xD;
+      time period than required by standard rTMS protocols. This type of rTMS stimulation,&#xD;
+      theta-burst stimulation (TBS), is therefore even more compelling as a therapeutic&#xD;
+      intervention given that it includes the benefits previously ascribed to other rTMS protocols,&#xD;
+      but requires less administration time. Furthermore, studies conducted using both types of&#xD;
+      stimulation suggest that TBS protocols are capable of producing long term effects on cortical&#xD;
+      excitability that exceed the efficacy of those using standard rTMS protocols.&#xD;
+&#xD;
+      This project offers patients the possibility of accessing an innovative non-invasive, and&#xD;
+      non-pharmacological treatment. The goal is to evaluate the clinical efficacy TBS in patients&#xD;
+      diagnosed with mild cognitive decline (MCI) and AD, verifying if TBS in conjunction with&#xD;
+      cognitive training produces results better than those obtainable with only one of the two&#xD;
+      methodologies alone. Patients will be evaluated throughout the full scope of the treatment&#xD;
+      period, through clinical assessments and neuropsychological evaluations. We will examine&#xD;
+      neuroplastic changes by investigating the neural correlates underlying improvements using the&#xD;
+      multimodal imaging technique: TMS-EEG co-registration. A secondary objective will be to&#xD;
+      define the most effective stimulation protocol, verifying if TBS applied continuously (cTBS)&#xD;
+      or intermittently (iTBS) produces better behavioral outcomes. The results will be crucial to&#xD;
+      gain a better understanding of the mechanisms through which brain stimulation contributes to&#xD;
+      the promotion of neuroplasticity, and the efficacy of TBS combined with cognitive training.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      METHODS AND PROCEDURES&#xD;
+&#xD;
+      The materials and methods of investigation proposed will be the following:&#xD;
+&#xD;
+        -  Administration of rTMS in theta burst mode (TBS - intermittent and continuous)&#xD;
+&#xD;
+        -  Administration of computerized cognitive training&#xD;
+&#xD;
+        -  Administration of a battery of neuropsychological tests&#xD;
+&#xD;
+        -  Administration of questionnaires and scales&#xD;
+&#xD;
+        -  Recording of the electroencephalogram (EEG)&#xD;
+&#xD;
+        -  Combination of EEG recording with single-pulse TMS administration (TMS-EEG)&#xD;
+&#xD;
+      Different TBS stimulation protocols will be applied:&#xD;
+&#xD;
+        1. Intermittent theta burst stimulation (iTBS): this protocol consists in the&#xD;
+           administration of 600 pulses divided into blocks of 3 pulses at 50 Hz which are applied&#xD;
+           at 5 Hz (every 200 ms), alternating 2 s of stimulation with 8 s of pause.&#xD;
+&#xD;
+        2. Continuous theta burst stimulation (cTBS): this protocol consists in the administration&#xD;
+           of 600 pulses divided into blocks of 3 pulses at 50 Hz that are applied at 5 Hz (every&#xD;
+           200 ms).&#xD;
+&#xD;
+      In both stimulation protocols, the stimulation intensity will be equal to 80% of the motor&#xD;
+      threshold value at rest. As for the protocols that involve the application of sham/placebo&#xD;
+      stimulation, the rTMS will be administered by applying to the coil a piece of wood or plastic&#xD;
+      of about 30 mm in thickness, a distance that ensures that the magnetic pulse does not reach&#xD;
+      the cortex, and built so as to appear as an integral part of the apparatus. All stimulation&#xD;
+      parameters adopted in this study are in accordance with the safety guidelines for the&#xD;
+      application of rTMS.&#xD;
+&#xD;
+      Cognitive rehabilitation protocol For patients assigned to the protocol including the&#xD;
+      application of cognitive training (TBS + CT; CT), the training will be administered&#xD;
+      immediately following the application of rTMS (both in the real intermittent or continuous&#xD;
+      condition, and placebo) and will last 25 minutes. Cognitive training will be administered&#xD;
+      through dedicated software that uses an individualized adaptive methodology based on the&#xD;
+      participant's performance.&#xD;
+&#xD;
+      The rehabilitation of memory functions, associated with the stimulation of the left DLPFC,&#xD;
+      will be focused on learning face-name associations. The face-name association training&#xD;
+      involves an acquisition phase in which patients are shown faces with an associated name and&#xD;
+      are asked to memorize these associations. The reproduction phase follows the training phase,&#xD;
+      in which the patient's task will consist in finding the face that corresponds to the&#xD;
+      associated name. Based on the patient's performance, the level of difficulty is modulated by&#xD;
+      increasing or decreasing the number of associations to be memorized and possibly, for higher&#xD;
+      difficulty levels, by adding other information to be memorized (for example, a profession).&#xD;
+&#xD;
+      Neuropsychological and psychological evaluation All patients will undergo a&#xD;
+      neuropsychological assessment before the start of treatment (t0), at the end of the intensive&#xD;
+      treatment phase (t1), at the end of the maintenance phase (t2), and after 3 (t3) and 5 months&#xD;
+      (t4) from the start of treatment (Figure 1).&#xD;
+&#xD;
+      The evaluation of the patients after some time (follow-up) from the end of the treatment will&#xD;
+      allow for the verification of long-term effects.&#xD;
+&#xD;
+      A possible &quot;practice effect&quot; resulting from the repeated and quick administration of&#xD;
+      neuropsychological tests is expected and will be considered in the data analysis, as in all&#xD;
+      experimental protocols of this type. The practice effect is a factor common to all&#xD;
+      experimental groups and does not affect the evaluation of the efficacy of the treatment, the&#xD;
+      primary objective of the study.&#xD;
+&#xD;
+      The EEG will be acquired from 64 sintered Ag / AgCl electrodes placed on the scalp in&#xD;
+      accordance with the international 10-20 system through an EEG acquisition system compatible&#xD;
+      with TMS. The EEG signal will be acquired with a high-pass filter at 0.01 Hz, a low-pass&#xD;
+      filter at 1000 Hz and with a sampling frequency of 5000 Hz. The impedance of the electrodes&#xD;
+      will be kept below 5 kΩ. The TMS-EEG co-registration will consist in the administration of&#xD;
+      120 pulses on the target area stimulated in the application phase of the protocol (right&#xD;
+      DLPFC or left DLPFC) at an intensity equal to 110% of the motor threshold at rest with a&#xD;
+      random frequency between 0.2- 0.4 Hz. The analysis of the data recorded by the combination of&#xD;
+      TMS-EEG will allow an in-depth evaluation of the modulations of cortical activity induced by&#xD;
+      the different treatment protocols and, in particular, will allow the investigation of&#xD;
+      cortical excitability and inhibition, connectivity cortico-cortical and the intrinsic ability&#xD;
+      of the stimulated areas to generate oscillatory activity. This method will be able to provide&#xD;
+      a unique measure of local cortical activity and effective cortical-cortical connectivity .&#xD;
+&#xD;
+      The characterization and organization of brain networks will be investigated using graph&#xD;
+      theory.&#xD;
+&#xD;
+      Statistical Analysis:&#xD;
+&#xD;
+      The variables that will be considered for the analysis of clinical, neuropsychological and&#xD;
+      neurophysiological data are: a) treatment effect over time (t0, t1, t2, t3, t4); b) type of&#xD;
+      treatment protocol (combination of TBS and cognitive training, isolated application of TBS,&#xD;
+      isolated application of cognitive training); c) type of stimulation protocol (cTBS, iTBS) and&#xD;
+      d) clinical group (AD or MCI). The experimental design will be both &quot;within subjects&quot; within&#xD;
+      each variable of interest (for example, investigating the difference between t1 and baseline&#xD;
+      to evaluate the effect of intensive treatment), and &quot;between subjects&quot; regarding the data&#xD;
+      between the different treatment protocols (for example, investigating the difference between&#xD;
+      combination of TBS and cognitive training and isolated application of TBS, to evaluate which&#xD;
+      protocol produces the greatest benefits), between different stimulation protocols (for&#xD;
+      example, investigating the difference between cTBS and iTBS to evaluate which protocol&#xD;
+      produces greater benefits) and between clinical conditions (to assess whether the same&#xD;
+      treatment leads to differences in the achieved benefit between the two groups of patients, AD&#xD;
+      and MCI).&#xD;
+&#xD;
+      Calculation of sample size:&#xD;
+&#xD;
+      The primary outcome for the calculation of the sample size was defined as the effect of the&#xD;
+      cTBS protocol and the iTBS protocol (both in combination with cognitive training) compared to&#xD;
+      the treatment involving the combination of cognitive training with TBS placebo, and the one&#xD;
+      which involves only the TBS protocols applied in isolation, on the MMSE score achieved at the&#xD;
+      end of the treatment. Based on the results of a previous rTMS study on a sample of AD&#xD;
+      patients (Ahmed et al. 2012), we estimate that at the end of our treatment there will be an&#xD;
+      improvement in the MMSE score of at least 3 points (SD of change = 2.95) for protocols that&#xD;
+      involve the combination of cognitive training and real TBS, and of 0.2 points (SD of change =&#xD;
+      2.7) for the treatment that involves the combination of cognitive training and placebo&#xD;
+      TBS.Considering an alpha value of 0.05 and a power of 0.80, we estimate that the number of&#xD;
+      patients to be recruited should be 16 patients per group, increased to 20 per group to take&#xD;
+      into account a possible dropout rate of 20%.&#xD;
+&#xD;
+      Techniques provided for data processing Behavioral and neurophysiological data will be&#xD;
+      analyzed by analysis of variance (ANOVA) and post-hoc comparisons (t-test, contrast&#xD;
+      analysis).&#xD;
+&#xD;
+      Statistical processing software Data processing will be performed with BrainVision Analyzer,&#xD;
+      SPSS and/or Statistica software.&#xD;
+&#xD;
+      Ethical Considerations and Assessment of the Risk/Benefit Ratio:&#xD;
+&#xD;
+      Expected benefits Based on the assumptions of the present project, patients who will receive&#xD;
+      the treatment that involves the combined application of rTMS and cognitive training should&#xD;
+      show a clinical response, based on the primary endpoints reported above, better than the&#xD;
+      patients assigned to the protocols in which rTMS and cognitive training are applied in&#xD;
+      isolation. The research also provides indirect scientific / cognitive benefits, in terms of&#xD;
+      advancing knowledge on the development of treatments with proven efficacy and on the&#xD;
+      mechanisms underlying Alzheimer's dementia.&#xD;
+&#xD;
+      Potential Risks:&#xD;
+&#xD;
+      The risks are represented by the use of electro-medical equipment, however, all of which have&#xD;
+      EC authorization for use with patients. For this protocol, all appropriate safety measures&#xD;
+      will be put in place for studies with brain stimulation as indicated by the international&#xD;
+      scientific community. Although, following the international guidelines for the safe&#xD;
+      administration of TMS no adverse events are expected, it should be noted that the environment&#xD;
+      in which the research will take place and the personnel involved are able to cope with any&#xD;
+      side effects of stimulation. The stimulation parameters chosen take into account the clinical&#xD;
+      goals and safety of the participants. With regard to EEG procedures, redness of the skin&#xD;
+      immediately under the electrodes is possible, following abrasion from the application of the&#xD;
+      electroconductive gel.&#xD;
+&#xD;
+      All the procedures foreseen by the research will be carried out paying particular attention&#xD;
+      to the patient involved, adopting all the necessary measures so that no critical issues&#xD;
+      related to stress or fatigue arise.&#xD;
+&#xD;
+      Risk/Benefit Ratio:&#xD;
+&#xD;
+      It is believed that in the proposed study program, the risk/benefit ratio is in favor of&#xD;
+      benefit, in terms of increased knowledge and expected direct benefit for the participants.&#xD;
+      According to the classification of a consensus paper, this protocol is part of class 2&#xD;
+      studies, which identify studies with indirect benefits and moderate risks: these are studies&#xD;
+      with patients where the clinical benefit is speculative, but from which important data could&#xD;
+      come for the development of effective treatments.&#xD;
+&#xD;
+      Ethical Considerations:&#xD;
+&#xD;
+      At the end of the study, patients will not be informed of the treatment protocol to which&#xD;
+      they have been assigned but will be informed about the overall results of the study,&#xD;
+      receiving a report containing a summary of the results achieved by the project.&#xD;
+&#xD;
+      Informed Consent:&#xD;
+&#xD;
+      Participation in the study is on a voluntary basis: each subject will obtain explicit&#xD;
+      information regarding the nature of the project and will have to sign a written consent&#xD;
+      before they can be included. Participants can withdraw their consent to participate at any&#xD;
+      time, without any consequences.&#xD;
+&#xD;
+      Data storage and processing:&#xD;
+&#xD;
+      The data will be protected and anonymized according to the procedures in force. All data&#xD;
+      regarding identification will be encrypted within the database and the subjects will be&#xD;
+      identified only with a code. However, the nature of the study makes it necessary to preserve&#xD;
+      the data regarding the identification of the participants because the project provides for&#xD;
+      follow-up evaluations. Access to the database containing the collected data and the results&#xD;
+      will be restricted to the researchers involved with the project. Sensitive data and all paper&#xD;
+      data will be kept under lock and key at the various facilities. The research manager will&#xD;
+      also be responsible for the appropriate conservation of these data. As this study involves&#xD;
+      experimental data, the experimental data will later be published and shared with national and&#xD;
+      international scientific communities.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 6, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>200 total patients:100 AD patients,100 MCI patients. Random assignment to 1 of 5 protocols (20 AD patients and 20 MCI patients per protocol). Patients will be balanced using MMSE and age matching to create homogeneous groups.&#xD;
+Protocols:&#xD;
+Combination of continuous TBS plus cognitive training (cTBS + CT);&#xD;
+Combination of intermittent TBS plus cognitive training (iTBS + CT);&#xD;
+Continuous TBS only (cTBS);&#xD;
+intermittent TBS only (iTBS);&#xD;
+Cognitive training only (with placebo TBS) (CT). 2 main treatment phases; 1) intensive phase (2 weeks, applied daily 5 times a week, 10 sessions); 2) maintenance phase, (5 weeks, 2 times a week, 10 sessions).&#xD;
+Patients will undergo a clinical, neuropsychological, and neurophysiological evaluation before the start of treatment (baseline, t0=Week1), at the end of the intensive phase (t1= Week 4), at the end of the maintenance phase (t2 = Week 8), and after 3 (t3 = Week 12) and 5 months (t4 = Week 20) from the start of treatment.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+    <masking_description>We will implement a randomized, non-pharmacological study, with a double-blind certified medical device (neither the patient nor the clinician / researcher who will carry out the evaluations will be aware of the group to which the patient has been assigned).</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Face-name associative memory performance - Measure of Memory Recall</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean change in performance in ability to correctly memorize face/name paired associations [score range min=7, max=n/a, higher score=better outcome]. Patients will start at level 7, the level at which the training software begins paired face/name associations. The software will not allow the patient to go below level 7, so this is the minimum score (level) threshold for all patients.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mini-Mental State Evaluation (MMSE) Score - Non-Trained Measure of Global Function</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Neuropsychological evaluation using mean changes in the Mini-Mental State Evaluation(MMSE) score Score range is from 0-30, with a score of 25 or higher is classed as &quot;normal&quot;. If the score is below 25, the result indicates a possible cognitive impairment. A lower score = worse outcome</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>TMS evoked potentials - TEP: Analysis of cortical excitability and inhibition changes induced in the state of excitability/inhibition of brain circuits following the TMS impulse.</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>120 pulses will be delivered to the target area (right DLPFC or left DLPFC) at 110% resting motor threshold intensity during EEG registration. This outcome will analyze cortical excitability and inhibition changes induced in the state of excitability/inhibition of brain circuits following the TMS impulse. The amplitude will be used as a marker of cortical excitability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Connectivity Index - Connectivity evoked by TMS: cortico-cortical connectivity analysis</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>120 pulses will be delivered to the target area (right DLPFC or left DLPFC) at 110% resting motor threshold intensity during EEG registration. This outcome will analyze changes in the latencies and topographical distribution of the TEPs thus providing a connectivity index. This connectivity index will be used to infer the propagation of the activity from the stimulation site to functionally connected areas.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TMS evoked oscillations: changes induced by TMS and its influence on intrinsic oscillatory activity</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>120 pulses will be delivered to the target area (right DLPFC or left DLPFC) at 110% resting motor threshold intensity during EEG registration. This outcome will analyze changes in responses induced by TMS in the frequency domain for the intrinsic capacity of the stimulated area to generate oscillatory activity in specific frequency bands.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Raven's Colored Progressive Matrices: Evaluation of abstract non-verbal reasoning</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes in test scores [score range 0-36, higher score=better outcome])</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Digit Span: Evaluation of short and long term memory (verbal)</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes in test scores [score range 0-9, higher score=better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Spatial Span: Evaluation of short and long term memory (visuospatial)</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes in test scores [score range 0-10, higher score=better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prose Memory:Evaluation of short and long term memory</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes in test scores [score range 0-28, higher score=better outcome];</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Free And Cued Selective Reminding Test: Evaluation of short and long term memory</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on tests scores [Immediate: score range 0-36; Deferred: score range 0-12, higher score=better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deferred re-enactment of the Complex Figure by Rey Osterrieth: Long term memory evaluation</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on tests scores [score range 0-36, higher score=better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Token Test: Evaluation of linguistic production</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on tests scores [score range 0-36, higher score = better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Semantic fluency and Phonemic fluency</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on tests scores: [score range 0-no limits, higher score=better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Multiple Features Cancellation task: Evaluation of attention and executive function &quot;MFCT&quot;</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes in scores on MFCT Time [score range, min= N/A, max= no limit, higher score=worse outcome; Mean changes in scores on MFCT Accuracy [score range min=0, max=20, higher score=better outcome]; Mean changes in scores on MFCT False alarm [score range min: N/A, max= no limit, high score=worse outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trail Making test (for A, B and B-A conditions): Evaluation of attention and executive function</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores for each condition [score range: min= n/a, max= no limits, higher score=worse outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stroop test Error and Time: Evaluation of attention and executive function</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores [score ranges min=N/A, max= no limit, higher score=worse outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Attentional Matrices: Evaluation of attention and executive function</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores [score range 0-60, higher score=better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Copy of Rey's Complex Figure: Evaluation of practical and visual-constructive skills</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores [score range 0-36, higher score=better outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geriatric Depression Scale, GDS:Evaluation of depressive symptoms in the elderly</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores [score range 0-30, higher score=worse outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire of Identification of Deficits (QID): Evaluation on quality of life and identification of deficit questionnaire for the patient and caregiver</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores [score range 0-52, higher score=worse outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Insight Rating Scale, (CIRS): Evaluation of awareness of deficits and disease</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores [score range 0-8, higher score=worse outcome]</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Jefferson Scale: Evaluation of the patient's perception of empathy</measure>
+    <time_frame>Prior to treatment (baseline=t0=week 1), at the end of the intensive treatment phase (t1=Week 4), at the end of the maintenance phase (t2=Week 8), 3 months post-treatment (t3=Week 12), &amp; 5 months post treatment (t4=Week 20)</time_frame>
+    <description>Mean changes on scores [score range 0-35, higher score=better outcome]</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Combination of continuous TBS plus cognitive training (cTBS + CT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Continuous mode of TBS applied in conjunction with cognitive training that will commence directly after the stimulation protocol has been completed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Combination of intermittent TBS plus cognitive training (iTBS + CT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intermittent mode of TBS applied in conjunction with cognitive training that will commence directly after the stimulation protocol has been completed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Continuous TBS only (cTBS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TBS in continuous mode application, only (without cognitive training).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intermittent TBS only (iTBS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TBS in intermittent mode application, only (without cognitive training).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cognitive training only (with sham TBS) (CT).</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>TBS Sham will be implemented using the same set-up as a true TBS protocol but with &quot;sham stimulation&quot;. Directly following sham stimulation (as in the true combination of stimulation + cognitive training protocols), patients will undergo 25 minutes of cognitive training.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Experimental: Continuous TBS (cTBS)</intervention_name>
+    <description>Application of cTBS. cTBS will be applied to the left dorsolateral prefrontal cortex (left DLPFC). The coil will be placed at the EEG 10-20 International System position of the F3 electrode. Stimulation parameters will be TBS delivery of 600 pulses divided into blocks of 3 pulses at 50 Hz, which are applied at 5 Hz (every 200 ms), with a stimulation intensity equal to 80% of the motor threshold value at rest.</description>
+    <arm_group_label>Combination of continuous TBS plus cognitive training (cTBS + CT)</arm_group_label>
+    <arm_group_label>Continuous TBS only (cTBS)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Intermittent TBS (iTBS)</intervention_name>
+    <description>Application of iTBS. iTBS will be applied to the left dorsolateral prefrontal cortex (left DLPFC). The coil will be placed at the EEG 10-20 International System position of the F3 electrode. Stimulation parameters will be TBS delivery of of 600 pulses divided into blocks of 3 pulses at 50 Hz, which are applied at 5 Hz (every 200 ms), alternating 2 seconds of stimulation with a pause of 8 seconds, with a stimulation intensity equal to 80% of the motor threshold value at rest.</description>
+    <arm_group_label>Combination of intermittent TBS plus cognitive training (iTBS + CT)</arm_group_label>
+    <arm_group_label>Intermittent TBS only (iTBS)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive training (CT).</intervention_name>
+    <description>Cognitive training (memory rehabilitation via RehaCom computer software) of 25 min. The training will be focused on memory rehabilitation, implementing a face-name association paradigm. The software uses an individualized adaptive methodology based on the participant's performance.</description>
+    <arm_group_label>Cognitive training only (with sham TBS) (CT).</arm_group_label>
+    <arm_group_label>Combination of continuous TBS plus cognitive training (cTBS + CT)</arm_group_label>
+    <arm_group_label>Combination of intermittent TBS plus cognitive training (iTBS + CT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham Stimulation (shamTBS)</intervention_name>
+    <description>Sham rTMS (TBS) will be administered by applying a 30mm thick piece of wood or plastic to a real TMS coil during &quot;stimulation&quot;, and this additional element will be constructed in such a way that it appears to be an integral part of the apparatus such that the patient remains unaware that they are not receiving stimulation (Rossi et al., 2007 ).This 30mm distance is adequate to ensure that the magnetic pulse does not reach the cortex.</description>
+    <arm_group_label>Cognitive training only (with sham TBS) (CT).</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        General Inclusion Criteria (must be met for both AD and MCI group):&#xD;
+&#xD;
+          -  right-handed&#xD;
+&#xD;
+          -  normal or corrected to normal vision through lenses&#xD;
+&#xD;
+          -  meet inclusion criteria related to TMS&#xD;
+&#xD;
+          -  Be able to provide information regarding their cognitive and functional skills, or&#xD;
+             have a caregiver available who is able to provide the patient information necessary&#xD;
+             for participation in the study and who is present when signing the patient's informed&#xD;
+             consent.&#xD;
+&#xD;
+        AD Patient Inclusion Criteria:&#xD;
+&#xD;
+          -  Mini Mental State Examination (MMSE) score ≥ 16;&#xD;
+&#xD;
+          -  Stable intake of cholinesterase inhibitors for at least 3 months before the start of&#xD;
+             the protocol&#xD;
+&#xD;
+        MCI Patient Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of mild cognitive impairment&#xD;
+&#xD;
+          -  Mini Mental State Examination (MMSE) score ≥ 24;&#xD;
+&#xD;
+        Patients will be selected through clinical evaluation (battery of neuropsychological tests&#xD;
+        at the Neurocognitive Rehabilitation Center (CeRiN) and, in accordance with the APSS, a CSF&#xD;
+        and PET examination will be performed as well as a further finalized neuropsychological&#xD;
+        evaluation for research.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who are unable to perform the tasks required by the experimental procedure;&#xD;
+&#xD;
+          -  History and / or evidence of any other central nervous system disorder that could be&#xD;
+             interpreted as a cause of dementia such as structural or developmental abnormality,&#xD;
+             epilepsy, infectious disease, degenerative or inflammatory/demyelinating diseases of&#xD;
+             the central nervous system such as Parkinson's disease or Fronto-temporal dementia&#xD;
+&#xD;
+          -  History of significant psychiatric disease which, in the investigator's judgment,&#xD;
+             could interfere with study participation&#xD;
+&#xD;
+          -  History of alcohol or other substance abuse, according to DSM-V criteria, or recent or&#xD;
+             previous history of drug abuse if this could be a contributing factor to dementia&#xD;
+&#xD;
+          -  Ongoing treatments with drugs that contain / intake of the following substances:&#xD;
+             imipramine, amitriptyline, doxepin, nortriptyline, maprotiline, chlorpromazine,&#xD;
+             clozapine, foscarnet, ganciclovir, ritonavir, amphetamines, cocaine, (MDMA, ecstasy),&#xD;
+             phencyclidine (PCP, angel dust), gamma-hydroxybutyrate acid (GHB), theophylline&#xD;
+&#xD;
+          -  Presence of cardiac pacemakers, electronic prostheses, bio-stimulators, metal inserts&#xD;
+             or electrodes implanted in the brain or skull or spine.&#xD;
+&#xD;
+        Absolute exclusion criteria (Criteria for TMS), which in detail are:&#xD;
+&#xD;
+          -  presence of cardiac pace-makers, artificial heart valves and / or bio-stimulators&#xD;
+&#xD;
+          -  presence of hearing aids located in the middle ear;&#xD;
+&#xD;
+          -  presence of metal inserts on the head and shoulders;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carlo Miniussi, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Università degli Studi di Trento</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carlo Miniussi, PhD</last_name>
+    <phone>0464 808694</phone>
+    <email>carlo.miniussi@unitn.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centro Interdipartimentale Mente/Cervello - CIMeC</name>
+      <address>
+        <city>Rovereto</city>
+        <state>Trento</state>
+        <zip>38068</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessandra Dodich</last_name>
+      <phone>0464 808162</phone>
+      <email>alessandra.dodich@unitn.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Ahmed MA, Darwish ES, Khedr EM, El Serogy YM, Ali AM. Effects of low versus high frequencies of repetitive transcranial magnetic stimulation on cognitive function and cortical excitability in Alzheimer's dementia. J Neurol. 2012 Jan;259(1):83-92. doi: 10.1007/s00415-011-6128-4. Epub 2011 Jun 14.</citation>
+    <PMID>21671144</PMID>
+  </reference>
+  <reference>
+    <citation>Alcalá-Lozano R, Morelos-Santana E, Cortés-Sotres JF, Garza-Villarreal EA, Sosa-Ortiz AL, González-Olvera JJ. Similar clinical improvement and maintenance after rTMS at 5 Hz using a simple vs. complex protocol in Alzheimer's disease. Brain Stimul. 2018 May - Jun;11(3):625-627. doi: 10.1016/j.brs.2017.12.011. Epub 2017 Dec 29.</citation>
+    <PMID>29326021</PMID>
+  </reference>
+  <reference>
+    <citation>Barbay S, Plautz EJ, Friel KM, Frost SB, Dancause N, Stowe AM, Nudo RJ. Behavioral and neurophysiological effects of delayed training following a small ischemic infarct in primary motor cortex of squirrel monkeys. Exp Brain Res. 2006 Feb;169(1):106-16. Epub 2005 Nov 5.</citation>
+    <PMID>16273404</PMID>
+  </reference>
+  <reference>
+    <citation>Bentwich J, Dobronevsky E, Aichenbaum S, Shorer R, Peretz R, Khaigrekht M, Marton RG, Rabey JM. Beneficial effect of repetitive transcranial magnetic stimulation combined with cognitive training for the treatment of Alzheimer's disease: a proof of concept study. J Neural Transm (Vienna). 2011 Mar;118(3):463-71. doi: 10.1007/s00702-010-0578-1. Epub 2011 Jan 19.</citation>
+    <PMID>21246222</PMID>
+  </reference>
+  <reference>
+    <citation>Bestmann S, Baudewig J, Siebner HR, Rothwell JC, Frahm J. Functional MRI of the immediate impact of transcranial magnetic stimulation on cortical and subcortical motor circuits. Eur J Neurosci. 2004 Apr;19(7):1950-62.</citation>
+    <PMID>15078569</PMID>
+  </reference>
+  <reference>
+    <citation>Bortoletto M, Veniero D, Thut G, Miniussi C. The contribution of TMS-EEG coregistration in the exploration of the human cortical connectome. Neurosci Biobehav Rev. 2015 Feb;49:114-24. doi: 10.1016/j.neubiorev.2014.12.014. Epub 2014 Dec 22. Review.</citation>
+    <PMID>25541459</PMID>
+  </reference>
+  <reference>
+    <citation>Cazzoli D, Müri RM, Schumacher R, von Arx S, Chaves S, Gutbrod K, Bohlhalter S, Bauer D, Vanbellingen T, Bertschi M, Kipfer S, Rosenthal CR, Kennard C, Bassetti CL, Nyffeler T. Theta burst stimulation reduces disability during the activities of daily living in spatial neglect. Brain. 2012 Nov;135(Pt 11):3426-39. doi: 10.1093/brain/aws182. Epub 2012 Jul 24.</citation>
+    <PMID>22831781</PMID>
+  </reference>
+  <reference>
+    <citation>Chung SW, Rogasch NC, Hoy KE, Fitzgerald PB. Measuring Brain Stimulation Induced Changes in Cortical Properties Using TMS-EEG. Brain Stimul. 2015 Nov-Dec;8(6):1010-20. doi: 10.1016/j.brs.2015.07.029. Epub 2015 Jul 17. Review.</citation>
+    <PMID>26275346</PMID>
+  </reference>
+  <reference>
+    <citation>Cotelli M, Calabria M, Manenti R, Rosini S, Zanetti O, Cappa SF, Miniussi C. Improved language performance in Alzheimer disease following brain stimulation. J Neurol Neurosurg Psychiatry. 2011 Jul;82(7):794-7. doi: 10.1136/jnnp.2009.197848. Epub 2010 Jun 23.</citation>
+    <PMID>20574108</PMID>
+  </reference>
+  <reference>
+    <citation>Delbeuck X, Van der Linden M, Collette F. Alzheimer's disease as a disconnection syndrome? Neuropsychol Rev. 2003 Jun;13(2):79-92. Review.</citation>
+    <PMID>12887040</PMID>
+  </reference>
+  <reference>
+    <citation>Di Lazzaro V, Pilato F, Dileone M, Profice P, Oliviero A, Mazzone P, Insola A, Ranieri F, Meglio M, Tonali PA, Rothwell JC. The physiological basis of the effects of intermittent theta burst stimulation of the human motor cortex. J Physiol. 2008 Aug 15;586(16):3871-9. doi: 10.1113/jphysiol.2008.152736. Epub 2008 Jun 19.</citation>
+    <PMID>18566003</PMID>
+  </reference>
+  <reference>
+    <citation>Di Lazzaro V, Dileone M, Pilato F, Capone F, Musumeci G, Ranieri F, Ricci V, Bria P, Di Iorio R, de Waure C, Pasqualetti P, Profice P. Modulation of motor cortex neuronal networks by rTMS: comparison of local and remote effects of six different protocols of stimulation. J Neurophysiol. 2011 May;105(5):2150-6. doi: 10.1152/jn.00781.2010. Epub 2011 Feb 23.</citation>
+    <PMID>21346213</PMID>
+  </reference>
+  <reference>
+    <citation>Huang YY, Kandel ER. Theta frequency stimulation induces a local form of late phase LTP in the CA1 region of the hippocampus. Learn Mem. 2005 Nov-Dec;12(6):587-93. Epub 2005 Nov 14.</citation>
+    <PMID>16287724</PMID>
+  </reference>
+  <reference>
+    <citation>Iezzi E, Suppa A, Conte A, Li Voti P, Bologna M, Berardelli A. Short-term and long-term plasticity interaction in human primary motor cortex. Eur J Neurosci. 2011 May;33(10):1908-15. doi: 10.1111/j.1460-9568.2011.07674.x. Epub 2011 Apr 14.</citation>
+    <PMID>21488986</PMID>
+  </reference>
+  <reference>
+    <citation>Jung NH, Gleich B, Gattinger N, Hoess C, Haug C, Siebner HR, Mall V. Quadri-Pulse Theta Burst Stimulation using Ultra-High Frequency Bursts - A New Protocol to Induce Changes in Cortico-Spinal Excitability in Human Motor Cortex. PLoS One. 2016 Dec 15;11(12):e0168410. doi: 10.1371/journal.pone.0168410. eCollection 2016.</citation>
+    <PMID>27977758</PMID>
+  </reference>
+  <reference>
+    <citation>Koch G, Bonnì S, Giacobbe V, Bucchi G, Basile B, Lupo F, Versace V, Bozzali M, Caltagirone C. θ-burst stimulation of the left hemisphere accelerates recovery of hemispatial neglect. Neurology. 2012 Jan 3;78(1):24-30. doi: 10.1212/WNL.0b013e31823ed08f. Epub 2011 Dec 14.</citation>
+    <PMID>22170878</PMID>
+  </reference>
+  <reference>
+    <citation>Koch G, Bonnì S, Pellicciari MC, Casula EP, Mancini M, Esposito R, Ponzo V, Picazio S, Di Lorenzo F, Serra L, Motta C, Maiella M, Marra C, Cercignani M, Martorana A, Caltagirone C, Bozzali M. Transcranial magnetic stimulation of the precuneus enhances memory and neural activity in prodromal Alzheimer's disease. Neuroimage. 2018 Apr 1;169:302-311. doi: 10.1016/j.neuroimage.2017.12.048. Epub 2017 Dec 19.</citation>
+    <PMID>29277405</PMID>
+  </reference>
+  <reference>
+    <citation>Lee J, Choi BH, Oh E, Sohn EH, Lee AY. Treatment of Alzheimer's Disease with Repetitive Transcranial Magnetic Stimulation Combined with Cognitive Training: A Prospective, Randomized, Double-Blind, Placebo-Controlled Study. J Clin Neurol. 2016 Jan;12(1):57-64. doi: 10.3988/jcn.2016.12.1.57. Epub 2015 Sep 11.</citation>
+    <PMID>26365021</PMID>
+  </reference>
+  <reference>
+    <citation>Lefaucheur JP, André-Obadia N, Antal A, Ayache SS, Baeken C, Benninger DH, Cantello RM, Cincotta M, de Carvalho M, De Ridder D, Devanne H, Di Lazzaro V, Filipović SR, Hummel FC, Jääskeläinen SK, Kimiskidis VK, Koch G, Langguth B, Nyffeler T, Oliviero A, Padberg F, Poulet E, Rossi S, Rossini PM, Rothwell JC, Schönfeldt-Lecuona C, Siebner HR, Slotema CW, Stagg CJ, Valls-Sole J, Ziemann U, Paulus W, Garcia-Larrea L. Evidence-based guidelines on the therapeutic use of repetitive transcranial magnetic stimulation (rTMS). Clin Neurophysiol. 2014 Nov;125(11):2150-2206. doi: 10.1016/j.clinph.2014.05.021. Epub 2014 Jun 5. Review.</citation>
+    <PMID>25034472</PMID>
+  </reference>
+  <reference>
+    <citation>Miniussi C, Rossini PM. Transcranial magnetic stimulation in cognitive rehabilitation. Neuropsychol Rehabil. 2011 Oct;21(5):579-601. doi: 10.1080/09602011.2011.562689. Epub 2011 Jun 24. Review.</citation>
+    <PMID>21462081</PMID>
+  </reference>
+  <reference>
+    <citation>Morrison JH, Baxter MG. The ageing cortical synapse: hallmarks and implications for cognitive decline. Nat Rev Neurosci. 2012 Mar 7;13(4):240-50. doi: 10.1038/nrn3200. Review.</citation>
+    <PMID>22395804</PMID>
+  </reference>
+  <reference>
+    <citation>Nardone R, Bergmann J, Christova M, Caleri F, Tezzon F, Ladurner G, Trinka E, Golaszewski S. Effect of transcranial brain stimulation for the treatment of Alzheimer disease: a review. Int J Alzheimers Dis. 2012;2012:687909. doi: 10.1155/2012/687909. Epub 2011 Oct 25.</citation>
+    <PMID>22114748</PMID>
+  </reference>
+  <reference>
+    <citation>Nardone R, Tezzon F, Höller Y, Golaszewski S, Trinka E, Brigo F. Transcranial magnetic stimulation (TMS)/repetitive TMS in mild cognitive impairment and Alzheimer's disease. Acta Neurol Scand. 2014 Jun;129(6):351-66. doi: 10.1111/ane.12223. Epub 2014 Feb 8. Review.</citation>
+    <PMID>24506061</PMID>
+  </reference>
+  <reference>
+    <citation>Nyffeler T, Cazzoli D, Hess CW, Müri RM. One session of repeated parietal theta burst stimulation trains induces long-lasting improvement of visual neglect. Stroke. 2009 Aug;40(8):2791-6. doi: 10.1161/STROKEAHA.109.552323. Epub 2009 Jun 11.</citation>
+    <PMID>19520986</PMID>
+  </reference>
+  <reference>
+    <citation>Petersen RC, Morris JC. Mild cognitive impairment as a clinical entity and treatment target. Arch Neurol. 2005 Jul;62(7):1160-3; discussion 1167. Review.</citation>
+    <PMID>16009779</PMID>
+  </reference>
+  <reference>
+    <citation>Rabey JM, Dobronevsky E, Aichenbaum S, Gonen O, Marton RG, Khaigrekht M. Repetitive transcranial magnetic stimulation combined with cognitive training is a safe and effective modality for the treatment of Alzheimer's disease: a randomized, double-blind study. J Neural Transm (Vienna). 2013 May;120(5):813-9. doi: 10.1007/s00702-012-0902-z. Epub 2012 Oct 18.</citation>
+    <PMID>23076723</PMID>
+  </reference>
+  <reference>
+    <citation>Rossi S, Hallett M, Rossini PM, Pascual-Leone A; Safety of TMS Consensus Group. Safety, ethical considerations, and application guidelines for the use of transcranial magnetic stimulation in clinical practice and research. Clin Neurophysiol. 2009 Dec;120(12):2008-2039. doi: 10.1016/j.clinph.2009.08.016. Epub 2009 Oct 14. Review.</citation>
+    <PMID>19833552</PMID>
+  </reference>
+  <reference>
+    <citation>Rossi S, Rossini PM. TMS in cognitive plasticity and the potential for rehabilitation. Trends Cogn Sci. 2004 Jun;8(6):273-9. Review.</citation>
+    <PMID>15165553</PMID>
+  </reference>
+  <reference>
+    <citation>Rossi S, Ferro M, Cincotta M, Ulivelli M, Bartalini S, Miniussi C, Giovannelli F, Passero S. A real electro-magnetic placebo (REMP) device for sham transcranial magnetic stimulation (TMS). Clin Neurophysiol. 2007 Mar;118(3):709-16. Epub 2006 Dec 22.</citation>
+    <PMID>17188568</PMID>
+  </reference>
+  <reference>
+    <citation>Rossi S, Antal A, Bestmann S, Bikson M, Brewer C, Brockmöller J, Carpenter LL, Cincotta M, Chen R, Daskalakis JD, Di Lazzaro V, Fox MD, George MS, Gilbert D, Kimiskidis VK, Koch G, Ilmoniemi RJ, Lefaucheur JP, Leocani L, Lisanby SH, Miniussi C, Padberg F, Pascual-Leone A, Paulus W, Peterchev AV, Quartarone A, Rotenberg A, Rothwell J, Rossini PM, Santarnecchi E, Shafi MM, Siebner HR, Ugawa Y, Wassermann EM, Zangen A, Ziemann U, Hallett M; basis of this article began with a Consensus Statement from the IFCN Workshop on &quot;Present, Future of TMS: Safety, Ethical Guidelines&quot;, Siena, October 17-20, 2018, updating through April 2020. Safety and recommendations for TMS use in healthy subjects and patient populations, with updates on training, ethical and regulatory issues: Expert Guidelines. Clin Neurophysiol. 2021 Jan;132(1):269-306. doi: 10.1016/j.clinph.2020.10.003. Epub 2020 Oct 24. Review.</citation>
+    <PMID>33243615</PMID>
+  </reference>
+  <reference>
+    <citation>Rossini PM, Burke D, Chen R, Cohen LG, Daskalakis Z, Di Iorio R, Di Lazzaro V, Ferreri F, Fitzgerald PB, George MS, Hallett M, Lefaucheur JP, Langguth B, Matsumoto H, Miniussi C, Nitsche MA, Pascual-Leone A, Paulus W, Rossi S, Rothwell JC, Siebner HR, Ugawa Y, Walsh V, Ziemann U. Non-invasive electrical and magnetic stimulation of the brain, spinal cord, roots and peripheral nerves: Basic principles and procedures for routine clinical and research application. An updated report from an I.F.C.N. Committee. Clin Neurophysiol. 2015 Jun;126(6):1071-1107. doi: 10.1016/j.clinph.2015.02.001. Epub 2015 Feb 10. Review.</citation>
+    <PMID>25797650</PMID>
+  </reference>
+  <reference>
+    <citation>Rutherford G, Lithgow B, Moussavi Z. Short and Long-term Effects of rTMS Treatment on Alzheimer's Disease at Different Stages: A Pilot Study. J Exp Neurosci. 2015 Jun 3;9:43-51. doi: 10.4137/JEN.S24004. eCollection 2015.</citation>
+    <PMID>26064066</PMID>
+  </reference>
+  <reference>
+    <citation>Stam CJ, Jones BF, Nolte G, Breakspear M, Scheltens P. Small-world networks and functional connectivity in Alzheimer's disease. Cereb Cortex. 2007 Jan;17(1):92-9. Epub 2006 Feb 1.</citation>
+    <PMID>16452642</PMID>
+  </reference>
+  <reference>
+    <citation>Zhao J, Li Z, Cong Y, Zhang J, Tan M, Zhang H, Geng N, Li M, Yu W, Shan P. Repetitive transcranial magnetic stimulation improves cognitive function of Alzheimer's disease patients. Oncotarget. 2017 May 16;8(20):33864-33871. doi: 10.18632/oncotarget.13060.</citation>
+    <PMID>27823981</PMID>
+  </reference>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 30, 2021</study_first_posted>
+  <last_update_submitted>May 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Transcranial Magnetic Stimulation</keyword>
+  <keyword>Theta Burst Stimulation</keyword>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Memory</keyword>
+  <keyword>TMS-EEG</keyword>
+  <keyword>Electroencephelography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data be available (including data dictionaries) after de-identification.&#xD;
+The data in particular that will be shared are individual participant data that underlie the results reported in the published article, after de-identification (text, tables, figures, and appendices).</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>The data will be available immediately following article publication, and the time frame for sharing this data will have no foreseen end-date.</ipd_time_frame>
+    <ipd_access_criteria>The data will be shared with Investigators whose proposed use of the data has been approved by an independent review committee (&quot;learned intermediary&quot;) identified for this purpose, for research purposes only.&#xD;
+The only data will be shared will be those which aid in achieving the research aims of the approved proposal, previously approved by the above mentioned independent ethical review committee.&#xD;
+Proposals for data sharing should be directed to carlo.miniussi@unitn.it following ethical committee approval. To gain access, data requestors will need to sign a data access agreement. The sharing of the data will be contingent on the above-mentioned criteria, namely, the approval of an independent ethics committee and the relevance of the requested data as it pertains to the research question.</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 19, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/79/NCT04866979/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

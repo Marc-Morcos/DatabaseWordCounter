@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1865">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04794634</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PI2021_843_0006</org_study_id>
+    <nct_id>NCT04794634</nct_id>
+  </id_info>
+  <brief_title>Relationship Between Alzheimer Disease and Diminution of the Three Macular Nervous Retinal Layers</brief_title>
+  <acronym>RETEVAL</acronym>
+  <official_title>Relationship Between Alzheimer Disease and Diminution of the Three Macular Nervous Retinal Layers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire, Amiens</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire, Amiens</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer disease is hard, long and expensive to diagnose. In order to help the clinician, a&#xD;
+      new biomarker in Alzheimer disease seems to be very useful. The retina, as a window of the&#xD;
+      brain, could offer a new way to diagnose this common disease. Indeed, a retinal atrophy could&#xD;
+      especially appear in Alzheimer disease. Besides, many aspects about retinal alteration,&#xD;
+      visual function and their link with the disease deserve to be more explored. So as to fill&#xD;
+      these gaps, a new study about retinal specificity in Alzheimer disease appears to be&#xD;
+      relevant.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 9, 2021</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Variation of retinal nerve fibres layer (RNFL) thickness in AD patient compared to healthy and LMD patients</measure>
+    <time_frame>one day</time_frame>
+    <description>Thickness of retinal nerve fibres layer (RNFL), ganglion cell layer (CGL), intern plexiform layer (IPL) within the macular zone of patients suffering from AD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Variation of ganglion cell layer (CGL) thickness in AD patient compared to healthy and LMD patients</measure>
+    <time_frame>one day</time_frame>
+    <description>Thickness of retinal nerve fibres layer (RNFL), ganglion cell layer (CGL), intern plexiform layer (IPL) within the macular zone of patients suffering from AD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Variation of intern plexiform layer (IPL) thickness in AD patient compared to healthy and LMD patients</measure>
+    <time_frame>one day</time_frame>
+    <description>Thickness of retinal nerve fibres layer (RNFL), ganglion cell layer (CGL), intern plexiform layer (IPL) within the macular zone of patients suffering from AD.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Optical Coherence Tomography</condition>
+  <condition>Optical Coherence Tomography Angiography</condition>
+  <condition>Retinal Thickening</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Lewy Body Disease</condition>
+  <condition>Retina</condition>
+  <condition>Cortical Atrophy</condition>
+  <condition>Retinal Nerve Fibres Layer</condition>
+  <arm_group>
+    <arm_group_label>Alzheimer Disease</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lewy body disease</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>healthy patient</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Optical coherence tomography (OCT)</intervention_name>
+    <description>to make a complete ophthalmological and neurological examination, an OCT to AD and to compare their results with LD and controls subjects</description>
+    <arm_group_label>Alzheimer Disease</arm_group_label>
+    <arm_group_label>Lewy body disease</arm_group_label>
+    <arm_group_label>healthy patient</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Optical coherence tomograpohy angiography (OCTA)</intervention_name>
+    <description>to make a complete ophthalmological and neurological examination, an OCT and OCTA, to AD and to compare their results with LD and controls subjects</description>
+    <arm_group_label>Alzheimer Disease</arm_group_label>
+    <arm_group_label>Lewy body disease</arm_group_label>
+    <arm_group_label>healthy patient</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients having a consultation in the Research and Resources Memory Center of Amiens&#xD;
+             (RRMC) ,&#xD;
+&#xD;
+          -  patients registered in the Alzheimer National Bank and having an Alzheimer Disease&#xD;
+             based on NIA-AA (McKahnn2011)and IWG2 (Dubois et al, 2014) criteria or, having a Lewy&#xD;
+             body disease based on revised criteria of McKeith et al 2020&#xD;
+&#xD;
+          -  patients having a complete neuropsychological evaluation including a visual inspection&#xD;
+             time.&#xD;
+&#xD;
+          -  patients having a MMSE ≥ 18/30 so as to ensure a good homogeneity of the group and to&#xD;
+             have an adequate ocular exam's quality.&#xD;
+&#xD;
+          -  patients having an available MRI in the CHU's database including a 3DT1 sequence&#xD;
+&#xD;
+          -  patients having a visual acuity better than 5/10, spherical refraction of +/- 5D, an&#xD;
+             astigmatism &lt; 3D and an applanation IOP &lt;22mmHg&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any other neurocognitive disorder&#xD;
+&#xD;
+          -  Any other optical neuropathy including glaucoma&#xD;
+&#xD;
+          -  All kind of retinal disease (diabetic retinopathy, age-related macular degeneration…)&#xD;
+&#xD;
+          -  Diabetes mellitus&#xD;
+&#xD;
+          -  Uncontrolled hypertension blood pressure&#xD;
+&#xD;
+          -  Any ophthalmological conditions interfering with a good ocular examination or OCT&#xD;
+             quality (cataract, corneal opacity..)&#xD;
+&#xD;
+          -  Severe dementia preventing a good ophthalmological examination&#xD;
+&#xD;
+          -  Not consenting patient&#xD;
+&#xD;
+          -  Patient with guardianship or curatorship having symptoms preventing a good&#xD;
+             ophthalmological examination (agitation, unstable ocular fixation)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sophie BRYSELBOUT, MD</last_name>
+    <phone>03 22 08 92 19</phone>
+    <email>bryselbout.sophie@chu-amiens.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU Amiens</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80480</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie BRYSELBOUT, MD</last_name>
+      <phone>03 22 08 92 19</phone>
+      <email>bryselbout.sophie@chu-amiens.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Olivier GODEFROY</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>March 2021</verification_date>
+  <study_first_submitted>March 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 12, 2021</study_first_posted>
+  <last_update_submitted>March 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Optical coherence tomography</keyword>
+  <keyword>Optical coherence tomography angiography</keyword>
+  <keyword>Retinal Thickening</keyword>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Lewy Body Disease</keyword>
+  <keyword>Retina</keyword>
+  <keyword>Cortical Atrophy</keyword>
+  <keyword>Retinal Nerve Fibres Layer</keyword>
+  <keyword>Cell Ganglion Layer</keyword>
+  <keyword>Intern Plexiform Layer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+    <mesh_term>Atrophy</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

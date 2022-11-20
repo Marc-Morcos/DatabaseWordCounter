@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1234">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05482867</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ICG-001</org_study_id>
+    <nct_id>NCT05482867</nct_id>
+  </id_info>
+  <brief_title>Exploratory Open Label Study for Development of a Method To Detect Dendritic Cells</brief_title>
+  <official_title>Exploratory Open-Label Study For the Development of a Method To Detect Dendritic Cell Recruitment in Alzheimer's Disease (DC RAD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>MindImmune Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>MindImmune Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a proof-of-concept study designed to confirm that human phagocytic cells can be&#xD;
+      labeled with the near-infrared dye indocyanine green (ICG) and the presence of the labeled&#xD;
+      cells 48 hours later in cerebral cortex can be inferred using near infrared spectroscopy&#xD;
+      (NIRS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To develop a method to detect dendritic cell recruitment in Alzheimer's disease (DC RAD),&#xD;
+      this study is designed in 2 parts.&#xD;
+&#xD;
+      The first part assesses the safety and efficacy of indocyanine green (ICG) in labeling&#xD;
+      peripheral immune phagocytic cells in healthy adult subjects.&#xD;
+&#xD;
+      The second part is designed to determine the presence of ICG in the brain of adult subjects&#xD;
+      diagnosed with Alzheimer's disease (AD). In the first part of the study, ICG will be&#xD;
+      delivered by intravenous infusion to healthy subjects to verify that peripheral immune&#xD;
+      phagocytic cells, of which DCs are a subset, can be labeled with ICG. If ICG labeling of&#xD;
+      phagocytic cells is confirmed, then in the second part of the study the presence of ICG in&#xD;
+      brain of AD patients, putatively carried in by ICG-labeled cells, will be investigated by&#xD;
+      NIRS using the INVOS 7000 cerebral oximeter.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 15, 2022</start_date>
+  <completion_date type="Anticipated">July 15, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 15, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacodynamic Assessments</measure>
+    <time_frame>Day 0 and Day 2</time_frame>
+    <description>Determination of the percent of PBMCs labeled with ICG as measured by appropriate analytical methods. After ICG infusion, determination if there is a NIRS signal in the cortex that is higher than the baseline signal recorded before ICG infusion. The distribution of NIRS signals will be examined across the study population.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Analysis</measure>
+    <time_frame>Day 0, Day 2 and 1 Week Telephone Follow-up</time_frame>
+    <description>Safety analyses will be conducted on all subjects who have started infusion of ICG. The number and percentage of subjects experiencing 1 or more AEs will be summarized by infusion rate, relationship to timing of ICG infusion and severity. AEs and SAE and study withdrawals are characterized. Laboratory, ECG and vital signs are to summarized as changes from baseline values using descriptive statistics.</description>
+  </primary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Probable Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <description>Cohort 1, healthy adults (n = 5), will receive an ICG infusion of 1 mg/min for 120 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <description>If no dose limiting adverse effects are observed in Cohort 1, then Cohort 2, healthy adults (n = 10), will receive an ICG infusion of 2 mg/min for 120 minutes. If there are no dose limiting adverse events and there is evidence of ICG-labeling of PBMCs, the 2 mg/min infusion rate will be used for the remainder of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <description>Cohort 3, healthy elderly adults, will receive an ICG infusion of 2 mg/min for 120 minutes. The first 5 subjects will serve as a satellite group. If no adverse effects are observed in the satellite group, then a further 10 healthy elderly adults will receive a 2 mg/min ICG infusion (n = 15 total for Cohort 3).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <description>Cohort 4, AD patients, will receive an ICG infusion of 2 mg/min for 120 minutes. The first 5 subjects will serve as a satellite group. If no adverse effects are observed, then a further 10 AD patients will receive a 2 mg/min ICG infusion (n = 15 total for Cohort 4). Recruitment of AD patients will begin if there are no dose limiting adverse effects observed in the satellite group of healthy elderly.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy Adult subjects: Male or female and between the ages of 21 to 55 inclusive.&#xD;
+&#xD;
+        Healthy Elderly subjects: Male or female and between the ages of 65 to 90 inclusive.&#xD;
+&#xD;
+        Alzheimer's patients: Male or female and between the ages of 50 to 90 inclusive.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All Healthy Subjects:&#xD;
+&#xD;
+          -  Subjects are determined by the investigator to be medically stable and expected to&#xD;
+             complete the trial as designed.&#xD;
+&#xD;
+          -  Subjects have adequate hearing, vision, and language skills to perform&#xD;
+             neuropsychiatric testing and interviews as specified in the protocol.&#xD;
+&#xD;
+          -  Subjects are able to understand and agree to comply with the study procedures and&#xD;
+             report for scheduled office visits.&#xD;
+&#xD;
+          -  Subjects are able to reliably communicate with study personnel about adverse events&#xD;
+             (AEs) and concomitant medications.&#xD;
+&#xD;
+          -  Signed written informed consent according to institutional guidelines.&#xD;
+&#xD;
+          -  Healthy Adult subjects: Male or female and between the ages of 21 to 55 inclusive.&#xD;
+&#xD;
+          -  Healthy Elderly subjects: Male or female and between the ages of 65 to 90 inclusive&#xD;
+             MMSE score &gt; 26.&#xD;
+&#xD;
+          -  Alzheimer's Subjects: Male or female and between the ages of 50 to 90 inclusive.&#xD;
+             Patients satisfying the criteria for the clinical diagnosis of probable AD based on&#xD;
+             National Institute of Neurological and Communicative Disorders and Stroke and the&#xD;
+             Alzheimer's Disease and Related Disorders Association (NINCDS-ADRDA). MMSE score of &gt;&#xD;
+             16 and Modified Hachinski Ischemia Scale (MHIS) score of ≤ 4.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Sex and Reproductive Status:&#xD;
+&#xD;
+          -  Women who test positive for pregnancy.&#xD;
+&#xD;
+          -  Pre-menopausal women who are not practicing two methods of birth control for 3 months&#xD;
+             prior and a week after the ICG infusion.&#xD;
+&#xD;
+        Medical History:&#xD;
+&#xD;
+          -  Subjects with a history of any anaphylactic reactions.&#xD;
+&#xD;
+          -  Subjects with a history of allergic reaction to ICG.&#xD;
+&#xD;
+          -  Subjects with a history of iodine sensitivity and/or allergic reaction to iodine.&#xD;
+&#xD;
+          -  Subjects with a history of a clinically significant hepatic disease.&#xD;
+&#xD;
+        Target Disease Exceptions:&#xD;
+&#xD;
+          -  Any subject diagnosed to have an autoimmune disorder.&#xD;
+&#xD;
+          -  Any subject who has any unstable cardiovascular (included uncontrolled hypertension),&#xD;
+             pulmonary, or GI disease.&#xD;
+&#xD;
+          -  For Alzheimer's patients, a medical condition other than AD that could explain or&#xD;
+             contribute significantly to the patient's dementia.&#xD;
+&#xD;
+        Concurrent Medications:&#xD;
+&#xD;
+          -  Any subject who is immunocompromised at screening including taking medications that&#xD;
+             are systemic immunosuppressives including corticosteroids but not NSAIDS.&#xD;
+&#xD;
+          -  Any subject currently prescribed a biologic immunosuppressive therapy or having taken&#xD;
+             such therapy in the prior 3 months.&#xD;
+&#xD;
+        Physical and Laboratory Test Findings at Screening:&#xD;
+&#xD;
+          -  Any subject with uncontrolled hypertension at screening.&#xD;
+&#xD;
+          -  Any subject with hepatic or hematological abnormalities at screening.&#xD;
+&#xD;
+          -  Any subject who has a known infection with a human immunodeficiency virus.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Frank S Menniti, PhD</last_name>
+    <phone>860-271-9706</phone>
+    <email>mennitifs@mindimmune.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CNS, A Division of APEX Innovative Sciences</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Haig A Goenjian, MD</last_name>
+      <phone>844-562-3232</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>July 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 1, 2022</study_first_posted>
+  <last_update_submitted>August 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Phase 0 Non-intervention Biomarker Study</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

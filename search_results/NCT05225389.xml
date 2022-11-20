@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1568">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05225389</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COG0108</org_study_id>
+    <secondary_id>SB1AG073028</secondary_id>
+    <nct_id>NCT05225389</nct_id>
+  </id_info>
+  <brief_title>Study to Assess the Absorption, Metabolism, Excretion, and Mass Balance of CT1812 in Healthy Adult Male Subjects</brief_title>
+  <acronym>COG0108</acronym>
+  <official_title>A Phase 1, Open-Label Study to Assess the Absorption, Metabolism, Excretion, and Mass Balance of a Single Oral Dose of [14C] CT1812 in Healthy Adult Male Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cognition Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cognition Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Open-label, single-dose study to assess the absorption, metabolism, excretion and mass&#xD;
+      balance of [C14] CT1812&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Open-label, single-dose study to assess the absorption, metabolism, excretion and mass&#xD;
+      balance of [C14] CT1812 in 8 healthy male subjects&#xD;
+&#xD;
+      Subjects will be screened 28-days prior to dosing to determine eligibility.&#xD;
+&#xD;
+      Eligible subjects will be admitted to the clinical research unit (CRU) on Day -1. On Day 1,&#xD;
+      subjects will receive a single dose of CT1812 with a microtracer dose of [14C] CT1812. Whole&#xD;
+      blood, plasma, urine and fecal samples will be collection during the confinement period.&#xD;
+      Safety will be monitored throughout the study by repeated clinical and laboratory&#xD;
+      evaluations.&#xD;
+&#xD;
+      Subjects will be and discharged from the CRU following completion of procedures 168 hours&#xD;
+      post dose (Day 8)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 10, 2022</start_date>
+  <completion_date type="Actual">January 24, 2022</completion_date>
+  <primary_completion_date type="Actual">January 18, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Open-label, single-dose study</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total Radioactivity (TRA) Excreted in Urine</measure>
+    <time_frame>Predose, 0-4, 4-8, 8-12, 12-24, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>% Dose excreted</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) Excreted in Feces</measure>
+    <time_frame>Predose, 0-24, 24-48, 48-72, 72-96, 96-120, 120-144, 144-168 hours</time_frame>
+    <description>% Dose Excreted</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-24</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-last</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-inf</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC%extrap</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hrs</time_frame>
+    <description>Cmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>Tmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>Kel</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>t1/2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Whole Blood</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-t</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-24</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-last</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-inf</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC%extrap</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>Cmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>Tmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>Kel</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>t1/2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-t</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) in Urine</measure>
+    <time_frame>Predose, 0-4, 4-8, 8-12, 12-24, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>Ae(u), CumAe(u), %Dose(u), Cum%Dose(u), CLr</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Radioactivity Recovery (TRA) in Feces</measure>
+    <time_frame>Predose, 0-24, 24-48, 48-72, 72-96, 96-120, 120-144, 144-168 hours</time_frame>
+    <description>Ae(f), CumAe(f), %Dose(f), Cum%Dose(f)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CT1812 Concentrations in Plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-24, AUC0-last, AUC0-inf, AUC%extrap, Cmax,, Tmax, Kel, t1/2 and AUC0-t and Vz/F</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CT1812 Metabolite (M6) in plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>AUC0-24, AUC0-last, AUC0-inf, AUC%extrap, Cmax,, Tmax, Kel, t1/2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>% of Total Radioactivity Recovery (TRA) in whole blood relative to plasma</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>% TRA in whole blood relative to plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability of CT1812</measure>
+    <time_frame>Predose, 0.5, 1, 2, 3, 4, 6, 8, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168 hours</time_frame>
+    <description>Incidence and Severity of Adverse Events</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">8</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>CT1812</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Investigational Drug</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>300 mg [C14] CT1812</intervention_name>
+    <description>Single dose of 300 mg CT1812 with microtracer dose of [C14]</description>
+    <arm_group_label>CT1812</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy, adult, male, 19 - 55 years of age&#xD;
+&#xD;
+          2. Male subjects must follow protocol specified contraception guidance as described in&#xD;
+             the protocol&#xD;
+&#xD;
+          3. Continuous non smoker who has not used tobacco/nicotine containing products for at&#xD;
+             least 3 months prior to dosing.&#xD;
+&#xD;
+          4. Body mass index (BMI) ≥18.0 and ≤30.0 kg/m2 at the Screening visit (subjects must not&#xD;
+             have experienced a weight loss or gain of &gt;10% within 4 weeks of dosing).&#xD;
+&#xD;
+          5. Medically healthy with no clinically significant medical history, physical&#xD;
+             examination, laboratory profiles, vital signs or ECGs, as deemed by the PI/designee at&#xD;
+             the Screening visit.&#xD;
+&#xD;
+          6. History of a minimum of 1 bowel movement per day.&#xD;
+&#xD;
+          7. Able to swallow multiple capsules.&#xD;
+&#xD;
+          8. Understands the study procedures in the informed consent form (ICF), and be willing&#xD;
+             and able to comply with the protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Evidence of disease that, in the opinion of the PI/designee, may influence the outcome&#xD;
+             of the study within 4 weeks before dosing&#xD;
+&#xD;
+          2. Clinically significant illness, in the opinion of the PI/designee, that requires&#xD;
+             medical treatment within 8 weeks prior to dosing, or a clinically significant&#xD;
+             infection that requires medical treatment within 4 weeks prior to dosing.&#xD;
+&#xD;
+          3. Any history of GI surgery that may affect PK profiles of CT1812&#xD;
+&#xD;
+          4. Has evidence of a clinically significant abnormality in physical examination findings,&#xD;
+             vital signs, or clinical laboratory determinations at the Screening visit or Check-in.&#xD;
+&#xD;
+          5. Has a clinically significant ECG abnormality at the Screening visit or Check-in.&#xD;
+&#xD;
+          6. Estimated creatinine clearance &lt;80 ml/min/1.73 m2 at the Screening visit.&#xD;
+&#xD;
+          7. Known history of clinically significant allergy to CT1812 or excipients at the&#xD;
+             Screening visit.&#xD;
+&#xD;
+          8. Has been diagnosed with acquired immune deficiency syndrome, or tests positive for&#xD;
+             human immunodeficiency virus (HIV), Hepatitis B virus surface antigen (HBsAg), or&#xD;
+             Hepatitis C virus (HCV) at the Screening visit.&#xD;
+&#xD;
+          9. Has a history of alcohol use disorder within the 2 years before the Screening visit.&#xD;
+&#xD;
+         10. Positive urine drug or alcohol results at the Screening visit or Check in.&#xD;
+&#xD;
+         11. Positive cotinine result at the Screening visit.&#xD;
+&#xD;
+         12. Unable to refrain from or anticipates the use of:&#xD;
+&#xD;
+               -  Any drugs, including prescription and non prescription medications, herbal&#xD;
+                  remedies, or vitamin supplements beginning 14 days prior to dosing except for&#xD;
+                  those allowed in the protocol&#xD;
+&#xD;
+               -  Any drugs known to be significant inducers of CYP2D6 and CYP3A4 for 28 days prior&#xD;
+                  to dosing.&#xD;
+&#xD;
+         13. Donation of blood or significant blood loss within 56 days prior to dosing.&#xD;
+&#xD;
+         14. Plasma donation within 7 days prior to dosing.&#xD;
+&#xD;
+         15. Poor peripheral venous access.&#xD;
+&#xD;
+         16. Recent history (within 2 weeks of Day 1) of abnormal bowel movements, such as&#xD;
+             diarrhea, loose stools, or constipation.&#xD;
+&#xD;
+         17. Has exposure to significant diagnostic or therapeutic radiation (e.g., serial X-ray,&#xD;
+             computed tomography scan, barium meal) or current employment in a job requiring&#xD;
+             radiation exposure monitoring within 12 months prior to Check-in.&#xD;
+&#xD;
+         18. Has participated in a radiolabeled drug study where exposures are known to the PI&#xD;
+             within the previous 3 months prior to admission to the clinic for this study or&#xD;
+             participated in a radiolabeled drug study where exposures are not known to the PI&#xD;
+             within the previous 6 months prior to admission to the clinic for this study.&#xD;
+&#xD;
+         19. Has previously participated in a CT1812 investigational study.&#xD;
+&#xD;
+         20. Evidence or history of active suicidal thoughts in the 6 months preceding the&#xD;
+             screening visit; or have a history of a suicide attempt in the previous 2 years, or&#xD;
+             more than 1 lifetime suicide attempt; or are at serious suicide risk per the PIs&#xD;
+             clinical judgment.&#xD;
+&#xD;
+         21. Has any condition that would, in the opinion of the PI/designee or Sponsor, make the&#xD;
+             subject unsuitable for the study or is, in the opinion of the PI/designee, not likely&#xD;
+             to complete the study for any reason.&#xD;
+&#xD;
+         22. Participation in another clinical study within 30 days prior to dosing.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Healthy, adult, males eligible for the study</gender_description>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Caggiano, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cognition Therapeutics Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Celerion</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>January 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 4, 2022</study_first_posted>
+  <last_update_submitted>January 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

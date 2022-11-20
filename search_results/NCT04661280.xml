@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="55">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04661280</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP201183</org_study_id>
+    <nct_id>NCT04661280</nct_id>
+  </id_info>
+  <brief_title>Donepezil Versus Non-drug Treatment in Alzheimer's Disease.</brief_title>
+  <acronym>CHOLINE-2</acronym>
+  <official_title>Donepezil Use Versus Non-drug Approach in Treatment of Newly Diagnosed Alzheimer's Disease : a Multicentric, Randomized, Open Study : the CHOLINE-2 Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>France Alzheimer</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Donepezil, as well as the other symptomatic drugs of Alzheimer's disease, is not any more&#xD;
+      reimbursed by the French healthcare system, due to a controversy about its efficiency. French&#xD;
+      health authorities currently preconize a non-rug approach based on cognitive remediation or&#xD;
+      stimulation.&#xD;
+&#xD;
+      The aim of this study is to compare the efficiency of the 2 approaches (non-drug versus&#xD;
+      donepezil) on the symptoms of Alzheimer's disease after 6 months of treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Randomized multicentric open-label study, comparison of 2 therapeutic strategies.&#xD;
+&#xD;
+      2 arms:&#xD;
+&#xD;
+        -  Standard of care, non-drug approach: following the recommendations of the Alzheimer's&#xD;
+           disease care by the Frenchh Health Authority. The care is cognitive, psychic, functional&#xD;
+           or social and centered on the patient and his environment. This care is best carried out&#xD;
+           by the memory consultations participating in this study and having extensive experience&#xD;
+           in the care of Alzheimer patients. It is usually based in particular on the prescription&#xD;
+           of cognitive stimulation sessions by a speech therapist and a mobile Alzheimer&#xD;
+           specialist team at home for cognitive remediation sessions.&#xD;
+&#xD;
+        -  Donepezil group: Management similar to the previous arm plus addition of Donepezil 5 mg&#xD;
+           per os once a day for one month and then 10 mg per os once a day until the 6th month.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 10, 2022</start_date>
+  <completion_date type="Anticipated">August 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference of change in the MMSE score</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Difference of change in the MMSE score between baseline and 26 weeks in the 2 ams (donepezil versus non-drug). MMSE is measured at baseline, 6 weeks, 13 weeks, and 26 weeks.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference of change in the ADAS-Cog scale</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Difference of change in the ADAS-Cog scale between baseline and 26 weeks in the 2 ams (donepezil versus non-drug).&#xD;
+ADAS-Cog scale = Alzheimer's Disease Assessment Scale-Cognitive Subscale, scored from 0 to 70</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of change in the CDR scale</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Difference of change in the CDR scale between baseline and 26 weeks in the 2 ams (donepezil versus non-drug).&#xD;
+CDR scale = Clinical Dementia Rating, scored from 0 to 3</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of change in the ADL scale</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Difference of change in the ADL scale between baseline and 26 weeks in the 2 ams (donepezil versus non-drug).&#xD;
+ADL scale = Autonomy scale on daily activities, scored from 0 to 78</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of change in the quality of life scale</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Difference of change in the quality of life scale between baseline and 26 weeks in the 2 ams (donepezil versus non-drug).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference of change in the ZARIT scale</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Difference of change in the ZARIT scale between baseline and 26 weeks in the 2 ams (donepezil versus non-drug).&#xD;
+ZARIT scale = for assessing caregiver burden, scored from 0 to 88</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Alzheimer Disease, Early Onset</condition>
+  <arm_group>
+    <arm_group_label>Cognitive remediation</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Non-drug treatment, cognitive remediation, cognitive stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cognitive remediation + Donepezil</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Non-drug treatment, cognitive remediation, cognitive stimulation + Donepezil</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Donepezil</intervention_name>
+    <description>Donepezil 5 mg per day during one month, then 10 mg per day during 5 months.</description>
+    <arm_group_label>Cognitive remediation + Donepezil</arm_group_label>
+    <other_name>Aricept</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Alzheimer's disease according to the IWG-2 criteria.&#xD;
+&#xD;
+          -  Age ≥ 50 years.&#xD;
+&#xD;
+          -  Absence of legal protection measures (guardianship, curatorship).&#xD;
+&#xD;
+          -  MMSE score ≥ 10 at inclusion.&#xD;
+&#xD;
+          -  abnormal values for Aβ42 in the CSF or Aβ40 / Aβ42 ratio.&#xD;
+&#xD;
+          -  abnormal values for phosphorylated Tau in CSF&#xD;
+&#xD;
+          -  Presence of a family carer or a person at home who can ensure compliance with&#xD;
+             treatment if MMSE score &lt;20.&#xD;
+&#xD;
+          -  French native speaker.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other cause of dementia.&#xD;
+&#xD;
+          -  Previous use of symptomatic treatment for Alzheimer's disease.&#xD;
+&#xD;
+          -  Hypersensitivity to donepezil hydrochloride or to any of the excipients listed in the&#xD;
+             SPC.&#xD;
+&#xD;
+          -  Cardiological contraindication after possible opinion of a cardiologist, at the&#xD;
+             initiative of the investigator, in particular bradycardia, sinus disease or other&#xD;
+             supra-ventricular conduction abnormalities such as sinoatrial or atrioventricular&#xD;
+             block.&#xD;
+&#xD;
+          -  Patients at particular risk of ulcer, known ulcer disease or receiving concomitant&#xD;
+             treatment with non-steroidal anti-inflammatory drugs.&#xD;
+&#xD;
+          -  Patient at risk of urinary retention.&#xD;
+&#xD;
+          -  History of epileptic disease.&#xD;
+&#xD;
+          -  History of neuroleptic malignant syndrome.&#xD;
+&#xD;
+          -  History of asthma or obstructive bronchopulmonary disease.&#xD;
+&#xD;
+          -  Severe hepatic impairment.&#xD;
+&#xD;
+          -  Taking one of the following treatments:&#xD;
+&#xD;
+               -  CYP3A4 inhibitors, such as ketonazole.&#xD;
+&#xD;
+               -  2D6 inhibitors, such as quinidine.&#xD;
+&#xD;
+               -  CYP3A4 inhibitors, such as itraconazole and erythromycin.&#xD;
+&#xD;
+               -  CYP2D6 inhibitors, such as fluoxetine.&#xD;
+&#xD;
+               -  Enzyme inducers such as rifampicin, phenytoin, carbamazepine.&#xD;
+&#xD;
+          -  Participation in another interventional study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>DUMURGIER Julien, MD, PhD</last_name>
+    <phone>+33140054313</phone>
+    <email>julien.dumurgier@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>PAQUET Claire, MD, PhD</last_name>
+    <email>claire.paquet@inserm.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cognitive Neurology Center</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>DUMURGIER Julien, MD, PhD</last_name>
+      <phone>+33140054313</phone>
+      <email>julien.dumurgier@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2020</study_first_posted>
+  <last_update_submitted>February 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 11, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Donepezil</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Donepezil</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1667">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05542953</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APN-1607-301</org_study_id>
+    <nct_id>NCT05542953</nct_id>
+  </id_info>
+  <brief_title>[18F]APN-1607 PET in Subjects With AD Compared to HC</brief_title>
+  <official_title>A Phase 3, Multicenter Study of [18F]APN-1607 Positron Emission Tomography in Subjects With Alzheimer's Disease Compared to Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>APRINOIA Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>APRINOIA Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall objective of this study is to compare the overall pattern of [18F]APN-1607 uptake&#xD;
+      in subjects with MCI, subjects with AD dementia, and healthy subjects.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 11, 2022</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of [18F]APN-1607 Uptake Patterns by Regional SUVR Values</measure>
+    <time_frame>15 months</time_frame>
+    <description>Regional [18F]APN-1607 uptake patterns will be assessed in regions of interest (ROIs) and an iROI that are relevant to AD pathology. [18F]APN-1607 uptake patterns identified by regional analysis will be compared among healthy subjects, subjects with MDAD, and subjects with AD dementia. Standard uptake value (SUV) will be calculated for each ROI, and SUVRs will be calculated by normalizing SUV of ROIs to the SUV of relevant reference region.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability Profile Measured by Adverse Events (AEs)</measure>
+    <time_frame>15 months</time_frame>
+    <description>Safety and tolerability profile for the administration of [18F]APN-1607 and positron emission tomography (PET) scanning are measured by number of participants with adverse events (AEs).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">230</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Mild Cognitive Impairment Due to Alzheimer's Disease</condition>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Alzheimer's Disease</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AD subjects will undergo PET imaging using [18F]APN-1607.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Cognitive Impairment Due to Alzheimer's Disease</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MCI subjects will undergo PET imaging using [18F]APN-1607.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Healthy control subjects will undergo PET imaging using [18F]APN-1607.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]APN-1607</intervention_name>
+    <description>In this study, all patients will receive one injection of [18F]APN-1607, a PET radiopharmaceutical selective for fibrillar tau. For the injection, subjects will receive a target dose of 5-7 mCi IV as a bolus injection. [18F]APN-1607 injection will be followed by a 10 ml saline flush.</description>
+    <arm_group_label>Alzheimer's Disease</arm_group_label>
+    <arm_group_label>Healthy Volunteers</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment Due to Alzheimer's Disease</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Inclusion Criteria for All Subjects:&#xD;
+&#xD;
+          -  Written informed consent must be obtained before any assessment is performed.&#xD;
+&#xD;
+          -  Female subjects must be documented by medical records or physician's note to be either&#xD;
+             surgically sterile (by means of hysterectomy, bilateral oophorectomy, or tubal&#xD;
+             ligation) or post-menopausal for at least 1 year (ie, 12 consecutive months with no&#xD;
+             menses without an alternative medical cause) or, if they are of childbearing&#xD;
+             potential, must commit to use a barrier contraception method or to abstinence for the&#xD;
+             duration of the study and must have negative serum and urine pregnancy tests.&#xD;
+&#xD;
+          -  Male subjects and their partners of childbearing potential must commit to the use of&#xD;
+             two methods of contraception, one of which is a barrier method (ie, condom), or to&#xD;
+             abstinence for the study duration.&#xD;
+&#xD;
+          -  Male subjects must not donate sperm for the study duration.&#xD;
+&#xD;
+          -  Willing and able to participate in all study procedures.&#xD;
+&#xD;
+        Inclusion Criteria for Healthy Subjects:&#xD;
+&#xD;
+          -  Medically healthy with no clinically relevant finding on physical examination,&#xD;
+             laboratory profiles, VS, or ECG at screening and upon reporting for the [18F]APN-1607&#xD;
+             Imaging Visit.&#xD;
+&#xD;
+          -  No cognitive impairment based on neuropsychological battery and as judged by the&#xD;
+             Investigator.&#xD;
+&#xD;
+          -  No first-degree family history of early-onset AD or other neurological disease&#xD;
+             associated with dementia (prior to age 65).&#xD;
+&#xD;
+        Inclusion Criteria for Subjects with MCI:&#xD;
+&#xD;
+          -  Written informed consent must be obtained before any assessment is performed.&#xD;
+&#xD;
+          -  Must meet all of the clinical criteria for MCI according to NIA-AA criteria, including&#xD;
+             lack of functional impairment sufficient to warrant a diagnosis of dementia.&#xD;
+&#xD;
+        Inclusion Criteria for Subjects with AD:&#xD;
+&#xD;
+          -  Has a diagnosis of AD dementia according to NIA-AA criteria, including significant&#xD;
+             impairment of activities of daily living.&#xD;
+&#xD;
+          -  Medications taken for symptomatic treatment of AD must have been stable for 30 days&#xD;
+             prior to screening and through completion of the neuropsychological battery.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Exclusion Criteria for All Subjects:&#xD;
+&#xD;
+          -  Current or prior history (within the last 10 years) of alcohol or drug abuse.&#xD;
+&#xD;
+          -  Known hypersensitivity to [18F]APN-1607 or its excipients.&#xD;
+&#xD;
+          -  Clinically significant active or unstable medical illness or planned surgical&#xD;
+             procedures during the study period. History of cancer (other than nonmelanoma skin&#xD;
+             cancers or stable, local prostate cancer), unless without evidence of active disease&#xD;
+             within the last 3 years and without ongoing medical or surgical therapy.&#xD;
+&#xD;
+          -  Laboratory tests with clinically significant abnormalities or a history or evidence of&#xD;
+             clinically significant unstable medical illness.&#xD;
+&#xD;
+          -  Prior participation in other research protocols or clinical care in the last year in&#xD;
+             addition to the radiation exposure expected from participation in this clinical study,&#xD;
+             such that radiation exposure exceeds local guidelines.&#xD;
+&#xD;
+          -  Pregnant, lactating or breastfeeding.&#xD;
+&#xD;
+          -  Unsuitable veins for repeated venipuncture.&#xD;
+&#xD;
+          -  Implants, or history of claustrophobia in MRI.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Union Hospital Tongji Medical College Huazhong University of Science and Technology</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaoli Lan</last_name>
+      <phone>027-85726375</phone>
+      <email>whunionlunli@126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>January 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2022</study_first_posted>
+  <last_update_submitted>September 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AD</keyword>
+  <keyword>MCI</keyword>
+  <keyword>HV</keyword>
+  <keyword>APN-1607</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="887">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510168</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAS7441</org_study_id>
+    <secondary_id>R01 AG06616201</secondary_id>
+    <nct_id>NCT04510168</nct_id>
+  </id_info>
+  <brief_title>Accelerated Non-Atherosclerotic Brain Arterial Aging Relationship to Alzheimer's Disease</brief_title>
+  <official_title>Accelerated Non-Atherosclerotic Brain Arterial Aging Relationship to Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jose Gutierrez, MD, MPH</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aging of the United States (US) population will lead to a steep rise in Alzheimer disease&#xD;
+      (AD). There is an urgent need for novel therapies that may tackle this looming societal&#xD;
+      problem. People with Alzheimer disease have frequently evidence of vascular disease in the&#xD;
+      brain, and vascular disease can increase the risk of Alzheimer disease. Based on this&#xD;
+      finding, the investigators plan to expand the understanding of how vascular disease&#xD;
+      contributes to Alzheimer disease, hoping to identify novel target to modify the natural&#xD;
+      progression of the disease. The investigators will accomplish this goal by inviting 300&#xD;
+      participants (with and without dementia) of the Northern Manhattan Study (NOMAS) to undergo a&#xD;
+      brain magnetic resonance imaging (MRI) and donate blood. Of the 300 participants enrolled, 60&#xD;
+      participants will be randomly selected to undergo Aβ and tau positron emission tomography&#xD;
+      (PET) imaging.&#xD;
+&#xD;
+      From the brain MRI, the investigators will obtain measurements of cerebrovascular disease and&#xD;
+      relate the to the risk of Alzheimer disease. With the blood, the investigators hope to&#xD;
+      identify measures of aging and inflammation that may predict changes noted in brain scan and&#xD;
+      identify people at a higher risk of dementia. The investigators will examine PET markers of&#xD;
+      inflammation and aging in the brain and how the markers relate to dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research about non-atherosclerotic BAA and its effects on cognition has been hampered by the&#xD;
+      lack of high-resolution arterial wall imaging, the preponderance of research focused on&#xD;
+      intracranial large artery atherosclerosis (ILAA) and the lack of mechanistic studies. This&#xD;
+      study aims to address these shortcomings. By using high-resolution brain arterial wall&#xD;
+      imaging in participants in the NOMAS cohort, the investigators will derive a wall-based&#xD;
+      measure of non-atherosclerotic BAA and relate it to pre-MRI cognitive trajectories, AD risk,&#xD;
+      and ipsilateral markers of neurodegeneration including Aβ/tau PET imaging.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 18, 2020</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Standardized Uptake Values (SUVRs) of Florbetaben</measure>
+    <time_frame>Up to 1 month</time_frame>
+    <description>Concentration of radioactivity of Florbetaben (to mark amyloid deposition) in each target region of interest (prefrontal cortex, superior temporal gyrus, combined middle/inferior temporal gyri, medial temporal cortex, superior parietal lobule, inferior parietal lobule, posterior cingulate cortex, and occipital cortex) will be divided by that in cerebellar gray matter to calculate standardized uptake values (SUVRs).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Standardized Uptake Values (SUVRs) of 18F-MK- 6240</measure>
+    <time_frame>Up to 1 month</time_frame>
+    <description>Concentration of radioactivity of 18F-MK- 6240 (to mark tau deposition) in each target region of interest (prefrontal cortex, superior temporal gyrus, combined middle/inferior temporal gyri, medial temporal cortex, superior parietal lobule, inferior parietal lobule, posterior cingulate cortex, and occipital cortex) will be divided by that in cerebellar gray matter to calculate standardized uptake values (SUVRs).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Association Between Non-Atherosclerotic Brain Arterial Aging (BAA) and Prevalent Alzheimer's' Disease</measure>
+    <time_frame>Up to 1 month</time_frame>
+    <description>Calculation of the effect size (estimated beta=0.024 +/- 0.0008) of the association between non-atherosclerotic brain arterial aging (BAA) and prevalent Alzheimer's' disease. Each artery forming the circle of Willis and the vertebral arteries will be rated for measuring wall thickness, lumen diameter, lumen-to-wall ratio, and pattern of thickness. The investigators will use spline regression plots to inform the best cutoff to define &quot;thickened arterial wall&quot; and &quot;dilated artery&quot; (based on time of flight MRA). The BAA score will be the sum of three variables: presence of thickened wall, dilated artery, and concentric wall thickening.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>MRI Only</arm_group_label>
+    <description>The investigators will acquire de-novo brain MRI and time-of-flight MRA in randomly selected surviving Northern Manhattan Study and the Washington Heights-Inwood Columbia Aging Project (NOMAS) participants. The investigators aim to include at least 50-60 people with dementia (as determined by the ongoing NOMAS procedures).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MRI and PET</arm_group_label>
+    <description>The investigators will acquire de-novo brain MRI and time-of-flight MRA in randomly selected surviving Northern Manhattan Study and the Washington Heights-Inwood Columbia Aging Project (NOMAS) participants. The investigators aim to include at 20 participants with dementia and 40 participants without (as determined by the ongoing NOMAS procedures). In addition to MRI, participants in this group will have three PET studies.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>11C-ER176</intervention_name>
+    <description>PET imaging to measure 18kDa translocator protein; target imaging dose of up to 20 millicurie (mCi)</description>
+    <arm_group_label>MRI and PET</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[F-18]MK-6240</intervention_name>
+    <description>PET imaging to measure tau; target imaging dose of 4 to 5 mCi</description>
+    <arm_group_label>MRI and PET</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Florbetaben</intervention_name>
+    <description>PET radioligand that binds to amyloid plaques; target-imaging dose of up to 8.1 mCi</description>
+    <arm_group_label>MRI and PET</arm_group_label>
+    <other_name>NeuraCeq</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging</intervention_name>
+    <description>Brain MRI</description>
+    <arm_group_label>MRI Only</arm_group_label>
+    <arm_group_label>MRI and PET</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The population targeted in this aim comes from the long-established NOMAS study, an&#xD;
+        ongoing, prospective, population-based cohort of 3,298 stroke-free participants. Cohort&#xD;
+        recruitment occurred from 1993 to 2001. Initial eligibility for the cohort included those&#xD;
+        aged &gt; 40 years who were permanent residents of Northern Manhattan, lived in a house with a&#xD;
+        telephone, and had no history of clinical stroke. NOMAS participants were recruited during&#xD;
+        annual follow-ups to undergo a brain MRI if they met the following criteria: free of&#xD;
+        clinical stroke, aged &gt;50 years, and could have an MRI.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 50 and older&#xD;
+&#xD;
+          -  Being part of the NOMAS MRI substudy&#xD;
+&#xD;
+          -  Subjects unable to provide informed consent must have a surrogate decision maker&#xD;
+&#xD;
+          -  Written and oral fluency in English or Spanish&#xD;
+&#xD;
+          -  Able to participate in all scheduled evaluations and to complete all required tests&#xD;
+             and procedures.&#xD;
+&#xD;
+          -  In the opinion of the investigator, the subject must be considered likely to comply&#xD;
+             with the study protocol and to have a high probability of completing the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Past or present history of certain brain disorders other than Mild Cognitive&#xD;
+             Impairment (MCI) or Alzheimer's disease (AD) (self-reported brain tumor, dementia of&#xD;
+             Lewy body, frontotemporal dementia).&#xD;
+&#xD;
+          -  Certain significant medical conditions, which make study procedures of the current&#xD;
+             study unsafe (liver cirrhosis, end-stage renal disease on dialysis, terminal cancer&#xD;
+             (death expected within 6 months)).&#xD;
+&#xD;
+          -  Contraindication to MRI scanning&#xD;
+&#xD;
+          -  Conditions precluding entry into the scanners (e.g., morbid obesity, claustrophobia,&#xD;
+             etc.).&#xD;
+&#xD;
+          -  Exposure to research related radiation in the past year that, when combined with this&#xD;
+             study, would place subjects above the allowable limits.&#xD;
+&#xD;
+          -  Participation in a clinical trial for a disease-modifying drug for AD the year prior&#xD;
+             to the date of the first PET scan.&#xD;
+&#xD;
+          -  Inability to have a catheter in subject's vein for the injection of radioligand.&#xD;
+&#xD;
+          -  Inability to have blood drawn from subject's veins.&#xD;
+&#xD;
+          -  Subjects will not be included in the study if they have participated in the last year&#xD;
+             in a clinical trial for a disease-modifying drug for AD.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>José Gutierrez Contreras, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>José Gutierrez Contreras, MD, MPH</last_name>
+    <phone>(212) 305-1710</phone>
+    <email>jg3233@cumc.columbia.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Gutierrez Contreras, MD, MPH</last_name>
+    </contact>
+    <investigator>
+      <last_name>José Gutierrez Contreras, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>August 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>January 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Jose Gutierrez, MD, MPH</investigator_full_name>
+    <investigator_title>Florence Irving Assistant Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>Vascular Disease</keyword>
+  <keyword>Non-Atherosclerotic Brain Arterial Aging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

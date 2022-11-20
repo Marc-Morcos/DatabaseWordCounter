@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="40">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05564169</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AB21004</org_study_id>
+    <secondary_id>2021-002179-21</secondary_id>
+    <nct_id>NCT05564169</nct_id>
+  </id_info>
+  <brief_title>Masitinib in Patients With Mild to Moderate Alzheimer's Disease</brief_title>
+  <official_title>A Multicenter, Randomized, Double-blind, Placebo-controlled, Parallel-group Phase 3 Study of Masitinib as add-on Therapy in Patients With Mild to Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AB Science</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AB Science</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Masitinib is an orally administered tyrosine kinase inhibitor that targets activated cells of&#xD;
+      the neuroimmune system (mast cells and microglia). Study AB21004 will evaluate masitinib as&#xD;
+      an adjunct to cholinesterase inhibitor and/or memantine in patients with mild-to-moderate&#xD;
+      Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Masitinib is an oral tyrosine kinase inhibitor that has demonstrated neuroprotective action&#xD;
+      in neurodegenerative diseases via inhibition of mast cell and microglia/macrophage activity,&#xD;
+      and which is capable of accumulating within the central nervous system (CNS) at a&#xD;
+      therapeutically relevant concentration. There is a growing body of evidence implicating mast&#xD;
+      cells and microglia (types of innate immune cells that are present in the CNS), with the&#xD;
+      pathophysiology of Alzheimer's disease.&#xD;
+&#xD;
+      Masitinib has been shown to restore normal spatial learning performance and promote recovery&#xD;
+      of synaptic markers in a mouse model of Alzheimer's disease, with its synapto-protective&#xD;
+      action being directly linked to mast cell inhibition. The potential benefit of masitinib in&#xD;
+      the treatment of patients with mild to moderate Alzheimer's disease has been previously&#xD;
+      demonstrated in a phase 2 study (AB04024; NCT00976118) and a positive phase 2B/3 study&#xD;
+      (AB09004; NCT01872598) that showed masitinib (4.5 mg/kg/day) was associated with a&#xD;
+      statistically significant slowing of cognitive deterioration.&#xD;
+&#xD;
+      The objective of study AB21004 is to confirm treatment effect with masitinib as an adjunct to&#xD;
+      cholinesterase inhibitor and/or memantine in patients with mild-to-moderate Alzheimer's&#xD;
+      disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2022</start_date>
+  <completion_date type="Anticipated">December 15, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 15, 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, Double-blind, Placebo-controlled, Parallel group (1:1), Multicenter, Comparative study over 24 weeks with a 24-week extension period (all patients can enter the extension phase until week 48).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Computerized central randomization system using an external provider.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Absolute change from baseline in ADAS-Cog-11 score</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Alzheimer's Disease Assessment Scale - cognitive subscale (ADAS-cog) (scores range from 0 to 70, with higher scores indicating worse dementia)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Absolute change from baseline in ADCS-ADL score</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory scale (ADCS-ADL) (scores from 0 to 78, with lower scores indicating worse function)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to severe dementia (MMSE&lt;10)</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Mini-Mental State Examination (MMSE) (scores from 0 to 30, with lower scores indicating poorer cognitive performance)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change from baseline in ADAS-Cog-11 score</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Alzheimer's Disease Assessment Scale - cognitive subscale (ADAS-cog) (scores range from 0 to 70, with higher scores indicating worse dementia)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change from baseline in ADCS-ADL score</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory scale (ADCS-ADL) (scores from 0 to 78, with lower scores indicating worse function)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Responder rate</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Clinical response defined as decrease from baseline at week 24 in ADAS-cog of ≥4, without deterioration in ADCS-ADL (ADCS-ADL change ≥ 0 between baseline and timepoint) or worsening in the CIBIC-plus scale (response CIBIC in 1-3] or no change [CIBIC in 4]).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CIBIC-plus</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Clinician's Interview-Based Impression of Change plus Caregiver Input (CIBIC-plus), a seven-point categorical rating scale ranging from 1 (marked improved) to 7 (markedly worse) compared with baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change from baseline in CDR</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Clinical Dementia Rating (CDR), scores from 0 to 18, with higher scores indicating worse dementia</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Masitinib (4.5) &amp; SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive masitinib (3.0 mg/kg/day), given orally twice daily, with a dose escalation to 4.5 mg/kg/day after 4 weeks of treatment. Dose up-titration is subjected to a safety control. Masitinib will be administered as an add-on to cholinesterase inhibitor and/or memantine standard of care (SOC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo &amp; SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive a matched dose placebo, given orally twice daily. Placebo will be administered as an add-on to cholinesterase inhibitor and/or memantine standard of care (SOC).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>treatment per os</description>
+    <arm_group_label>Placebo &amp; SOC</arm_group_label>
+    <other_name>Placebo Oral Tablet</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Masitinib (4.5)</intervention_name>
+    <description>Masitinib (titration to 4.5 mg/kg/day)</description>
+    <arm_group_label>Masitinib (4.5) &amp; SOC</arm_group_label>
+    <other_name>AB1010</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Cholinesterase inhibitors (donepezil, rivastigmine or galantamine) and/or memantine</description>
+    <arm_group_label>Masitinib (4.5) &amp; SOC</arm_group_label>
+    <arm_group_label>Placebo &amp; SOC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Main inclusion criteria include:&#xD;
+&#xD;
+          -  Patient with clinical diagnosis of Alzheimer's disease based on the International&#xD;
+             Working Group criteria according to the European Guideline on the clinical&#xD;
+             investigation of medicines for the treatment of Alzheimer's disease (CPMP/EWP/553/95&#xD;
+             Rev.2 - 2018) at screening visit&#xD;
+&#xD;
+          -  Patient with MMSE ≥ 14 and ≤ 25 at screening visit and baseline visit&#xD;
+&#xD;
+          -  Patient with Alzheimer's disease biomarker profile at screening visit&#xD;
+&#xD;
+          -  Patients treated for a minimum of 6 months with a stable dose of cholinesterase&#xD;
+             inhibitors (donepezil, rivastigmine or galantamine) at baseline visit, and/or a stable&#xD;
+             dose of memantine for a minimum of 6 months at baseline visit, with no changes&#xD;
+             foreseen in therapy throughout the study&#xD;
+&#xD;
+          -  If receiving a supplement for cognition (eg, gingko biloba, omega-3 polyunsaturated&#xD;
+             fatty acid, vitamin E, curcumin, souvenaid) must be taking a stable dose for at least&#xD;
+             4 months prior to screening visit&#xD;
+&#xD;
+        Main exclusion criteria include:&#xD;
+&#xD;
+          -  Patients with any other cause of dementia shown by MRI findings and neurological&#xD;
+             examination in the last 12 months prior to screening visit&#xD;
+&#xD;
+          -  Systemic conditions known to cause dementia, e.g., hypothyroidism, untreated vitamin&#xD;
+             B12 or folic acid deficiency, niacin deficiency, neurosyphilis, HIV infection at&#xD;
+             screening visit&#xD;
+&#xD;
+          -  Patients with substance-induced dementia at screening visit&#xD;
+&#xD;
+          -  Patients with Alzheimer's disease with delirium at screening visit&#xD;
+&#xD;
+          -  Patients with severe forms of delusions (e.g, NPI-12 delusion score of 4 or more) at&#xD;
+             screening visit&#xD;
+&#xD;
+          -  Patients with evidence of psychosis and/or use of antipsychotic drugs at screening, or&#xD;
+             history of significant psychiatric disorder at screening visit&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bruno Dubois, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpital Universitaire Pitié-Salpêtrière, Paris, France</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Study Coordinator</last_name>
+    <phone>+33(0)147200014</phone>
+    <email>clinical@ab-science.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Institut de la mémoire et Maladie d'Alzheimer, Hôpitaux Universitaires Pitié-Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32623401/</url>
+    <description>Li T, Martin E, Abada YS, et al. Effects of Chronic Masitinib Treatment in APPswe/PSEN1dE9 Transgenic Mice Modeling Alzheimer's Disease. J Alzheimers Dis. 2020;76(4):1339-1345. doi:10.3233/JAD-200466</description>
+  </link>
+  <reference>
+    <citation>Piette F, Belmin J, Vincent H, Schmidt N, Pariel S, Verny M, Marquis C, Mely J, Hugonot-Diener L, Kinet JP, Dubreuil P, Moussy A, Hermine O. Masitinib as an adjunct therapy for mild-to-moderate Alzheimer's disease: a randomised, placebo-controlled phase 2 trial. Alzheimers Res Ther. 2011 Apr 19;3(2):16. doi: 10.1186/alzrt75.</citation>
+    <PMID>21504563</PMID>
+  </reference>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>September 29, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 3, 2022</study_first_posted>
+  <last_update_submitted>September 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Mast Cells</keyword>
+  <keyword>Microglia</keyword>
+  <keyword>Tyrosine kinase inhibitor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

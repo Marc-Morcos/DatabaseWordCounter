@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2634">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05567120</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-12024235</org_study_id>
+    <secondary_id>22-08-535-380</secondary_id>
+    <nct_id>NCT05567120</nct_id>
+  </id_info>
+  <brief_title>Pre-Pilot: Problem Adaptation THerapy in Caregivers</brief_title>
+  <acronym>PATH-Care</acronym>
+  <official_title>Pre-Pilot: Adapting and Testing an Evidence-Based Emotion Regulation Therapy for Use by Caregivers of Individuals With Alzheimer's Disease and Related Dementias (ADRD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Weill Medical College of Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Weill Medical College of Cornell University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed pre-pilot project seeks to adapt an evidence-based psychosocial&#xD;
+      intervention-Pain Adaptation Therapy (PATH)-that employs emotion regulation, behavioral&#xD;
+      activation, and problem-solving skills training, that will be augmented with a caregiver (CG)&#xD;
+      education component, for use by CGs of individuals with Alzheimer's Disease and Related&#xD;
+      Dementias (ADRD).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study team will conduct an uncontrolled pre-pilot test of an adapted PATH-Care&#xD;
+      intervention with family CGs of persons with ADRD (target N=15). Following the informed&#xD;
+      consent process, screening, and enrollment, participants will complete a baseline assessment,&#xD;
+      8 PATH-Care sessions with short feedback interviews, tablet-based exercises, and a&#xD;
+      post-intervention assessment.&#xD;
+&#xD;
+      Primary Objective(s): To adapt the existing PATH intervention as a tool to mitigate negative&#xD;
+      emotions and stress experienced by informal CGs of individuals with ADRD, by employing an&#xD;
+      evidence-based user-center design protocol and obtaining additional suggestions for program&#xD;
+      refinement through an uncontrolled usability study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2, 2023</start_date>
+  <completion_date type="Anticipated">August 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Positive and Negative Affect as Measured by the Positive and Negative Affect Scale (PANAS)</measure>
+    <time_frame>At baseline; at week 10 (post-intervention)</time_frame>
+    <description>The 20-item self-report Positive and Negative Affect Scale (PANAS-GEN) asks participants to describe to what extent they feel different feelings and emotions on average. Respondents answer on a five-point scale: 1=Very slightly or not at all, 2=A little, 3=Moderately, 4=Quite a bit, 5=Extremely. There are different subscales within this measure with 10 questions measuring positive affect, and 10 measuring negative affect. These have scores ranging from 10-50 with a higher score indicating higher positive affect, and a lower score indicating lower negative affect respectively.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in depression as measured by Montgomery-Asberg Depression Rating Scale (MADRS-S)</measure>
+    <time_frame>At baseline; at week 10 (post-intervention)</time_frame>
+    <description>The 9-item self-report Montgomery-Asberg Depression Rating Scale asks participants about items like sadness, inner tension, sleep, and concentration. Respondents answer on a 7-point scale loosely by: 0=Normal, 2=Slight reduction, 4=Moderate reduction, and 6=Completely unable. These responses are personalized to the question a little more specifically. Scores range from 0-54 with a higher score indicating higher depression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in caregiver burden as measured by Zarit Burden Interveiw (ZBI-12)</measure>
+    <time_frame>At baseline; at week 10 (post-intervention)</time_frame>
+    <description>The 12-item self-report Zarit Burden Interview Scale asks participants &quot;do you feel...?&quot; with responses about caregiver burden like anger, stress, and social life. Respondents answer on a 5-point scale: 0= Never, 1=Rarely, 2=Sometimes, 3=Quite Frequently, 4=Nearly Always. Scores range from 0-48 with a higher score indicating higher burden.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in efficacy and preparedness as measured by the Preparedness Caregiving Scale (PCS)</measure>
+    <time_frame>At baseline; at week 10 (post-intervention)</time_frame>
+    <description>This 8-item likert questions with 1 open-ended question measures efficacy and preparedness for caregiving. Respondents answer the likert questions on a 5-point scale: 0=not at all prepared, 1=not too well prepared, 2=somewhat well prepared, 3=pretty well prepared, and 4=very well prepared. The mean score is calculated with these 8 questions and a higher score indicates higher preparedness. The open-ended question asks, &quot;Is there anything specific you would like to be better prepared for?&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in emotion regulatory ability as measured by the Emotion Regulation Questionnaire (CERQ)</measure>
+    <time_frame>At baseline; at week 10 (post-intervention)</time_frame>
+    <description>The 10-item self-report Emotion Regulation Questionnaire measures cognitive reappraisal and expressive suppression measured separately. Respondents answer on a seven-point scale: 1=strongly disagree, 4=neutral, and 7=strongly agree. The six cognitive reappraisal questions are calculated with a mean score and a higher score indicated higher cognitive reappraisal. The four expressive suppression questions are calculated with a mean score and a higher score indicates higher expressive suppression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in positive aspects of caregiving as measured by the Positive Aspects of Caregiving scale (PAC)</measure>
+    <time_frame>At baseline; at week 10 (post-intervention)</time_frame>
+    <description>The 9-item self-report scale measures positive aspects of caregiving. Respondents answer on a 5-point scale: 1=disagree a lot, 2=disagree a little, 3=neither agree or disagree, 4=agree a little, and 5=agree a lot. The questions are summed with a range of 9-45 with a higher score indicating more positive caregiving experiences.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility, Acceptability, and Usability of PATH-Care intervention</measure>
+    <time_frame>At week 10 (post-intervention)</time_frame>
+    <description>Feasibility, acceptability, and usability will be measured by 6 open-ended questions during the post-intervention assessment. Questions include &quot;What were your overall impressions of the therapy?,&quot; &quot;What would you change about the therapy?,&quot; and &quot;Would you recommend this treatment to people who are caregivers like yourself?&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction as measured by Client Satisfaction Questionnaire (CSQ-3)</measure>
+    <time_frame>At week 10 (post-intervention)</time_frame>
+    <description>This 3-item Client Satisfaction Questionnaire measures the self-reported satisfaction of the intervention. Respondents report levels of satisfaction on a 4-point scale with 4 having &quot;almost all of my needs have been met&quot; &quot;very satisfied&quot; and &quot;yes, definitely&quot; and 1 having &quot;none of my needs have been met&quot;, &quot;quite dissatisfied&quot;, and &quot;no, definitely not&quot;. Scores range from 3-12 with a higher score indicating higher satisfaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Usable intervention as measured by the System Usability Scale</measure>
+    <time_frame>At week 10 (post-intervention)</time_frame>
+    <description>This 10-item adapted measure of the System Usability Scale will measure usability of the intervention. Respondents rank each question from 1 to 5 based on how much they agree with the statement with 5 being &quot;strongly agree&quot; and 1 being &quot;strongly disagree&quot;. Scores are converted to a 100-point scale with a higher score indicating higher usability.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Caregiver Burden</condition>
+  <arm_group>
+    <arm_group_label>PATH-Care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Problem Adaptation THerapy (PATH) adapted for caregivers along with tablet based exercises to enhance and reinforce the therapy sessions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PATH-Care</intervention_name>
+    <description>Individuals will receive the 8-session PATH-Care intervention, delivered virtually (via videoconference or phone) to mitigate negative emotions and stress experienced by informal caregivers of individuals with ADRD. The therapist in the first session will also guide the participant in the tablet-based exercises (WELLPath).</description>
+    <arm_group_label>PATH-Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18&#xD;
+&#xD;
+          -  English speaking&#xD;
+&#xD;
+          -  Informal caregiver of an individual with ADRD diagnosis&#xD;
+&#xD;
+          -  Lives with or near the care recipient&#xD;
+&#xD;
+          -  Provides at least 10 hours of care per week to a person with ADRD&#xD;
+&#xD;
+          -  Has provided care to a person with ADRD for 6 months or more, prior to enrollment&#xD;
+&#xD;
+          -  Cognitively intact (Score of ≥ 26 on adjusted MoCA-Blind)&#xD;
+&#xD;
+          -  Score of ≥ 12 on the Negative Affect Scale of Positive and Negative Affect Schedule OR&#xD;
+             at least one significant negative emotion (score of ≥ 3)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age ≤ 18&#xD;
+&#xD;
+          -  Non-English speaking&#xD;
+&#xD;
+          -  Paid caregiver&#xD;
+&#xD;
+          -  Care recipient does not have ADRD diagnosis&#xD;
+&#xD;
+          -  Provides care for less than 10 hours per week&#xD;
+&#xD;
+          -  Has provided care for less than 6 months, prior to enrollment&#xD;
+&#xD;
+          -  Care recipient is currently enrolled in hospice&#xD;
+&#xD;
+          -  Meets criteria for severe Major Depression (Montgomery Asberg Depression Rating Scale&#xD;
+             ≥ 30) that may require hospitalization&#xD;
+&#xD;
+          -  Significant Cognitive impairment (Score of &lt; 26 on adjusted MoCA-Blind)&#xD;
+&#xD;
+          -  Score of &lt; 12 on the Negative Affect Scale of Positive and Negative Affect Schedule or&#xD;
+             no significant negative emotion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cary Reid, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Weill Medical College of Cornell University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cary Reid, MD PhD</last_name>
+    <phone>212-746-1378</phone>
+    <email>mcr2004@med.cornell.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Patricia Kim, MSW</last_name>
+    <phone>212-746-1758</phone>
+    <email>pak2020@med.cornell.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NewYork-Presbyterian - Weill Cornell Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>September 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2022</study_first_posted>
+  <last_update_submitted>September 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Caregiver</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

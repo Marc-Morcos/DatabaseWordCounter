@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1567">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05248672</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COG0107</org_study_id>
+    <nct_id>NCT05248672</nct_id>
+  </id_info>
+  <brief_title>Study to Assess the Pharmacokinetics of CT1812 in Older Healthy Volunteers</brief_title>
+  <acronym>COG0107</acronym>
+  <official_title>A Phase 1 Study to Assess the Pharmacokinetics of Different Multiple Dose Regimens of CT1812 in Older Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cognition Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cognition Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This an open label study to assess the pharmacokinetics of CT1812 in normal healthy&#xD;
+      volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Open label study to assess PK in 36 older healthy volunteers. Subjects will be screened 35&#xD;
+      days prior dose to determine eligibility. On day -1 subjects will be admitted to the clinical&#xD;
+      research unit and on day 1 will be randomized to receive one of the following doses: 150 mg&#xD;
+      BID, 150 mg QD or 300 mg QD in the fed state. Subjects will be confined in the Clinical&#xD;
+      Research Unit where they will continue to receive study drug and complete safety assessments,&#xD;
+      PK and CSF draws, until day 16 when they will be discharged.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 2, 2022</start_date>
+  <completion_date type="Actual">May 25, 2022</completion_date>
+  <primary_completion_date type="Actual">May 25, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open Label Study</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Cmax: Maximum observed plasma concentration occurring at Tmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Tmax: The first time to maximum observed concentration sampled during a dosing interval.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Ctau: Concentration at the end of the dosing interval (12 hr for BID group; 24 hr for QD group).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>AUC 0-12h: Area under the concentration-time curve (AUC) from time 0 to 12 hours post-dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>AUC 0-24h: AUC from time 0 to 24 hours post-dose.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>AUC 0-last: AUC from time 0 to the time of the last measurable concentration at 48 and 72 hours as applicable.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>AUC 0-inf: Area under the concentration-time curve (AUC) from time 0 extrapolated to infinity, calculated using the observed value of the last non-zero concentration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>AUC_%Extrap: Percent of AUC0-inf contributed by extrapolation beyond AUC0-last.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>λz : Terminal elimination phase rate constant.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in plasma</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>t½: Terminal phase half-life.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Cmax - Maximum observed plasma concentration occurring at Tmax.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Tmax -The first time to maximum observed concentration sampled during a dosing interval.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Cavg,ss - Average plasma concentration at steady-state interval.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Ctau-Concentration at the end of the dosing interval (12 hr for BID group; 24 hr for QD group).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Fluctuation (%) - Fluctuation (%) between maximum and minimum concentrations over the steady-state dosing interval.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>AUC-0-tau - Area under the concentration-time curve from time 0 to the end of the dosing interval (0-12 for the BID group; 0 - 24 for the QD groups) .</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>λz- Terminal elimination phase rate constant</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>t½ - Terminal phase half-life</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>AUCcum- Accumulation ratio in AUC, calculated as AUC0-tau,ss/AUC0-tau,D1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Ctau,cum- Accumulation ratio in Ctau, calculated as Ctau,ss/Ctau,D1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF).</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>Cmax,cum - Accumulation ratio in Cmax, calculated as Cmax,ss/Cmax,D1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics (PK) in Cerebrospinal Fluid (CSF)- CSF/plasma ratio</measure>
+    <time_frame>Day 13 and 15.</time_frame>
+    <description>CSF/plasma ratio - Pre-dose on Day 13 and 3h (±15 min) post-dose on Day 15</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>150 mg QD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CT1812 150 mg QD</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>150 mg BID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CT1812 150 mg BID</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>300 mg QD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CT1812 300 mg QD</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CT1812</intervention_name>
+    <description>Study Drug</description>
+    <arm_group_label>150 mg BID</arm_group_label>
+    <arm_group_label>150 mg QD</arm_group_label>
+    <arm_group_label>300 mg QD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and Women 50-80 years of age, inclusively&#xD;
+&#xD;
+          -  In good health as determined by the Investigator with no clinically significant&#xD;
+             abnormalities&#xD;
+&#xD;
+          -  Weight between 50.0 and 100.0 kg, inclusive at Screening&#xD;
+&#xD;
+          -  No suicidal ideation&#xD;
+&#xD;
+          -  No active depression&#xD;
+&#xD;
+          -  Living independently at home or in a community setting&#xD;
+&#xD;
+          -  Able to swallow CT1812 capsule or capsules&#xD;
+&#xD;
+          -  Non-smoker with no history of using tobacco or any nicotine-containing products&#xD;
+&#xD;
+          -  Subjects with negative serology for HIV, Hepatitis B, and C&#xD;
+&#xD;
+          -  Negative results for drugs of abuse, cotinine, and alcohol&#xD;
+&#xD;
+          -  Negative test results for COVID-19&#xD;
+&#xD;
+          -  Willing to comply with Clinical Pharmacology Unit's COVID-19 policies&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any chronic medical condition which, in the opinion of the investigator, might pose a&#xD;
+             safety risk to the subject or interfere with study interpretation&#xD;
+&#xD;
+          -  Subject with active or recent infection requiring antibiotic therapy&#xD;
+&#xD;
+          -  Medical history of vasculitis or any autoimmune disease&#xD;
+&#xD;
+          -  Any recent hospitalization&#xD;
+&#xD;
+          -  Subjects living in a continuous care nursing facility&#xD;
+&#xD;
+          -  Any contraindication to a lumbar puncture&#xD;
+&#xD;
+          -  Subjects with self-reported history of major depression&#xD;
+&#xD;
+          -  History of diabetes&#xD;
+&#xD;
+          -  Intake of drugs or substances potentially involved in clinically significant induction&#xD;
+             or inhibition of CYP3A4 or P-gp mediated drug interactions with CT1812&#xD;
+&#xD;
+          -  Intake of investigational drug prior to study drug administration on Day 1&#xD;
+&#xD;
+          -  Participation in an investigational device study prior to study drug administration on&#xD;
+             Day 1&#xD;
+&#xD;
+          -  Grapefruit, grapefruit juice, and Seville oranges/juice must be avoided within 14 days&#xD;
+             prior to dosing and throughout the course of the study&#xD;
+&#xD;
+          -  Suspected or known drug or alcohol abuse,&#xD;
+&#xD;
+          -  Excessive consumption of coffee, tea, cola, or other caffeinated beverages&#xD;
+&#xD;
+          -  Loss or donation of blood; nation of bone marrow or peripheral stem cells; or donation&#xD;
+             of plasma&#xD;
+&#xD;
+          -  Venous access considered inadequate; history or evidence of adverse symptoms&#xD;
+             associated with phlebotomy or blood donation&#xD;
+&#xD;
+          -  Suspected or known allergy to any component of the study treatments&#xD;
+&#xD;
+          -  Employee or family member of the Investigator, study site personnel, or Sponsor&#xD;
+&#xD;
+          -  A subject with any condition that, in the opinion of the Investigator, makes the&#xD;
+             subject unsuitable for study participation will be excluded&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Caggiano, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cognition Therapeutics</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Accel Clinical Research</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>February 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>February 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 21, 2022</study_first_posted>
+  <last_update_submitted>June 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

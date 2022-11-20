@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2520">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05372172</url>
+  </required_header>
+  <id_info>
+    <org_study_id>211309</org_study_id>
+    <secondary_id>P20AG068082</secondary_id>
+    <nct_id>NCT05372172</nct_id>
+  </id_info>
+  <brief_title>Tennessee Alzheimer's Project</brief_title>
+  <acronym>TAP</acronym>
+  <official_title>Tennessee Alzheimer's Project</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vanderbilt University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the Vanderbilt Alzheimer's Disease Research Center (VADRC) is to&#xD;
+      provide local and national researchers with access to a well-characterized and diverse&#xD;
+      clinical cohort, including participant referrals, biosamples, clinical data, and neuroimaging&#xD;
+      data. The VADRC Clinical Core will create an infrastructure to support research efforts of&#xD;
+      both local and national investigator studies to develop early detection, prevention, and&#xD;
+      treatment strategies for Alzheimer's disease. The Clinical Core intends to enroll up to 1000&#xD;
+      participants, including individuals who are cognitively unimpaired, have mild cognitive&#xD;
+      impairment, or have Alzheimer's disease. This cohort of about 1000 participants will be&#xD;
+      called the Tennessee Alzheimer's Project. Participants will be seen annually for&#xD;
+      comprehensive clinical characterization and then referred to other studies to enhance&#xD;
+      Alzheimer's disease research activities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease (AD) is a growing public health crisis affecting 5.8 million Americans.&#xD;
+      With the aging population, AD prevalence is expected to double by 2040. Successful AD&#xD;
+      prevention and effective therapies require distilling complexities of the disease to better&#xD;
+      model disease onset, progression, and treatment response. The purpose of the Vanderbilt&#xD;
+      Alzheimer's Disease Research Center (VADRC) is to provide a better understanding of AD and&#xD;
+      related dementias, and to serve as the institutional hub of clinical, research, and&#xD;
+      educational initiatives in AD. The Center will play an essential role in expanding AD&#xD;
+      discoveries and reducing the burden of AD locally and nationally. To do so, the VADRC will&#xD;
+      support multiple human studies and model systems research over the coming years. For the&#xD;
+      Tennessee Alzheimer's Project, the team will establish, phenotype, and annually follow a&#xD;
+      cohort of adults age 60 and older with and without memory problems. Phenotyping will include&#xD;
+      standardized protocols implemented across the entire national ADRC network as part of the&#xD;
+      National Alzheimer's Coordinating Center as well as protocols specific to our local site,&#xD;
+      including (but not limited to) venous blood draw, questionnaires, physical examination,&#xD;
+      echocardiogram, neuropsychological assessment, multi-modal neuroimaging, and cerebrospinal&#xD;
+      fluid acquisition via lumbar puncture. As part of the Center's autopsy program, the&#xD;
+      investigators will ask all Tennessee Alzheimer's Project participants to consider post-mortem&#xD;
+      donation of their brain, eyes, and a small skin sample. While fluid and neuroimaging&#xD;
+      biomarkers exist for some neuropathologies associated with AD and related dementias,&#xD;
+      postmortem characterization is the only current way to definitively confirm the presence and&#xD;
+      severity of disease. Locally, a robust tissue bank with excellent ante-mortem phenotyping&#xD;
+      will provide invaluable tissue for analyses distilling the complexities of AD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 27, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cognitive status</measure>
+    <time_frame>baseline to year 3</time_frame>
+    <description>Change in cognitive status assessed by the Uniform Dataset according to the National Institute on Aging and Alzheimer's Association Workgroup guidelines determined by a consensus team.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>APOE Genotype</measure>
+    <time_frame>baseline to year 3</time_frame>
+    <description>APOE e4 allele status</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>White matter hyperintensities Volume</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>White matter lesion volume measured by FLAIR imaging modality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Grey Matter Volume</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Grey matter volume measured by T1 imaging modality</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cerebral Blood Flow</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Resting cerebral blood flow to brain regions measured by T3 perfusion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lacunar infarcts</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Number of lacunar infarcts measured by MRI</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Microbleeds</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Number of microbleeds measured by MRI</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Left ventricular ejection fraction</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Left ventricular ejection fraction measured by echocardiogram</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cardiac output</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Amount of blood the heart pumps from each ventricle per minute (litres per minute (L/min)), measured by echocardiogram</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stroke volume</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Stroke volume measured by echocardiogram</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Heart rate</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Heart rate measured by echocardiogram</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biological markers for Alzheimer's disease</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Tau, amyloid, and neurodegenerative levels in cerebrospinal fluid samples</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Blood based biological marker for Alzheimer's disease</measure>
+    <time_frame>baseline to year three</time_frame>
+    <description>Tau, amyloid, and neurodegenerative levels in blood samples</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Aging</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Biomarker</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Dementia</condition>
+  <condition>Cognition</condition>
+  <arm_group>
+    <arm_group_label>Cognitively unimpaired</arm_group_label>
+    <description>A consensus team determined cognitive status according to the National Institute on Aging and Alzheimer's Association Workgroup guidelines.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild cognitive impairment</arm_group_label>
+    <description>A consensus team determined cognitive status according to the National Institute on Aging and Alzheimer's Association Workgroup guidelines.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Alzheimer's disease</arm_group_label>
+    <description>A consensus team determined cognitive status according to the National Institute on Aging and Alzheimer's Association Workgroup guidelines.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>none, observational study</intervention_name>
+    <description>none, observational study</description>
+    <arm_group_label>Alzheimer's disease</arm_group_label>
+    <arm_group_label>Cognitively unimpaired</arm_group_label>
+    <arm_group_label>Mild cognitive impairment</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Cerebral spinal fluid, plasma, serum, PAXGene, blood clot.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Community-dwelling older adults.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 60 or older&#xD;
+&#xD;
+          -  Meet standard criteria for (a) cognitively unimpaired, (b) mild cognitive impairment,&#xD;
+             or (c) Alzheimer's disease&#xD;
+&#xD;
+          -  English speaking&#xD;
+&#xD;
+          -  Individuals who lack decisional capacity to provide informed consent at baseline will&#xD;
+             not be enrolled in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No available reliable study partner (reliable is defined as someone who interacts&#xD;
+             significantly with the participant and is available to participate in study visits in&#xD;
+             person or by phone)&#xD;
+&#xD;
+          -  History of major psychiatric illness (e.g., schizophrenia, bipolar), neurological&#xD;
+             illness (e.g., epilepsy, multiple sclerosis, Parkinson's disease), or head injury with&#xD;
+             significant loss of consciousness.&#xD;
+&#xD;
+          -  Unable to undergo MRI (e.g., claustrophobia, ferrous metal in body)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Angela Jefferson, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor of Neurology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jenna Boue</last_name>
+    <phone>615-936-9470</phone>
+    <email>jenna.boue@vumc.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jenna Boue</last_name>
+      <phone>615-322-8676</phone>
+      <email>jenna.boue@vumc.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>January 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 12, 2022</study_first_posted>
+  <last_update_submitted>May 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vanderbilt University Medical Center</investigator_affiliation>
+    <investigator_full_name>Angela Jefferson</investigator_full_name>
+    <investigator_title>Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>biomarkers</keyword>
+  <keyword>brain MRI</keyword>
+  <keyword>mild cognitive impairment</keyword>
+  <keyword>vascular risk factors</keyword>
+  <keyword>longitudinal studies</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2769">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01696591</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MP-CR-007-F/U</org_study_id>
+    <nct_id>NCT01696591</nct_id>
+  </id_info>
+  <brief_title>The Long-Term Safety and Efficacy Follow-Up Study of Subjects Who Completed the Phase I Clinical Trial of Neurostem®-AD</brief_title>
+  <official_title>The Long-Term Safety and Efficacy Follow-up Study of Subjects Who Completed the Phase I Clinical Trial of Neurostem®-AD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duk Lyul Na</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medipost Co Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Samsung Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to determine the long-term safety and exploratory efficacy of&#xD;
+      NEUROSTEM®-AD, administered via an open brain surgery to subjects with dementia of the&#xD;
+      Alzheimer's type, who were eligible for and enrolled in the earlier part of the phase I.&#xD;
+      Aside from the subjects who completed the earlier part of the Phase I, 3 additional subjects&#xD;
+      with comparable demographics and disease characteristics as the treatment group will be&#xD;
+      enrolled into a control group, followed-up for 3 months, and compared for various disease&#xD;
+      progression indicators with the treatment group.&#xD;
+&#xD;
+      The hypothesis is that NEUROSTEM®-AD is safe and effective in the treatment of dementia of&#xD;
+      the Alzheimer's type.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a long-term follow up study of the earlier part of the phase I, during which the safe&#xD;
+      and effective dose(safety) of NEUROSTEM®-AD was determined for implantation into the brains&#xD;
+      of subjects with Dementia of the Alzheimer's type. Subjects with Dementia of the Alzheimer's&#xD;
+      type, who signed the informed consent form and meet the eligibility criteria, were implanted&#xD;
+      with a single dose of NEUROSTEM®-AD, hUBC-MSCs, into the brain. The subjects were&#xD;
+      hospitalized for 5 to 10 days following the surgical implantation and were observed for acute&#xD;
+      adverse events: Gradient echo MRI within the the 24 hours post-op, vital signs, clinical&#xD;
+      laboratory tests, chest x-rays within Day 2. On Day 14, DLT was assessed, and the subjects&#xD;
+      were followed up on the safety and disease progression of dementia (of the Alzheimer's type)&#xD;
+      for 12 weeks post-implantation.&#xD;
+&#xD;
+      In this part of the study, the subjects described above will be followed-up for upto Month&#xD;
+      24, and 3 additional subjects with comparable demographics and disease characteristics as the&#xD;
+      treatment group (refer to Inclusion/Exclusion Criteria) will be enrolled as a control group,&#xD;
+      followed up for 3 months and compared with the treatment group for various indicators of the&#xD;
+      disease progression.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date>March 2012</start_date>
+  <completion_date type="Anticipated">September 2013</completion_date>
+  <primary_completion_date type="Anticipated">September 2013</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety</measure>
+    <time_frame>upto 24 months post-op</time_frame>
+    <description>Incidence rate ot adverse events (vital signs, physical examination, mixed lymphocyte reaction, and laboratory tests)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy</measure>
+    <time_frame>upto 24 months post-op</time_frame>
+    <description>Primary Efficacy Variable:&#xD;
+ADAS-cog response rate, ADAS-cog response is defined as when ADAS-cog score at the end of the study is not worse than the Baseline score.&#xD;
+Secondary Efficacy Variables:&#xD;
+Changes in Seoul Instrumental Activities of Daily Living (S-IADL)&#xD;
+Changes in Mini Mental State Examination Korean verson (K-MMSE)&#xD;
+Changes in Caregiver-administered Neuropsuchiatric Inventory&#xD;
+Changes in Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog)&#xD;
+Changes in CMRglc: regional cerebral metabolic rate for glucose (FDG-PET)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">14</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Brain Diseases</condition>
+  <condition>Central Nervous System Diseases</condition>
+  <condition>Nervous System Diseases</condition>
+  <condition>Tauopathies</condition>
+  <condition>Neurodegenerative Diseases</condition>
+  <condition>Delirium, Dementia, Amnestic, Cognitive Disorders</condition>
+  <condition>Mental Disorders</condition>
+  <arm_group>
+    <arm_group_label>NEUROSTEM®-AD</arm_group_label>
+    <description>A single administration of human umbilical cord blood-derived mesenchymal stem cells through a brain surgery&#xD;
+DOSE A - 250,000 cells per entry site, 3 million cells per brain; DOSE B - 500,000 cells per entry site, 6 million cells per brain</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <description>A group of subjects with comparable demographics (age and gender) and disease characteristics [Clinical Dementia Rating Scale Sum of Boxes (CDR-SOB)] as the NEUROSTEM®-AD-treated group, but did not receive the treatment with NEUROSTEM®-AD and were continued on conventional therapy. Restrictions in the concurrent use of drug therapy are as follows:&#xD;
+Patients are, in principle, permitted to continue the drug therapy they were on prior to the enrollment, for the treatment of concurrent illnesses other than Dementia, such as hypertension, diabetes mellitus, or hyperlipidemia.&#xD;
+For drugs used in the treatment of dementia, behavior-modifying drugs can be added to the pharmacological regimen of a subject during the course of the study. However, adding a new cognitive enhancer, such as donepezil, memantine, galantamine, rivastigmine, is not permitted while dose adjustment is permitted given that the drug had been in use prior to the initiation of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>NEUROSTEM®-AD</intervention_name>
+    <description>NEUROSTEM®-AD was administered to eligible subjects in the early part of the Phase I clinical study. In this follow-up study, no intervention will be performed.</description>
+    <arm_group_label>NEUROSTEM®-AD</arm_group_label>
+    <other_name>human umbilical cord blood-derived mesenchymal stem cells (hUCB-MSCs)</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The patients, who were administered with NEUROSTEM®-AD in the earlier part of the Phase I&#xD;
+        study, will be compared with the patients, who have similar demographics and disease&#xD;
+        characteristics as the subjects in the test group but have not been treated with&#xD;
+        NEUROSTEM®-AD.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        TEST GROUP&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who have enrolled and completed the Phase I cliical trial: The Safety and The&#xD;
+             Efficacy Evaluation of NEUROSTEM®-AD in Patients With Alzheimer's Disease&#xD;
+&#xD;
+          -  Subjects who are willing to participate in the study and sign the consent form&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Females who are pregnant or nursing&#xD;
+&#xD;
+          -  Subjects who have participated in another clinical study within the 3 months prior to&#xD;
+             the initiation of this study&#xD;
+&#xD;
+          -  Subjects who are restricted from undergoing exams perfomed during the study (i.e. MRI,&#xD;
+             CT, or PET screening)&#xD;
+&#xD;
+          -  Subjects who the principal investigator considers inappropriate for participation in&#xD;
+             the study due to any reasons other than those listed above&#xD;
+&#xD;
+        CONTROL GROUP&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a moderate alzheimer's disease, diagnosed with a dementia of alzheimer's&#xD;
+             type, according to the DSM-VI and NINCDS-ADRDA criteria, and shows amyloid-positive in&#xD;
+             a PIB-PET&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects with a psychological disease (i.e. depression, schizophrenia, bipolar&#xD;
+             disorder, etc)&#xD;
+&#xD;
+          -  Subjects with a dementia caused by other degenerative neurological diseases (infection&#xD;
+             of the CNS, such as HIV or Syphilis), head trauma, Creutzfeld-Jacob disease, Pick's&#xD;
+             disease, Huntington's disease, and Parkinson's disease)&#xD;
+&#xD;
+          -  Subjects with a vascular dementia as determined by the clinical criteria of DSM IV and&#xD;
+             the imaging criteria of Erkinjuntii&#xD;
+&#xD;
+          -  Subjects with severe white matter hyperintensities (WMH); Severe WMH is defined as,&#xD;
+             according to Clinical Research Center for Dementia of South Korea, a condition in&#xD;
+             which the deep white matter is 25 mm or greater and the periventricular&#xD;
+             capping/banding is 10 mm or greater in lengths.&#xD;
+&#xD;
+          -  Subjects with a history of stroke within the 3 months prior to the study enrollment&#xD;
+&#xD;
+          -  Subjects with a severe liver disease (ALT/AST values are higher than twice the normal&#xD;
+             range)&#xD;
+&#xD;
+          -  Subjects with a severe renal disease (1.5mg/dL or more of serum creatinine)&#xD;
+&#xD;
+          -  Pregnant or lactating women&#xD;
+&#xD;
+          -  Subjects with abnormal findings of the clinical laboratory values at Visit 1:&#xD;
+&#xD;
+          -  Hemoglobin &lt; 9.5g/dL in male &lt; 9.0 g/dL in female&#xD;
+&#xD;
+          -  Total WBC count &lt; 3000/mm3&#xD;
+&#xD;
+          -  Total bilirubin ≥ 3 mg/dL&#xD;
+&#xD;
+          -  Subjects with a suspected active lung disease, based on the chest X-ray result at&#xD;
+             Visit 1&#xD;
+&#xD;
+          -  Females of childbearing age who does not practice medically acceptable method of&#xD;
+             contraception during the study&#xD;
+&#xD;
+          -  Subjects who have previously failed Screening for participation in this study&#xD;
+&#xD;
+          -  Subjects who have participated in another clinical study within the 3 months prior to&#xD;
+             the initiation of this study&#xD;
+&#xD;
+          -  Subjects with a bleeding disorder (platelet count &lt; 150,000/mm3; PT ≥ 1.5; INR or aPTT&#xD;
+             ≥ 1.5 X control&#xD;
+&#xD;
+          -  Subjects with a cancer (including brain tumor)&#xD;
+&#xD;
+          -  Subjects with a history of alcohol or drug abuse&#xD;
+&#xD;
+          -  Subjects who are restricted from undergoing exams perfomed during the study (i.e. MRI,&#xD;
+             CT, or PET screening)&#xD;
+&#xD;
+          -  Patients who the principal investigator considers inappropriate for participation in&#xD;
+             the study due to any reasons other than those listed above&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Duk L. Na, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Samsung Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Duk-Lyul Na, MD, PhD</last_name>
+    <phone>+82-2-3410-3594</phone>
+    <email>dukna@naver.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Duk L. Na, MD, PhD</last_name>
+      <phone>+82-2-3410-3594</phone>
+      <email>dukna@naver.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <link>
+    <url>http://clinicaltrials.gov/ct2/show/NCT01297218?term=neurostem&amp;rank=1</url>
+    <description>The Safety and The Efficacy Evaluation of NEUROSTEM®-AD in Patients With Alzheimer's Disease</description>
+  </link>
+  <verification_date>September 2012</verification_date>
+  <study_first_submitted>September 7, 2012</study_first_submitted>
+  <study_first_submitted_qc>September 27, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 1, 2012</study_first_posted>
+  <last_update_submitted>September 27, 2012</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Samsung Medical Center</investigator_affiliation>
+    <investigator_full_name>Duk Lyul Na</investigator_full_name>
+    <investigator_title>Professor of Neurology, Sungkyunkwan University School of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer, Mesenchymal Stem Cells, Umbilical Cord Blood</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Central Nervous System Diseases</mesh_term>
+    <mesh_term>Tauopathies</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+    <mesh_term>Cognition Disorders</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

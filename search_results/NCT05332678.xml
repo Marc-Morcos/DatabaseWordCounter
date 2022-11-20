@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="189">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05332678</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SLS-005-207</org_study_id>
+    <nct_id>NCT05332678</nct_id>
+  </id_info>
+  <brief_title>SLS-005 (Trehalose Injection) in the Treatment of Alzheimer's Disease</brief_title>
+  <acronym>[STRIVE-AD]</acronym>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Treatment Effects and Safety of SLS-005 (Trehalose Injection, 90.5 mg/mL for Intravenous Infusion) in Participants With Alzheimer's Disease (AD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Neuroscience Trials Australia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Seelos Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Neuroscience Trials Australia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase II, randomized, double-blind, placebo-controlled study to evaluate the treatment&#xD;
+      effects and safety of SLS-005 in Participants with Alzheimer's Disease (AD) treated weekly&#xD;
+      for 52 weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled, proof-of-concept study evaluating the&#xD;
+      treatment effects and safety of SLS-005 (trehalose injection, 90.5 mg/mL for intravenous&#xD;
+      infusion) in eligible men and women, ages 50-85 years, who have very mild, mild, or moderate&#xD;
+      dementia as determined by the Clinical Dementia Rating (CDR) global score and a&#xD;
+      biomarker-supported diagnosis of AD guided by the National Institute on Aging and Alzheimer's&#xD;
+      Association (NIA-AA) Research Framework.&#xD;
+&#xD;
+      The study will enroll approximately 40 eligible participants who will be randomized in a 3:1&#xD;
+      ratio to treatment with either SLS-005 at a dose of 0.75 g/kg or equivalent placebo (sodium&#xD;
+      chloride injection, 0.9%, USP) administered by intravenous (IV) infusion once every week for&#xD;
+      up to 52 weeks. Participant randomization assignments will be stratified by baseline dementia&#xD;
+      severity (i.e., mild (CDR 0.5 or 1), or moderate (CDR 2)) using a single fixed randomization&#xD;
+      scheme with stratified, randomly permuted blocks. Relatively equal number of enrolled&#xD;
+      participants in each treatment group within the stratified cohort will be assigned either the&#xD;
+      amyloid or tau PET. Tracers to be used will be approved by sponsor and described in imaging&#xD;
+      manual.&#xD;
+&#xD;
+      Fluid biomarkers associated with AD pathology, brain imaging including amyloid or tau PET and&#xD;
+      volumetric magnetic resonance imaging (MRI), and measures of cognitive performance,&#xD;
+      functioning in activities of daily living (ADL), and neuropsychiatric behavioral symptoms&#xD;
+      will be collected at baseline and at scheduled times throughout the study. Participants who&#xD;
+      terminate treatment early, will be encouraged to complete all safety and outcome procedures&#xD;
+      as specified in the protocol's schedule of events.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">March 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Endpoints for Treatment Effects on AD Biomarkers</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>Changes in brain imaging biomarkers associated with AD</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Endpoints for Treatment Effects on AD Biomarkers</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Changes in brain imaging biomarkers associated with AD</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Endpoints for Safety and Tolerability of Treatment</measure>
+    <time_frame>over 52 week treatment period</time_frame>
+    <description>Incidences of treatment-emergent Adverse Events and Serious Adverse Events (SAEs), including clinically significant laboratory and electrocardiogram (ECG) abnormalities</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Endpoints</measure>
+    <time_frame>Over 52 week period.</time_frame>
+    <description>Changes from baseline in cognitive performance as measured by the Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog 13). ADAS-Cog 13 is a series of questions to the participant and tasks for the participant to perform. It is used to measure cognitive functions and non-cognitive functions such as mood and behaviour</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Endpoints</measure>
+    <time_frame>Over 52 week period.</time_frame>
+    <description>Changes from baseline in dementia severity as measured by the Clinical Dementia Rating Scale Sum of Boxes (CDR-SB). The CDR-SB is a semi structured interview with the participants caregiver, used to asses the severity of the symptoms of dementia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Endpoints</measure>
+    <time_frame>Over 52 week period.</time_frame>
+    <description>Changes from baseline in functioning in activities of daily living (ADL) as measured by the Alzheimer's Disease Cooperative Study - instrumental Activities of Daily Living (ADCS-iADL). The scale is used to assess functional decline in participants. The participants study partner is asked questions about the participants activities of daily living.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Endpoints</measure>
+    <time_frame>Over 52 week period.</time_frame>
+    <description>Changes from baseline in behavioral symptoms and functioning as measured by the Neuropsychiatric Inventory (NPI). The purpose of the NPI is to obtain information on the presence of psychopathology in patients with brain disorders.The participants caregiver is asked questions in an interview to evaluate the participants behaviour.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Endpoints</measure>
+    <time_frame>At 26 Weeks.</time_frame>
+    <description>Change from baseline in Mini-mental status examination (MMSE). The rater will ask the participant a series of questions and ask the participants to perform some tasks. It used to assess cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Endpoints</measure>
+    <time_frame>At 52 Weeks.</time_frame>
+    <description>Change from baseline in Mini-mental status examination (MMSE). The rater will ask the participant a series of questions and ask the participants to perform some tasks. It used to assess cognitive impairment.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>SLS-005</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SLS-005 (trehalose injection, 90.5 mg/mL for intravenous infusion). SLS-005 will be administered as a weight-based dose of 0.75 g/kg by IV infusion once a week over 60 ± 5 minutes for volumes &lt;600 mL or 90 minutes +5 min for volumes &gt;600 mL.&#xD;
+For 52 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo (sodium chloride injection, 0.9%, USP) will be administered as a weight-based volume equivalent to a SLS-005 0.75 g/kg dose calculation by IV infusion once a week over 60 ± 5 minutes for volumes &lt;600 mL or 90 minutes +5 min for volumes &gt;600 mL.&#xD;
+For 52 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SLS-005</intervention_name>
+    <description>Please see Arm description.</description>
+    <arm_group_label>SLS-005</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Please see Arm description.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Have a study partner/caregiver who, in the Investigator's judgment, has frequent and&#xD;
+             sufficient face-to-face contact with the participant (approximately 10 hours per week&#xD;
+             or more) and consents to attend all study visits, assist in ensuring compliance with&#xD;
+             all study requirements and procedures, and provide input into assessments of cognitive&#xD;
+             performance and functioning in daily activities throughout the full duration of the&#xD;
+             participant's involvement in the study.&#xD;
+&#xD;
+          2. Signed informed consent from:&#xD;
+&#xD;
+               1. The participant or person responsible/guardian&#xD;
+&#xD;
+               2. The participant's study partner/caregiver&#xD;
+&#xD;
+          3. Men and women, 50 to 85 years (inclusive) of age.&#xD;
+&#xD;
+          4. Gradual and progressive change in cognitive performance has been observed for ≥ 6&#xD;
+             months not associated with a specific event or medical condition e.g., head trauma,&#xD;
+             stroke, cardiac arrest, cerebrovascular disease, epilepsy, alcohol abuse, etc.&#xD;
+&#xD;
+          5. Capable of completing study assessments either alone or with assistance from the study&#xD;
+             partner.&#xD;
+&#xD;
+          6. Mini-mental status examination (MMSE) score ≥ 16 and ≤ 27 at screening.&#xD;
+&#xD;
+          7. Modified Hachinski Score ≤ 4 at screening.&#xD;
+&#xD;
+          8. Body Mass Index (BMI) between 20 kg/m2 and 32 kg/m2 (inclusive)&#xD;
+&#xD;
+          9. Clinical Dementia Rating (CDR) global score of 0.5, 1.0, or 2.0 at screening.&#xD;
+&#xD;
+         10. Clinical Dementia Rating - Sum of Boxes (CDR-SB) score ≥ 0.5 at screening.&#xD;
+&#xD;
+         11. Lumbar Puncture during screening period with results for CSF Aβ42 or CSF that are&#xD;
+             consistent with a diagnosis of AD.&#xD;
+&#xD;
+         12. Stable doses of all concomitant medications for at least 30 days prior to the baseline&#xD;
+             visit.&#xD;
+&#xD;
+         13. For participants taking cholinesterase inhibitors and/or memantine, documentation of&#xD;
+             stable use for at least 12 weeks is required prior to screening.&#xD;
+&#xD;
+         14. Negative serum beta-human chorionic gonadotropin (ß-hCG) pregnancy result at the&#xD;
+             screening visit for female participants of childbearing potential.&#xD;
+&#xD;
+         15. Willingness to comply with sexual abstinence or contraception guidelines of this&#xD;
+             study.&#xD;
+&#xD;
+         16. Willingness and ability to complete all study procedures, including brain magnetic&#xD;
+             resonance imaging (MRI), lumbar puncture, clinical genotyping, and brain positron&#xD;
+             emission tomography (PET).&#xD;
+&#xD;
+         17. Participant and study partner/caregiver must be fluent in the English language for&#xD;
+             both reading and speaking.&#xD;
+&#xD;
+         18. Participant and study partner/caregiver must be fully vaccinated as per local&#xD;
+             regulations for COVID-19 at least 2 weeks prior to screening.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Presence of a neurologic or neuropsychiatric condition or imaging finding associated&#xD;
+             with a neurologic or neuropsychiatric condition other than AD that can be associated&#xD;
+             with dementia or confound the evaluation of dementia, including but not limited to&#xD;
+             Parkinson's disease, Huntington's disease, frontotemporal dementia, cerebrovascular&#xD;
+             disease, (diseases related to or events associated with disruption of blood flow to&#xD;
+             the brain), seizure disorders, inflammatory or infectious disorders of the central&#xD;
+             nervous system, normal pressure hydrocephalus, traumatic brain injury, uncontrolled&#xD;
+             major depression, psychosis, bipolar disorder, and long-term sequelae of alcohol or&#xD;
+             substance abuse.&#xD;
+&#xD;
+          2. History of stroke or transient ischemic attack (TIA) within 12 months of screening.&#xD;
+&#xD;
+          3. Epileptic or epileptiform seizure within 12 months of screening.&#xD;
+&#xD;
+          4. Current participation in another clinical trial or completed participation in an&#xD;
+             interventional trial less than 30 days prior to the screening visit (90 days for a&#xD;
+             biological treatment).&#xD;
+&#xD;
+          5. Involvement in an Aβ or tau vaccination trial for AD unless known to have received&#xD;
+             only placebo.&#xD;
+&#xD;
+          6. Current diagnosis and/or healthcare professional-recommended treatment (medication&#xD;
+             and/or diet) of diabetes mellitus type 1 or type 2.&#xD;
+&#xD;
+          7. Hemoglobin A1c (HbA1c) ≥ 6.5% at the screening visit&#xD;
+&#xD;
+          8. Prior treatment with SLS-005, any other IV trehalose formulation, or known&#xD;
+             hypersensitivity to trehalose.&#xD;
+&#xD;
+          9. Is receiving aducanumab or any other immunotherapy for treatment of dementia including&#xD;
+             AD.&#xD;
+&#xD;
+         10. Regular use (≥ 3 days per week) of prescribed or pharmacy-purchased opiates, opioids,&#xD;
+             or benzodiazepines.&#xD;
+&#xD;
+         11. Pregnant or breastfeeding.&#xD;
+&#xD;
+         12. History of alcohol or drug abuse within the last 2 years.&#xD;
+&#xD;
+         13. Chronic liver disease including Hepatitis B; Hepatitis C unless successful curative&#xD;
+             treatment is documented; human immunodeficiency virus (HIV) infection.&#xD;
+&#xD;
+         14. Prior history of drug-induced liver injury (DILI) and/or laboratory results at&#xD;
+             screening that indicate inadequate liver function (e.g., alanine aminotransferase&#xD;
+             [ALT], aspartate aminotransferase [AST], gamma-glutamyl transferase [GGT] &gt; 2 times&#xD;
+             the upper limit of normal [x ULN] and/or total bilirubin level &gt; 2 x ULN).&#xD;
+&#xD;
+         15. Laboratory results at screening that indicate inadequate renal function (e.g.,&#xD;
+             estimated creatinine clearance of &lt; 60 mL/min calculated by the Cockcroft and Gault&#xD;
+             formula).&#xD;
+&#xD;
+         16. Any current cardiovascular disease or abnormality on 12-lead ECG at screening that, in&#xD;
+             the investigator's opinion, is clinically significant and could be a potential safety&#xD;
+             risk to the participant, including risk factors for stroke (e.g., atrial fibrillation,&#xD;
+             cardiomyopathy).&#xD;
+&#xD;
+         17. History of cancer (currently active or in remission) within 5 years prior to&#xD;
+             screening, excluding treated basal or squamous skin cancer, or stable prostate cancer.&#xD;
+&#xD;
+         18. Lack of reliable venous access for the weekly administration of study drug.&#xD;
+&#xD;
+         19. Contraindications to the lumbar puncture (LP) procedure such as prior lumbosacral&#xD;
+             spine surgery, severe degenerative joint disease or deformity of the spine, platelet&#xD;
+             count &lt; 100,000, use of an anticoagulant (e.g., warfarin), or history of a bleeding&#xD;
+             disorder.&#xD;
+&#xD;
+         20. Any current psychiatric or neurological disorder other than AD that, in the&#xD;
+             investigator's opinion, may interfere with the participant's ability to provide&#xD;
+             informed consent or appropriately complete the study's safety or efficacy assessments.&#xD;
+&#xD;
+         21. Significant suicide risk as indicated by a &quot;yes&quot; response to #4 or #5 under Suicidal&#xD;
+             Ideation or any &quot;yes&quot; response under Suicidal Behavior on the Columbia Suicide&#xD;
+             Severity Rating Scale (C-SSRS) during the screening visit.&#xD;
+&#xD;
+         22. Any other medical condition or abnormal finding during screening that, in the&#xD;
+             investigator's opinion, could confound collection or interpretation of safety or&#xD;
+             efficacy data or be a potential safety risk to the participant.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Suzy Cake</last_name>
+    <phone>+61 427 127 018</phone>
+    <email>suzy.cake@florey.edu.au</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ausin Health</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Goulburn Valley Health</name>
+      <address>
+        <city>Shepparton</city>
+        <state>Victoria</state>
+        <zip>3630</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurodegenerative Disorders Research Pty Ltd</name>
+      <address>
+        <city>West Perth</city>
+        <state>Western Australia</state>
+        <zip>6005</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>March 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 18, 2022</study_first_posted>
+  <last_update_submitted>November 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Trehalose</keyword>
+  <keyword>Phase II</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Australia</keyword>
+  <keyword>SLS-005</keyword>
+  <keyword>STRIVE-AD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

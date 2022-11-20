@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1588">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04574921</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REG-085-2020</org_study_id>
+    <nct_id>NCT04574921</nct_id>
+  </id_info>
+  <brief_title>Study on Safety, Feasibility and Neural Activation of Non-Invasive Light Therapy System</brief_title>
+  <acronym>ALZLIGHT Pilot</acronym>
+  <official_title>ALZLIGHT Pilot: Study on Safety, Feasibility and Neural Activation of Non-Invasive Light Therapy System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zealand University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Technical University of Denmark</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Copenhagen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>OptoCeutics</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Zealand University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Induction of neural oscillations by flickering light is a well established method used for&#xD;
+      diagnostic of various neural diseases.&#xD;
+&#xD;
+      Recent studies in mice have shown promising results indicating that induction of gamma&#xD;
+      oscillation at 40 Hz leads to a reduction in amyloid-β and tau in mice models of Alzheimer's&#xD;
+      disease. This study will use flickering light to induce 40 Hz gamma oscillation as the&#xD;
+      previously mentioned studies.&#xD;
+&#xD;
+      In the study subject will be exposed to invisible spectral flickering light (active setting)&#xD;
+      or continuous non-flickering white light (sham setting) for 1 hour each day. The sham setting&#xD;
+      is a high quality sham intervention as subjects will be blinded to the setting, both appears&#xD;
+      as white light.&#xD;
+&#xD;
+      As this is the first trial, the focus will be on 1) safety of the intervention 2) feasibility&#xD;
+      of the proposed intervention time and method 3) indication of efficacy.&#xD;
+&#xD;
+      In stage 1 of the trial 4 age-matched subjects with no Alzheimer's disease will be recruited&#xD;
+      and be exposed for 1 week. In stage 2 10 patients with Alzheimer's disease will be recruited&#xD;
+      and exposed for 6 consecutive weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Induction of neural oscillations by flickering light is a well established method used for&#xD;
+      diagnostic of various neural diseases (5,6).&#xD;
+&#xD;
+      Recent studies in mice have shown promising results indicating that induction of gamma&#xD;
+      oscillation at 40 Hz leads to a reduction in amyloid-β an tau in mice models of Alzheimer's&#xD;
+      disease (1-4). This study will use flickering light to induce 40 Hz gamma oscillation as the&#xD;
+      previously mentioned studies.&#xD;
+&#xD;
+      This study will utilize a novel way of masking the light by alternating the spectral&#xD;
+      composition of a white light, rendering the flicker invisible to the conscience perception&#xD;
+      while still entraining 40 Hz oscillations in the brain.&#xD;
+&#xD;
+      In the study subject will be exposed to invisible spectral flickering light (active setting)&#xD;
+      or continuous non-flickering white light (sham setting) for 1 hour each day. The sham setting&#xD;
+      is a high quality sham intervention as subjects will be blinded to the setting, both appears&#xD;
+      as white light.&#xD;
+&#xD;
+      As this is the first trial, the focus will be on 1) safety of the intervention 2) feasibility&#xD;
+      of the proposed intervention time and method 3) indication of efficacy.&#xD;
+&#xD;
+      In stage 1 of the trial 4 age-matched subjects with no Alzheimer's disease will be recruited&#xD;
+      and be exposed for 1 week. In stage 2 10 patients with Alzheimer's disease will be recruited&#xD;
+      and exposed for 6 consecutive weeks. Following the 6 weeks of intervention the subject will&#xD;
+      have 6 weeks of no intevention and assesed agian.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Stage I: Feasibility / Compliance assesment</measure>
+    <time_frame>After 1 week of intervention</time_frame>
+    <description>• The compliance of the LTS intervention will be measured by the amount of time (in minutes) of device use per day.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage I: Usability Assessment:</measure>
+    <time_frame>After 1 week of intervention</time_frame>
+    <description>• Usability report on use of device during intervention in the subject's home based on device speciffic questionnaire / structured interviews</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage I: Safety Assessment. Evaluation of Adverse Events related to the LTS intervention.</measure>
+    <time_frame>After 1 week of intervention</time_frame>
+    <description>• Safety assessment will be done by collection of all types of adverse events and categorization into severity and relationship to LTS treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage II: Feasibility / Compliance assesment</measure>
+    <time_frame>After 6 weeks of intervention and subsequent 6 weeks of no intervention</time_frame>
+    <description>• The compliance of the LTS intervention will be measured by the amount of time (in minutes) of device use per day.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage II: Safety Assessment. Evaluation of Adverse Events related to the LTS intervention.</measure>
+    <time_frame>After 6 weeks of intervention and subsequent 6 weeks of no intervention</time_frame>
+    <description>• Device- and procedure-related adverse events (DR/PR-AEs) including serious AEs (SAEs) occurring at any time during the trial</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stage II: Induction of gamma ocsillations</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• The effect of the LTS intervention will be measured by the amount of 40 Hz SSVEP response during treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stage II: Connectivity meassures in resting-state functional MRI</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• rs-fMRI Connectivity: Change from baseline in correlations between cortical regions at 6 weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stage II: Connectivity meassures in EEG</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• EEG Connectivity: Change from baseline in correlations between cortical regions at 6 weeks</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Stage II: Changes in cognition:</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• Changes in cognition meassured by the ADAS Cog Plus EF &amp; FA neuropsychological test. Score from 0 to 200</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stage II: Changes in cognition:</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• Changes in cognition meassured by the Trailmaking A&amp;B score from 0 to 1200 seconds</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stage II: Changes MR spectroscopy</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• Chance from baseline in brain metabolism at 6 weeks</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stage II: Changes MR Perfusion</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• Chance from baseline in perfusion meassured by Arterial Spin Labelling at 6 weeks</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stage II: Changes MR volumemetry</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• Chance from baseline in structural volume of neural structures at 6 weeks</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stage II: Changes in Sleep Quality:</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• Actigraphy: To assess changes in sleep patterns</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stage II: EEG spectral features:</measure>
+    <time_frame>Changes from baseline to 6 and 12 weeks</time_frame>
+    <description>• rs-EEG fourier power: To assess changes in spectral features</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">14</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Active</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Exposure to LTS device set to 40 Hz invisible spectral flicker for 1 hour a day for consecutive days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Exposure to LTS device set to continues color matched white light for 1 hour a day for consecutive days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Light Therapy System (LTS): Active setting</intervention_name>
+    <description>Exposure for 1 hour á day for consecutive days.</description>
+    <arm_group_label>Active</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Light Therapy System (LTS): Sham setting</intervention_name>
+    <description>Exposure for 1 hour á day for consecutive days.</description>
+    <arm_group_label>Sham</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult competent persons able to understand the nature of the study and give written&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  Stage I: Healthy elderly subject.&#xD;
+&#xD;
+          -  Stage II: Diagnosed with probable mild to moderate AD based on NIA-AA diagnostic&#xD;
+             criteria.&#xD;
+&#xD;
+          -  Age &gt;55 years and &lt;80 years. Females must be post-menopausal.&#xD;
+&#xD;
+          -  Fluent in Danish&#xD;
+&#xD;
+          -  &gt; 8 year of normal school education&#xD;
+&#xD;
+          -  Pass a colour-blindness test (Ishihara colour test)&#xD;
+&#xD;
+          -  Have visual and auditory capabilities, and language skills necessary for&#xD;
+             neuropsychological testing.&#xD;
+&#xD;
+          -  Furthermore, subjects must have a person, hereafter named designated caregiver, who is&#xD;
+             available to the participant and can provide the necessary assistance with using the&#xD;
+             LTS device and Actigraph wearable at home and can assist with clinic visits and other&#xD;
+             practical issues.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Profound visual impairment provided correction with spectacles, if needed.&#xD;
+&#xD;
+          -  Significant abnormalities related to important parts of the brain e.g. the visual&#xD;
+             system, pre-frontal cortex or hippocampus, or relevant lesions detected by MRI.&#xD;
+&#xD;
+          -  Prior history of significant diseases related to the visual system or the brain.&#xD;
+&#xD;
+          -  Medication Any patient using antiepileptic drugs, neuromodulating drugs or high dose&#xD;
+             of sedatives will be excluded.&#xD;
+&#xD;
+          -  Prior history of substance abuse within the past 2 years.&#xD;
+&#xD;
+          -  Any significant systemic illness or unstable medical condition, which could lead to&#xD;
+             difficulty complying with the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Troels Wesenberg Kjær, MD, Phd</last_name>
+    <phone>+4546323200</phone>
+    <email>twk@regionsjaelland.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mikkel Agger, MD</last_name>
+    <phone>+45447322976</phone>
+    <email>magge@regionsjaelland.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Zealand University DK34197393</name>
+      <address>
+        <city>Roskilde</city>
+        <state>Region Zealand</state>
+        <zip>4000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Troel Kjær, MD,PhD</last_name>
+      <phone>004546323200</phone>
+      <email>twk@regionsjaelland.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mikkel Agger, MD</last_name>
+      <phone>004541400108</phone>
+      <email>magge@regionsjaelland.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <link>
+    <url>https://doi.org/10.1117/12.2544338</url>
+    <description>Carstensen M et al. 40 Hz invisible spectral flicker and its potential use in Alzheimer's light therapy treatment. Proc. SPIE 11221, Mechanisms of Photobiomodulation Therapy XV, 112210L (11 March 2020)</description>
+  </link>
+  <reference>
+    <citation>Adaikkan C, Middleton SJ, Marco A, Pao PC, Mathys H, Kim DN, Gao F, Young JZ, Suk HJ, Boyden ES, McHugh TJ, Tsai LH. Gamma Entrainment Binds Higher-Order Brain Regions and Offers Neuroprotection. Neuron. 2019 Jun 5;102(5):929-943.e8. doi: 10.1016/j.neuron.2019.04.011. Epub 2019 May 7.</citation>
+    <PMID>31076275</PMID>
+  </reference>
+  <reference>
+    <citation>Adaikkan C, Tsai LH. Gamma Entrainment: Impact on Neurocircuits, Glia, and Therapeutic Opportunities. Trends Neurosci. 2020 Jan;43(1):24-41. doi: 10.1016/j.tins.2019.11.001. Epub 2019 Dec 10. Review.</citation>
+    <PMID>31836315</PMID>
+  </reference>
+  <reference>
+    <citation>Iaccarino HF, Singer AC, Martorell AJ, Rudenko A, Gao F, Gillingham TZ, Mathys H, Seo J, Kritskiy O, Abdurrob F, Adaikkan C, Canter RG, Rueda R, Brown EN, Boyden ES, Tsai LH. Gamma frequency entrainment attenuates amyloid load and modifies microglia. Nature. 2016 Dec 7;540(7632):230-235. doi: 10.1038/nature20587. Erratum in: Nature. 2018 Oct;562(7725):E1.</citation>
+    <PMID>27929004</PMID>
+  </reference>
+  <reference>
+    <citation>Martorell AJ, Paulson AL, Suk HJ, Abdurrob F, Drummond GT, Guan W, Young JZ, Kim DN, Kritskiy O, Barker SJ, Mangena V, Prince SM, Brown EN, Chung K, Boyden ES, Singer AC, Tsai LH. Multi-sensory Gamma Stimulation Ameliorates Alzheimer's-Associated Pathology and Improves Cognition. Cell. 2019 Apr 4;177(2):256-271.e22. doi: 10.1016/j.cell.2019.02.014. Epub 2019 Mar 14.</citation>
+    <PMID>30879788</PMID>
+  </reference>
+  <reference>
+    <citation>Herrmann CS. Human EEG responses to 1-100 Hz flicker: resonance phenomena in visual cortex and their potential correlation to cognitive phenomena. Exp Brain Res. 2001 Apr;137(3-4):346-53.</citation>
+    <PMID>11355381</PMID>
+  </reference>
+  <reference>
+    <citation>Kasteleijn-Nolst Trenité D, Rubboli G, Hirsch E, Martins da Silva A, Seri S, Wilkins A, Parra J, Covanis A, Elia M, Capovilla G, Stephani U, Harding G. Methodology of photic stimulation revisited: updated European algorithm for visual stimulation in the EEG laboratory. Epilepsia. 2012 Jan;53(1):16-24. doi: 10.1111/j.1528-1167.2011.03319.x. Epub 2011 Nov 16. Review.</citation>
+    <PMID>22091642</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2020</study_first_posted>
+  <last_update_submitted>April 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Gamma entrainment</keyword>
+  <keyword>40 Hz</keyword>
+  <keyword>Invisible Spectral Flicker</keyword>
+  <keyword>LED</keyword>
+  <keyword>Light Therapy</keyword>
+  <keyword>Brain stimulation</keyword>
+  <keyword>Gamma oscillations</keyword>
+  <keyword>Gamma induction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

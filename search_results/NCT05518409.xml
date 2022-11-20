@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1994">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05518409</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIT20220213B-R1</org_study_id>
+    <nct_id>NCT05518409</nct_id>
+  </id_info>
+  <brief_title>Immunohistochemical Study of Neurodegenerative Diseases</brief_title>
+  <official_title>Immunohistochemical Study of Peripheral Blood Mononuclear Cells in Sporadic Alzheimer's Disease and Dementia With Lewy Body</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>First Affiliated Hospital of Zhejiang University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>First Affiliated Hospital of Zhejiang University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The subject uses cytof to analyze PBMC of sporadic AD and DLB, which is used to reveal the&#xD;
+      differences in immune characteristics of the two diseases at the single-cell level, build&#xD;
+      immune models for specific diseases, and define these two neurodegenerative diseases with&#xD;
+      high precision from the level of molecular immunity. To provide basis for further study of&#xD;
+      the immunohistochemical differences between the two diseases, and provide objective support&#xD;
+      for clinical diagnosis and differential diagnosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2022</start_date>
+  <completion_date type="Anticipated">April 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Immunerepertorie</measure>
+    <time_frame>1 year</time_frame>
+    <description>The immune cells were drawn into immunoreceptor by mass cytometry (cytof) technology. Immunerepertorie is used for the classification of immune cells. According to the proportion of various immune cell subtypes and biomarkers in all cells, it is used to find the difference between immune cell subtypes and biomarkers in different diseases. Scoring frame: 0-1. The higher the score, the greater the proportion of this subtype or biomarker.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>immunological Elastic-Net (iEN) model</measure>
+    <time_frame>1 year</time_frame>
+    <description>The immunological Elastic-Net (iEN), which incorporates immunological knowledge directly into the predictive models. The ROC curve output by the model is plotted with specificity as the abscissa and sensitivity as the ordinate, and the AUC (area under the curve) value is calculated. The AUC value was used to evaluate the authenticity of the IEN model. Score frame: 0.5-1. A higher value indicates that the model is closer to the real situation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mini-mental State Examination（MMSE）</measure>
+    <time_frame>1 year</time_frame>
+    <description>MMSE was used to evaluate the degree of intellectual status and cognitive impairment. Score frame: 0 ~ 30. The lower the score, the more severe the cognitive impairment.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Lewy Body Disease</condition>
+  <condition>Neurodegenerative Diseases</condition>
+  <arm_group>
+    <arm_group_label>AD group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 subjects who met the diagnostic criteria and exclusion criteria of AD were included in the discovery cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DLB group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Of the 30 subjects who met the DLB diagnostic criteria and exclusion criteria, 20 were included in the discovery cohort and 10 in the validation cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy control group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Among the 30 subjects who met the diagnostic and exclusion criteria of the healthy control group, 20 were included in the discovery cohort and 10 in the validation cohort.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Detection of cytof in peripheral PBMC</intervention_name>
+    <description>Each subject needs to take 5ml of peripheral venous blood to extract PBMC cells, and then conduct cytof detection. This is a mass spectrometry flow cytometry method based on single cell level. It has the ability to analyze all immune cells with high resolution.</description>
+    <arm_group_label>AD group</arm_group_label>
+    <arm_group_label>DLB group</arm_group_label>
+    <arm_group_label>Healthy control group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Donepezil for patients with AD and DLB</intervention_name>
+    <description>The subjects in AD and DLB groups were given donepezil at an initial dose of 5mg and then increased to 10mg one month later. Lasting for 1 year.</description>
+    <arm_group_label>AD group</arm_group_label>
+    <arm_group_label>DLB group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. AD inclusion criteria:&#xD;
+&#xD;
+             a.Clinical diagnosis of Alzheimer's Disease&#xD;
+&#xD;
+          2. DLB inclusion criteria:&#xD;
+&#xD;
+               1. Clinical diagnosis of Dementia with Lewy bodies&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Infectious diseases&#xD;
+&#xD;
+          2. autoimmune disease&#xD;
+&#xD;
+          3. heart failure&#xD;
+&#xD;
+          4. chronic obstructive pulmonary disease (COPD)&#xD;
+&#xD;
+          5. cancer&#xD;
+&#xD;
+          6. renal failure&#xD;
+&#xD;
+          7. recently major surgery&#xD;
+&#xD;
+          8. alcohol and / or drug abuse&#xD;
+&#xD;
+          9. disturbance of consciousness&#xD;
+&#xD;
+         10. clinical diagnosis of major depression disorder&#xD;
+&#xD;
+         11. clinical diagnosis of Anxiety disorder&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Li YouMing</last_name>
+    <role>Study Chair</role>
+    <affiliation>Zhejiang University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hu ShaoHua</last_name>
+    <phone>086-13957162903</phone>
+    <email>dorhushaohua@zju.edu.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Qiu CongLong</last_name>
+    <phone>086-15258339029</phone>
+    <email>qcl198731@126.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Psychiatry, First Affiliated Hospital of Zhejiang University</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hu ShaoHua</last_name>
+      <phone>13957162903</phone>
+      <email>dorhushaohua@zju.edu.cn</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>August 9, 2022</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2022</study_first_posted>
+  <last_update_submitted>August 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>First Affiliated Hospital of Zhejiang University</investigator_affiliation>
+    <investigator_full_name>Hu ShaoHua</investigator_full_name>
+    <investigator_title>Department of Psychiatry, First Affiliated Hospital of Zhejiang University</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Donepezil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

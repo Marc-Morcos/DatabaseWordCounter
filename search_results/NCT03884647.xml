@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2794">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03884647</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CL-10-410</org_study_id>
+    <nct_id>NCT03884647</nct_id>
+  </id_info>
+  <brief_title>DELPHI in Subjects at Risk for Stroke and Dementia</brief_title>
+  <official_title>DELPHI Software for the Analysis of TMS-EEG Data of Brain Functionality - in Subjects at Risk for Stroke and Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>QuantalX Neuroscience</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>QuantalX Neuroscience</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The DELPhi system is a software device that is used for the noninvasive evaluation of brain&#xD;
+      plasticity and connectivity. The DELPhi software uses EEG and TMS devices as accessories.&#xD;
+      Standard electro-physiological acquisition is performed using TMS to evoke regional neuronal&#xD;
+      potentials measured as EEG data. TMS-EEG data is analyzed with regards to conventional, well&#xD;
+      established characteristics of neuronal network plasticity and connectivity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Transcranial magnetic stimulation (TMS) is a noninvasive brain stimulation method that allows&#xD;
+      to study human cortical function in vivo. Using TMS for examining human cortical&#xD;
+      functionality is enhanced by combining TMS with simultaneous registration of&#xD;
+      electroencephalograph (EEG). EEG provides an opportunity to directly measure the cerebral&#xD;
+      response to TMS. Measuring the cortical TMS Evoked potential (TEP), is used to assess&#xD;
+      cerebral reactivity across wide areas of neocortex.&#xD;
+&#xD;
+      By evaluating the propagation of evoked activity in different behavioral states and in&#xD;
+      different tasks, TMS-EEG has been used to causally probe the dynamic effective connectivity&#xD;
+      of human brain networks.&#xD;
+&#xD;
+      In this study the sponsor is intended to collect data of subjects at the ages of 50-75, at&#xD;
+      risk for stroke and dementia using DELPHI, brain MRI scans, cognitive tests and clinical and&#xD;
+      demographic information. Some of the patients agreeing to perform a second test will serve&#xD;
+      for a reliability test.&#xD;
+&#xD;
+      Primary Objectives:&#xD;
+&#xD;
+        1. Definition of DELPHI's average TEP response of at risk for stroke and dementia&#xD;
+           population in subjects over 50-75 years old+/- STD.&#xD;
+&#xD;
+        2. Assessing the Safey of the use of DELPHI in at risk for stroke and dementia population.&#xD;
+&#xD;
+        3. Defining DELPHI's test-retest reliability by quantifying correlation coefficient between&#xD;
+           two tests.&#xD;
+&#xD;
+      Exploratory objectives:&#xD;
+&#xD;
+        1. Evaluating the sham stimulation effect.&#xD;
+&#xD;
+        2. Assessing confounders effecting results.&#xD;
+&#xD;
+      Subjects will perform a medical interview, neurological exam, cognitive evaluations, two&#xD;
+      emotional inventories and a brain MRI scan.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Actual">May 6, 2022</completion_date>
+  <primary_completion_date type="Actual">May 6, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Establishing DELPhI's norms of population 50-75 years old at risk for stroke and dementia</measure>
+    <time_frame>1 visit</time_frame>
+    <description>Mean, STD, standard error (SEM), coefficient of variation (CV%), minimum, median, maximum and 95% confidence interval, for every DELPHI parameter in at risk for stroke and dementia population.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Establish DELPhI's safety in subjects 50-75 at risk for stroke and dementia.</measure>
+    <time_frame>1 week</time_frame>
+    <description>Rates and Frequencies of Adverse events and descriptive report of Adverse events and possible relationship to DELPHI.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>DELPHI's reliability</measure>
+    <time_frame>1 visit</time_frame>
+    <description>Examining DELPHI's reliability by defining Intra-Class Correlation (ICC) coefficients between two tests performed at different days and/or different operators at each of DELPHI's parameters.</description>
+  </primary_outcome>
+  <enrollment type="Actual">335</enrollment>
+  <condition>Stroke</condition>
+  <condition>Hypertension</condition>
+  <condition>Diabete Mellitus</condition>
+  <condition>Dyslipidemias</condition>
+  <condition>Sleep Disorder</condition>
+  <condition>Smoking</condition>
+  <condition>Overweight and Obesity</condition>
+  <condition>Familial Alzheimer Disease</condition>
+  <condition>Atrial Fibrillation</condition>
+  <condition>Cardiac Disease</condition>
+  <condition>Cognitive Impairment</condition>
+  <condition>Transient Ischemic Attack</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>DELPhI system</intervention_name>
+    <description>DELPhI software is acquiring and analyzing the TMS evoked response recorded with the EEG.</description>
+    <other_name>Transcranial magnetic stimulation</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        N= 300 subjects recruited by advertisements or from exsiting database at the ages of 50-75,&#xD;
+        at risk to develop stroke or dementia.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. Male and female at the ages of 50-75 years old (included) with at least one risk&#xD;
+             factor for Stroke or Dementia* and/or a suspected cognitive impairment**&#xD;
+&#xD;
+          2. Willing to cooperate with all study procedures. *Risk factors for Stroke and Dementia:&#xD;
+&#xD;
+               -  Previous stroke or TIA&#xD;
+&#xD;
+               -  Hypertension&#xD;
+&#xD;
+               -  Dyslipidemia&#xD;
+&#xD;
+               -  Diabetes Mellitus&#xD;
+&#xD;
+               -  Atrial Fibrillation&#xD;
+&#xD;
+               -  Other cardiac conditions (such as, MI, Valve disease etc.)&#xD;
+&#xD;
+               -  Smoking (any current smokers or past heavy smokers (&gt;20 cigarettes/day)).&#xD;
+&#xD;
+               -  Obesity and overweight (BMI&gt;25)&#xD;
+&#xD;
+               -  Familial history of dementia&#xD;
+&#xD;
+               -  Age ≥ 65&#xD;
+&#xD;
+               -  Sleep disturbances&#xD;
+&#xD;
+                  ** Suspected cognitive impairment:&#xD;
+&#xD;
+               -  self or family report of cognitive impairments&#xD;
+&#xD;
+               -  Objective evidence of cognitive impairments&#xD;
+&#xD;
+        4.2 Exclusion criteria:&#xD;
+&#xD;
+          1. Any neurodegenerative disease.&#xD;
+&#xD;
+          2. Neurological developmental disorder (e.g., Cerebral Palsy, Anoxic Brain Damage, Autism&#xD;
+             Spectrum Disorder).&#xD;
+&#xD;
+          3. Multiple Sclerosis (MS).&#xD;
+&#xD;
+          4. Major psychiatric disorders (e.g., PTSD, Bi-polar Disorder, Schizophrenia, Substance&#xD;
+             abuse),&#xD;
+&#xD;
+          5. Chronic pain disorders.&#xD;
+&#xD;
+          6. History of brain tumor, history of brain surgery or brain radiation damage.&#xD;
+&#xD;
+          7. Prior known epileptic episode.&#xD;
+&#xD;
+          8. Subjects with any metallic brain implant or fragments (such as shunt, pacemaker,&#xD;
+             clips, coils, bullet fragments, cochlear implants).&#xD;
+&#xD;
+          9. Subjects with any implanted devices activated or controlled by physiological signals&#xD;
+             and/or ferromagnetic or other magnetic sensitive metals implanted in the head or&#xD;
+             anywhere within 12 inches/30 cm from the stimulation coil.&#xD;
+&#xD;
+         10. Any contraindication to MRI.&#xD;
+&#xD;
+         11. With any known significant head trauma in the medical history (e.g. loss of&#xD;
+             consciousness, altered consciousness, diagnosed evidence of contusion on brain imaging&#xD;
+             following trauma.&#xD;
+&#xD;
+         12. Current ongoing use of opioids, anti-psychotic, or anti-epileptic medications.&#xD;
+&#xD;
+         13. Intake of any other CNS directed medication such as sleeping pills, SSRIs, Anxiolytics&#xD;
+             12 hours or less prior to the DELPHI evaluation.&#xD;
+&#xD;
+         14. Subjects that report drug abuse.&#xD;
+&#xD;
+         15. Pregnant or breastfeeding woman.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Diablo Clinical Research Inc.</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurotrials Research</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Center CTI</name>
+      <address>
+        <city>Norwood</city>
+        <state>Ohio</state>
+        <zip>45212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sourasky Tel-Aviv Medical Center</name>
+      <address>
+        <city>Tel Aviv</city>
+        <state>Center</state>
+        <zip>6492601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>March 19, 2019</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 21, 2019</study_first_posted>
+  <last_update_submitted>September 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+    <mesh_term>Ischemic Attack, Transient</mesh_term>
+    <mesh_term>Atrial Fibrillation</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Dyslipidemias</mesh_term>
+    <mesh_term>Diabetes Mellitus</mesh_term>
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

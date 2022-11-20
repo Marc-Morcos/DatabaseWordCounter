@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="360">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03249688</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E0750301</org_study_id>
+    <nct_id>NCT03249688</nct_id>
+  </id_info>
+  <brief_title>Multimodal Preventive Trial for Alzheimer's Disease</brief_title>
+  <acronym>MIND-ADmini</acronym>
+  <official_title>Multimodal Preventive Trial for Alzheimer's Disease (MIND-ADmini Pilot Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Eastern Finland</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universität des Saarlandes</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital, Toulouse</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska Institutet</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main aim of the MIND-ADmini pilot trial is to evaluate the feasibility of a multimodal&#xD;
+      lifestyle intervention among patients with prodromal AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Given the multifactorial etiology of Alzheimer's disease (AD), multimodal interventions&#xD;
+      targeting several risk factors and disease mechanisms simultaneously are most likely to be&#xD;
+      effective for preventing dementia. Multimodal lifestyle interventions have so far been tested&#xD;
+      in at-risk older adults from the general population, but not in patients with prodromal AD.&#xD;
+&#xD;
+      The main aim of the MIND-ADmini pilot trial is to evaluate the feasibility of a multimodal&#xD;
+      lifestyle intervention among individuals with prodromal AD.&#xD;
+&#xD;
+      This 6-month pilot trial is planned to include 150 participants randomized into 3 arms:&#xD;
+&#xD;
+        1. Control (regular health advice)&#xD;
+&#xD;
+        2. Multidomain lifestyle intervention (nutritional guidance, exercise, cognitive training&#xD;
+           and monitoring and management of vascular and metabolic risk factors)&#xD;
+&#xD;
+        3. Multidomain lifestyle intervention + medical food. The multidomain lifestyle&#xD;
+           intervention is adapted from the Finnish Geriatric Intervention Study to Prevent&#xD;
+           Cognitive Impairment and Disability (FINGER, NCT01041989). The medical food product&#xD;
+           includes the specific multi-nutrient combination Fortasyn Connect (containing the&#xD;
+           omega-3 fatty acids docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA), uridine&#xD;
+           monophosphate, choline, vitamins B12, B6, C, E, and folic acid, phospholipids, and&#xD;
+           selenium). The rationale for combining a multidomain lifestyle intervention with medical&#xD;
+           food is evidence indicating synergistic effects between different intervention&#xD;
+           components (e.g. omega-3 fatty acids and physical activity). Nutrient deficiencies have&#xD;
+           been described in AD, and medical food may be needed in addition to dietary guidance for&#xD;
+           optimal effect. The use of Fortasyn Connect alone in prodromal AD has been investigated&#xD;
+           in another clinical trial (www.lipididiet.eu), and thus this arm is not included in&#xD;
+           MIND-ADmini.&#xD;
+&#xD;
+      The 6-month MIND-ADmini pilot trial will be conducted in Sweden, Finland, Germany and France.&#xD;
+      An additional 6-month optional extension of the pilot trial will also be considered.&#xD;
+&#xD;
+      Primary outcome is feasibility of the multimodal intervention. Secondary outcomes include&#xD;
+      adherence to intervention components (intervention arms), and adherence to healthy lifestyle&#xD;
+      changes (all arms). Detailed cognitive assessments (Neuropsychological Test Battery, NTB) and&#xD;
+      functional assessments (Clinical Dementia Rating, CDR; and Alzheimer's Disease Cooperative&#xD;
+      Study-Activities of Daily Living, ADCS-ADL) will also be conducted at baseline and 6-month&#xD;
+      visit for the purpose of obtaining reliable estimates of change over time for power&#xD;
+      calculations for a future larger multimodal intervention trial (MIND-ADmaxi).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 16, 2017</start_date>
+  <completion_date type="Actual">December 18, 2020</completion_date>
+  <primary_completion_date type="Actual">December 23, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recruitment rate</measure>
+    <time_frame>6 months</time_frame>
+    <description>Recruitment rate of participants within a 6 months period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall adherence to the intervention</measure>
+    <time_frame>6 months</time_frame>
+    <description>Overall adherence to the intervention during 6 months</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Retention rate</measure>
+    <time_frame>6 months</time_frame>
+    <description>Retention rate of participants during 6 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to intervention components</measure>
+    <time_frame>6 months</time_frame>
+    <description>Intervention arms only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to healthy lifestyle changes</measure>
+    <time_frame>6 months</time_frame>
+    <description>All arms</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Body Mass Index</measure>
+    <time_frame>6 months</time_frame>
+    <description>Height (cm) and weight (kg) are used to calculate Body Mass Index</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Hip-waist ratio</measure>
+    <time_frame>6 months</time_frame>
+    <description>Hip and waist measurements (cm) are used for hip-waist ratio calculations</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in blood pressure</measure>
+    <time_frame>6 months</time_frame>
+    <description>Including measurements of systolic blood pressure, diastolic blood pressure, and pulse pressure</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in blood lipids</measure>
+    <time_frame>6 months</time_frame>
+    <description>Including measurements of serum total cholesterol, HDL cholesterol, LDL cholesterol and triglycerides</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in glucose metabolism markers</measure>
+    <time_frame>6 months</time_frame>
+    <description>Including measures of glucose, insulin, HbA1c</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in inflammation</measure>
+    <time_frame>6 months</time_frame>
+    <description>CRP measures</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depressive symptoms</measure>
+    <time_frame>6 months</time_frame>
+    <description>Geriatric Depression Scale</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Stress-related symptoms</measure>
+    <time_frame>6 months</time_frame>
+    <description>Perceived Stress Scale</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Physical performance</measure>
+    <time_frame>6 months</time_frame>
+    <description>Timed 10-meter dual-task test &amp; Short Physical Performance Battery (SPPB)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health-related quality of life</measure>
+    <time_frame>6 months</time_frame>
+    <description>RAND36</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood biomarkers</measure>
+    <time_frame>6 months</time_frame>
+    <description>e.g lipid metabolism, inflammation, vitamins (e.g D &amp; B)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Self-reported adherence to each intervention component</measure>
+    <time_frame>6 months</time_frame>
+    <description>The following intervention components: nutrition, exercise, cognitive training, monitoring of vascular factors</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">93</enrollment>
+  <condition>Alzheimer Disease; Prodromal</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Regular health advice</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multidomain 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Multidomain lifestyle</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multidomain 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Multidomain lifestyle + medical food</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Regular health advice</intervention_name>
+    <description>Routine healthy lifestyle counseling</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Multidomain lifestyle</intervention_name>
+    <description>Nutritional guidance, exercise, cognitive training, vascular risk monitoring</description>
+    <arm_group_label>Multidomain 1</arm_group_label>
+    <arm_group_label>Multidomain 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Medical food</intervention_name>
+    <description>Medical food product (Fortasyn Connect)</description>
+    <arm_group_label>Multidomain 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+        A) Prodromal AD as defined as -1 SD on 2 out of 8 tests, at least 1 memory:&#xD;
+&#xD;
+        Memory FCSRT - delayed free recall* ≤ 8 FCSRT free recall - learning ≤ 22 WMS-R story&#xD;
+        delayed recall (%) ≤75% WMS-R delayed recall of figures (%) ≤ 75% *Free and Cued Selective&#xD;
+        reminding test&#xD;
+&#xD;
+        Non-memory TMT A ≥ 60 TMT B ≥ 150 Symbol Digit Substitution Test ≤ 35 (120 sec.) Category&#xD;
+        Fluency ≤ 16 (60 sec.)&#xD;
+&#xD;
+          -  Evidence for underlying AD pathology within 2 year prior to screening by either:&#xD;
+&#xD;
+               1. CSF beta amyloid 1-42/1-40x10 ratio&lt;1 and/or elevated T-tau and/or elevated&#xD;
+                  phospho-tau and/or low beta amyloid 42 based on local lab cut-offs OR&#xD;
+&#xD;
+               2. MRI evidence for medial temporal lobe atrophy (MTA score 1 or higher) OR&#xD;
+&#xD;
+               3. Abnormal FDG PET and/or PiB PET compatible with AD type change&#xD;
+&#xD;
+                  B) Potential for lifestyle improvement, defined according to a Lifestyle Index.&#xD;
+&#xD;
+                  Lifestyle index. Participants with a score of 3 or above are included in the&#xD;
+                  study.&#xD;
+&#xD;
+                  The lifestyle index identifies individuals who do not already have very healthy&#xD;
+                  lifestyles, and thus have a margin for improving their lifestyle based on the&#xD;
+                  MIND-AD intervention. The score is calculated by adding 1 point for each of the&#xD;
+                  following factors:&#xD;
+&#xD;
+          -  Physical activity less than 2.5 hours a week (defined as physical activity intensive&#xD;
+             enough to lead to sweating and some breathlessness)&#xD;
+&#xD;
+          -  Diet - less than 5 portions of fruits and vegetables per day&#xD;
+&#xD;
+          -  Diet - less than 2 portions of fish per week&#xD;
+&#xD;
+          -  Hypertension (diagnosed by physician or current antihypertensive treatment or&#xD;
+&#xD;
+          -  SBP&gt;140mmHg or DBP&gt;90 mmHg)&#xD;
+&#xD;
+          -  Diabetes (type 1 or 2 diagnosed by physician; or current diabetes medication; or&#xD;
+             recorded elevated fasting blood glucose or HbA1C as per local guidelines within the&#xD;
+             past 6 months)&#xD;
+&#xD;
+          -  Ongoing symptoms of sleep problems, depressive symptoms or psychological stress&#xD;
+             symptoms for at least 1 month, judged by the clinician as having some impact on&#xD;
+             everyday life&#xD;
+&#xD;
+        C) Age 60-85 D) MMSE ≥ 24 E) Availability of a responsible study partner. F) Written&#xD;
+        informed consent from participant as well as study partner G) Putative prescription&#xD;
+        cognitive enhancers (e.g. ginkgo, cholinesterase inhibitors) and statins are not excluded&#xD;
+        but the dosage should be stable prior to randomization. Doses should be kept stable during&#xD;
+        the study if possible.&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+          -  Dementia according to Diagnostic and Statistical Manual of Mental Disorders, Fourth&#xD;
+             Edition (DSM-IV)&#xD;
+&#xD;
+          -  Use of omega-3 preparations &gt; 500mg EPA+DHA per day&#xD;
+&#xD;
+          -  Alcohol or drug abuse&#xD;
+&#xD;
+          -  A concomitant serious disease&#xD;
+&#xD;
+          -  Major depressive disorder (DSM-IV)&#xD;
+&#xD;
+          -  Regular intake of supplements for vitamin B6, B12, folic acid, vitamin C and/or E &gt;&#xD;
+             200% RDI, unless prescribed by physician&#xD;
+&#xD;
+          -  Participation in any other clinical trial in the last 30 days&#xD;
+&#xD;
+          -  Subjects with MRI (or CT) scan consistent with a diagnosis of stroke, intracranial&#xD;
+             bleeding, mass lesion or NPH. Those subjects with a MRI scan demonstrating minimal&#xD;
+             white matter changes (Fazekas scale for white matter lesions &lt;=3) and up to 1-2&#xD;
+             lacunar infarcts which are judged to be clinically insignificant are allowed&#xD;
+&#xD;
+          -  Severe loss of vision or communicative ability&#xD;
+&#xD;
+          -  Conditions preventing cooperation as judged by the study physician&#xD;
+&#xD;
+          -  Concomitant participation in any intervention trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Miia Kivipelto, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska Institutet</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Huddinge</city>
+        <zip>14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Ngandu T, Lehtisalo J, Solomon A, Levälahti E, Ahtiluoto S, Antikainen R, Bäckman L, Hänninen T, Jula A, Laatikainen T, Lindström J, Mangialasche F, Paajanen T, Pajala S, Peltonen M, Rauramaa R, Stigsdotter-Neely A, Strandberg T, Tuomilehto J, Soininen H, Kivipelto M. A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people (FINGER): a randomised controlled trial. Lancet. 2015 Jun 6;385(9984):2255-63. doi: 10.1016/S0140-6736(15)60461-5. Epub 2015 Mar 12.</citation>
+    <PMID>25771249</PMID>
+  </reference>
+  <reference>
+    <citation>Cummings J, Scheltens P, McKeith I, Blesa R, Harrison JE, Bertolucci PH, Rockwood K, Wilkinson D, Wijker W, Bennett DA, Shah RC. Effect Size Analyses of Souvenaid in Patients with Alzheimer's Disease. J Alzheimers Dis. 2017;55(3):1131-1139.</citation>
+    <PMID>27767993</PMID>
+  </reference>
+  <reference>
+    <citation>Dubois B, Feldman HH, Jacova C, Dekosky ST, Barberger-Gateau P, Cummings J, Delacourte A, Galasko D, Gauthier S, Jicha G, Meguro K, O'brien J, Pasquier F, Robert P, Rossor M, Salloway S, Stern Y, Visser PJ, Scheltens P. Research criteria for the diagnosis of Alzheimer's disease: revising the NINCDS-ADRDA criteria. Lancet Neurol. 2007 Aug;6(8):734-46. Review.</citation>
+    <PMID>17616482</PMID>
+  </reference>
+  <reference>
+    <citation>van Wijk N, Broersen LM, de Wilde MC, Hageman RJ, Groenendijk M, Sijben JW, Kamphuis PJ. Targeting synaptic dysfunction in Alzheimer's disease by administering a specific nutrient combination. J Alzheimers Dis. 2014;38(3):459-79. doi: 10.3233/JAD-130998. Review.</citation>
+    <PMID>23985420</PMID>
+  </reference>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>July 8, 2017</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 15, 2017</study_first_posted>
+  <last_update_submitted>September 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska Institutet</investigator_affiliation>
+    <investigator_full_name>Miia Kivipelto</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Lifestyle intervention</keyword>
+  <keyword>Medical food</keyword>
+  <keyword>Randomized controlled trial</keyword>
+  <keyword>Prodromal Alzheimer's disease</keyword>
+  <keyword>Prevention</keyword>
+  <keyword>Intervention</keyword>
+  <keyword>Multidomain</keyword>
+  <keyword>Multimodal</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

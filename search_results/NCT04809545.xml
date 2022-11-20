@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2682">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04809545</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-5067</org_study_id>
+    <nct_id>NCT04809545</nct_id>
+  </id_info>
+  <brief_title>Effect of Soundscape on People With Dementia.</brief_title>
+  <official_title>Evaluation of Personalized Soundscape Effects on Persons With Dementia; a Pilot Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Ghent</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Toronto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the last few decades, insights into the impact of the sonic environment on persons have&#xD;
+      grown to include not only the adverse effects of extensive mechanical noise but also the&#xD;
+      beneficial effects of a well-designed sonic environment. People with dementia, however,&#xD;
+      perceive and understand the sonic environment differently. The most obvious difference is&#xD;
+      that the meanings they may give to the sounds they notice due to changing mental&#xD;
+      associations. However, also at an earlier perceptual stage, attention focusing and gating may&#xD;
+      be affected, reducing their ability to analyze a complex auditory scene. Behaviour associated&#xD;
+      with the appraisal of the sound environment may change with the emergence of dementia.&#xD;
+&#xD;
+      The objective of this study is to determine the effect size of a carefully tuned personalized&#xD;
+      sonic environment (delivered via AcustiCare) on agitation and distress (NPI and PAS), night&#xD;
+      sleep and stress (Via wristband) and on quality of life (QUALIDEM) in a population of older&#xD;
+      adults with dementia and behavioural symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Research has shown the positive effect of natural and non-natural soundscape on people with&#xD;
+      severe or profound intellectual disabilities (Andringa &amp; van den Bosch, 2013). Sound plays a&#xD;
+      role in generating a feeling of safety, in influencing the mood, and triggering a specific&#xD;
+      action. Bringing sound with this purpose, as targeted to the current activity can improve the&#xD;
+      behaviour. There is substantial research on the effect of noise (unwanted sound) on people's&#xD;
+      health and well-being. The health outcomes vary, but include cardiovascular disease, sleep&#xD;
+      disturbance, and annoyance.&#xD;
+&#xD;
+      In a previous study in people with dementia by the Belgian investigators in this study (Devos&#xD;
+      et al., 2019), they observed positive staff outcome measures, reflecting the value of the&#xD;
+      soundscape in improving their ability to provide care to people with dementia. They did not&#xD;
+      directly assess the benefits to residents in that study. There were no harms documented in&#xD;
+      the study, and if residents reacted not well to specific sound, the sound was removed from&#xD;
+      the soundscape.&#xD;
+&#xD;
+      The aim of this study is to build upon the previous research and evaluate the effect of a&#xD;
+      personalized soundscape on the well-being and behaviour of persons with dementia. In the&#xD;
+      soundscapes, we use only recognizable sounds, sounds that give persons with dementia a&#xD;
+      feeling of 'safety' or sounds that focus on the orientation (in time, place). We try to add a&#xD;
+      recognizable (safe, orientating) sound through the soundscape system. This soundscape&#xD;
+      supports the environment and makes the environment feel safer and more 'clear' for residents&#xD;
+      with dementia. In the previous research through co-design process with staff and family&#xD;
+      member the sounds were chosen (Devos et al, 2018).&#xD;
+&#xD;
+      Most of the existing studies in the field of the acoustic environment in health care are&#xD;
+      descriptive, and there is a need for a more rigorous evaluation of interventions. By using a&#xD;
+      pilot Randomized Control Trial (RCT) design, we will be able to establish the effect size of&#xD;
+      soundscape on outcomes of interest in this population of people with dementia. These results&#xD;
+      will support evidence-based practices by healthcare providers, architects, engineers and&#xD;
+      designers in implementing environmental health factors and designing better care facilities&#xD;
+      for people with dementia in the future.&#xD;
+&#xD;
+      The objective of this study is thus to determine the effect size of a carefully tuned&#xD;
+      personalized sonic environment (delivered via AcustiCare) on agitation and distress (NPI and&#xD;
+      PAS), night sleep and stress (Via wristband) and on quality of life (QUALIDEM).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 21, 2021</start_date>
+  <completion_date type="Actual">June 30, 2022</completion_date>
+  <primary_completion_date type="Actual">June 30, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single blind repeated-measures randomized controlled study with two parallel arms, Intervention and Treatment As Usual (TAU) with a 2:4:1 design (two baseline measures, four intervention measures, 1 post-intervention)</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>Single-blind study where the intervention is delivered outside of the hours of the investigator and outcomes assessor.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change over 6 weeks in Neuropsychiatric Inventory- total score</measure>
+    <time_frame>Baseline and weekly over 6 weeks</time_frame>
+    <description>Assessments of behavioural and psychological symptoms of dementia on a weekly basis over the study duration will be included in a longitudinal mixed effects model as part of a repeated measures design</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change over 6 weeks in the Pittsburgh Agitation Scale-- Resisting Care subscale</measure>
+    <time_frame>Baseline and weekly over 6 weeks</time_frame>
+    <description>Assessment of resistance to care on a weekly basis over the study duration will be included in a longitudinal mixed effects model as part of a repeated measures design</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over 6 weeks in the Pittsburgh Agitation Scale-- Total score</measure>
+    <time_frame>Baseline and weekly over 6 weeks</time_frame>
+    <description>Assessment of behavioural symptoms on a weekly basis over the study duration will be included in a longitudinal mixed effects model as part of a repeated measures design</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over 6 weeks in Neuropsychiatric Inventory Agitation Subscale</measure>
+    <time_frame>Baseline and weekly over 6 weeks</time_frame>
+    <description>Assessment of agitation on a weekly basis over the study duration will be included in a longitudinal mixed effects model as part of a repeated measures design</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over 6 weeks in Neuropsychiatric Inventory Aggression subscale</measure>
+    <time_frame>Baseline and weekly over 6 weeks</time_frame>
+    <description>Assessment of aggression on a weekly basis over the study duration will be included in a longitudinal mixed effects model as part of a repeated measures design</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change over 6 weeks in Neuropsychiatric Inventory Dysphoria subscale</measure>
+    <time_frame>Baseline and weekly over 6 weeks</time_frame>
+    <description>Assessment of dysphoria on a weekly basis over the study duration will be included in a longitudinal mixed effects model as part of a repeated measures design</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neuropsychiatric Inventory Anxiety subscale</measure>
+    <time_frame>Baseline and weekly over 6 weeks</time_frame>
+    <description>Assessment of anxiety on a weekly basis over the study duration will be included in a longitudinal mixed effects model as part of a repeated measures design</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Qualidem</measure>
+    <time_frame>Baseline, Week 6</time_frame>
+    <description>Dementia-related quality of life</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in staff feedback on 5-point scale over 6 weeks</measure>
+    <time_frame>Baseline and daily over 6 weeks</time_frame>
+    <description>Staff can provide real-time feedback on a daily basis on resident mood and behaviour using a 5-button scale</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in accelerometer-measured nocturnal activity level over time</measure>
+    <time_frame>Weeks 2,4,5 and 6</time_frame>
+    <description>Using an accelerometer, will assess activity levels overnight as a measure of sleep fragmentation</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in heart rate variability over time</measure>
+    <time_frame>Weeks 2,4,5 and 6</time_frame>
+    <description>Heart rate variability as a measure of stress</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">33</enrollment>
+  <condition>Dementia</condition>
+  <condition>Behavioural and Psychiatric Symptoms of Dementia</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study intervention consists of the delivery of a soundscape in the private rooms of the participant during the morning and evening. The soundscape is personalized and consists of a collection of natural sounds, birdsongs, kitchen sounds, music, bell sound, outdoor sounds, water/rain sounds, and similar.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment as Usual</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>As part of usual care, patients on the Specialized Dementia Unit receive a comprehensive assessment of their health and symptoms of dementia involving consultation by a geriatric psychiatrist, geriatrician, physical therapist, occupational therapist, and recreation therapist, and pharmacological and non-pharmacological treatment plans are developed and executed. All participants in the study will receive this standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Acusticare</intervention_name>
+    <description>Acusticare is an internet connected speaker which delivers an environmental intervention by playing sounds to adjust the soundscape in the room.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Treatment as usual</intervention_name>
+    <description>Usual care provided on the Specialized Dementia Unit</description>
+    <arm_group_label>Treatment as Usual</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 65 years or older&#xD;
+&#xD;
+          2. Diagnosis of Dementia&#xD;
+&#xD;
+          3. Symptoms of BPSD at baseline&#xD;
+&#xD;
+          4. English speaking&#xD;
+&#xD;
+          5. Assigned a private room with AcustiCare installed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Severe hearing impairment&#xD;
+&#xD;
+          2. Receiving end-of-life care&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrea Iaboni, MD DPhil</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Toronto Rehabilitation Institute, University Health Network</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G2A2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <reference>
+    <citation>Devos P, Aletta F, Thomas P, Petrovic M, Vander Mynsbrugge T, Van de Velde D, De Vriendt P, Botteldooren D. Designing Supportive Soundscapes for Nursing Home Residents with Dementia. Int J Environ Res Public Health. 2019 Dec 4;16(24). pii: E4904. doi: 10.3390/ijerph16244904.</citation>
+    <PMID>31817300</PMID>
+  </reference>
+  <reference>
+    <citation>Devos, P., Aletta, F., Vander Mynsbrugge, T., Thomas, P., Filipan, K., Petrovic, M., ... &amp; Botteldooren, D. (2018, December). Soundscape design for management of behavioral disorders: a pilot study among nursing home residents with dementia. In INTER-NOISE and NOISE-CON Congress and Conference Proceedings (Vol. 258, No. 5, pp. 2104-2111). Institute of Noise Control Engineerin</citation>
+  </reference>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>March 17, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2021</study_first_posted>
+  <last_update_submitted>October 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Soundscape</keyword>
+  <keyword>Sonic environment</keyword>
+  <keyword>Neuropsychiatric symptoms</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Environmental design</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

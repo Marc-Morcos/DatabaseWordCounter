@@ -1,0 +1,4521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="192">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05026866</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18284</org_study_id>
+    <secondary_id>I5T-MC-AACM</secondary_id>
+    <nct_id>NCT05026866</nct_id>
+  </id_info>
+  <brief_title>A Donanemab (LY3002813) Prevention Study in Participants With Alzheimer's Disease (TRAILBLAZER-ALZ 3)</brief_title>
+  <official_title>A Study of Donanemab Versus Placebo in Participants at Risk for Cognitive and Functional Decline of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to evaluate the safety and efficacy of donanemab in&#xD;
+      participants with preclinical Alzheimer's Disease (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 27, 2021</start_date>
+  <completion_date type="Anticipated">November 8, 2027</completion_date>
+  <primary_completion_date type="Anticipated">October 25, 2027</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to clinical progression as measured by Clinical Dementia Rating - Global Score (CDR-GS)</measure>
+    <time_frame>Estimated Up to Week 182</time_frame>
+    <description>Time to clinical progression as measured by CDR-GS. CDR is a clinician-rated scale that provides an overall assessment of the participant's stage on the spectrum of AD dementia.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in International Shopping List Test (ISLT)</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by ISLT in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Continuous Paired Associate Learning (CPAL)</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by CPAL in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in International Daily Symbol Substitution Test-Medicines (iDSSTm)</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by iDSSTm in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Category Fluency</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by Category Fluency in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Face Name Association Test (FNAME)</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by FNAME in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Behavioral Pattern Separation-Object test (BPS-O)</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by BPS-O in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cogstate Brief Battery (CBB)</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by CBB in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in CDR-Sum of Boxes (CDR-SB)</measure>
+    <time_frame>Baseline, Up Week 32</time_frame>
+    <description>Change from Baseline in clinical progression as measured by CDR-SB in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cognitive Function Index (CFI)</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by CFI in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Montreal Cognitive Assessment (MoCA) score</measure>
+    <time_frame>Baseline, Up to Week 182</time_frame>
+    <description>Change from Baseline in clinical progression as measured by MoCA score in participants with preclinical AD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Average Serum Donanemab Concentration at Steady State</measure>
+    <time_frame>Baseline through Week 76</time_frame>
+    <description>PK: Average Serum Donanemab Concentration at Steady State</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Treatment-emergent Anti-Drug Antibody (ADAs)</measure>
+    <time_frame>Baseline through Week 16</time_frame>
+    <description>Percentage of Participants with Treatment-emergent Anti-Drug Antibody (ADAs)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">3300</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Donanemab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Donanemab administered intravenously (IV)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo is administered intravenously</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Donanemab</intervention_name>
+    <description>Administered intravenously</description>
+    <arm_group_label>Donanemab</arm_group_label>
+    <other_name>LY3002813</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered intravenously</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  A Telephone Interview for Cognitive Status - modified (TICS-M) score reflective of&#xD;
+             intact cognitive functioning.&#xD;
+&#xD;
+          -  Has a phosphorylated tau (P-tau) result consistent with the presence of amyloid and&#xD;
+             early-tau pathology.&#xD;
+&#xD;
+          -  Has a reliable study partner and backup study partner familiar with overall function&#xD;
+             and behavior, such as day-to-day activities and cognitive abilities.&#xD;
+&#xD;
+          -  Have adequate literacy, vision, and hearing for neuropsychological testing at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Contraceptive use by men or women should be consistent with local regulations&#xD;
+             regarding the methods of contraception for those participating in clinical studies&#xD;
+&#xD;
+          -  Female participants include those who are infertile due to surgical sterilization&#xD;
+             (hysterectomy, bilateral oophorectomy, or tubal ligation), congenital anomaly such as&#xD;
+             Mullerian agenesis; or post menopausal (women 55 or older not on hormone therapy and&#xD;
+             had at least 12 months of spontaneous amenorrhea; or with a diagnosis of menopause&#xD;
+             prior to starting hormone replacement therapy.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Mild cognitive impairment or dementia, or significant other neurodegenerative disease&#xD;
+             that can affect cognition.&#xD;
+&#xD;
+          -  Current serious or unstable illnesses including cardiovascular, hepatic, renal,&#xD;
+             gastroenterologic, respiratory, endocrinologic, neurologic, psychiatric, immunologic,&#xD;
+             or hematologic disease that could interfere with the analysis of the study or a life&#xD;
+             expectancy of approximately ≤5 years.&#xD;
+&#xD;
+          -  History of cancer with high risk of recurrence and preventing completion of the trial.&#xD;
+&#xD;
+          -  History of clinically significant multiple or severe drug allergies, or severe&#xD;
+             posttreatment hypersensitivity reactions (including but not limited to erythema&#xD;
+             multiforme major, linear immunoglobulin A dermatosis, toxic epidermal necrolysis,&#xD;
+             and/or exfoliative dermatitis).&#xD;
+&#xD;
+          -  Have any clinically important abnormality at screening on magnetic resonance imaging&#xD;
+             (MRI) or clinical laboratory test results that could be detrimental to the participant&#xD;
+             or study integrity.&#xD;
+&#xD;
+          -  Have any contraindications for MRI, including claustrophobia or the presence of&#xD;
+             contraindicated metal (ferromagnetic) implants/cardiac pacemaker.&#xD;
+&#xD;
+          -  Have a centrally read MRI demonstrating presence of amyloid-related imaging&#xD;
+             abnormalities (ARIA-E), &gt;4 cerebral microhemorrhages, more than 1 area of superficial&#xD;
+             siderosis, any macrohemorrhage or severe white matter disease at screening.&#xD;
+&#xD;
+          -  Have had prior treatment with a passive anti-amyloid immunotherapy &lt;5 half-lives prior&#xD;
+             to randomization.&#xD;
+&#xD;
+          -  Have received active immunization against amyloid beta (Aβ) in any other study.&#xD;
+&#xD;
+          -  Have received active immunization against Aβ in any other study.&#xD;
+&#xD;
+          -  Current or previous use of prescription medications used as treatment for mild&#xD;
+             cognitive impairment (MCI) or AD.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrials.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Parkway Medical Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>James Gregory &quot;Greg&quot; Sullivan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tilda Research - USAL 45</name>
+      <address>
+        <city>Homewood</city>
+        <state>Alabama</state>
+        <zip>35209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Falola</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rehabilitation &amp; Neurological Services</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Belinda Savage-Edwards, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - 801 South Power Road, Mesa</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Victoria Horstman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>David Weidman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Barrow Neurological Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Anna Burke</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute Tucson</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Allan A Anderson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Neurosciences</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael A Badruddoja</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Bakersfield</name>
+      <address>
+        <city>Bakersfield</city>
+        <state>California</state>
+        <zip>93313</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Collins Liu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Berkeley</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Christine Thai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Beverly Hills</name>
+      <address>
+        <city>Beverly Hills</city>
+        <state>California</state>
+        <zip>90212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Phillip Bowman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Chula Vista</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Waters</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Clinical Trials, Inc.</name>
+      <address>
+        <city>Covina</city>
+        <state>California</state>
+        <zip>91723</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Masoud Mohammed Azizad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Center of North Orange County</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Anthony Ciabarra</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Gilroy</name>
+      <address>
+        <city>Gilroy</city>
+        <state>California</state>
+        <zip>95020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Christine Thai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access Research - Huntington Beach</name>
+      <address>
+        <city>Huntington Beach</city>
+        <state>California</state>
+        <zip>92648</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Christine Thai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tilda Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Juan Velez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Irvine Clinical Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Elly R Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Irvine</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92618</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric Grigsby</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaizen Brain Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Collins Liu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, San Diego</name>
+      <address>
+        <city>La Mesa</city>
+        <state>California</state>
+        <zip>91942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey S Overcash</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sarah Kremen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurovations</name>
+      <address>
+        <city>Napa</city>
+        <state>California</state>
+        <zip>94558</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric Grigsby</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Newport Beach</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92660</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Christine Thai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Clinical Trials, Inc.</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Masoud Mohammed Azizad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Panorama City</name>
+      <address>
+        <city>Panorama City</city>
+        <state>California</state>
+        <zip>91402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Allen Jenders</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inland Psychiatric Medical Group</name>
+      <address>
+        <city>Redlands</city>
+        <state>California</state>
+        <zip>92373</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Juan Velez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Anderson Clinical Research</name>
+      <address>
+        <city>Redlands</city>
+        <state>California</state>
+        <zip>92374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Donald Lee Anderson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Artemis Institute for Clinical Research</name>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Katrina Patrick</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Riverside</name>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Christine Thai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Sacramento</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric Grigsby</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95821</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey D Wayne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Artemis Institute for Clinical Research</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Katrina Patrick</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Stephen G Thein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ray Dolby Brain Health Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Armen J Moughamian</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Los Gatos</name>
+      <address>
+        <city>San Jose</city>
+        <state>California</state>
+        <zip>95124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Christine Thai</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Syrentis Clinical Research</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>John Gregory Duffy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Santa Clarita</name>
+      <address>
+        <city>Santa Clarita</city>
+        <state>California</state>
+        <zip>91321</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sina Tebi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Los Angeles South</name>
+      <address>
+        <city>Santa Fe Springs</city>
+        <state>California</state>
+        <zip>90670</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Collins Liu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Medical Foundation</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Allan L Bernstein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mazur, Statner, Dutta, Nathan</name>
+      <address>
+        <city>Thousand Oaks</city>
+        <state>California</state>
+        <zip>91360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Ramesh Nathan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Infect Disease Doctors Med Grp</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Bhavna Malik</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Aurora</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sinikka LIISA Green</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mountain Neurological Research Center</name>
+      <address>
+        <city>Basalt</city>
+        <state>Colorado</state>
+        <zip>81621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Alison B Allen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Colorado Neurological Research Center, PC</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Adam J Wolff</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Invicro</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>David S Russell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research Institute</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark A Goldstein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VIN-Julie Schwartzbard</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Julie Schwartzbard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Offices of South Florida</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33428</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brian A Costell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Excel Medical Clinical Trials</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33434</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Seth J. Baum</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SFM Clinical Research</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33487</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Marc Feinberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bradenton Research Center, Inc.</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric Folkens</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research of West Florida, Inc. (Clearwater)</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33765</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Leonard Jay Dunn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Daytona Beach</name>
+      <address>
+        <city>Daytona Beach</city>
+        <state>Florida</state>
+        <zip>32114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brad Lipson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Delray Beach</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33484</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brad Lipson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Finlay Medical Research</name>
+      <address>
+        <city>Greenacres City</city>
+        <state>Florida</state>
+        <zip>33467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose Cevallos Yepez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research &amp; Health Center, Inc</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose Francisco Cardona</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Infinity Clinical Research, LLC</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Harvey Schwartz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Jacksonville Center for Clinical Research</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven A Toenjes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Optum Infusion - Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32257</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>David M Bear</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Guava Street</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brad Lipson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey A Norton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud - Maitland</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Esteban Olivera</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>K2 Medical Research</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brandon Lenox</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud - Viera</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32940</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Rosemary Laird</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Merritt Island Medical Research, LLC</name>
+      <address>
+        <city>Merritt Island</city>
+        <state>Florida</state>
+        <zip>32952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory Kirk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>San Marcus Research Clinic, Inc.</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>MARIA CUESTA TORRES</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>South Florida Research Phase I-IV</name>
+      <address>
+        <city>Miami Springs</city>
+        <state>Florida</state>
+        <zip>33166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Belkis Delgado</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Optimus U Corporation</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Yaneicy Gonzalez Rojas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Finlay Medical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Lilia Rodriguez Ables</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VIN-Andrew Lerman</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Andrew Lerman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brainstorm Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brad Herskowitz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VIN-Victor Faradji</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Victor Faradji</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Adult Medicine of Lake County</name>
+      <address>
+        <city>Mount Dora</city>
+        <state>Florida</state>
+        <zip>32757</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Shirley A. Nagel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Suncoast Clinical Research, Inc.</name>
+      <address>
+        <city>New Port Richey</city>
+        <state>Florida</state>
+        <zip>34652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Cathy Barnes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Anette V. Nieves</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Headlands Research Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Christopher Galloway</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMIC, Inc.</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Ramon Leon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pines Care Research Center</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jaynier Moya</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VIN- Margarita Almeida El-Ramey</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Margarita Almeida El-Ramey</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emerald Coast Neurology - Airport Boulevard</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>David M Bear</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Alexander J. White</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Accel Research Sites - Tampa Clinical Research Unit</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Deborah Burke</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Pebble Beach Boulevard, Tampa</name>
+      <address>
+        <city>Sun City</city>
+        <state>Florida</state>
+        <zip>33573</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brad Lipson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Tamarac</name>
+      <address>
+        <city>Tamarac</city>
+        <state>Florida</state>
+        <zip>33321</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brad Lipson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research of West Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Lon D. Lynn, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stedman Clinical Trials</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mary Stedman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Olympian Clinical Research</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Kelley W Yokum</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vicis Clinical Research</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Luis Merced</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Coram CVS/Specialty Infusion Services - Tampa</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33634</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brandon Lenox</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Research Center</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Pamela Kane</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Conquest Research</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Rekha Gandhi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research - Winter Park</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>RAMON L. RODRIGUEZ</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Masters of Clinical Research</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Amy Sprague</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Atlanta</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Kimball A. Johnson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Advanced Research &amp; Education</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Georgia</state>
+        <zip>30501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Angela Dawn Ritter</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>John Michael Hemphill</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SKY Clinical Research Network Group-Blake</name>
+      <address>
+        <city>Union City</city>
+        <state>Georgia</state>
+        <zip>30291</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Dwight Blake</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Georgia Clinical Research</name>
+      <address>
+        <city>Woodstock</city>
+        <state>Georgia</state>
+        <zip>30189</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Bram Wieskopf</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Clinical Trials</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Brock Aaron McConnehey</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research - Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Lumicao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>James Mastrianni</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials - Andersonville</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey S. Ross</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Uptown Research Institute</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Jutovsky</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alexian Brothers Medical Center</name>
+      <address>
+        <city>Elk Grove Village</city>
+        <state>Illinois</state>
+        <zip>60007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Concetta M. Forchetti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Fairview Heights</name>
+      <address>
+        <city>Fairview Heights</city>
+        <state>Illinois</state>
+        <zip>62208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Phyllis D Marx</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials - Gurnee</name>
+      <address>
+        <city>Gurnee</city>
+        <state>Illinois</state>
+        <zip>60031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey S. Ross</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Chicago</name>
+      <address>
+        <city>Itasca</city>
+        <state>Illinois</state>
+        <zip>60143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Lumicao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Accellacare - DuPage</name>
+      <address>
+        <city>Lombard</city>
+        <state>Illinois</state>
+        <zip>60148</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Yoko Momoyama</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Coram CVS/Specialty Infusion Services - Fort Wayne</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven Donis Smith</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - West Indianapolis</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven Donis Smith</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Indianapolis</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven Donis Smith</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Josephson Wallack Munshower Neurology, PC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Kristi Koch George</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Covenant Medical Center</name>
+      <address>
+        <city>Waterloo</city>
+        <state>Iowa</state>
+        <zip>50702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Nicholas JAMES Goetsch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>College Park Specialty Center</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>JEFFREY D KAPLAN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Brownsboro Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory E Cooper Ph.D., M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Optum Infusion - Baton Rouge</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jason Morris</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Lake Charles</name>
+      <address>
+        <city>Lake Charles</city>
+        <state>Louisiana</state>
+        <zip>70601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jason Morris</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MD Medical Research</name>
+      <address>
+        <city>Oxon Hill</city>
+        <state>Maryland</state>
+        <zip>20745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Stephen Ong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ActivMed Practices and Research</name>
+      <address>
+        <city>Methuen</city>
+        <state>Massachusetts</state>
+        <zip>01844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael J. McCartney</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Center for Memory</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Paul R Solomon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Quincy</name>
+      <address>
+        <city>Quincy</city>
+        <state>Massachusetts</state>
+        <zip>02171</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Chih Chao (Justin) Yang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MedVadis Research Corporation</name>
+      <address>
+        <city>Waltham</city>
+        <state>Massachusetts</state>
+        <zip>02451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>David DiBenedetto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Revival Research Institute</name>
+      <address>
+        <city>Sterling Heights</city>
+        <state>Michigan</state>
+        <zip>48312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Abdulhassan Saad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Minneapolis Clinic of Neurology - Burnsville Office</name>
+      <address>
+        <city>Burnsville</city>
+        <state>Minnesota</state>
+        <zip>55337</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Rajiv Aggarwal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Coram CVS/Specialty Infusion Services - Mendota Heights</name>
+      <address>
+        <city>Mendota Heights</city>
+        <state>Minnesota</state>
+        <zip>55120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sinikka LIISA Green</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - St. Cloud</name>
+      <address>
+        <city>Sauk Rapids</city>
+        <state>Minnesota</state>
+        <zip>56379</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Rajiv Aggarwal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SKY Clinical Research Network Group - Hall</name>
+      <address>
+        <city>Fayette</city>
+        <state>Mississippi</state>
+        <zip>39069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>James B. Hall</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Quinn Healthcare/SKYCRNG</name>
+      <address>
+        <city>Ridgeland</city>
+        <state>Mississippi</state>
+        <zip>39157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Timothy Quinn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Citizens Memorial Hospital District</name>
+      <address>
+        <city>Bolivar</city>
+        <state>Missouri</state>
+        <zip>65613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Curtis P. Schreiber</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Professionals</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Siddharth Kaul</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Hospital of Kansas City</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mignon Melissa Makos-Hemke</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research - St. Louis</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Reschak</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Coram CVS/Specialty Infusion Services - Henderson</name>
+      <address>
+        <city>Henderson</city>
+        <state>Nevada</state>
+        <zip>89014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Bharat R Mocherla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Las Vegas</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Bharat R Mocherla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Las Vegas Medical Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Bharat R Mocherla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Amici Clinical Research</name>
+      <address>
+        <city>Hoboken</city>
+        <state>New Jersey</state>
+        <zip>07030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Stephen Falcone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Amici Clinical Research LLC</name>
+      <address>
+        <city>Raritan</city>
+        <state>New Jersey</state>
+        <zip>08869</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Stephen Falcone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Cognitive and Research Center of New Jersey</name>
+      <address>
+        <city>Springfield</city>
+        <state>New Jersey</state>
+        <zip>07081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michelle Papka</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Albuquerque Neuroscience Inc.</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Daniel Allen Collins</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research - Albany</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Stephen Falcone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Associates Albany</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard Holub</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prime Global Research</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Rubaba Hussain</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Syracuse</name>
+      <address>
+        <city>East Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Carmen Cupelo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research - Hartsdale</name>
+      <address>
+        <city>Hartsdale</city>
+        <state>New York</state>
+        <zip>10530</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>nader zaki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Stephen Falcone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>South Shore Neurologic Associates</name>
+      <address>
+        <city>Patchogue</city>
+        <state>New York</state>
+        <zip>11772</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark Gudesblatt</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Richmond Behavioral Associates</name>
+      <address>
+        <city>Staten Island</city>
+        <state>New York</state>
+        <zip>10314</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark Vincent DiBuono</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Asheville Neurology Specialists</name>
+      <address>
+        <city>Asheville</city>
+        <state>North Carolina</state>
+        <zip>28806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Matthew Engelbrecht</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medication Management</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Walter Pharr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Hope Mills</name>
+      <address>
+        <city>Hope Mills</city>
+        <state>North Carolina</state>
+        <zip>28348</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric Ibegbu, M.D., FACG, FASGE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access Research-Kinston</name>
+      <address>
+        <city>Kinston</city>
+        <state>North Carolina</state>
+        <zip>28501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric Ibegbu, M.D., FACG, FASGE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Monroe Biomedical Research</name>
+      <address>
+        <city>Monroe</city>
+        <state>North Carolina</state>
+        <zip>28112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Awawu Igbinadolor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Carteret Medical Group</name>
+      <address>
+        <city>Morehead City</city>
+        <state>North Carolina</state>
+        <zip>28557</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mary Katherine Lawrence</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Raleigh</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric Ibegbu, M.D., FACG, FASGE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Accellacare - Winston-Salem</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mitchell Gareth Isaac</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NeuroScience Research Center</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Ryan S Drake</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wellnow Urgent Care and Research</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Blaise Gatto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Diagnostics, Inc.</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Joel Vandersluis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Lima</name>
+      <address>
+        <city>Lima</city>
+        <state>Ohio</state>
+        <zip>45805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven Donis Smith</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Star Medical Research</name>
+      <address>
+        <city>Middleburg Heights</city>
+        <state>Ohio</state>
+        <zip>44130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark Joseph Woyshville</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Youngstown</name>
+      <address>
+        <city>Poland</city>
+        <state>Ohio</state>
+        <zip>44514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sayed M. Yossef</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Coram CVS/Specialty Infusion Services - Oklahoma City</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sarah Land</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central States Research</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sarah Land</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Optum Infusion - Bend</name>
+      <address>
+        <city>Bend</city>
+        <state>Oregon</state>
+        <zip>97701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Steven Mega</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Medford</name>
+      <address>
+        <city>Medford</city>
+        <state>Oregon</state>
+        <zip>97504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sarah Smiley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Cognitive Health</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Steven Mega</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Clinical Trial Center, LLC</name>
+      <address>
+        <city>Jenkintown</city>
+        <state>Pennsylvania</state>
+        <zip>19046</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Marvin Kalafer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Suburban Research Associates</name>
+      <address>
+        <city>Media</city>
+        <state>Pennsylvania</state>
+        <zip>19063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Shivkumar Hatti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Pottsville</name>
+      <address>
+        <city>Pottsville</city>
+        <state>Pennsylvania</state>
+        <zip>17901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Glenn Freed</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Warwick</name>
+      <address>
+        <city>Warwick</city>
+        <state>Rhode Island</state>
+        <zip>02886</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sudhir Bansal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Anderson</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Anne Tuggle</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Anderson</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Charles Thompson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Columbia</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory Feldman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Gaffney</name>
+      <address>
+        <city>Gaffney</city>
+        <state>South Carolina</state>
+        <zip>29340</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>David Erb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VitaLink Research - Greenville</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Luis Ignacio De La Cruz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Mauldin</name>
+      <address>
+        <city>Mauldin</city>
+        <state>South Carolina</state>
+        <zip>29662</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Anne Tuggle</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Spartanburg</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Farhan Siddiqui</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VitaLink Research - Union</name>
+      <address>
+        <city>Union</city>
+        <state>South Carolina</state>
+        <zip>29379</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Joseph Boscia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Health Concepts</name>
+      <address>
+        <city>Rapid City</city>
+        <state>South Dakota</state>
+        <zip>57702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard Beasley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Clinic, P.C.</name>
+      <address>
+        <city>Cordova</city>
+        <state>Tennessee</state>
+        <zip>38018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas W Arnold</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions Inc</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Lora J. McGill</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Austin</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78735</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sinikka LIISA Green</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Diabetes &amp; Endocrinology, P.A.</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78749</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Andrea Raymond</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Senior Adults Specialty Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78757</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jaron L Winston</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gadolin Research</name>
+      <address>
+        <city>Beaumont</city>
+        <state>Texas</state>
+        <zip>77702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jason Mensah</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Conroe Willis Medical Research</name>
+      <address>
+        <city>Conroe</city>
+        <state>Texas</state>
+        <zip>77304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Jeremy Laningham</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Neuro Research Center - ANRC</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Aamr Aamr Herekar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Optum Infusion - Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Jeremy Laningham</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Paul Ernest Schulz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Next Level Urgent Care</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Wilner Jeudy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Family Practice Center</name>
+      <address>
+        <city>McAllen</city>
+        <state>Texas</state>
+        <zip>78501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Manuel Josue Sanchez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>El Faro Health and Therapeutics</name>
+      <address>
+        <city>Rio Grande City</city>
+        <state>Texas</state>
+        <zip>78582</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>James Antonio Falcon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research - Knickerbocker</name>
+      <address>
+        <city>San Angelo</city>
+        <state>Texas</state>
+        <zip>76904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Darrell T. Herrington</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Diagnostics Research Group</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>John R. Holcomb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Consano Clinical Research, LLC</name>
+      <address>
+        <city>Shavano Park</city>
+        <state>Texas</state>
+        <zip>78231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Michelle Welch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Valley Clinical Research</name>
+      <address>
+        <city>Weslaco</city>
+        <state>Texas</state>
+        <zip>78596</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Eduardo Dusty Luna</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Neurology</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Vivek Reddy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Memory Clinic</name>
+      <address>
+        <city>Bennington</city>
+        <state>Vermont</state>
+        <zip>05201-9810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Cynthia Murphy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Care Access - Alexandria</name>
+      <address>
+        <city>Alexandria</city>
+        <state>Virginia</state>
+        <zip>22311</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Jason Robert Begue</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Chantilly</name>
+      <address>
+        <city>Chantilly</city>
+        <state>Virginia</state>
+        <zip>20151</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard Jackson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dominion Medical Associates, Inc.</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard Jackson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Clinical Research Center</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Arifulla Khan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Option Care - Everett</name>
+      <address>
+        <city>Everett</city>
+        <state>Washington</state>
+        <zip>98204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sabrina Ann Benjamin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universal Research Group</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Sabrina Ann Benjamin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Optum Infusion - Woodinville</name>
+      <address>
+        <city>Woodinville</city>
+        <state>Washington</state>
+        <zip>98072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Arifulla Khan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMA Clinical Research</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>WARD J PAINE</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Center for Geriatrics and Gerontology</name>
+      <address>
+        <city>Obu</city>
+        <state>Aichi</state>
+        <zip>474-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Masashi Tsujimoto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oita University Hospital</name>
+      <address>
+        <city>Yufu</city>
+        <state>Oita</state>
+        <zip>879-5593</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Naoto Uemura</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Corporation Heishinkai OCROM Clinic</name>
+      <address>
+        <city>Suita-shi</city>
+        <state>Osaka</state>
+        <zip>565-0853</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Satoshi Inoue</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Tokyo Hospital</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Kenichiro Sato</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo-Eki Center-building Clinic</name>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Tokyo</state>
+        <zip>103-0027</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Arihiro Kiyosue</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fukuwa Clinic</name>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Tokyo</state>
+        <zip>104-0031</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Yasushi Fukushima</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>P-One Clinic</name>
+      <address>
+        <city>Hachioji</city>
+        <state>Tokyo</state>
+        <zip>192-0071</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Kenichi Furihata</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Metropolitan Geriatric Hospital</name>
+      <address>
+        <city>Itabashi</city>
+        <state>Tokyo</state>
+        <zip>173-0015</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Atsushi Iwata</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Heishinkai Medical Group ToCROM Clinic</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <state>Tokyo</state>
+        <zip>160-0008</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Osamu Matsuoka</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Samoncho Clinic</name>
+      <address>
+        <city>Shinjuku</city>
+        <state>Tokyo</state>
+        <zip>160-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Takahiro Yokoyama</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AMC Nishiumeda Clinic</name>
+      <address>
+        <city>Osaka</city>
+        <zip>530-0001</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Yoshimitsu Yamasaki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Asbo Clinic</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>104-0031</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>18446887036</phone>
+    </contact>
+    <investigator>
+      <last_name>Akiyoshi Uchiyama</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SCB Research Center</name>
+      <address>
+        <city>Bayamon</city>
+        <zip>00961</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>William Julio</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Samuel Sanchez PSC</name>
+      <address>
+        <city>Caguas</city>
+        <zip>00727</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Karen Cruz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>INSPIRA Clinical Research</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00918</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Yvette Marie Cruz-Pagan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto De Neurologia Dra. Ivonne Fraga</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00918</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Ivonne Fraga</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mindful Medical Research</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00918</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Oscar Soto-Raices</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Puerto Rico - Medical Sciences Campus_Do not use - Duplicate facility</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>844-688-7036</phone>
+    </contact>
+    <investigator>
+      <last_name>Ivonne Z Jimenez-Velazquez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/vpJyQXuNAxTOFoL7o2Gbk</url>
+    <description>A Donanemab (LY3002813) Prevention Study in Participants With Alzheimer's Disease (TRAILBLAZER-ALZ 3)</description>
+  </link>
+  <verification_date>October 1, 2022</verification_date>
+  <study_first_submitted>August 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 30, 2021</study_first_posted>
+  <last_update_submitted>October 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>http://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

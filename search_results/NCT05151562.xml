@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="908">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05151562</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00274248</org_study_id>
+    <nct_id>NCT05151562</nct_id>
+  </id_info>
+  <brief_title>Music Therapy for Patients With Alzheimer's Disease</brief_title>
+  <official_title>Music Therapy for Autobiographical Memory and Neuropsychiatric Symptoms in Alzheimer Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to assess the feasibility that individualized reminiscence-based&#xD;
+      virtual music therapy sessions can enhance autobiographical memory, mood, and cognition in&#xD;
+      patients with mild cognitive impairment (MCI) or mild dementia due to Alzheimer's Disease&#xD;
+      (AD).&#xD;
+&#xD;
+      60 patients with MCI or mild dementia due to AD will receive two 30 minutes&#xD;
+      reminiscence-targeted virtual music therapy interventions per week for 8 weeks (a total of 16&#xD;
+      sessions).&#xD;
+&#xD;
+      Participants' (or supported by the study partner) self-reported and measurable outcomes&#xD;
+      including cognitive, anxiety, quality of life, and autobiographical memory will be assessed&#xD;
+      before and after the 8-week course of treatment. Blood-oxygenation level-dependent (BOLD) in&#xD;
+      functional magnetic resonance imaging (fMRI) will also be also measured before and after the&#xD;
+      8-week course of treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Despite advancements in mild cognitive impairment (MCI) or mild dementia due to Alzheimer's&#xD;
+      Disease (AD) treatment, patients who live with these symptoms still have many unmet&#xD;
+      neuropsychiatric needs. In investigating holistic approaches to treatment generally, it is&#xD;
+      important to utilize non-pharmacological interventions.&#xD;
+&#xD;
+      Kelly and Ahessy implemented reminiscence-focused group music therapy to promote positive&#xD;
+      mood and engagement through musical expression (e.g. singing, moving, body percussion) and&#xD;
+      verbal interaction, using thematic sessions that reflected the music preferences of the&#xD;
+      participants. The researchers found that a balance of familiar structures, such as greeting&#xD;
+      and ending songs, paired with adaptability on behalf of the music facilitator created&#xD;
+      meaningful space for reminiscence and shared engagement. The researchers also identify music&#xD;
+      as a core element that facilitated the sharing musical and extramusical personal memories, as&#xD;
+      well as provided grounding and opportunities for re-connection during moments of&#xD;
+      disorientation within the group.&#xD;
+&#xD;
+      Although use of virtual music therapy due to COVID-19 has been increased, the impact of&#xD;
+      virtual music therapy sessions on reminiscence is minimally explored in the literature. A&#xD;
+      clear benefit of virtual music therapy is increased access to care for participants living in&#xD;
+      rural areas or for whom travel is difficult, enabling participation in meaningful&#xD;
+      interventions without disrupting daily routines. Additionally, the ability to engage in music&#xD;
+      therapy from the familiarity of one's own home has been shown to facilitate relationship&#xD;
+      development between patients with dementia and the patients' caregivers, as well as increase&#xD;
+      feelings of comfort and relaxation.&#xD;
+&#xD;
+      The present study seeks to expand upon previous work by adding a layer of personalization and&#xD;
+      engagement. Rather than simply assigning individuals a regimen of music listening, the&#xD;
+      investigators will engage participants in regularly occurring virtual music therapy sessions&#xD;
+      centered on playing familiar songs live and stimulating reminiscence through autobiographical&#xD;
+      conversation. Such a study offers several advantages over previous similar studies' formats&#xD;
+      as it (a) allows researchers to maintain maximum control over how the treatment is&#xD;
+      administered, (b) saves participants and caregivers the stress of traveling for therapy&#xD;
+      (especially pertinent given the study's older demographic), (c) allows participants autonomy&#xD;
+      over when and where the participants engage in therapy, likely from the comfort of home, and&#xD;
+      (d) provides opportunities for music therapy to become a meaningful twice-weekly routine for&#xD;
+      both participants and the participants' care partners. Appreciating music is far greater than&#xD;
+      simply listening to it, and this study seeks to utilize the transformative power of&#xD;
+      individualized live music therapy interventions.&#xD;
+&#xD;
+      Participants with MCI or mild dementia due to AD will attend 30-minute reminiscence-targeted&#xD;
+      virtual music therapy during an 8 week, twice-weekly course of music therapy (a total of 16&#xD;
+      sessions) through a Zoom. Participants' cognitive, anxiety, quality of life, and&#xD;
+      autobiographical memory level will be measured pre- and post- 16 virtual music therapy&#xD;
+      sessions. Brain activation patterns using functional magnetic resonance imaging (fMRI) will&#xD;
+      be compared before and after virtual music therapy sessions to understand if individualized&#xD;
+      virtual music therapy sessions can change cortical activity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">July 18, 2022</start_date>
+  <completion_date type="Anticipated">June 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in autobiographical memory level as assessed by Autobiographical Memory Test (AMT)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>AMT is used to assess the degree of specificity of autobiographical memory. The AMT usually contains cue words of both positive and negative valence, but it is unclear whether these valences form separate factors or not. Participants are asked to generate a specific memory that happened on a particular day at least one week ago. The number of specific memories recalled on each AMT is used as the dependent variable, and a higher frequency indicates a greater autobiographical memory level. Scores are on a scale from 1 to 7, where higher scores indicate greater familiarity/imageability.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in scores on neuropsychiatric symptom level as assessed by Neuropsychiatric Inventory Questionnaire (NPI-Q) (caregivers)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>The NPI-Q is designed to be a self-administered questionnaire completed by informants about patients for whom they care. Each of the 12 NPI-Q domains contains a survey question that reflects cardinal symptoms of that domain. The severity scale has scores ranging from 1 to 3 points (1=mild; 2=moderate; and 3=severe; total score range: 0 - 36) and the scale for assessing caregiver distress has scores ranging from 0 to 5 points (0=no distress; 1=minimal distress; 2=mild distress; 3=moderate distress; 4=severe distress; and 5=extreme distress; total score range: 0-60).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in cortical activation as assessed by Blood Oxygen Level Dependent (BOLD) on functional magnetic resonance imaging (fMRI)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>Blood Oxygen Level dependent (BOLD) signal (in percentage), detected on fMRI, reflects change in deoxyhemoglobin driven by localized changes in brain blood flow and blood oxygenation during music listening. The percentage of change from baseline will be used.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cognition as assessed by the Montreal Cognitive Assessment (MoCA)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>Montreal Cognitive Assessment (MoCA) is a rapid cognitive screening test that assesses cognitive performance in multiple domains including visuo-spatial and executive functions, naming, memory, attention, language, abstraction, and orientation. Scores on the MoCA range from 0 to 30:&#xD;
+&gt; 26 = normal&#xD;
+18-25 = mild cognitive impairment&#xD;
+10-17 = moderate cognitive impairment&#xD;
+&lt; 10 = severe cognitive impairment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life as assessed by the Quality of Life for Alzheimer's Disease (QoL-AD)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>The QOL-AD is administered in interview format to individuals with dementia. It is a 13-item questionnaire designed to provide both a patient and a caregiver report of the quality of life (QOL). Points are assigned to each item as follows: poor = 1, fair = 2, good = 3, excellent = 4. The total score is the sum of all 13 items.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in nostalgia level as assessed by Southampton Nostalgia Scale (SNS)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>SNS is a psychometric instrument that measures human's nostalgia proneness consisting of seven questions that assess a person's attitude towards nostalgia, the degree of experience or tendency to nostalgic feelings and the nostalgia frequency. The score range for each item is from 1 (not at all) to 7 (very much).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in anxiety level as assessed by State-Trait Anxiety Inventory (STAI)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>The Spielberger State-Trait Anxiety Inventory (STAI) is a 40-item self-report measure of anxiety using a 4-point Likert-type scale (from 0 to 3 points) for each item. The total score ranges from 0-63. The following guidelines are recommended for the interpretation of scores: 0-9, normal or no anxiety; 10-18, mild to moderate anxiety; 19-29, moderate to severe anxiety; and 30-63, severe anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in depression level as assessed by Geriatric Depression Scale (GDS)</measure>
+    <time_frame>Baseline and Post-test Week 12</time_frame>
+    <description>The 15-item geriatric depression scale (GDS-15) is a short form of GDS and is used to screen, diagnose, and evaluate depression in elderly individuals. Most previous studies evaluated the ability of GDS-15 to discriminate between depressive and non-depressive states. Of the 15 items, 10 indicated the presence of depression when answered positively, while the rest (question numbers 1, 5, 7, 11, 13) indicated depression when answered negatively. Scores of 0-4 are considered normal, depending on age, education, and complaints; 5-8 indicate mild depression; 9-11 indicate moderate depression; and 12-15 indicate severe depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score/statement on music therapy experiences as assessed by the structured interview reporting form</measure>
+    <time_frame>Day 1, Day 3, Day 8, Day 10, Day 15, Day 17, Day 22, Day 24, Day 29, Day 31, Day 36, Day 38, Day 43, Day 45, Day 50, Day 52</time_frame>
+    <description>The participants will be given a brief reporting form after each virtual music therapy session to generate descriptive data about interventions used most frequently and connected theory (e.g. why participants chose specific interventions during the sessions).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Virtual Music Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will attend two 30 minutes long virtual music therapy sessions per week for 8 weeks using Zoom.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Virtual Music Therapy</intervention_name>
+    <description>Each study participant will receive two 30-minute live synchronous virtual music therapy sessions per week for a period of 8 weeks to be delivered by a board-certified music therapist (using Zoom as a primary platform). These individualized therapeutic encounters will use music that is personally meaningful and familiar to the participant and the participant's loved ones to facilitate reminiscence. Decision-making processes made by the music therapist will reflect a flexible session structure and series of intervention choices contingent on each participant's cultural identity, expressive and receptive communication, fine and gross motor ability, affect, orientation to time and place, and personal preferences on any given day.</description>
+    <arm_group_label>Virtual Music Therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18-89&#xD;
+&#xD;
+          -  Mild Cognitive Impairment (MoCA score: 18-25) or Early AD (MoCA score: 17-24)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Head trauma, traumatic brain injury, or concussion with loss of consciousness for &gt;2&#xD;
+             minutes&#xD;
+&#xD;
+          -  Claustrophobia incompatible with MRI scanning&#xD;
+&#xD;
+          -  Medical device incompatible with MRI scanning (e.g. cardiac pacemaker, implanted&#xD;
+             cardiac defibrillator, aneurysm brain clip, inner ear implant)&#xD;
+&#xD;
+          -  Prior history as a metal worker and/or certain metallic objects in the body&#xD;
+&#xD;
+          -  Exclusion Criteria will be carefully determined by the MRI screening form.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexander Pantelyat, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Neurology, Johns Hopkins School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Cummings JL. The Neuropsychiatric Inventory: assessing psychopathology in dementia patients. Neurology. 1997 May;48(5 Suppl 6):S10-6. Review.</citation>
+    <PMID>9153155</PMID>
+  </reference>
+  <reference>
+    <citation>Galasko D, Bennett D, Sano M, Ernesto C, Thomas R, Grundman M, Ferris S. An inventory to assess activities of daily living for clinical trials in Alzheimer's disease. The Alzheimer's Disease Cooperative Study. Alzheimer Dis Assoc Disord. 1997;11 Suppl 2:S33-9.</citation>
+    <PMID>9236950</PMID>
+  </reference>
+  <reference>
+    <citation>Nutt D. The Hamilton Depression Scale--accelerator or break on antidepressant drug discovery? J Neurol Neurosurg Psychiatry. 2014 Feb;85(2):119-20. doi: 10.1136/jnnp-2013-306984.</citation>
+    <PMID>24443712</PMID>
+  </reference>
+  <reference>
+    <citation>Logsdon RG, Gibbons LE, McCurry SM, Teri L. Assessing quality of life in older adults with cognitive impairment. Psychosom Med. 2002 May-Jun;64(3):510-9.</citation>
+    <PMID>12021425</PMID>
+  </reference>
+  <reference>
+    <citation>Müllensiefen D, Gingras B, Musil J, Stewart L. The musicality of non-musicians: an index for assessing musical sophistication in the general population. PLoS One. 2014 Feb 26;9(2):e89642. doi: 10.1371/journal.pone.0089642. eCollection 2014. Erratum in: PLoS One. 2014;9(6):e101091.</citation>
+    <PMID>24586929</PMID>
+  </reference>
+  <reference>
+    <citation>Nasreddine ZS, Phillips NA, Bédirian V, Charbonneau S, Whitehead V, Collin I, Cummings JL, Chertkow H. The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment. J Am Geriatr Soc. 2005 Apr;53(4):695-9. Erratum in: J Am Geriatr Soc. 2019 Sep;67(9):1991.</citation>
+    <PMID>15817019</PMID>
+  </reference>
+  <reference>
+    <citation>Spielberger CD, Gorsuch RL, Lushene R, Vagg PR, Jacobs GA. Manual for the State-Trait Anxiety Inventory, C. A. Palo Alto, Ed. 1989.</citation>
+  </reference>
+  <reference>
+    <citation>Gerdner LA, Hartsock J, Buckwalter KC. Assessment of personal music preference (family version). The University of Iowa Gerontological Nursing Interventions Research Center: Research Development and Dissemination Core, Iowa City, Iowa. 2000.</citation>
+  </reference>
+  <reference>
+    <citation>Bunnell SL, Legerski JP, Herting NR. The autobiographical memory test: Differences in memory specificity across three recall elicitation methods. Current Psychology. 2018 Jul 18:1-8.</citation>
+  </reference>
+  <reference>
+    <citation>Kelly L, Ahessy B. Reminiscence-Focused Music Therapy to Promote Positive Mood and Engagement and Shared Interaction for People Living With Dementia: An Exploratory Study. InVoices: A World Forum for Music Therapy 2021 Jul 1 (Vol. 21, No. 2). GAMUT-Grieg Academy Music Therapy Research Centre (NORCE &amp; University of Bergen).</citation>
+  </reference>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>November 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2021</study_first_posted>
+  <last_update_submitted>July 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mild Cognitive Impairment (MCI)</keyword>
+  <keyword>Alzheimer's Disease (AD)</keyword>
+  <keyword>functional magnetic resonance imaging (fMRI)</keyword>
+  <keyword>Autobiographical memory</keyword>
+  <keyword>Virtual Music Therapy</keyword>
+  <keyword>Music Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

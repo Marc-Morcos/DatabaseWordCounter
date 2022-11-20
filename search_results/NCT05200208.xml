@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="129">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05200208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00002909</org_study_id>
+    <nct_id>NCT05200208</nct_id>
+  </id_info>
+  <brief_title>Improving Sleep and Cognition in Alzheimer's Disease</brief_title>
+  <official_title>Improving Sleep and Cognition in Alzheimer's Disease: A Pilot RCT of Citicoline</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cognitive disorders include such things as memory disorders, mild cognitive impairment, and&#xD;
+      Alzheimer's disease (AD). The purpose of the study is to learn more about whether a dietary&#xD;
+      citicoline supplement will improve sleep and cognition. Sleep disturbances currently afflict&#xD;
+      approximately 25-44% of those with AD, resulting in decreased quality of life for those with&#xD;
+      AD and their caregivers and are a major driver of institutionalization.&#xD;
+&#xD;
+      Previous studies have tested this dietary supplement in Alzheimer's disease and shown that&#xD;
+      citicoline may improve cognitive decline. The research team would like to see if citicoline&#xD;
+      will also improve sleep. The citicoline that will be provided is made by Kyowa Hakko Pharma&#xD;
+      Chemical Company. This dietary supplement has been tested in Alzheimer's disease and found to&#xD;
+      be well tolerated. Citicoline has previously been used safely in other Alzheimer's disease&#xD;
+      populations at the same dosage.&#xD;
+&#xD;
+      Citicoline will be added to the standard of care treatment with donepezil.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The research team will test these hypotheses via a randomized, double-blind,&#xD;
+      placebo-controlled pilot study of citicoline in individuals with AD who are currently treated&#xD;
+      with donepezil. Participants will be recruited from the Alzheimer's Disease Research Center&#xD;
+      (ADRC) and from the community in the surrounding Atlanta area. Recruitment will be limited to&#xD;
+      those who have been prescribed donepezil as part of their clinical care. This will be a&#xD;
+      3-month randomized, double-blind, placebo-controlled trial comparing citicoline+donepezil and&#xD;
+      placebo+donepezil in a well-characterized cohort of 20 individuals with AD. Subjective sleep&#xD;
+      measures will be measured via the Pittsburgh Sleep Quality Index (for measurement of sleep&#xD;
+      quality) and Epworth Sleepiness Scale (for measurement of sleepiness). For neuropsychological&#xD;
+      and cognition will be measured measures, the research team will employ the Rey Auditory&#xD;
+      Verbal Learning Test (RAVLT), Trail Making Test (TMT) Parts A &amp; B, and the Montreal Cognitive&#xD;
+      Assessment (MOCA).&#xD;
+&#xD;
+      Those participating in the ADRC parent study or recruited from the community and diagnosed&#xD;
+      with AD in their medical record and on donepezil at the maximum tolerated dosage (dose must&#xD;
+      be considered stable 3 months before screening confirmed by their physician) and aged 18 and&#xD;
+      over are eligible to participate. Eligible participants will be enrolled in a two-treatment&#xD;
+      trial comparing the effects of the standard of care donepezil and citicoline (1000 mg once&#xD;
+      per day with or without food) to the standard of care donepezil and placebo. The baseline&#xD;
+      (T0) visit will occur at the participant's annual ADRC visit and follow-up will occur 3&#xD;
+      months later (T1) as a separate visit. For participants recruited from the community, the&#xD;
+      coordinator will arrange for an appropriate time for their baseline visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 27, 2022</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the impact on sleep by the addition of citicoline supplement to the standard of care treatment donepezil.</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>Assessment will be performed by completing the Pittsburgh Sleep Quality Index (PSQI): This questionnaire is used to measure subjective sleep quality. It has strong validity and reliability in clinical populations and consists of 19 items asking about sleep disturbances over the past month with 7 dimensions. Each dimension scores 0 (no difficulty) to 3 (severe difficulty) and the sum of these scores yields a global sleep quality score that ranges from 0-21. Higher scores indicate greater difficulty sleeping. This questionnaire can be filled out by the participant, caregiver, or both as appropriate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in the impact on daytime sleepiness by the addition of citicoline supplement to the standard of care treatment donepezil.</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>Assessment will be performed by completing the Epworth Sleepiness Scale (ESS): The ESS is a clinical and research standard used to assess perceived daytime sleepiness over the past month. It is a self-administered validated questionnaire and takes approximately 2-3 minutes to fill out. Respondents are asked to rate how likely they are to doze off in 8 situations, from 0 (would never dose) to 3 (high chance of dozing). Any score of 10 or above is considered an indicator of pathologic sleepiness. This questionnaire can be filled out by the participant, caregiver, or both as appropriate.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To examine how a change in sleep correlates with changes in cognitive function with the addition of citicoline to the standard of care treatment donepezil.</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>Assessment of the cognitive function will be performed using the Montreal Cognitive Assessment (MoCA): MoCA assesses global cognitive function and is a rapid screening instrument that takes approximately 10 minutes. It assesses different cognitive domains: attention and concentration, executive functions, memory, language, visuoconstructional skills, conceptual thinking, calculations, and orientation. This questionnaire will already be administered through the ADRC to the participant at their baseline visit, the researchers will measure separately at their follow-up visit at 3 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To examine how a change in sleep correlates with changes in memory function with the addition of citicoline to the standard of care treatment donepezil.</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>The research team will use the Rey Auditory Verbal Learning Test (RAVLT): RAVLT evaluates the nature and severity of memory dysfunction and is used to track changes in memory function in patients over time. It is designed to present a list of 15 words across five consecutive trials. The list is first read aloud to the participant, and the participant is immediately asked to recall as many words as possible.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To examine how a change in sleep correlates with changes in executive functioning with the addition of citicoline to the standard of care treatment donepezil.</measure>
+    <time_frame>Baseline and 3 months</time_frame>
+    <description>Assessment will be performed using the Trail Making Test (TMT) Parts A &amp; B: TMT assesses executive functioning. The test consists of two parts-Part A and Part B. In Part A, participants are asked to draw lines sequentially connecting 25 numbers distributed on paper. In Part B, in contrast, participants are asked to draw lines sequentially, while alternating between numbers and letters. The time spent to complete the task will be recorded for evaluation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Citicoline Supplement</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with AD will receive dietary citicoline supplements in addition to their standard of care donepezil.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants with AD will receive a placebo supplement in addition to their standard of care donepezil.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Citicoline supplement</intervention_name>
+    <description>Participants with AD will receive dietary citicoline supplements in addition to the standard of care donepezil. Subjective sleep measures will be measured via the Pittsburgh Sleep Quality Index (for measurement of sleep quality) and Epworth Sleepiness Scale (for measurement of sleepiness). Cognition will be measured by Rey Auditory Verbal Learning Test (RAVLT), Trail Making Test (TMT) Parts A &amp; B, and the Montreal Cognitive Assessment (MOCA). Participants will complete all questionnaires at baseline and at follow-up at 3 months.</description>
+    <arm_group_label>Citicoline Supplement</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants with AD will receive a placebo supplement in addition to the standard of care donepezil. Subjective sleep measures will be measured via the Pittsburgh Sleep Quality Index (for measurement of sleep quality) and Epworth Sleepiness Scale (for measurement of sleepiness). Cognition will be measured by Rey Auditory Verbal Learning Test (RAVLT), Trail Making Test (TMT) Parts A &amp; B, and the Montreal Cognitive Assessment (MOCA). Participants will complete all questionnaires at baseline and at follow-up at 3 months.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants diagnosed with AD and confirmed from the medical record.&#xD;
+&#xD;
+          -  At least 18 years of age living within the continental United States&#xD;
+&#xD;
+          -  Patients treated with donepezil, the dose level must be stable for at least 3 months&#xD;
+             prior to screening.&#xD;
+&#xD;
+          -  Read and understand English&#xD;
+&#xD;
+          -  Have Internet and email access (this criterion applies to the legally authorized&#xD;
+             representatives)&#xD;
+&#xD;
+          -  Agree to be contacted for future studies (during screening, participants are asked if&#xD;
+             they are interested in being contacted for future studies)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Legally authorized representative unable or unwilling to provide informed consent&#xD;
+&#xD;
+          -  No telephone access&#xD;
+&#xD;
+          -  Treated with other medications used for AD (ex. memantine) or other cholinergic&#xD;
+             precursors (ex. choline alphoscerate, choline bitartrate,&#xD;
+             L-α-glycerophosphorylethanolamine) or other nootropics (ex. homotaurine)&#xD;
+&#xD;
+          -  Epilepsy or head trauma resulting in unconsciousness in the past two years&#xD;
+&#xD;
+          -  Presence of chronic obstructive pulmonary disease, asthma, severe cardiac&#xD;
+             insufficiency (congestive heart failure, myocardial infarction), type I diabetes,&#xD;
+             vitamin B12 or folic acid deficiency, liver cirrhosis, thyroid dysfunction, rheumatoid&#xD;
+             arthritis, chronic renal failure, and/or psychiatric disorders, obstructive sleep&#xD;
+             apnea, restless legs syndrome or periodic limb movement disorder;&#xD;
+&#xD;
+          -  History of alcohol dependence and medication abuse&#xD;
+&#xD;
+          -  Night shift workers or those in situations where they regularly experience jet lag, or&#xD;
+             have irregular work schedules, since circadian misalignment may alter markers of&#xD;
+             inflammation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Victoria Pak, PhD, MS, MTR</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory School of Nursing, School of Public Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Victoria Pak, PhD, MS, MTR</last_name>
+    <phone>470-296-0081</phone>
+    <email>victoria.m.pak@emory.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Emory University School of Nursing</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Goizueta Alzheimer's Disease Research Center</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>January 18, 2022</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2022</study_first_posted>
+  <last_update_submitted>July 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>Victoria Pak</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Sleep disturbance</keyword>
+  <keyword>Donezepil</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cytidine Diphosphate Choline</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

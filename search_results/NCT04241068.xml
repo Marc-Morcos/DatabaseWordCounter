@@ -1,0 +1,3391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="375">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04241068</url>
+  </required_header>
+  <id_info>
+    <org_study_id>221AD304</org_study_id>
+    <secondary_id>2019-004368-22</secondary_id>
+    <nct_id>NCT04241068</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Safety and Tolerability of Aducanumab in Participants With Alzheimer's Disease Who Had Previously Participated in the Aducanumab Studies 221AD103, 221AD301, 221AD302 and 221AD205</brief_title>
+  <official_title>Phase 3b Open-Label, Multicenter, Safety Study of BIIB037 (Aducanumab) in Subjects With Alzheimer's Disease Who Had Previously Participated in the Aducanumab Studies 221AD103, 221AD301, 221AD302 and 221AD205</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biogen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Biogen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective is to evaluate the safety and tolerability of aducanumab over 100 weeks&#xD;
+      of treatment after a wash-out period imposed by discontinuation of feeder studies in&#xD;
+      participants who had previously received aducanumab (i.e. previously treated participants) or&#xD;
+      who had previously received placebo (i.e. treatment-naïve participants).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 13, 2020</start_date>
+  <completion_date type="Anticipated">February 24, 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 11, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Core Treatment Period: Number of Participants with Adverse Events (AEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to Week 100</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant or clinical investigation participant administered a pharmaceutical product and that does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not related to the medicinal (investigational) product. A SAE is any untoward medical occurrence that at any dose results in death, life-threatening event, requires inpatient hospitalization, significant disability/incapacity or congenital anomaly.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Core Treatment Period: Number of Participants with AEs Leading to Treatment Discontinuation or Study Withdrawal</measure>
+    <time_frame>Up to Week 100</time_frame>
+    <description>An AE is any untoward medical occurrence in a participant or clinical investigation participant administered a pharmaceutical product and that does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product, whether or not related to the medicinal (investigational) product.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Core Treatment Period: Number of Participants with Amyloid-related Imaging Abnormality-Edema (ARIA-E)</measure>
+    <time_frame>Up to Week 100</time_frame>
+    <description>Magnetic resonance imaging (MRI) readings will be used to assess ARIA-E severity as mild, moderate and severe.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Core Treatment Period: Number of Participants with Amyloid-related Imaging Abnormality- Hemorrhage or Superficial Siderosis (ARIA-H)</measure>
+    <time_frame>Up to Week 100</time_frame>
+    <description>MRI readings will be used to assess severity of ARIA-H microhemorrhages and superficial siderosis.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Core Treatment Period: Number of Participants With Antidrug Antibodies (ADAs) in Serum</measure>
+    <time_frame>Up to Week 100</time_frame>
+    <description>Presence of serum ADAs will be determined using a validated assay.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">1696</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Aducanumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be administered aducanumab 10 milligrams per kilogram (mg/kg) by intravenous (IV) infusions every four weeks (Q4W) for a duration of 100 weeks during the Core Treatment Period. Eligible participants will continue to receive aducanumab 10 mg/kg IV infusion, Q4W, for 52 weeks during the Long-Term Extension (LTE) Treatment Period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aducanumab</intervention_name>
+    <description>Administered as specified in the treatment arm.</description>
+    <arm_group_label>Aducanumab</arm_group_label>
+    <other_name>BIIB037</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+        Core Treatment Period:&#xD;
+&#xD;
+          -  Participant was participating in an aducanumab clinical study at the time of the&#xD;
+             announcement of early termination (feeder studies).&#xD;
+&#xD;
+          -  Has one care partner who, in the Investigator's opinion, has adequate contact with the&#xD;
+             participant as to be able to provide accurate information about the participant's&#xD;
+             cognitive and functional abilities.&#xD;
+&#xD;
+        LTE Treatment Period:&#xD;
+&#xD;
+          -  Participant must have completed the Core study period (Week 102) and adequately&#xD;
+             tolerated 10 mg/kg of aducanumab during the Core study period in the opinion of the&#xD;
+             Investigator.&#xD;
+&#xD;
+          -  Has one informant/care partner who, in the Investigator's opinion, has frequent and&#xD;
+             sufficient contact with the participant as to be able to provide accurate information&#xD;
+             about the participant's cognitive and functional abilities.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+        Core Treatment Period:&#xD;
+&#xD;
+          -  Any medical or neurological condition (other than Alzheimer's Disease) that might be a&#xD;
+             contributing cause of the participant's cognitive impairment.&#xD;
+&#xD;
+          -  Stroke or any unexplained loss of consciousness within 1 year prior to Screening.&#xD;
+&#xD;
+          -  Clinically significant unstable psychiatric illness in past 6 months.&#xD;
+&#xD;
+          -  History of unstable angina, myocardial infarction, advanced chronic heart failure, or&#xD;
+             clinically significant conduction abnormalities within 1 year prior to Screening.&#xD;
+&#xD;
+          -  A seizure event that occurred after the last visit of the feeder study and before&#xD;
+             Screening for this study.&#xD;
+&#xD;
+          -  Evidence of impaired liver function as shown by an abnormal liver function profile at&#xD;
+             Screening.&#xD;
+&#xD;
+          -  History of or known seropositivity for HIV.&#xD;
+&#xD;
+          -  Clinically significant systemic illness or serious infection within 30 days prior to&#xD;
+             or during Screening.&#xD;
+&#xD;
+          -  Contraindications to having a brain magnetic resonance imaging (MRI).&#xD;
+&#xD;
+        LTE Treatment Period:&#xD;
+&#xD;
+          -  Any medical or psychiatric contraindication or clinically significant abnormality&#xD;
+             that, in the opinion of the Investigator, will substantially increase the risk&#xD;
+             associated with the participant's enrollment in and completion of the study.&#xD;
+&#xD;
+        Note- Other protocol defined Inclusion/Exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Biogen</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dignity Health</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Sun Health Research Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Neurosciences</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Center of North Orange County</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCI MIND</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Diego Medical Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Senior Clinical Trials, Inc.</name>
+      <address>
+        <city>Laguna Hills</city>
+        <state>California</state>
+        <zip>92653</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USC Keck School of Medicine</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mary S. Easton Center for Alzheimer's Disease Research, UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Neuroscience Medical Group</name>
+      <address>
+        <city>Oxnard</city>
+        <state>California</state>
+        <zip>93030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Hospital and Clinics</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anderson Clinical Research</name>
+      <address>
+        <city>Redlands</city>
+        <state>California</state>
+        <zip>92374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network, Inc</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF - Memory and Aging Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Syrentis Clinical Research</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Neuroscience Research Medical Group Inc.</name>
+      <address>
+        <city>Sherman Oaks</city>
+        <state>California</state>
+        <zip>91403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Denver</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IMMUNOe International Research Centers</name>
+      <address>
+        <city>Centennial</city>
+        <state>Colorado</state>
+        <zip>80112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>Fairfield</city>
+        <state>Connecticut</state>
+        <zip>06824</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Invicro</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University School Of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Center for Clinical Studies, Inc.</name>
+      <address>
+        <city>Norwalk</city>
+        <state>Connecticut</state>
+        <zip>06851</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Clinical Research Unit (CRU)</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bradenton Research Center, Inc</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>334405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropsychiatric Research Center of Southwest Florida</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Infinity Clinical Research, LLC</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jacksonville Center for Clinical Research</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Florida</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Jewish Health System, Inc</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Accelerated Enrollment Solutions (AES)</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc.</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Accelerated Enrollment Solutions (AES)</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Neurological Center</name>
+      <address>
+        <city>Palm Beach Gardens</city>
+        <state>Florida</state>
+        <zip>33410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Quantum Laboratories Inc.</name>
+      <address>
+        <city>Pompano Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Axiom Clinical Research of Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stedman Clinical Trials, LLC</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USF Health Byrd Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33634</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Premiere Research Institute</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Florida - Weston</name>
+      <address>
+        <city>Weston</city>
+        <state>Florida</state>
+        <zip>33331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University Cognitive Neurology Clinic &amp; ADRC</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Research Health and Education Foundation, Inc</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NeuroStudies.net, LLC</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alexian Brothers Medical Center - Neuroscience Research Institute</name>
+      <address>
+        <city>Elk Grove Village</city>
+        <state>Illinois</state>
+        <zip>60007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Lutheran General Hospital</name>
+      <address>
+        <city>Park Ridge</city>
+        <state>Illinois</state>
+        <zip>60068</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fort Wayne Neurological Center</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University School of Medicine</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Josephson, Wallack, Munshower Neurology, P.C.</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center Research Institute, Inc.</name>
+      <address>
+        <city>Fairway</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension Via Christi Research, a division of Ascension Via Christi Hospitals Wichita, Inc.</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Health Lexington</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McLean Hospital</name>
+      <address>
+        <city>Belmont</city>
+        <state>Massachusetts</state>
+        <zip>02474</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital Department of Neurology</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ActivMed Practices &amp; Research, Inc.</name>
+      <address>
+        <city>Methuen</city>
+        <state>Massachusetts</state>
+        <zip>01844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Center for Memory</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Donald S. Marks, M.D., P.C.</name>
+      <address>
+        <city>Plymouth</city>
+        <state>Massachusetts</state>
+        <zip>02360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Michigan</state>
+        <zip>55902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hattiesburg Clinic, PA</name>
+      <address>
+        <city>Hattiesburg</city>
+        <state>Mississippi</state>
+        <zip>39401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Lou Ruvo Center for Brain Health</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Las Vegas Medical Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ActivMed Practices &amp; Research, Inc.</name>
+      <address>
+        <city>Portsmouth</city>
+        <state>New Hampshire</state>
+        <zip>03801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Memory Research Inst. of NJ, PC</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Medical College</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Empire Neurology, PC</name>
+      <address>
+        <city>Latham</city>
+        <state>New York</state>
+        <zip>12110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York University Medical Center PRIME</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College (WCMC) - Judith Jaffe Multiple Sclerosis Center (JJMSC)</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai School of Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AMC Research, LLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28270</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Raleigh Neurology Associates</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27607-6010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gastroenterology Associates of the Piedmont</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Health</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157-1207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Wexner Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Health Science Institute</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lehigh Center for Clinical Research, LLC</name>
+      <address>
+        <city>Allentown</city>
+        <state>Pennsylvania</state>
+        <zip>18104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Clinical Trial Center, LLC</name>
+      <address>
+        <city>Jenkintown</city>
+        <state>Pennsylvania</state>
+        <zip>19046</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Penn Memory Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15261</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northeastern Pennsylvania Memory and Alzheimer's Center</name>
+      <address>
+        <city>Wilkes-Barre</city>
+        <state>Pennsylvania</state>
+        <zip>18705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Mood &amp; Memory Research Institute</name>
+      <address>
+        <city>East Providence</city>
+        <state>Rhode Island</state>
+        <zip>02914</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roper St. Francis Healthcare</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina (MUSC)</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Clinic, PC</name>
+      <address>
+        <city>Cordova</city>
+        <state>Tennessee</state>
+        <zip>38018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Senior Adult Specialty Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>33410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UT Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trial Network</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Health Sciences Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Memory Clinic</name>
+      <address>
+        <city>Bennington</city>
+        <state>Vermont</state>
+        <zip>05201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Clinical Research Inc.-Richmond</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Medical Centre</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104-2499</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kingfisher Cooperative, LLC</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin, Inc.</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Prince Charles Hospital</name>
+      <address>
+        <city>Chermside</city>
+        <state>New South Wales</state>
+        <zip>4032</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent's Hospital Sydney</name>
+      <address>
+        <city>Darlinghurst</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Central Coast Neurosciences Research (Erina)</name>
+      <address>
+        <city>Erina</city>
+        <state>New South Wales</state>
+        <zip>2250</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>KaRa Institute of Neurological Diseases</name>
+      <address>
+        <city>Macquarie Park</city>
+        <state>New South Wales</state>
+        <zip>2113</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Box Hill Hospital</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health</name>
+      <address>
+        <city>Heidelberg West</city>
+        <state>Victoria</state>
+        <zip>3081</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Melbourne Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Australian Alzheimer's Research Foundation</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LKH - Universitaetsklinikum Graz</name>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Christian-Doppler-Klinik - Universitätsklinikum Salzburg</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AKH - Medizinische Universität Wien</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Klina</name>
+      <address>
+        <city>Brasschaat</city>
+        <zip>2930</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Sint-Jan</name>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Brussel</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Groeninge</name>
+      <address>
+        <city>Kortrijk</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Delta</name>
+      <address>
+        <city>Roeselare</city>
+        <zip>8800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary - Heritage Medical Research Clinic</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N4Z6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Arts Health Research Group</name>
+      <address>
+        <city>Kamloops</city>
+        <state>British Columbia</state>
+        <zip>V2C 5T1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Arts Health Research Group</name>
+      <address>
+        <city>Penticton</city>
+        <state>British Columbia</state>
+        <zip>V2A 5L5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UBC Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6T 1Z3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Arts Health Research Group</name>
+      <address>
+        <city>West Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V7T 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research - Halifax Inc.</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3S 1M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research</name>
+      <address>
+        <city>Kentville</city>
+        <state>Nova Scotia</state>
+        <zip>MB3 2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's HC- Parkwood Institute</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6C OA7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bruyere Continuing Care</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1N 5C8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kawartha Centre - Redefining Healthy Aging</name>
+      <address>
+        <city>Peterborough</city>
+        <state>Ontario</state>
+        <zip>K9H 2P4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Memory Program (Neurology Research Inc.)</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B 2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Sunnybrook Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Western Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5T 2S8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique de la Memoire de l'Outaouais</name>
+      <address>
+        <city>Gatineau</city>
+        <state>Quebec</state>
+        <zip>J8T 8J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut et Clinique MoCA</name>
+      <address>
+        <city>Greenfield Park</city>
+        <state>Quebec</state>
+        <zip>J4V 2J2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montreal Neurological Institute Clinical Research Unit</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <zip>H3A 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Quebec - Hôpital de l' Enfant Jésus</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1J 1Z4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCBR - Ålborg - DK</name>
+      <address>
+        <city>Aalborg</city>
+        <zip>9000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Danish Dementia Research Centre</name>
+      <address>
+        <city>København</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCBR - Vejle - DK</name>
+      <address>
+        <city>Vejle</city>
+        <zip>7100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Terveystalo Ruoholahti</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00180</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Itä-Suomen yliopisto, Aivotutkimusyksikkö</name>
+      <address>
+        <city>Kuopio</city>
+        <zip>70210</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CRST, Clinical Research Services Turku</name>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Strasbourg - Hôpital Hautepierre</name>
+      <address>
+        <city>Strasbourg Cedex</city>
+        <state>Bas Rhin</state>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital de la Timone</name>
+      <address>
+        <city>Marseille cedex 05</city>
+        <state>Bouches-du-Rhône</state>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Pellegrin - Hôpital Pellegrin</name>
+      <address>
+        <city>Bordeaux Cedex</city>
+        <state>Gironde</state>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Purpan</name>
+      <address>
+        <city>Toulouse cedex 9</city>
+        <state>Haute Garonne</state>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital La Grave</name>
+      <address>
+        <city>Toulouse Cedex 9</city>
+        <state>Haute Garonne</state>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Gui de Chauliac</name>
+      <address>
+        <city>Montpellier</city>
+        <state>Herault</state>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Rennes - Pontchaillou</name>
+      <address>
+        <city>Rennes cedex 9</city>
+        <state>Ille Et Vilaine</state>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes - Hopital Nord Laënnec</name>
+      <address>
+        <city>Nantes cedex 1</city>
+        <state>Loire Atlantique</state>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Reims - Hôpital Maison Blanche</name>
+      <address>
+        <city>Reims</city>
+        <state>Marne</state>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Lille - Hopital Roger Salengro</name>
+      <address>
+        <city>Lille Cedex</city>
+        <state>Nord</state>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Lariboisière</name>
+      <address>
+        <city>Paris cedex 10</city>
+        <state>Paris</state>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Lyon - Hopital Neurologique Pierre Wertheimer</name>
+      <address>
+        <city>Bron Cedex</city>
+        <state>Rhone</state>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital des Chapennes</name>
+      <address>
+        <city>Villeurbanne</city>
+        <state>Rhone</state>
+        <zip>69100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Pitie-Salpetriere</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Broca</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Studienzentrum fur Neurologie und Psychiatrie</name>
+      <address>
+        <city>Böblingen</city>
+        <state>Baden Wuerttemberg</state>
+        <zip>71034</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ISPG - Institut fuer Studien zur Psychischen Gesundheit</name>
+      <address>
+        <city>Mannheim</city>
+        <state>Baden Wuerttemberg</state>
+        <zip>68165</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>mind mvz GmbH</name>
+      <address>
+        <city>Stuttgart</city>
+        <state>Baden Wuerttemberg</state>
+        <zip>70182</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropoint Studienzentrum</name>
+      <address>
+        <city>Ulm</city>
+        <state>Baden Wuerttemberg</state>
+        <zip>89073</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <state>Baden Wuerttemberg</state>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Bayreuth GmbH- Hohe Warte</name>
+      <address>
+        <city>Bayreuth</city>
+        <state>Bayern</state>
+        <zip>95445</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bezirkskrankenhaus Guenzburg</name>
+      <address>
+        <city>Günzburg</city>
+        <state>Bayern</state>
+        <zip>89312</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum rechts der Isar der TU Muenchen</name>
+      <address>
+        <city>Munich</city>
+        <state>Bayern</state>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut fuer Schlaganfall- und Demenzforschung (ISD)</name>
+      <address>
+        <city>München</city>
+        <state>Bayern</state>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropraxis Muenchen Sued</name>
+      <address>
+        <city>Unterhaching</city>
+        <state>Bayern</state>
+        <zip>82008</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro Centrum Science GmbH, Geschaftführende Gesellschafterin Barbara Unsorg und Prüfarzt Dr. med. G</name>
+      <address>
+        <city>Erbach</city>
+        <state>Hessen</state>
+        <zip>64711</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurologische Gemeinschaftspraxis Kassel</name>
+      <address>
+        <city>Kassel</city>
+        <state>Hessen</state>
+        <zip>34121</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinische Forschung Hannover-Mitte GmbH</name>
+      <address>
+        <city>Hannover</city>
+        <state>Niedersachsen</state>
+        <zip>30159</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Aachen AOeR</name>
+      <address>
+        <city>Aachen</city>
+        <state>Nordrhein Westfalen</state>
+        <zip>52074</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurozentrum Bielefeld</name>
+      <address>
+        <city>Bielefeld</city>
+        <state>Nordrhein Westfalen</state>
+        <zip>33647</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Duesseldorf AoeR</name>
+      <address>
+        <city>Duesseldorf</city>
+        <state>Nordrhein Westfalen</state>
+        <zip>40225</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Koeln</name>
+      <address>
+        <city>Koeln</city>
+        <state>Nordrhein Westfalen</state>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrum f. Neurologisch- Psychiatrische Studien und Begutachtung</name>
+      <address>
+        <city>Siegen</city>
+        <state>Nordrhein Westfalen</state>
+        <zip>57076</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum Altenburger Land GmbH</name>
+      <address>
+        <city>Altenburg</city>
+        <state>Thueringen</state>
+        <zip>04600</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emovis GmbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10629</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurologie im Tempelhofer Hafen</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12099</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charite Universitaetsmedizin Berlin - Campus Berlin Buch</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale degli Infermi</name>
+      <address>
+        <city>Ponderano</city>
+        <state>Biella</state>
+        <zip>13875</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Card. G. Panico</name>
+      <address>
+        <city>Tricase</city>
+        <state>Lecce</state>
+        <zip>73039</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST di Monza</name>
+      <address>
+        <city>Monza</city>
+        <state>Milano</state>
+        <zip>20052</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione Istituto G.Giglio di Cefalù</name>
+      <address>
+        <city>Cefalù</city>
+        <state>Palermo</state>
+        <zip>90015</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Socio Sanitaria Territoriale degli Spedali Civili di Brescia (Presidio Spedali Civili)</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria San Martino</name>
+      <address>
+        <city>Genova</city>
+        <zip>16132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Raffaele</name>
+      <address>
+        <city>Milano</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Istituto Neurologico Carlo Besta</name>
+      <address>
+        <city>Milano</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AOU dell'Università degli studi della Campania Luigi Vanvitelli</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera e Universitaria di Perugia</name>
+      <address>
+        <city>Perugia</city>
+        <zip>06156</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Policlinico Umberto I - Università di Roma La Sapienza</name>
+      <address>
+        <city>Roma</city>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione Policlinico Universitario Agostino Gemelli IRCCS</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione Santa Lucia IRCCS</name>
+      <address>
+        <city>Roma</city>
+        <zip>179</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria OO. RR. S. Giovanni di Dio e Ruggi D'Aragona</name>
+      <address>
+        <city>Salerno</city>
+        <zip>84131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Senese Policlinico Santa Maria alle Scotte</name>
+      <address>
+        <city>Siena</city>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Obu-shi</city>
+        <state>Aichi-Ken</state>
+        <zip>474-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chiba-shi</city>
+        <state>Chiba-Ken</state>
+        <zip>260-8656</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Chiba-shi</city>
+        <state>Chiba-Ken</state>
+        <zip>263-0043</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Inzai-shi</city>
+        <state>Chiba-Ken</state>
+        <zip>270-1694</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Toon-shi</city>
+        <state>Ehime-Ken</state>
+        <zip>791-0295</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <state>Fukuoka-Ken</state>
+        <zip>814-0180</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kurume-shi</city>
+        <state>Fukuoka-Ken</state>
+        <zip>830-0011</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Aizu-Wakamatsu</city>
+        <state>Fukushima-Ken</state>
+        <zip>965-8585</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Otake-shi</city>
+        <state>Hiroshima-Ken</state>
+        <zip>739-0696</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Asahikawa-shi</city>
+        <state>Hokkaido</state>
+        <zip>070-8644</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Sapporo-shi</city>
+        <state>Hokkaido</state>
+        <zip>064-8570</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Amagasaki-shi</city>
+        <state>Hyogo-Ken</state>
+        <zip>660-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Himeji-shi</city>
+        <state>Hyogo-Ken</state>
+        <zip>670-0981</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Himeji-shi</city>
+        <state>Hyogo-Ken</state>
+        <zip>672-8043</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kobe-shi</city>
+        <state>Hyogo-Ken</state>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kita-gun</city>
+        <state>Kagawa-Ken</state>
+        <zip>761-0793</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kamakura-shi</city>
+        <state>Kanagawa-Ken</state>
+        <zip>247-8533</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kyoto-shi</city>
+        <state>Kyoto-Fu</state>
+        <zip>607-8113</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kyoto-shi</city>
+        <state>Kyoto-Fu</state>
+        <zip>616-8255</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tsu-shi</city>
+        <state>Mie-Ken</state>
+        <zip>514-8507</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Togitsu</city>
+        <state>Nagasaki-Ken</state>
+        <zip>851-2103</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Nagaoka-shi</city>
+        <state>Niigata-Ken</state>
+        <zip>940-2081</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yufu-shi</city>
+        <state>Oita-Ken</state>
+        <zip>879-5593</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kurashiki-shi</city>
+        <state>Okayama-Ken</state>
+        <zip>247-8533</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Okayama-shi</city>
+        <state>Okayama-Ken</state>
+        <zip>703-8265</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Tsukuba</city>
+        <state>Okayama-Ken</state>
+        <zip>701-0304</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Osaka-shi</city>
+        <state>Osaka-Fu</state>
+        <zip>545-8586</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Suita-shi</city>
+        <state>Osaka-Fu</state>
+        <zip>565-0871</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Iruma-gun</city>
+        <state>Saitama-Ken</state>
+        <zip>350-0495</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kasukabe-shi</city>
+        <state>Saitama-Ken</state>
+        <zip>344-0036</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shizuka-shi</city>
+        <state>Shizuoka-Ken</state>
+        <zip>424-8636</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Shizuoka-shi</city>
+        <state>Shizuoka-Ken</state>
+        <zip>420-8688</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo-To</state>
+        <zip>113-0034</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kiyose-shi</city>
+        <state>Tokyo-To</state>
+        <zip>204-8585</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Kodaira-shi</city>
+        <state>Tokyo-To</state>
+        <zip>187-8551</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Site</name>
+      <address>
+        <city>Yamagata-shi</city>
+        <state>Yamagata-Ken</state>
+        <zip>990-0834</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inha University Hospital</name>
+      <address>
+        <city>Incheon</city>
+        <state>Gyeonggi-do</state>
+        <zip>22332</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Seongnam</city>
+        <state>Gyeonggi-do</state>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gachon University Gil Medical Center</name>
+      <address>
+        <city>Incheon</city>
+        <zip>405-760</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Konkuk University Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05030</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1081 GN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Amphia Ziekenhuis, Molengracht</name>
+      <address>
+        <city>Breda</city>
+        <zip>4818 CK</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus Medisch Centrum</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3015 AA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Podlaskie Centrum Psychogeriatrii</name>
+      <address>
+        <city>Bialystok</city>
+        <zip>15-756</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PALLMED Sp. z o.o.</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-023</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinika Psychiatrii Doroslych UCK</name>
+      <address>
+        <city>Gdansk</city>
+        <zip>80-952</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Novo-Med Zielinski i wspolnicy Sp. j.</name>
+      <address>
+        <city>Katowice</city>
+        <zip>40-650</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SPZOZ Centralny Szpital Kliniczny UM w Lodzi</name>
+      <address>
+        <city>Lodz</city>
+        <zip>92-216</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Samodzielny Publiczny Szpital Kliniczny Nr 4 w Lublinie</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-954</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ &quot;NEURO-KARD&quot;, &quot;Ilkowski i Partnerzy&quot; Sp. Partn. Lek.</name>
+      <address>
+        <city>Poznan</city>
+        <zip>61-853</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro-Care Gabriela Klodowska</name>
+      <address>
+        <city>Siemianowice Slaskie</city>
+        <zip>41-100</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne Senior</name>
+      <address>
+        <city>Sopot</city>
+        <zip>81-855</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Osrodek Badan Klinicznych EUROMEDIS</name>
+      <address>
+        <city>Szczecin</city>
+        <zip>70-111</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne NeuroProtect</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01-684</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ Wroclawskie Centrum Alzheimerowskie</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>53659</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Braga</name>
+      <address>
+        <city>Braga</city>
+        <zip>4710-243</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Hospitalar e Universitário de Coimbra E.P.E - Hospitais da Universidade de Coimbra</name>
+      <address>
+        <city>Coimbra</city>
+        <zip>3040-278</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Beatriz Ângelo</name>
+      <address>
+        <city>Loures</city>
+        <zip>2674-514</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CNS-Campus Neurologico Senior</name>
+      <address>
+        <city>Torres Vedras</city>
+        <zip>2560-280</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario de Elche</name>
+      <address>
+        <city>Elche</city>
+        <state>Alicante</state>
+        <zip>03203</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Reina Sofia</name>
+      <address>
+        <city>Cordoba</city>
+        <state>Córdoba</state>
+        <zip>14011</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinica Gipuzkoa</name>
+      <address>
+        <city>San Sebastian</city>
+        <state>Guipuzcoa</state>
+        <zip>20009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CAE Oroitu</name>
+      <address>
+        <city>Getxo</city>
+        <state>Vizcaya</state>
+        <zip>48993</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de la Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacio ACE</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari de Santa Maria</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Ruber Juan Bravo</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Victoria Eugenia</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr. Peset</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari i Politecnic La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Skånes Universitetssjukhus</name>
+      <address>
+        <city>Malmö</city>
+        <zip>205 02</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sahlgrenska Universitetssjukhuset, Mölndal Sjukhus</name>
+      <address>
+        <city>Mölndal</city>
+        <zip>205 02</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska Universitetssjukhuset, Huddinge</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>141 86</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Akademiska Sjukhuset</name>
+      <address>
+        <city>Uppsala</city>
+        <zip>75185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spitalzentrum Biel</name>
+      <address>
+        <city>Biel/Bienne</city>
+        <zip>2501</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux Universitaires de Geneve- HUG</name>
+      <address>
+        <city>Genève</city>
+        <zip>1205</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Regionale di Lugano</name>
+      <address>
+        <city>Lugano</city>
+        <zip>6900</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut fur Regenerative Medizin-IREM Universitat Zurich, Campus Schlieren</name>
+      <address>
+        <city>Schlieren</city>
+        <zip>8952</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Changhua Christian Medical Foundation Changhua Christian Hospital</name>
+      <address>
+        <city>Changhua</city>
+        <zip>50004</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaohsiung Chang Gung Memorial Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Cheng Kung University Hospital</name>
+      <address>
+        <city>Tainan</city>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Taipei Veterans General Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital, Linkou</name>
+      <address>
+        <city>Taoyuan City</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Re:Cognition Health Ltd (London)</name>
+      <address>
+        <city>London</city>
+        <state>Greater London</state>
+        <zip>W1G 9JF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charing Cross Hospital</name>
+      <address>
+        <city>London</city>
+        <state>Greater London</state>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The National Hospital for Neurology and Neurosurgery Centre</name>
+      <address>
+        <city>London</city>
+        <state>Greater London</state>
+        <zip>WC1N 3BG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Manchester Royal Infirmary</name>
+      <address>
+        <city>Manchester</city>
+        <state>Greater Manchester</state>
+        <zip>M13 9WL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Edinburgh</name>
+      <address>
+        <city>Edinburgh</city>
+        <state>Lothian Region</state>
+        <zip>EH10 5HF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The RICE Centre</name>
+      <address>
+        <city>Bath</city>
+        <state>Somerset</state>
+        <zip>BA1 3NG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth University Hospital Campus</name>
+      <address>
+        <city>Glasgow</city>
+        <state>Strathclyde</state>
+        <zip>G21 3UW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Glasgow Memory Clinic Ltd</name>
+      <address>
+        <city>Motherwell</city>
+        <state>Strathclyde</state>
+        <zip>ML1 4UF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ninewells Hospital</name>
+      <address>
+        <city>Dundee</city>
+        <state>Tayside Region</state>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Newcastle University</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <state>Tyne &amp; Wear</state>
+        <zip>NE4 5PL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Denmark</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>Taiwan</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>January 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2020</study_first_posted>
+  <last_update_submitted>May 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 13, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>In accordance with Biogen's Clinical Trial Transparency and Data Sharing Policy on http://clinicalresearch.biogen.com/</ipd_description>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

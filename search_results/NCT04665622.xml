@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2576">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04665622</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EYE-EMPATH</org_study_id>
+    <nct_id>NCT04665622</nct_id>
+  </id_info>
+  <brief_title>Assessment of Empathetic Process by Scanpath Study of an Artwork</brief_title>
+  <acronym>EYE-EMPATH</acronym>
+  <official_title>Theory of Mind, Empathy and Eye Gaze Strategies During an Artwork Observation in Neurodegenerative Pathologies.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Princesse Grace</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Association de Recherche Bibliographique pour les Neurosciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier Princesse Grace</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Analysis of gaze patterns during social cognition tasks and standardised exploration of a&#xD;
+      specific artwork, between elderly subjects without cognitive disorders and subjects with&#xD;
+      neurodegenerative diseases such as Fronto-Temporal Dementia, Alzheimer's Dementia or&#xD;
+      Parkinson's Disease&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2016</start_date>
+  <completion_date type="Actual">December 31, 2019</completion_date>
+  <primary_completion_date type="Actual">December 31, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A monocentric prospective, descriptive, comparative study.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>1. Gaze patterns</measure>
+    <time_frame>baseline</time_frame>
+    <description>Comparison of gaze patterns between the control group and the pathological groups, during standardized exploration of a specific artwork. Evaluation criteria: difference in the number of fixation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2.Gaze Patterns</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Comparison of gaze patterns between the control group and the pathological groups, during standardized exploration of a specific artwork. Evaluation criteria: difference in exploration strategy (chronology) on target areas.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3.Gaze Patterns</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Comparison of gaze patterns between the control group and the pathological groups, during standardized exploration of a specific artwork. Evaluation criteria: difference in time spent on target areas.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Theory of mind during an artwork observation: Score 1</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Subject's estimation of the distance perceived by the character represented on the artwork, at a 1st and a 2nd observation of the painting. Score 1 is the ratio of estimated distances (distance2/distance1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Theory of mind during an artwork observation: Score 2</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Subject's estimation of the time perceived by the character represented on the artwork, at a 1st and a 2nd observation of the painting. Score 2 is the ratio of estimated times (time2 / time1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Theory of mind: TOM-15 a false-belief task to assess cognitive theory of mind</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The task presents 15 stories. The subject must answer the question asked by choosing among two propositions, the correct answer consisting in attributing the correct belief to the character represented. Total score (/ 15).&#xD;
+ToM 15 is used as reference test for correlation study with score1 and score 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Affective ToM (Score 3)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>At observation, 1 and 2, subject must attribute an emotion to the character represented on the artwork, choosing an answer among 6 propositions: 3 negative mental states, 2 neutral and 1 positive.&#xD;
+Score 3 rating : 2 points if a negative emotion is attributed to the 1st and 2nd observation; 1 point if the negative emotion is attributed only to the 2nd observation; 0.5 point if the negative emotion is attributed only to the 1st observation; 0 point if no negative emotion is attributed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Affective ToM : The Reading the Mind in the Eye test - RME - (Baron-Cohen S at al., 2001)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The task consisted of 36 black-and-white photographs of the eye area of faces. Subject is asked to choose which word, among four options, best described what the character in the photograph was thinking or feeling. Total score (/36) and three emotional valence sub-scores: positive (/8), neutral (/16) and negative (/12) according to the procedure described by Harkness et al., 2005.&#xD;
+RME is used as reference test for correlation study with Score 3.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Affective empathy: Score 4.</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Intensity of the emotion felt by the participant following observation of the table, using an EVA scale [0-10].</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Affective empathy: The Empathy Quotient (EQ).</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Self-administered questionnaire of 40 questions. Participant must choose one of the four propositions (&quot;strongly agree&quot;, &quot;tend to agree&quot;, &quot;tend to disagree&quot;, &quot;strongly disagree&quot;) awarding 0, 1 or 2 points. Total Score / 60.&#xD;
+EQ is used as reference test for correlation study with Score 4.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">70</enrollment>
+  <condition>Alzheimer Dementia</condition>
+  <condition>Parkinson Disease</condition>
+  <condition>Fronto-Temporal Dementia</condition>
+  <arm_group>
+    <arm_group_label>Fronto-temporal Dementia</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>10 subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Alzheimer's Dementia</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Parkinson's Disease</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>20 subjects</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Eye-Tracking / Neuropsychological evaluations</intervention_name>
+    <description>Use of Eye-Tracking / Neuropsychological évaluations in 4 groups</description>
+    <arm_group_label>Alzheimer's Dementia</arm_group_label>
+    <arm_group_label>Fronto-temporal Dementia</arm_group_label>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <arm_group_label>Parkinson's Disease</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or Female.&#xD;
+&#xD;
+          -  60 years old and above.&#xD;
+&#xD;
+          -  Sufficient written and oral expression in French.&#xD;
+&#xD;
+          -  Benefit from French or Monaco Social security.&#xD;
+&#xD;
+          -  Written informed consent signed by the patient.&#xD;
+&#xD;
+          -  For the control group: voluntary subjects, without cognitive impairment.&#xD;
+&#xD;
+          -  For the FTD / AD / PD groups: patients diagnosed with one of these diseases, and&#xD;
+             volunteers to participate in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  General anaesthesia within 3 months.&#xD;
+&#xD;
+          -  Ophthalmological problems preventing a video-oculography examination.&#xD;
+&#xD;
+          -  Oculomotor disorders such as &quot;fixation disorders&quot; or &quot;ocular tracking disorders&quot;.&#xD;
+&#xD;
+          -  History of stroke.&#xD;
+&#xD;
+          -  Cognitive disorders of the type: visual agnosia, visuo-spatial disorder,&#xD;
+             visuo-perceptual disorder or aphasia.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Princesse Grace</name>
+      <address>
+        <city>Monaco</city>
+        <zip>98000</zip>
+        <country>Monaco</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Monaco</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>March 8, 2017</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 11, 2020</study_first_posted>
+  <last_update_submitted>March 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Eye-Tracking</keyword>
+  <keyword>Empathy</keyword>
+  <keyword>Social cognition</keyword>
+  <keyword>Theory of Mind</keyword>
+  <keyword>Scanpath</keyword>
+  <keyword>Gaze</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

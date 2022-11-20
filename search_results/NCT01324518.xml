@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="612">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01324518</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3098006</org_study_id>
+    <nct_id>NCT01324518</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of ORM-12741 in Patients With Alzheimer's Disease</brief_title>
+  <acronym>ALPO</acronym>
+  <official_title>Safety and Efficacy of ORM-12741 on Cognitive and Behavioral Symptoms in Patients With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Orion Corporation, Orion Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Orion Corporation, Orion Pharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether ORM-12741 is safe and effective in the&#xD;
+      treatment of Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to determine whether ORM-12741 is safe and effective in the&#xD;
+      treatment of cognitive and behavioral symptoms in patients with Alzheimer's disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 2011</start_date>
+  <completion_date type="Actual">October 2012</completion_date>
+  <primary_completion_date type="Actual">September 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Adverse Events</measure>
+    <time_frame>3 months</time_frame>
+    <description>Adverse events from start of ORM-12741 treatment until end of study visit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of Episodic Memory</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Episodic Memory measures the capability of maintaining information in episodic memory and is assessed as the sum of sensitivity indices from 4 memory tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of Working Memory</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Working Memory measures the capability of maintaining information in working memory and is assessed as the sum of sensitivity indices from 2 memory tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of Memory</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Memory is a combination of outcome measures Quality of Working Memory &amp; Quality of Episodic Memory. Values are calculated by a computer and higher scores mean better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Speed of Memory</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Speed of Memory is assessed as the sum of speed measures from 2 memory tasks and 2 recognition tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Power of Attention</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Power of attention measures speed and attention and is assessed from 3 attentional tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Continuity of Attention</measure>
+    <time_frame>3 months</time_frame>
+    <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Continuity of attention measures speed and accuracy and is calculated from 3 attentional tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>NPI Total Score</measure>
+    <time_frame>3 months</time_frame>
+    <description>The total score of Neuropsychiatric Inventory (NPI) was assessed by a caregiver interview. 10 behavioral areas were included: Delusions, Hallucinations, Agitation/Aggression, Depression/Dysphoria, Anxiety, Elation/Euphoria, Apathy/Indifference, Disinhibition, Irritability/Lability, and Aberrant Motor Behaviour. Higher scores mean worse outcome. Minimum value 0, maximum value 120.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver Distress Score</measure>
+    <time_frame>3 months</time_frame>
+    <description>Caregiver distress score generated by adding together the scores of individual NPI distress questions of Neuropsychiatric Inventory NPI. Higher scores mean worse outcome. Minimum value 0, maximum value 120.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of ORM-12741</measure>
+    <time_frame>3 months</time_frame>
+    <description>ORM-12741 plasma trough concentrations at week 12.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">100</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Low dose of ORM-12741</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose of ORM-12741</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ORM-12741</intervention_name>
+    <description>60mg twice a day</description>
+    <arm_group_label>Low dose of ORM-12741</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ORM-12741</intervention_name>
+    <description>200mg twice a day</description>
+    <arm_group_label>High dose of ORM-12741</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo for ORM-12741</intervention_name>
+    <description>Placebo twice a day</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Informed consent obtained from the patient and legally acceptable representative, if&#xD;
+             required&#xD;
+&#xD;
+          -  Informed consent obtained from the caregiver&#xD;
+&#xD;
+          -  Males and and females between 55-90 years&#xD;
+&#xD;
+          -  Diagnosis of probable Alzheimer's disease, history of progressive cognitive&#xD;
+             deterioration&#xD;
+&#xD;
+          -  Brain imaging consistent with Alzheimer's disease&#xD;
+&#xD;
+          -  Mini-mental state examination score 12-21&#xD;
+&#xD;
+          -  Treated with donepezil, rivastigmine or galantamine&#xD;
+&#xD;
+          -  At least mild level of behavioral symptoms&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other types of dementias&#xD;
+&#xD;
+          -  Modified Hachinski Ischemia Score &gt; 4&#xD;
+&#xD;
+          -  Use of memantine, antipsychotics, anticholinergic medication and benzodiazepines (at a&#xD;
+             max of 3 nights/week) within 2 months&#xD;
+&#xD;
+          -  Changes in antidepressant dosing within 2 months&#xD;
+&#xD;
+          -  Use of other psychotropic agents&#xD;
+&#xD;
+          -  Myocardial infarction within the past 2 years&#xD;
+&#xD;
+          -  Malignancy within the past 5 years&#xD;
+&#xD;
+          -  Suicidal ideation, risk of suicide&#xD;
+&#xD;
+          -  History of alcoholism or drug abuse within 5 years&#xD;
+&#xD;
+          -  Clinically significant cardiovascular, pulmonary, gastrointestinal, hepatic, renal,&#xD;
+             neurological or psychiatric disorder or any other major concurrent illness&#xD;
+&#xD;
+          -  Specific findings in brain imaging&#xD;
+&#xD;
+          -  Abnormal findings in heart rate, blood pressure, ECG, laboratory tests, physical&#xD;
+             examination; orthostatic hypotension&#xD;
+&#xD;
+          -  Blood donation or participation in a drug study within 60 days&#xD;
+&#xD;
+          -  Previous AD immunotherapy treatment&#xD;
+&#xD;
+          -  Patient cannot complete the computerised cognitive training&#xD;
+&#xD;
+          -  Patients who reside in a skilled nursing facility&#xD;
+&#xD;
+          -  Patients who are not able to swallow capsules&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Juha Rinne, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinical Research services Turku (CRST)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Clinical Research Services Turku (CRST)</name>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+  </location_countries>
+  <link>
+    <url>https://www.orion.fi/globalassets/documents/rd/congress-posters/aan-poster-orm-12741-march-2013.pdf</url>
+    <description>A poster of the study results</description>
+  </link>
+  <link>
+    <url>https://www.aan.com/PressRoom/Home/GetDigitalAsset/10708</url>
+    <description>AAN 65th ANNUAL MEETING ABSTRACT</description>
+  </link>
+  <link>
+    <url>http://www.sciencedirect.com/science/article/pii/S2352873716300452</url>
+    <description>An article of the study results</description>
+  </link>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 24, 2011</study_first_submitted>
+  <study_first_submitted_qc>March 25, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 29, 2011</study_first_posted>
+  <results_first_submitted>March 27, 2018</results_first_submitted>
+  <results_first_submitted_qc>April 1, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 28, 2021</results_first_posted>
+  <last_update_submitted>April 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This study was conducted in 4 countries (18 centres): Finland, Poland, Romania and Spain. Of these, 1 centre screened but did not randomise any subjects. Study period was 27 Apr 2011-21 Sep 2012 (first subject first visit to last subject last visit).</recruitment_details>
+      <pre_assignment_details>A total of 132 subjects were screened and 100 were randomized to 3 treatment groups. 30 patients were excluded prior randomization due to inclusion/exclusion criteria, 2 due to personal reasons.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Low Dose of ORM-12741</title>
+          <description>ORM-12741: 60mg twice a day</description>
+        </group>
+        <group group_id="P2">
+          <title>High Dose of ORM-12741</title>
+          <description>ORM-12741: 200mg twice a day</description>
+        </group>
+        <group group_id="P3">
+          <title>Placebo</title>
+          <description>Placebo for ORM-12741: Placebo twice a day</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="33"/>
+                <participants group_id="P2" count="33"/>
+                <participants group_id="P3" count="34"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="28"/>
+                <participants group_id="P2" count="30"/>
+                <participants group_id="P3" count="33"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Low Dose of ORM-12741</title>
+          <description>ORM-12741: 60mg twice a day</description>
+        </group>
+        <group group_id="B2">
+          <title>High Dose of ORM-12741</title>
+          <description>ORM-12741: 200mg twice a day</description>
+        </group>
+        <group group_id="B3">
+          <title>Placebo</title>
+          <description>Placebo for ORM-12741: Placebo twice a day</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="33"/>
+            <count group_id="B2" value="33"/>
+            <count group_id="B3" value="34"/>
+            <count group_id="B4" value="100"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71.8" spread="8.2"/>
+                    <measurement group_id="B2" value="71.8" spread="6.8"/>
+                    <measurement group_id="B3" value="72.3" spread="8.5"/>
+                    <measurement group_id="B4" value="72.0" spread="7.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="17"/>
+                    <measurement group_id="B4" value="59"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="17"/>
+                    <measurement group_id="B4" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Adverse Events</title>
+        <description>Adverse events from start of ORM-12741 treatment until end of study visit.</description>
+        <time_frame>3 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Adverse Events</title>
+          <description>Adverse events from start of ORM-12741 treatment until end of study visit.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+                <count group_id="O2" value="33"/>
+                <count group_id="O3" value="34"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                    <measurement group_id="O2" value="21"/>
+                    <measurement group_id="O3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Quality of Episodic Memory</title>
+        <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Episodic Memory measures the capability of maintaining information in episodic memory and is assessed as the sum of sensitivity indices from 4 memory tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Quality of Episodic Memory</title>
+          <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Episodic Memory measures the capability of maintaining information in episodic memory and is assessed as the sum of sensitivity indices from 4 memory tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+          <population>per protocol population</population>
+          <units>Index score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.7" spread="92.2"/>
+                    <measurement group_id="O2" value="85.0" spread="59.6"/>
+                    <measurement group_id="O3" value="46.3" spread="62.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Quality of Working Memory</title>
+        <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Working Memory measures the capability of maintaining information in working memory and is assessed as the sum of sensitivity indices from 2 memory tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Quality of Working Memory</title>
+          <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Working Memory measures the capability of maintaining information in working memory and is assessed as the sum of sensitivity indices from 2 memory tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+          <population>per protocol population</population>
+          <units>Index score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.20" spread="0.53"/>
+                    <measurement group_id="O2" value="1.18" spread="0.47"/>
+                    <measurement group_id="O3" value="0.82" spread="0.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Quality of Memory</title>
+        <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Memory is a combination of outcome measures Quality of Working Memory &amp; Quality of Episodic Memory. Values are calculated by a computer and higher scores mean better outcome.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Quality of Memory</title>
+          <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Quality of Memory is a combination of outcome measures Quality of Working Memory &amp; Quality of Episodic Memory. Values are calculated by a computer and higher scores mean better outcome.</description>
+          <population>per protocol population</population>
+          <units>Index score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="216.53" spread="133.15"/>
+                    <measurement group_id="O2" value="196.37" spread="93.72"/>
+                    <measurement group_id="O3" value="117.15" spread="104.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Speed of Memory</title>
+        <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Speed of Memory is assessed as the sum of speed measures from 2 memory tasks and 2 recognition tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Speed of Memory</title>
+          <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Speed of Memory is assessed as the sum of speed measures from 2 memory tasks and 2 recognition tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+          <population>per protocol population</population>
+          <units>msec</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8287.8" spread="3898.2"/>
+                    <measurement group_id="O2" value="8930.30" spread="5379.5"/>
+                    <measurement group_id="O3" value="8082.2" spread="4064.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Power of Attention</title>
+        <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Power of attention measures speed and attention and is assessed from 3 attentional tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Power of Attention</title>
+          <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Power of attention measures speed and attention and is assessed from 3 attentional tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+          <population>per protocol population</population>
+          <units>msec</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1940.3" spread="533.3"/>
+                    <measurement group_id="O2" value="1978.0" spread="1040.4"/>
+                    <measurement group_id="O3" value="2077.9" spread="995.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Continuity of Attention</title>
+        <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Continuity of attention measures speed and accuracy and is calculated from 3 attentional tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Continuity of Attention</title>
+          <description>The Cognitive Drug Research (CDR) computerised battery tests is designed to evaluate the effects of novel compounds on the quality of cognitive functioning. Continuity of attention measures speed and accuracy and is calculated from 3 attentional tasks on the CDR computerised battery tests. Values are calculated by a computer and higher scores mean better outcome.</description>
+          <population>per protocol population</population>
+          <units>Index score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="85.7" spread="11.0"/>
+                    <measurement group_id="O2" value="84.8" spread="15.3"/>
+                    <measurement group_id="O3" value="79.7" spread="21.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>NPI Total Score</title>
+        <description>The total score of Neuropsychiatric Inventory (NPI) was assessed by a caregiver interview. 10 behavioral areas were included: Delusions, Hallucinations, Agitation/Aggression, Depression/Dysphoria, Anxiety, Elation/Euphoria, Apathy/Indifference, Disinhibition, Irritability/Lability, and Aberrant Motor Behaviour. Higher scores mean worse outcome. Minimum value 0, maximum value 120.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>NPI Total Score</title>
+          <description>The total score of Neuropsychiatric Inventory (NPI) was assessed by a caregiver interview. 10 behavioral areas were included: Delusions, Hallucinations, Agitation/Aggression, Depression/Dysphoria, Anxiety, Elation/Euphoria, Apathy/Indifference, Disinhibition, Irritability/Lability, and Aberrant Motor Behaviour. Higher scores mean worse outcome. Minimum value 0, maximum value 120.</description>
+          <population>per protocol population</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14.7" spread="9.1"/>
+                    <measurement group_id="O2" value="13.7" spread="8.9"/>
+                    <measurement group_id="O3" value="20.2" spread="19.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Caregiver Distress Score</title>
+        <description>Caregiver distress score generated by adding together the scores of individual NPI distress questions of Neuropsychiatric Inventory NPI. Higher scores mean worse outcome. Minimum value 0, maximum value 120.</description>
+        <time_frame>3 months</time_frame>
+        <population>per protocol population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Caregiver Distress Score</title>
+          <description>Caregiver distress score generated by adding together the scores of individual NPI distress questions of Neuropsychiatric Inventory NPI. Higher scores mean worse outcome. Minimum value 0, maximum value 120.</description>
+          <population>per protocol population</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="25"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.2" spread="6.0"/>
+                    <measurement group_id="O2" value="8.0" spread="4.3"/>
+                    <measurement group_id="O3" value="11.0" spread="10.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pharmacokinetics of ORM-12741</title>
+        <description>ORM-12741 plasma trough concentrations at week 12.</description>
+        <time_frame>3 months</time_frame>
+        <population>M-ITT population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Low Dose of ORM-12741</title>
+            <description>ORM-12741: 60mg twice a day</description>
+          </group>
+          <group group_id="O2">
+            <title>High Dose of ORM-12741</title>
+            <description>ORM-12741: 200mg twice a day</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Placebo for ORM-12741: Placebo twice a day</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pharmacokinetics of ORM-12741</title>
+          <description>ORM-12741 plasma trough concentrations at week 12.</description>
+          <population>M-ITT population</population>
+          <units>ng/ml</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="29"/>
+                <count group_id="O2" value="31"/>
+                <count group_id="O3" value="32"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18.4" spread="13.9"/>
+                    <measurement group_id="O2" value="61.0" spread="45.9"/>
+                    <measurement group_id="O3" value="0" spread="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>3 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Low Dose of ORM-12741</title>
+          <description>ORM-12741: 60mg twice a day</description>
+        </group>
+        <group group_id="E2">
+          <title>High Dose of ORM-12741</title>
+          <description>ORM-12741: 200mg twice a day</description>
+        </group>
+        <group group_id="E3">
+          <title>Placebo</title>
+          <description>Placebo for ORM-12741: Placebo twice a day</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholestasis</sub_title>
+                <description>Cholestatic syndrome</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="33"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="33"/>
+                <counts group_id="E3" subjects_affected="16" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E3" events="3" subjects_affected="2" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E3" events="5" subjects_affected="3" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="6" subjects_affected="4" subjects_at_risk="33"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="33"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="33"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="33"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="2" subjects_at_risk="33"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="33"/>
+                <counts group_id="E3" events="8" subjects_affected="4" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Clinical Study Director</name_or_title>
+      <organization>Orion Global Clinical Operations</organization>
+      <email>jutta.hanninen@orionpharma.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

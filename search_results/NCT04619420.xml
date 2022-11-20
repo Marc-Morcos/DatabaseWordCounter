@@ -1,0 +1,1952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1333">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04619420</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CR108832</org_study_id>
+    <secondary_id>2020-000116-30</secondary_id>
+    <secondary_id>63733657ALZ2002</secondary_id>
+    <nct_id>NCT04619420</nct_id>
+  </id_info>
+  <brief_title>A Study of JNJ-63733657 in Participants With Early Alzheimer's Disease</brief_title>
+  <acronym>Autonomy</acronym>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Parallel-group, Multicenter Study to Assess the Efficacy and Safety of JNJ-63733657, an Anti-tau Monoclonal Antibody, in Participants With Early Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Janssen Research &amp; Development, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Janssen Research &amp; Development, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of this study is to evaluate the effect of JNJ-63733657 versus placebo on&#xD;
+      clinical decline as measured by the Integrated Alzheimer's Disease Rating Scale (iADRS), a&#xD;
+      composite of cognition and function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease (AD) is a fatal neurodegenerative disease that is manifested by&#xD;
+      progressive cognitive deficits including memory loss followed by loss of independent function&#xD;
+      as well as neuropsychiatric symptoms such as apathy, depression, anxiety, agitation and&#xD;
+      psychosis. JNJ-63733657 is a humanized monoclonal anti-tau antibody which binds to&#xD;
+      phosphorylated tau (P-tau). The study will evaluate whether JNJ-63733657 can slow clinical&#xD;
+      (cognitive and functional) decline in participants with Early AD with evidence of elevated&#xD;
+      brain tau (T+) and assess its safety and tolerability. The study consists of: screening&#xD;
+      period (13 weeks), double-blind treatment period (up to 232 weeks), and a follow-up period&#xD;
+      (13 weeks). Safety and tolerability assessments will include adverse events (AEs), vital&#xD;
+      signs, electrocardiogram (ECG), early discontinuations, physical and neurological&#xD;
+      examinations, safety laboratory evaluations, suicidality risks (Columbia Suicide Severity&#xD;
+      Rating Scale [CSSRS]) and brain MRI will be performed during the study. The maximum treatment&#xD;
+      duration is up to 232 weeks (4.5 years).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 6, 2021</start_date>
+  <completion_date type="Anticipated">November 5, 2025</completion_date>
+  <primary_completion_date type="Anticipated">March 7, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Integrated Alzheimer's Disease Rating Scale (iADRS)</measure>
+    <time_frame>Baseline up to 4.5 years (End of treatment)</time_frame>
+    <description>The linear combination of the ADAS Cog13 and ADCS ADL MCI that serves as a composite of cognition and function (overall clinical status) of the participant and score range from 0 to 134 with lower scores indicating worse performance. The iADRS will be a combination of ADAS Cog13 (score 0 to 85, higher scores indicate worse cognitive performance) and ADCS-ADL MCI (excluding item 3 for dressing, yielding a score 0 to 49, lower scores indicate worse daily function).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Alzheimer's Disease Assessment Scale Cognitive subscale 13-item version (ADAS-Cog 13) Total Score</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>ADAS-Cog11 consists of 11 tasks measuring the disturbances of memory, language, praxis, attention, and other cognitive abilities. The modified ADAS-Cog 13 item scale includes all original ADAS-Cog items with the addition of a number cancellation task and a delayed free recall task, for a maximum total score of 85 points, with higher scores indicative of worse cognitive performance. Thus, a negative change from baseline represents improvement in cognition. Items are recorded on an electronic device which will provide the ADAS-Cog 13 total score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Alzheimer's Disease Cooperative Study Activities of Daily Living for Mild Cognitive Impairment (ADCS-ADL MCI)</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>ADCS-ADL MCI is a functional measure based on information provided by the study partner (informant) that describes the performance of participants in several ADLs. It assesses 17 instrumental activities of daily living (higher level daily functions) and one basic daily function (dressing). Total score ranges from 0 to 53 with higher scores indicating less impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) Total Scale Index Score</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>The RBANS includes 12 subtests that are divided into 5 RBANS indices: 1-Immediate memory (List learning and story memory); 2-Visuospatial/constructional (figure copy and line orientation); 3-Language (picture naming and semantic fluency); 4-Attention (digit span and coding); 5-Delayed memory (list recall, list recognition, story memory, and figure recall) will be reported. Index scores are expressed as an age-adjusted standard score with a normal mean of 100 and an SD of 15. The sum of Index Scores is the sum of the 5 index scores, and the Sum of Index Scores is converted to an RBANS Total Scale Index Score via a mapping table. RBANS Total Scale Index Score is a norm-based t-score, based on a distribution with a mean of 100 and standard deviation (SD) of 15. Higher scores on each sub measure and index indicate better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in RBANS Indices</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>Change from baseline in RBANS indices will be assessed. The RBANS includes 12 subtests that are divided into 5 RBANS indices: 1-Immediate memory (List learning and story memory); 2-Visuospatial/constructional (figure copy and line orientation); 3-Language (picture naming and semantic fluency); 4-Attention (digit span and coding); 5-Delayed memory (list recall, list recognition, story memory, and figure recall) will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Clinical Dementia Rating- Sum of Boxes (CDR-SB)</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>CDR is a global clinical staging instrument that includes 3 cognitive and 3 functional ratings, including: memory, orientation, judgment and problem solving, involvement in community affairs, home and hobbies, and personal care based on the CDR interview. The CDR is scored 2 ways yielding a global CDR score (CDR GS, derived from an algorithm including categorical scoring of 0, 0.5, 1, 2, and 3), as well as CDR-Sum of Boxes (CDR-SB, the continuous sum of 6 domains, up to a total score of 18, with higher scores representing worse disease state). The Sum of boxes and global score is calculated from the overall CDR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>The NPI is a measure of psychobehavioral disturbances, assessing the frequency and severity of disturbances in 12 domains. Frequency for each domain is rated on a 4 point scale (from 1=rarely to 4=very often) and severity on a 3 point scale (from 1=mild to 3=severe), with the score for each domain being the product of the frequency and severity scores, such that each domain is scored from 1 to 12. The NPI total score is the sum of the 12 domain scores, ranging from 0 (best) to 144 (worst).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Progressing From Clinical Dementia Rating- Global Score (CDR-GS) 0 to 0.5 or Higher, 0.5 to 1 or Higher, 1 to 2 or Higher, from Baseline to Post-baseline</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>The CDR is a subjectively rated outcome measure that serves as a global clinical staging instrument that includes 3 cognitive and 3 functional ratings, including: 1) memory, 2) orientation, 3) judgment and problem solving, 4) involvement in community affairs, 5) home and hobbies, and 6) personal care based on the CDR interview. The CDR is scored 2 ways yielding a global CDR score (CDR GS, derived from an algorithm developed by the Knight Alzheimer Disease Research Center at Washington University School of Medicine in St. Louis, Missouri, US, and including categorical scoring of 0= cognitively unimpaired, 0.5= mild cognitive impairment, 1= mild dementia, 2= moderate dementia, and 3= severe dementia), as well as CDR-Sum of Boxes (CDR-SB, the continuous sum of 6 domains, up to a total score of 18, with higher scores representing worse disease state).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Brain tau Burden as Measured by tau PET</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>Change from baseline in brain tau burden, as measured by tau positron emission tomography (PET) will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Cerebrospinal Fluid (CSF) concentrations of Total, Free, and Bound p217+tau Fragments</measure>
+    <time_frame>Baseline and up to 4.5 years (End of treatment)</time_frame>
+    <description>Change from baseline in CSF concentrations of total, free, and bound p217+tau (phosphorylated tau) fragments will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF Concentrations of JNJ-63733657</measure>
+    <time_frame>At Weeks 52, 104, 208 (End of Treatment)</time_frame>
+    <description>CSF concentrations of JNJ-63733657 will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Concentrations of JNJ-63733657</measure>
+    <time_frame>At Weeks 4, 8, 12, 16, 20, 24, 36, 52, 76, 104, 128, 156, 180, 208, 232 (End of treatment)</time_frame>
+    <description>Serum concentrations of JNJ-63733657 will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-Drug Antibody to JNJ-63733657</measure>
+    <time_frame>Up to 245 Weeks (90 days [+-7 days] after last dose of study intervention)</time_frame>
+    <description>Anti-drug antibody to JNJ-63733657 will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Adverse Events (AEs) as a Measure of Safety and Tolerability</measure>
+    <time_frame>Up to 245 Weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant administered a medicinal (investigational or non investigational) product. An AE does not necessarily have a causal relationship with the intervention. An AE can therefore be any unfavorable and unintended sign (including an abnormal finding), symptom, or disease temporally associated with the use of a medicinal product, whether or not related to that medicinal product.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Serious Adverse Events (SAEs) as a Measure of Safety and Tolerability</measure>
+    <time_frame>Up to 245 Weeks</time_frame>
+    <description>An SAE is any untoward medical occurrence that at any dose results in death, is life-threatening, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, is a congenital anomaly/birth defect, is a suspected transmission of any infectious agent via a medicinal product.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Electrocardiogram (ECG) Abnormalities</measure>
+    <time_frame>Up to 245 Weeks</time_frame>
+    <description>Number of participants with ECG abnormalities will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Clinical Laboratory Abnormalities</measure>
+    <time_frame>Baseline and up to 245 Weeks</time_frame>
+    <description>Number of participants with clinical laboratory (hematology, clinical chemistry, and urinalysis) abnormalities will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with Physical and Neurological Examination Abnormalities</measure>
+    <time_frame>Up to 245 Weeks</time_frame>
+    <description>Number of participants with physical (body weight, height) and neurological (evaluation of mental status, cranial nerves, motor ability [including strength, tone, and involuntary movements], coordination [including finger-to-nose, gait, and postural reflexes], and sensation [including proprioception, cold, light touch, and deep tendon reflexes]) examination abnormalities will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Vital Sign Abnormalities</measure>
+    <time_frame>Up to 245 Weeks</time_frame>
+    <description>Percentage of participants with vital sign abnormalities (temperature, pulse rate, systolic blood pressure [BP], diastolic BP) will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes From Baseline in Brain Magnetic Resonance Imaging (MRI) Safety Findings</measure>
+    <time_frame>Baseline and Up to 4.5 years (End of treatment)</time_frame>
+    <description>Changes from baseline in brain MRI safety findings (brain tumors, aneurysm or atrioventricular malformations, territorial stroke (excluding smaller watershed strokes), recent hemorrhage (parenchymal or subdural), or obstructive hydrocephalus) will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Columbia Suicide Severity Rating Scale (C-SSRS) score</measure>
+    <time_frame>Baseline and Up to 245 Weeks</time_frame>
+    <description>C-SSRS is semi structured clinician-administered questionnaire designed to solicit the occurrence, severity, and frequency of suicide-related ideation and behaviors . Total score ranges from 1 to 10, a score of 0 will be assigned (0=&quot;no event that can be assessed on the basis of C-SSRS&quot;). Higher scores indicate greater severity. The maximum score assigned for each participant will also be summarized into one of three broad categories: no suicidal ideation or behavior (0), suicidal ideation (1 to 5), suicidal behavior (6 to 10).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">420</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>JNJ-63733657</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive single dose of JNJ-63733657 low dose or high dose administered by intravenous (IV) infusion every 4 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive single dose of matching placebo to JNJ-63733657 administered by IV infusion every 4 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>JNJ-63733657</intervention_name>
+    <description>JNJ-63733657 low or high dose will be administered by IV infusion.</description>
+    <arm_group_label>JNJ-63733657</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo matching to JNJ-63733657 will be administered by IV infusion.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Early Alzheimer's disease (AD): Gradual and progressive subjective decline in the&#xD;
+             participant's cognition over at least the past 6 months, as reported by the&#xD;
+             participant and informant (study partner) and Clinical Dementia Rating-Global Score&#xD;
+             (CDR-GS) of 0.5 and memory box score greater than or equal to (&gt;=) 0.5 at screening&#xD;
+&#xD;
+          -  Participants must have positive tau PET results&#xD;
+&#xD;
+          -  Able to read and write and with a minimum 5 years of formal education as reported by&#xD;
+             participant and study partner at screening&#xD;
+&#xD;
+          -  Have a designated study partner who has adequate literacy to participate and be judged&#xD;
+             to have high likelihood of completing the study with the participant&#xD;
+&#xD;
+          -  Male participants must agree not to donate sperm for the purpose of reproduction&#xD;
+             during the study and up to 16 weeks after receiving the last dose of study&#xD;
+             intervention&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with CDR GS &gt;=2 at predose baseline Clinical Dementia Rating (CDR)&#xD;
+             administration&#xD;
+&#xD;
+          -  Participants who fulfill diagnostic criteria for Mild Cognitive Impairment (MCI) or&#xD;
+             dementia/mild or major neurocognitive disorder suspected to be due to any etiology&#xD;
+             other than AD (example, parkinson's disease, cerebrovascular disease, normal pressure&#xD;
+             hydrocephalus, head injury, drug or alcohol abuse/dependence, anoxic brain injury, (Et&#xD;
+             cetera[etc])&#xD;
+&#xD;
+          -  Geriatric Depression Scale (GDS) 30 score greater than (&gt;) 12&#xD;
+&#xD;
+          -  Hachinski Ischemic Scale (HIS) &gt;4&#xD;
+&#xD;
+          -  Has received medications that affect the central nervous system (CNS), except&#xD;
+             treatments for AD, for less than 2 months; that is, doses of chronic medications that&#xD;
+             effect the CNS should be stable for at least 2 months before the start of screening.&#xD;
+             If a participant has recently stopped a chronic medication that effects the CNS, he or&#xD;
+             she must have discontinued treatment at least 2 months before the start of screening.&#xD;
+             Chronic use of benzodiazepines is not permitted&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Janssen Research &amp; Development, LLC Clinical Trial</last_name>
+    <role>Study Director</role>
+    <affiliation>Janssen Research &amp; Development, LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Contact</last_name>
+    <phone>844-434-4210</phone>
+    <email>Participate-In-This-Study@its.jnj.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dignity Health</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Sun Health Research Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arizona - Behavioral Neuroscience and Alzheimer's Clinic</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Irvine Clinical Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Diego Medical Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmacology Research Institute</name>
+      <address>
+        <city>Los Alamitos</city>
+        <state>California</state>
+        <zip>90720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of California - Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Medical Center</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network Prn</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Syrentis Clinical Research</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University School Of Medicine</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research, LLC</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropsychiatric Research Center of SWFL</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical NeuroScience Solutions, Inc</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alphab Global Research</name>
+      <address>
+        <city>Jupiter</city>
+        <state>Florida</state>
+        <zip>33458</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud Clinical Research</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Merritt Island Medical Research, LLC</name>
+      <address>
+        <city>Merritt Island</city>
+        <state>Florida</state>
+        <zip>32952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Miller School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Jewish Health System</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Collier Neurologic Specialists LLC</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sensible Healthcare</name>
+      <address>
+        <city>Ocoee</city>
+        <state>Florida</state>
+        <zip>34761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>K2 Medical Research</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Axiom Clinical Research of Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Stedman Clinical Trials</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Florida - Health Byrd Alzheimer Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud Clinical Research</name>
+      <address>
+        <city>Viera</city>
+        <state>Florida</state>
+        <zip>32904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimers Research and Treatment Center</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <zip>33414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Neurology and Premier Research Institute</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Conquest Research</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Emory Clinic</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sandhill Research</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alexian Brothers Medical Center - Neuroscience Research Institute</name>
+      <address>
+        <city>Elk Grove Village</city>
+        <state>Illinois</state>
+        <zip>60007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Consultants In Neurology LTD</name>
+      <address>
+        <city>Northbrook</city>
+        <state>Illinois</state>
+        <zip>60062</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Anil Nair dba Alzheimer's Disease Center</name>
+      <address>
+        <city>Braintree</city>
+        <state>Massachusetts</state>
+        <zip>02184</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hattiesburg Clinic</name>
+      <address>
+        <city>Hattiesburg</city>
+        <state>Mississippi</state>
+        <zip>39401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NeuroCognitive Institute</name>
+      <address>
+        <city>Mount Arlington</city>
+        <state>New Jersey</state>
+        <zip>07856</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princeton Medical Institute</name>
+      <address>
+        <city>Princeton</city>
+        <state>New Jersey</state>
+        <zip>08540</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Memory Research Institute of NJ</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Medical College</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Associates of Albany, PC</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research</name>
+      <address>
+        <city>East Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>New York University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Raleigh Neurology Associates</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Lou Revo Center for Brain Health</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wexner Medical Center at the Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Keystone Clinical Studies, LLC</name>
+      <address>
+        <city>Plymouth Meeting</city>
+        <state>Pennsylvania</state>
+        <zip>19462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Neurological Associates Ltd</name>
+      <address>
+        <city>Willow Grove</city>
+        <state>Pennsylvania</state>
+        <zip>19090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Mood &amp; Memory Research Institute</name>
+      <address>
+        <city>East Providence</city>
+        <state>Rhode Island</state>
+        <zip>02914</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brown University School of Medicine</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical NeuroScience Solutions, Inc</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UT Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memory Clinic Inc</name>
+      <address>
+        <city>Bennington</city>
+        <state>Vermont</state>
+        <zip>05201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Box Hill Hospital</name>
+      <address>
+        <city>Box Hill</city>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health</name>
+      <address>
+        <city>Ivanhoe</city>
+        <zip>3079</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HammondCare Neurodegenerative Clinical Trials - VIC</name>
+      <address>
+        <city>Malvern</city>
+        <zip>3144</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Health</name>
+      <address>
+        <city>Melbourne</city>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Australian Alzheimer's Research Foundation Incorporated</name>
+      <address>
+        <city>Nedlands</city>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro Trials Victoria</name>
+      <address>
+        <city>Noble Park</city>
+        <zip>3174</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Melbourne Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AZ St.-Jan Brugge-Oostende AV</name>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UCL Hopital Saint-Luc</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Antwerpen</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Gent</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jessa Ziekenhuis</name>
+      <address>
+        <city>Hasselt</city>
+        <zip>3500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Brussel</name>
+      <address>
+        <city>Jette</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GIGA Centre de Recherches du Cyclotron, Université de Liège</name>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Algemeen Ziekenhuis Delta</name>
+      <address>
+        <city>Roeselare</city>
+        <zip>8800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JBN Medical Diagnostics Services, Inc.</name>
+      <address>
+        <city>Burlington</city>
+        <state>Ontario</state>
+        <zip>L7M 4Y1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Parkwood Institute</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N65J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kawartha Centre - Redefining Healthy Aging</name>
+      <address>
+        <city>Peterborough</city>
+        <state>Ontario</state>
+        <zip>K9H 2P4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UHN-Toronto Western Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5T 2S8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Memory Program (Neurology Research Inc.)</name>
+      <address>
+        <city>Toronto</city>
+        <zip>M3B 257</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Pellegrin CHU Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Roger Salengro - CHU Lille</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes - Hopital Nord Laënnec</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Lariboisiere-Fernand Widal</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Pitie Salpetriere</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Rennes - Hopital Pontchaillou</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35009</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Charles Nicolle</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Toulouse - Hôpital La Grave</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Bretonneau</name>
+      <address>
+        <city>Tours</city>
+        <zip>37000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Takeda General Hospital</name>
+      <address>
+        <city>Aizuwakamatsu</city>
+        <zip>965-8585</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Inage Neurology and Memory Clinic</name>
+      <address>
+        <city>Chiba-shi</city>
+        <zip>263-0043</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kawashima Neurology Clinic</name>
+      <address>
+        <city>Fujisawa-shi</city>
+        <zip>251-0038</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fukuoka University Hospital</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>814-0180</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Keikokai P-One Clinic</name>
+      <address>
+        <city>Hachioji</city>
+        <zip>192-0071</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Himeji Central Hospital Clinic</name>
+      <address>
+        <city>Himeji-city, Hyogo</city>
+        <zip>672-8043</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shonan Kamakura General Hospital</name>
+      <address>
+        <city>Kamakura-shi</city>
+        <zip>247-8533</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Hizen Psychiatric Center</name>
+      <address>
+        <city>Kanzaki-gun</city>
+        <zip>842-0192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Koukankai Koukan Clinic</name>
+      <address>
+        <city>Kawasaki-shi</city>
+        <zip>210-0852</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kobe City Medical Center General Hospital</name>
+      <address>
+        <city>Kobe-shi</city>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rijikai Medical Corporation Katayama Medical Clinic</name>
+      <address>
+        <city>Kurashiki-shi</city>
+        <zip>7100813</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kurume University Hospital</name>
+      <address>
+        <city>Kurume</city>
+        <zip>830-0011</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rakuwakai Otowa Rehabilitation Hospital</name>
+      <address>
+        <city>Kyoto-shi</city>
+        <zip>607-8113</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rakuwakai Otowa Hospital</name>
+      <address>
+        <city>Kyoto</city>
+        <zip>607-8062</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saiseikai Narashino Hospital</name>
+      <address>
+        <city>Narashino</city>
+        <zip>275-0006</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Center For Geriatrics And Gerontology</name>
+      <address>
+        <city>Obu-shi</city>
+        <zip>474-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Hospital Tokyo</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <zip>162-0053</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Shizuoka City Shimizu Hospital</name>
+      <address>
+        <city>Shizuoka-shi</city>
+        <zip>424-8636</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Medical University Hospital</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>160-0023</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tokyo Metropolitan Geriatric Hospital</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>173-0015</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jinsenkai MI Clinic</name>
+      <address>
+        <city>Toyonaka-shi</city>
+        <zip>560-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nagomi Clinic</name>
+      <address>
+        <city>Toyonaka-shi</city>
+        <zip>560-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yokohama Brain and Spine Center</name>
+      <address>
+        <city>Yokohama-shi</city>
+        <zip>235-0012</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRC - Amsterdam</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1081 GN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRC - Den Bosch</name>
+      <address>
+        <city>Den Bosch</city>
+        <zip>5223 LA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>QPS Netherlands</name>
+      <address>
+        <city>Leeuwarden</city>
+        <zip>8934AD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus MC</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3015GD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRC - Zwolle</name>
+      <address>
+        <city>Zwolle</city>
+        <zip>8052 AZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CAE Oroitu</name>
+      <address>
+        <city>Algorta - Getxo</city>
+        <zip>48993</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacio ACE</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. de La Santa Creu I Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Idc Salud Hosp. Gral. de Catalunya</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08195</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fund. Pasqual Maragall</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8005</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. Santa Maria</name>
+      <address>
+        <city>Lleida</city>
+        <zip>25198</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Clinico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Mutua Terrassa</name>
+      <address>
+        <city>Terrassa</city>
+        <zip>08221</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hosp. Univ. I Politecni La Fe</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Länssjukhuset Ryhov</name>
+      <address>
+        <city>Jönköping</city>
+        <zip>55185</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Karolinska Universitetssjukhuset</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>14186</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal United Hospital</name>
+      <address>
+        <city>Bath</city>
+        <zip>BA1 3NG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fulbourne Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB21 5EF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charing Cross Hospital</name>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The National Hospital for Neurology and Neurosurgery Centre</name>
+      <address>
+        <city>London</city>
+        <zip>WC1N 3BG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Japan</country>
+    <country>Netherlands</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>November 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 6, 2020</study_first_posted>
+  <last_update_submitted>November 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Estimate">November 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data sharing policy of the Janssen Pharmaceutical Companies of Johnson &amp; Johnson is available at www.janssen.com/clinical-trials/transparency. As noted on this site, requests for access to the study data can be submitted through Yale Open Data Access (YODA) Project site at yoda.yale.edu</ipd_description>
+    <ipd_url>https://www.janssen.com/clinical-trials/transparency</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="539">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05267535</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NEUP11-7</org_study_id>
+    <nct_id>NCT05267535</nct_id>
+  </id_info>
+  <brief_title>Piromelatine 20 mg in Participants With Mild Dementia Due to Alzheimer's Disease</brief_title>
+  <official_title>Randomized, Delayed Start, Double Blind, Parallel Group, Placebo Controlled, Multicenter Study of Piromelatine 20 mg in Participants With Mild Dementia Due to Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Neurim Pharmaceuticals Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Syneos Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Neurim Pharmaceuticals Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized efficacy and safety study of piromelatine 20 mg versus placebo in participants&#xD;
+      with mild dementia due to Alzheimer's disease (AD) who are 2:107,510,000-107,540,000&#xD;
+      polymorphism non-carriers with the primary objective to compare the effect of piromelatine to&#xD;
+      that of placebo on the AD Assessment Scale cognitive subscale (ADAS-cog14) at Week 26 of&#xD;
+      double-blind treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study of piromelatine 20 mg versus placebo in participants with mild dementia due to&#xD;
+      Alzheimer's disease is conducted as a confirmatory, randomized efficacy and safety study in&#xD;
+      participants who are 2:107,510,000-107,540,000 polymorphism non-carriers (N=225).&#xD;
+      Participants will be randomized in a 1:1 allocation ratio to receive either piromelatine 20&#xD;
+      mg or placebo for 26 weeks. Medication is to be administered orally, one tablet daily, taken&#xD;
+      1-2 hours before going to bed (preferably between 2100h and 2200h) and after food.&#xD;
+&#xD;
+      To differentiate between symptomatic effects and potential disease modifying effects of&#xD;
+      piromelatine, there will be a delayed-start open-label extension period of 12 months&#xD;
+      treatment wherein placebo-treated participants will be treated with piromelatine (20 mg&#xD;
+      daily) and the piromelatine-treated patients will be continued. This exploratory phase is&#xD;
+      aimed to continue randomized assignment of piromelatine treatment, long-term (18 months&#xD;
+      overall) to evaluate its potential disease modifying effect compared to patients in the&#xD;
+      placebo-randomized group who started the treatment after a 6-month delay.&#xD;
+&#xD;
+      The primary efficacy analysis (blinded) is planned after completion of the 26 weeks double&#xD;
+      blind period. If efficacy is not confirmed, then the study will be ended without completing&#xD;
+      the extension period&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 2022</start_date>
+  <completion_date type="Anticipated">June 2025</completion_date>
+  <primary_completion_date type="Anticipated">May 2024</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, delayed start, double blind, parallel group, placebo controlled, multicenter study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>placebo</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale cognitive subscale (ADAS-cog 14)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>The ADAS was designed to measure the severity of the most important symptoms of AD. . It consists of 11 tasks measuring the disturbances of memory, language, praxis, attention, and other cognitive abilities that are often referred to as the core symptoms of AD. The test comprises 11 items summed to a total score ranging from 0 to 70, with lower scores indicating less severe impairment. A negative change indicates an improvement from baseline. The addition of delayed recall, number cancelation, and maze tasks - and thus turning ADAS cog into a 12 , 13 , and 14 item scale respectively - has increased the ability to detect changes in patients in the early stages of the disease .</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study - instrumental Activities of Daily Living (ADCS-iADL)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>The entire ADCS-ADL scale will be administered, however only the instrumental activities of daily living items (items 7 to 23) will be analyzed. The iADLs are thought to be more affected as the disease progresses. The range for the iADL score is 0 to 56, with lower scores indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ADCS-Clinical Global Impression of Change (CGIC)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>The ADCS CGIC is a systematic method for assessing clinically significant change in a clinical trial as viewed by an independent skilled and experienced clinician. The ADCS CGIC focuses on clinicians' observations of change in the patient's cognitive, functional, and behavioral performance since the beginning of a trial.The ADCS CGIC requires the assessor to consider a number of cognitive, functional, and behavioral areas prior to providing an overall &quot;global&quot; assessment of clinical change (Schneider, Olin et al. 1997, Schneider, Clark et al. 2006). The ADCS CGIC assessor must be blinded to all other data for the patient after Visit 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>The MMSE is a brief assessment instrument used to assess cognitive function in elderly patients. The MMSE can be used to screen for cognitive impairment and as a measurement of cognition over time and with pharmacologic treatment. The instrument is divided into 2 sections. The first section measures orientation, memory, and attention: the maximum score is 21. The second section tests the ability of the patient to name objects, follow verbal and written commands, write a sentence, and copy figures: the maximum score is 9. The scoring range for the MMSE is 0 30. A positive change indicates an improvement from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Safety - descriptive statistics for Adverse Events</measure>
+    <time_frame>26 weeks, 78 weeks</time_frame>
+    <description>Adverse events (AEs) will be coded using the Medical Dictionary for Regulatory Activities (MedDRA). Treatment-emergent adverse events (TEAEs) are defined as AEs that first occur or worsen in severity after the first administration of study medications. The number of patients reporting TEAEs will be summarized during the 28 week treatment period and during the 52 weeks extension period by system organ class and preferred term for each treatment group. The number of patients withdrawing during the 28 week treatment period and during the 52 weeks extension period will be summarized by primary reason for withdrawal for each treatment group.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">225</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Piromelatine 20 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Piromelatine 20 mg tablets once daily taken before going to bed, preferably between 2100h and 2300h, and after food consumption.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matched placebo tablets, with identical features to the piromelatine tablets, will be used as control treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Piromelatine 20 mg</intervention_name>
+    <description>Tablets</description>
+    <arm_group_label>Piromelatine 20 mg</arm_group_label>
+    <other_name>Neu-P11</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Tablets</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female aged 60 85 years (inclusive).&#xD;
+&#xD;
+          -  Participant is an outpatient living at home or in an assisted living facility and is&#xD;
+             willing to attend all planned visits during the study.&#xD;
+&#xD;
+          -  The participant has a study partner (who is not expected to change during the study)&#xD;
+             who will accompany the patient to the clinic, and/or be available by telephone at&#xD;
+             designated times, monitor administration of prescribed medications, control the&#xD;
+             minimum 2 hour daily light exposure requirement. The study partner must, in the&#xD;
+             opinion of the investigator, have enough contact with the participant to be able to&#xD;
+             perform the duties described above.&#xD;
+&#xD;
+          -  Signed informed consent from the patient who has the capacity to provide informed&#xD;
+             consent as judged by the study investigator&#xD;
+&#xD;
+          -  Signed informed consent from the study partner.&#xD;
+&#xD;
+          -  Meets NIA AA research criteria for probable AD (McKhann, Knopman et al. 2011).&#xD;
+&#xD;
+          -  Patient has a clearly documented history of cognitive decline over at least 12 months.&#xD;
+&#xD;
+          -  Patient has MRI/CT scan, performed within 12 months before Screening, with findings&#xD;
+             consistent with the diagnosis of AD without any other clinically significant comorbid&#xD;
+             pathologies as detailed in Appendix 3.&#xD;
+&#xD;
+          -  MMSE score of 20 26 (inclusive) at Screening and stability of MMSE - no more than&#xD;
+             three-point change on successive screening and baseline visits before randomization.&#xD;
+&#xD;
+          -  Patient has a CDR GS of 0.5 1 (mild dementia) at Screening.&#xD;
+&#xD;
+          -  Patients taking acetylcholinesterase inhibitors and or memantine for the treatment of&#xD;
+             AD may be enrolled if the patient has been taking such medication for at least 6&#xD;
+             months before Visit 2 (Baseline) and is stable on any dose for the last 4 months prior&#xD;
+             to Baseline, and if the dose is not expected to change during study participation.&#xD;
+&#xD;
+          -  Patients not receiving acetylcholinesterase inhibitors may be enrolled but must be&#xD;
+             stable off acetylcholinesterase inhibitors for at least 3 months before Baseline, and&#xD;
+             agreeable to not starting throughout the first 26 weeks of the trial.&#xD;
+&#xD;
+          -  Patient has a negative drug screen (benzodiazepines or opiates) at Screening.&#xD;
+&#xD;
+          -  Female patients must have had last natural menstruation ≥ 24 months before Screening&#xD;
+             OR be surgically sterile.&#xD;
+&#xD;
+          -  Male patients and their female spouse/partners who are of childbearing potential must&#xD;
+             agree to use highly effective methods of contraception, consisting of 2 forms of birth&#xD;
+             control (at least one of which must be a barrier method) starting at Screening,&#xD;
+             throughout the study and for 90 days post last dose, OR be surgically sterile.&#xD;
+&#xD;
+          -  Patients who are taking medications for non excluded concurrent medical conditions&#xD;
+             should be on a stable dose for at least 4 weeks before Screening. Patients taking&#xD;
+             allowed antidepressants (see Section 12.9) should be on a stable dose for at least 3&#xD;
+             months before Screening and throughout the study&#xD;
+&#xD;
+          -  Patient has ability and commitment to spend at least 2 hours per day exposed to&#xD;
+             daylight (preferably outside but can be next to a window if weather or personal&#xD;
+             situation does not permit).&#xD;
+&#xD;
+          -  Participant and study partner have the ability to read and write in English or Spanish&#xD;
+             and have hearing, vision, and physical abilities adequate to perform assessments&#xD;
+             (corrective aids allowed).&#xD;
+&#xD;
+          -  Participant and study partner are fully vaccinated for COVID 19 including booster&#xD;
+             doses as indicated (6 months post second dose).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Declines whole genome screening for 2:107,510,000-107,540,000 polymorphism and APOE4&#xD;
+             genotyping.&#xD;
+&#xD;
+          -  Patient is 2:107,510,000-107,540,000 polymorphism carrier.&#xD;
+&#xD;
+          -  Patient has an alternative cause for dementia other than AD.&#xD;
+&#xD;
+          -  A past or recent CT or MRI scan or report indicating any cortical infarct defined as &gt;&#xD;
+             1.5 cm3; more than 2 lacunar infracts defined as ≤ 1.5 cm3; or diffuse white matter&#xD;
+             disease), Fazekas score of more than 1 on MRI and number of micro hemorrhages (MCH) to&#xD;
+             be &gt; 4 (more details Appendix 3).&#xD;
+&#xD;
+          -  Patient has evidence of any clinically significant neurodegenerative disease, or other&#xD;
+             serious neurological disorders other than AD as detailed in Appendix 3,&#xD;
+&#xD;
+          -  Patient has a concurrent psychiatric disorder that prevents his/her participation in&#xD;
+             the trial including but not limited to Schizophrenia, Bipolar and related disorders,&#xD;
+             Substance use disorders within the past 2 years, major depression, etc.&#xD;
+&#xD;
+          -  Patient has a history of uncontrolled or untreated cardiovascular, endocrine,&#xD;
+             gastrointestinal, respiratory, or rheumatologic disorders within the past 5 years.&#xD;
+&#xD;
+          -  Patient has a history of severe agitation and medically treated agitation.&#xD;
+&#xD;
+          -  Patient has a history of serious infectious disease including:&#xD;
+&#xD;
+               -  Neurosyphilis&#xD;
+&#xD;
+               -  Meningitis&#xD;
+&#xD;
+               -  Encephalitis&#xD;
+&#xD;
+          -  Patient has a history of a primary or recurrent malignant disease that has not been in&#xD;
+             remission for &gt; 5 years prior to the Screening visit, with the exceptions of excised&#xD;
+             cutaneous squamous cell carcinoma in situ, basal cell carcinoma without recurrences;&#xD;
+             and history of intraductal breast cancer, cervical carcinoma in situ, or in situ&#xD;
+             prostate cancer resected over 5 years previously. (For resected in situ prostate&#xD;
+             cancer, i.e., high grade intraepithelial neoplasia, the patient must have a normal&#xD;
+             prostate specific antigen [PSA] prior to Screening and no increase in PSA since his&#xD;
+             resection surgery).&#xD;
+&#xD;
+          -  Patient has severe pain that is likely to interfere with sleep (in the opinion of the&#xD;
+             investigator).&#xD;
+&#xD;
+          -  Patient has any concomitant documented progressive disease likely to interfere with&#xD;
+             the conduct of the study, particularly:&#xD;
+&#xD;
+               -  Liver disease with aspartate aminotransferase (AST), alanine aminotransferase&#xD;
+                  (ALT) or gamma glutamyltransferase (GGT) &gt; 3 times the upper limits of normal&#xD;
+                  (ULN)&#xD;
+&#xD;
+               -  Total bilirubin &gt; 3 times the ULN&#xD;
+&#xD;
+               -  Mean corpuscular volume &gt; 95 µ3 if due to chronic alcoholism&#xD;
+&#xD;
+               -  Renal failure with creatinine &lt; 30 ml / min&#xD;
+&#xD;
+          -  Patients that are taking prohibited medications according to Appendix 2 See also&#xD;
+             section 12.9.&#xD;
+&#xD;
+          -  Continuous use of benzodiazepines or other sedative hypnotics during the 2 weeks&#xD;
+             before Screening (see Section 12.9).&#xD;
+&#xD;
+          -  Patient has a history of chronic use (more than 3 months of continuous use) and abuse&#xD;
+             of benzodiazepines or other sedative hypnotics.&#xD;
+&#xD;
+          -  Use of any kind of melatonin/melatonin agonist during the 2 weeks before Screening&#xD;
+             (see Section 12.9).&#xD;
+&#xD;
+          -  Patient has known or suspected hypersensitivity to exogenous melatonin or melatonin&#xD;
+             receptor agonists.&#xD;
+&#xD;
+          -  Patient has clinically significant abnormal laboratory findings that have not been&#xD;
+             approved by the study safety officer.&#xD;
+&#xD;
+          -  Patient has persistent bradycardia (heart beat &lt; 50 bpm) or tachycardia (heart beat &gt;&#xD;
+             100 bpm).&#xD;
+&#xD;
+          -  Patient has atrioventricular block (type II/Mobitz II and type III), congenital long&#xD;
+             QT syndrome, sinus node dysfunction or a marked prolongation of QTc interval (repeated&#xD;
+             demonstration in ECGs of QTc interval &gt; 450 msec for males and &gt; 470 msec for females&#xD;
+             using Fridericia's formula: QTc = QT/cube root of RR).&#xD;
+&#xD;
+          -  Patient has other serious diseases that could interfere with patient assessment, in&#xD;
+             the opinion of the investigator.&#xD;
+&#xD;
+          -  Patient has untreated B12 and/or folic acid deficiency.&#xD;
+&#xD;
+          -  Patient has participated in a clinical trial with any investigational agent within 3&#xD;
+             months before Screening. Participants in any former monoclonal antibody clinical trial&#xD;
+             for AD are not eligible until 6 months after the last visit of the previous study.&#xD;
+             Patients who have received active vaccine for AD in the past will be excluded.&#xD;
+&#xD;
+          -  Patient with a body mass index (BMI) above 35 or below 18.&#xD;
+&#xD;
+          -  Lifestyle exclusions:&#xD;
+&#xD;
+          -  Patients unwilling to limit alcohol intake to less than 30 g of pure alcohol per day&#xD;
+             (see Appendix 1) and to abstain after 2000h throughout the study&#xD;
+&#xD;
+          -  Patients unwilling to be exposed to at least 2 hours of daylight each day&#xD;
+&#xD;
+          -  Divergence from the accepted level of study medication compliance (70% 130% of&#xD;
+             expected consumption) as verified at Visit 2 (see Section 12.10)&#xD;
+&#xD;
+          -  Patients consuming more than 7 cups of tea or coffee (or equivalent amount of caffeine&#xD;
+             [650 mg] in other caffeinated beverages) per day&#xD;
+&#xD;
+          -  Patients with an irregular lifestyle or life pattern (e.g., shift workers, patients&#xD;
+             likely to be jet lagged)&#xD;
+&#xD;
+          -  Patients with evidence of serious risk of suicide based on the Columbia-Suicide&#xD;
+             Severity Rating Scale, i.e., active suicidal ideation with some intent to act, with or&#xD;
+             without a specific plan (a positive response to Suicidal Ideation Items 4 or 5) in the&#xD;
+             6 months prior to Screening, OR with evidence of suicidal behavior in the 2 years&#xD;
+             prior to Screening (a positive response to any of the 5 Suicidal Behavior Items&#xD;
+             {actual attempt, interrupted attempt, aborted attempt, preparatory acts, or&#xD;
+             behavior}), OR who, in the opinion of the investigator, present a serious risk of&#xD;
+             suicide.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tali Nir, DVM</last_name>
+    <phone>+97237684902</phone>
+    <email>talin@neurim.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anna Bergrin, Msc</last_name>
+    <phone>+97237684969</phone>
+    <email>annab@neurim.com</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://doi.org/10.14283/jpad.2021.61</url>
+    <description>A Polymorphism Cluster at the 2q12 locus May Predict Response to Piromelatine in Patients with Mild Alzheimer's Disease</description>
+  </link>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>February 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 4, 2022</study_first_posted>
+  <last_update_submitted>March 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1662">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05462106</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACI-24-AD-DS-2102</org_study_id>
+    <secondary_id>2021-006195-17</secondary_id>
+    <secondary_id>2022-500069-29-00</secondary_id>
+    <nct_id>NCT05462106</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Effects of ACI-24.060 in Alzheimer's Disease and in Down Syndrome (ABATE Study)</brief_title>
+  <official_title>A Phase 1b/2, Multicenter, Adaptive, Double-blind, Randomized, Placebo-controlled Study to Assess the Safety, Tolerability, Immunogenicity, and Pharmacodynamic Effects of ACI-24.060 in Subjects With Prodromal Alzheimer's Disease and in Adults With Down Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AC Immune SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Worldwide Clinical Trials</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AC Immune SA</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety, tolerability, immunogenicity and&#xD;
+      pharmacodynamic effects of ACI-24.060 in subjects with prodromal Alzheimer's disease and in&#xD;
+      non-demented adults with Down syndrome.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This phase 1b/2 study will be in 2 parts. Study Part 1 will involve subjects with prodromal&#xD;
+      Alzheimer's disease. Study Part 2 will involve subjects with Down syndrome.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 21, 2022</start_date>
+  <completion_date type="Anticipated">June 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2026</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with Adverse Events (AEs) assessed by intensity (mild, moderate or severe) and causal relationship (unrelated, unlikely, possibly or probably related)</measure>
+    <time_frame>From Screening to Week 74 (Study Part 1)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with Adverse Events (AEs) assessed by intensity (mild, moderate or severe) and causal relationship (unrelated, unlikely, possibly or probably related)</measure>
+    <time_frame>From Screening to Week 100 (Study Part 2)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal MRI results</measure>
+    <time_frame>From Baseline to Week 74 (Study Part 1)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal MRI results</measure>
+    <time_frame>From Baseline to Week 100 (Study Part 2)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal physical and neurological examination results</measure>
+    <time_frame>From Baseline to Week 74 (Study Part 1)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with abnormal physical and neurological examination results</measure>
+    <time_frame>From Baseline to Week 100 (Study Part 2)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants reporting suicidal ideation or behavior using Columbia-Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>From Baseline to Week 74 (Study Part 1)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants reporting suicidal ideation or behavior using Columbia-Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>From Baseline to Week 100 (Study Part 2)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in Anti-Abeta antibody titers in blood</measure>
+    <time_frame>From Baseline to Week 100 (Study Part 2)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Anti-Abeta antibody titers</measure>
+    <time_frame>From Baseline to Week 74 (Study Part 1)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline on brain amyloid levels</measure>
+    <time_frame>From Baseline to W100 (Study Part 2)</time_frame>
+    <description>Brain amyloid load measured via PET imaging. An increase indicates a worsening.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change from baseline on brain amyloid levels</measure>
+    <time_frame>From Baseline to W48 (Study Part 1)</time_frame>
+    <description>Brain amyloid load measured via PET imaging. An increase indicates a worsening.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline on tau levels</measure>
+    <time_frame>From Baseline to W48 (Study Part 1) and to W100 (Study Part 2)</time_frame>
+    <description>Brain tau load measured via PET imaging. An increase indicates a worsening.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in cognitive tests - Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)</measure>
+    <time_frame>From Baseline to Week 74 (Study Part 1)</time_frame>
+    <description>The total scale index score ranges from 40 to 160. A higher score indicates a better outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in cognitive tests - Alzheimer's Disease Assessment Scale-Cognitive Subscale 13 item (ADAS-Cog 13)</measure>
+    <time_frame>From Baseline to Week 74 (Study Part 1)</time_frame>
+    <description>The score ranges from 0 to 85. A higher score indicates a worse outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in clinical function tests - Clinical Dementia Rating Scale (CDR)</measure>
+    <time_frame>From Baseline to Week 74 (Study Part 1)</time_frame>
+    <description>The score ranges from 0 to 18. A higher score indicates a worse outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in cognitive tests - Modified Cued Recall Test (mCRT)</measure>
+    <time_frame>From Baseline to Week 100 (Study Part 2)</time_frame>
+    <description>The modified CRT assesses verbal learning and episodic memory. The score ranges from X to Y. A higher score indicates a better outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in cognitive tests - Cambridge Cognitive Examination for Individuals with Down Syndrome (CAMCOG-DS2)</measure>
+    <time_frame>From Baseline to Week 100 (Study Part 2)</time_frame>
+    <description>CAMCOG-DS measures cognitive decline. The total score ranges from 0 to 107. A higher score indicates a better outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change from baseline in cognitive tests - Cambridge Neuropsychological Test Automated Battery-Paired Associates Learning (CANTAB-PAL)</measure>
+    <time_frame>From Baseline to Week 100 (Study Part 2)</time_frame>
+    <description>The CANTAB-PAL assesses visual memory and new learning. A higher score indicates a better outcome.</description>
+  </other_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Prodromal Alzheimer's Disease</condition>
+  <condition>Amyloid Plaque</condition>
+  <condition>Beta-Amyloid</condition>
+  <condition>Alzheimer's Disease in Down Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Placebo for Study Part 1 (Prodromal AD)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Prodromal AD participants receive placebo at predefined time points over 48 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ACI-24.060 at Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Prodromal AD participants receive dose A of ACI-24.060 at predefined time points over 48 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ACI-24.060 at Dose B (Optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Prodromal AD participants receive dose B of ACI-24.060 at predefined time points over 48 weeks. This arm is optional.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ACI-24.060 at Dose C (Optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Prodromal AD participants receive dose C of ACI-24.060 at predefined time points over 48 weeks. This arm is optional.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ACI-24.060 at Dose D (Optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Prodromal AD participants receive dose D of ACI-24.060 at predefined time points over 48 weeks. This arm is optional.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo for Study Part 2 (Down syndrome)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants with Down syndrome receive placebo at predefined time points over 74 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ACI-24.060 at Dose X</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with Down syndrome receive dose X of ACI-24.060 at predefined time points over 74 weeks. Dose X will be a dose already tested in Study Part 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ACI-24.060 at Dose Y (Optional)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with Down syndrome may optionally receive a dose Y of ACI-24.060 at predefined time points over 74 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administration of Placebo</description>
+    <arm_group_label>Placebo for Study Part 1 (Prodromal AD)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ACI-24.060 at Dose A</intervention_name>
+    <description>Administration of Dose A of ACI-24.060</description>
+    <arm_group_label>ACI-24.060 at Dose A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ACI-24.060 at Dose B</intervention_name>
+    <description>Administration of Dose B of ACI-24.060</description>
+    <arm_group_label>ACI-24.060 at Dose B (Optional)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ACI-24.060 at Dose C</intervention_name>
+    <description>Administration of Dose C of ACI-24.060</description>
+    <arm_group_label>ACI-24.060 at Dose C (Optional)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ACI-24.060 at Dose D</intervention_name>
+    <description>Administration of Dose D of ACI-24.060</description>
+    <arm_group_label>ACI-24.060 at Dose D (Optional)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administration of Placebo</description>
+    <arm_group_label>Placebo for Study Part 2 (Down syndrome)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ACI-24.060 at Dose X</intervention_name>
+    <description>Administration of Dose X of ACI-24.060. Dose X will be a dose already tested in Study Part 1</description>
+    <arm_group_label>ACI-24.060 at Dose X</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ACI-24.060 at Dose Y</intervention_name>
+    <description>Administration of Dose Y of ACI-24.060</description>
+    <arm_group_label>ACI-24.060 at Dose Y (Optional)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Study Part 1&#xD;
+&#xD;
+          1. Age ≥50 and ≤75 years at screening.&#xD;
+&#xD;
+          2. Diagnosis of prodromal AD: MCI due to AD according to National Institute on Aging&#xD;
+             Alzheimer's Association (NIA-AA) criteria.&#xD;
+&#xD;
+          3. PET scan at screening consistent with the presence of amyloid pathology.&#xD;
+&#xD;
+          4. Clinical Dementia Rating (CDR)-Global Score of 0.5.&#xD;
+&#xD;
+          5. Subjects either not taking any marketed treatment for AD or receiving a stable dose of&#xD;
+             an acetylcholinesterase inhibitor (ACHEI) and/or memantine for at least 2 months prior&#xD;
+             to baseline.&#xD;
+&#xD;
+        Study Part 2&#xD;
+&#xD;
+          1. Age ≥35 and ≤50 years at screening (subjects with DS with age ≥35 and ≤39 years may be&#xD;
+             considered on the condition that there is prior evidence of amyloid results compatible&#xD;
+             with AD pathology at PET-scan and/or in biofluids).&#xD;
+&#xD;
+          2. Male or female subjects with DS with a cytogenetic diagnosis being either trisomy 21&#xD;
+             or complete unbalanced translocation of the chromosome 21.&#xD;
+&#xD;
+          3. PET scan at screening consistent with the presence of amyloid pathology.&#xD;
+&#xD;
+          4. Mild to moderate intellectual disability as per Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders (DSM-5) classification.&#xD;
+&#xD;
+          5. Subjects must have a study partner who has direct and regular contact, at least 10&#xD;
+             hours per week, with the subject and who is able to provide reliable answers to&#xD;
+             questions related to the subject, according to the study investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any unstable and/or clinically significant medical condition likely to hamper the&#xD;
+             evaluation of safety and/or efficacy of the study vaccine (eg, moderate and/or severe&#xD;
+             untreated obstructive sleep apnea, clinically significant reduction in serum B12 or&#xD;
+             folate levels, clinically significant abnormalities of thyroid function, stroke, or&#xD;
+             other cerebrovascular conditions), as per investigator's judgement.&#xD;
+&#xD;
+          2. DSM-5 criteria for drug or alcohol abuse or dependence currently met within the past 5&#xD;
+             years.&#xD;
+&#xD;
+          3. History or presence of uncontrolled seizures. If history of seizures, they must be&#xD;
+             well controlled with no occurrence of seizures in the 2 years before study screening.&#xD;
+             The use of antiepileptic medications is permitted.&#xD;
+&#xD;
+          4. Concomitant or past history psychiatric or neurologic disorder other than those&#xD;
+             considered to be related to AD (eg, head injury with loss of consciousness,&#xD;
+             symptomatic stroke, Parkinson's disease, severe carotid occlusive disease, transient&#xD;
+             ischemic attacks [TIAs], hemorrhagic and/or non-hemorrhagic stroke).&#xD;
+&#xD;
+          5. History of meningitis or meningoencephalitis.&#xD;
+&#xD;
+          6. History of moderate or severe traumatic brain injury.&#xD;
+&#xD;
+          7. History of inflammatory neurological disorders.&#xD;
+&#xD;
+          8. History or presence of immunological or inflammatory conditions, including&#xD;
+             neurological disorders, judged to be clinically significant by the investigator.&#xD;
+&#xD;
+          9. History of severe allergic reaction (eg, anaphylaxis) including, but not limited to&#xD;
+             severe allergic reaction to previous vaccines, foods, and/or medications.&#xD;
+&#xD;
+         10. Significant risk of suicide, defined using the C-SSRS as the subject answering &quot;yes&quot;&#xD;
+             to suicidal ideation questions 4 or 5 or answering &quot;yes&quot; to suicidal behavior within&#xD;
+             the past 12 months.&#xD;
+&#xD;
+         11. MRI scan at screening showing a single area of cerebral vasogenic edema, superficial&#xD;
+             siderosis, or evidence of a previous macro-hemorrhage or showing more than 4 cerebral&#xD;
+             microhemorrhages (regardless of their anatomical location or diagnostic&#xD;
+             characterization as &quot;possible&quot; or &quot;definite&quot;). Evidence of space occupying lesions&#xD;
+             other than benign meningioma of less than 1 cm diameter, more than 2 lacunar infarcts,&#xD;
+             or 1 single infarct larger than 1 cm in diameter. Screening MRI scan showing&#xD;
+             structural evidence of alternative pathology not consistent with AD and is considered&#xD;
+             to be at the origin of subject's symptoms.&#xD;
+&#xD;
+         12. Deviations from normal values for hematologic parameters, liver function tests, and&#xD;
+             other biochemical measures, judged to be clinically significant by the investigator.&#xD;
+&#xD;
+         13. Subjects with a positive Human Immunodeficiency Virus (HIV-1 and 2) test at screening.&#xD;
+&#xD;
+         14. Subjects with clinical or laboratory evidence of active hepatitis B or C at screening&#xD;
+             (eg, HBV or HCV antigens).&#xD;
+&#xD;
+         15. Subjects with positive syphilis serology consistent with active syphilis at screening.&#xD;
+&#xD;
+         16. MRI examination cannot be done for any reason, including but not limited to metal&#xD;
+             implants contraindicated for MRI and/or severe claustrophobia.&#xD;
+&#xD;
+         17. Any contraindication for PET scan imaging.&#xD;
+&#xD;
+         18. Any contraindication to lumbar puncture in subjects undergoing this procedure (note:&#xD;
+             lumbar puncture is optional in subjects with DS).&#xD;
+&#xD;
+         19. Previous treatment with ACI-24 or any other active immunotherapy against AD at any&#xD;
+             time in the past unless there is firm evidence that the subject received placebo only&#xD;
+             and the placebo formulation is not expected to induce any specific immune response.&#xD;
+&#xD;
+         20. Previous treatment with any investigational and/or marketed passive immunotherapy&#xD;
+             against AD within 6 months before screening or 5 half-lives, whichever is longer,&#xD;
+             unless there is firm evidence that the subject received placebo only.&#xD;
+&#xD;
+         21. Ongoing treatment with any approved anti-amyloid passive immunotherapy for Alzheimer's&#xD;
+             disease.&#xD;
+&#xD;
+         22. Use of acetylcholinesterase inhibitor or glutamatergic drugs (eg, memantine,&#xD;
+             topiramate, lamotrigine) if not on stable dose for at least 2 months before screening.&#xD;
+&#xD;
+         23. Any vaccine received within the 2 weeks before screening, including an anti-influenza&#xD;
+             or anti-COVID 19 vaccine received within 4 weeks before randomization.&#xD;
+&#xD;
+         24. Subjects with treated hypothyroidism not on a stable dose of replacement medication&#xD;
+             for at least 2 months before screening and having clinically significant abnormal&#xD;
+             serum T4 and/or thyroid stimulating hormone at screening.&#xD;
+&#xD;
+         25. Subjects undergoing lumbar puncture and being treated with any anticoagulants or&#xD;
+             antiplatelet drugs, except aspirin at doses of 100 mg daily or lower.&#xD;
+&#xD;
+         26. Use of antidepressants (other than selective serotonin reuptake&#xD;
+             inhibitors/serotonin-norepinephrine reuptake inhibitors at stable dose); typical&#xD;
+             antipsychotics; γ-aminobutyric acid agonists (eg, gabapentin); or stimulants (eg,&#xD;
+             methylphenidate, modafinil). Stable doses of atypical antipsychotics or&#xD;
+             benzodiazepines are only allowed if this is not considered to influence the safety and&#xD;
+             the efficacy of the study vaccine according to the site investigator and the sponsor&#xD;
+             medical monitor.&#xD;
+&#xD;
+         27. Chronic use of opioid analgesics. A limited treatment duration for acute conditions&#xD;
+             until 24 hours before cognitive assessment is allowed.&#xD;
+&#xD;
+         28. Current use of immunosuppressant or immunomodulating drugs or their use within the 6&#xD;
+             months before study screening. Current use of oral steroids or their use within the 3&#xD;
+             months before study screening.&#xD;
+&#xD;
+             Additional Exclusion Criteria in Study Part 2&#xD;
+&#xD;
+             The following are exclusion criteria at the time of randomization but will not be&#xD;
+             considered as exclusionary after treatment assignment:&#xD;
+&#xD;
+         29. Clinical diagnosis of AD dementia in DS as per International Classification of&#xD;
+             Diseases 10 (ICD-10).&#xD;
+&#xD;
+         30. DSQIID &gt;20.&#xD;
+&#xD;
+         31. Intelligence quotient score ≤40 (KBIT-2).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>35 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Rafii, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Southern California, Alzheimer's Therapeutic Research Institute, 9860 Mesa Rim Rd, San Diego, CA 92121, USA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Olivier Sol, MD</last_name>
+    <phone>+41 21 345 9121</phone>
+    <email>clinicaltrials@acimmune.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Benedicte Le</last_name>
+    <phone>+41 21 345 9121</phone>
+    <email>clinicaltrials@acimmune.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Liverpool University Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>Liverpool</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Re:Cognition Health Limited</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://academic.oup.com/braincomms/article/4/1/fcac022/6520512</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>July 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 13, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 18, 2022</study_first_posted>
+  <last_update_submitted>August 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Brain Diseases</keyword>
+  <keyword>Central Nervous System Diseases</keyword>
+  <keyword>Prodromal Alzheimer's Disease</keyword>
+  <keyword>Amyloid Plaque</keyword>
+  <keyword>Beta-Amyloid</keyword>
+  <keyword>Down syndrome</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>Immunogenicity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Down Syndrome</mesh_term>
+    <mesh_term>Amyloidosis</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+    <mesh_term>Plaque, Amyloid</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

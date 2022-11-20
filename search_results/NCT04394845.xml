@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1600">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04394845</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GN42043</org_study_id>
+    <nct_id>NCT04394845</nct_id>
+  </id_info>
+  <brief_title>A Study of the Biodistribution and Safety of [18F]GTP1 in Healthy Japanese Participants</brief_title>
+  <official_title>Assessment of the Biodistribution and Safety of [18F]GTP1 in Healthy Japanese Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Invicro</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Genentech, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the biodistribution, safety and tolerability of a&#xD;
+      single dose of [18F]GTP1 as a tau targeted radiopharmaceutical in healthy Japanese&#xD;
+      participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 11, 2020</start_date>
+  <completion_date type="Actual">October 9, 2020</completion_date>
+  <primary_completion_date type="Actual">October 9, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Total Source Organ Counts Based on Individualized Organ Volumes of Interest (VOIs)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Decay corrected [18F]GTP1 time-activity in the source organs acquired following bolus tracer injection and expressed as %Injected Dose (ID).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Source Organ Residence Time (Total Number of Disintegrations)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Source organ uptake and washout with calculation of total number of disintegrations (or residence time, or kinetic values) using the area under the time-activity curve divided by the injected dose of radiopharmaceutical</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean Radiation Absorbed Dose Estimates in Target Organs and Whole Body Based on Standard Medical Internal Radiation Dose (MIRD) Methodology</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Radiation absorbed dose estimates based on the Medical Internal Radiation Dose (MIRD) methodology utilizing urine data and International Commission on Radiological Protection (ICRP) gastrointestinal (GI) tract kinetics</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With Adverse Events</measure>
+    <time_frame>Up to 5 days</time_frame>
+    <description>An AE is the appearance or worsening of any undesirable sign, symptom, or medical condition, even if the event is not considered to be related to study drug. Study drug includes the investigational drug under evaluation during any phase of the study. Medical conditions/diseases present before starting study drug are only considered AEs if they worsen after starting study drug. Abnormal laboratory values or test results constitute AEs only if they induce clinical signs or symptoms, are considered clinically significant, or require therapy.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">6</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>[18F]GTP1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>[18F]GTP1</intervention_name>
+    <description>[18F]GTP1 IV bolus injection of up to 370 megabecquerel (MBq) (10 millicurie [mCi]), with a maximum drug mass dose of 10 microgram (μg).</description>
+    <arm_group_label>[18F]GTP1</arm_group_label>
+    <other_name>[18F]G02941054</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key inclusion criteria:&#xD;
+&#xD;
+          -  Healthy with no clinically relevant finding on physical examination at screening and&#xD;
+             prior to radiopharmaceutical administration&#xD;
+&#xD;
+          -  Female participants must be willing to avoid pregnancy and refrain from donating eggs&#xD;
+             during the treatment period and for 30 days after the final dose&#xD;
+&#xD;
+          -  Male participants with partners of childbearing potential must commit to the use of&#xD;
+             two methods of contraception for the study duration and 90 days after the last dose&#xD;
+&#xD;
+          -  Male participants must not donate sperm for the duration of the study and 90 days&#xD;
+             after the last dose&#xD;
+&#xD;
+          -  Participants must have both Japanese parents and all Japanese grandparents&#xD;
+&#xD;
+        Key exclusion criteria:&#xD;
+&#xD;
+          -  Participants with any significant medical disorder or disease expected to interfere&#xD;
+             with the study&#xD;
+&#xD;
+          -  Current or prior history (within a six-month period) of exposure to nicotine products&#xD;
+&#xD;
+          -  History of drug or alcohol abuse within 12 months prior to screening&#xD;
+&#xD;
+          -  Prior participation in other research protocols or clinical care in the last year,&#xD;
+             such that radiation exposure combined with that from the present study exceeds an&#xD;
+             effective dose of 50 millisievert (mSv), the allowable annual limit for research&#xD;
+             participants as established by the US Federal Guidelines&#xD;
+&#xD;
+          -  Use of any prescription drugs, herbal supplements, within 4 weeks prior to initial&#xD;
+             dosing&#xD;
+&#xD;
+          -  Use of over the counter (OTC) medication, dietary supplements, or vitamins, within 2&#xD;
+             weeks prior to initial dosing&#xD;
+&#xD;
+          -  Known hypersensitivity to any component of the formulation of [18F]GTP1 or related&#xD;
+             compounds&#xD;
+&#xD;
+          -  Major surgery, or donation or loss of 400 mL or more of blood within 4 weeks prior to&#xD;
+             initial dosing&#xD;
+&#xD;
+          -  History of immunodeficiency diseases, including positive human immunodeficiency virus&#xD;
+             (HIV) test&#xD;
+&#xD;
+          -  Positive for Hepatitis B surface antigen (HBsAg) or Hepatitis C antibody&#xD;
+&#xD;
+          -  Women who are pregnant, lactating or breastfeeding&#xD;
+&#xD;
+          -  Unsuitable veins for repeated venipuncture&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Genentech, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Invicro, a Konica Minolta company</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>May 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2020</study_first_posted>
+  <results_first_submitted>October 5, 2021</results_first_submitted>
+  <results_first_submitted_qc>October 5, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 3, 2021</results_first_posted>
+  <last_update_submitted>October 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm).</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 10, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/45/NCT04394845/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Screening assessments were completed within 30 days of Day 1.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>[18F]GTP1</title>
+          <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>[18F]GTP1</title>
+          <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="6"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51.33" spread="15.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Weight</title>
+          <units>Kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55.32" spread="11.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Total Source Organ Counts Based on Individualized Organ Volumes of Interest (VOIs)</title>
+        <description>Decay corrected [18F]GTP1 time-activity in the source organs acquired following bolus tracer injection and expressed as %Injected Dose (ID).</description>
+        <time_frame>Day 1</time_frame>
+        <population>One participant was excluded from the analysis at mean collect times: 16.38604 and 32.41194 minutes due to power surge during the scan that caused the system to power off. The process to restart took ~20 min and the absence of these specific data points. There was no impact on the quality of the subsequent data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>[18F]GTP1</title>
+            <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Total Source Organ Counts Based on Individualized Organ Volumes of Interest (VOIs)</title>
+          <description>Decay corrected [18F]GTP1 time-activity in the source organs acquired following bolus tracer injection and expressed as %Injected Dose (ID).</description>
+          <population>One participant was excluded from the analysis at mean collect times: 16.38604 and 32.41194 minutes due to power surge during the scan that caused the system to power off. The process to restart took ~20 min and the absence of these specific data points. There was no impact on the quality of the subsequent data.</population>
+          <units>Percentage of Injected Dose</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Mean collect time: 5.32767 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.33530" spread="0.18795"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 16.38604 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.59398" spread="0.11540"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 32.41194 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.13730" spread="0.76985"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 53.21428 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.89330" spread="1.41690"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 78.27645 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.38103" spread="3.07024"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 97.78638 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.93725" spread="4.91340"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 144.06733 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.76320" spread="5.05449"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 187.27612 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.22968" spread="6.09050"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 213.49112 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.06417" spread="9.29250"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 258.12780 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34.50070" spread="9.38550"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 304.21875 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="36.95242" spread="10.99721"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mean collect time: 337.49112 minutes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="6"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39.75663" spread="10.21783"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Source Organ Residence Time (Total Number of Disintegrations)</title>
+        <description>Source organ uptake and washout with calculation of total number of disintegrations (or residence time, or kinetic values) using the area under the time-activity curve divided by the injected dose of radiopharmaceutical</description>
+        <time_frame>Day 1</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>[18F]GTP1 Female</title>
+            <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+          </group>
+          <group group_id="O2">
+            <title>[18F]GTP1 Male</title>
+            <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Source Organ Residence Time (Total Number of Disintegrations)</title>
+          <description>Source organ uptake and washout with calculation of total number of disintegrations (or residence time, or kinetic values) using the area under the time-activity curve divided by the injected dose of radiopharmaceutical</description>
+          <units>MBq x hour/MBq</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Brain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0375" spread="0.00295"/>
+                    <measurement group_id="O2" value="0.0315" spread="0.00717"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gallbladder Contents</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0254" spread="0.038"/>
+                    <measurement group_id="O2" value="0.0304" spread="0.023"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gallbladder Contents with GB emptying model</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0102" spread="0.012"/>
+                    <measurement group_id="O2" value="0.0122" spread="0.00637"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>LLI Cont.</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0416" spread="0.00214"/>
+                    <measurement group_id="O2" value="0.0396" spread="0.00401"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SI Cont.</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.415" spread="0.0219"/>
+                    <measurement group_id="O2" value="0.395" spread="0.0397"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>ULI Cont.</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.228" spread="0.0117"/>
+                    <measurement group_id="O2" value="0.217" spread="0.0219"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Heart Wall</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0153" spread="0.00326"/>
+                    <measurement group_id="O2" value="0.019" spread="0.00774"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Kidneys</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.046" spread="0.0195"/>
+                    <measurement group_id="O2" value="0.0448" spread="0.0114"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.591" spread="0.112"/>
+                    <measurement group_id="O2" value="0.532" spread="0.0284"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lungs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0346" spread="0.00205"/>
+                    <measurement group_id="O2" value="0.0523" spread="0.0125"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Spleen</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00634" spread="0.00203"/>
+                    <measurement group_id="O2" value="0.0074" spread="0.00339"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary Bladder Contents</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.135" spread="0.047"/>
+                    <measurement group_id="O2" value="0.237" spread="0.0332"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary Bladder Contents with UB voiding model</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.18" spread="0.0717"/>
+                    <measurement group_id="O2" value="0.222" spread="0.0441"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Remainder</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.743" spread="0.143"/>
+                    <measurement group_id="O2" value="0.687" spread="0.056"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Remainder with UB voiding model</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.708" spread="0.181"/>
+                    <measurement group_id="O2" value="0.675" spread="0.127"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Remainder with both UB voiding and GB emptying models</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.723" spread="0.161"/>
+                    <measurement group_id="O2" value="0.693" spread="0.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Mean Radiation Absorbed Dose Estimates in Target Organs and Whole Body Based on Standard Medical Internal Radiation Dose (MIRD) Methodology</title>
+        <description>Radiation absorbed dose estimates based on the Medical Internal Radiation Dose (MIRD) methodology utilizing urine data and International Commission on Radiological Protection (ICRP) gastrointestinal (GI) tract kinetics</description>
+        <time_frame>Day 1</time_frame>
+        <population>Testes not analyzed for female population.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>[18F]GTP1 Female</title>
+            <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+          </group>
+          <group group_id="O2">
+            <title>[18F]GTP1 Male</title>
+            <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mean Radiation Absorbed Dose Estimates in Target Organs and Whole Body Based on Standard Medical Internal Radiation Dose (MIRD) Methodology</title>
+          <description>Radiation absorbed dose estimates based on the Medical Internal Radiation Dose (MIRD) methodology utilizing urine data and International Commission on Radiological Protection (ICRP) gastrointestinal (GI) tract kinetics</description>
+          <population>Testes not analyzed for female population.</population>
+          <units>mSv/MBq</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Adrenals</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0164" spread="0.00156"/>
+                    <measurement group_id="O2" value="0.0123" spread="0.000451"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Brain</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00789" spread="0.00075"/>
+                    <measurement group_id="O2" value="0.00606" spread="0.00132"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Breasts</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00595" spread="0.000974"/>
+                    <measurement group_id="O2" value="0.00457" spread="0.00044"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gallbladder Wall</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0756" spread="0.0662"/>
+                    <measurement group_id="O2" value="0.0713" spread="0.0353"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>LLI Wall</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0447" spread="0.00236"/>
+                    <measurement group_id="O2" value="0.0376" spread="0.00314"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Small Intestine</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.117" spread="0.00513"/>
+                    <measurement group_id="O2" value="0.0925" spread="0.00864"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stomach Wall</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0141" spread="0.000929"/>
+                    <measurement group_id="O2" value="0.0106" spread="0.000758"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>ULI Wall</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.127" spread="0.00513"/>
+                    <measurement group_id="O2" value="0.105" spread="0.00974"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Heart Wall</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0196" spread="0.00309"/>
+                    <measurement group_id="O2" value="0.0167" spread="0.00439"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Kidneys</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0429" spread="0.0119"/>
+                    <measurement group_id="O2" value="0.037" spread="0.00705"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.101" spread="0.0183"/>
+                    <measurement group_id="O2" value="0.0702" spread="0.0034"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lungs</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0145" spread="0.000833"/>
+                    <measurement group_id="O2" value="0.0138" spread="0.00191"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Muscle</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0093" spread="0.000663"/>
+                    <measurement group_id="O2" value="0.00732" spread="0.000499"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ovaries</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0276" spread="0.00133"/>
+                    <measurement group_id="O2" value="0.0216" spread="0.00379"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pancreas</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0167" spread="0.00150"/>
+                    <measurement group_id="O2" value="0.0128" spread="0.000379"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Red Marrow</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0104" spread="0.000636"/>
+                    <measurement group_id="O2" value="0.00841" spread="0.000637"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Osteogenic Cells</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0107" spread="0.00161"/>
+                    <measurement group_id="O2" value="0.00787" spread="0.000946"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0055" spread="0.000749"/>
+                    <measurement group_id="O2" value="0.00428" spread="0.000441"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Spleen</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0156" spread="0.00253"/>
+                    <measurement group_id="O2" value="0.0133" spread="0.00313"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Testes</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="0"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O2" value="0.00606" spread="0.000261"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thymus</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00667" spread="0.00117"/>
+                    <measurement group_id="O2" value="0.00513" spread="0.00064"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thyroid</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.00472" spread="0.00107"/>
+                    <measurement group_id="O2" value="0.00388" spread="0.00064"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary Bladder Wall</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.129" spread="0.0472"/>
+                    <measurement group_id="O2" value="0.112" spread="0.0198"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Uterus</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0258" spread="0.00225"/>
+                    <measurement group_id="O2" value="0.0213" spread="0.0007"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Total Body</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0134" spread="0.000808"/>
+                    <measurement group_id="O2" value="0.0103" spread="0.000552"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Effective dose (ED, ICRP-60)</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="3"/>
+                    <count group_id="O2" value="3"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0303" spread="0.0008"/>
+                    <measurement group_id="O2" value="0.0245" spread="0.000436"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With Adverse Events</title>
+        <description>An AE is the appearance or worsening of any undesirable sign, symptom, or medical condition, even if the event is not considered to be related to study drug. Study drug includes the investigational drug under evaluation during any phase of the study. Medical conditions/diseases present before starting study drug are only considered AEs if they worsen after starting study drug. Abnormal laboratory values or test results constitute AEs only if they induce clinical signs or symptoms, are considered clinically significant, or require therapy.</description>
+        <time_frame>Up to 5 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>[18F]GTP1</title>
+            <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Adverse Events</title>
+          <description>An AE is the appearance or worsening of any undesirable sign, symptom, or medical condition, even if the event is not considered to be related to study drug. Study drug includes the investigational drug under evaluation during any phase of the study. Medical conditions/diseases present before starting study drug are only considered AEs if they worsen after starting study drug. Abnormal laboratory values or test results constitute AEs only if they induce clinical signs or symptoms, are considered clinically significant, or require therapy.</description>
+          <units>Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Baseline up to 5 days</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>[18F]GTP1</title>
+          <description>Participants received a single bolus injection of radioligand [18F]GTP1 intravenously (IV).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA version 23.1.</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Haematoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The Study being conducted under this Agreement is part of the Overall Study. Investigator is free to publish in reputable journals or to present at professional conferences the results of the Study, but only after the first publication or presentation that involves the Overall Study. The Sponsor may request that Confidential Information be deleted and/or the publication be postponed in order to protect the Sponsor's intellectual property rights.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Medical Communications</name_or_title>
+      <organization>Hoffmann-La Roche</organization>
+      <phone>800 821-8590</phone>
+      <email>global-roche-genentech-trials@gene.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

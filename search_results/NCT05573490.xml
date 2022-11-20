@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="478">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05573490</url>
+  </required_header>
+  <id_info>
+    <org_study_id>14594</org_study_id>
+    <secondary_id>AARG-22-926940</secondary_id>
+    <nct_id>NCT05573490</nct_id>
+  </id_info>
+  <brief_title>Lifestyle Interventions for the Treatment of Early Onset Alzheimer's Disease Study</brief_title>
+  <acronym>LITES</acronym>
+  <official_title>Lifestyle Interventions for the Treatment of Early Onset Alzheimer's Disease Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Alzheimer's Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tai Chi Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alzheimer's Therapeutic Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to generate preliminary data on the benefit of computerized&#xD;
+      cognitive training and Tai Chi- Qi Gong training in participants with Early-Onset Alzheimer's&#xD;
+      Disease. It is hypothesized that participants in the experimental training condition will&#xD;
+      perform better on outcomes related to cognition, functioning, and mood at follow-up compared&#xD;
+      to participants assigned to the active control condition.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aims to generate preliminary data regarding the efficacy of a combined&#xD;
+      cognitive-training and Tai Chi- Qi Gong exercise lifestyle intervention in participants&#xD;
+      diagnosed with Early-Onset Alzheimer's Disease. Participants will complete a series of&#xD;
+      cognitive, functional, and mood assessments at a remotely-assessed baseline visit, and then&#xD;
+      be randomized into one of two conditions: (1) Computerized Cognitive Training + Tai Chi&#xD;
+      Exercise or (2) Active Control. Outcome measures will be repeated immediately Post-Treatment&#xD;
+      and at 6-months post-treatment Follow-Up. Specific Aim 1 will examine the feasibility of this&#xD;
+      lifestyle intervention and outcome assessments when applied to participants with EOAD.&#xD;
+      Specific Aim 2 will investigate if this lifestyle intervention improves short- and long-term&#xD;
+      cognition, functioning, and mood. Specific Aim 3 will be exploratory to assess whether&#xD;
+      individual differences in training or clinical/ demographic characteristics moderate the&#xD;
+      degree of benefit from this intervention; owing to sample size limitations in this&#xD;
+      feasibility study, focus of this latter aim will be on determining effect sizes and&#xD;
+      sample-size magnitude needed for future work.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2023</start_date>
+  <completion_date type="Anticipated">June 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized into one of two conditions: (1) Computerized Cognitive Training + Tai Chi Exercise or (2) Active Control.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Participant and outcomes assessor (study coordinator) will be masked to intervention assignment. Principle investigator will not be masked given the size of the study team.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Performance on CANTAB Connect computerized Memory Composite immediately post-intervention, after controlling for baseline performance</measure>
+    <time_frame>15-Week Post-Intervention Follow-up</time_frame>
+    <description>CANTAB Connect computerized Memory Composite was selected for its remote assessment of memory, with validation in Alzheimer's Disease samples. This composite will be calculated from Paired Associates Learning, Pattern Recognition Memory, and Verbal Paired Associates subtests, with higher scores reflected better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Performance on CANTAB Connect computerized Executive Composite immediately post-intervention, after controlling for baseline performance</measure>
+    <time_frame>15-Week Post-Intervention Follow-up</time_frame>
+    <description>CANTAB Connect computerized Executive Composite was selected for its remote assessment of executive functioning, with validation in Alzheimer's Disease samples. This composite will be calculated from Stockings of Cambridge, Spatial Working Memory, Rapid Visual Processing, and Match To Sample subtests, with higher scores reflected better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Performance on CANTAB Connect computerized Memory Composite 26 weeks after intervention, after controlling for baseline performance</measure>
+    <time_frame>40-Week Post-Intervention Follow-up</time_frame>
+    <description>CANTAB Connect computerized Memory Composite was selected for its remote assessment of memory, with validation in Alzheimer's Disease samples. This composite will be calculated from Paired Associates Learning, Pattern Recognition Memory, and Verbal Paired Associates subtests, with higher scores reflected better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Performance on CANTAB Connect computerized Executive Composite 26 weeks after intervention, after controlling for baseline performance</measure>
+    <time_frame>40-Week Post-Intervention Follow-up</time_frame>
+    <description>CANTAB Connect computerized Executive Composite was selected for its remote assessment of executive functioning, with validation in Alzheimer's Disease samples. This composite will be calculated from Stockings of Cambridge, Spatial Working Memory, Rapid Visual Processing, and Match To Sample subtests, with higher scores reflected better performance.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Benefit from Cognitive Training using Cognitive Self-Report Questionnaire immediately post-intervention, after controlling for baseline performance</measure>
+    <time_frame>15-Week Post-Intervention Follow-up</time_frame>
+    <description>Cognitive Self-Report Questionnaire is a 25-item self-report questionnaire of subjective cognitive difficulties. Scores range from 0-125, with higher scores denoting greater cognitive symptoms. This measure has been used in a variety of studies examining benefit from cognitive training.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Benefit from Cognitive Training using Cognitive Self-Report Questionnaire 26 weeks after intervention, after controlling for baseline performance</measure>
+    <time_frame>40-Week Post-Intervention Follow-up</time_frame>
+    <description>Cognitive Self-Report Questionnaire is a 25-item self-report questionnaire of subjective cognitive difficulties. Scores range from 0-125, with higher scores denoting greater cognitive symptoms. This measure has been used in a variety of studies examining benefit from cognitive training.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance on scales of functioning immediately post-intervention, after controlling for baseline performance</measure>
+    <time_frame>15-Week Post-Intervention Follow-up</time_frame>
+    <description>The Alzheimer's Disease Cooperative Study - Activities of Daily Living Inventory is an informant-based rating scale that assesses the participant's ability to perform a variety of activities of daily living over the past four weeks, and has been shown to discriminate between healthy elderly controls and those with mild Alzheimer's disease. Scores range from 0-78, with higher scores denoting better functional ability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance on scales of functioning 26 weeks after intervention, after controlling for baseline performance</measure>
+    <time_frame>40-Week Post-Intervention Follow-up</time_frame>
+    <description>The Alzheimer's Disease Cooperative Study - Activities of Daily Living Inventory is an informant-based rating scale that assesses the participant's ability to perform a variety of activities of daily living over the past four weeks, and has been shown to discriminate between healthy elderly controls and those with mild Alzheimer's disease. Scores range from 0-78, with higher scores denoting better functional ability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported depression immediately post-intervention, after controlling for baseline performance</measure>
+    <time_frame>15-Week Post-Intervention Follow-up</time_frame>
+    <description>21-item Beck Depression Inventory-2 was used as a measure of self-reported depression. Scores range from 0-63, with higher scores denoting greater self-reported depression symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Self-reported depression immediately 26 weeks after intervention, after controlling for baseline performance</measure>
+    <time_frame>40-Week Post-Intervention Follow-up</time_frame>
+    <description>21-item Beck Depression Inventory-2 was used as a measure of self-reported depression. Scores range from 0-63, with higher scores denoting greater self-reported depression symptoms.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Alzheimer Disease, Early Onset</condition>
+  <arm_group>
+    <arm_group_label>Experimental Cognitive Training and Tai Chi- Qi Gong Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receiving 14 weeks of Cognitive Training (BrainHQ) and Tai Chi- Qi Gong exercise training</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Control Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receiving 14 weeks of Brain Games (BrainHQ) and stretching</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Cognitive Training</intervention_name>
+    <description>Participants will be asked to complete approximately 45 minutes of training, 4-5 sessions per week for 14 weeks (corresponding to approximately 40 hours of training total). Training will be completed via BrainHQ, a mobile application that, as used in this study, meets the FDA's definition of a medical device.</description>
+    <arm_group_label>Experimental Cognitive Training and Tai Chi- Qi Gong Arm</arm_group_label>
+    <other_name>BrainHQ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Tai Chi- Qi Gong</intervention_name>
+    <description>Participants will be asked to complete 14 hours of training total (in 30-minute sessions, 2 days per week for 14 weeks).</description>
+    <arm_group_label>Experimental Cognitive Training and Tai Chi- Qi Gong Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Brain Games</intervention_name>
+    <description>Participants will be asked to complete 40 hours of training total (in 45-minute sessions, 4 to 5 days per week for 14 weeks). Training will be completed via BrainHQ, a mobile application that, as used in this study, meets the FDA's definition of a medical device.</description>
+    <arm_group_label>Active Control Arm</arm_group_label>
+    <other_name>BrainHQ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Stretching</intervention_name>
+    <description>Participants will be asked to engage in stretching exercises twice per week, for approximately 30 minutes per session. This will total 14 hours over the course of 14 weeks.</description>
+    <arm_group_label>Active Control Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Enrolled in the Longitudinal Early-Onset AD Study (LEADS) parent study, and being&#xD;
+             classified via LEADS consensus criteria as having amyloid-positive Early Onset&#xD;
+             Alzheimer's Disease&#xD;
+&#xD;
+          -  Aged 40-64 years at the time of enrollment into LEADS&#xD;
+&#xD;
+          -  Fluent in English&#xD;
+&#xD;
+          -  In good general health and absent another neurological disorder&#xD;
+&#xD;
+          -  Have a knowledgeable informant.&#xD;
+&#xD;
+          -  Have had a Clinical Dementia Rating scale of 0.5 to 1.0 at the time of enrollment into&#xD;
+             LEADS&#xD;
+&#xD;
+          -  Have sufficient vision, hearing, comprehension, and manual dexterity to participate in&#xD;
+             the testing and training program&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Have access to the internet (e.g., home, family, public library, etc.) for less than 4&#xD;
+        hours per week&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dustin B Hammers, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dustin B Hammers, PhD</last_name>
+    <phone>3179638557</phone>
+    <email>hammersd@iu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dustin B Hammers, PhD</last_name>
+      <phone>317-963-8557</phone>
+      <email>hammersd@iu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Dustin B Hammers, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>September 28, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 5, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 10, 2022</study_first_posted>
+  <last_update_submitted>October 5, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Dustin Hammers</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>lifestyle intervention</keyword>
+  <keyword>cognitive training</keyword>
+  <keyword>exercise training</keyword>
+  <keyword>cognition</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Other researchers can contact the PI to request copies of the study data.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 13, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/90/NCT05573490/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 13, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/90/NCT05573490/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

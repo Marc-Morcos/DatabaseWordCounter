@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2698">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05171725</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EU-Horizon-2020-965422</org_study_id>
+    <nct_id>NCT05171725</nct_id>
+  </id_info>
+  <brief_title>Multidisciplinary Expert System for the Assessment &amp; Management of Complex Brain Disorders</brief_title>
+  <acronym>MES-CoBraD</acronym>
+  <official_title>Multidisciplinary Expert System for the Assessment &amp; Management of Complex Brain Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Neurological Institute of Athens</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Rabin Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>King's College London</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Uppsala University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Holistic IKE</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Technical University of Athens</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Evolution Projects</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Engineering Ingegneria Informatica S.p.A.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SOFTWARE IMAGINATION &amp; VISION SRL</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vrije Universiteit Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>STICHTING LIBER</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Edinburgh</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CyberEthics Lab. srls</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Neurological Institute of Athens</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Multidisciplinary Expert System for the Assessment &amp; Management of Complex Brain&#xD;
+      Disorders (MES-CoBraD) is an interdisciplinary project combining Real-World Data (RWD) from&#xD;
+      multiple clinical and consumer sources through comprehensive, cost-efficient, and fast&#xD;
+      protocols towards improving diagnostic accuracy and therapeutic outcomes in people with&#xD;
+      Complex Brain Disorders (CoBraD), as reflected in Neurocognitive (Dementia), Sleep, and&#xD;
+      Seizure (Epilepsy) disorders and their interdependence. It brings together internationally&#xD;
+      recognized experts in medicine, engineering, computer science, social health science, law,&#xD;
+      and marketing and communication from across Europe, and combines clinical information and&#xD;
+      scientific research in CoBraD with technical innovation in secure data-sharing platforms,&#xD;
+      artificial intelligence algorithms, and expert systems of precision and personalized care,&#xD;
+      with a primary focus on improving the quality of life of patients, their caregivers, and the&#xD;
+      society at large. It leverages RWD from diverse CoBraD populations across cultural,&#xD;
+      socioeconomic, educational, and health system backgrounds, with special attention on&#xD;
+      including vulnerable populations and minorities in an equitable manner and engaging key&#xD;
+      stakeholders to maximize project impact.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2024</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>3 Years</target_duration>
+  <primary_outcome>
+    <measure>Expert System Accuracy for the Assessment of Complex Brain Disorders</measure>
+    <time_frame>3 years</time_frame>
+    <description>Pursuing external cross-validation using training and test sample data acquired during MES-CoBraD, examine the sensitivity, specificity, accuracy, and likelihood ratios in making an accurate diagnosis of Complex Brain Disorders (neurocognitive, epilepsy, sleep disorders), compared to gold standard diagnostic criteria.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Expert System Accuracy for the Management of Complex Brain Disorders</measure>
+    <time_frame>3 years</time_frame>
+    <description>Pursuing external cross-validation using training and test sample data acquired during MES-CoBraD, examine the sensitivity, specificity, accuracy, and likelihood ratios in recommending standard of care treatment decisions in Complex Brain Disorders (neurocognitive, epilepsy, sleep disorders), compared to gold standard professional society recommendations.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Examine safety of approved therapies for Complex Brain Disorders</measure>
+    <time_frame>3 years</time_frame>
+    <description>Test for statistically significant Side-Effect differences within 6 months of initiating approved treatments for Complex Brain Disorders between participants receiving and not receiving disease-specific therapies. Side effect reporting will be combined from patient, caregiver, and clinician input. Side effects are defined by a combination of predefined common and significant side-effect options and free text.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevalence co-occurrence of Complex Brain Disorders (Neurocognitive, Sleep, and Epilepsy disorders)</measure>
+    <time_frame>3 years</time_frame>
+    <description>Within each of the three types of CoBraD, examine the frequency of comorbidity of the other two following comprehensive diagnostic protocols</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Examine efficacy of approved therapies for Complex Brain Disorders</measure>
+    <time_frame>3 years</time_frame>
+    <description>Test for statistically significant efficacy differences of using approved treatments for Complex Brain Disorders over the 3 year period of the study, between participants receiving and not receiving disease-specific therapies post sample stratification. Efficacy data will be combined from patient, caregiver, and clinician input according to the respective CoBraD efficacy outcome measures (e.g., MoCA for neurocognitive, seizure frequency and severity for epilepsy, PSQI for sleep disorders).</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">350</enrollment>
+  <condition>Dementia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Epilepsy</condition>
+  <condition>Sleep Disorder</condition>
+  <condition>Circadian Rhythm Disorders</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Sleep and Circadian Disorders</arm_group_label>
+    <description>Observational deep phenotyping of people presenting with Sleep and Circadian disorders. Participants will undergo a comprehensive multidisciplinary protocol of clinical assessment by an expert clinician, neuropsychological testing by a neuropsychologist through paper-and-pencil and tablet tests, actigraphy, polysomnography with concurrent electroencephalography, pre- and post- sleep cognitive testing and biosample acquisition, and where available provide access to wearable data, therapeutic device data (e.g., PAP/NIV), and brain imaging</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Neurocognitive Disorders</arm_group_label>
+    <description>Observational deep phenotyping of people presenting with Dementia (including Alzheimer's disease, vascular disease, frontotemporal dementia). Participants will undergo a comprehensive multidisciplinary protocol of clinical assessment by an expert clinician, neuropsychological testing by a neuropsychologist through paper-and-pencil and tablet tests, actigraphy, polysomnography with concurrent electroencephalography, pre- and post- sleep cognitive testing and biosample acquisition, and where available provide access to wearable data, therapeutic device data (e.g., PAP/NIV), and brain imaging</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Epilepsy disorders</arm_group_label>
+    <description>Observational deep phenotyping of people presenting with seizures and Epilepsy disorder. Participants will undergo a comprehensive multidisciplinary protocol of clinical assessment by an expert clinician, neuropsychological testing by a neuropsychologist through paper-and-pencil and tablet tests, actigraphy, polysomnography with concurrent electroencephalography, pre- and post- sleep cognitive testing and biosample acquisition, and where available provide access to wearable data, therapeutic device data (e.g., PAP/NIV), and brain imaging</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <description>Participants will undergo a comprehensive multidisciplinary protocol of clinical assessment by an expert clinician, neuropsychological testing by a neuropsychologist through paper-and-pencil and tablet tests, actigraphy, polysomnography with concurrent electroencephalography, pre- and post- sleep cognitive testing and biosample acquisition, and where available provide access to wearable data, therapeutic device data (e.g., PAP/NIV), and brain imaging</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>EEG,PSG</intervention_name>
+    <description>concurrent overnight sleep study with full electroencephalography (in-lab or at home)</description>
+    <arm_group_label>Epilepsy disorders</arm_group_label>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Neurocognitive Disorders</arm_group_label>
+    <arm_group_label>Sleep and Circadian Disorders</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>biosample collection (blood and CSF)</intervention_name>
+    <description>blood or CSF collection for analyses of neurodegenerative, inflammatory, and, per condition, genetic information</description>
+    <arm_group_label>Epilepsy disorders</arm_group_label>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Neurocognitive Disorders</arm_group_label>
+    <arm_group_label>Sleep and Circadian Disorders</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>neuropsychological testing</intervention_name>
+    <description>paper and pencil, as well as tablet based cognitive testing</description>
+    <arm_group_label>Epilepsy disorders</arm_group_label>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Neurocognitive Disorders</arm_group_label>
+    <arm_group_label>Sleep and Circadian Disorders</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>actigraphy</intervention_name>
+    <description>week long actigraphy assessment with concurrent sleep diary acquisition</description>
+    <arm_group_label>Epilepsy disorders</arm_group_label>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Neurocognitive Disorders</arm_group_label>
+    <arm_group_label>Sleep and Circadian Disorders</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>clinician assessment</intervention_name>
+    <description>standard clinical assessment by an expert clinician in the respective field of brain disorders</description>
+    <arm_group_label>Epilepsy disorders</arm_group_label>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Neurocognitive Disorders</arm_group_label>
+    <arm_group_label>Sleep and Circadian Disorders</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood (plasma and serum) and CSF biosamples collected and retained in deep freeze.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study aims to develop an Expert System for the assessment and management of complex&#xD;
+        brain disorders in real-world practice and participants who present in all of the above&#xD;
+        clinics are eligible, in order to obtain data as close to real-world practice as possible.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All participants willing to undergo comprehensive assessment who visit one of three&#xD;
+             clinics (Epilepsy, Neurocognitive disorders, and Sleep Disorders), and healthy&#xD;
+             volunteers&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  participant disinterest&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elissaios Karageorgiou</last_name>
+    <role>Study Director</role>
+    <affiliation>Neurological Institute of Athens</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ioannis Stavropoulos</last_name>
+    <role>Study Director</role>
+    <affiliation>King's College London</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ophir Keret</last_name>
+    <role>Study Director</role>
+    <affiliation>Rabin Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Victor Montal</last_name>
+    <role>Study Director</role>
+    <affiliation>Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>May Tabangin</last_name>
+    <phone>+302107217457</phone>
+    <email>m.tabangin@nioa.gr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eleana Nianiou</last_name>
+    <phone>+302107217457</phone>
+    <email>e.nianiou@nioa.gr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Neurological Institute of Athens</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>May Tabangin</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Greece</country>
+  </location_countries>
+  <link>
+    <url>http://mes-cobrad.eu</url>
+    <description>Study site</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 29, 2021</study_first_posted>
+  <last_update_submitted>December 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>artificial intelligence</keyword>
+  <keyword>expert systems</keyword>
+  <keyword>deep-phenotyping</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+    <mesh_term>Chronobiology Disorders</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be anonymized and depersonalized on a local site repository, and then uploaded in the secure MES-CoBraD Platform. An estimated six months after study completion, data will be made available to other researchers through the MES-CoBraD Platform.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>an estimated 6 months after study completion</ipd_time_frame>
+    <ipd_access_criteria>These will be developed upon completion of the Platform. The platform will contain both opensource and pre-existing proprietary code, and some of the code will not be made available to researchers, but will be functional on the Platform.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

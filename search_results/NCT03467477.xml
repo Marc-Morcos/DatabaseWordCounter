@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1632">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03467477</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18F-AV-1451-A24</org_study_id>
+    <nct_id>NCT03467477</nct_id>
+  </id_info>
+  <brief_title>Tau Screening Study in Subjects With Early Symptomatic AD</brief_title>
+  <official_title>A Multicenter Screening Study With Flortaucipir F 18 in Patients With Early Symptomatic AD; #2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Avid Radiopharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Avid Radiopharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This protocol is designed to serve as a pre-screening study for subjects who are potentially&#xD;
+      eligible for Alzheimer's Disease (AD) therapeutic trials that require tau imaging for&#xD;
+      inclusion by means of a flortaucipir F18 Positron Emission Tomography (PET) scan.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 8, 2018</start_date>
+  <completion_date type="Actual">November 15, 2018</completion_date>
+  <primary_completion_date type="Actual">November 15, 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Flortaucipir Qualitative Results (Visual Reads)</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Flortaucipir PET scans were rated visually by an expert reader as follows: Not consistent with an AD pattern (τAD-), Moderate AD pattern (τAD+), or Advanced AD pattern and likely to progress (τAD++). Eligibility for future studies was determined from the flortaucipir PET scan according to protocol-specified criteria.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Flortaucipir Quantitative Results (SUVr)</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain. Visual read categories as described for previous measure.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">161</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Flortaucipir PET Scan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flortaucipir F18</intervention_name>
+    <description>370 megabecquerel (MBq) IV single-dose</description>
+    <arm_group_label>Flortaucipir PET Scan</arm_group_label>
+    <other_name>18F-AV-1451</other_name>
+    <other_name>[F-18]T807</other_name>
+    <other_name>LY3191748</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Brain PET Scan</intervention_name>
+    <description>positron emission tomography (PET) scan of the brain</description>
+    <arm_group_label>Flortaucipir PET Scan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with gradual and progressive change in memory function reported by the&#xD;
+             patient or informant for ≥6 months&#xD;
+&#xD;
+          2. Patients who have a mini-mental status exam (MMSE) score between 20-28 inclusive&#xD;
+&#xD;
+          3. Patients who are willing to undergo a PET scan using flortaucipir F 18&#xD;
+&#xD;
+          4. Patients who give informed consent or have a legally authorized representative (LAR)&#xD;
+             available to consent at the time of enrollment&#xD;
+&#xD;
+          5. A study partner who must be available if the patient enters the treatment trial&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Are females of childbearing potential who are not surgically sterile, not refraining&#xD;
+             from sexual activity or not using reliable methods of contraception. Females of&#xD;
+             childbearing potential must not be pregnant (negative serum β-HCG [beta human&#xD;
+             chorionic gonadotropin] at screening and negative urine β-HCG prior to flortaucipir F&#xD;
+             18 injection) or breastfeeding at screening. Females should agree to avoid becoming&#xD;
+             pregnant by refraining from sexual activity or using reliable contraceptive methods&#xD;
+             for 24 hours following administration of flortaucipir F 18 injection;&#xD;
+&#xD;
+          2. Patients who lack, in the investigator's opinion, adequate premorbid literacy,&#xD;
+             adequate vision, or adequate hearing to complete the required psychometric testing;&#xD;
+&#xD;
+          3. Have significant neurological disease affecting the central nervous system (CNS),&#xD;
+             other than AD, that may affect cognition or ability to complete the study, including&#xD;
+             but not limited to, other dementias, serious infection of the brain, Parkinson's&#xD;
+             disease, multiple concussions, or epilepsy or recurrent seizures (except febrile&#xD;
+             childhood seizures);&#xD;
+&#xD;
+          4. Patients with any current primary psychiatric diagnosis other than AD if, in the&#xD;
+             judgment of the investigator, the psychiatric disorder or symptom is likely to&#xD;
+             confound interpretation of drug effect, affect cognitive assessment, or affect the&#xD;
+             patient's ability to complete the study [Patients with history of schizophrenia or&#xD;
+             other chronic psychosis are excluded.];&#xD;
+&#xD;
+          5. Have a current serious or unstable illness including, cardiovascular, hepatic, renal,&#xD;
+             gastroenterologic, respiratory, endocrinologic, neurologic (other than AD),&#xD;
+             psychiatric, immunologic, or hematologic disease and other conditions that, in the&#xD;
+             investigator's opinion, could interfere with the analyses in this study; or has a life&#xD;
+             expectancy of &lt;24 months;&#xD;
+&#xD;
+          6. Has a history of cancer within the last 5 years, with the exception of nonmetastatic&#xD;
+             basal and/or squamous cell carcinoma of the skin, in situ cervical cancer,&#xD;
+             non-progressive prostate cancer, or other cancers with low risk of recurrence or&#xD;
+             spread;&#xD;
+&#xD;
+          7. Have a past history (suspected or confirmed) of Hepatitis B or Hepatitis C;&#xD;
+&#xD;
+          8. Are clinically judged by the investigator to be at serious risk for suicide as&#xD;
+             assessed by medical history, examination, or the Columbia-Suicide Severity Rating&#xD;
+             Scale (C-SSRS).&#xD;
+&#xD;
+          9. Have a history of alcohol or drug disorder (except tobacco use disorder) within 2&#xD;
+             years before the screening visit;&#xD;
+&#xD;
+         10. Have a history of clinically significant multiple or severe drug allergies or severe&#xD;
+             post treatment hypersensitivity reactions (including but not limited to erythema&#xD;
+             multiforme major, linear immunoglobulin A dermatosis, toxic epidermal necrolysis,&#xD;
+             and/or exfoliative dermatitis)&#xD;
+&#xD;
+         11. Have known positive serologic findings for human immunodeficiency virus (HIV)&#xD;
+             antibodies. Local laws and regulations may apply to whether testing is required.&#xD;
+&#xD;
+         12. Has previous MRI evidence of significant abnormality that would suggest another&#xD;
+             potential etiology for progressive dementia or a clinically significant finding that&#xD;
+             may impact the patient's ability to safely participate in the study;&#xD;
+&#xD;
+         13. Have any contraindications for MRI, including claustrophobia or the presence of&#xD;
+             contraindicated metal (ferromagnetic) implants/cardiac pacemaker;&#xD;
+&#xD;
+         14. Have any clinically important abnormality at screening, as determined by investigator,&#xD;
+             in physical or neurological examination, vital signs, ECG, or clinical laboratory test&#xD;
+             results that could be detrimental to the patient, could compromise the study, or show&#xD;
+             evidence of other etiologies for dementia.&#xD;
+&#xD;
+         15. Has hypersensitivity to flortaucipir F 18 or any of its excipients;&#xD;
+&#xD;
+         16. Intend to use drugs known to significantly prolong the QT interval within 14 days or 5&#xD;
+             half-lives, whichever is longer, of a scheduled screening/baseline flortaucipir F 18&#xD;
+             PET scan, or have medical history of risk factors for torsades de pointes.&#xD;
+&#xD;
+         17. Have an ECG corrected QT (QTcF) interval measurement &gt;450 msec (men) or &gt;470 msec&#xD;
+             (women) at screening (as determined at the investigational site).&#xD;
+&#xD;
+         18. Have poor venous access;&#xD;
+&#xD;
+         19. Contraindication to PET;&#xD;
+&#xD;
+         20. Present or planned exposure to ionizing radiation that, in combination with the&#xD;
+             planned administration of study PET ligands, would result in a cumulative exposure&#xD;
+             that exceeds local recommended exposure limits;&#xD;
+&#xD;
+         21. Patients that are currently enrolled in any other interventional clinical trial&#xD;
+             involving an investigational product or any other type of medical research judged not&#xD;
+             to be scientifically or medically compatible with this study&#xD;
+&#xD;
+         22. Have participated, within the last 30 days in a clinical trial involving an&#xD;
+             investigational product. If the previous investigational product is scientifically or&#xD;
+             medically incompatible with this study and has a long half-life, 3 months or 5&#xD;
+             half-lives (whichever is longer) should have passed prior to screening (Participation&#xD;
+             in observational studies may be permitted upon review of the observational study&#xD;
+             protocol and approval by the sponsor).&#xD;
+&#xD;
+         23. Are investigator site personnel directly affiliated with this study and/or their&#xD;
+             immediate families; immediate family is defined as spouse, parent, child, or sibling&#xD;
+             whether biological or legally adopted;&#xD;
+&#xD;
+         24. Are Lilly employees or are employees of third-party organizations (TPOs) involved in a&#xD;
+             study that requires exclusion of their employees;&#xD;
+&#xD;
+         25. In the opinion of the investigator, are otherwise unsuitable for a study of this type.&#xD;
+&#xD;
+         26. Have received treatment with a stable dose of an acetylcholinesterase inhibitor&#xD;
+             (AChEI) and/or memantine for less than 1 months [If a patient has recently stopped an&#xD;
+             AChEI and/or memantine, he or she must have discontinued treatment at least 1 months&#xD;
+             prior].&#xD;
+&#xD;
+         27. Have changes in concomitant medications that could potentially affect cognition and&#xD;
+             their dosing should be stable for at least 1 month before screening, (does not apply&#xD;
+             to medications with limited duration of use, such as antibiotics).&#xD;
+&#xD;
+         28. Have received active immunization agents for the treatment of Alzheimer's Disease&#xD;
+&#xD;
+         29. Have known allergies to LY3303560, related compounds, or any components of the&#xD;
+             formulation; or history of significant atopy&#xD;
+&#xD;
+         30. Have allergies to either monoclonal antibodies, diphenhydramine, epinephrine, or&#xD;
+             methylprednisolone;&#xD;
+&#xD;
+         31. Are receiving Immunoglobulin G therapy (also known as gamma globulin or intravenous&#xD;
+             immunoglobulin [IVIG])&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chief Medical Officer</last_name>
+    <role>Study Chair</role>
+    <affiliation>Avid Radiopharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Irvine Center for Clinical Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropsychiatric Research Center of Southwest Florida</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>BioClinica Research</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cotton O'neil Clinical Research Center</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>March 8, 2018</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 16, 2018</study_first_posted>
+  <results_first_submitted>June 27, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 7, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 24, 2020</results_first_posted>
+  <disposition_first_submitted>November 14, 2019</disposition_first_submitted>
+  <disposition_first_submitted_qc>August 7, 2020</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">August 24, 2020</disposition_first_posted>
+  <last_update_submitted>August 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 17, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT03467477/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 11, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/77/NCT03467477/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Enrollment occurred between Mar 2018 and Nov 2018. Recruited subjects with clinically diagnosed early AD who were interested in participating in AD therapeutic clinical trials being conducted by Eli Lilly and Company.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Early Symptomatic AD Subjects</title>
+          <description>Early Symptomatic AD subjects in the flortaucipir PET scan arm</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="161"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="161"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Early Symptomatic AD Subjects</title>
+          <description>Early Symptomatic AD subjects in the flortaucipir PET scan arm</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="161"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75.0" spread="6.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="93"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="154"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>MMSE</title>
+          <description>Mini-mental status exam (MMSE) is a 30-point questionnaire that is used to measure cognitive impairment. Scores range from 0 to 30 with lower scores representing greater levels of cognitive impairment.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25.0" spread="2.51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Flortaucipir Qualitative Results (Visual Reads)</title>
+        <description>Flortaucipir PET scans were rated visually by an expert reader as follows: Not consistent with an AD pattern (τAD-), Moderate AD pattern (τAD+), or Advanced AD pattern and likely to progress (τAD++). Eligibility for future studies was determined from the flortaucipir PET scan according to protocol-specified criteria.</description>
+        <time_frame>baseline scan</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Early Symptomatic AD, Eligible for Future Trials</title>
+            <description>Subjects determined to be eligible for future studies from the flortaucipir PET scan arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Early Symptomatic AD, Ineligible for Future Trials</title>
+            <description>Subjects who were not eligible for future studies from the flortaucipir PET scan arm.</description>
+          </group>
+          <group group_id="O3">
+            <title>Early Symptomatic AD, Not Evaluable</title>
+            <description>Subjects determined to be not eligible for future studies from the flortaucipir PET scan arm due to unevaluable PET scan for quantitation</description>
+          </group>
+          <group group_id="O4">
+            <title>Early Symptomatic AD (Total)</title>
+            <description>All subjects with early symptomatic AD from the flortaucipir PET scan arm</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Flortaucipir Qualitative Results (Visual Reads)</title>
+          <description>Flortaucipir PET scans were rated visually by an expert reader as follows: Not consistent with an AD pattern (τAD-), Moderate AD pattern (τAD+), or Advanced AD pattern and likely to progress (τAD++). Eligibility for future studies was determined from the flortaucipir PET scan according to protocol-specified criteria.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="55"/>
+                <count group_id="O2" value="105"/>
+                <count group_id="O3" value="1"/>
+                <count group_id="O4" value="161"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>τAD++, advanced AD pattern</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="51"/>
+                    <measurement group_id="O2" value="13"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="65"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>τAD+, moderate AD pattern</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="10"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>τAD-, pattern not consistent with AD</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="82"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Flortaucipir Quantitative Results (SUVr)</title>
+        <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain. Visual read categories as described for previous measure.</description>
+        <time_frame>baseline scan</time_frame>
+        <population>SUVr was not collected for patients with a τAD- result (n=82) and one subject had an unevaluable flortaucipir scan for quantitation. Therefore, analysis population n=78.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Early Symptomatic AD, Eligible for Future Trials</title>
+            <description>Subjects determined to be eligible for future studies from the flortaucipir PET scan arm.</description>
+          </group>
+          <group group_id="O2">
+            <title>Early Symptomatic AD, Ineligible for Future Trials</title>
+            <description>Subjects who were not eligible for future studies from the flortaucipir PET scan arm.</description>
+          </group>
+          <group group_id="O3">
+            <title>Early Symptomatic AD, Not Evaluable</title>
+            <description>Subjects determined to be not eligible for future studies from the flortaucipir PET scan arm due to unevaluable PET scan for quantitation</description>
+          </group>
+          <group group_id="O4">
+            <title>Early Symptomatic AD (Total)</title>
+            <description>All subjects with early symptomatic AD from the flortaucipir PET scan arm</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Flortaucipir Quantitative Results (SUVr)</title>
+          <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain. Visual read categories as described for previous measure.</description>
+          <population>SUVr was not collected for patients with a τAD- result (n=82) and one subject had an unevaluable flortaucipir scan for quantitation. Therefore, analysis population n=78.</population>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="55"/>
+                <count group_id="O2" value="23"/>
+                <count group_id="O3" value="1"/>
+                <count group_id="O4" value="78"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>SUVr all subjects</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="55"/>
+                    <count group_id="O2" value="23"/>
+                    <count group_id="O3" value="0"/>
+                    <count group_id="O4" value="78"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.24766" spread="0.122786"/>
+                    <measurement group_id="O2" value="1.38020" spread="0.343791"/>
+                    <measurement group_id="O4" value="1.28674" spread="0.219185"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SUVr τAD++ subjects</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="51"/>
+                    <count group_id="O2" value="13"/>
+                    <count group_id="O3" value="0"/>
+                    <count group_id="O4" value="64"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.25687" spread="0.122501"/>
+                    <measurement group_id="O2" value="1.64935" spread="0.187100"/>
+                    <measurement group_id="O4" value="1.33659" spread="0.209539"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SUVr τAD+ subjects</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="4"/>
+                    <count group_id="O2" value="10"/>
+                    <count group_id="O3" value="0"/>
+                    <count group_id="O4" value="14"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.13025" spread="0.038043"/>
+                    <measurement group_id="O2" value="1.03031" spread="0.039727"/>
+                    <measurement group_id="O4" value="1.05886" spread="0.060181"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>48 hours after study drug administration</time_frame>
+      <desc>Adverse events (AEs) were collected at scan visits, regardless of attribution to study drug. End of study for AE reporting was 48 hours after the last study drug administration. AEs occurring after study drug administration, but outside that window were not recorded, unless considered attributable to study drug.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Safety Analysis Population</title>
+          <description>All subjects with early symptomatic AD from the flortaucipir PET scan arm who received one dose of flortaucipir</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="161"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="161"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>1</frequency_threshold>
+        <default_vocab>MedDRA 21.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="161"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>claustrophobia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="161"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Medical Director</name_or_title>
+      <organization>Avid Radiopharmaceuticals, Inc.</organization>
+      <phone>215-298-0700</phone>
+      <email>clinicaloperations@avidrp.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

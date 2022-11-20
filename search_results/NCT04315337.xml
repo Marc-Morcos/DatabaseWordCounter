@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2646">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04315337</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AG066771</org_study_id>
+    <nct_id>NCT04315337</nct_id>
+  </id_info>
+  <brief_title>Improving Everyday Task Performance Through Repeated Practice in Virtual Reality.</brief_title>
+  <acronym>VKI</acronym>
+  <official_title>Improving Everyday Task Performance Through Repeated Practice in Virtual Reality.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Temple University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Temple University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There are very few effective interventions that promote functional independence in people&#xD;
+      with Alzheimer's disease (AD) and related dementias. This R21 project is the first step in&#xD;
+      the long-term goal of developing an effective, enjoyable, portable, and inexpensive&#xD;
+      non-immersive virtual reality (VR) training intervention for improving the performance of&#xD;
+      everyday tasks. The investigators' VR training approach is built upon the results of past&#xD;
+      studies that show 1) when people with AD repeatedly practice daily tasks they subsequently&#xD;
+      perform them more completely and without error; and 2) healthy people are able to transfer&#xD;
+      skills learned in VR-contexts to tasks in the real world. This R21 study will obtain&#xD;
+      preliminary data to inform a future randomized clinical trial through three aims: Aim 1) To&#xD;
+      test the hypothesis that individuals with mild-moderate AD will show improved performance on&#xD;
+      an everyday task after repeatedly practicing the task in a non-immersive VR setting; Aim 2)&#xD;
+      To explore usability and acceptability of the VR training as well as associations between&#xD;
+      individual differences variables (e.g., cognitive abilities, demographics) and training&#xD;
+      effects. To test Aim 1, 40 participants with mild to moderate AD will be recruited to&#xD;
+      complete daily VR Training sessions for one week. VR Training will include repeated practice&#xD;
+      of a single, everyday task in a non-immersive VR-context (VR Breakfast or VR Lunch;&#xD;
+      counterbalanced across participants). The primary outcome measure is performance of the&#xD;
+      real-life version of the trained task, which will be collected before and at two time points&#xD;
+      after training, compared to performance of an untrained, control task of comparable&#xD;
+      difficulty, and scored from video by coders blinded to training task/condition. To evaluate&#xD;
+      Aim 2, all participants and an informant will complete interviews and questionnaires and&#xD;
+      participants will complete tests of cognitive abilities. Usability and acceptability of the&#xD;
+      VR training will be evaluated and associations between participant variables and VR Training&#xD;
+      results will be explored. If the proposed hypothesis is supported and results show that&#xD;
+      training effects generalize from virtual to real tasks in the study sample, then VR training&#xD;
+      of custom and individualized tasks will be investigated in a future randomized, controlled&#xD;
+      clinical trial for maintaining and improving functional abilities in people with mild to&#xD;
+      moderate AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Functional disability, the loss of independence in everyday tasks like meal preparation, is a&#xD;
+      core diagnostic criterion for clinical dementia/Alzheimer's disease (AD) and contributes to&#xD;
+      the disease's exorbitant costs and caregiver burden. There is currently no cure for AD and&#xD;
+      available interventions have had limited success at reducing functional disability. Cognitive&#xD;
+      training leads to reliable improvements on the specific task(s) that are repeatedly&#xD;
+      practiced, but transfer to untrained, functional tasks is limited. Because of both limited&#xD;
+      transfer and rigid (procedural) learning in AD, novel language-based interventions for&#xD;
+      dementia have focused on repeated practice with a circumscribed and highly personalized&#xD;
+      vocabulary to maintain functional communication. Repeated practice of everyday tasks&#xD;
+      (leveraging intact procedural memory also has been shown to improve performance of trained&#xD;
+      tasks in people with AD but is not a feasible intervention, because the effort required to&#xD;
+      set up tasks, monitor performance, and provide feedback/supervision is far greater than&#xD;
+      having a caregiver simply complete the task for the patient. However, if repeated practice of&#xD;
+      specific everyday tasks could be implemented in a more cost-effective, efficient manner, then&#xD;
+      this straightforward intervention strategy could reduce functional disability and associated&#xD;
+      costs of care and caregiver burden.&#xD;
+&#xD;
+      This R21 proposal will investigate the efficacy of a low-cost and portable computer training&#xD;
+      program that uses non-immersive virtual reality (VR) to enable participants with AD to&#xD;
+      independently practice meaningful everyday activities (e.g., meal preparation). The goal of&#xD;
+      this R21 study is to evaluate the extent to which training in a virtual context will&#xD;
+      generalize to real life tasks. If training effects generalize from virtual to real settings,&#xD;
+      then training of customized tasks for maintaining and improving functional abilities in older&#xD;
+      adults with AD will be investigated in a future randomized, controlled clinical trial.&#xD;
+&#xD;
+      This proposal was informed by a cognitive activation model on which everyday activities are&#xD;
+      represented as schema hierarchies. Activation within the schema hierarchy may spread&#xD;
+      automatically from higher level schema (e.g., make lunch) to lower level schema (e.g., spread&#xD;
+      peanut butter) as well as from objects or environments that may &quot;trigger&quot; associated schema&#xD;
+      (e.g., a coffee mug may activate coffee-making schema). Deliberate cognitive control is&#xD;
+      essential to modulate activations, enable smooth transitions between schema subtasks, and&#xD;
+      inhibit inappropriate activation from objects in the environment. Without control mechanisms,&#xD;
+      interference from competing schema or objects in the environment may derail performance and&#xD;
+      lead to inefficiency and disorganization of task steps (i.e., commission errors like&#xD;
+      mis-sequencing, incorrect object selection, etc.). Another mechanism for performance&#xD;
+      difficulties involves premature decay of schema activation or degraded task schema/knowledge&#xD;
+      (i.e., omission errors). On this model, repeated practice serves to strengthen associations&#xD;
+      within a schema hierarchy and between task schema and target objects in the environment,&#xD;
+      reducing the burden on control mechanisms and the likelihood of premature decay.&#xD;
+&#xD;
+      To evaluate the efficacy of VR Training the investigators will recruit 40 participants with&#xD;
+      AD to complete daily training sessions for one week. VR Training will include repeated&#xD;
+      practice of a single, everyday task in a non-immersive VR context (e.g., VR Breakfast) using&#xD;
+      a laptop with a touch-screen interface. Performance of a real-life version of the trained&#xD;
+      task (e.g., Real Breakfast) and a matched, untrained/control, real task (e.g., Real Lunch)&#xD;
+      before and at two time points post-VR Training will serve as the primary outcome measures.&#xD;
+      All procedures are designed to achieve the following aims:&#xD;
+&#xD;
+      Aim 1: To test the hypothesis that individuals with mild-moderate AD will show improved&#xD;
+      performance on an everyday task after repeatedly practicing the task in VR. When people with&#xD;
+      AD repeatedly practice tasks in real life, they show improved performance of those tasks.&#xD;
+      Transfer from VR training to real life outcomes has not been systematically studied in AD,&#xD;
+      but healthy adults, a case report of a woman with moderate AD, and pilot data from the&#xD;
+      investigators' laboratory support transfer from VR to real tasks. Thus, the investigators&#xD;
+      predict that participants will show significantly higher task accomplishment, fewer errors&#xD;
+      and faster completion times from Baseline to Post-Testing on real trained tasks versus real&#xD;
+      untrained tasks.&#xD;
+&#xD;
+      Aim 2 (Exploratory): To explore usability and acceptability of the VR Training and&#xD;
+      associations between individual differences variables (e.g., cognitive abilities) and&#xD;
+      training effects. These analyses will elucidate mechanisms and identify individuals most&#xD;
+      likely to benefit from VR Training.&#xD;
+&#xD;
+      Results will demonstrate the efficacy and feasibility of VR Training and identify the patient&#xD;
+      characteristics most strongly associated with training benefits on real life tasks. Data will&#xD;
+      be used to inform a future randomized clinical trial using VR tasks that are customized to&#xD;
+      participants' daily routines.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 12, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The intervention is task specific. Participants are given an intervention for a specific task, and outcomes include the specific task for which they received the intervention (i.e., &quot;trained task), as well as a control task for which they do not receive the intervention.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Outcome assessor is blind to participants' study condition.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Accomplishment</measure>
+    <time_frame>1 day post- training (immediate)</time_frame>
+    <description>The number of task steps accomplished out of 16 possible steps; also may be reported as the number of task steps omitted (omission errors)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Accomplishment</measure>
+    <time_frame>1 month post-training</time_frame>
+    <description>The number of task steps accomplished out of 16 possible steps; also may be reported as the number of task steps omitted (omission errors)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Overt Commission Errors</measure>
+    <time_frame>1 day post- training (immediate)</time_frame>
+    <description>The number total overt commission errors; may be characterized as a raw total or as an error rate measure (by dividing by total number of steps completed) to control for variability in the number of steps accomplished.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Overt Commission Errors</measure>
+    <time_frame>1 month post-training</time_frame>
+    <description>The number total overt commission errors; may be characterized as a raw total or as an error rate measure (by dividing by total number of steps completed) to control for variability in the number of steps accomplished.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Micro-errors</measure>
+    <time_frame>1 day post- training (immediate)</time_frame>
+    <description>The number total subtle errors coded; may be characterized as a raw total or as a micro-error rate measure (by dividing by total number of steps completed) to control for variability in the number of steps accomplished.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Micro-errors</measure>
+    <time_frame>1 month post-training</time_frame>
+    <description>The number total subtle errors coded; may be characterized as a raw total or as a micro-error rate measure (by dividing by total number of steps completed) to control for variability in the number of steps accomplished.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Completion Time</measure>
+    <time_frame>1 day post- training (immediate)</time_frame>
+    <description>The total time (in seconds) required to complete the task; may be characterized as a raw time or as a rate of completion measure (by dividing by total time by number of steps completed) to control for variability in the number of steps accomplished.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Real Trained Task Performance- Completion Time</measure>
+    <time_frame>1 month post-training</time_frame>
+    <description>The total time (in seconds) required to complete the task; may be characterized as a raw time or as a rate of completion measure (by dividing by total time by number of steps completed) to control for variability in the number of steps accomplished.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Virtual Reality Training Acceptability</measure>
+    <time_frame>1day post-training</time_frame>
+    <description>Participant is asked open-ended questions about the burden the Virtual Training had on their daily life and how likely they would be to adopt the virtual training in their day-to-day life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Virtual Reality Training Usability</measure>
+    <time_frame>1 day post-training</time_frame>
+    <description>The System Usability Scale includes 10 items evaluated on a 1 (strongly disagree) - 5 (strongly agree) point scale. After correction (-1 for odd items and -5 for even, reverse-scored items), the total is multiplied by 2.5 to yield a total score ranging from 0 (poor usability) to 100 (excellent usability). The investigators also added a single seven-point adjective rating question regarding the usability of the Training (1 = worst imaginable to 7 = best imaginable) at the end of the questionnaire to facilitate interpretation.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Dementia</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Dementia</condition>
+  <condition>Dementia, Vascular</condition>
+  <condition>Dementia Alzheimers</condition>
+  <condition>Dementia, Mild</condition>
+  <condition>Dementia, Mixed</condition>
+  <condition>Dementia of Alzheimer Type</condition>
+  <arm_group>
+    <arm_group_label>Virtual Training Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a within-participant study with two arms. All participants receive the Virtual Training with one target task and they are tested (after one day and one month) on the target task (arm 1) and as well as on a control task(arm 2). Assignment to the specific task that is trained is randomized across participants.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>This is a within-participant study with two arms. All participants receive the Virtual Training with one target task and they are tested (after one day and one month) on the target task (arm 1) and as well as on a control task(arm 2). Assignment to the specific task that is trained is randomized across participants.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Virtual Kitchen Training</intervention_name>
+    <description>VR Training will include repeated practice of a single, everyday task in a non-immersive VR context (e.g., VR Breakfast) using a laptop with a touch-screen interface for four days over the course of one week.</description>
+    <arm_group_label>Virtual Training Arm</arm_group_label>
+    <other_name>Virtual Training</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion/Exclusion Criteria:&#xD;
+&#xD;
+          1. 65 years or older;&#xD;
+&#xD;
+          2. fluency in the English language;&#xD;
+&#xD;
+          3. availability of an informant reporter who has knowledge of the participant's daily&#xD;
+             functioning;&#xD;
+&#xD;
+          4. no lifetime history of severe psychiatric disorder (e.g., schizophrenia, bipolar&#xD;
+             disorder), nervous system infections or disorders (e.g., epilepsy, brain tumor,&#xD;
+             large-vessel stroke, major head trauma) other than Alzheimer's disease;&#xD;
+&#xD;
+          5. no current metabolic or systemic disorders (e.g., B12 deficiency, renal failure,&#xD;
+             cancer);&#xD;
+&#xD;
+          6. no current major depression or moderate-severe depression symptoms;&#xD;
+&#xD;
+          7. no current moderate - severe, uncontrolled anxiety symptoms;&#xD;
+&#xD;
+          8. no severe sensory deficits that would preclude visual detection or identification of&#xD;
+             common everyday objects used in the study or the inability to hear the task directions&#xD;
+             (e.g., blindness, total hearing loss);&#xD;
+&#xD;
+          9. no severe motor weakness that would preclude the use of everyday objects or the VR&#xD;
+             Training computer touch screen (e.g., severe deformities or paralysis of both upper&#xD;
+             extremities) ;&#xD;
+&#xD;
+         10. intact estimated general intellectual functioning (i.e., no history of intellectual&#xD;
+             disability);&#xD;
+&#xD;
+         11. available to participate in the one-month follow-up session after the VR Training&#xD;
+             (i.e., no surgery, travel, etc. scheduled over the next month);&#xD;
+&#xD;
+         12. diagnosis of mild to moderate Alzheimer's disease within the past year, including&#xD;
+             confirmation of mild to moderate dementia on Mini Mental Status Exam (score&#xD;
+             approximately 25 or lower), significant functional difficulties reported by informant&#xD;
+             report, and cognitive impairment on demographically adjusted (age, education, sex, and&#xD;
+             race) cognitive test scores at baseline.&#xD;
+&#xD;
+        An informant (N = 40) also will be recruited for each participant with dementia. Informants&#xD;
+        are people who know the participant well and interact with the participant on a daily&#xD;
+        basis. Informants will be asked to report on the participants' daily functioning and the&#xD;
+        extent to which the informant is burdened by the participants. Informants also will be&#xD;
+        asked to report on changes in medical or mental status during the study period. Informant&#xD;
+        eligibility criteria is listed below:&#xD;
+&#xD;
+          1. 18 years of age or older&#xD;
+&#xD;
+          2. fluency in the English language&#xD;
+&#xD;
+          3. available and willing to complete study questionnaires in person or by phone&#xD;
+&#xD;
+          4. has daily contact with the participant&#xD;
+&#xD;
+          5. reports that he/she is knowledgeable of the participant's daily functioning&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Tania Giovannetti, PhD</last_name>
+    <phone>215-204-4296</phone>
+    <email>tgio@temple.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Temple University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tania Giovannetti, Ph.D.</last_name>
+      <phone>215-204-4296</phone>
+      <email>tgio@temple.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>March 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 19, 2020</study_first_posted>
+  <last_update_submitted>July 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Dementia, Vascular</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The investigators will present preliminary and final data at scientific conferences and lectures at research centers, clinical settings, and senior centers. The study results will be publish. The Virtual Kitchen that is used for the training in this proposal is freely available to scientists who are interested in using it. Currently, investigators simply need to contact members of the study team to attain the program. The investigators will make the final training version of the Virtual Kitchen available for download on a website after procedures are fully manualized. After data collection is complete and the results of the aims are published, then the investigators intend to make the entire de-identified data set available following guidelines available through the Center for Open Science.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>After publication of the study results; indefinitely.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

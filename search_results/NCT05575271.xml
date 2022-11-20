@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1558">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05575271</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XW-[2022]110-AD/VNS</org_study_id>
+    <nct_id>NCT05575271</nct_id>
+  </id_info>
+  <brief_title>Implantable Vagus Nerve Stimulation Modulation of Coeruleus-Norepinephrine Network for Mild-Moderate AD Patients</brief_title>
+  <official_title>Implantable Vagus Nerve Stimulation Modulation of Coeruleus-Norepinephrine Network for Mild-Moderate AD Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xuanwu Hospital, Beijing</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Xuanwu Hospital, Beijing</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized controlled clinical study will be conducted in Xuanwu Hospital of Capital&#xD;
+      Medical University. This study initially explore the effect of selective vagus nerve(C fiber)&#xD;
+      stimulation on mild-to-moderate AD patients, in order to regulate the activity of the locus&#xD;
+      coeruleus-norepinephrine network, and to observe the improvement of cognitive function and&#xD;
+      memory function. We aim to evaluate the efficacy and safety of minimally invasive selective&#xD;
+      vagus nerve stimulation in the treatment of mild-to-moderate AD patients, to clarify the&#xD;
+      effective mechanism, and to provide an effective clinical treatment strategy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This project plans to recruit 6 patients with Mild-Moderate Alzheimer's disease. They were&#xD;
+      randomly divided into vagus nerve active stimulation group and sham stimulation group, to&#xD;
+      receive vagus nerve stimulator implantation.&#xD;
+&#xD;
+      2 weeks after implantation, the active group will start the treatment for 12 weeks, and the&#xD;
+      stimulator of the shame group will be turned off for 12 weeks.&#xD;
+&#xD;
+      Before treatment, cognitive assessment, head MRI and PET examination of norepinephrine&#xD;
+      distribution were completed.&#xD;
+&#xD;
+      Side effects and adverse events were assessed at 6 weeks, 10 weeks, and 14 weeks, and&#xD;
+      cognitive assessment, head MRI and PET examination of norepinephrine distribution was also&#xD;
+      performed at the 14th week, Then, the true stimulation group continued to be turned on for 12&#xD;
+      weeks, and the sham group turned on the stimulator to start the treatment for 12 weeks.&#xD;
+      cognitive assessment, head MRI and PET examination of norepinephrine distribution were also&#xD;
+      performed at 26 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mini-mental state examination</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients. The scale consists of 20 questions with a total of 30 items, involving five aspects of orientation, memory, attention and calculation, recall, and language. It can be used as a screening examination and evaluation method for patients with moderate or severe dementia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Montreal cognitive assessment(MoCA)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical dementia rating(CDR)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>World Health Organization-University of California-Los Angeles Auditory Verbal Learning Test (WHO-UCLA AVLT)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Digit Span Test</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trail making test(TMT)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Boston naming test(BNT)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clock-drawing test</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Deterioration Scale(GDS)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the cognitive state of AD patients.The Global Deterioration Scale (GDS), developed by Dr. Barry Reisberg, provides caregivers an overview of the stages of cognitive function for those suffering from a primary degenerative dementia such as Alzheimer's disease. It is broken down into 7 different stages. Stages 1-3 are the pre-dementia stages. Stages 4-7 are the dementia stages. Biginning in stage 5, an individual can no longer survive without assistance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified hachinski ischemic score</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>The modified Hachinski ischaemic scale is an attempt to differentiate Alzheimer's type dementia and multi-infarct dementia.A score of 2 or less are typical of a patient with Alzheimer's disease. A score of greater than 2 is typical of multi-infarct dementia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Inventory(NPI)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To assess the improvement of common behaviors associated with dementia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sturcture MRI</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the morphologic change of locus coeruleus</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional MRI and Diffussion Tensor Imaging</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the brain connectivity change</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event related potential measured by electroencephalogram</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the improvement of the working memory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The norepinephrine transporter PET(NET-PET)</measure>
+    <time_frame>26 weeks</time_frame>
+    <description>To evaluate the change of norepinephrine distribution of the brain</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">6</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Vagus nerve stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The stimulator will be activated 2 weeks after the operation and continue for 24 weeks. The initial parameters of the program is set as: current 0.20mA, pulse width 500us, frequency 20Hz, stimulation time 30s, interval time 5min. A dynamic program control will be started at a speed of 0.20 mA, and the stimulation intensity will be controlled with the range of 0.4- 0.8mA.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham stimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>2 weeks after the operation, the stimulator will be turned off for 12 weeks. Then the stimulator will be turned on for 12 weeks. The initial parameters of the program is set as: current 0.20mA, pulse width 500us, frequency 20Hz, stimulation time 30s, interval time 5min. A dynamic program control will be started at a speed of 0.20 mA, and the stimulation intensity will be controlled with the range of 0.4- 0.8mA.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Vagus Nerve Stimulation Modulation of the Coeruleus-Norepinephrine Network</intervention_name>
+    <description>The implant surgery is performed under general anesthesia. The generator is implanted subcutaneously in the left upper chest or left axillary border. The electrode lead wire is attached to the left mid-cervical vagus nerve through a second incision in the left neck area. The lead wire is passed through a subcutaneous tunnel and attached to the pulse generator.</description>
+    <arm_group_label>Sham stimulation</arm_group_label>
+    <arm_group_label>Vagus nerve stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Referring to the NIA-AA clinical AD diagnostic criteria formulated by 2011 National&#xD;
+             Institute on Aging (NIA) and Alzheimer's Disease Association (ADA) groups, select mild&#xD;
+             to moderate AD patients with positive amyloid PET;&#xD;
+&#xD;
+          2. Male or female AD patients between the ages of 50-85;&#xD;
+&#xD;
+          3. Neuropsychological evaluation reaches the following standards: MMSE 16-24 points, CDR&#xD;
+             0.5-2 points;&#xD;
+&#xD;
+          4. Patients who receives a stable cholinesterase inhibitor regimen continues the oral&#xD;
+             drug with the same dose for at least 8 weeks before entering the study&#xD;
+&#xD;
+          5. The patient has sufficient proficiency in Mandarin Chinese and is able to complete the&#xD;
+             cognitive assessment form;&#xD;
+&#xD;
+          6. Those who voluntarily accept the test and sign an informed consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. There is a clear history of cerebrovascular stroke, and there are clear symptoms or&#xD;
+             signs of neurological deficit at the time of onset, and there are corresponding&#xD;
+             responsible lesions left on neuroimaging;&#xD;
+&#xD;
+          2. Those with a history of alcoholism, or drug addiction, or neurological diseases that&#xD;
+             can cause cognitive impairment, such as traumatic brain injury, epilepsy,&#xD;
+             encephalitis, normal intracranial pressure hydrocephalus;&#xD;
+&#xD;
+          3. Suffering from systemic diseases that may lead to cognitive impairment (such as liver&#xD;
+             and kidney insufficiency, endocrine diseases, vitamin deficiency);&#xD;
+&#xD;
+          4. Suffering from cardiac conductive dysfunction (bradycardia) or sleep apnea syndrome;&#xD;
+&#xD;
+          5. Participating in other drug clinical trials;&#xD;
+&#xD;
+          6. There are contraindications to head MRI.&#xD;
+&#xD;
+          7. Those who are deemed unsuitable to participate the trial by the investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Guoguang Zhao, M.D.</last_name>
+    <phone>13701294528</phone>
+    <email>ggzhao@vip.sina.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xuanwu Hospital, Capital Medical University.</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100053</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>July 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2022</study_first_posted>
+  <last_update_submitted>October 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Norepinephrine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

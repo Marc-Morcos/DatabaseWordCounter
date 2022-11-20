@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1008">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03255720</url>
+  </required_header>
+  <id_info>
+    <org_study_id>diffusion tensor imaging</org_study_id>
+    <nct_id>NCT03255720</nct_id>
+  </id_info>
+  <brief_title>Application of Diffusion Tensor Imaging in Alzheimer's Disease :Quantification of White Matter Micro-structural Changes</brief_title>
+  <official_title>Application of Diffusion Tensor Imaging in Alzheimer's Disease:Quantification of White Matter Micro-structural Changes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assiut University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assiut University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Diffusion Tensor imaging of white matter degeneration in Alzheimer disease&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease (AD) is the most common cause of dementia in the elderly, accountings for&#xD;
+      60-70% of all demented cases. It is a neuro-pathological diagnosis determined by presence of&#xD;
+      neurofibrillary tangles and senile plaques in the brain of patients with dementia. The&#xD;
+      disease frequently starts with memory impairment, but is invariably followed by a progressive&#xD;
+      global cognitive impairment. The major risk factor for Alzheimer disease is age, with&#xD;
+      prevalence doubling every 5 years after the age of 65.&#xD;
+&#xD;
+      Diagnosis of Alzheimer's typically involves physical and neurological exams, as medical&#xD;
+      history and mental status evaluation, laboratory investigations and it involves brain imaging&#xD;
+      (such as MRI) which could identify other causes of problems such as stroke, tumor or head&#xD;
+      trauma. By physical and neurological examination, Alzheimer's disease characterized by&#xD;
+      gradual onset and progressive decline in cognition with sparring of motor and sensory&#xD;
+      function until later stages; the average course of Alzheimer's disease is approximately a&#xD;
+      decade, with a range of 3 to 20 years duration from diagnosis to death .Memory impairment is&#xD;
+      present in the earliest stages of the disease; patients have difficulty learning new&#xD;
+      information and retaining it for more than few minutes. As the disease advances, the ability&#xD;
+      to learn increasingly compromised, more distant memories are lost. Other cognitive loses&#xD;
+      include aphasia, apraxia, disorientation and impaired judgment. Cognitive impairment affects&#xD;
+      daily life; patients have difficulty planning meals, managing finances or medication, using&#xD;
+      telephone, driving. Many capacities may remain intact until later stages including&#xD;
+      performance of self-care activities of daily living as eating, bathing. Patients evidence&#xD;
+      personality alteration, irritability, anxiety, depression. Delusion, hallucination and&#xD;
+      aggression. Laboratory Evaluation includes Biochemical markers as measurement of&#xD;
+      Cerebrospinal fluid including Tau protein, amyloid beta peptides or neural thread protein and&#xD;
+      measurement of urinary biomarkers including neural thread protein. Also testing including Apo&#xD;
+      lipoprotein E epsilon 4 allele presenilin genes, amyloid precursor gene or TREM2. Diffusion&#xD;
+      tensor imaging (DTI) is an imaging technology based on magnetic resonance diffusion weighted&#xD;
+      imaging, which can make quantitative analysis of anisotropy of water molecules in different&#xD;
+      directions, so as to observe the microstructure of tissues non-invasively. So Diffusion&#xD;
+      tensor imaging can provide information of fiber orientation, the injury of fiber, and&#xD;
+      membrane permeability which cannot be obtained from conventional MRI. Diffusion tensor&#xD;
+      imaging enables mapping of White matter microstructure changes in development, aging and&#xD;
+      neurological disorders, From the tensor, it's possible to derive the mean diffusivity (DM)&#xD;
+      and the fractional anisotropy (FA) which is the most robust measures of anisotropy which&#xD;
+      measure the degree of deviation from isotropic diffusion. ). More recently, an additional&#xD;
+      DT-MRI derived index has been proposed .This index measures the degree of similarity of&#xD;
+      orientation of neighboring voxels and its named inter-voxel coherence (C).&#xD;
+&#xD;
+      So Diffusion tensor imaging has therefore become a powerful technique in the study of&#xD;
+      neurodegenerative diseases in recent years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 29, 2017</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>4 Years</target_duration>
+  <primary_outcome>
+    <measure>the extent of tissue damage of several brain white matter regions in patients with Alzheimer's disease.</measure>
+    <time_frame>4 years</time_frame>
+    <description>provide a complete picture of the distribution of microstructural white matter damage in Alzheimer's disease</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Alzheimer Dementia</condition>
+  <arm_group>
+    <arm_group_label>20 patients with Alzheimer disease</arm_group_label>
+    <description>The study will be performed at the Radiodiagnosis department of assiut university hospital.&#xD;
+Selection of 20 patients clinically and laboratory diagnosed as Alzheimer disease and another 20 people matched healthy controls who have no complaints of cognitive problems.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>20 people matched healthy controls</arm_group_label>
+    <description>health control people who have no complaints of cognitive problems.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        old aged people over 60 years&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. cognitive complaints with interference in complex occupational and social activities.&#xD;
+&#xD;
+          2. changes in cognition reported by the patient ,informant or clinician.&#xD;
+&#xD;
+          3. absence of profound sub-cortical ischemic changes.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. state of delirium&#xD;
+&#xD;
+          2. stroke event within 2 weeks&#xD;
+&#xD;
+          3. appearance of cortical and /cortico-subcortical non -lacunar territorial infarcts and&#xD;
+             watershed infarcts ,hemorrhage ,signs of normal pressure hydrocephalus ,and specific&#xD;
+             causes of white matter lesions (e.g. multiple sclerosis, sarcoidosis, brain&#xD;
+             irradiation)&#xD;
+&#xD;
+          4. derangements in serology tests contributing to cognitive impairment (e.g. abnormal&#xD;
+             levels of free T4 or rapid plasma reagin.&#xD;
+&#xD;
+          5. severe hearing or visual impairment.&#xD;
+&#xD;
+          6. cases of severe dementia.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2017</verification_date>
+  <study_first_submitted>August 15, 2017</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 21, 2017</study_first_posted>
+  <last_update_submitted>September 23, 2017</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 26, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Assiut University</investigator_affiliation>
+    <investigator_full_name>shereen magdy</investigator_full_name>
+    <investigator_title>principal investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 16, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/20/NCT03255720/Prot_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

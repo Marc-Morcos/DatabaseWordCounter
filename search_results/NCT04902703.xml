@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="68">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04902703</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-2727</org_study_id>
+    <secondary_id>1R01AG071151-01</secondary_id>
+    <nct_id>NCT04902703</nct_id>
+  </id_info>
+  <brief_title>Phase II Trial to Evaluate Safety and Efficacy of GM-CSF/Sargramostim in Alzheimer's Disease</brief_title>
+  <acronym>SESAD</acronym>
+  <official_title>Phase II Trial to Evaluate Safety and Efficacy of GM-CSF/Sargramostim in Alzheimer's Disease (SESAD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alzheimer's Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Partner Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A medicine that is FDA-approved for bone marrow stimulation (called sargramostim) will be&#xD;
+      tested for its safety and efficacy in individuals with mild-to-moderate Alzheimer's disease&#xD;
+      over a six month treatment period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This trial protocol is designed to evaluate primarily whether the long-term use of&#xD;
+      sargramostim (recombinant human GM-CSF), administered five days per week for six consecutive&#xD;
+      months (24 weeks), will be tolerated by and safe for use in participants with&#xD;
+      mild-to-moderate AD, secondarily whether sargramostim can slow, halt, or reverse cognitive&#xD;
+      decline, and exploratory whether sargramostim can slow, halt, or reverse decline in&#xD;
+      activities of daily living, reverse or improve several biomarkers associated with AD, as&#xD;
+      evaluated by multimodal neuroimaging techniques and blood and cerebrospinal fluid analyses.&#xD;
+      This trial extends the safety results from recently completed Phase 2 double-blind,&#xD;
+      placebo-controlled clinical trial in mild-to-moderate AD participants (NCT01409915,&#xD;
+      COMIRB#12-1273), using sargramostim that was administered five days per week for three&#xD;
+      consecutive weeks and in which there were no incidence of drug-related serious adverse events&#xD;
+      (SAEs).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2022</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study is double-blind, placebo-controlled in the Alzheimer's Disease population, and will include individuals with mild AD and moderate AD. Individuals who meet inclusion/exclusion criteria will be randomized in a double-blind manner, to receive either sargramostim 250 µg/m2/day subcutaneously (5 days per week) or placebo (5 days per week) in an approximate 2:1 randomization ratio.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety as measured by number of Adverse Events (AEs) by body system</measure>
+    <time_frame>Informed consent to Follow-up Visit (38 weeks)</time_frame>
+    <description>The safety of sargramostim will be assessed through number of adverse events (AEs) by body system from consent to follow-up within a safety analysis set consisting of all individuals who were enrolled and and randomized and who received at least on injection of sargramostim or placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>Mini-Mental State Examination (MMSE) is a brief psychometric instrument developed to assess cognitive function in elderly populations. It is a standard assessment used by all NIH Alzheimer's Disease Centers (ADCCs and ADRCs) to identify and monitor individuals with AD. The range for scores in the MMSE is from 0 to 30, with lower scores indicating greater impairment.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Alzheimer's Disease Assessment Scale - cognitive subscale (ADAS-Cog13)</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>The ADAS-Cog13 measures the severity of the most important symptoms of AD. and consists of 13 tasks measuring the disturbances of memory, language, praxis, attention and other cognitive abilities. , which are often referred to as the core symptoms of AD. The score ranges form 0-85, with higher score denoting worse performance</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Clinical Dementia Rating Scale - Sum of Boxes (CDR-SB)</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>The CDR is a study partner/caregiver and participant based interview to assess changes in domains such as memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. Each domain is rated as 0 (no dementia), 0.5 (uncertain dementia), 1 (mild dementia), 2 (moderate dementia), or 3 (severe dementia). Range is 0-18. Higher scores denote worse functioning</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Trail Making Test - Part A (TMT-A)</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>Psychomotor speed will be assessed by the Trail Making Test-A, a timed test in which participants must connect a series of numbers randomly placed on a page. Time range is 0-150 seconds, with a higher time denoting worse performance</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Alzheimer's Disease Cooperative Study -Activities of Daily Living Inventory (ADCS-ADL)</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>The ADCS-ADL is a caregiver/study partner rated questionnaire of 23 items, with possible scores over a range of 0-78, where 78 implies full functioning with no impairment.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Montreal Cognitive Assessment (MoCA)</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>The Montreal Cognitive Assessment (MoCA) is a brief, assessment developed for detection and tracking of cognitive impairment and is sensitive for detecting Alzheimer's disease. Measuring multiple domains, it is commonly used in both clinical and research settings, and is well validated, with a range of scores from 0-30.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>Neuropsychiatric Inventory (NPI) is a study partner/caregiver interview to assess any changes in neuropsychiatric status in such domains as hallucinations, delusions, agitation, depression, anxiety, disinhibition, apathy and aberrant motor behaviors. It assesses presence of symptoms, and scores by severity X frequency (Range 0-12 in each symptom category), and caregiver distress (Range 0-5). The higher the scores, the the greater the presence of the impact of the symptom.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Verbal Fluency</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>Verbal fluency (producing words that start with a specific letter of the alphabet, also known as letter fluency) is a timed test where a participant produces as many works as they can in 60 seconds. The more correct words that a participant produces, the higher the score.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Verbal Fluency</measure>
+    <time_frame>Baseline to End of Treatment, Follow-up (30 weeks)</time_frame>
+    <description>Semantic fluency (producing words that belong in a category, such as animals, also known as category fluency) is a timed test where a participant produces as many works as they can in 60 seconds within a category. The more correct words that a participant produces, the higher the score.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory: Fluorodeoxyglucose Positron Emission Tomography (FDG PET) assessment of brain metabolism</measure>
+    <time_frame>Baseline to End of Treatment (24 weeks)</time_frame>
+    <description>FDG-PET assessment of metabolic activity, overall, as well in different brain regions, particularly in the medial temporal lobe in potential correlation with changes in MTA</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Sargramostim</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>250 mcg/m2/day subcutaneously 5 days/week for 24 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Control - Saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo comparator (saline) subcutaneously 5days/week for 24 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sargramostim</intervention_name>
+    <description>Sargramostim is a granulocyte macrophage colony stimulating factor that will be administered at a dose of 250 mcg/m2 per day subcutaneously, 5 days/week, for 24 weeks</description>
+    <arm_group_label>Sargramostim</arm_group_label>
+    <other_name>Leukine</other_name>
+    <other_name>Granulocyte Macrophage Colony Stimulating Factor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline - placebo comparator</intervention_name>
+    <description>Saline will be administered subcutaneously, 5 days/week, for 24 weeks</description>
+    <arm_group_label>Placebo Control - Saline</arm_group_label>
+    <other_name>Sterile solution of sodium chloride in water</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males or females between age 60 and 80 years, inclusive, at time of consent.&#xD;
+&#xD;
+          -  Have a dedicated partner/caregiver informant who is in the company of the participant&#xD;
+             at least 12 hours a week, who can accompany them to scheduled visits, and who is able&#xD;
+             to provide accurate reporting upon the behavioral, cognitive and functional abilities&#xD;
+             of the participant.&#xD;
+&#xD;
+          -  Be physically able to participate with adequate visual acuity and auditory&#xD;
+             discrimination.&#xD;
+&#xD;
+          -  Be willing / able to provide written informed consent or assent.&#xD;
+&#xD;
+          -  Must reside within a proximity of the study site that will not preclude their&#xD;
+             regularly-scheduled participation in the trial, as well as a catchment area for local&#xD;
+             lab blood draws (i.e. central contracted laboratory).&#xD;
+&#xD;
+          -  Meet criteria for probable AD dementia according to the National Institute of Aging -&#xD;
+             Alzheimer's Association (NIA-AA) 2018 core research criteria, and have the following&#xD;
+             at screening:&#xD;
+&#xD;
+               -  A diagnosis of mild AD or moderate AD.&#xD;
+&#xD;
+               -  MoCA score of 10-22 inclusive.&#xD;
+&#xD;
+          -  Have positive biomarker for brain amyloid pathology as shown by CSF assay for AD&#xD;
+             assessment.&#xD;
+&#xD;
+          -  If receiving anti-dementia treatment (i.e. AChEI), be on stable treatment for at least&#xD;
+             2 months (i.e., cholinesterase inhibitor and/or Memantine) before initial screening&#xD;
+             visit.&#xD;
+&#xD;
+          -  Be stable on all other medications for at least 30 days prior to initial screening&#xD;
+             visit.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals with a first degree relative diagnosed with AD before 55 years of age.&#xD;
+&#xD;
+          -  BMI ≥35.&#xD;
+&#xD;
+          -  Is unable to read/write at a 6th grade level.&#xD;
+&#xD;
+          -  Is a prisoner.&#xD;
+&#xD;
+          -  Modified Hachinski Ischemic Score &gt;4.&#xD;
+&#xD;
+          -  Other neurological or psychiatric condition (other than AD) that can impact cognition,&#xD;
+             as well as atypical presentations of AD and AD related dementias, including logopenic&#xD;
+             primary progressive aphasia (PPA), or posterior cortical atrophy (PCA); or, CT/MRI&#xD;
+             evidence of potentially significant intracranial abnormalities not related to AD&#xD;
+             (e.g., evidence of major stroke or lacune in an area critical to cognition,&#xD;
+             infections, cancer, hydrocephalus, multiple sclerosis, etc.); or abnormal CSF not&#xD;
+             consistent with AD.&#xD;
+&#xD;
+          -  Presence of current, serious mood or anxiety disorder, and/or a psychotic disorder,&#xD;
+             and/or a substance-related disorder according to Diagnostic and Statistical Manual of&#xD;
+             Psychiatric Disorders, Edition IV, text revision (DSM-IV-TR) or DSM-V that, in the&#xD;
+             opinion of the Principal Investigator, might impact cognitive assessment, affect&#xD;
+             participants ability to complete the study, or confound interpretation of the study&#xD;
+             drug effect; or is considered suicidal or shows suicidal ideation as assessed by the&#xD;
+             study physician&#xD;
+&#xD;
+          -  History of deep vein thrombosis, pulmonary embolism, familial predisposition for deep&#xD;
+             vein thrombosis, or pulmonary embolism.&#xD;
+&#xD;
+          -  Active cancer / malignant neoplasm within 5 years of screening other than non-melanoma&#xD;
+             skin cancers (e.g. Basal cell or squamous cell). Previous diagnosis of Leukemia,&#xD;
+             despite remission state or length of time, is considered exclusionary.&#xD;
+&#xD;
+          -  History of a latex or yeast allergy.&#xD;
+&#xD;
+          -  Presence/history of drug hypersensitivity; or known hypersensitivity to sargramostim,&#xD;
+             yeast-derived products, any other component of the product, or benzyl alcohol (present&#xD;
+             in bacteriostatic water or saline for injection).&#xD;
+&#xD;
+          -  History of asplenia, hyposplenia, or splenectomy&#xD;
+&#xD;
+          -  History of, or treatment for, an autoimmune disease (e.g. Rheumatoid Arthritis,&#xD;
+             Multiple Sclerosis, Myasthenia Gravis, etc.).&#xD;
+&#xD;
+          -  Untreated or unstable medical condition that could interfere with the study&#xD;
+             assessments in the opinion of the study physician, or may require immune-stimulating,&#xD;
+             immune-suppressive, or immune-modulating treatment(s) during the conduct of the study.&#xD;
+&#xD;
+          -  History of seizures (except infant febrile seizures).&#xD;
+&#xD;
+          -  Pregnant or breastfeeding female, or female of childbearing potential and not&#xD;
+             protected by highly effective contraceptive method of birth control (i.e., oral or&#xD;
+             depot contraceptives or intrauterine device (IUD) or participant was surgically&#xD;
+             sterilized) and/or unwilling or unable to be tested for pregnancy; Male refusing to&#xD;
+             use condoms, if partner can get pregnant.&#xD;
+&#xD;
+          -  MRI evidence of &gt;4 micro-hemorrhages; participants who may be prone to spontaneous&#xD;
+             ARIA-H and/or may be more susceptible to adverse effects of the ARIA-H.&#xD;
+&#xD;
+          -  Laboratory results that are, in the judgement of the investigator, indicative of an&#xD;
+             untreated medical or hematologic condition that could increase risk or interfere with&#xD;
+             study assessments&#xD;
+&#xD;
+          -  Evidence of:&#xD;
+&#xD;
+               -  Clinically significant pre-existing fluid retention (clinical or radiological);&#xD;
+&#xD;
+               -  respiratory symptoms (e.g., dyspnea), moderate-to-severe lung disease (e.g. COPD,&#xD;
+                  pulmonary infiltrates)&#xD;
+&#xD;
+               -  cardiovascular symptoms or electrocardiographic evidence of cardiac disease that&#xD;
+                  warrant therapeutic intervention (e.g., congestive heart failure,&#xD;
+                  supraventricular arrhythmia, heart block, uncontrolled atrial fibrillation, etc.)&#xD;
+&#xD;
+               -  a resting pulse less than 50, as reviewed by the study physician;&#xD;
+&#xD;
+               -  prolonged QTc interval &gt;470 ms in females, 450 ms in males).&#xD;
+&#xD;
+               -  screening blood pressure measurement of greater than 160 systolic and/or 95&#xD;
+                  diastolic&#xD;
+&#xD;
+          -  Known renal dysfunction or serum creatinine &gt;150 μmol/L, or Glomerular Filtration Rate&#xD;
+             (GFR) less than 55 ml/min&#xD;
+&#xD;
+          -  Known hepatic dysfunction (apart from Gilbert's syndrome) or serum ALT ≥3 times the&#xD;
+             upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Positive serology for hepatitis B surface antigen (HBs Ag), anti-hepatitis C virus&#xD;
+             (anti-HCV), anti-human immunodeficiency virus 1 and 2 antibodies (anti-HIV1 and&#xD;
+             anti-HIV2 Ab) or spirochetal infection (e.g. syphilis)&#xD;
+&#xD;
+          -  Contraindication to lumbar dural puncture, including coagulopathy, concomitant&#xD;
+             anticoagulation therapy (except daily 81 mg aspirin), prior spinal surgery,&#xD;
+             significant deformity of the lumbar/sacral region, or any other factor that, in the&#xD;
+             opinion of the investigator, precludes safe LP procedure.&#xD;
+&#xD;
+          -  Contraindication or inability to complete magnetic resonance imaging (e.g., cardiac&#xD;
+             pacemaker/defibrillator, ferromagnetic metal implants) or PET scan.&#xD;
+&#xD;
+          -  Sensitivity to fluorodeoxyglucose F 18&#xD;
+&#xD;
+          -  Having past or planned exposure to ionizing radiation that would, together with the&#xD;
+             radiation resulting from the administrations of the PET tracer(s) used in this study,&#xD;
+             exceed applicable institutional, local, or national recommendations for annual or&#xD;
+             lifetime exposure.&#xD;
+&#xD;
+          -  Poor venous access.&#xD;
+&#xD;
+          -  Chronic use of no-n-steroidal anti-inflammatory drugs (NSAIDs), excepting 81 mg daily&#xD;
+             aspirin therapy.&#xD;
+&#xD;
+          -  Chronic use of an anti-cholinergic drug(s)&#xD;
+&#xD;
+          -  Taking any prohibited medication or therapy&#xD;
+&#xD;
+          -  Be the recipient of an investigational drug within 60 days of screening, or within 5&#xD;
+             times the elimination half-life of that drug, whichever is the longest.&#xD;
+&#xD;
+          -  Prior treatment with an investigational anti-amyloid or anti-tauopathy therapy, or AD&#xD;
+             vaccine, unless it can be documented that they were on placebo.&#xD;
+&#xD;
+          -  Participation in the treatment phase of an investigational sargramostim clinical trial&#xD;
+             within 6-months of screening.&#xD;
+&#xD;
+          -  Any interested participant who:&#xD;
+&#xD;
+               1. Is in the judgement of the Principal Investigator likely to be non-compliant with&#xD;
+                  study protocol, including, but not limited to, leaving the area of the study for&#xD;
+                  any extended period; or separate from the designated caregiver/informant, without&#xD;
+                  acceptable replacement, for any of the scheduled assessment visits during the&#xD;
+                  study.&#xD;
+&#xD;
+               2. Is unable to cooperate because of a language problem or because of a&#xD;
+                  developmental disability.&#xD;
+&#xD;
+               3. Oversees or implements any aspect of the study, or is employed by Partner&#xD;
+                  Therapeutics or its affiliates or subsidiaries, or is an employee of the&#xD;
+                  University of Colorado Alzheimer's and Cognition Center and is engaged in the&#xD;
+                  conduct of the study, or first degree relative of such.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Pressman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado Alzheimer's and Cognition Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Neurology Research Partners, CU Department of Neurology</last_name>
+    <phone>303-724-4644</phone>
+    <email>neurologyresearchpartners@cuanschutz.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Colorado Anschutz Medical Campus</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neurology Research Partners</last_name>
+      <phone>303-724-4644</phone>
+      <email>neurologyresearchpartners@cuanschutz.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.cumemoryresearch.org</url>
+    <description>CU Alzheimer's and Cognition Center Clinical Research Portal</description>
+  </link>
+  <results_reference>
+    <citation>Potter H, Woodcock JH, Boyd TD, Coughlan CM, O'Shaughnessy JR, Borges MT, Thaker AA, Raj BA, Adamszuk K, Scott D, Adame V, Anton P, Chial HJ, Gray H, Daniels J, Stocker ME, Sillau SH. Safety and efficacy of sargramostim (GM-CSF) in the treatment of Alzheimer's disease. Alzheimers Dement (N Y). 2021 Mar 24;7(1):e12158. doi: 10.1002/trc2.12158. eCollection 2021.</citation>
+    <PMID>33778150</PMID>
+  </results_reference>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>May 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 26, 2021</study_first_posted>
+  <last_update_submitted>July 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer</keyword>
+  <keyword>Alzheimers Disease</keyword>
+  <keyword>sargramostim</keyword>
+  <keyword>GM-CSF</keyword>
+  <keyword>Leukine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Molgramostim</mesh_term>
+    <mesh_term>Sargramostim</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

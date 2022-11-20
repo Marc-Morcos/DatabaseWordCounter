@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1979">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03538574</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16-001256</org_study_id>
+    <nct_id>NCT03538574</nct_id>
+  </id_info>
+  <brief_title>Mindfulness Meditation and Insomnia in Alzheimer Disease Caregivers</brief_title>
+  <acronym>CARES</acronym>
+  <official_title>Mindfulness Meditation and Insomnia in Alzheimer Disease Caregivers: Inflammatory and Biological Aging Mechanisms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Los Angeles</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Treatment of insomnia in caregivers is needed given that 60% of Alzheimer disease caregivers&#xD;
+      report sleep complaints, and insomnia may add to the burden of AD caregiving and contribute&#xD;
+      to morbidity and mortality risk. This is the first intervention trial in AD caregivers to&#xD;
+      target insomnia and also evaluate two mechanisms of chronic disease risk, inflammation and&#xD;
+      cellular aging&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized controlled trial aims to evaluate the non-inferiority of Mindful Awareness&#xD;
+      Practices for Insomnia (MAP-I ) vs. Cognitive Behavioral Therapy for Insomnia (CBT-I) on&#xD;
+      outcomes of insomnia, cellular and genomic markers of inflammation, and cellular aging in&#xD;
+      older adult AD spousal caregivers with insomnia (N=150) over one-year follow-up. The specific&#xD;
+      aims of this project are:&#xD;
+&#xD;
+      Primary Aim 1: Determine the effects of MAP-I vs. CBT-I on subjective and objective&#xD;
+      dimensions of insomnia.&#xD;
+&#xD;
+      Secondary Aim 1: Evaluate the effects of MAP-I vs. CBT-I on cellular and genomic markers of&#xD;
+      inflammation.&#xD;
+&#xD;
+      Secondary Aim 2: Evaluate the effects of MAP-I vs. CBT-I on markers of cellular aging.&#xD;
+&#xD;
+      Exploratory Aim 1: Explore moderating effects of caregiver stress (Stress and Adversity&#xD;
+      Inventory, STRAIN, number &amp; experienced intensity of stress exposure) on insomnia outcomes,&#xD;
+      and effects of MAP-I vs. CBT-I on caregiver stress, health functioning, chronic medical&#xD;
+      morbidity and related medication use at follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2018</start_date>
+  <completion_date type="Actual">September 30, 2022</completion_date>
+  <primary_completion_date type="Actual">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, non-inferiority design</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+    <masking_description>Outcome assessor is blind to treatment condition</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Insomnia clinical response</measure>
+    <time_frame>One-year</time_frame>
+    <description>Change in severity of insomnia as measured by the Insomnia Severity Index</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Insomnia clinical response</measure>
+    <time_frame>One year</time_frame>
+    <description>Change in severity of insomnia as measured by clinical diagnosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daytime dysfunction</measure>
+    <time_frame>One year</time_frame>
+    <description>Change in depressed mood as measured by the Inventory of Depressive Symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammation</measure>
+    <time_frame>One year</time_frame>
+    <description>Change in markers of systemic inflammation as measured by C-reactive protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular aging</measure>
+    <time_frame>One year</time_frame>
+    <description>Change in markers of cellular aging as measured by transcriptional profiles of the senescent secretory associated phenotype (SASP)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">139</enrollment>
+  <condition>Insomnia Chronic</condition>
+  <arm_group>
+    <arm_group_label>CBT-I</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Cognitive behavioral therapy for insomnia (CBT-I), considered the treatment of choice by the American Academy of Sleep Medicine, combines cognitive therapy, stimulus control, sleep restriction, sleep hygiene, and relaxation to improve sleep outcomes, with demonstrated efficacy in adult and older adult populations</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MAP-I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The Mindful Awareness Practices (MAPs) is a validated and curriculum-based meditation similar to Mindfulness Based Stress Reduction, with the exception that MAPs does not include a day-long retreat or yoga and hence takes a more practical and accessible approach that focuses specifically on the practice of mindfulness and its application in everyday life. (http://marc.ucla.edu) MAP for Insomnia (MAP-I) is a modified version of MAPs that incorporates practice prior to bed, use of practice in the bed during night-time awakenings, and daily body scan.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CBT-I</intervention_name>
+    <description>CBT-I is a behavioral treatment for insomnia</description>
+    <arm_group_label>CBT-I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>MAP-I</intervention_name>
+    <description>MAP-I is a mindfulness meditation treatment for insomnia</description>
+    <arm_group_label>MAP-I</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Alzheimer or other dementia caregivers&#xD;
+&#xD;
+          -  Older than 45 years of age&#xD;
+&#xD;
+          -  Self-identified as the principal person taking care of the patient with Alzheimer or&#xD;
+             other dementia&#xD;
+&#xD;
+          -  Diagnostic and Statistical Manual Criteria - 5 for Insomnia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Psychiatric disorders including current major depressive disorder or other current&#xD;
+             DSM-5 psychiatric disorder (e.g. substance dependence) with the exception of anxiety&#xD;
+             disorder;&#xD;
+&#xD;
+          -  Psychotic symptoms;&#xD;
+&#xD;
+          -  Acute suicidal or violent behavior or history of suicide attempt within the last year&#xD;
+&#xD;
+          -  Other sleep disorders including current or lifetime history of sleep apnea, nocturnal&#xD;
+             myoclonus, phase-shift disorder as identified by SCID-5 and Duke Structured Interview&#xD;
+             for Sleep Disorders (DSISD)&#xD;
+&#xD;
+          -  Medical conditions such as acute or uncontrolled medical illness (e.g., major surgery,&#xD;
+             metastatic cancer, Class III heart failure, inflammatory disorder)&#xD;
+&#xD;
+          -  Chronic infections&#xD;
+&#xD;
+          -  Obesity with body mass index (BMI) &gt;35&#xD;
+&#xD;
+          -  Use of hormone containing medications including steroids or immune modifying drugs&#xD;
+&#xD;
+          -  Daily use of analgesics such as opioids;&#xD;
+&#xD;
+          -  Daily us of sedative hypnotic medications&#xD;
+&#xD;
+          -  Cognitive impairment as evidenced by DSM-5 interview and/or Mini-Mental Status Exam&#xD;
+             (MMSE &lt; 26)&#xD;
+&#xD;
+          -  Actively practicing a mind body intervention.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael R Irwin, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Los Angeles</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cousins Center for Psychoneuroimmunology, UCLA Neuropsychiatric Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>May 16, 2018</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 29, 2018</study_first_posted>
+  <last_update_submitted>September 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Los Angeles</investigator_affiliation>
+    <investigator_full_name>Michael Irwin, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Sleep Initiation and Maintenance Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

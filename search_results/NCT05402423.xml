@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="95">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05402423</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INRCA_003_2022</org_study_id>
+    <nct_id>NCT05402423</nct_id>
+  </id_info>
+  <brief_title>An Integrated Intervention of Computerized Cognitive Training and Physical Exercise in Virtual Reality for People With Alzheimer's Disease (JDome)</brief_title>
+  <acronym>JDome</acronym>
+  <official_title>An Integrated Intervention of Computerized Cognitive Training and Physical Exercise in Virtual Reality for People With Alzheimer's Disease: the JDome Study Protocol</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Nazionale di Ricovero e Cura per Anziani</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fondazione Cariverona, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Istituto Nazionale di Ricovero e Cura per Anziani</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      JDOME is a randomized controlled trial to test the effectiveness of a computerized cognitive&#xD;
+      training with the Brainer web platform and aerobic training with the JDOME system vs. a&#xD;
+      computerized cognitive training with the Brainer web platform and aerobic training with a&#xD;
+      standard exercise bike in subjects with Alzheimer's Disease at early stage. The JDome&#xD;
+      BikeAround is a tool that take people with dementia on a virtual bicycle tour along the paths&#xD;
+      of memories. It combines an exercise bike, a dome-shaped projector and Google Street View&#xD;
+      technology.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      JDOME study is designed as a randomized controlled trial to test the effectiveness of a&#xD;
+      training that combines the JDome virtual reality system for aerobic exercise with&#xD;
+      computerized cognitive training via tablet. The Experimental Group (EG) will receive&#xD;
+      computerized cognitive training with the Brainer web platform and aerobic training with the&#xD;
+      JDOME system (a tool that combines an exercise bike, a dome-shaped projector and Google&#xD;
+      Street View technology).The Control Group (CG) will receive computerized cognitive training&#xD;
+      with the Brainer web platform and aerobic training with a standard exercise bike.&#xD;
+&#xD;
+      Assessment will be performed at the baseline (T0), at the end of intervention (after eight&#xD;
+      weeks -T1) and 12 weeks after the end of intervention (follow-up T2).&#xD;
+&#xD;
+      The primary aim is to assess the stabilization of the global cognition of people with&#xD;
+      mild-stage Alzheimer's disease at the Mini-Mental State Examination (MMSE) and at the&#xD;
+      Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog); The secondary aim is&#xD;
+      the analyses of the modification of the quality of life, mood, behavioral disturbances, and&#xD;
+      physical function in people with mild-stage Alzheimer's disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 27, 2022</start_date>
+  <completion_date type="Anticipated">June 26, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 26, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>change in cognitive impairment</measure>
+    <time_frame>baseline, 8, and 22 weeks later</time_frame>
+    <description>Mini-Mental State Examination was designed as a clinical method for grading cognitive impairment. The score ranges from 0 to 30: scores ≥ 24 indicate normality, between 18-23 indicate mild cognitive impairment, between 11-17 moderate cognitive deficits, scores ≤ 10 severe cognitive impairments. The reported score will be corrected according to age and education.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>change in short and medium term memory</measure>
+    <time_frame>baseline, 8 and 22 weeks later</time_frame>
+    <description>Alzheimer's Disease Assessment Scale (ADAS-cog) consists of 11 items that investigate: short and medium term memory, language, praxia (simple, constructive, ideational), temporal-spatial orientation. The score ranges from 0 (no cognitive impairment) to 70 (maximum cognitive impairment).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>change in quality of life</measure>
+    <time_frame>baseline and 8, 22 weeks later</time_frame>
+    <description>Alzheimer's Disease scale (QoL-AD) includes 13 items that evaluate subjective (eg, perceived quality of life and psychological well-being) and objective (eg, behavioral competence and environment) components of the quality of life. Items are rated by subjects with dementia on a 4-point scale from 1 (poor) to 4 (excellent). Higher scores indicate a better quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in physical performance</measure>
+    <time_frame>baseline, 8 and 22 weeks later</time_frame>
+    <description>Short Physical Performance Battery (SPPB) is a short battery of tests designed to assess the function of the lower limbs. This scale consists of 3 different sections: balance assessment, evaluation of walking on 4 linear meters, evaluation of the ability to perform, for 5 consecutive times, the sit to stand from a chair, without using the upper limbs. The total scale score therefore has a range from 0 to 12. A total score below 10 indicates frailty and a high risk of disability and falls. The 1-point change in score from pre to post test is of clinical relevance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in signs and symptoms of major depression</measure>
+    <time_frame>baseline, 8 and 22 weeks later</time_frame>
+    <description>Cornell Scale for Depression in dementia (CSDD) contains 19 items evaluating signs and symptoms of major depression in individuals with dementia. Each item is rated for severity on a scale from 0 (absent) to 2 (severe). The information is collected through clinical observation and through two semi-structured interviews: one addressed to the caregiver and one to the person with dementia. The total score, given by the sum of the 19 items, if lower than 6 indicates the absence of depressive symptoms, if higher than 10 it indicates a probable major depression and finally if higher than 18 it indicates the presence of major depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change in neuropsychiatric disturbances</measure>
+    <time_frame>baseline, 8 and 22 weeks later</time_frame>
+    <description>Neuropsychiatric Inventory (NPI) evaluates 12 neuropsychiatric disturbances common in dementia: delusions, hallucinations, agitation, dysphoria, anxiety, apathy, irritability, euphoria, disinhibition, aberrant motor behavior, night-time behavior disturbances, and appetite and eating abnormalities. A total NPI score and a total caregiver distress score are calculated. The total NPI score, which can range from 1 to 144, is the product of the frequency of manifestation and the severity of each disorder. Higher scores indicate more frequent and more severe behavioral problems</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">78</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>JDome rehabilitation group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will undergo cognitive training with Brainer web platform via tablet followed by aerobic exercise with the JDome System</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will undergo cognitive training with Brainer web platform via tablet followed by aerobic exercise with standard exercise bike</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Computerized cognitive training plus aerobic exercise with the JDome System</intervention_name>
+    <description>Sixteen treatment sessions of 60 minutes will be conducted (2 training sessions per week, for 8 weeks).&#xD;
+Each session will involve the following activities:&#xD;
+30 minutes of computerized cognitive training with the Brainer web platform, a medical device that contains 78 exercises in the five cognitive areas involved in the degeneration process of dementia&#xD;
+30 minutes of aerobic training with the JDOME system,</description>
+    <arm_group_label>JDome rehabilitation group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Computerized cognitive training plus aerobic exercise with standard exercise bike</intervention_name>
+    <description>Sixteen treatment sessions of 60 minutes will be conducted (2 training sessions per week, for 8 weeks).&#xD;
+Each session will involve the following activities:&#xD;
+30 minutes of computerized cognitive training with the Brainer web platform, a medical device that contains 78 exercises in the five cognitive areas involved in the degeneration process of dementia&#xD;
+30 minutes of aerobic training with standard exercise bike</description>
+    <arm_group_label>control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 65 and over;&#xD;
+&#xD;
+          -  Pre-existing diagnosis of Alzheimer's, in mild phase, according to the 2011 criteria&#xD;
+             of the National Institute on Aging-Alzheimer's Association (NIA-AA);&#xD;
+&#xD;
+          -  Clinical Dementia Rating Scale CDR = 1;&#xD;
+&#xD;
+          -  Mini Mental State Examination MMSE &gt; 19;&#xD;
+&#xD;
+          -  Functional Ambulation Categories FAC ≥4;&#xD;
+&#xD;
+          -  Tinetti scale ≥ 20;&#xD;
+&#xD;
+          -  Presence of a contact family caregiver&#xD;
+&#xD;
+          -  Reside at home&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Failure to meet the inclusion criteria&#xD;
+&#xD;
+          -  Sensory deficits not compensated by the use of prostheses&#xD;
+&#xD;
+          -  Psychological and behavioral disorders not compensated by drug treatment&#xD;
+&#xD;
+          -  Medical contraindication to moderate intensity aerobic exercise&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giuseppe Pelliccioni, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS INRCA, Ancona, Italy</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anna Rita Bonfigli</last_name>
+    <phone>+390718003719</phone>
+    <email>a.bonfigli@inrca.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elvira Maranesi</last_name>
+    <email>e.maranesi@inrca.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cognitive Disorders and Dementia (CDCD) -INRCA Hospital</name>
+      <address>
+        <city>Ancona</city>
+        <zip>60127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Patrizia Civerchia</last_name>
+      <email>p.civerchia@inrca.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Elena Gambella</last_name>
+      <email>e.gambella@inrca.it</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>May 30, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 30, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 2, 2022</study_first_posted>
+  <last_update_submitted>May 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>virtual system</keyword>
+  <keyword>aerobic exercise</keyword>
+  <keyword>cognitive training</keyword>
+  <keyword>dementia</keyword>
+  <keyword>quality of life</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

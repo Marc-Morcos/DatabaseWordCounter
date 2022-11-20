@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1566">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05345509</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IVL3003-001</org_study_id>
+    <nct_id>NCT05345509</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial to Access Pharmacokinetic Profiles and Safety of IVL3003.</brief_title>
+  <official_title>A Phase 1, Randomized, Open-Label, Exploratory, Sequential, Pharmacokinetic Single Ascending Dose Study of IVL3003 Versus Multiple Doses of Aricept (Donepezil) Tablets in Healthy Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inventage Lab., Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inventage Lab., Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Clinical Trial to Assess Pharmacokinetic Profiles and Safety of IVL3003&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A Phase 1, Randomized, Open-Label, Exploratory, Sequential, Pharmacokinetic Single Ascending&#xD;
+      Dose Study of IVL3003 Versus Multiple Doses of Aricept (Donepezil) Tablets in Healthy&#xD;
+      Subjects&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>AUClast of IVL3003</measure>
+    <time_frame>Pre-dose, up to 1month</time_frame>
+    <description>Area under the concentration-time curve from time zero to last</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUCinf of IVL3003</measure>
+    <time_frame>Pre-dose, up to 1month</time_frame>
+    <description>Area under the concentration-time curve from time zero to infinity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUClast of Aricept</measure>
+    <time_frame>Pre-dose, up to 1month</time_frame>
+    <description>Area under the concentration-time curve from time zero to last</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUCinf of Aricept</measure>
+    <time_frame>Pre-dose, up to 1month</time_frame>
+    <description>Area under the concentration-time curve from time zero to infinity</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">42</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Aricept Tablet</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Aricept Tablet, QD, PO</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVL3003 (A mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SC, Single Dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVL3003 (B mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SC, Single Dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IVL3003 (C mg)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SC, Single Dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aricept Tablet</intervention_name>
+    <description>Donepezil Tablet once daily P.O</description>
+    <arm_group_label>Aricept Tablet</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>IVL3003</intervention_name>
+    <description>Donepezil Long-Acting Injection, once S.C Injection</description>
+    <arm_group_label>IVL3003 (A mg)</arm_group_label>
+    <arm_group_label>IVL3003 (B mg)</arm_group_label>
+    <arm_group_label>IVL3003 (C mg)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy male or female, ≥18 and ≤55 years of age, non-smokers or occasional smokers&#xD;
+             (defined as smoking less than 10 cigarettes or nicotine equivalent per week, and&#xD;
+             willing to abstain from smoking during confinement at the study site).&#xD;
+&#xD;
+          -  Body mass index (BMI) ≥18.0 and ≤32.0 kg/m2 and body weight ≥55.0 kg for males and&#xD;
+             ≥50.0 kg for females.&#xD;
+&#xD;
+          -  Male subjects who are sexually active with a same-sex partner must be willing to use a&#xD;
+             condom until study exit.&#xD;
+&#xD;
+          -  Male and female subjects who practice abstinence from sexual intercourse as a usual&#xD;
+             and preferred lifestyle.&#xD;
+&#xD;
+          -  Willing to abstain from use of non-steroidal anti-inflammatory drugs (NSAIDs)&#xD;
+             including ibuprofen, naproxen, aspirin, meloxicam, etc. from screening until study&#xD;
+             exit.&#xD;
+&#xD;
+          -  Willing and able to provide written informed consent after the nature of the study has&#xD;
+             been explained and prior to the commencement of any protocol specific study&#xD;
+             procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any clinically significant abnormal finding at physical examination at screening.&#xD;
+&#xD;
+          -  Clinically significant abnormal laboratory test results or positive serology test&#xD;
+             results for human immunodeficiency virus (HIV), hepatitis B or hepatitis C virus at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Positive pregnancy test at screening or Day -1 or lactating female subject.&#xD;
+&#xD;
+          -  Positive drug or alcohol screen at screening or Day -1.&#xD;
+&#xD;
+          -  Any history of malignancy or neoplastic disease.&#xD;
+&#xD;
+          -  History of significant allergic reactions (e.g., drug reaction, anaphylactic reaction,&#xD;
+             hypersensitivity, angioedema) to donepezil, piperidine derivatives, dimenhydrinate or&#xD;
+             derivatives, benzatropine or derivatives, or other related drugs, or to any excipient&#xD;
+             present in the formulation for any study drug.&#xD;
+&#xD;
+          -  Presence of hereditary disorders including galactose intolerance, lactase deficiency,&#xD;
+             and glucose-galactose malabsorption (for Part B only).&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin&#xD;
+             &gt;1.5x the upper limit of normal (ULN) at screening or Day -1.&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (eGFR) &lt;60 mL/min/1.73m2 as calculated by the&#xD;
+             2021 Chronic Kidney Disease-Epidemiology (CKD-EPI) equation at screening or Day -1.&#xD;
+&#xD;
+          -  Clinically significant ECG abnormalities (QTc &gt;450 ms or PR interval &gt;220 ms) or vital&#xD;
+             sign abnormalities (systolic blood pressure &lt;90 or &gt;140 mmHg, diastolic blood pressure&#xD;
+             &lt;40 or &gt;90 mmHg, or heart rate &lt;50 or &gt;100 bpm) at screening or Day 1.&#xD;
+&#xD;
+          -  History of significant bradycardia or atrioventricular (AV) block.&#xD;
+&#xD;
+          -  History of significant asthma (except for fully resolved childhood asthma) or chronic&#xD;
+             obstructive pulmonary disease (COPD).&#xD;
+&#xD;
+          -  History of alcohol abuse within 1 year prior to screening or regular use of alcohol&#xD;
+             within 6 months prior to screening that exceeds 14 units of alcohol per week (1 unit =&#xD;
+             375 mL of beer 3.5%, 100 mL of wine 13.5%, or 30 mL of spirit 40%).&#xD;
+&#xD;
+          -  History of drug abuse within 1 year prior to screening or recreational use of soft&#xD;
+             drugs (such as marijuana) or hard drugs (such as cocaine, phencyclidine [PCP], crack,&#xD;
+             opioid derivatives including heroin, and amphetamine derivatives) within 1 month, or&#xD;
+             use of codeine within 3 months prior to screening.&#xD;
+&#xD;
+          -  Donation of plasma within 7 days prior to dosing or donation or loss of 500 mL or more&#xD;
+             of whole blood within 30 days prior to dosing.&#xD;
+&#xD;
+          -  Consumption of high levels of caffeine (equivalent to 3 regular cups of coffee or 2&#xD;
+             energy drinks, per day).&#xD;
+&#xD;
+          -  Any reason which, in the opinion of the Investigator, would prevent the subject from&#xD;
+             participating in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Betty Geum</last_name>
+    <phone>82-31-608-0514</phone>
+    <phone_ext>5571</phone_ext>
+    <email>betty.geum@inventagelab.com</email>
+  </overall_contact>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>April 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 25, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 26, 2022</study_first_posted>
+  <last_update_submitted>September 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Donepezil</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

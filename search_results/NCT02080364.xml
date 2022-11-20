@@ -1,0 +1,4010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="226">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02080364</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TTP488-301</org_study_id>
+    <nct_id>NCT02080364</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Efficacy and Safety of Azeliragon (TTP488) in Patients With Mild Alzheimer's Disease</brief_title>
+  <acronym>STEADFAST</acronym>
+  <official_title>Randomized, Double-blind, Placebo Controlled, Multi-center Registration Trial to Evaluate the Efficacy and Safety of Azeliragon (TTP488) in Patients With Mild Alzheimer's Disease Receiving Acetylcholinesterase Inhibitors and/or Memantine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>vTv Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>vTv Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study to evaluate the efficacy and safety of azeliragon in patients with mild&#xD;
+      Alzheimer's disease. Patients will receive either azeliragon or placebo with a patient's&#xD;
+      participation lasting approximately 18 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Not due to safety but due to a lack of efficacy at the 5 mg azeliragon dose.&#xD;
+  </why_stopped>
+  <start_date type="Actual">April 2015</start_date>
+  <completion_date type="Actual">June 1, 2018</completion_date>
+  <primary_completion_date type="Actual">June 1, 2018</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Alzheimer's Disease Assessment Scale - Cognitive (ADAS-cog) Total Score</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>The ADAS-cog is a structured scale (approximately 40 minutes to complete) that evaluates memory, orientation, attention, reasoning, language and constructional praxis (Rosen, 1984). The ADAS-cog scoring range for the version used in this study is from 0 to 70, with higher scores indicating greater cognitive impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Clinical Dementia Rating Scale Sum of Boxes (CDR-sb)</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>The CDR scale is used as a global measure of dementia and is completed by a clinician in the setting of detailed knowledge of the individual patient collected from interviews with the patient and caregiver (Berg, 1988). The CDR describes 5 degrees of impairment in performance on each of 6 categories including memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. CDR ratings are 0 for healthy individuals, 0.5 for questionable dementia and 1, 2 and 3 for mild, moderate and severe dementia as defined in the CDR scale. The scores for each category can also be summed and this is known as the sum of box score (CSR-SB). Sum of box scores range from 0 to 18 with higher scores indicating greater cognitive impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Magnetic Resonance Imaging (MRI) Brain Volumetric Measures</measure>
+    <time_frame>Baseline and 18 months</time_frame>
+    <description>Percent of Total Hippocampus Atrophy to Intracranial Volume</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in the Normalized Mean Composite SUVR of the 5 Regions</measure>
+    <time_frame>Baseline to 18 months</time_frame>
+    <description>Extent and severity of brain hypometabolism was assessed centrally at Baseline and Month 18. SUVR PET was designed to make use of FreeSurfer-based segmentations of the brain obtained using the 3DT1 MRI. Following the methods published by Landau and Jagust (Landau SM, Annals of Neurology 2012) and described on the ADNI website (http://adni.loni.usc.edu/methods/pet-analysis-method/), regions were defined in native patient space on the 3DT1 MRI acquired at the Baseline visit and at Month 18 visit. An SUVR measure was computed regionally over five sub-regions (anterior/posterior cingulate, temporal, parietal, frontal and hippocampal areas), normalized to activity in the cerebral white matter. These sub-regions were selected to optimize sensitivity in longitudinal studies. This outcome measure presents the change from baseline in the normalized mean composite SUVR of the 5 regions. A negative change from baseline indicates a decrease (worsening) in brain glucose metabolism/utilization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Alzheimer's Disease Cooperative Study- Activities of Daily Living Inventory (ADCS-ADL)</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>The ADCS-ADL is an activity of daily living inventory developed by the ADCS to assess functional performance in participants with AD (Galasko et al., 1997). Informants are queried via a structured interview format as to whether participants attempted each item in the inventory during the preceding 4 weeks, as well as their level of performance. Scores range from 0-78 with lower scores indicating greater functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>The MMSE is a brief 30-point test that is used to assess cognition (Folstein, 1975). It is commonly used to screen for dementia. In the time span of about 10 minutes, it samples various functions, including arithmetic, memory and orientation. Scores range from 0-30 with lower scores indicating greater cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>The NPI is a well-validated, reliable, multi-item instrument to assess psychopathology in AD based on an interview with the caregiver (Cummings et al, 1994). It evaluates both the frequency and severity of 12 behavioral areas including delusions, hallucinations, dysphoria (depression) anxiety, agitation/aggression, euphoria, disinhibition, irritability, lability, apathy, aberrant motor behavior, appetite and eating changes and night-time behaviors.&#xD;
+Frequency assessments range from 1 (occasionally, less than once per week) to 4 (very frequently, once or more per day or continuously) as well as severity (1= mild, 2 = moderate, 3 = severe). Distress is rated by the study partner or caregiver and ranges from 0 (no distress) to 5 (very severe or extreme). The overall score and the score for each subscale are the product of severity and frequency. Scores range from 0-144 with higher scores indicating a greater presence of neuropsychiatric symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Dementia Quality of Life (DEMQOL)</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>The DEMQOL-Proxy questionnaire is a validated and reliable questionnaire that is interview administered and completed by the caregiver about the patient's health related quality of life (Smith et al, 2005). It consists of 31 items representing 5 domains (daily activities and looking after yourself, health and well-being, cognitive functioning, social relationships, and self-concept) and takes approximately 20 minutes to complete. Scores range 31-124 with higher scores indicate better health related quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Continuous Oral Word Association Task (COWAT)</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>The COWAT is a measure of verbal fluency in which the participant is asked to generate orally as many words as possible that begin with the letters &quot;F&quot;, &quot;A&quot;, and &quot;S&quot;, excluding proper names and different forms of the same word. (Borkowski, 1967, Loonstra 2001) For each letter, the participant is allowed one minute to generate the words. Performance is measured by the total number of correct words produced summed across the three letters. Perseverations (i.e., repetitions of a correct word) and intrusions (i.e., words not beginning with the designated letter) are noted.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Category Fluency Test (CFT)</measure>
+    <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+    <description>Study participants are given one minute to provide exemplars of the category 'animals'.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">880</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Azeliragon 5mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Azeliragon (TTP488) 5mg orally once daily for 18 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo orally once daily for 18 months</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azeliragon</intervention_name>
+    <description>Azeliragon 5mg administered orally, once daily for 18 months</description>
+    <arm_group_label>Azeliragon 5mg</arm_group_label>
+    <other_name>TTP488</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered orally, once daily for 18 months</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of probable Alzheimer Disease (AD) with documented evidence of progression&#xD;
+             of disease&#xD;
+&#xD;
+          -  Mini Mental State Examination (MMSE) score of 21-26, inclusive&#xD;
+&#xD;
+          -  Clinical Dementia Rating global score of 0.5 or 1&#xD;
+&#xD;
+          -  Rosen-Modified Hachinski Ischemia Score less than or equal to 4&#xD;
+&#xD;
+          -  Brain magnetic resonance imaging (MRI) consistent with the diagnosis of probable AD&#xD;
+&#xD;
+          -  Concurrent use of cholinesterase inhibitor or memantine with stable dose for at least&#xD;
+             3 months prior to randomization&#xD;
+&#xD;
+          -  Caregiver willing to participate and be able to attend clinic visits with patient&#xD;
+&#xD;
+          -  Ability to ingest oral medications&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant neurological or psychiatric disease other than Alzheimer's disease&#xD;
+&#xD;
+          -  Participants with evidence or history of severe drug allergies (resulting in dyspnea&#xD;
+             or severe rash).&#xD;
+&#xD;
+          -  Any contraindications to MRI (e.g., clinically significant claustrophobia,&#xD;
+             non-removable ferromagnetic implants). Patients with contraindications to MRI may&#xD;
+             undergo computed tomography (CT) on approval by sponsor.&#xD;
+&#xD;
+          -  Any contraindications to the FDG-PET study (e.g. allergy to any component of the FDG&#xD;
+             dose) in the cohort undergoing a PET scan.&#xD;
+&#xD;
+          -  Previous exposure to investigational or non-investigational therapies for Alzheimer's&#xD;
+             disease within 6 months of screening&#xD;
+&#xD;
+          -  History of cancer within the last 5 years except adequately treated cervical carcinoma&#xD;
+             in-situ, cutaneous basal cell or squamous cell cancer, or non-progressive prostate&#xD;
+             cancer not requiring treatment&#xD;
+&#xD;
+          -  Women of childbearing potential&#xD;
+&#xD;
+          -  Uncontrolled blood pressure and/or blood pressure above 160/100&#xD;
+&#xD;
+          -  Prescription medical food intended for dietary management of the metabolic processes&#xD;
+             associated with Alzheimer's disease.&#xD;
+&#xD;
+          -  Diagnosis or history of cerebrovascular stroke, severe carotid stenosis, cerebral&#xD;
+             hemorrhage, intracranial tumor, subarachnoid hemorrhage.&#xD;
+&#xD;
+          -  Patients with unstable, uncontrolled diabetes (HbA1c &gt; 7.7%) and those requiring&#xD;
+             insulin.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Aaron H Burstein, PharmD</last_name>
+    <role>Study Director</role>
+    <affiliation>vTv Therapeutics</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85741</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Bellflower</city>
+        <state>California</state>
+        <zip>90706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Costa Mesa</city>
+        <state>California</state>
+        <zip>92626</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Imperial</city>
+        <state>California</state>
+        <zip>92251</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Laguna Hills</city>
+        <state>California</state>
+        <zip>92653</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Riverside</city>
+        <state>California</state>
+        <zip>92506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Bernardino</city>
+        <state>California</state>
+        <zip>92408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Brooksville</city>
+        <state>Florida</state>
+        <zip>34601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lake Worth</city>
+        <state>Florida</state>
+        <zip>33449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Leesburg</city>
+        <state>Florida</state>
+        <zip>34748</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sunrise</city>
+        <state>Florida</state>
+        <zip>33351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Fairway</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Prairie Village</city>
+        <state>Kansas</state>
+        <zip>66201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Plymouth</city>
+        <state>Massachusetts</state>
+        <zip>02360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Quincy</city>
+        <state>Massachusetts</state>
+        <zip>01269</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Hattiesburg</city>
+        <state>Mississippi</state>
+        <zip>39401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Creve Coeur</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Princeton</city>
+        <state>New Jersey</state>
+        <zip>08540</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Staten Island</city>
+        <state>New York</state>
+        <zip>10312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28270</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Shaker Heights</city>
+        <state>Ohio</state>
+        <zip>44122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Media</city>
+        <state>Pennsylvania</state>
+        <zip>19063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Norristown</city>
+        <state>Pennsylvania</state>
+        <zip>19403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Plains</city>
+        <state>Pennsylvania</state>
+        <zip>18705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>East Providence</city>
+        <state>Rhode Island</state>
+        <zip>02914</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>East Providence</city>
+        <state>Rhode Island</state>
+        <zip>02916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>24901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Mount Pleasant</city>
+        <state>South Carolina</state>
+        <zip>29464</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cordova</city>
+        <state>Tennessee</state>
+        <zip>38018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Wichita Falls</city>
+        <state>Texas</state>
+        <zip>76309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Murray</city>
+        <state>Utah</state>
+        <zip>84123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kirkland</city>
+        <state>Washington</state>
+        <zip>98201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Richland</city>
+        <state>Washington</state>
+        <zip>99352</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Southport</city>
+        <state>Queensland</state>
+        <zip>4222</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Caulfield</city>
+        <state>Victoria</state>
+        <zip>3162</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Geelong</city>
+        <state>Victoria</state>
+        <zip>3220</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Heidelberg West</city>
+        <state>Victoria</state>
+        <zip>3081</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>West Perth</city>
+        <state>Western Australia</state>
+        <zip>6005</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4Z6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Medicine Hat</city>
+        <state>Alberta</state>
+        <zip>T1B 4E7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Kentville</city>
+        <state>Nova Scotia</state>
+        <zip>B4N4K9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Chatham</city>
+        <state>Ontario</state>
+        <zip>N7L 1C1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6C 5J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B 257</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Gatineau</city>
+        <state>Quebec</state>
+        <zip>J8T 8J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Greenfield Park</city>
+        <state>Quebec</state>
+        <zip>J4V2J2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cork</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Dublin 8</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Galway</city>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Christchurch</city>
+        <state>Canterbury</state>
+        <zip>8011</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Christchurch</city>
+        <state>Canterbury</state>
+        <zip>8022</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cape Town</city>
+        <zip>7405</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Cape Town</city>
+        <zip>7530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Johannesburg</city>
+        <zip>2196</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>St. George</city>
+        <zip>6529</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Glasgow</city>
+        <zip>G20 OAXA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>W1G 9RU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>London</city>
+        <zip>WC1X 8QD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Manchester</city>
+        <zip>M8 5RB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Northampton</city>
+        <zip>NN5 6UD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7JX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Penarth</city>
+        <zip>CF64 2XX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Preston</city>
+        <zip>PR2 9HT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Sheffield</city>
+        <zip>S5 7JT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Southhampton</city>
+        <zip>SO30 3JB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Swindon</city>
+        <zip>SN3 6BW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Warrington</city>
+        <zip>WA2 8WA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Ireland</country>
+    <country>New Zealand</country>
+    <country>South Africa</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.livingsteadfast.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>February 25, 2014</study_first_submitted>
+  <study_first_submitted_qc>March 4, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 6, 2014</study_first_posted>
+  <results_first_submitted>March 5, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 6, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 7, 2021</results_first_posted>
+  <disposition_first_submitted>May 8, 2019</disposition_first_submitted>
+  <disposition_first_submitted_qc>May 13, 2019</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">May 17, 2019</disposition_first_posted>
+  <last_update_submitted>May 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>RAGE</keyword>
+  <keyword>ADAS-cog</keyword>
+  <keyword>CDR-sb</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 28, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/64/NCT02080364/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 23, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/64/NCT02080364/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>The A-Study was conducted from April 2015 through April 2018 in the United States and Canada.&#xD;
+The B-Study was conducted from September 2016 through June 2018 in the United States, Canada, United Kingdom, Ireland, South Africa, Australia and New Zealand.</recruitment_details>
+      <pre_assignment_details>A total of 1733 subjects underwent screening procedures for determination of eligibility for participation across the A- and B- Studies. 880 subjects were eligible and were randomized and assigned to treatment groups.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>A-Study: Azeliragon</title>
+          <description>Azeliragon 5 mg once daily</description>
+        </group>
+        <group group_id="P2">
+          <title>A-Study: Placebo</title>
+          <description>Placebo once daily</description>
+        </group>
+        <group group_id="P3">
+          <title>B-Study: Azeliragon</title>
+          <description>Azeliragon 5 mg once daily</description>
+        </group>
+        <group group_id="P4">
+          <title>B-Study: Placebo</title>
+          <description>Placebo capsule once daily</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Baseline Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="197"/>
+                <participants group_id="P2" count="208"/>
+                <participants group_id="P3" count="247"/>
+                <participants group_id="P4" count="228"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="195"/>
+                <participants group_id="P2" count="206"/>
+                <participants group_id="P3" count="246"/>
+                <participants group_id="P4" count="228"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Treatment Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="195"/>
+                <participants group_id="P2" count="206"/>
+                <participants group_id="P3" count="246"/>
+                <participants group_id="P4" count="228"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="148"/>
+                <participants group_id="P2" count="157"/>
+                <participants group_id="P3" count="9"/>
+                <participants group_id="P4" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="47"/>
+                <participants group_id="P2" count="49"/>
+                <participants group_id="P3" count="237"/>
+                <participants group_id="P4" count="224"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="15"/>
+                <participants group_id="P3" count="11"/>
+                <participants group_id="P4" count="14"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="5"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="5"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="16"/>
+                <participants group_id="P3" count="15"/>
+                <participants group_id="P4" count="10"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Study Terminated by Sponsor</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="180"/>
+                <participants group_id="P4" count="183"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="12"/>
+                <participants group_id="P3" count="21"/>
+                <participants group_id="P4" count="16"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Demographics and Baseline Characteristics were analyzed using the Safety Analysis Set. The Safety Analysis set includes all randomized subjects who received any study drug.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>A-Study: Azeliragon</title>
+          <description>Azeliragon 5 mg once daily</description>
+        </group>
+        <group group_id="B2">
+          <title>A-Study: Placebo</title>
+          <description>Placebo once daily</description>
+        </group>
+        <group group_id="B3">
+          <title>B-Study: Azeliragon</title>
+          <description>Azeliragon 5 mg once daily</description>
+        </group>
+        <group group_id="B4">
+          <title>B-Study: Placebo</title>
+          <description>Placebo capsule once daily</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="195"/>
+            <count group_id="B2" value="206"/>
+            <count group_id="B3" value="246"/>
+            <count group_id="B4" value="228"/>
+            <count group_id="B5" value="875"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="74.6" spread="9.13"/>
+                    <measurement group_id="B2" value="74.9" spread="7.96"/>
+                    <measurement group_id="B3" value="74.9" spread="8.55"/>
+                    <measurement group_id="B4" value="74.4" spread="8.64"/>
+                    <measurement group_id="B5" value="74.7" spread="8.56"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="97"/>
+                    <measurement group_id="B2" value="91"/>
+                    <measurement group_id="B3" value="107"/>
+                    <measurement group_id="B4" value="107"/>
+                    <measurement group_id="B5" value="402"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="98"/>
+                    <measurement group_id="B2" value="115"/>
+                    <measurement group_id="B3" value="139"/>
+                    <measurement group_id="B4" value="121"/>
+                    <measurement group_id="B5" value="473"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="15"/>
+                    <measurement group_id="B5" value="73"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="168"/>
+                    <measurement group_id="B2" value="183"/>
+                    <measurement group_id="B3" value="238"/>
+                    <measurement group_id="B4" value="213"/>
+                    <measurement group_id="B5" value="802"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="179"/>
+                    <measurement group_id="B2" value="194"/>
+                    <measurement group_id="B3" value="231"/>
+                    <measurement group_id="B4" value="220"/>
+                    <measurement group_id="B5" value="824"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>New Zealand</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="6"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Canada</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="16"/>
+                    <measurement group_id="B4" value="18"/>
+                    <measurement group_id="B5" value="84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="170"/>
+                    <measurement group_id="B2" value="181"/>
+                    <measurement group_id="B3" value="163"/>
+                    <measurement group_id="B4" value="144"/>
+                    <measurement group_id="B5" value="558"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ireland</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="7"/>
+                    <measurement group_id="B5" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>South Africa</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="24"/>
+                    <measurement group_id="B4" value="22"/>
+                    <measurement group_id="B5" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>United Kingdom</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="20"/>
+                    <measurement group_id="B4" value="27"/>
+                    <measurement group_id="B5" value="47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Australia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="7"/>
+                    <measurement group_id="B5" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Apo E4 status</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Heterozygous</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="83"/>
+                    <measurement group_id="B2" value="79"/>
+                    <measurement group_id="B3" value="115"/>
+                    <measurement group_id="B4" value="105"/>
+                    <measurement group_id="B5" value="382"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Homozygous</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="31"/>
+                    <measurement group_id="B4" value="18"/>
+                    <measurement group_id="B5" value="91"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Non-carrier</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="95"/>
+                    <measurement group_id="B2" value="98"/>
+                    <measurement group_id="B3" value="96"/>
+                    <measurement group_id="B4" value="99"/>
+                    <measurement group_id="B5" value="388"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Education Level</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>High School</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="61"/>
+                    <measurement group_id="B2" value="65"/>
+                    <measurement group_id="B3" value="86"/>
+                    <measurement group_id="B4" value="79"/>
+                    <measurement group_id="B5" value="291"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other (trainings, certifications)</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="43"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Some college</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="33"/>
+                    <measurement group_id="B3" value="34"/>
+                    <measurement group_id="B4" value="31"/>
+                    <measurement group_id="B5" value="130"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Associates Degree</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="21"/>
+                    <measurement group_id="B5" value="66"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Bachelor's Degree</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="64"/>
+                    <measurement group_id="B4" value="55"/>
+                    <measurement group_id="B5" value="202"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Master's Degree</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="29"/>
+                    <measurement group_id="B4" value="25"/>
+                    <measurement group_id="B5" value="101"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Doctoral Degree</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="11"/>
+                    <measurement group_id="B4" value="11"/>
+                    <measurement group_id="B5" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Background AD Medication</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Memantine</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="19"/>
+                    <measurement group_id="B4" value="22"/>
+                    <measurement group_id="B5" value="69"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Acetylcholinesterase inhibitor</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="117"/>
+                    <measurement group_id="B2" value="124"/>
+                    <measurement group_id="B3" value="156"/>
+                    <measurement group_id="B4" value="145"/>
+                    <measurement group_id="B5" value="542"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Both Memantine and Acetylcholinesterase inhibitor</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="65"/>
+                    <measurement group_id="B2" value="66"/>
+                    <measurement group_id="B3" value="71"/>
+                    <measurement group_id="B4" value="60"/>
+                    <measurement group_id="B5" value="262"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not recorded</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Years since AD diagnosis</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="195"/>
+                    <count group_id="B2" value="206"/>
+                    <count group_id="B3" value="246"/>
+                    <count group_id="B4" value="228"/>
+                    <count group_id="B5" value="875"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.41" spread="2.389"/>
+                    <measurement group_id="B2" value="2.32" spread="2.414"/>
+                    <measurement group_id="B3" value="2.05" spread="1.932"/>
+                    <measurement group_id="B4" value="1.86" spread="1.871"/>
+                    <measurement group_id="B5" value="2.14" spread="2.153"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline MMSE</title>
+          <description>The MMSE is a brief 30-point test that is used to assess cognition (Folstein, 1975). It is commonly used to screen for dementia. In the time span of about 10 minutes, it samples various functions, including arithmetic, memory and orientation. Scores range from 0-30 with lower scores indicating greater cognitive impairment.</description>
+          <population>Baseline MMSE was not reported / not valid for some subjects; therefore, the number analyzed is smaller than overall number.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="189"/>
+                    <count group_id="B2" value="202"/>
+                    <count group_id="B3" value="244"/>
+                    <count group_id="B4" value="225"/>
+                    <count group_id="B5" value="860"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23.42" spread="2.733"/>
+                    <measurement group_id="B2" value="23.22" spread="2.522"/>
+                    <measurement group_id="B3" value="23.29" spread="2.513"/>
+                    <measurement group_id="B4" value="23.41" spread="2.701"/>
+                    <measurement group_id="B5" value="23.33" spread="2.611"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline ADAS-cog</title>
+          <description>The ADAS-cog is a structured scale (approximately 40 minutes to complete) that evaluates memory, orientation, attention, reasoning, language and constructional praxis (Rosen, 1984). The ADAS-cog scoring range for the version used in this study is from 0 to 70, with higher scores indicating greater cognitive impairment.</description>
+          <population>Baseline ADAScog was not reported / not valid for some subjects; therefore, the number analyzed is smaller than overall number.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="188"/>
+                    <count group_id="B2" value="202"/>
+                    <count group_id="B3" value="243"/>
+                    <count group_id="B4" value="225"/>
+                    <count group_id="B5" value="858"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15.42" spread="5.186"/>
+                    <measurement group_id="B2" value="15.51" spread="5.427"/>
+                    <measurement group_id="B3" value="16.94" spread="5.623"/>
+                    <measurement group_id="B4" value="16.08" spread="5.295"/>
+                    <measurement group_id="B5" value="16.05" spread="5.424"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline CDR-Sum of Boxes</title>
+          <description>The CDR scale is used as a global measure of dementia and is completed by a clinician in the setting of detailed knowledge of the individual patient collected from interviews with the patient and caregiver (Berg, 1988). The CDR describes 5 degrees of impairment in performance on each of 6 categories including memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. Sum of box scores range from 0 to 18 with higher scores indicating greater cognitive impairment.</description>
+          <population>Baseline CDR-sb was not reported / not valid for some subjects; therefore, the number analyzed is smaller than overall number.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="189"/>
+                    <count group_id="B2" value="202"/>
+                    <count group_id="B3" value="244"/>
+                    <count group_id="B4" value="225"/>
+                    <count group_id="B5" value="860"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.06" spread="1.747"/>
+                    <measurement group_id="B2" value="4.07" spread="1.623"/>
+                    <measurement group_id="B3" value="4.64" spread="1.585"/>
+                    <measurement group_id="B4" value="4.5" spread="1.570"/>
+                    <measurement group_id="B5" value="4.34" spread="1.645"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline ADCS-ADL</title>
+          <description>The ADCS-ADL is an activity of daily living inventory developed by the ADCS to assess functional performance in participants with AD (Galasko et al., 1997). Informants are queried via a structured interview format as to whether participants attempted each item in the inventory during the preceding 4 weeks, as well as their level of performance. Scores range from 0-78 with lower scores indicating greater functional impairment.</description>
+          <population>Baseline ADCS-ADL was not reported / not valid for some subjects; therefore, the number analyzed is smaller than overall number.</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="189"/>
+                    <count group_id="B2" value="202"/>
+                    <count group_id="B3" value="244"/>
+                    <count group_id="B4" value="225"/>
+                    <count group_id="B5" value="860"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67.62" spread="7.67"/>
+                    <measurement group_id="B2" value="67.37" spread="8.56"/>
+                    <measurement group_id="B3" value="66.25" spread="8.142"/>
+                    <measurement group_id="B4" value="67.25" spread="7.568"/>
+                    <measurement group_id="B5" value="67.08" spread="8.001"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Alzheimer's Disease Assessment Scale - Cognitive (ADAS-cog) Total Score</title>
+        <description>The ADAS-cog is a structured scale (approximately 40 minutes to complete) that evaluates memory, orientation, attention, reasoning, language and constructional praxis (Rosen, 1984). The ADAS-cog scoring range for the version used in this study is from 0 to 70, with higher scores indicating greater cognitive impairment.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. ADAS-cog was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Alzheimer's Disease Assessment Scale - Cognitive (ADAS-cog) Total Score</title>
+          <description>The ADAS-cog is a structured scale (approximately 40 minutes to complete) that evaluates memory, orientation, attention, reasoning, language and constructional praxis (Rosen, 1984). The ADAS-cog scoring range for the version used in this study is from 0 to 70, with higher scores indicating greater cognitive impairment.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. ADAS-cog was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="138"/>
+                <count group_id="O2" value="151"/>
+                <count group_id="O3" value="118"/>
+                <count group_id="O4" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8" spread="0.51"/>
+                    <measurement group_id="O2" value="3.1" spread="0.49"/>
+                    <measurement group_id="O3" value="3.4" spread="0.46"/>
+                    <measurement group_id="O4" value="2.5" spread="0.46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.3386</p_value>
+            <p_value_desc>p-value for comparison to Placebo</p_value_desc>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.1992</p_value>
+            <p_value_desc>p-value for compairons to Placebo</p_value_desc>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Clinical Dementia Rating Scale Sum of Boxes (CDR-sb)</title>
+        <description>The CDR scale is used as a global measure of dementia and is completed by a clinician in the setting of detailed knowledge of the individual patient collected from interviews with the patient and caregiver (Berg, 1988). The CDR describes 5 degrees of impairment in performance on each of 6 categories including memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. CDR ratings are 0 for healthy individuals, 0.5 for questionable dementia and 1, 2 and 3 for mild, moderate and severe dementia as defined in the CDR scale. The scores for each category can also be summed and this is known as the sum of box score (CSR-SB). Sum of box scores range from 0 to 18 with higher scores indicating greater cognitive impairment.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. CDR-sb was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Clinical Dementia Rating Scale Sum of Boxes (CDR-sb)</title>
+          <description>The CDR scale is used as a global measure of dementia and is completed by a clinician in the setting of detailed knowledge of the individual patient collected from interviews with the patient and caregiver (Berg, 1988). The CDR describes 5 degrees of impairment in performance on each of 6 categories including memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care. CDR ratings are 0 for healthy individuals, 0.5 for questionable dementia and 1, 2 and 3 for mild, moderate and severe dementia as defined in the CDR scale. The scores for each category can also be summed and this is known as the sum of box score (CSR-SB). Sum of box scores range from 0 to 18 with higher scores indicating greater cognitive impairment.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. CDR-sb was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="140"/>
+                <count group_id="O2" value="150"/>
+                <count group_id="O3" value="117"/>
+                <count group_id="O4" value="120"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.4" spread="2.23"/>
+                    <measurement group_id="O2" value="1.4" spread="1.85"/>
+                    <measurement group_id="O3" value="1.3" spread="1.87"/>
+                    <measurement group_id="O4" value="0.7" spread="1.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.9394</p_value>
+            <p_value_desc>p-value for comparison to Placebo.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <other_analysis_desc>MMRM model does not converge. LS Mean and p-value are NA.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Magnetic Resonance Imaging (MRI) Brain Volumetric Measures</title>
+        <description>Percent of Total Hippocampus Atrophy to Intracranial Volume</description>
+        <time_frame>Baseline and 18 months</time_frame>
+        <population>Number of subjects with paired Baseline and Month 18 MRIs</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Azeliragon 5mg</title>
+            <description>Azeliragon (TTP488) 5mg orally once daily for 18 months&#xD;
+Azeliragon: Azeliragon 5mg administered orally, once daily for 18 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo orally once daily for 18 months&#xD;
+Placebo: Placebo administered orally, once daily for 18 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Magnetic Resonance Imaging (MRI) Brain Volumetric Measures</title>
+          <description>Percent of Total Hippocampus Atrophy to Intracranial Volume</description>
+          <population>Number of subjects with paired Baseline and Month 18 MRIs</population>
+          <units>percentage of Total Hippocampus Atrophy</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="112"/>
+                <count group_id="O2" value="116"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.016" spread="0.001"/>
+                    <measurement group_id="O2" value="-0.014" spread="0.001"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in the Normalized Mean Composite SUVR of the 5 Regions</title>
+        <description>Extent and severity of brain hypometabolism was assessed centrally at Baseline and Month 18. SUVR PET was designed to make use of FreeSurfer-based segmentations of the brain obtained using the 3DT1 MRI. Following the methods published by Landau and Jagust (Landau SM, Annals of Neurology 2012) and described on the ADNI website (http://adni.loni.usc.edu/methods/pet-analysis-method/), regions were defined in native patient space on the 3DT1 MRI acquired at the Baseline visit and at Month 18 visit. An SUVR measure was computed regionally over five sub-regions (anterior/posterior cingulate, temporal, parietal, frontal and hippocampal areas), normalized to activity in the cerebral white matter. These sub-regions were selected to optimize sensitivity in longitudinal studies. This outcome measure presents the change from baseline in the normalized mean composite SUVR of the 5 regions. A negative change from baseline indicates a decrease (worsening) in brain glucose metabolism/utilization.</description>
+        <time_frame>Baseline to 18 months</time_frame>
+        <population>Analyzed as part of an optional FDG-PET substudy</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Azeliragon 5mg</title>
+            <description>Azeliragon (TTP488) 5mg orally once daily for 18 months&#xD;
+Azeliragon: Azeliragon 5mg administered orally, once daily for 18 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo orally once daily for 18 months&#xD;
+Placebo: Placebo administered orally, once daily for 18 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in the Normalized Mean Composite SUVR of the 5 Regions</title>
+          <description>Extent and severity of brain hypometabolism was assessed centrally at Baseline and Month 18. SUVR PET was designed to make use of FreeSurfer-based segmentations of the brain obtained using the 3DT1 MRI. Following the methods published by Landau and Jagust (Landau SM, Annals of Neurology 2012) and described on the ADNI website (http://adni.loni.usc.edu/methods/pet-analysis-method/), regions were defined in native patient space on the 3DT1 MRI acquired at the Baseline visit and at Month 18 visit. An SUVR measure was computed regionally over five sub-regions (anterior/posterior cingulate, temporal, parietal, frontal and hippocampal areas), normalized to activity in the cerebral white matter. These sub-regions were selected to optimize sensitivity in longitudinal studies. This outcome measure presents the change from baseline in the normalized mean composite SUVR of the 5 regions. A negative change from baseline indicates a decrease (worsening) in brain glucose metabolism/utilization.</description>
+          <population>Analyzed as part of an optional FDG-PET substudy</population>
+          <units>SUVR ratio</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="36"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.0304" spread="0.0039"/>
+                    <measurement group_id="O2" value="-0.0342" spread="0.0039"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Alzheimer's Disease Cooperative Study- Activities of Daily Living Inventory (ADCS-ADL)</title>
+        <description>The ADCS-ADL is an activity of daily living inventory developed by the ADCS to assess functional performance in participants with AD (Galasko et al., 1997). Informants are queried via a structured interview format as to whether participants attempted each item in the inventory during the preceding 4 weeks, as well as their level of performance. Scores range from 0-78 with lower scores indicating greater functional impairment.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. ADCS-ADL was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Alzheimer's Disease Cooperative Study- Activities of Daily Living Inventory (ADCS-ADL)</title>
+          <description>The ADCS-ADL is an activity of daily living inventory developed by the ADCS to assess functional performance in participants with AD (Galasko et al., 1997). Informants are queried via a structured interview format as to whether participants attempted each item in the inventory during the preceding 4 weeks, as well as their level of performance. Scores range from 0-78 with lower scores indicating greater functional impairment.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. ADCS-ADL was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="141"/>
+                <count group_id="O2" value="152"/>
+                <count group_id="O3" value="121"/>
+                <count group_id="O4" value="122"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-5.1" spread="8.63"/>
+                    <measurement group_id="O2" value="-3.2" spread="8.92"/>
+                    <measurement group_id="O3" value="-5.4" spread="8.85"/>
+                    <measurement group_id="O4" value="-2.8" spread="7.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Mini-Mental State Examination (MMSE)</title>
+        <description>The MMSE is a brief 30-point test that is used to assess cognition (Folstein, 1975). It is commonly used to screen for dementia. In the time span of about 10 minutes, it samples various functions, including arithmetic, memory and orientation. Scores range from 0-30 with lower scores indicating greater cognitive impairment.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. MMSE was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Mini-Mental State Examination (MMSE)</title>
+          <description>The MMSE is a brief 30-point test that is used to assess cognition (Folstein, 1975). It is commonly used to screen for dementia. In the time span of about 10 minutes, it samples various functions, including arithmetic, memory and orientation. Scores range from 0-30 with lower scores indicating greater cognitive impairment.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. MMSE was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="142"/>
+                <count group_id="O2" value="153"/>
+                <count group_id="O3" value="121"/>
+                <count group_id="O4" value="121"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.1" spread="3.55"/>
+                    <measurement group_id="O2" value="-2.0" spread="3.25"/>
+                    <measurement group_id="O3" value="-2.1" spread="3.25"/>
+                    <measurement group_id="O4" value="-1.8" spread="3.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Neuropsychiatric Inventory (NPI)</title>
+        <description>The NPI is a well-validated, reliable, multi-item instrument to assess psychopathology in AD based on an interview with the caregiver (Cummings et al, 1994). It evaluates both the frequency and severity of 12 behavioral areas including delusions, hallucinations, dysphoria (depression) anxiety, agitation/aggression, euphoria, disinhibition, irritability, lability, apathy, aberrant motor behavior, appetite and eating changes and night-time behaviors.&#xD;
+Frequency assessments range from 1 (occasionally, less than once per week) to 4 (very frequently, once or more per day or continuously) as well as severity (1= mild, 2 = moderate, 3 = severe). Distress is rated by the study partner or caregiver and ranges from 0 (no distress) to 5 (very severe or extreme). The overall score and the score for each subscale are the product of severity and frequency. Scores range from 0-144 with higher scores indicating a greater presence of neuropsychiatric symptoms.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. NPI was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Neuropsychiatric Inventory (NPI)</title>
+          <description>The NPI is a well-validated, reliable, multi-item instrument to assess psychopathology in AD based on an interview with the caregiver (Cummings et al, 1994). It evaluates both the frequency and severity of 12 behavioral areas including delusions, hallucinations, dysphoria (depression) anxiety, agitation/aggression, euphoria, disinhibition, irritability, lability, apathy, aberrant motor behavior, appetite and eating changes and night-time behaviors.&#xD;
+Frequency assessments range from 1 (occasionally, less than once per week) to 4 (very frequently, once or more per day or continuously) as well as severity (1= mild, 2 = moderate, 3 = severe). Distress is rated by the study partner or caregiver and ranges from 0 (no distress) to 5 (very severe or extreme). The overall score and the score for each subscale are the product of severity and frequency. Scores range from 0-144 with higher scores indicating a greater presence of neuropsychiatric symptoms.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. B-Study excludes data from visits occurring after A-Study results announcement on 09 Apr 2018. NPI was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="142"/>
+                <count group_id="O2" value="152"/>
+                <count group_id="O3" value="121"/>
+                <count group_id="O4" value="122"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.2" spread="9.77"/>
+                    <measurement group_id="O2" value="1.3" spread="11.53"/>
+                    <measurement group_id="O3" value="2.3" spread="11.24"/>
+                    <measurement group_id="O4" value="0.0" spread="10.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Dementia Quality of Life (DEMQOL)</title>
+        <description>The DEMQOL-Proxy questionnaire is a validated and reliable questionnaire that is interview administered and completed by the caregiver about the patient's health related quality of life (Smith et al, 2005). It consists of 31 items representing 5 domains (daily activities and looking after yourself, health and well-being, cognitive functioning, social relationships, and self-concept) and takes approximately 20 minutes to complete. Scores range 31-124 with higher scores indicate better health related quality of life.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. DEMQOL was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Dementia Quality of Life (DEMQOL)</title>
+          <description>The DEMQOL-Proxy questionnaire is a validated and reliable questionnaire that is interview administered and completed by the caregiver about the patient's health related quality of life (Smith et al, 2005). It consists of 31 items representing 5 domains (daily activities and looking after yourself, health and well-being, cognitive functioning, social relationships, and self-concept) and takes approximately 20 minutes to complete. Scores range 31-124 with higher scores indicate better health related quality of life.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. DEMQOL was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="142"/>
+                <count group_id="O2" value="152"/>
+                <count group_id="O3" value="179"/>
+                <count group_id="O4" value="187"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" spread="10.2"/>
+                    <measurement group_id="O2" value="-1.2" spread="9.38"/>
+                    <measurement group_id="O3" value="-0.1" spread="10.55"/>
+                    <measurement group_id="O4" value="-0.8" spread="11.70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Continuous Oral Word Association Task (COWAT)</title>
+        <description>The COWAT is a measure of verbal fluency in which the participant is asked to generate orally as many words as possible that begin with the letters &quot;F&quot;, &quot;A&quot;, and &quot;S&quot;, excluding proper names and different forms of the same word. (Borkowski, 1967, Loonstra 2001) For each letter, the participant is allowed one minute to generate the words. Performance is measured by the total number of correct words produced summed across the three letters. Perseverations (i.e., repetitions of a correct word) and intrusions (i.e., words not beginning with the designated letter) are noted.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. NPI was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Continuous Oral Word Association Task (COWAT)</title>
+          <description>The COWAT is a measure of verbal fluency in which the participant is asked to generate orally as many words as possible that begin with the letters &quot;F&quot;, &quot;A&quot;, and &quot;S&quot;, excluding proper names and different forms of the same word. (Borkowski, 1967, Loonstra 2001) For each letter, the participant is allowed one minute to generate the words. Performance is measured by the total number of correct words produced summed across the three letters. Perseverations (i.e., repetitions of a correct word) and intrusions (i.e., words not beginning with the designated letter) are noted.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. NPI was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>Total acceptable Words</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="142"/>
+                <count group_id="O2" value="153"/>
+                <count group_id="O3" value="180"/>
+                <count group_id="O4" value="188"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.0" spread="9.61"/>
+                    <measurement group_id="O2" value="-0.1" spread="8.92"/>
+                    <measurement group_id="O3" value="-1.8" spread="8.12"/>
+                    <measurement group_id="O4" value="-0.8" spread="8.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in Category Fluency Test (CFT)</title>
+        <description>Study participants are given one minute to provide exemplars of the category 'animals'.</description>
+        <time_frame>Baseline and 18 months (A-Study); baseline and 12 months (B-Study)</time_frame>
+        <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. NPI was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>A-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O2">
+            <title>A-Study: Placebo</title>
+            <description>Placebo once daily</description>
+          </group>
+          <group group_id="O3">
+            <title>B-Study: Azeliragon</title>
+            <description>Azeliragon 5 mg once daily</description>
+          </group>
+          <group group_id="O4">
+            <title>B-Study: Placebo</title>
+            <description>Placebo capsule once daily</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Category Fluency Test (CFT)</title>
+          <description>Study participants are given one minute to provide exemplars of the category 'animals'.</description>
+          <population>Full Analysis Set (all randomized subjects who receive study medication and have at least one post-baseline efficacy assessment) with Month 18 (A-Study) or Month 12 (B-Study) data. NPI was not reported / not valid for some subject visits; therefore, the number analyzed is smaller than overall number.</population>
+          <units>Total Acceptable Words</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="142"/>
+                <count group_id="O2" value="152"/>
+                <count group_id="O3" value="180"/>
+                <count group_id="O4" value="188"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.7" spread="4.45"/>
+                    <measurement group_id="O2" value="-1.3" spread="4.26"/>
+                    <measurement group_id="O3" value="-1.5" spread="3.80"/>
+                    <measurement group_id="O4" value="9.7" spread="146.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event reporting commenced when the subject received their first dose and ended at the final study visit (21 months).</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Azeliragon 5mg</title>
+          <description>Azeliragon (TTP488) 5mg orally once daily for 18 months&#xD;
+Parts A and B Combined</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo orally once daily for 18 months&#xD;
+Parts A and B Combined</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 17.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="441"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="70" subjects_at_risk="441"/>
+                <counts group_id="E2" subjects_affected="67" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="441"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Cardiac failure congestive</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Bradycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Myocardial infarction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Acute myocardial infarction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Atrioventricular block complete</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Bundle branch block left</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Sinus bradycardia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Arrhythmia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Cardiac arrest</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Myocardial ischaemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperparathyroidism</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal haemorrhage</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Gastric ulcer haemorrhage</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Colitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Gastric polyps</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Gastric ulcer perforation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Small intestinal obstruction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Ascites</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Colitis ulcerative</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Intestinal infarction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Large intestinal obstruction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Large intestine polyp</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Melaena</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Oesophagitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Device dislocation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Non-cardiac chest pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholelithiasis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Drug hypersensitivity</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="441"/>
+                <counts group_id="E2" events="5" subjects_affected="4" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Diverticulitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Urosepsis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Appendicitis perforated</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Colonic abscess</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis viral</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Oesophageal candiasis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia respiratory syncytial viral</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Clostridium difficile colitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Lobar pneumonia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Orchitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pyelonephritis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Streptococcal infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="441"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Femoral neck fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Rib fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Ankle fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Craniocerebral injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Jaw fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pelvic fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Post procedural haematuria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Post procedural inflammation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Wrist fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Femur fracture</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Subdural haematoma</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Burns third degree</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Contusion</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Intentional overdose</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Road traffic accident</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Spinal fracture</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Sternal fracture</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Hypernatraemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthritis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Intervertebral disc protrusion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Joint swelling</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Rheumatoid arthritis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Flank pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Rotator cuff syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Malignant melanoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Colon cancer metastatic</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Invasive ductal breast carcinoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Lung cancer metastatic</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Renal cell carcinoma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Non-Hodgkin's lymphoma</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pancreatic carcinoma</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pancreatic carcinoma metastatic</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="441"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Dementia Alzheimer's type</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Presyncope</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Transient Ischaemic attack</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Cerebellar Infarction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Cerebrovascular Accident</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Dementia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Haemorrhagic stroke</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Ischaemic stroke</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Nerve root compression</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Amyotrophic lateral sclerosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Cerebral haemorrhage</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Encephalopathy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Hypertensive encephalopathy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Lethargy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Subarachnoid haemorrage</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Toxic encephalopathy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Unresponsive to stimuli</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Aggression</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Agitation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Mental status changes</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Major depression</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Suicidal ideation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nephrolithiasis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Renal failure acute</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Renal injury</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Calculus urinary</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Benign prostatic hyperplasia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chronic obstructive pulmonary disease</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia aspiration</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Asthma</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary embolism</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Acute respiratory failure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Deep vein thrombosis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Aortic stenosis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Hypovolaemic shock</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="441"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="441"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <default_vocab>MedDRA 17.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="320" subjects_at_risk="441"/>
+                <counts group_id="E2" subjects_affected="324" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial Fibrillation</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="5" subjects_at_risk="441"/>
+                <counts group_id="E2" events="8" subjects_affected="7" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="18" subjects_affected="17" subjects_at_risk="441"/>
+                <counts group_id="E2" events="22" subjects_affected="20" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="441"/>
+                <counts group_id="E2" events="10" subjects_affected="10" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="441"/>
+                <counts group_id="E2" events="8" subjects_affected="8" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="16" subjects_affected="13" subjects_at_risk="441"/>
+                <counts group_id="E2" events="15" subjects_affected="14" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" events="47" subjects_affected="45" subjects_at_risk="441"/>
+                <counts group_id="E2" events="33" subjects_affected="33" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" events="19" subjects_affected="19" subjects_at_risk="441"/>
+                <counts group_id="E2" events="24" subjects_affected="23" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Upper Respiratory Tract Infection</sub_title>
+                <counts group_id="E1" events="23" subjects_affected="20" subjects_at_risk="441"/>
+                <counts group_id="E2" events="17" subjects_affected="16" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="441"/>
+                <counts group_id="E2" events="14" subjects_affected="14" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="441"/>
+                <counts group_id="E2" events="9" subjects_affected="9" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="441"/>
+                <counts group_id="E2" events="11" subjects_affected="11" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="59" subjects_affected="48" subjects_at_risk="441"/>
+                <counts group_id="E2" events="59" subjects_affected="55" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Laceration</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="441"/>
+                <counts group_id="E2" events="13" subjects_affected="11" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Contusion</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="8" subjects_at_risk="441"/>
+                <counts group_id="E2" events="12" subjects_affected="8" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Weight Decreased</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="17" subjects_at_risk="441"/>
+                <counts group_id="E2" events="13" subjects_affected="13" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased Appetite</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="441"/>
+                <counts group_id="E2" events="9" subjects_affected="9" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="10" subjects_at_risk="441"/>
+                <counts group_id="E2" events="14" subjects_affected="14" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Musculoskeletal Pain</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="441"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="441"/>
+                <counts group_id="E2" events="16" subjects_affected="14" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="19" subjects_affected="18" subjects_at_risk="441"/>
+                <counts group_id="E2" events="15" subjects_affected="15" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="16" subjects_affected="15" subjects_at_risk="441"/>
+                <counts group_id="E2" events="19" subjects_affected="19" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="7" subjects_at_risk="441"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="21" subjects_at_risk="441"/>
+                <counts group_id="E2" events="20" subjects_affected="20" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Agitation</sub_title>
+                <counts group_id="E1" events="16" subjects_affected="14" subjects_at_risk="441"/>
+                <counts group_id="E2" events="18" subjects_affected="17" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="10" subjects_at_risk="441"/>
+                <counts group_id="E2" events="15" subjects_affected="15" subjects_at_risk="434"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="441"/>
+                <counts group_id="E2" events="7" subjects_affected="7" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="441"/>
+                <counts group_id="E2" events="9" subjects_affected="9" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="441"/>
+                <counts group_id="E2" events="14" subjects_affected="14" subjects_at_risk="434"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Where PI requires the use of the Study Results for publication, the PI shall seek the Sponsor's written approval which shall not be unreasonably withheld; provided, however, that (i) Sponsor may require removal of any Confidential Information of Sponsor or may delay publication for a reasonable period of time in order to secure protection any IP Rights; and, (ii) as the Study is designed as a multi-center Study, no publication shall be made until after the first multi-center publication.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Ann Gooch PhD,RAC,CCRP; Vice President Clinical Development &amp; Regulatory Operations</name_or_title>
+      <organization>vTv Therapeutics LLC</organization>
+      <phone>336-841-0300 ext 80544</phone>
+      <email>agooch@vtvtherapeutics.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

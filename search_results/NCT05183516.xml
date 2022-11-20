@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="697">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05183516</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Tdap PANDA</org_study_id>
+    <nct_id>NCT05183516</nct_id>
+  </id_info>
+  <brief_title>Tdap and Biomarkers of Alzheimer's Disease</brief_title>
+  <official_title>Evaluation of Tdap Vaccination and Plasma Biomarkers of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mindful Diagnostics and Therapeutics, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Infectious Disease Society of America</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mindful Diagnostics and Therapeutics, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Recently, the Tdap (tetanus toxoid, reduced diphtheria toxoid and acellular pertussis)&#xD;
+      vaccination was added to the list of immunizations associated with lower incidence of&#xD;
+      dementia. Plasma-based biomarkers for AD are a welcome alternative to expensive and invasive&#xD;
+      testing for Alzheimer's; these biomarkers include assessment of amyloid and tau and&#xD;
+      neurofilament light protein that assesses non-specific neurodegeneration. The investigators&#xD;
+      will test for these biomarkers, as well as some immune parameters, administer Tdap then&#xD;
+      repeat the blood tests in six months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A growing number of studies have consistently shown reduced incident risk of dementia&#xD;
+      associated with a variety of vaccinations. Most recently, data probes of medical claims from&#xD;
+      two large and disparate databases showed that vaccination for tetanus, diphtheria and&#xD;
+      pertussis (Tdap) was associated with a 42% decrease in dementia. Adult vaccination coverage&#xD;
+      remains low for most routinely recommended vaccines, including Tdap. This study will screen&#xD;
+      and qualify participants who do not meet the recommended frequency interval for Tdap&#xD;
+      vaccination. Participants will have consented to a review of their medical history (including&#xD;
+      vaccination history), a neurocognitive test and a battery of blood tests. Included in the&#xD;
+      blood testing will be plasma-based testing for amyloid, tau and neurofilament light protein.&#xD;
+      The study will be considered a pilot study; it will be an open-label trial. All participants&#xD;
+      will receive a single dose of the Tdap vaccine. Nine months after vaccination, participants&#xD;
+      will repeat the pre-vaccine blood tests. Primary objective will be the assessment of change&#xD;
+      in the Alzheimer's disease (AD) biomarkers. Bordetella pertussis (B. pertussis), the&#xD;
+      bacterium that causes whopping cough, is one of the targets of the Tdap vaccine. B. pertussis&#xD;
+      is a hypothesized infectious trigger of Alzheimer's disease (AD). A secondary objective of&#xD;
+      the study will be determination of present and past infection by B. pertussis via IgG testing&#xD;
+      as well as PCR of nasal swab and how this may relate to the Alzheimer biomarker responses to&#xD;
+      Tdap vaccination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 1, 2023</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>single group assignment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Plasma Amyloid</measure>
+    <time_frame>start of study and 6 months</time_frame>
+    <description>Amyloid peptides 42/40 ratio</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Plasma Tau</measure>
+    <time_frame>start of study and 6 months</time_frame>
+    <description>a brain-specific protein that may be expected to leak from brain interstitial fluid to the plasma compartment in Alzheimer's disease as well as its preclincial and prodromal stages.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Presence of B. pertussis</measure>
+    <time_frame>start of study and 6 months</time_frame>
+    <description>Nasal swab for the presence of B. pertussis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>B. pertussis IgG</measure>
+    <time_frame>start of study</time_frame>
+    <description>Blood test for history of B. pertussis</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Alzheimer Disease, Late Onset</condition>
+  <arm_group>
+    <arm_group_label>Tdap</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Open label study, no placebo comparator</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>tetanus toxoid, reduced diphtheria toxoid and acellular pertussis vaccine</intervention_name>
+    <description>Tdap is a combination vaccine that protects against three potentially life-threatening bacterial diseases: tetanus, diphtheria, and pertussis (whooping cough).</description>
+    <arm_group_label>Tdap</arm_group_label>
+    <other_name>Tdap</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Immuno- competent&#xD;
+&#xD;
+          -  Out of compliance for Tdap vaccine (none within 10 years).&#xD;
+&#xD;
+          -  Ability of give informed consent.&#xD;
+&#xD;
+          -  SAGE test 17 or greater&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Immuno- compromised&#xD;
+&#xD;
+          -  In compliance for Tdap vaccination (within 10 years).&#xD;
+&#xD;
+          -  Known allergy to components of the Tdap vaccine.&#xD;
+&#xD;
+          -  SAGE test &lt;17&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Coad T Dow, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mindful Diagnostics and Therapeutics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Coad T Dow, MD</last_name>
+    <phone>715-577-5656</phone>
+    <email>ctomdow@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alie Halverson, CNA</last_name>
+    <phone>715-456-7336</phone>
+    <email>info@mindfuldt.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mindful Diagnostics and Therapeutics</name>
+      <address>
+        <city>Eau Claire</city>
+        <state>Wisconsin</state>
+        <zip>54701-3016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Scherrer JF, Salas J, Wiemken TL, Jacobs C, Morley JE, Hoft DF. Lower Risk for Dementia Following Adult Tetanus, Diphtheria, and Pertussis (Tdap) Vaccination. J Gerontol A Biol Sci Med Sci. 2021 Jul 13;76(8):1436-1443. doi: 10.1093/gerona/glab115.</citation>
+    <PMID>33856020</PMID>
+  </reference>
+  <reference>
+    <citation>Rubin K, Glazer S. The pertussis hypothesis: Bordetella pertussis colonization in the pathogenesis of Alzheimer's disease. Immunobiology. 2017 Feb;222(2):228-240. doi: 10.1016/j.imbio.2016.09.017. Epub 2016 Sep 28. Review.</citation>
+    <PMID>27692981</PMID>
+  </reference>
+  <reference>
+    <citation>Wiemken TL, Salas J, Morley JE, Hoft DF, Jacobs C, Scherrer JF. Comparison of rates of dementia among older adult recipients of two, one, or no vaccinations. J Am Geriatr Soc. 2022 Apr;70(4):1157-1168. doi: 10.1111/jgs.17606. Epub 2021 Dec 12.</citation>
+    <PMID>34897645</PMID>
+  </reference>
+  <results_reference>
+    <citation>West T, Kirmess KM, Meyer MR, Holubasch MS, Knapik SS, Hu Y, Contois JH, Jackson EN, Harpstrite SE, Bateman RJ, Holtzman DM, Verghese PB, Fogelman I, Braunstein JB, Yarasheski KE. A blood-based diagnostic test incorporating plasma Aβ42/40 ratio, ApoE proteotype, and age accurately identifies brain amyloid status: findings from a multi cohort validity analysis. Mol Neurodegener. 2021 May 1;16(1):30. doi: 10.1186/s13024-021-00451-6.</citation>
+    <PMID>33933117</PMID>
+  </results_reference>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>December 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 10, 2022</study_first_posted>
+  <last_update_submitted>August 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Tdap</keyword>
+  <keyword>Alzheimer's</keyword>
+  <keyword>biomarkers</keyword>
+  <keyword>B. pertussis</keyword>
+  <keyword>immune risk profile</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Late Onset Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No participant data will be shared with other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

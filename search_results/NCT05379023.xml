@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1344">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05379023</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-5037</org_study_id>
+    <secondary_id>R21AG072153</secondary_id>
+    <nct_id>NCT05379023</nct_id>
+  </id_info>
+  <brief_title>VIdeo Telehealth in ALzheimer's: NeuroPsychology (VITAL-NP)</brief_title>
+  <acronym>VITAL-NP</acronym>
+  <official_title>Integrating Home-Based Video Teleneuropsychology Into Clinical Practice: Typical Versus Atypical Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this study is to a) assess the feasibility and preliminary validity&#xD;
+      of home-based delivery of TeleNP to patients with suspected Alzheimer's Disease (AD),&#xD;
+      referred for cognitive assessments in a Neurology Clinic; and b) elucidate whether TeleNP is&#xD;
+      equivalent to face-to-face evaluation (FF) for diagnostic adjudication of atypical versus&#xD;
+      typical AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 27, 2022</start_date>
+  <completion_date type="Anticipated">March 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Equivalence of Cognitive Test Results Across Testing Modalities as measured by Neuropsychological Test Mean Scores</measure>
+    <time_frame>After the exposure to each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation, at Week 1 and Weeks 5-7</time_frame>
+    <description>Norm-referenced Z-scores for clinically validated cognitive measures of Memory, Executive Functions, Language, and Spatial Abilities will be compared across both conditions.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Equivalence of Neuropsychologist Diagnosis Across Testing Modalities as measured by Neuropsychologist-Determined Diagnosis</measure>
+    <time_frame>After the exposure to each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation, at Week 1 and Weeks 5-7</time_frame>
+    <description>Neuropsychologist-determined diagnosis (i.e., typical AD, atypical/complex AD, not AD) will be compared across both conditions whether TeleNP alters assessment of patient diagnosis.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Equivalence of Neuropsychologist Appraisal of Severity Across Testing Modalities as measured by Neuropsychologist-Determined Severity</measure>
+    <time_frame>After the exposure to each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation, at Week 1 and Weeks 5-7</time_frame>
+    <description>Neuropsychologist-determined severity (i.e., subjective cognitive concerns; MCI; mild dementia) will be compared across both conditions whether TeleNP alters assessment of patient severity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Acceptability and Feasibility of Intervention Measures as measured by 4-item Acceptability and Feasibility of Intervention Measures Scale</measure>
+    <time_frame>After the exposure to each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation, at Week 1 and Weeks 5-7</time_frame>
+    <description>The 4-item Acceptability and Feasibility of Intervention Measures Scale is used for rating all participants and care partners' perspective on the acceptability and feasibility of the Face-to-face evaluation (FF) and TeleNP evaluation as assessed using a 5-point Likert scale at Week 1 or Weeks 5-7, depending on randomization. Scores range from &quot;Completely disagree&quot; (1) to &quot;Completely agree&quot; (5).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Acceptability and Feasibility of Intervention Measures as Measured by 19-item UTAUT questionnaire adapted to TeleNP</measure>
+    <time_frame>After the exposure to the TeleNP evaluation (up to Week 7)</time_frame>
+    <description>The 19-item UTAUT questionnaire adapted to TeleNP is used for rating all participants and care partners' perspective on the acceptability and feasibility of TeleNP evaluation as assessed using a 5-point Likert scale at Week 1 or Weeks 5-7, depending on randomization. Scores range from &quot;Strongly disagree&quot; (1) to &quot;Strongly agree&quot; (5).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User experience of patient and any associated care partners for each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation</measure>
+    <time_frame>1 week after the exposure to each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation</time_frame>
+    <description>A subset of diverse patients (n=20) and any associated care partners will be invited to participate in semi-structured interviews with the research coordinator within one week of completing both FF and TeleNP conditions. These interviews will focus on the participant's user experience, guided by UTAUT domains and specific attention to home setting and potential care partner involvement.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User experience of neuropsychologist for each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation</measure>
+    <time_frame>Up to two years</time_frame>
+    <description>The neuropsychologists will also participate in brief, separate interviews to garner information regarding feasibility, acceptability, and strengths/weaknesses of TeleNP after the completion of 20, 40, 60, and 80 TeleNP evaluations.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User experience of psychometrist for each health delivery conditions, Face-to-face evaluation (FF) and TeleNP evaluation</measure>
+    <time_frame>Up to two years</time_frame>
+    <description>The psychometrist will also participate in brief, separate interviews to garner information regarding feasibility, acceptability, and strengths/weaknesses of TeleNP; these interviews will be conducted by Dr. Hillary Lum after the completion of 20, 40, 60, and 80 TeleNP evaluations.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Suspected Typical Alzheimer's Disease (AD)</condition>
+  <condition>Suspected Atypical Alzheimer's Disease (AD)</condition>
+  <arm_group>
+    <arm_group_label>Face-to-face evaluation (FF), TeleNP evaluation</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TeleNP evaluation, Face-to-face evaluation (FF)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Face-to-face evaluation (FF)</intervention_name>
+    <description>The intervention is the assessment modality. The control condition is face-to-face evaluation (FF).</description>
+    <arm_group_label>Face-to-face evaluation (FF), TeleNP evaluation</arm_group_label>
+    <arm_group_label>TeleNP evaluation, Face-to-face evaluation (FF)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>TeleNP evaluation</intervention_name>
+    <description>The intervention is the assessment modality. The intervention condition is TeleNP evaluation.</description>
+    <arm_group_label>Face-to-face evaluation (FF), TeleNP evaluation</arm_group_label>
+    <arm_group_label>TeleNP evaluation, Face-to-face evaluation (FF)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals age 60 to 90 years who are undergoing evaluation for possible AD and whose&#xD;
+             severity ranges from MCI to mild dementia.&#xD;
+&#xD;
+          -  Individuals must carry a diagnosis of either suspected typical AD or atypical AD,&#xD;
+             based on the referring neurologist's diagnosis.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals with moderate to severe levels of dementia and individuals with active&#xD;
+             delirium (per neurologist's determination).&#xD;
+&#xD;
+          -  Individuals who are legally blind or deaf, due to the auditory and visual components&#xD;
+             of the study.&#xD;
+&#xD;
+          -  Individuals with a brain tumor and individuals who have a confirmed nonAD neurological&#xD;
+             diagnosis (e.g, Multiple Sclerosis; FTD).&#xD;
+&#xD;
+          -  Individuals who are being evaluated outside of the UCH Memory Disorders Clinic.&#xD;
+&#xD;
+          -  Individuals who report active (i.e., within the last 6 months) substance use of&#xD;
+             illicit drugs such as cocaine or methamphetamines, or who carry a diagnosis of a major&#xD;
+             psychiatric disorder (e.g., schizophrenia; bipolar disorder).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brianne Bettcher, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado - Anschutz Medical Campus</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer Krupa, BA</last_name>
+    <phone>970-633-0216</phone>
+    <email>Jennifer.Krupa@cuanschutz.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Neurology Research Partners</last_name>
+    <phone>303-724-4644</phone>
+    <email>neuroresearch@cuanschutz.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Colorado Anschutz Medical Campus (CU-AMC)</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Krupa, BA</last_name>
+      <phone>970-633-0216</phone>
+      <email>Jennifer.Krupa@cuanschutz.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>May 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 12, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 18, 2022</study_first_posted>
+  <last_update_submitted>September 2, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 2, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

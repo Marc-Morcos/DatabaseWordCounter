@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2262">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05366023</url>
+  </required_header>
+  <id_info>
+    <org_study_id>U01AG062370</org_study_id>
+    <secondary_id>U01AG062370</secondary_id>
+    <nct_id>NCT05366023</nct_id>
+  </id_info>
+  <brief_title>Elucidating the Necessary Active Components of Training</brief_title>
+  <acronym>ENACT</acronym>
+  <official_title>Elucidating the Necessary Components and Mechanisms of Cognitive Training</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clemson University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Penn State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Clemson University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Loss of independence, cognitive decline, and difficulties in everyday function are areas of&#xD;
+      great concern for older adults and their families. Cognitive training is one low cost,&#xD;
+      noninvasive training intervention that has repeatedly demonstrated reliable transfer effects&#xD;
+      to maintained cognition, everyday function, health, and most recently, a 29% reduction in&#xD;
+      incident dementia. Importantly, many of these everyday function effects are maintained across&#xD;
+      five to ten years including: maintained driving mobility, 50% reduction in at-fault vehicle&#xD;
+      crashes, and maintained Instrumental Activities of Daily Living (IADL). Although clearly an&#xD;
+      important and effective intervention, the moderators and mechanisms underlying this program&#xD;
+      are unknown.&#xD;
+&#xD;
+      The overall objective in this planning grant is to lay the conceptual and methodological&#xD;
+      foundation to explore cognitive, psychosocial, lifestyle behaviors, and biomarker mechanisms&#xD;
+      and moderators of two forms of conceptually driven cognitive training. Additionally, this&#xD;
+      study will examine how cognitive and psychosocial factors within daily life account for the&#xD;
+      transfer of cognitive training to everyday function. We will use a factorial design to&#xD;
+      randomize adults ages 55-85 to 0, 10, 20, 30, or 40 hours of two forms of cognitive training,&#xD;
+      a combined training, or an active comparison condition (Phase 1). An additional sample of&#xD;
+      participants will complete 20 hours of two forms of cognitive training or the active&#xD;
+      comparison group as well as provide blood samples (Phase 2).&#xD;
+&#xD;
+      Across the study period, participants will complete cognitive, health, lifestyle, and&#xD;
+      psychosocial assessments at baseline, posttest, and approximately three month follow-up&#xD;
+      assessments in person or remotely using a study-provided laptop. Additionally, all&#xD;
+      participants will be asked to complete daily cognitive, health, lifestyle, and psychosocial&#xD;
+      measures daily using study-provided smartphones.&#xD;
+&#xD;
+      This study will allow us to test the feasibility of our enrollment, assessment and training&#xD;
+      protocols for a future multisite clinical trial. This exploratory study is the first of its&#xD;
+      kind and will be used to provide important data relevant to a future larger randomized&#xD;
+      controlled trial examining mediators of cognitive training in a representative sample of&#xD;
+      adults. This information will assist in the future development of more effective home- and&#xD;
+      community-based interventions that maintain everyday function.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 21, 2022</start_date>
+  <completion_date type="Anticipated">February 2024</completion_date>
+  <primary_completion_date type="Anticipated">February 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Protocol compliance</measure>
+    <time_frame>Baseline through 3 month follow-up visit</time_frame>
+    <description>Participants complete laptop and phone activities as outlined in the study protocol</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Complex Instrumental Activities of Daily Living</measure>
+    <time_frame>Baseline through 3 month follow-up visit</time_frame>
+    <description>Measures of everyday functioning as detailed in the study protocol</description>
+  </secondary_outcome>
+  <number_of_arms>20</number_of_arms>
+  <enrollment type="Anticipated">280</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Cognitive Change</condition>
+  <condition>Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>No contact</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>0 hours of activities during intervention period of study</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TDD1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TDD1 + TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1 + BUD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 hours of bottom-up driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD2 + TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games plus 10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1 + TDD1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games plus 10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD2 + TDD1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games plus 10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games plus 20 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1 + TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games plus 10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1 + TDD1 + TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 hours of bottom-up driven cognitive training games plus 20 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1 + BUD2 + TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 hours of bottom-up driven cognitive training games plus 10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1 + BUD2 + TDD1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 hours of bottom-up driven cognitive training games plus 10 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BUD1 + BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 hours of bottom-up driven cognitive training games plus 20 hours of top-down driven cognitive training games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSA10</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>10 hours of cognitive stimulating activities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSA20</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>20 hours of cognitive stimulating activities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSA30</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>30 hours of cognitive stimulating activities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSA40</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>40 hours of cognitive stimulating activities</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>BUD1</intervention_name>
+    <description>10 hours of bottom-up driven computerized cognitive training designed to improve processing speed and divided attention</description>
+    <arm_group_label>BUD1</arm_group_label>
+    <arm_group_label>BUD1 + BUD2</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD1</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + TDD1</arm_group_label>
+    <arm_group_label>BUD1 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + TDD2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>BUD2</intervention_name>
+    <description>10 hours of bottom-up driven computerized cognitive training designed to improve divided attention</description>
+    <arm_group_label>BUD1 + BUD2</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD1</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD2</arm_group_label>
+    <arm_group_label>BUD2</arm_group_label>
+    <arm_group_label>BUD2 + TDD1</arm_group_label>
+    <arm_group_label>BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD2 + TDD2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>TDD1</intervention_name>
+    <description>10 hours of top-down driven computerized cognitive training designed to improve multiple object tracking</description>
+    <arm_group_label>BUD1 + BUD2 + TDD1</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + TDD1</arm_group_label>
+    <arm_group_label>BUD1 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD2 + TDD1</arm_group_label>
+    <arm_group_label>BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>TDD1</arm_group_label>
+    <arm_group_label>TDD1 + TDD2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>TDD2</intervention_name>
+    <description>10 hours of top-down driven computerized cognitive training designed to improve executive function</description>
+    <arm_group_label>BUD1 + BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + BUD2 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD2 + TDD1 + TDD2</arm_group_label>
+    <arm_group_label>BUD2 + TDD2</arm_group_label>
+    <arm_group_label>TDD1 + TDD2</arm_group_label>
+    <arm_group_label>TDD2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CSA10</intervention_name>
+    <description>10 hours of computerized games</description>
+    <arm_group_label>CSA10</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CSA20</intervention_name>
+    <description>20 hours of computerized games</description>
+    <arm_group_label>CSA20</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CSA30</intervention_name>
+    <description>30 hours of computerized games</description>
+    <arm_group_label>CSA30</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CSA40</intervention_name>
+    <description>40 hours of computerized games</description>
+    <arm_group_label>CSA40</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Phase 1:&#xD;
+&#xD;
+               -  Age 55-85 community-dwelling adults&#xD;
+&#xD;
+               -  Written informed consent obtained&#xD;
+&#xD;
+               -  No reported evidence of or diagnosis of dementia/Alzheimer's Disease; score of 5&#xD;
+                  or greater on the MIS-t administered during phone screening&#xD;
+&#xD;
+               -  Willing and able to participate in the up to 9 months of the study duration&#xD;
+&#xD;
+               -  Is proficient in written and spoken English&#xD;
+&#xD;
+          -  Phase 2:&#xD;
+&#xD;
+               -  All Phase 1 criteria plus willingness and ability to provide two blood samples at&#xD;
+                  baseline and posttest&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Phase 1 exclusions:&#xD;
+&#xD;
+               -  Failure to meet any of the above eligibility criteria&#xD;
+&#xD;
+               -  Use of video games for more than 2 hours/week over the previous 2 years&#xD;
+&#xD;
+               -  Currently engaged in a cognitive program such as Brain HQ or Lumosity&#xD;
+&#xD;
+          -  Phase 2 exclusion:&#xD;
+&#xD;
+        In addition to Phase 1 exclusion, also criteria below:&#xD;
+&#xD;
+        • Inability or unwillingness to travel to Clemson to provide two in-person blood samples at&#xD;
+        baseline and posttest&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lesley Ross, PhD</last_name>
+    <phone>864-916-6220</phone>
+    <email>Laross@clemson.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jeremy Shields, MS</last_name>
+    <phone>864-916-6220</phone>
+    <email>jnshiel@clemson.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clemson University Institute for Engaged Aging</name>
+      <address>
+        <city>Seneca</city>
+        <state>South Carolina</state>
+        <zip>29672</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeremy Shields, MS</last_name>
+      <phone>864-916-6220</phone>
+      <email>jnshiel@clemson.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>May 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 9, 2022</study_first_posted>
+  <last_update_submitted>May 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

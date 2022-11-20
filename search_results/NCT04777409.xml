@@ -1,0 +1,4320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="465">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04777409</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NN6535-4725</org_study_id>
+    <secondary_id>U1111-1259-2920</secondary_id>
+    <secondary_id>2020-004864-25</secondary_id>
+    <nct_id>NCT04777409</nct_id>
+  </id_info>
+  <brief_title>A Research Study Investigating Semaglutide in People With Early Alzheimer's Disease (EVOKE Plus)</brief_title>
+  <official_title>A Randomised Double-blind Placebo-controlled Clinical Trial Investigating the Effect and Safety of Oral Semaglutide in Subjects With Early Alzheimer´s Disease (EVOKE Plus)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novo Nordisk A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novo Nordisk A/S</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is done to find out whether the medicine, semaglutide, has a positive effect on&#xD;
+      early Alzheimer's disease.&#xD;
+&#xD;
+      Participants will either get semaglutide or placebo (a &quot;dummy&quot; medicine which does not&#xD;
+      contain any study medicine) - which treatment participants get is decided by an equal chance.&#xD;
+&#xD;
+      The study will last for up to 173 weeks (about 3 years and 4 months). Participants will have&#xD;
+      17 clinic visits and 1 phone call with the study doctor. The study includes various tests and&#xD;
+      scans. At 10 of the clinic visits participants will have blood samples taken.&#xD;
+&#xD;
+      Participants must have a study partner, who is willing to take part in the study.&#xD;
+&#xD;
+      Women cannot take part if pregnant, breastfeeding or plan to become pregnant during the study&#xD;
+      period.&#xD;
+&#xD;
+      A cerebrospinal fluid (CSF) sub-study will be performed as a part of the study. The sub-study&#xD;
+      will be performed on a selection of sites based on their experience with CSF sampling and&#xD;
+      willingness to participate in this sub-study. The endpoints related to this sub-study are&#xD;
+      exploratory only.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 18, 2021</start_date>
+  <completion_date type="Anticipated">April 26, 2026</completion_date>
+  <primary_completion_date type="Anticipated">August 9, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Sponsor staff involved in the clinical trial is masked according to company standard procedures.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the Clinical Dementia Rating - Sum of Boxes (CDR-SB) score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Score on scale (0 to 18)&#xD;
+Measures the impact of cognitive decline on daily function using the following six domains commonly affected in Alzheimer's disease:&#xD;
+Cognitive domains: memory, orientation, and judgement and problem solving&#xD;
+Function domains: community affairs, home and hobbies, and personal care Based on clinical information obtained from the subject and informant, an individual box score ranging from 0 to 3 is determined that represents &quot;none&quot; to &quot;severe&quot; impairment for each of the six domains.&#xD;
+The CDR-Sum of Boxes (CDR-SB) score will be derived by adding the individual scores of the six domains at a given time point. The total CDR-SB score ranges from 0 to 18 with higher scores representing greater impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Alzheimer's Disease Cooperative Study Activities of Daily Living Scale for MCI (ADCS-ADLMCI) score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Score on scale (0 to 53). An interview-based assessment of information provided by the study partner (informant). The total scores based on 18 items on the scale range from 0 to 53 with lower scores representing greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression to dementia (CDR global greater than or equal to 1.0) among subjects with MCI (CDR global equal to 0.5) at baseline</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Week(s)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the 13-item Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog-13) score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Score on scale (0 to 85) Measures the severity of cognitive impairment in various domains including memory, language, orientation, praxis and executive function. The total scores on the scale range from 0 to 85 with higher scores representing greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Montreal Cognitive Assessment (MoCA) score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Score on scale (0 to 30) The assessment includes 8 domains of cognitive function with total scores ranging from 0 to 30 and lower scores indicating greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Alzheimer's Disease Composite Score (ADCOMS)</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Score on scale (0 to 1.97) The ADCOMS is a composite clinical outcome comprising 4 items from the ADAS-Cog-13, 2 items from the MMSE and all 6 items from the CDR-SB.32 The total scores on the scale range from 0 to 1.97 with higher scores indicating greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Mini-Mental State Examination (MMSE) score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Score on scale (0 to 30) The MMSE measures orientation, attention, memory, language and visuo-spatial function. The total scores on the scale range from 0 to 30 with lower scores indicating greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the 10-item Neuropsychiatric Inventory (NPI) score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>104 Score on scale (0 to 120) The 10-item scale assesses symptoms including delusions, hallucinations, agitation/aggression, dysphoria, anxiety, euphoria, apathy, disinhibition, irritability/lability and aberrant motor activity. For each domain the frequency (4-point scale) and severity (3-point scale) of symptoms is reported. The score for each domain is calculated by multiplying the frequency and severity score. The total 10-item NPI score is 0 to 120 with higher scores indicating a greater symptomatology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression in disease stage based on global CDR score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Week(s)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of treatment emergent adverse events (TEAEs)</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Number of events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in high sensitivity C-reactive protein level</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first occurrence of major adverse cardiovascular event (MACE) comprising non-fatal myocardial infarction, non-fatal stroke and allcause death</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Week(s)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first occurrence of stroke</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the EQ-5D-5L proxy score</measure>
+    <time_frame>From baseline (week 0) to week 104</time_frame>
+    <description>Score The EQ-5D-5L descriptive system comprises mobility, self-care, usual activities, pain/discomfort and anxiety/depression with five response levels each (no problems, slight problems, moderate problems, severe problems, unable to /extreme problems). The EQ-5D-5L proxy version 1 (the study partner is asked to rate how he/she [the proxy] would rate the subject´s health) will be used in this trial.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension phase: Change in the CDR-SB score</measure>
+    <time_frame>From baseline (week 0) to week 156</time_frame>
+    <description>Score on scale (0 to 18)&#xD;
+Measures the impact of cognitive decline on daily function using the following six domains commonly affected in Alzheimer's disease:&#xD;
+Cognitive domains: memory, orientation, and judgement and problem solving&#xD;
+Function domains: community affairs, home and hobbies, and personal care Based on clinical information obtained from the subject and informant, an individual box score ranging from 0 to 3 is determined that represents &quot;none&quot; to &quot;severe&quot; impairment for each of the six domains.&#xD;
+The CDR-Sum of Boxes (CDR-SB) score will be derived by adding the individual scores of the six domains at a given time point. The total CDR-SB score ranges from 0 to 18 with higher scores representing greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension phase: Change in the ADCS-ADL-MCI score</measure>
+    <time_frame>From baseline (week 0) to week 156</time_frame>
+    <description>Score on scale (0 to 53) An interview-based assessment of information provided by the study partner (informant). The total scores based on 18 items on the scale range from 0 to 53 with lower scores representing greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extension phase: Time to progression to dementia (CDR global greater than or equal to 1.0) among subjects with MCI (CDR global equal to 0.5) at baseline</measure>
+    <time_frame>From baseline (week 0) to week 156</time_frame>
+    <description>Week(s)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1840</enrollment>
+  <condition>Early Alzheimer´s Disease</condition>
+  <arm_group>
+    <arm_group_label>Oral semaglutide 14 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are given oral semaglutide once daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (semaglutide)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants are given oral placebo once daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Semaglutide</intervention_name>
+    <description>Oral semaglutide once-daily, dose gradually increased to 14 mg. The study will last for up to 173 weeks</description>
+    <arm_group_label>Oral semaglutide 14 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (semaglutide)</intervention_name>
+    <description>Oral placebo (semaglutide) once-daily. The study will last for up to 173 weeks</description>
+    <arm_group_label>Placebo (semaglutide)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female, aged 55-85 years (both inclusive) at the time of signing informed&#xD;
+             consent.&#xD;
+&#xD;
+          -  MCI (mild cognitive impairment) or mild dementia of the Alzheimer's type according to&#xD;
+             the NIA-AA (National Institute of Aging-Alzheimer's Association) 2018 criteria.&#xD;
+&#xD;
+          -  CDR (Clinical Dementia Rating) global score of 0.5 and CDR of 0.5 or more in at least&#xD;
+             one of the three instrumental activities of daily living categories (personal care,&#xD;
+             home &amp; hobbies, community affairs) Or CDR global score of 1.0&#xD;
+&#xD;
+          -  RBANS (Repeatable Battery for the Assessment of Neuropsychological Status) delayed&#xD;
+             memory index score of below or equal to 85&#xD;
+&#xD;
+          -  MMSE (Mini-Mental State Examination) greater than or equal to 22&#xD;
+&#xD;
+          -  Amyloid positivity established with either amyloid PET (positron emission tomography),&#xD;
+             CSF (cerebrospinal fluid) Aβ1-42 or CSF Aβ1-42/Aβ1-40.&#xD;
+&#xD;
+          -  If receiving an approved Alzheimer's disease treatment (such as acetylcholinesterase&#xD;
+             inhibitors, memantine or aducanumab) the dose must have been stable for at least 3&#xD;
+             months prior to screening and should not be changed during the trial unless medically&#xD;
+             necessary.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Brain MRI (or CT) scan suggestive of clinically significant structural CNS (central&#xD;
+             nervous system) disease confirmed by central read (e.g. cerebral large-vessel disease&#xD;
+             [large vessel (cortical) infarcts greater than10 mm in diameter], prior&#xD;
+             macro-haemorrhage [greater than1 cm^3], cerebral vascular malformations, cortical&#xD;
+             hemosiderosis, intracranial aneurism(s), intracranial tumours, changes suggestive of&#xD;
+             normal pressure hydrocephalus).&#xD;
+&#xD;
+          -  Brain MRI (magnetic resonance imaging) (or CT) scan suggestive of strategic infarcts&#xD;
+             defined as bilateral thalamic lacunar infarcts and singular paramedian thalamic&#xD;
+             infarcts confirmed by central read.&#xD;
+&#xD;
+          -  Evidence of a relevant neurological disorder other than MCI or mild dementia of the&#xD;
+             Alzheimer's type at screening, including but not limited to Parkinson's disease, Lewy&#xD;
+             body disease, frontotemporal dementia of any type, Huntington's disease, amyotrophic&#xD;
+             lateral sclerosis, multiple sclerosis, systemic lupus erythematosus, progressive&#xD;
+             supranuclear palsy, neurosyphilis, HIV (human immunodeficiency virus), learning&#xD;
+             disability, intellectual disability, hypoxic cerebral damage, or significant head&#xD;
+             trauma with loss of consciousness that led to persistent cognitive deficits.&#xD;
+&#xD;
+          -  Evidence of a clinically relevant or unstable psychiatric disorder, based on&#xD;
+             Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria, including&#xD;
+             schizophrenia or other psychotic disorder, or bipolar disorder. A subject with a&#xD;
+             history of major depression who has not had an episode in the last 24 months before&#xD;
+             the day of screening and is considered in remission or whose depression is controlled&#xD;
+             with treatment can be included in the trial per investigator's judgement.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Transparency (dept. 1452)</last_name>
+    <role>Study Director</role>
+    <affiliation>Novo Nordisk A/S</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novo Nordisk</last_name>
+    <phone>(+1) 866-867-7178</phone>
+    <email>clinicaltrials@novonordisk.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lomita</city>
+        <state>California</state>
+        <zip>90717</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Panorama City</city>
+        <state>California</state>
+        <zip>91402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sherman Oaks</city>
+        <state>California</state>
+        <zip>91403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Simi Valley</city>
+        <state>California</state>
+        <zip>93065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Basalt</city>
+        <state>Colorado</state>
+        <zip>81621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Danbury</city>
+        <state>Connecticut</state>
+        <zip>06810</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Norwalk</city>
+        <state>Connecticut</state>
+        <zip>06851</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Doral</city>
+        <state>Florida</state>
+        <zip>33166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Greenacres City</city>
+        <state>Florida</state>
+        <zip>33467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33173</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Port Richey</city>
+        <state>Florida</state>
+        <zip>34652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Palm Beach</city>
+        <state>Florida</state>
+        <zip>33410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bangor</city>
+        <state>Maine</state>
+        <zip>04401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Methuen</city>
+        <state>Massachusetts</state>
+        <zip>01844</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Paw Paw</city>
+        <state>Michigan</state>
+        <zip>49079</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hattiesburg</city>
+        <state>Mississippi</state>
+        <zip>39401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>West Long Branch</city>
+        <state>New Jersey</state>
+        <zip>07764</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lake Success</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Staten Island</city>
+        <state>New York</state>
+        <zip>10312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Matthews</city>
+        <state>North Carolina</state>
+        <zip>28105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Beachwood</city>
+        <state>Ohio</state>
+        <zip>44122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Centerville</city>
+        <state>Ohio</state>
+        <zip>45459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Jenkintown</city>
+        <state>Pennsylvania</state>
+        <zip>19046</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Media</city>
+        <state>Pennsylvania</state>
+        <zip>19063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78749</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sugar Land</city>
+        <state>Texas</state>
+        <zip>77478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bennington</city>
+        <state>Vermont</state>
+        <zip>05201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Falls Church</city>
+        <state>Virginia</state>
+        <zip>22043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1012AAR</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1181ACH</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Caba</city>
+        <zip>1427</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Caba</city>
+        <zip>1428</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Córdoba</city>
+        <zip>X5004AOA</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Darlinghurst</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Greenwich</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Waratah</city>
+        <state>New South Wales</state>
+        <zip>2298</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chermside</city>
+        <state>Queensland</state>
+        <zip>4032</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ivanhoe</city>
+        <state>Victoria</state>
+        <zip>3079</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Malvern</city>
+        <state>Victoria</state>
+        <zip>3144</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Innsbruck</city>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Wien</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brugge</city>
+        <zip>8000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kortrijk</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brasília</city>
+        <state>Distrito Federal</state>
+        <zip>70200730</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30130-100</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Curitiba</city>
+        <state>Parana</state>
+        <zip>81210-310</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Maringa</city>
+        <state>Parana</state>
+        <zip>87013-250</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90430-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>01228-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>05003-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>05652-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>22270-060</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1113</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1408</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1431</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1606</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1Y 1Z9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8R 1J8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>West Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V7T 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3S 1N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>New Minas</city>
+        <state>Nova Scotia</state>
+        <zip>B4N 3R7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Z 1G3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Peterborough</city>
+        <state>Ontario</state>
+        <zip>K9H2P4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gatineau</city>
+        <state>Quebec</state>
+        <zip>J8T 8J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Greenfield-Park</city>
+        <state>Quebec</state>
+        <zip>J4V 2J2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100050</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100053</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100070</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100096</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chongqing</city>
+        <state>Chongqing</state>
+        <zip>400016</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510120</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510180</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Zhengzhou</city>
+        <state>Henan</state>
+        <zip>450003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Changsha</city>
+        <state>Hunan</state>
+        <zip>410008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Baotou</city>
+        <state>Inner Mongolia</state>
+        <zip>014010</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Yangzhou</city>
+        <state>Jiangsu</state>
+        <zip>225001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <zip>330006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Changchun</city>
+        <state>Jilin</state>
+        <zip>130031</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Xining</city>
+        <state>Qinghai</state>
+        <zip>810007</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200040</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200123</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200233</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300052</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300350</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Zagreb</city>
+        <zip>10000</zip>
+        <country>Croatia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Brno-Lisen</city>
+        <zip>628 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chocen</city>
+        <zip>565 01</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Praha 10</city>
+        <zip>109 00</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Praha 6 Dejvice</city>
+        <zip>16000</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Rychnov nad Kneznou</city>
+        <zip>51601</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Aarhus N</city>
+        <zip>8200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>København Ø</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00180</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kuopio</city>
+        <zip>70210</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bron Cedex</city>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>DIJON cedex</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>NANTES Cedex 1</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nice Cedex</city>
+        <zip>06100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>PARIS cedex 13</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Reims</city>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Toulouse cedex 9</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Villeurbanne</city>
+        <zip>69100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Köln</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Münster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-11521</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-11526</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-11528</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>GR-15123</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Marousi</city>
+        <zip>GR-15125</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>GR-54643</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1033</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Budapest</city>
+        <zip>H-1083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gyor</city>
+        <zip>9024</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gyöngyös</city>
+        <zip>3200</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pécs</city>
+        <zip>H-7633</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tatabánya</city>
+        <zip>2800</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cork</city>
+        <zip>T12 WE28</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dublin</city>
+        <zip>D04 T6F4</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dublin</city>
+        <zip>D08 NHY1</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dublin</city>
+        <zip>D24 NR0A</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3109601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Petach Tikva</city>
+        <zip>49100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tel Aviv</city>
+        <zip>6423906</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tel Hashomer, Ramat Gan</city>
+        <zip>5262000</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ancona</city>
+        <zip>60126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Firenze</city>
+        <zip>50134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Milano</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Milano</city>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Monza</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Perugia</city>
+        <zip>06129</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Roma</city>
+        <zip>00179</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Anjo-shi, Aichi</city>
+        <zip>446-8510</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Arakawa-ku,Tokyo</city>
+        <zip>116-0014</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bunkyo-ku, Tokyo</city>
+        <zip>113-0034</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bunkyo-ku,Tokyo</city>
+        <zip>113-8519</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chib-shi, Chiba</city>
+        <zip>260-8656</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Chofu-shi,Tokyo</city>
+        <zip>182-0036</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Fujioka-Shi, Gunma</city>
+        <zip>375-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hachioji-shi, Tokyo</city>
+        <zip>192-0071</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hamamatsu-shi, Shizuoka</city>
+        <zip>434-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Himeji-city, Hyogo</city>
+        <zip>670-0981</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Himeji-shi, Hyogo</city>
+        <zip>671-1227</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Himeji-shi, Hyogo</city>
+        <zip>672-8043</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hirakata-Shi,Osaka</city>
+        <zip>573-1121</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hiroshima-shi, Hiroshima</city>
+        <zip>732-0066</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hiroshima-shi, Hiroshima</city>
+        <zip>732-0822</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Hofu-shi, Yamaguchi</city>
+        <zip>747-0802</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ina-shi, Nagano</city>
+        <zip>396-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kawasaki-shi , Kanagawa</city>
+        <zip>214-0014</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kawasaki-shi, Kanagawa</city>
+        <zip>210-0852</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kawasaki-shi, Kanagawa</city>
+        <zip>213-8507</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kobe-shi, Hyogo</city>
+        <zip>650-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kobe-shi, Hyogo</city>
+        <zip>650-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kodaira-shi, Tokyo</city>
+        <zip>187-8551</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Koriyama-shi, Fukushima</city>
+        <zip>963-8052</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kurashiki-shi, Okayama</city>
+        <zip>710-0813</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Mitaka-shi,Tokyo</city>
+        <zip>181-0013</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nerima-ku, Tokyo</city>
+        <zip>179-0072</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Niigata-shi, Niigata</city>
+        <zip>950-0983</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Obu-shi, Aichi</city>
+        <zip>474-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Okayama-shi, Okayama</city>
+        <zip>703-8265</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Shimotsuke-shi, Tochigi</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Shinjuku-ku, Tokyo</city>
+        <zip>160-0017</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Shinjuku-ku, Tokyo</city>
+        <zip>160-8582</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Takamatsu-shi, Kagawa</city>
+        <zip>760-8557</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Takatsuki-Shi, Osaka</city>
+        <zip>569-1192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokorozawa-shi,Saitama</city>
+        <zip>359-1141</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokushima-shi, Tokushima</city>
+        <zip>770-0852</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>100-0005</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>103-0028</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>136-0075</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>156-0041</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tokyo</city>
+        <zip>160-0023</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Toride-shi, Ibaraki</city>
+        <zip>302-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Toyonaka-shi, Osaka</city>
+        <zip>560-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Wako-shi, Saitama</city>
+        <zip>351-0111</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Yokohama-shi, Kanagawa</city>
+        <zip>223-0059</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Busan</city>
+        <zip>49201</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>21565</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Incheon</city>
+        <zip>22332</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>04763</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05030</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06351</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Breda</city>
+        <zip>4818 CK</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Den Bosch</city>
+        <zip>5223 LA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Haarlem</city>
+        <zip>2035 RC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6525 GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-163</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kielce</city>
+        <zip>25-411</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kraków</city>
+        <zip>30-688</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kraków</city>
+        <zip>31-505</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-818</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Oswiecim</city>
+        <zip>32-600</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Scinawa</city>
+        <zip>59-330</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sopot</city>
+        <zip>81-855</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01-684</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>53-659</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Braga</city>
+        <zip>4710-243</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Coimbra</city>
+        <zip>3000-561</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Guimarães</city>
+        <zip>4835-044</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Matosinhos</city>
+        <zip>4464-513</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Porto</city>
+        <zip>4099-001</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Torres Vedras</city>
+        <zip>2560-280</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Timisoara</city>
+        <state>Timis</state>
+        <zip>300766</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>011025</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Constanta</city>
+        <zip>900123</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Constanta</city>
+        <zip>900591</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Iasi</city>
+        <zip>700004</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sibiu</city>
+        <zip>550052</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Timisoara</city>
+        <zip>300416</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ekaterinburg</city>
+        <zip>620030</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kazan</city>
+        <zip>420101</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kemerovo</city>
+        <zip>650066</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Krasnoyarsk</city>
+        <zip>660037</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115522</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119021</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Moscow</city>
+        <zip>129226</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>191015</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>194044</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410028</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Tomsk</city>
+        <zip>634009</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Novi Sad</city>
+        <zip>21000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bratislava</city>
+        <zip>813 69</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kosice</city>
+        <zip>041 66</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Krompachy</city>
+        <zip>053 42</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Vranov nad Toplou</city>
+        <zip>093 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Ljubljana</city>
+        <zip>SI-1000</zip>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Maribor</city>
+        <zip>SI-2000</zip>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Nova Gorica</city>
+        <zip>SI-5000</zip>
+        <country>Slovenia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>George</city>
+        <state>Eastern Cape</state>
+        <zip>6529</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bloemfontein</city>
+        <state>Free State</state>
+        <zip>9301</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2196</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0042</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7405</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7550</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western Cape</state>
+        <zip>7560</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Sant Cugat del Vallès</city>
+        <zip>08195</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Santander</city>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Malmö</city>
+        <zip>205 02</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>141 86</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Umeå</city>
+        <zip>901 85</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Biel-Bienne</city>
+        <zip>2501</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Genève</city>
+        <zip>1205</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>St. Gallen</city>
+        <zip>9007</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kaohsiung City</city>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Taipei</city>
+        <zip>112</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Taoyuan City</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Eskisehir</city>
+        <zip>26040</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34093</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34093</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35575</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Samsun</city>
+        <zip>55200</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61091</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>04114</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Odesa</city>
+        <zip>65031</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Vinnytsia</city>
+        <zip>21050</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Aberdeen</city>
+        <zip>AB25 2ZH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Bath</city>
+        <zip>BA1 3NG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Crowborough</city>
+        <zip>TN6 1NY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Gloucestershire</city>
+        <zip>GL53 9DZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>London</city>
+        <zip>EC2Y 8EA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>London</city>
+        <zip>SW17 0RE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>London</city>
+        <zip>W12 0NN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M13 9WL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Motherwell</city>
+        <zip>ML1 4UF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Motherwell</city>
+        <zip>ML1 4UF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Newcastle Upon Tyne</city>
+        <zip>NE4 5PL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7JX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO30 3JB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novo Nordisk Investigational Site</name>
+      <address>
+        <city>Swindon</city>
+        <zip>SN3 6BW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Canada</country>
+    <country>China</country>
+    <country>Croatia</country>
+    <country>Czechia</country>
+    <country>Denmark</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Romania</country>
+    <country>Russian Federation</country>
+    <country>Serbia</country>
+    <country>Slovakia</country>
+    <country>Slovenia</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Sweden</country>
+    <country>Switzerland</country>
+    <country>Taiwan</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>February 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 2, 2021</study_first_posted>
+  <last_update_submitted>March 29, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 29, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 31, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>According to the Novo Nordisk disclosure commitment on novonordisk-trials.com</ipd_description>
+    <ipd_url>http://novonordisk-trials.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

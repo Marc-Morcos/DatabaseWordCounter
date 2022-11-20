@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1835">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04903171</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RIVAGES</org_study_id>
+    <nct_id>NCT04903171</nct_id>
+  </id_info>
+  <brief_title>Effects of Enriched Gardens in Nursing Home Residents With Dementia</brief_title>
+  <official_title>Effects of Enriched Gardens on Cognition and Independence of Nursing Home Residents With Dementia: a Cluster-controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>RIVAGES</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>RIVAGES</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Comparing the effect of the frequentation of an enriched garden vs sensory conventional&#xD;
+      garden by nursing home residents with Alzheimer disease. The effects will be evaluated as&#xD;
+      regards to cognitive impairment (MMSE), autonomy (ADL) and prevention of falls (Unipodal&#xD;
+      stance and UpandGo Test)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The cluster controlled trial is conducted over a six months period after recruitment of&#xD;
+      residents from 4 different nursing homes in France. The participants are distributed into 3&#xD;
+      groups. One group does not receive incentive from carers to visit any garden, the second&#xD;
+      group receives incentives to visit regularly a conventional sensory garden and the third&#xD;
+      group receive incentives from carers to visit regularly an enriched garden. The study is&#xD;
+      conducted over a period of 6 months. All participants are giving consent to the study. They&#xD;
+      will be evaluated before and after over 4 different tests. MMSE (Mini Mental Status&#xD;
+      Examination) for cognitive impairment, ADL (Activity for day Living) for functional autonomy,&#xD;
+      TUG (Test up and Go) and Unipodal Stance for prevention of falls.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 15, 2020</start_date>
+  <completion_date type="Actual">October 15, 2020</completion_date>
+  <primary_completion_date type="Actual">October 15, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Cluster controlled trial</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+    <masking_description>The investigators and outcomes assessor do not know which groups the participants belongs to</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in global cognitive function</measure>
+    <time_frame>6 MONTHS</time_frame>
+    <description>Mini Mental Status Examination (MMSE) , 0-30, higher score is the better outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in functional independence</measure>
+    <time_frame>6 MONTHS</time_frame>
+    <description>Activities of daily living (ADL), 0-6, higher score is the better outcome</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in gait ability</measure>
+    <time_frame>6 MONTHS</time_frame>
+    <description>Timed Up and Go test (sec), higher time is the worse outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in balance</measure>
+    <time_frame>6 MONTHS</time_frame>
+    <description>Unipodal Stance (sec), higher time is the better outcome</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">130</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>GROUP ONE</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The participants do not receive incentive to visit any gardens</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GROUP TWO</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The participants receive incentives by carers to visit regularly a conventional sensory garden</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GROUP THREE</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The participants receive incentives by carers to visit regularly an enriched garden</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>INCENTIVE VISITING A GARDEN : ENRICHED OR CONVENTIONAL SENSORY GARDEN</intervention_name>
+    <description>Carers invites every the participants of group 2 and 3 visiting their respective gardens (enriched or conventional sensory garden)</description>
+    <arm_group_label>GROUP THREE</arm_group_label>
+    <arm_group_label>GROUP TWO</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Give consent&#xD;
+&#xD;
+          -  Ability walking alone&#xD;
+&#xD;
+          -  Alzheimer's disease&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No dementia&#xD;
+&#xD;
+          -  Severe dementia&#xD;
+&#xD;
+          -  Severe behavioural disorder&#xD;
+&#xD;
+          -  Inability to walk alone&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>75 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Hôpitaux Universitaires Pitié Salpêtrière - Charles Foix et Sorbonne Université</name>
+      <address>
+        <city>Ivry-sur-Seine</city>
+        <state>Val De Marne</state>
+        <zip>94200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>March 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 26, 2021</study_first_posted>
+  <last_update_submitted>May 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer</keyword>
+  <keyword>Enriched garden</keyword>
+  <keyword>Enriched environment</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Cognitive impairment</keyword>
+  <keyword>Functional autonomy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD will only be available to study reviewers</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

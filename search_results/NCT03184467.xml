@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1390">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03184467</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KG 6/2016</org_study_id>
+    <nct_id>NCT03184467</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial to Evaluate the Efficacy and Safety of GV1001 in Alzheimer Patients</brief_title>
+  <official_title>A Multi-center, Randomized, Double-blind, Placebo-controlled, Parallel Design, Prospective, Phase II Clinical Trial to Evaluate the Efficacy and Safety of Donepezil and Combined With GV1001 in Alzheimer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GemVax &amp; Kael</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GemVax &amp; Kael</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical study is designed as a multi-center, randomized, double-blind,&#xD;
+      placebo-controlled, parallel design, prospective, phase II clinical trial.&#xD;
+&#xD;
+      An eligible subject who meets inclusion and exclusion criteria is randomly assigned to three&#xD;
+      groups: study group 1 (GV1001 0.56 mg), study group 2 (GV1001 1.12 mg) or placebo group. A&#xD;
+      randomized subject is administered either GV1001 or placebo in a total of 14 times and will&#xD;
+      be evaluated for the efficacy and safety at week of 24.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      GV1001 0.56 mg, 1.12 mg or placebo is subcutaneously administered once weekly schedule for 4&#xD;
+      weeks (4 times) followed by every two weeks until week 24 (10 times). A total number of&#xD;
+      administration is 14 times.&#xD;
+&#xD;
+        1. Control group (placebo): 30 subjects&#xD;
+&#xD;
+        2. Study group 1 (GV1001 0.56 mg): 30 subjects&#xD;
+&#xD;
+        3. Study group 2 (GV1001 1.12 mg): 30 subjects.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 5, 2017</start_date>
+  <completion_date type="Actual">September 19, 2019</completion_date>
+  <primary_completion_date type="Actual">September 5, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SIB (Severe Impairment Battery)</measure>
+    <time_frame>week 24</time_frame>
+    <description>Change in SIB compared to the baseline and week 24</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>K-MMSE (Korean-Mini-Mental State Examination)</measure>
+    <time_frame>week 24</time_frame>
+    <description>Change in K-MMSE compared to the baseline and week 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CDR-SOB (Clinical Dementia Rating-Sum of Box)</measure>
+    <time_frame>week 24</time_frame>
+    <description>Change in CDR-SOB compared to the baseline and week 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NPI (Neuropsychiatric Inventory)</measure>
+    <time_frame>week 24</time_frame>
+    <description>Change in NPI compared to the baseline and week 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GDS (Global Deterioration Scale)</measure>
+    <time_frame>week 24</time_frame>
+    <description>Change in GDS compared to the baseline and week 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ADCS-ADL-severe (Alzheimer's Disease Cooperative Study-Activities of Daily Living scale-severe)</measure>
+    <time_frame>week 24</time_frame>
+    <description>Change in ADCS-ADL-severe compared to the baseline and week 24</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CIBIC-plus (Clinician Interview-Based Impression of Change-Plus)</measure>
+    <time_frame>week 24</time_frame>
+    <description>Change in CIBIC-plus compared to the baseline and week 24</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">96</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal saline 0.9%</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Study group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GV1001 0.56 mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Study group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GV1001 1.12 mg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Normal Saline 0.9%</intervention_name>
+    <description>Normal saline 0.9% is subcutaneously administered once weekly schedule for 4 weeks (4 times) followed by every two weeks until week 24 (10 times). A total number of administration is 14 times.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <other_name>NS 0.9%</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GV1001 0.56 mg</intervention_name>
+    <description>GV1001 0.56 mg is subcutaneously administered once weekly schedule for 4 weeks (4 times) followed by every two weeks until week 24 (10 times). A total number of administration is 14 times.</description>
+    <arm_group_label>Study group 1</arm_group_label>
+    <other_name>Tertomotide</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GV1001 1.12 mg</intervention_name>
+    <description>GV1001 1.12 mg is subcutaneously administered once weekly schedule for 4 weeks (4 times) followed by every two weeks until week 24 (10 times). A total number of administration is 14 times.</description>
+    <arm_group_label>Study group 2</arm_group_label>
+    <other_name>Tertomotide</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 55 to 85 years of age&#xD;
+&#xD;
+          2. A patient who satisfies diagnostic criteria for dementia in DSM-IV&#xD;
+&#xD;
+          3. Probable Alzheimer's disease in NINCDS-ADRDA&#xD;
+&#xD;
+          4. K-MMSE ≤ 19 at screening and randomization visit&#xD;
+&#xD;
+          5. GDS 5~6 stage&#xD;
+&#xD;
+          6. MRI or CT scan within 12 months prior to screening visit that proves Alzheimer's&#xD;
+             disease without any other disease that may cause dementia&#xD;
+&#xD;
+          7. A patient taking stable doses of donepezil for more than 3 months before screening&#xD;
+             visit&#xD;
+&#xD;
+          8. A patient who are able to visit a hospital (including inpatient and outpatient based)&#xD;
+             and receive cognitive and other tests&#xD;
+&#xD;
+          9. A patient with a caregiver who can accompany all visits and supervise the subject's&#xD;
+             compliance with the procedures and study drug prescribed in the protocol, and provide&#xD;
+             detailed information about the patient&#xD;
+&#xD;
+         10. Written informed consent by a patient or legal representative&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any other cause of dementia shown by CT / MRI findings and neurological examination&#xD;
+             within 12 months of screening visit&#xD;
+&#xD;
+               -  Possible, probable or definite vascular dementia according to the NINDS-AIREN&#xD;
+&#xD;
+               -  Other central nervous system diseases that may cause cognitive impairment&#xD;
+                  (cerebrovascular disease including cerebrovascular dementia, Parkinsonism,&#xD;
+                  Huntington's disease, subdural hematoma, normal pressure hydrocephalus, brain&#xD;
+                  tumor, Creutzfeldt-Jakob disease, etc.)&#xD;
+&#xD;
+               -  Neurological deficits such as delusions, delirium, epilepsy&#xD;
+&#xD;
+          2. Vitamin B12, folic acid, syphilis serology, and thyroid stimulating hormone (TSH)&#xD;
+             results are thought to contribute to the severity of dementia or cause dementia&#xD;
+&#xD;
+          3. A patient who are considered ineligible for this study by investigator due to&#xD;
+             concurrent or history of significant psychiatric conditions (eg. schizophrenia or&#xD;
+             bipolar affective disorder)&#xD;
+&#xD;
+          4. A patient with a history of known or suspected seizures including febrile seizures, a&#xD;
+             history of significant head trauma with loss of consciousness or recent&#xD;
+             unconsciousness that is not explained&#xD;
+&#xD;
+          5. A patient with acute or unstable cardiovascular disease, active peptic ulcer,&#xD;
+             uncontrolled hypertension, uncontrolled diabetes or insulin dependent patients or any&#xD;
+             medical condition that may interfere with the completion of clinical trials&#xD;
+&#xD;
+          6. Hypersensitivity to investigational medicinal products&#xD;
+&#xD;
+          7. History of alcohol, substance abuse or dependence (except nicotine dependence) within&#xD;
+             the last 2 years&#xD;
+&#xD;
+          8. Concurrent malignancies or invasive cancers diagnosed within the past 5 years except&#xD;
+             for non-metastatic basal cell carcinoma or squamous cell carcinoma of skin, in situ&#xD;
+             carcinoma of the uterine cervix or non-metastatic prostate cancer&#xD;
+&#xD;
+          9. Renal impairment (creatinine clearance (CLcr) &lt;30 mL / min)&#xD;
+&#xD;
+         10. Severe liver dysfunction (ALT or AST&gt; 2 times the upper limit of normal)&#xD;
+&#xD;
+         11. A patient taking other drugs other than donepezil to treat Alzheimer's disease or&#xD;
+             other cognitive impairment&#xD;
+&#xD;
+         12. A patient taking other drugs other than anticholinergic drugs, cholinergic drugs&#xD;
+             (local usages are allowable, such as pilocarpine eye drops), antidepressants&#xD;
+             (tricyclic antidepressant, MAO inhibitor) antipsychotics, donepezil to treat&#xD;
+             Alzheimer's disease&#xD;
+&#xD;
+         13. Women at childbearing age who do not consent using medicinally acceptable&#xD;
+             contraception (such as surgical sterilization, intrauterine contraceptive device,&#xD;
+             condom or diaphragm, an injectable or inserted contraceptive) during the study&#xD;
+&#xD;
+         14. Pregnancy or breast feeding&#xD;
+&#xD;
+         15. A patient who participated in other clinical trials within 4 weeks prior to this study&#xD;
+&#xD;
+         16. 35 kg weight or below&#xD;
+&#xD;
+         17. A patient who had experienced this study drug&#xD;
+&#xD;
+         18. A patient who had participated in a clinical trial for Alzheimer dementia vaccine&#xD;
+             within last 6 months&#xD;
+&#xD;
+         19. Any other patients who are considered to be ineligible for this study by an&#xD;
+             investigator&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hyoung Gon Song, MD., PhD.</last_name>
+    <role>Study Director</role>
+    <affiliation>GemVax &amp; Kael</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hanyang University Guri Hospital</name>
+      <address>
+        <city>Guri-si</city>
+        <state>Gyunggi-do</state>
+        <zip>11923</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>June 9, 2017</study_first_submitted>
+  <study_first_submitted_qc>June 9, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 12, 2017</study_first_posted>
+  <last_update_submitted>July 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>GV1001</keyword>
+  <keyword>Alzheimer Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

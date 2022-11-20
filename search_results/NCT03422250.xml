@@ -1,0 +1,1664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1346">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03422250</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GR-2011-02349787</org_study_id>
+    <nct_id>NCT03422250</nct_id>
+  </id_info>
+  <brief_title>Non-invasive Stimulation of Brain Networks and Cognition in Alzheimer's Disease and Frontotemporal Dementia</brief_title>
+  <acronym>NetCogBs</acronym>
+  <official_title>A Non-invasive, Multimodal Approach to Restore Functional Networks and Cognition in Alzheimer's Disease and Frontotemporal Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IRCCS Centro San Giovanni di Dio Fatebenefratelli</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>IRCCS Centro San Giovanni di Dio Fatebenefratelli</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This pilot study aims to test clinical and connectivity changes following non-invasive&#xD;
+      stimulation of disease-specific networks in Alzheimer's disease (AD) and behavioral variant&#xD;
+      frontotemporal dementia (bvFTD). Brain network stimulation will be carried out with&#xD;
+      transcranial direct current stimulation (tDCS). Target networks will be the default mode&#xD;
+      network (DMN) and salience network (SN). Twenty AD and 20 bvFTD patients will be recruited&#xD;
+      and assessed with a comprehensive clinical, behavioral and cognitive battery, and 3 Tesla MRI&#xD;
+      scan (including resting-state functional MRI, arterial spin labeling, diffusion tensor&#xD;
+      imaging, structural MRI) at three time-points: baseline, after tDCS, and after 6 months.&#xD;
+      Patients will be randomized to 2 arms: anodal stimulation of the disease-specific network&#xD;
+      (DMN in AD, SN in bvFTD) or cathodal stimulation of the anti-correlated network (SN in AD,&#xD;
+      DMN in bvFTD). The intervention will consist of 10 tDCS sessions over two weeks.&#xD;
+      Cerebrospinal fluid (CSF) samples will be collected at baseline for biomarker's assessment;&#xD;
+      blood samples will be collected at each time-point to assess changes in peripheral&#xD;
+      inflammatory markers. Blood and CSF collection will be optional. A sample of 20 elderly&#xD;
+      controls will be included for baseline comparisons.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 8, 2015</start_date>
+  <completion_date type="Actual">November 3, 2018</completion_date>
+  <primary_completion_date type="Actual">November 3, 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Clinical Disease Severity (CDR)</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>CDR - Clinical Dementia Rating score&#xD;
+The clinical dementia rating (CDR) is a clinical global rating scale administered to both the participant and the caregiver, assessing 6 domains of participant function: memory, orientation, judgement and problem solving, community affairs, home and hobbies and personal care. Each domain is based on a 5-point scale ranging from no impairment=0, questionable impairment=0.5, mild impairment=1, moderate impairment=2 to severe impairment=3. The global CDR score is computed via a memory-weighted averaging algorithm of the six domain scores and ranges from 0 to 5. The CDR-sum of boxes (CDR-SB) is the sum of the individual domain scores and ranges from 0 to 18. Higher scores indicate more clinical impairment. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Behavioral Symptom Severity (NPI)</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>The Neuropsychiatric Inventory (NPI) is a behavioral scale administered to the caregiver assessing 12 dimensions: delusions, hallucinations, agitation/aggression, depression/dysphoria, anxiety, euphoria, apathy, disinhibition, irritability, aberrant motor activity, nighttime behaviors, and appetite/eating. Each dimension has multiple screening questions relating to symptoms. If the answer to the screening questions is &quot;Yes&quot;, the dimensional-score is the product of frequency (1=occasionally to 4=very frequently) and severity (1=Mild to 3=Severe) of symptoms. Dimensional-scores are summed (from 0 to 144). Higher scores indicate greater behavioral disturbances. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Behavioral Symptom Severity (FBI)</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>The Frontal Behavioral Inventory (FBI) is a 24-item inventory designed to assess behavior and personality changes via caregiver. Item-level scores range from 0=none, 1=mild/occasional, 2=moderate, 3=severe/most of the time. Item-scores are summed (from 0 to 72). Higher scores indicate greater behavioral/personality disturbances. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Functional Connectivity</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>Default mode network (DMN) and salience network (SN) mean functional connectivity is assessed on resting state functional MRI. Functional connectivity is standardized to Z scores and thresholded at Z&gt;2. Higher values denote greater functional connectivity. A positive change at post tDCS compared to baseline represents an increase in resting-state functional connectivity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Cerebral Blood Flow</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>Default mode network (DMN) and salience network (SN) mean cerebral blood flow is assessed on arterial spin labeling. Cerebral blood flow is computed by averaging values across the DMN and SN regions of interest. Cerebral blood flow is a measure of brain perfusion, higher values denoting higher perfusion. A positive change at post tDCS compared to baseline represents an increase in perfusion.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cognition: Memory</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>The composite memory score consists of the averaged Z-standardized scores of 5 memory tests: immediate and delayed auditory verbal learning test recall, Rey-Osterrieth complex figure recall, story recall, digit span backward and forward tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better memory performance. Positive changes at post tDCS compared to baseline represent an improvement in memory.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cognition: Language</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>The composite language score consists of the averaged Z-standardized scores of 2 language tests: verbal fluency and token tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better language performance. Positive changes at post tDCS compared to baseline represent an improvement in language.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cognition: Executive Function</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>The composite executive function score consists of the averaged Z-standardized scores of 2 executive functions tests: trail making test part A and part B tests. Each test score is normalized to an independent dataset of healthy controls and inverted. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better executive function performance. Positive changes at post tDCS compared to baseline represent an improvement in executive functions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cognition: Visuospatial Function</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>The visuospatial function score consists of the Z-standardized scores for the Rey-Osterrieth complex figure copy test. Scores are normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better visuospatial performance. Positive changes at post tDCS compared to baseline represent an improvement in visuospatial functions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cognition: Emotion Recognition</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>The composite emotion recognition score consists of the averaged Z-standardized scores for 2 emotion recognition tests: reading the Mind in the Eyes and 60 Ekman faces tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better emotion recognition performance. Positive changes at post tDCS compared to baseline represent an improvement in emotion recognition.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Structural Connectivity: FA</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>Fractional anisotropy (FA) is assessed on diffusion weighted imaging. FA values are averaged in default mode network (DMN) and salience network (SN) regions of interest. FA values denote the directionality of water diffusivity, ranging from 0 (isotropic diffusion) to 1 (anisotropic diffusion). Higher values denote higher directionality and connectivity. Positive changes at post tDCS compared to baseline represent an improvement in the measure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Structural Connectivity: MD, AxD, RaD</measure>
+    <time_frame>Baseline, post tDCS (week 3)</time_frame>
+    <description>Mean diffusivity (MD), axial diffusivity (AxD), and radial diffusivity (RaD) are assessed on diffusion weighted imaging. MD, AxD, RaD values are averaged in default mode network (DMN) and salience network (SN) regions of interest. MD, AxD, and RaD measure water diffusion and are expressed in mm^2/s (starting from 0 with no maximum value; scaled at x10^-3). Higher values denote higher diffusion and lower connectivity. Negative changes at post tDCS compared to baseline represent an improvement in the measure.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Frontotemporal Dementia, Behavioral Variant</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alzheimer's disease (AD): anodal tDCS of the default mode network (DMN)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alzheimer's disease (AD): cathodal tDCS of the salience network (SN)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Behavioral-variant frontotemporal dementia (bvFTD): anodal tDCS of the salience network (SN)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Behavioral-variant frontotemporal dementia (bvFTD): cathodal tDCS of the default mode network (DMN)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>transcranial direct current stimulation (tDCS)</intervention_name>
+    <description>10 daily 25-minutes tDCS sessions over two weeks.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_label>Arm 4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of AD or bvFTD according to current clinical criteria (Albert et al., 2011;&#xD;
+             Rascovsky et al., 2011)&#xD;
+&#xD;
+          -  Ability to provide written informed consent&#xD;
+&#xD;
+          -  Availability of a collateral source&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Moderate/severe dementia&#xD;
+&#xD;
+          -  Presence of any medical or psychiatric illness that could interfere in completing&#xD;
+             assessments&#xD;
+&#xD;
+        Exclusion Criteria for MRI and tDCS:&#xD;
+&#xD;
+          -  metal implants, pace-makers, prosthetic heart valves&#xD;
+&#xD;
+          -  claustrophobia&#xD;
+&#xD;
+          -  history of epilepsy&#xD;
+&#xD;
+          -  pregnancy&#xD;
+&#xD;
+        Exclusion Criteria for controls:&#xD;
+&#xD;
+          -  Current or past history of clinical, neurological, or psychiatric conditions that&#xD;
+             could interfere with the assessment (e.g., transient ischemic attack, ictus, head&#xD;
+             trauma, epilepsy, multiple sclerosis, neuropathy, mood disorders, substance abuse)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michela Pievani, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS Istituto Centro San Giovanni di Dio Fatebenefratelli, Brescia, Italy</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>IRCCS Centro San Giovanni di Dio Fatebenefratelli</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Pievani M, Pini L, Cappa SF, Frisoni GB. Brain networks stimulation in dementia: insights from functional imaging. Curr Opin Neurol. 2016 Dec;29(6):756-762. Review.</citation>
+    <PMID>27661207</PMID>
+  </reference>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>January 16, 2018</study_first_submitted>
+  <study_first_submitted_qc>February 2, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 5, 2018</study_first_posted>
+  <results_first_submitted>March 3, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 2, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 29, 2021</results_first_posted>
+  <last_update_submitted>April 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS Centro San Giovanni di Dio Fatebenefratelli</investigator_affiliation>
+    <investigator_full_name>Michela Pievani</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 2, 2016</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/50/NCT03422250/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>AD: Anodal tDCS of the DMN</title>
+          <description>Alzheimer's disease (AD): anodal tDCS of the default mode network (DMN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+        </group>
+        <group group_id="P2">
+          <title>AD: Cathodal tDCS of the SN</title>
+          <description>Alzheimer's disease (AD): cathodal tDCS of the salience network (SN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+        </group>
+        <group group_id="P3">
+          <title>bvFTD: Anodal tDCS of the SN</title>
+          <description>Behavioral-variant frontotemporal dementia (bvFTD): anodal tDCS of the salience network (SN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+        </group>
+        <group group_id="P4">
+          <title>bvFTD: Cathodal tDCS of the DMN</title>
+          <description>Behavioral-variant frontotemporal dementia (bvFTD): cathodal tDCS of the default mode network (DMN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Intervention</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="11"/>
+                <participants group_id="P2" count="11"/>
+                <participants group_id="P3" count="12"/>
+                <participants group_id="P4" count="11"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+                <participants group_id="P3" count="10"/>
+                <participants group_id="P4" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>safety (psoriasis, cortical vascular lesions on MRI)</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>Follow-up</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+                <participants group_id="P3" count="10"/>
+                <participants group_id="P4" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+                <participants group_id="P3" count="10"/>
+                <participants group_id="P4" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Modified intention-to-treat sample (participants completing intervention)</population>
+      <group_list>
+        <group group_id="B1">
+          <title>AD: Anodal tDCS of the DMN</title>
+          <description>AD: anodal tDCS of the default mode (DMN) network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+        </group>
+        <group group_id="B2">
+          <title>AD: Cathodal tDCS of the SN</title>
+          <description>AD: cathodal tDCS of the salience network (SN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+        </group>
+        <group group_id="B3">
+          <title>bvFTD: Anodal tDCS of the SN</title>
+          <description>bvFTD: anodal tDCS of the salience network (SN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+        </group>
+        <group group_id="B4">
+          <title>bvFTD: Cathodal tDCS of the DMN</title>
+          <description>bvFTD: cathodal tDCS of the default mode network (DMN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="10"/>
+            <count group_id="B3" value="10"/>
+            <count group_id="B4" value="10"/>
+            <count group_id="B5" value="40"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72" spread="6"/>
+                    <measurement group_id="B2" value="73" spread="6"/>
+                    <measurement group_id="B3" value="71" spread="10"/>
+                    <measurement group_id="B4" value="69" spread="11"/>
+                    <measurement group_id="B5" value="71" spread="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex/Gender, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="10"/>
+                    <measurement group_id="B5" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Italy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="10"/>
+                    <measurement group_id="B5" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Clinical Disease Severity (CDR)</title>
+        <description>CDR - Clinical Dementia Rating score&#xD;
+The clinical dementia rating (CDR) is a clinical global rating scale administered to both the participant and the caregiver, assessing 6 domains of participant function: memory, orientation, judgement and problem solving, community affairs, home and hobbies and personal care. Each domain is based on a 5-point scale ranging from no impairment=0, questionable impairment=0.5, mild impairment=1, moderate impairment=2 to severe impairment=3. The global CDR score is computed via a memory-weighted averaging algorithm of the six domain scores and ranges from 0 to 5. The CDR-sum of boxes (CDR-SB) is the sum of the individual domain scores and ranges from 0 to 18. Higher scores indicate more clinical impairment. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Clinical Disease Severity (CDR)</title>
+          <description>CDR - Clinical Dementia Rating score&#xD;
+The clinical dementia rating (CDR) is a clinical global rating scale administered to both the participant and the caregiver, assessing 6 domains of participant function: memory, orientation, judgement and problem solving, community affairs, home and hobbies and personal care. Each domain is based on a 5-point scale ranging from no impairment=0, questionable impairment=0.5, mild impairment=1, moderate impairment=2 to severe impairment=3. The global CDR score is computed via a memory-weighted averaging algorithm of the six domain scores and ranges from 0 to 5. The CDR-sum of boxes (CDR-SB) is the sum of the individual domain scores and ranges from 0 to 18. Higher scores indicate more clinical impairment. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CDR global</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.1" spread="0.2"/>
+                    <measurement group_id="O2" value="0.0" spread="0.0"/>
+                    <measurement group_id="O3" value="0.0" spread="0.0"/>
+                    <measurement group_id="O4" value="0.0" spread="0.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CDR sum of boxes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="0.4"/>
+                    <measurement group_id="O2" value="0.0" spread="0.2"/>
+                    <measurement group_id="O3" value="-0.1" spread="0.3"/>
+                    <measurement group_id="O4" value="0.0" spread="0.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Behavioral Symptom Severity (NPI)</title>
+        <description>The Neuropsychiatric Inventory (NPI) is a behavioral scale administered to the caregiver assessing 12 dimensions: delusions, hallucinations, agitation/aggression, depression/dysphoria, anxiety, euphoria, apathy, disinhibition, irritability, aberrant motor activity, nighttime behaviors, and appetite/eating. Each dimension has multiple screening questions relating to symptoms. If the answer to the screening questions is &quot;Yes&quot;, the dimensional-score is the product of frequency (1=occasionally to 4=very frequently) and severity (1=Mild to 3=Severe) of symptoms. Dimensional-scores are summed (from 0 to 144). Higher scores indicate greater behavioral disturbances. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Behavioral Symptom Severity (NPI)</title>
+          <description>The Neuropsychiatric Inventory (NPI) is a behavioral scale administered to the caregiver assessing 12 dimensions: delusions, hallucinations, agitation/aggression, depression/dysphoria, anxiety, euphoria, apathy, disinhibition, irritability, aberrant motor activity, nighttime behaviors, and appetite/eating. Each dimension has multiple screening questions relating to symptoms. If the answer to the screening questions is &quot;Yes&quot;, the dimensional-score is the product of frequency (1=occasionally to 4=very frequently) and severity (1=Mild to 3=Severe) of symptoms. Dimensional-scores are summed (from 0 to 144). Higher scores indicate greater behavioral disturbances. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1" spread="3"/>
+                    <measurement group_id="O2" value="-3" spread="6"/>
+                    <measurement group_id="O3" value="-1" spread="4"/>
+                    <measurement group_id="O4" value="-6" spread="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Behavioral Symptom Severity (FBI)</title>
+        <description>The Frontal Behavioral Inventory (FBI) is a 24-item inventory designed to assess behavior and personality changes via caregiver. Item-level scores range from 0=none, 1=mild/occasional, 2=moderate, 3=severe/most of the time. Item-scores are summed (from 0 to 72). Higher scores indicate greater behavioral/personality disturbances. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Behavioral Symptom Severity (FBI)</title>
+          <description>The Frontal Behavioral Inventory (FBI) is a 24-item inventory designed to assess behavior and personality changes via caregiver. Item-level scores range from 0=none, 1=mild/occasional, 2=moderate, 3=severe/most of the time. Item-scores are summed (from 0 to 72). Higher scores indicate greater behavioral/personality disturbances. Negative changes at post tDCS compared to baseline represent an improvement on the scale.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2" spread="4"/>
+                    <measurement group_id="O2" value="-4" spread="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Functional Connectivity</title>
+        <description>Default mode network (DMN) and salience network (SN) mean functional connectivity is assessed on resting state functional MRI. Functional connectivity is standardized to Z scores and thresholded at Z&gt;2. Higher values denote greater functional connectivity. A positive change at post tDCS compared to baseline represents an increase in resting-state functional connectivity.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Functional Connectivity</title>
+          <description>Default mode network (DMN) and salience network (SN) mean functional connectivity is assessed on resting state functional MRI. Functional connectivity is standardized to Z scores and thresholded at Z&gt;2. Higher values denote greater functional connectivity. A positive change at post tDCS compared to baseline represents an increase in resting-state functional connectivity.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>Z-score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="9"/>
+                <count group_id="O4" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>DMN</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.08" spread="0.13"/>
+                    <measurement group_id="O2" value="-0.09" spread="0.11"/>
+                    <measurement group_id="O3" value="-0.02" spread="0.23"/>
+                    <measurement group_id="O4" value="-0.04" spread="0.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SN</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.06" spread="0.15"/>
+                    <measurement group_id="O2" value="0.05" spread="0.2"/>
+                    <measurement group_id="O3" value="0.08" spread="0.18"/>
+                    <measurement group_id="O4" value="0.02" spread="0.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Cerebral Blood Flow</title>
+        <description>Default mode network (DMN) and salience network (SN) mean cerebral blood flow is assessed on arterial spin labeling. Cerebral blood flow is computed by averaging values across the DMN and SN regions of interest. Cerebral blood flow is a measure of brain perfusion, higher values denoting higher perfusion. A positive change at post tDCS compared to baseline represents an increase in perfusion.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cerebral Blood Flow</title>
+          <description>Default mode network (DMN) and salience network (SN) mean cerebral blood flow is assessed on arterial spin labeling. Cerebral blood flow is computed by averaging values across the DMN and SN regions of interest. Cerebral blood flow is a measure of brain perfusion, higher values denoting higher perfusion. A positive change at post tDCS compared to baseline represents an increase in perfusion.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>ml/100g/min</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="9"/>
+                <count group_id="O3" value="7"/>
+                <count group_id="O4" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>DMN</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.87" spread="8.92"/>
+                    <measurement group_id="O2" value="-0.06" spread="9.46"/>
+                    <measurement group_id="O3" value="0.56" spread="7.72"/>
+                    <measurement group_id="O4" value="3.08" spread="3.45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SN</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.37" spread="7.00"/>
+                    <measurement group_id="O2" value="-1.92" spread="12.3"/>
+                    <measurement group_id="O3" value="2.34" spread="4.84"/>
+                    <measurement group_id="O4" value="1.41" spread="4.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Cognition: Memory</title>
+        <description>The composite memory score consists of the averaged Z-standardized scores of 5 memory tests: immediate and delayed auditory verbal learning test recall, Rey-Osterrieth complex figure recall, story recall, digit span backward and forward tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better memory performance. Positive changes at post tDCS compared to baseline represent an improvement in memory.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cognition: Memory</title>
+          <description>The composite memory score consists of the averaged Z-standardized scores of 5 memory tests: immediate and delayed auditory verbal learning test recall, Rey-Osterrieth complex figure recall, story recall, digit span backward and forward tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better memory performance. Positive changes at post tDCS compared to baseline represent an improvement in memory.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>z score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.3" spread="0.2"/>
+                    <measurement group_id="O2" value="0.3" spread="0.3"/>
+                    <measurement group_id="O3" value="0.1" spread="0.3"/>
+                    <measurement group_id="O4" value="0.2" spread="0.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Cognition: Language</title>
+        <description>The composite language score consists of the averaged Z-standardized scores of 2 language tests: verbal fluency and token tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better language performance. Positive changes at post tDCS compared to baseline represent an improvement in language.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cognition: Language</title>
+          <description>The composite language score consists of the averaged Z-standardized scores of 2 language tests: verbal fluency and token tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better language performance. Positive changes at post tDCS compared to baseline represent an improvement in language.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>z score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.7" spread="0.6"/>
+                    <measurement group_id="O2" value="0.4" spread="0.6"/>
+                    <measurement group_id="O3" value="0.7" spread="0.9"/>
+                    <measurement group_id="O4" value="0.4" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Cognition: Executive Function</title>
+        <description>The composite executive function score consists of the averaged Z-standardized scores of 2 executive functions tests: trail making test part A and part B tests. Each test score is normalized to an independent dataset of healthy controls and inverted. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better executive function performance. Positive changes at post tDCS compared to baseline represent an improvement in executive functions.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cognition: Executive Function</title>
+          <description>The composite executive function score consists of the averaged Z-standardized scores of 2 executive functions tests: trail making test part A and part B tests. Each test score is normalized to an independent dataset of healthy controls and inverted. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better executive function performance. Positive changes at post tDCS compared to baseline represent an improvement in executive functions.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>z score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.3" spread="2.9"/>
+                    <measurement group_id="O2" value="-0.3" spread="2.4"/>
+                    <measurement group_id="O3" value="0.7" spread="2.3"/>
+                    <measurement group_id="O4" value="-0.7" spread="1.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Cognition: Visuospatial Function</title>
+        <description>The visuospatial function score consists of the Z-standardized scores for the Rey-Osterrieth complex figure copy test. Scores are normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better visuospatial performance. Positive changes at post tDCS compared to baseline represent an improvement in visuospatial functions.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cognition: Visuospatial Function</title>
+          <description>The visuospatial function score consists of the Z-standardized scores for the Rey-Osterrieth complex figure copy test. Scores are normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better visuospatial performance. Positive changes at post tDCS compared to baseline represent an improvement in visuospatial functions.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>z score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.2" spread="1.1"/>
+                    <measurement group_id="O2" value="0.0" spread="1.6"/>
+                    <measurement group_id="O3" value="0.1" spread="0.8"/>
+                    <measurement group_id="O4" value="0.4" spread="0.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Cognition: Emotion Recognition</title>
+        <description>The composite emotion recognition score consists of the averaged Z-standardized scores for 2 emotion recognition tests: reading the Mind in the Eyes and 60 Ekman faces tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better emotion recognition performance. Positive changes at post tDCS compared to baseline represent an improvement in emotion recognition.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Cognition: Emotion Recognition</title>
+          <description>The composite emotion recognition score consists of the averaged Z-standardized scores for 2 emotion recognition tests: reading the Mind in the Eyes and 60 Ekman faces tests. Each test score is normalized to an independent dataset of healthy controls. Z-scores have no minimum/maximum values. A z-score of 0 is equal to the mean and is considered normal. Lower numbers indicate values lower than the mean and higher numbers indicate values higher than the mean. Higher values denote better emotion recognition performance. Positive changes at post tDCS compared to baseline represent an improvement in emotion recognition.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>z score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+                <count group_id="O4" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="0.5"/>
+                    <measurement group_id="O2" value="0.1" spread="0.6"/>
+                    <measurement group_id="O3" value="0.3" spread="1.2"/>
+                    <measurement group_id="O4" value="0.1" spread="0.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Structural Connectivity: FA</title>
+        <description>Fractional anisotropy (FA) is assessed on diffusion weighted imaging. FA values are averaged in default mode network (DMN) and salience network (SN) regions of interest. FA values denote the directionality of water diffusivity, ranging from 0 (isotropic diffusion) to 1 (anisotropic diffusion). Higher values denote higher directionality and connectivity. Positive changes at post tDCS compared to baseline represent an improvement in the measure.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Structural Connectivity: FA</title>
+          <description>Fractional anisotropy (FA) is assessed on diffusion weighted imaging. FA values are averaged in default mode network (DMN) and salience network (SN) regions of interest. FA values denote the directionality of water diffusivity, ranging from 0 (isotropic diffusion) to 1 (anisotropic diffusion). Higher values denote higher directionality and connectivity. Positive changes at post tDCS compared to baseline represent an improvement in the measure.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="9"/>
+                <count group_id="O4" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>DMN FA</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.000" spread="0.007"/>
+                    <measurement group_id="O2" value="-0.003" spread="0.006"/>
+                    <measurement group_id="O3" value="-0.002" spread="0.008"/>
+                    <measurement group_id="O4" value="0.000" spread="0.008"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SN FA</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.003" spread="0.009"/>
+                    <measurement group_id="O2" value="-0.002" spread="0.011"/>
+                    <measurement group_id="O3" value="-0.002" spread="0.009"/>
+                    <measurement group_id="O4" value="0.001" spread="0.011"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Structural Connectivity: MD, AxD, RaD</title>
+        <description>Mean diffusivity (MD), axial diffusivity (AxD), and radial diffusivity (RaD) are assessed on diffusion weighted imaging. MD, AxD, RaD values are averaged in default mode network (DMN) and salience network (SN) regions of interest. MD, AxD, and RaD measure water diffusion and are expressed in mm^2/s (starting from 0 with no maximum value; scaled at x10^-3). Higher values denote higher diffusion and lower connectivity. Negative changes at post tDCS compared to baseline represent an improvement in the measure.</description>
+        <time_frame>Baseline, post tDCS (week 3)</time_frame>
+        <population>Modified intention-to-treat sample (participants completing intervention)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>AD: Anodal tDCS of the DMN</title>
+            <description>AD: anodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+          <group group_id="O2">
+            <title>AD: Cathodal tDCS of the SN</title>
+            <description>AD: cathodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O3">
+            <title>bvFTD: Anodal tDCS of the SN</title>
+            <description>bvFTD: anodal tDCS of the salience network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+          </group>
+          <group group_id="O4">
+            <title>bvFTD: Cathodal tDCS of the DMN</title>
+            <description>bvFTD: cathodal tDCS of the default mode network with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Structural Connectivity: MD, AxD, RaD</title>
+          <description>Mean diffusivity (MD), axial diffusivity (AxD), and radial diffusivity (RaD) are assessed on diffusion weighted imaging. MD, AxD, RaD values are averaged in default mode network (DMN) and salience network (SN) regions of interest. MD, AxD, and RaD measure water diffusion and are expressed in mm^2/s (starting from 0 with no maximum value; scaled at x10^-3). Higher values denote higher diffusion and lower connectivity. Negative changes at post tDCS compared to baseline represent an improvement in the measure.</description>
+          <population>Modified intention-to-treat sample (participants completing intervention)</population>
+          <units>x10^-3 mm^2/s</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="9"/>
+                <count group_id="O4" value="7"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>DMN MD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.003" spread="0.017"/>
+                    <measurement group_id="O2" value="-0.001" spread="0.019"/>
+                    <measurement group_id="O3" value="0.007" spread="0.008"/>
+                    <measurement group_id="O4" value="0.007" spread="0.008"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SN MD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.004" spread="0.016"/>
+                    <measurement group_id="O2" value="-0.002" spread="0.017"/>
+                    <measurement group_id="O3" value="0.010" spread="0.009"/>
+                    <measurement group_id="O4" value="0.007" spread="0.008"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>DMN AxD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.004" spread="0.017"/>
+                    <measurement group_id="O2" value="-0.006" spread="0.024"/>
+                    <measurement group_id="O3" value="0.009" spread="0.014"/>
+                    <measurement group_id="O4" value="0.008" spread="0.011"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SN AxD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.004" spread="0.017"/>
+                    <measurement group_id="O2" value="-0.008" spread="0.029"/>
+                    <measurement group_id="O3" value="0.014" spread="0.018"/>
+                    <measurement group_id="O4" value="0.010" spread="0.012"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>DMN RaD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.002" spread="0.017"/>
+                    <measurement group_id="O2" value="0.001" spread="0.017"/>
+                    <measurement group_id="O3" value="0.007" spread="0.009"/>
+                    <measurement group_id="O4" value="0.006" spread="0.009"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SN RaD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.005" spread="0.017"/>
+                    <measurement group_id="O2" value="0.000" spread="0.015"/>
+                    <measurement group_id="O3" value="0.008" spread="0.009"/>
+                    <measurement group_id="O4" value="0.005" spread="0.011"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were monitored from the time of enrollment to follow-up assessment (approx 6 months).</time_frame>
+      <desc>A questionnaire was administered to all participants to monitor events occurring within 24 hours after each tDCS session. A questionnaire was also administered at the end of the first and last tDCS sessions to monitor the occurrence of the most common discomfort sensations related to tDCS and their intensity.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>AD: Anodal tDCS of the DMN</title>
+          <description>AD: anodal tDCS of the default mode network (DMN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+        </group>
+        <group group_id="E2">
+          <title>AD: Cathodal tDCS of the SN</title>
+          <description>AD: cathodal tDCS of the salience network (SN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+        </group>
+        <group group_id="E3">
+          <title>bvFTD: Anodal tDCS of the SN</title>
+          <description>bvFTD: anodal tDCS of the salience network (SN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: prefrontal cortex</description>
+        </group>
+        <group group_id="E4">
+          <title>bvFTD: Cathodal tDCS of the DMN</title>
+          <description>bvFTD: cathodal tDCS of the default mode network (DMN) with transcranial direct current stimulation (tDCS): 10 daily 25-minutes tDCS sessions over two weeks.&#xD;
+Stimulation target: inferior parietal cortex</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Intestinal infarct</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="5" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="5" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="11"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Itching (tDCS related discomfort sensation)</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="11"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Pain (tDCS related discomfort sensation)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Burning (tDCS related discomfort sensation)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="11"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Warmth/Heat (tDCS related discomfort sensation)</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Pinching (tDCS related discomfort sensation)</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="11"/>
+                <counts group_id="E2" events="7" subjects_affected="5" subjects_at_risk="11"/>
+                <counts group_id="E3" events="3" subjects_affected="3" subjects_at_risk="12"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Metallic/Iron taste (tDCS related discomfort sensation)</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Fatigue (tDCS related discomfort sensations)</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="11"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+              <event>
+                <sub_title>Other tDCS related discomfort sensations</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="11"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="11"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Michela Pievani</name_or_title>
+      <organization>IRCCS Centro San Giovanni di Dio Fatebenefratelli</organization>
+      <phone>+39 030 35011</phone>
+      <email>mpievani@fatebenefratelli.eu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

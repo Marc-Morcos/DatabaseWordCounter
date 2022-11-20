@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1383">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05430867</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XJTU1AF2022LSK-042</org_study_id>
+    <nct_id>NCT05430867</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Memantine and Sodium Oligomannate in Patients With Moderate to Severe Alzheimer's Disease</brief_title>
+  <official_title>Efficacy and Safety of Memantine and Sodium Oligomannate in Patients With Moderate to Severe Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>First Affiliated Hospital Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>First Affiliated Hospital Xi'an Jiaotong University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease (AD) is the main cause of dementia. At present, AD is incurable.&#xD;
+      Memantine is recommended for the treatment of moderate and severe AD patients. Sodium&#xD;
+      oligomannate (GV-971) is a marine-derived oligosaccharide. It is proposed that it can&#xD;
+      reconstitute the gut microbiota, and inhibit neuroinflammation in the brain as observed in&#xD;
+      animal models. It reduces Aβ deposition in the brain of Aβ-transgenic mice. The reduction in&#xD;
+      both Aβ deposition and neuroinflammation may synergistically contribute to the improvement of&#xD;
+      cognitive impairment and delay the progress of the disease. China Food and Drug&#xD;
+      Administration（CFDA）approved it for the treatment of mild to moderate AD in 2019. Due to the&#xD;
+      different mechanism of memantine and GV-971, theoretically, they may synergistically improve&#xD;
+      cognitive function and delay disease progression. However, there is a lack of data on their&#xD;
+      effectiveness and safety. Therefore, the purpose of this study is to compare the efficacy and&#xD;
+      safety of memantine and GV-971 monotherapy and combination therapy in patients with moderate&#xD;
+      to severe AD, which is of great significance for guiding the treatment of moderate and severe&#xD;
+      AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>cognitive function</measure>
+    <time_frame>baseline, week 12, week 24, week 36,week 48</time_frame>
+    <description>the change of Severe Impairment Battery score （The total score ranges from 0 to 100，higher scores mean a better outcome）from baseline at week 48</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Treatment</condition>
+  <condition>Efficacy</condition>
+  <condition>Safety</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Memantine monotherapy group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Memantine 20mg once-daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GV-971 monotherapy group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GV-971 450mg twice a day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Memantine combined with GV-971 group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Memantine 20mg once-daily plus GV-971 450mg twice a day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Memantine Oral Tablet</intervention_name>
+    <description>Memantine 20mg once-daily</description>
+    <arm_group_label>Memantine combined with GV-971 group</arm_group_label>
+    <arm_group_label>Memantine monotherapy group</arm_group_label>
+    <other_name>Memantine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GV-971 capsule</intervention_name>
+    <description>GV-971 450mg twice a day</description>
+    <arm_group_label>GV-971 monotherapy group</arm_group_label>
+    <arm_group_label>Memantine combined with GV-971 group</arm_group_label>
+    <other_name>GV-971</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  age of 50-80 years old , either sex;&#xD;
+&#xD;
+          -  met the diagnostic criteria for suspected AD;&#xD;
+&#xD;
+          -  moderate to severe AD patients(5 points ≤Mini-Mental State Examination total score≤14&#xD;
+             points);&#xD;
+&#xD;
+          -  total Hachinski ischemic scale (HIS) score ≤4 points;&#xD;
+&#xD;
+          -  memory loss for at least 12 months, with a progressive deterioration;&#xD;
+&#xD;
+          -  brain MRI scan suggesting a significant possibility of AD;&#xD;
+&#xD;
+          -  no obvious physical signs during nervous system examination;&#xD;
+&#xD;
+          -  stable and reliable caregivers;&#xD;
+&#xD;
+          -  elementary school or higher education level;&#xD;
+&#xD;
+          -  signed an informed consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  previous nervous system diseases ;&#xD;
+&#xD;
+          -  mental illness;&#xD;
+&#xD;
+          -  unstable or severe heart, lung, liver, kidney, or hematopoietic diseases;&#xD;
+&#xD;
+          -  uncorrectable visual and auditory disorders;&#xD;
+&#xD;
+          -  simultaneous use of cholinesterase inhibitors, memantine or GV-971.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jin Wang</last_name>
+    <phone>13572208524</phone>
+    <email>drwangjin@163.com</email>
+  </overall_contact>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>June 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>June 20, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 24, 2022</study_first_posted>
+  <last_update_submitted>July 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 7, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Memantine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2308">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04935372</url>
+  </required_header>
+  <id_info>
+    <org_study_id>β-AARC_BBRC2021</org_study_id>
+    <nct_id>NCT04935372</nct_id>
+  </id_info>
+  <brief_title>β-AARC: Cohort Study for the Identification of Blood-based Biomarkers in a Population With Subjective Cognitive Decline</brief_title>
+  <acronym>β-AARC</acronym>
+  <official_title>β-AARC: Cohort Study for the Identification of Blood-based Biomarkers in a Population With Subjective Cognitive Decline</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barcelonabeta Brain Research Center, Pasqual Maragall Foundation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Barcelonabeta Brain Research Center, Pasqual Maragall Foundation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall (cross-sectional) objective of this study is to detect and describe the profile&#xD;
+      of AD-related blood biomarkers in a population with SCD (including individuals with MCI) with&#xD;
+      the ultimate goal of investigating their capacity to predict underlying AD pathology.&#xD;
+      Longitudinally, the β-AARC_BBRC2021 study fundamentally aims at assessing the ability of&#xD;
+      AD-related blood-based biomarkers to predict disease progression in the Alzheimer's&#xD;
+      continuum.&#xD;
+&#xD;
+      To achieve these cross-sectional and longitudinal objectives, an exhaustive set of clinical,&#xD;
+      risk factors, cognitive, mental health and neuroimaging data will be collected, as well as&#xD;
+      blood and CSF samples, from which AD-related fluid biomarkers will be determined.&#xD;
+&#xD;
+      As a secondary objective, we will investigate the efficacy and accuracy of the Altoida NMI as&#xD;
+      a novel digital biomarker for identifying patients with SCD or MCI that have underlying AD&#xD;
+      pathology (cross-sectionally) and to test the capacity of the Altoida NMI to track disease&#xD;
+      progression in these popoulations (longitudinally).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 25, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CSF Aβ42/Aβ40 ratio</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>The capacity of plasma biomarkers to predict (alone or in combination of covariates) Alzheimer's pathology</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cost effectiveness</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>The ratio between the cost and predictive capacity of these variables will be considered to derive a triaging algorithm for primary care</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Preclinical Alzheimer</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Subjective cognitive decline</arm_group_label>
+    <description>Male and female, aged 55 to 80 years with subjective cognitive decline, either cognitively unimpaired or with mild cognitive impairment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>Cross sectional analyses The two main variables for the analysis will be: Values of biomarker concentrations in blood and their correlations with CSF biomarkers and the development of prodromal AD for the cognitively unimpaired SCD population. Other variables of interest for the study are, among others, risk factors, cognitive status, measurements of brain structure and function, mental health, chronic diseases, environmental exposures, age and sex.&#xD;
+Longitudinal analyses Longitudinal analyses will estimate the association between the intensity of the subjective complaint and the rate of progression between the diagnostic categories; The association of biomarkers, risk factors and other clinical variables with the rate of progression between the diagnostic categories; The association of cognitive and neuroimaging variables with the rate of progression between the diagnostic categories; The evolution of the complaint itself and its relation to the other variables described.</description>
+    <arm_group_label>Subjective cognitive decline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Two-hundred participants, aged 55 to 80 years with subjective cognitive decline, will be&#xD;
+        primarily selected from the population seeking medical advice on their cognitive&#xD;
+        performance to Primary care units. In addition, other conventional recruitment strategies&#xD;
+        may be used (e.g. participants of ongoing or ended BBRC-sponsored studies,novel recruitment&#xD;
+        calls…).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Cognitively unimpaired persons with SCD as well as individuals with MCI.&#xD;
+&#xD;
+          2. To sign the study informed consent form, approved by the corresponding authorities.&#xD;
+&#xD;
+          3. Participation (in-person at the institution or telephonically) of a relative to inform&#xD;
+             on the participant subjective memory decline and on the clinical interview*.&#xD;
+&#xD;
+          4. Men and women between 55 and 80 years old&#xD;
+&#xD;
+          5. Memory Alteration Test (M@T) ≤45&#xD;
+&#xD;
+          6. Good knowledge of the either Spanish or Catalan language and being literate.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Presence of clinically relevant psychiatric disorder according to the Diagnostic and&#xD;
+             Statistical Manual of Mental Disorders, 5th Edition (DSM-V) criteria: major depressive&#xD;
+             disorder, generalized anxiety disorder, schizophrenia and bipolar disorder, or any&#xD;
+             other condition that might impact cognition or performance on cognitive assessments as&#xD;
+             judged by the investigator&#xD;
+&#xD;
+          2. Parkinson's disease, epilepsy in treatment and with frequent seizures (&gt; 1 / month) in&#xD;
+             the last year, multiple sclerosis or other neurodegenerative disease.&#xD;
+&#xD;
+          3. Contraindication to perform an MR scan: claustrophobia, pacemaker, metallic implants,&#xD;
+             etc.&#xD;
+&#xD;
+          4. Contraindication to lumbar puncture&#xD;
+&#xD;
+          5. Acquired brain injury: history of cranioencephalic trauma with gross parenchymal or&#xD;
+             extra axial lesion, hemorrhagic ischemic stroke, brain tumors and other aetiologies&#xD;
+             that can cause acquired brain damage (chemotherapy or brain radiotherapy).&#xD;
+&#xD;
+          6. Investigator's criteria: Subjects that show any condition that, in the opinion of the&#xD;
+             investigator, could interfere in the proper execution of the study procedures and / or&#xD;
+             in their future permanence in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Carolina Minguillon, PhD</last_name>
+    <phone>+34933160990</phone>
+    <email>cminguillon@barcelonabeta.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>BarcelonaBeta Brain Research Center</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08005</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolina Minguillon, PhD</last_name>
+      <phone>+34933160990</phone>
+      <email>cminguillon@barcelonabeta.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>June 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>June 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 23, 2021</study_first_posted>
+  <last_update_submitted>June 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

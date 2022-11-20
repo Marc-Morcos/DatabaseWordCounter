@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2021">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02849639</url>
+  </required_header>
+  <id_info>
+    <org_study_id>16-0375-F2L INCREASE</org_study_id>
+    <secondary_id>1R01AG054130-01</secondary_id>
+    <nct_id>NCT02849639</nct_id>
+  </id_info>
+  <brief_title>The INCREASE Study - Delaying the Onset of Alzheimer's Symptomatic Expression</brief_title>
+  <acronym>INCREASE</acronym>
+  <official_title>INtervention for Cognitive Reserve Enhancement in Delaying the Onset of Alzheimer's Symptomatic Expression: The INCREASE Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daniela Moga</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kentucky</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will examine the impact on cognitive reserve of a pharmacist-physician&#xD;
+      patient-centered medication therapy management intervention to address inappropriate&#xD;
+      medication use as identified by the Beers 2015 list. By bolstering cognitive reserve, this&#xD;
+      project will directly address the National Alzheimer's Project Act 2015 priorities serving to&#xD;
+      delay onset of symptoms in preclinical dementia. The results of this study will provide&#xD;
+      valuable insights on how to expand this intervention to reduce the prevalence and associated&#xD;
+      healthcare costs of symptomatic Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a 12-month, parallel arm, study to be conducted at the University of Kentucky. The&#xD;
+      study will involve assessing medication use and identifying any medicines that may be&#xD;
+      inappropriate for elderly adults.&#xD;
+&#xD;
+      At the beginning of the study, participants will be asked to undergo one amyloid-PET scan to&#xD;
+      detect early amyloid plaques in their brain which could increase the risk of Alzheimer's&#xD;
+      disease in the near future. In addition, at the beginning and end of the study, participants&#xD;
+      will be asked to use a scopolamine patch. This patch is not being used to prevent motion&#xD;
+      sickness (as approved by the FDA), but instead is being used to challenge the participant's&#xD;
+      memory and thinking abilities.&#xD;
+&#xD;
+      Part of the study includes collecting information regarding participants memory and thinking&#xD;
+      abilities. Participants will be asked to complete questionnaires as well as memory and&#xD;
+      thinking tests.&#xD;
+&#xD;
+      A study doctor will review participants medical history and then perform routine medical&#xD;
+      (physical and neurological) examinations.&#xD;
+&#xD;
+      Two of the study visits will be conducted by phone to check up on the participants.&#xD;
+&#xD;
+      At the beginning, middle, and end of the study, participants will meet with a doctor and&#xD;
+      pharmacist to review and make any changes deemed appropriate to their current medicines. This&#xD;
+      will be done in order to try and eliminate medicines that are not recommended for the&#xD;
+      elderly. These visits are referred to as the Medication Therapy Management (MTM).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 4, 2017</start_date>
+  <completion_date type="Actual">April 21, 2021</completion_date>
+  <primary_completion_date type="Actual">April 21, 2021</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Medication Appropriateness Index</measure>
+    <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+    <description>Change from baseline to end of study. The Medication Appropriateness Index (MAI) rates medications as &quot;appropriate&quot;, &quot;marginally appropriate&quot;, or &quot;inappropriate&quot; based on ten criteria. All medications reported by study participants were evaluated by the study team and assigned a medication-specific MAI. As an outcome measure, the total MAI was obtained by adding the medication specific MAIs for all medications reported by the participant. Minimum score for one medication is 0 (appropriate) and the maximum is 18 (inappropriate for all criteria). Total MAI depends on the number of medications taken by participant. A decrease in MAI from baseline to end of study indicates improvement in medication appropriateness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Trail Making Test B With the Scopolamine Patch</measure>
+    <time_frame>baseline to end of study, an average of 1 year</time_frame>
+    <description>End of study for Trail Making Test B with the scopolamine patch. The mean and standard used to compute the TMTB z-scores were taken from a sample of cognitively intact older adult research volunteers (Weintraub et al. 2009; mean = 90.3, SD = 50) (22). Z-scores were then multiplied by -1 to facilitate interpretation, since higher TMTB scores are worse. For the z-score, we converted time in seconds to units of standard deviations from a mean of 0, where 0 represents the mean performance of cognitively intact (normal) older adult research volunteers enrolled in longitudinal studies at Alzheimer's Disease Research Centers in the United States. Scores that are at least 1.5 standard deviations below the mean are indicative of potential cognitive impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Reserve: Montreal Cognitive Assessment</measure>
+    <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+    <description>Change from baseline to end of study for Montreal Cognitive Assessment. Data analysis is currently underway for this secondary outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Reserve: California Verbal Learning Test</measure>
+    <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+    <description>Change from baseline to end of study for California Verbal Learning test. Data analysis is currently underway for this secondary outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Perceived Health Status</measure>
+    <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+    <description>Change from baseline to end of study for Short Form Health Survey (SF-36). Data analysis is currently underway for this secondary outcome.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">90</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants enrolled into this arm will only receive educational materials, but will not receive specific recommendations to make changes to the medications they are taking.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medication Therapy Management (MTM)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants enrolled into this arm will receive educational materials and will have their medications assessed; recommendations for changes in the medications taken will be made when appropriate.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive educational materials, but will not receive MTM.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Medication Therapy Management (MTM)</intervention_name>
+    <description>Participants will receive MTM in addition to the educational materials.</description>
+    <arm_group_label>Medication Therapy Management (MTM)</arm_group_label>
+    <other_name>Intervention</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Scopolamine patch</intervention_name>
+    <description>At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+    <arm_group_label>Medication Therapy Management (MTM)</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Scopolamine Challenge</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Non-demented&#xD;
+&#xD;
+          -  No previous reaction or contraindication to scopolamine patch, or medical condition&#xD;
+             warranting dose adjustment in scopolamine including but not limited to: open angle&#xD;
+             glaucoma, gastrointestinal or urinary outlet obstructions, seizures, or psychosis.&#xD;
+&#xD;
+          -  No contraindications to Aβ-PET scan including hypersensitivity to PET ligand or&#xD;
+             radiation exposures in the past year that would exceed the acceptable safe annual&#xD;
+             exposure in combination with the Aβ PET&#xD;
+&#xD;
+          -  Medically stable and able to complete all study activities, as determined by the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Reporting at least one potentially inappropriate medication as listed in the Beers&#xD;
+             2015 criteria&#xD;
+&#xD;
+          -  Living in the community&#xD;
+&#xD;
+          -  Willing to participate in this intervention study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Allergy or other know intolerance to scopolamine patches&#xD;
+&#xD;
+          -  Narrow-angle glaucoma&#xD;
+&#xD;
+          -  Difficulty swallowing&#xD;
+&#xD;
+          -  Stomach or bowel problems (e.g., blockage, muscle weakness, ulcerative colitis)&#xD;
+&#xD;
+          -  Bleeding&#xD;
+&#xD;
+          -  Acid reflux disease&#xD;
+&#xD;
+          -  Myasthenia gravis&#xD;
+&#xD;
+          -  Blockage of the urinary tract.&#xD;
+&#xD;
+          -  Seizures&#xD;
+&#xD;
+          -  Psychosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>101 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniela Moga, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kentucky</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Moga DC, Beech BF, Abner EL, Schmitt FA, El Khouli RH, Martinez AI, Eckmann L, Huffmyer M, George R, Jicha GA. INtervention for Cognitive Reserve Enhancement in delaying the onset of Alzheimer's Symptomatic Expression (INCREASE), a randomized controlled trial: rationale, study design, and protocol. Trials. 2019 Dec 30;20(1):806. doi: 10.1186/s13063-019-3993-0.</citation>
+    <PMID>31888732</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Moga DC, Abner EL, Schmitt FA, Eckmann L, Huffmyer M, Martinez AI, Beech BF, George R, El Khouli RH, Ali D, Jicha GA. Intervention for Cognitive Reserve Enhancement in Delaying the Onset of Alzheimer's Symptomatic Expression (INCREASE) Study: Results from a Randomized Controlled Study of Medication Therapy Management Targeting a Delay in Prodromal Dementia Symptom Progression. J Prev Alzheimers Dis. 2022;9(4):646-654. doi: 10.14283/jpad.2022.55.</citation>
+    <PMID>36281668</PMID>
+  </results_reference>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>July 15, 2016</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 29, 2016</study_first_posted>
+  <results_first_submitted>May 3, 2022</results_first_submitted>
+  <results_first_submitted_qc>July 27, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 22, 2022</results_first_posted>
+  <last_update_submitted>July 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kentucky</investigator_affiliation>
+    <investigator_full_name>Daniela Moga</investigator_full_name>
+    <investigator_title>Sponsor/PI</investigator_title>
+  </responsible_party>
+  <keyword>deprescribing</keyword>
+  <keyword>medication therapy management</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Scopolamine</mesh_term>
+    <mesh_term>Butylscopolammonium Bromide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 27, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/39/NCT02849639/Prot_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 14, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/39/NCT02849639/SAP_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>November 20, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/39/NCT02849639/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>Participants enrolled into this arm will only receive educational materials, but will not receive specific recommendations to make changes to the medications they are taking.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Placebo: Participants will receive educational materials, but will not receive MTM.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+        </group>
+        <group group_id="P2">
+          <title>Medication Therapy Management (MTM)</title>
+          <description>Participants enrolled into this arm will receive educational materials and will have their medications assessed; recommendations for changes in the medications taken will be made when appropriate.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Medication Therapy Management (MTM): Participants will receive MTM in addition to the educational materials.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="44"/>
+                <participants group_id="P2" count="46"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="41"/>
+                <participants group_id="P2" count="44"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo</title>
+          <description>Participants enrolled into this arm will only receive educational materials, but will not receive specific recommendations to make changes to the medications they are taking.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Placebo: Participants will receive educational materials, but will not receive MTM.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+        </group>
+        <group group_id="B2">
+          <title>Medication Therapy Management (MTM)</title>
+          <description>Participants enrolled into this arm will receive educational materials and will have their medications assessed; recommendations for changes in the medications taken will be made when appropriate.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Medication Therapy Management (MTM): Participants will receive MTM in addition to the educational materials.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="44"/>
+            <count group_id="B2" value="46"/>
+            <count group_id="B3" value="90"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="74.1" spread="6.6"/>
+                    <measurement group_id="B2" value="73.4" spread="5.6"/>
+                    <measurement group_id="B3" value="73.9" spread="6.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="57"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="46"/>
+                    <measurement group_id="B3" value="90"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Standardized Uptake Value ratio</title>
+          <description>Quantitative SUVR determinations based on Aβ-PET imaging allow for the specification of amyloid burden as a continuous variable. We used predefined cut-off points at 1.2 and 1.4 to categorize amyloid burden. Values grater than 1.4 in the absence of cognitive impairment indicate a preclinical Alzheimer's Disease state.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>SUVr&lt;1.2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>1.2&lt;=SUVr&lt;1.4</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="34"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>SUVr&gt;=1.4</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Years of education</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16.4" spread="2.6"/>
+                    <measurement group_id="B2" value="16.5" spread="3.0"/>
+                    <measurement group_id="B3" value="16.5" spread="2.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Total number of medications</title>
+          <units>medications</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.9" spread="4.8"/>
+                    <measurement group_id="B2" value="12.7" spread="5.0"/>
+                    <measurement group_id="B3" value="12.8" spread="4.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of medications on 2015 Beers list</title>
+          <description>Beers criteria list medications that are considered potentially inappropriate for adults 65 years and older. The list is updated on a regular basis through expert panel review under the American Geriatrics Society.</description>
+          <units>medications</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2.2" spread="1.2"/>
+                    <measurement group_id="B2" value="2.5" spread="1.2"/>
+                    <measurement group_id="B3" value="2.4" spread="1.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Medication appropriateness index</title>
+          <description>The MAI rates medications as &quot;appropriate&quot;, &quot;marginally appropriate&quot;, or &quot;inappropriate&quot; based on ten criteria. All medications reported by study participants were evaluated by the study team and assigned a medication-specific MAI. As an outcome measure, the total MAI was obtained by adding the medication specific MAIs for all medications reported by the participant. Minimum score for one medication is 0 (appropriate) and the maximum is 18 (inappropriate for all criteria). Total MAI depends on the number of medications taken by participant.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10.6" spread="7.4"/>
+                    <measurement group_id="B2" value="13.5" spread="9.4"/>
+                    <measurement group_id="B3" value="12.1" spread="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Medication Appropriateness Index</title>
+        <description>Change from baseline to end of study. The Medication Appropriateness Index (MAI) rates medications as &quot;appropriate&quot;, &quot;marginally appropriate&quot;, or &quot;inappropriate&quot; based on ten criteria. All medications reported by study participants were evaluated by the study team and assigned a medication-specific MAI. As an outcome measure, the total MAI was obtained by adding the medication specific MAIs for all medications reported by the participant. Minimum score for one medication is 0 (appropriate) and the maximum is 18 (inappropriate for all criteria). Total MAI depends on the number of medications taken by participant. A decrease in MAI from baseline to end of study indicates improvement in medication appropriateness.</description>
+        <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Participants enrolled into this arm will only receive educational materials, but will not receive specific recommendations to make changes to the medications they are taking.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Placebo: Participants will receive educational materials, but will not receive MTM.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+          </group>
+          <group group_id="O2">
+            <title>Medication Therapy Management (MTM)</title>
+            <description>Participants enrolled into this arm will receive educational materials and will have their medications assessed; recommendations for changes in the medications taken will be made when appropriate.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Medication Therapy Management (MTM): Participants will receive MTM in addition to the educational materials.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Medication Appropriateness Index</title>
+          <description>Change from baseline to end of study. The Medication Appropriateness Index (MAI) rates medications as &quot;appropriate&quot;, &quot;marginally appropriate&quot;, or &quot;inappropriate&quot; based on ten criteria. All medications reported by study participants were evaluated by the study team and assigned a medication-specific MAI. As an outcome measure, the total MAI was obtained by adding the medication specific MAIs for all medications reported by the participant. Minimum score for one medication is 0 (appropriate) and the maximum is 18 (inappropriate for all criteria). Total MAI depends on the number of medications taken by participant. A decrease in MAI from baseline to end of study indicates improvement in medication appropriateness.</description>
+          <units>units on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="41"/>
+                <count group_id="O2" value="44"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.2" spread="0.6"/>
+                    <measurement group_id="O2" value="9.4" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Trail Making Test B With the Scopolamine Patch</title>
+        <description>End of study for Trail Making Test B with the scopolamine patch. The mean and standard used to compute the TMTB z-scores were taken from a sample of cognitively intact older adult research volunteers (Weintraub et al. 2009; mean = 90.3, SD = 50) (22). Z-scores were then multiplied by -1 to facilitate interpretation, since higher TMTB scores are worse. For the z-score, we converted time in seconds to units of standard deviations from a mean of 0, where 0 represents the mean performance of cognitively intact (normal) older adult research volunteers enrolled in longitudinal studies at Alzheimer's Disease Research Centers in the United States. Scores that are at least 1.5 standard deviations below the mean are indicative of potential cognitive impairment.</description>
+        <time_frame>baseline to end of study, an average of 1 year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Participants enrolled into this arm will only receive educational materials, but will not receive specific recommendations to make changes to the medications they are taking.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Placebo: Participants will receive educational materials, but will not receive MTM.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+          </group>
+          <group group_id="O2">
+            <title>Medication Therapy Management (MTM)</title>
+            <description>Participants enrolled into this arm will receive educational materials and will have their medications assessed; recommendations for changes in the medications taken will be made when appropriate.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Medication Therapy Management (MTM): Participants will receive MTM in addition to the educational materials.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Trail Making Test B With the Scopolamine Patch</title>
+          <description>End of study for Trail Making Test B with the scopolamine patch. The mean and standard used to compute the TMTB z-scores were taken from a sample of cognitively intact older adult research volunteers (Weintraub et al. 2009; mean = 90.3, SD = 50) (22). Z-scores were then multiplied by -1 to facilitate interpretation, since higher TMTB scores are worse. For the z-score, we converted time in seconds to units of standard deviations from a mean of 0, where 0 represents the mean performance of cognitively intact (normal) older adult research volunteers enrolled in longitudinal studies at Alzheimer's Disease Research Centers in the United States. Scores that are at least 1.5 standard deviations below the mean are indicative of potential cognitive impairment.</description>
+          <units>z-scores</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="40"/>
+                <count group_id="O2" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.1" spread="0.14"/>
+                    <measurement group_id="O2" value="0.03" spread="0.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cognitive Reserve: Montreal Cognitive Assessment</title>
+        <description>Change from baseline to end of study for Montreal Cognitive Assessment. Data analysis is currently underway for this secondary outcome.</description>
+        <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+        <posting_date>12/2022</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cognitive Reserve: California Verbal Learning Test</title>
+        <description>Change from baseline to end of study for California Verbal Learning test. Data analysis is currently underway for this secondary outcome.</description>
+        <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+        <posting_date>12/2022</posting_date>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Perceived Health Status</title>
+        <description>Change from baseline to end of study for Short Form Health Survey (SF-36). Data analysis is currently underway for this secondary outcome.</description>
+        <time_frame>change from baseline to end of study, an average of 1 year</time_frame>
+        <posting_date>12/2022</posting_date>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo</title>
+          <description>Participants enrolled into this arm will only receive educational materials, but will not receive specific recommendations to make changes to the medications they are taking.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Placebo: Participants will receive educational materials, but will not receive MTM.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+        </group>
+        <group group_id="E2">
+          <title>Medication Therapy Management (MTM)</title>
+          <description>Participants enrolled into this arm will receive educational materials and will have their medications assessed; recommendations for changes in the medications taken will be made when appropriate.&#xD;
+Cognitive testing at the beginning and the end of the study will be done with and without a scopolamine patch to reveal cognitive reserve.&#xD;
+Medication Therapy Management (MTM): Participants will receive MTM in addition to the educational materials.&#xD;
+Scopolamine patch: At the beginning and end of the study, participants will be asked to use a scopolamine patch. This patch is not being used to prevent motion sickness (as approved by the FDA), but instead is being used to challenge the participant's memory and thinking abilities and determine cognitive reserve.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="44"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="44"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Major cardiac event</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>GI emergencies</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infections</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Injurious fall</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Surgical complications</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+              <event>
+                <sub_title>Car accident</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Cancer</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Stroke</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="42" subjects_at_risk="44"/>
+                <counts group_id="E2" subjects_affected="41" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiovascular</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="44"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Auditory</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Visual</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="44"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>GI</sub_title>
+                <counts group_id="E1" events="26" subjects_affected="24" subjects_at_risk="44"/>
+                <counts group_id="E2" events="27" subjects_affected="27" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Other</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="44"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergies</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infections</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="9" subjects_at_risk="44"/>
+                <counts group_id="E2" events="8" subjects_affected="7" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Metabolic</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="44"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Musculoskeletal</sub_title>
+                <counts group_id="E1" events="16" subjects_affected="16" subjects_at_risk="44"/>
+                <counts group_id="E2" events="22" subjects_affected="21" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neurological</sub_title>
+                <counts group_id="E1" events="32" subjects_affected="28" subjects_at_risk="44"/>
+                <counts group_id="E2" events="34" subjects_affected="29" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal and GU</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="44"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pulmonary</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="44"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="44"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="46"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Daniela C Moga MD PhD, Associate Professor</name_or_title>
+      <organization>University of Kentucky</organization>
+      <phone>859-323-9682</phone>
+      <email>daniela.moga@uky.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

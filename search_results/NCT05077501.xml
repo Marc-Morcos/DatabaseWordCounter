@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1881">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05077501</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D2000CI-002</org_study_id>
+    <nct_id>NCT05077501</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of Multiple Ascending Doses of ACD856</brief_title>
+  <official_title>A Prospective, Phase I, Double-blind, Parallel-group, Placebo-controlled, Randomised Study Evaluating the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Multiple Ascending Oral Doses of ACD856 in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AlzeCure Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AlzeCure Pharma</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The multiple ascending dose (MAD) design of the study is based on the aim to study safety,&#xD;
+      tolerability, PK and pharmacodynamics of selected doses of ACD856 in a limited number of&#xD;
+      healthy volunteers.&#xD;
+&#xD;
+      ACD856 will be administered orally.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 29, 2021</start_date>
+  <completion_date type="Actual">May 23, 2022</completion_date>
+  <primary_completion_date type="Actual">May 16, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of adverse events (AEs)</measure>
+    <time_frame>16 days</time_frame>
+    <description>Number and percentage of subjects with adverse events (AEs).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinically significant changes in 12-lead ECGs</measure>
+    <time_frame>16 days</time_frame>
+    <description>Number of subjects and percentage of subjects with clinically significant changes in 12-lead ECGs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinically significant changes in vital signs</measure>
+    <time_frame>16 days</time_frame>
+    <description>Number of subjects and percentage of subjects with clinically significant changes in vital signs or stool frequency</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinically significant changes in hematology, clinical chemistry, coagulation and/or urinalysis parameters</measure>
+    <time_frame>16 days</time_frame>
+    <description>Number of subjects and percentage of subjects with clinically significant changes in any safety laboratory assessments.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinically significant changes in physical examinations</measure>
+    <time_frame>16 days</time_frame>
+    <description>Number of subjects and percentage of subjects with clinically significant changes in physical examinations</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GAD-7</measure>
+    <time_frame>16 days</time_frame>
+    <description>Change from baseline of GAD-7</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PHQ-9</measure>
+    <time_frame>16 days</time_frame>
+    <description>Change from baseline of PHQ-9</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>C-SSRS</measure>
+    <time_frame>16 days</time_frame>
+    <description>Change from baseline of C-SSRS</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prolactin</measure>
+    <time_frame>10 days</time_frame>
+    <description>Change from baseline of prolactin levels</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">24</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Cognition Disorder</condition>
+  <arm_group>
+    <arm_group_label>ACD856</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ACD856</intervention_name>
+    <description>Multiple daily oral doses of ACD856 will be administered for 7 days in an escalation scheme of dose 1, dose 2 and dose 3. The escalation schedule may be adapted based on evaluation by the internal Safety Review Committee.</description>
+    <arm_group_label>ACD856</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo oral solution</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed and dated informed consent prior to any study-mandated procedure.&#xD;
+&#xD;
+          -  Willing and able to comply with study requirements.&#xD;
+&#xD;
+          -  Healthy male or female adults of non-childbearing potential aged ≥ 18 and ≤ 65 years&#xD;
+             at screening.&#xD;
+&#xD;
+          -  Body mass index (BMI) ≥ 18.0 and ≤ 30.0 kg/m2 at screening.&#xD;
+&#xD;
+          -  Only subjects of non-childbearing potential may be included in the study. Male&#xD;
+             subjects with partners of childbearing potential must be willing to use condoms, be&#xD;
+             vasectomised or practice sexual abstinence to prevent pregnancy and drug exposure of a&#xD;
+             partner, as well as refrain from donating sperm from the date of dosing until 3 months&#xD;
+             after dosing with the IMP.&#xD;
+&#xD;
+          -  Clinically acceptable medical history, physical findings, vital signs, ECG and&#xD;
+             laboratory values at the time of screening, as judged by the Investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any exposure to ACD856 in the past.&#xD;
+&#xD;
+          -  Treatment with another investigational drug within 3 months prior to or during the&#xD;
+             study.&#xD;
+&#xD;
+          -  Positive screen for drugs of abuse or a positive alcohol result at screening or&#xD;
+             admission to the clinic.&#xD;
+&#xD;
+          -  Clinically relevant findings in laboratory parameters, ECG or vital signs at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Current smokers or subjects who use nicotine products.&#xD;
+&#xD;
+          -  History of alcohol abuse or excessive intake of alcohol.&#xD;
+&#xD;
+          -  History of, or current use of, anabolic steroids.&#xD;
+&#xD;
+          -  Excessive caffeine consumption.&#xD;
+&#xD;
+          -  Plasma donation or blood donation prior to screening.&#xD;
+&#xD;
+          -  Any planned night shift work within the duration of the study, from 48 h prior to&#xD;
+             randomisation until follow-up.&#xD;
+&#xD;
+          -  Any planned major surgery within the duration of the study.&#xD;
+&#xD;
+          -  Evidence of an active infection that requires treatment with antibiotics within 2&#xD;
+             weeks of planned dosing.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Johan Sandin, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>AlzeCure Pharma</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Uppsala University Hospital</name>
+      <address>
+        <city>Uppsala</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>October 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2021</study_first_posted>
+  <last_update_submitted>July 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 20, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Cognition Disorder</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognition Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

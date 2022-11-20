@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2028">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04626804</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2006294326</org_study_id>
+    <nct_id>NCT04626804</nct_id>
+  </id_info>
+  <brief_title>Remember Stuff: A Dyadic-focused Technology to Support Persons With Alzheimer's Disease in the Community</brief_title>
+  <acronym>R/S</acronym>
+  <official_title>Remember Stuff: A Dyadic-focused Technology to Support Persons With Alzheimer's Disease in the Community</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Test the usability, perceptions and acceptability of a computer monitor for participant&#xD;
+      diagnosed with ADRD and their caregiver who will program the applications specifically for&#xD;
+      each individual to help them remember activities of daily living. Goal is to keep&#xD;
+      participants in their homes longer and delay the need for institutional care&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dyads will use the R/S unit for 90 days, unless they request it to be removed prior to the&#xD;
+      end of the study. The research team (N. Fowler, PhD) will assess measures at baseline, 30&#xD;
+      days, 60 days and 90 days. The primary outcome is a caregiver-assessed measure usability.&#xD;
+      Secondary measures include patient- assessed usability, and objective measures of frequency&#xD;
+      and type of use and computer literacy for both caregiver and the individual with ADRD22.&#xD;
+      Methods to collect user data (frequency, clicks, etc.) will be collected using tools&#xD;
+      developed in Aim 2. Desired outcome measures include (1) a mean score of &gt;80 (&quot;Good&quot;) on the&#xD;
+      ten-item System Usability Scale (SUS) modified by IU investigators to accommodate older&#xD;
+      adults23; (2) a 80 percent acceptability rate on the Behavioral Intention 3-item scale; and,&#xD;
+      (3) at least 70 percent of participants using R/S a minimum of weekly. SUS is a validated&#xD;
+      ten-item scale (e.g., &quot;Learning to use RememberStuff® was quick for me&quot;) using a five-point&#xD;
+      response scale (strongly disagree to strongly agree). Acceptance will be assessed as the mean&#xD;
+      score on a 3-item Satisfaction scale (e.g., &quot;Rate your satisfied with RememberStuff®?&quot;). This&#xD;
+      scale was adapted by IU Investigators for health IT and uses a seven-point response scale&#xD;
+      from 0 (not at all) to 6 (a great deal). Satisfaction is one of the canonical assessments for&#xD;
+      user acceptance of technology. SUS and Satisfaction questionnaires will be&#xD;
+      researcher-administered by study staff either face-to-face in the participant's homes, or via&#xD;
+      telephone. The mean and standard deviation for the composite SUS, acceptability rate and&#xD;
+      weekly usage will be calculated to a 90% confidence interval. Other secondary measures are&#xD;
+      adapted from Holden et al and are guided by the UTAUT221. Mean caregiver scores on the&#xD;
+      measures will also be compared to mean scores of the patient measures to examine congruence&#xD;
+      in usability and acceptability within the dyad.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 27, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Actual">December 16, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>single dyadic group focused on determining acceptance and feasibility of the in home computer monitor individually programmed for each dyadic needs</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Usability</measure>
+    <time_frame>through study completion, an average of 4 months</time_frame>
+    <description>Satisfaction and use of the monitor and apps using the Usability Scale, a validated 10-item scale sithe items suchs as &quot;learning to use the calendar function was quick for me&quot;, using a 5 point response scale (0= strongly disagree to 5= strongly agree)&#xD;
+Usability Scale, a validated 10-item scale (e.g. &quot;Learning to use Calendar function was quick for me&quot; using a 5-point response scale (0=strongly disagree to 5= strongly agree)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptability</measure>
+    <time_frame>through study completion, an average of 4 months</time_frame>
+    <description>Acceptability satisfaction assessed by the VAS using a 3-item score: participants willingness to use &quot;Assuming I have access to this technology today, I would use it&quot;. Participants' willingness to use in the future &quot;I could imagine using this technology in the future&quot;. Perceived usefulness scale -Using this technology would be a relief for my daily care routine. &quot;Altogether I think this technology would be useful in my daily care routine. Perecived ease of use scale- Interacting with the technology would not require a lot of mental effort &quot;I think I would have the technology under control- Altogether I think the technology would be easy to use&quot;.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intention of Use</measure>
+    <time_frame>through study completion, an average of 4 months</time_frame>
+    <description>The Behavioral Intention scale (e.g., &quot;If it were up to you, to what extent would you want to use RememberStuff®?&quot;). The 4-item scale uses a 7-point response scale from 0 (not at all) to 6 (a great deal). Behavioral intention is the canonical assessment for user acceptance of technology</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance expectancy</measure>
+    <time_frame>through study completion, an average of 4 months</time_frame>
+    <description>7 items (e.g. &quot;Thinking about using RememberStuff® in the past 90 days, to what extent do you find it useful in your daily life?&quot;) that use a 7-point response scale from 0 (not at all) to 6 (a great deal). 3-5 Semi-structured and open-ended questions about experience using the technology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Computer literacy</measure>
+    <time_frame>through study completion, an average of 4 months</time_frame>
+    <description>The Computer Literacy Scale for Older Adults-12 (CLS-12)24 is a validated measure that assess frequency of 11 different computer related tasks including knowledge of symbols, terms related to computers and electronic devices, and internet use</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Dementia Severity Scale</measure>
+    <time_frame>through study completion, an average of 4 month</time_frame>
+    <description>validated tool measuring dementia severity at specific intervals of the study</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Anxiety</condition>
+  <condition>Depression</condition>
+  <condition>Caregiver Burnout</condition>
+  <condition>Anxiety Generalized</condition>
+  <arm_group>
+    <arm_group_label>1 Test the usability, perceptions, and acceptability of R/S</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dyads will use the R/S unit for 90 days, unless they request it to be removed prior to the end of the study. . The primary outcome is a caregiver-assessed measure usability.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Remember Stuff: A Dyadic-focused Technology to Support Persons with Alzheimer's Disease in the Community</intervention_name>
+    <description>testing the usability, perceptions, and acceptability of R/S among dyads of older adults with early Alzheimer's disease and other related dementias</description>
+    <arm_group_label>1 Test the usability, perceptions, and acceptability of R/S</arm_group_label>
+    <other_name>System Usability Scale</other_name>
+    <other_name>Participant Willingness to Use</other_name>
+    <other_name>The Behavioral Intention Scale</other_name>
+    <other_name>Performance Expectancy</other_name>
+    <other_name>Computer Literacy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patient Inclusion Criteria:&#xD;
+&#xD;
+          -  achieve a Montreal Cognitive Assessment (MoCA) score of 6-17 (mild to moderate&#xD;
+             dementia)&#xD;
+&#xD;
+          -  diagnosis of early Alzheimer's disease or related dementia or caregiver reports ADRD&#xD;
+             diagnosis (if community based recruitment)&#xD;
+&#xD;
+          -  provide identification of a caregiver (living with or otherwise involved in the&#xD;
+             ongoing care of the person with ADRD)&#xD;
+&#xD;
+          -  able to communicate in English&#xD;
+&#xD;
+          -  able to provide informed consent&#xD;
+&#xD;
+        Patient Exclusion Criteria:&#xD;
+&#xD;
+          -  lives in a nursing home or long term care facility or assisted living facility&#xD;
+&#xD;
+          -  do not pass the MoCA with a score between 6-17&#xD;
+&#xD;
+          -  unable to identify a caregiver&#xD;
+&#xD;
+          -  is limited by severe arthritis or other condition in the use of his/her hands&#xD;
+&#xD;
+        Caregiver Inclusion Criteria:&#xD;
+&#xD;
+          -  21 years or older&#xD;
+&#xD;
+          -  able to provide informed consent&#xD;
+&#xD;
+          -  able to communicate in English&#xD;
+&#xD;
+        Caregiver Exclusion Criteria:&#xD;
+&#xD;
+          -  under 21 years of age&#xD;
+&#xD;
+          -  does not have access to a computer/device&#xD;
+&#xD;
+          -  diagnosis of ADRD&#xD;
+&#xD;
+          -  diagnosis of serious mental illness (i.e. schizophrenia)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicole R Fowler, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>November 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 13, 2020</study_first_posted>
+  <last_update_submitted>August 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Nicole R. Fowler, PhD</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Caregiving</keyword>
+  <keyword>Caregiver</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>Telehealth</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>In future manuscripts, the authors will list contact information and state that the IPD is available upon request</ipd_description>
+    <ipd_time_frame>at the completion of the study, within 12 months</ipd_time_frame>
+    <ipd_access_criteria>at the completion of the study, within 12 months</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

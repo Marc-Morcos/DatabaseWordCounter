@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="863">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05582200</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PRO00030631</org_study_id>
+    <nct_id>NCT05582200</nct_id>
+  </id_info>
+  <brief_title>Selective PET Imaging of Astrocytes and Microglia in Alzheimer's Disease</brief_title>
+  <official_title>Selective PET Imaging of Astrocytes and Microglia in Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Methodist Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Methodist Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Inflammation occurs in many brain diseases including Alzheimer's disease. In Alzheimer's&#xD;
+      disease, amyloid starts accumulating decades before the start of forgetfulness. Basic&#xD;
+      scientists have reported that inflammation but not amyloid is linked to forgetfulness. When&#xD;
+      people pinch a finger, it gets swollen. Similar changes occur in brain from various causes.&#xD;
+      New medications are under development to help healing and prevent permanent damages in the&#xD;
+      brain. When people pinch a finger, they can check if the injury is healing or getting worse&#xD;
+      by watching. Investigators can watch inside of the brain using a special camera called&#xD;
+      positron emission tomography (PET). It is currently possible to watch inflammation in the&#xD;
+      brain by taking pictures of a molecule called translocator protein (TSPO). But the problem is&#xD;
+      that by imaging TSPO, investigators can catch changes in more than one kind of cells. The&#xD;
+      information is not specific to each cell type. Such vague information is not useful to&#xD;
+      monitor the effect of new medications for inflammation. This proposal attempts to develop a&#xD;
+      novel method to capture changes in each of two major players in inflammation, microglia and&#xD;
+      astrocytes. To do so, investigators will take selective pictures of one cell type by using a&#xD;
+      novel imaging agent for PET. Investigators will also take PET pictures of TSPO. Investigators&#xD;
+      will process these two kinds of PET pictures using advanced mathematical methods and extract&#xD;
+      specific information on microglia and astrocytes. Our novel method will be useful to monitor&#xD;
+      new therapies to treat inflammation in brain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Inflammation in brain plays critical roles in disease progress and symptom development in a&#xD;
+      number of brain disorders such as Alzheimer's disease (AD), traumatic brain injury, major&#xD;
+      depressive disorder, epilepsy, and schizophrenia. Neuroinflammation has been imaged using&#xD;
+      positron emission tomography (PET) by using translocator protein (TSPO) as the marker.&#xD;
+      Although TSPO PET studies have provided insight to understand the pathology, some results are&#xD;
+      difficult to interpret. TSPO imaging has a major limitation of not being selective to one&#xD;
+      type of glia; it is expressed by both microglia and astrocyte. The current study attempts to&#xD;
+      overcome this limitation. Monoamine oxidase type-B (MAO-B) is highly expressed by astrocyte&#xD;
+      and serotonin (5-HT)-releasing neurons but not by microglia. PET studies using a prototype&#xD;
+      tracer 11C-L-deprenyl detects astrogliosis in mild cognitive impairment (MCI) but this tracer&#xD;
+      has low levels of specific binding. Preliminary results show that a novel tracer 18F-SMBT-1&#xD;
+      developed by Dr. Okamura and his colleagues has several times greater levels of specific&#xD;
+      binding. The Aims of the current study are to 1) estimate radiation-absorbed doses in 8&#xD;
+      healthy people, 2) measure ratios of specific-to-nondisplaceable binding by performing brain&#xD;
+      scans with and without binding blockade in 5 patients with Alzheimer's disease, 3) measure&#xD;
+      reproducibility of measuring 18F-SMBT-1 in 8 healthy people, 4) compare MAO-B levels between&#xD;
+      healthy controls (n = 25) and patients with AD (n = 25), and 5) from 11C-ER176 for TSPO and&#xD;
+      18F-SMBT-1, extract cell type specific information for microglia and astrocytes and&#xD;
+      investigate changes in each cell type In AD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">October 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The level of monoamine oxidase-B</measure>
+    <time_frame>At the time of the PET scan</time_frame>
+    <description>Binding of PET tracer [F-18]SMBT-1 to monoamine oxidase-B</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The level of translocator protein</measure>
+    <time_frame>At the time of the PET scan</time_frame>
+    <description>Binding of PET tracer [C-11]ER176 to translocator protein</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">71</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Healthy subjects</arm_group_label>
+    <description>Healthy subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with Alzheimer's disease</arm_group_label>
+    <description>Patients with Alzheimer's disease</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Positron Emission Tomography (PET) using two PET tracer under IND</intervention_name>
+    <description>Positron Emission Tomography</description>
+    <arm_group_label>Healthy subjects</arm_group_label>
+    <arm_group_label>Patients with Alzheimer's disease</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy volunteers and patients with Alzheimer's disease&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Patients with Alzheimer's disease&#xD;
+&#xD;
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Individuals of either sex, 50-90 years of age.&#xD;
+&#xD;
+          -  Meeting research criteria for AD (McKhann, Knopman et al. 2011).&#xD;
+&#xD;
+          -  With a CDR (Morris 1993) score of 1-3.&#xD;
+&#xD;
+          -  Fluent in English or Spanish.&#xD;
+&#xD;
+          -  Have sufficient communication and comprehension ability to consent to the performance&#xD;
+             of the study or have a legally authorized representative.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Inability to undergo MRI or PET for any reason, including severe claustrophobia.&#xD;
+&#xD;
+          -  History of large stroke or brain trauma, multiple sclerosis or other brain disorder&#xD;
+             that, in the judgment of the PI may confound the study.&#xD;
+&#xD;
+          -  Pregnancy. In women in whom the possibility of pregnancy cannot be excluded, a&#xD;
+             pregnancy test must be performed on site the morning of any PET visit and a negative&#xD;
+             result together with a physician interview are required prior to the administration or&#xD;
+             any radiopharmaceutical.&#xD;
+&#xD;
+          -  Research radiation exposure greater than 50 mSv effective dose within 12 months&#xD;
+             including radiation exposure from this study.&#xD;
+&#xD;
+        Healthy volunteers:&#xD;
+&#xD;
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Individuals of 18-90 years of age.&#xD;
+&#xD;
+          -  Negative amyloid accumulation determined by PET (only for the comparison with AD).&#xD;
+&#xD;
+          -  Fluent in English.&#xD;
+&#xD;
+          -  Have enough communication and comprehension ability to consent to the performance of&#xD;
+             the study.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Inability to undergo MRI or PET for any reason, including severe claustrophobia.&#xD;
+&#xD;
+          -  Brain disorder, other than idiopathic headache.&#xD;
+&#xD;
+          -  Current primary Axis I or II psychiatric disorder.&#xD;
+&#xD;
+          -  Current use of psychotropic or anti-epileptic medication.&#xD;
+&#xD;
+          -  Substance abuse during the past two years.&#xD;
+&#xD;
+          -  Active cancer, metabolic encephalopathy, infection, cardiovascular disease.&#xD;
+&#xD;
+          -  Active hematological, renal, pulmonary, endocrine or hepatic disorders, except for&#xD;
+             treated thyroid disease.&#xD;
+&#xD;
+          -  Pregnancy. In women in whom the possibility of pregnancy cannot be excluded, a&#xD;
+             pregnancy test must be performed on site the morning of any PET visit and a negative&#xD;
+             result together with a physician interview are required prior to the administration or&#xD;
+             any radiopharmaceutical&#xD;
+&#xD;
+          -  Research radiation exposure greater than 50 mSv effective dose within 12 months&#xD;
+             including radiation exposure from this study.&#xD;
+&#xD;
+          -  Only for the subjects undergoing the blocked scan with selegiline: known&#xD;
+             contraindications to selegiline, including hypersensitivity to the drug and use of&#xD;
+             opioids, such as meperidine and some antidepressants such as bupropion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Masahiro Fujita</last_name>
+    <phone>7134410803</phone>
+    <email>mfujita@houstonmethodist.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Johnavon Linton</last_name>
+    <email>jlinton2@houstonmethodist.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Houston Methodist Research Institute</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 7, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 17, 2022</study_first_posted>
+  <last_update_submitted>October 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

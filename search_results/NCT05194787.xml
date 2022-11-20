@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1323">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05194787</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H0021660</org_study_id>
+    <nct_id>NCT05194787</nct_id>
+  </id_info>
+  <brief_title>TAS Test: Online Motor-cognitive Tests for Early Detection of Alzheimer's Disease</brief_title>
+  <acronym>TASTest</acronym>
+  <official_title>TAS Test: Determining the Feasibility and Validity of Online Motor-cognitive Testing for Early Detection of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Tasmania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Health and Medical Research Council, Australia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Sydney</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Leeds</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Tasmania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Global dementia prevalence is rising. Alzheimer's disease (AD), the most common cause, has&#xD;
+      devastating effects on people's quality of life. AD has a preclinical (pre-AD) period of&#xD;
+      10-20 years when brain pathology silently progresses before any cognitive symptoms appear.&#xD;
+      Current tests for pre-AD are invasive, costly and unsuitable for screening at population&#xD;
+      level. Similar to screening for pre-diabetes and carcinoma in situ, it is important to detect&#xD;
+      AD at the preclinical stage in order to offer early interventions before the pathology&#xD;
+      progresses to the irrerversible degenerative stage. In the study, research will develop a new&#xD;
+      scalable test (TAS Test) by combining two innovative ideas: hand-movement tests to detect&#xD;
+      pre-AD &gt;10 years before cognitive symptoms begin; and computer vision so people can&#xD;
+      &quot;self-test&quot; online using home computers. This unique approach builds on recent discoveries&#xD;
+      that hand-movement patterns change in pre-AD. The research team will use exquisitely precise&#xD;
+      computer vision methods to automatically analyse movement data from thousands of&#xD;
+      participants, and combine this with machine learning of overall motor-cognitive performance.&#xD;
+      The project team has access to 3 well-phenotyped cohorts, &gt;10,000 existing participants and a&#xD;
+      cutting-edge assay for a blood AD biomarker, ptau181. The research team will develop a TAS&#xD;
+      Test algorithm to classify hand-movement and cognitive test data for pre-AD risk (p-taua181&#xD;
+      levels) and determine TAS Test's precision to prospectively predict 5-year risks of cognitive&#xD;
+      decline and AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sub-study 1: Cross-sectional study design: From two established cohorts with pre-existing&#xD;
+      datasets of up to 10 years of longitudinal cognitive, genetic and demographic data, the team&#xD;
+      will recruit 500 participants over 50 years old who are confirmed to have normal cognition.&#xD;
+      At baseline and months 3 and 6, the participants will be invited to complete TAS Test online&#xD;
+      at home, or in the research centre if preferred. The participants will also have a baseline&#xD;
+      blood test for ptau181 levels (and APOE4 if required). The research team will integrate&#xD;
+      movement data to develop a multivariable model that discriminates between pre-AD (positive&#xD;
+      p-tau181) and normal cognitive ageing (negative p-tau181).&#xD;
+&#xD;
+      Sub-study 2: Prospective 5-year cohort study design: The researchers will invite 10,000&#xD;
+      adults from an established long-term (ISLAND Project) cohort to complete online tests at&#xD;
+      home: (i) TAS Test every 6 months, and (ii) Cambridge Neuropsychological Test Automated&#xD;
+      Battery (CANTAB) cognitive tests every 24 months. The prospective 'high risk' predictions of&#xD;
+      TAS Test at baseline will be validated against CANTAB scores, and also clinically (face to&#xD;
+      face gold standard consensus diagnosis of AD vs MCI vs normal) in a subsample of 300.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 5, 2021</start_date>
+  <completion_date type="Anticipated">December 2030</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Develop and validate the optimal TAS Test protocol to detect pre-AD (p-tau 181 positivity)</measure>
+    <time_frame>3 years</time_frame>
+    <description>Receiver Operating Characteristic (ROC) curves will be plotted against the positive p-tau181 cut-off to assess the sensitivity/specificity of TAS Test models to identify the pre-AD stage.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prospectively validate TAS Test to predict risks of cognitive decline</measure>
+    <time_frame>5 years</time_frame>
+    <description>Assess the sensitivity and specificity of TAS Test to predict cognitive trajectories (CANTAB scores) &quot;stable&quot; and &quot;declining&quot; using ROC curve analysis.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prospectively validate TAS Test to predict risks of AD diagnosis</measure>
+    <time_frame>5 years</time_frame>
+    <description>Multinomial logistic regression will estimate the (covariate adjusted) log-odds of being in each diagnostic category (AD, MCI and normal) at 5 years as predicted by baseline TAS Test results.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Age-related Cognitive Decline</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Cognitive test scores, clinical diagnosis and blood biomarkers</intervention_name>
+    <description>Clinical diagnosis of Alzheimer's disease, mild cognitive impairment or normal ageing.&#xD;
+Cognitive test score on CANTAB Blood biomarker (p-tau 181) level</description>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples for p-tau 181 and APOE4&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Currently focused on adults aged &gt; 50 years in established cohort studies in Australia: ie&#xD;
+        participants from Tasmanian Healthy Brain Project, Healthy Brain and Ageing project or&#xD;
+        ISLAND Project.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: &gt; 50years old&#xD;
+&#xD;
+        Exclusion Criteria: established diagnosis of dementia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Prof Vickers, PhD DSc</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Tasmania</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>A/Prof Bai, PhD MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Tasmania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>A/Prof Alty, MD FRACP</last_name>
+    <phone>+61 (0)3 36226 4273</phone>
+    <email>Jane.Alty@utas.edu.au</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Tasmania</name>
+      <address>
+        <city>Hobart</city>
+        <state>Tasmania</state>
+        <zip>7001</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>A/Prof Alty, MD FRACP</last_name>
+      <phone>+61 (0)3 36226 4273</phone>
+      <email>Jane.Alty@utas.edu.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Prof Vickers, PhD DSc</last_name>
+      <phone>+61 3 6226 4808</phone>
+      <email>James.Vickers@utas.edu.au</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <link>
+    <url>https://www.utas.edu.au/profiles/staff/health/jane-alty</url>
+    <description>University profile for Principal Investigator</description>
+  </link>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>December 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 18, 2022</study_first_posted>
+  <last_update_submitted>January 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Tasmania</investigator_affiliation>
+    <investigator_full_name>Jane Alty</investigator_full_name>
+    <investigator_title>Associate Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>pre-clinical</keyword>
+  <keyword>early detection</keyword>
+  <keyword>online tests</keyword>
+  <keyword>Artificial intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

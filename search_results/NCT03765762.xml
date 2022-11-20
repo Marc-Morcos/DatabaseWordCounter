@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="528">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03765762</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Alkahest study 6019-202</org_study_id>
+    <nct_id>NCT03765762</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Safety of GRF6019 Infusions in Subjects With Severe Alzheimer's Disease</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled Study to Assess the Safety and Tolerability of Pulsed GRF6019 Infusions in Subjects With Severe Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alkahest, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Alkahest, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the safety, tolerability, and potential cognitive benefit of the&#xD;
+      experimental treatment GRF6019 in subjects with severe Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled study to assess the safety,&#xD;
+      tolerability and potential cognitive benefit of GRF6019, a human plasma protein fraction.&#xD;
+      GRF6019 or placebo will be administered intravenously to subjects with severe Alzheimer's&#xD;
+      disease every day for 5 consecutive days. The total study duration for each subject is&#xD;
+      approximately 9 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 15, 2019</start_date>
+  <completion_date type="Actual">December 17, 2019</completion_date>
+  <primary_completion_date type="Actual">December 17, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of Treatment-emergent Adverse Events (Safety)</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Number of Subjects with at Least One Treatment-emergent adverse event by MedDRA preferred term and grouped by MedDRA System Organ Class</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability of GRF6019</measure>
+    <time_frame>5 weeks</time_frame>
+    <description>Tolerability of treatment defined by the number of subjects completing 4 weeks of study after receiving 5 daily infusions</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The Mini-Mental State Examination (MMSE) Score</measure>
+    <time_frame>Baseline and 5 weeks</time_frame>
+    <description>Mean change from Baseline to 5 Weeks in the Mini-Mental State Examination (MMSE) score. The MMSE consists of 5 components: orientation to time and place, registration of 3 words, attention and calculation, recall of 3 words, and language. The scores from the 5 components are summed to obtain the overall MMSE total score. The MMSE total score can range from 0 to 30, with higher scores indicating better mental status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severe Impairment Battery (SIB) Total Score</measure>
+    <time_frame>Baseline and 5 weeks</time_frame>
+    <description>Mean change from baseline in the SIB total score. The SIB assesses cognition; test questions measure orientation, attention, language, praxis, visuospatial perception, construction, memory, orientation to name, and social interaction. There are 57 items and the range of possible scores is 0-133. Lower scores indicate greater cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study Group Activities of Daily Living Inventory for Severe Alzheimer's Disease (ADCS-ADL-Severe)</measure>
+    <time_frame>Baseline and 5 weeks</time_frame>
+    <description>Mean change from baseline in the ADCS-ADL-Severe score. The ADCS-ADL-Severe contains 19 items covering physical and mental functioning and independence in self-care and assesses the competence in performing basic activities of daily living. The scores range from 0 to 54, with higher scores indicating less functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study - Clinical Global Impression of Change Plus Caregiver Input (ADCS-CGIC)</measure>
+    <time_frame>Baseline and 5 weeks</time_frame>
+    <description>Mean ADCS-CGIC score. A CGIC score is based on clinicians' observations of change in the subject's cognitive, functional, and behavioral performance since the beginning of a trial. The ADCS-CGIC is a rating of change and not of severity. It provides a semi structured format to enable clinicians to gather necessary clinical information from both the subject and informant to make a global impression of change. After completing the interviews, the clinician records the clinical impression of change on a 7-point Likert-type scale (from marked improvement to marked worsening). A score of 4 indicates no change, while scores &gt; 4 indicate worsening and scores &lt; 4 indicate improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Inventory Nursing Home (NPI-NH) Total Score</measure>
+    <time_frame>Baseline and 5 weeks</time_frame>
+    <description>Mean change from Baseline to 5 weeks in the NPI-NH total score. The NPI-NH is a questionnaire that quantifies behavioral changes in dementia in nursing home patients and evaluates 12 behavioral domains (Delusions, Hallucinations, Agitation/Aggression, Depression/Dysphoria, Anxiety, Elation/Euphoria, Apathy/Indifference, Disinhibition, Irritability/Lability, Aberrant Motor Behavior, Sleep and Nighttime Behavior Disorders, Appetite/Eating Changes). For each of the 12 behavioral domains the Frequency (scale:1=occasionally to 4=very frequently) is multiplied by the Severity (scale:1=Mild to 3=Severe) to obtain a domain score (frequency x severity), with a possible summed total score of 0 to 144. Lower scores correspond to less severity. A negative change score from baseline indicates improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Inventory (NPI) Caregiver Total Score</measure>
+    <time_frame>Baseline and 5 weeks</time_frame>
+    <description>Mean change from Baseline to 5 Weeks in NPI Total Score. NPI is based on responses from the informed caregiver during an interview. It consists of 12 sub-domains (Delusions, Hallucinations, Agitation/Aggression, Dysphoria/Depression, Anxiety, Euphoria/Elation, Apathy/Indifference, Disinhibition, Irritability/Lability, Aberrant Motor, Nighttime Behavior, Appetite/Eating). For each of the 12 behavioral domains the Distress (scale:0=Not distressing at all to 5=Extreme) is multiplied by the Severity (scale:1=Mild to 3=Severe) to obtain a domain score (distress x severity), with a possible summed total score of 0 to 180. Lower scores correspond to less severity. A negative change score from baseline indicates improvement.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Severe Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>GRF6019</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive intravenously 250 mL of GRF6019 each day for 5 consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will receive intravenously 250 mL of placebo each day for 5 consecutive days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GRF6019</intervention_name>
+    <description>GRF6019 for IV infusion</description>
+    <arm_group_label>GRF6019</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo for IV infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Normal Saline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of probable AD according to the National Institute on Aging-Alzheimer's&#xD;
+             Association (NIA-AA) Criteria&#xD;
+&#xD;
+          -  MMSE Score 0-10 inclusive&#xD;
+&#xD;
+          -  Modified Hachinski Ischemia Scale (MHIS) score of 4 or less&#xD;
+&#xD;
+          -  Provided a signed and dated informed consent form (either the subject and/or subject's&#xD;
+             legal representative)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of clinically relevant neurological disorder(s) other than probable AD&#xD;
+&#xD;
+          -  History of blood coagulation disorders or hypercoagulability; any concurrent use of an&#xD;
+             anticoagulant therapy. (e.g., heparin, warfarin, thrombin inhibitors, Factor Xa&#xD;
+             inhibitors). Use of antiplatelet drugs (e.g., aspirin or clopidogrel) is acceptable.&#xD;
+&#xD;
+          -  Unstable coronary heart disease, e.g. myocardial infarction or severe or unstable&#xD;
+             angina in the 6 months prior to dosing.&#xD;
+&#xD;
+          -  Moderate to severe congestive heart failure (New York Association Class III or IV).&#xD;
+&#xD;
+          -  Poorly controlled high blood pressure (systolic blood pressure of 160 mmHg or higher&#xD;
+             and/or diastolic blood pressure of 100 mmHg or higher) despite treatment during the 3&#xD;
+             months prior to dosing, or treatment refractory high blood pressure, defined as&#xD;
+             treatment requiring 3 or more antihypertensives from different classes.&#xD;
+&#xD;
+          -  Prior hypersensitivity reaction to any human blood product or intravenous infusion;&#xD;
+             any known clinically significant drug allergy.&#xD;
+&#xD;
+          -  Treatment with any human blood product, including transfusions and intravenous&#xD;
+             immunoglobulin, during the 6 months prior to screening.&#xD;
+&#xD;
+          -  History of immunoglobulin A (IgA), haptoglobulin or C1 inhibitor deficiency; stroke,&#xD;
+             anaphylaxis, or thromboembolic complications of intravenous immunoglobulins.&#xD;
+&#xD;
+          -  Hemoglobin &lt;10 g/dL in women; and &lt;11 g/dL in men.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alkahest Program Physician</last_name>
+    <role>Study Director</role>
+    <affiliation>Alkahest, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cognitive Clinical Trials</name>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85297</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cognitive Clinical Trials</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cognitive Clinical Trials</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Riverside Clinical Research</name>
+      <address>
+        <city>Edgewater</city>
+        <state>Florida</state>
+        <zip>32132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bio Behavioral Health</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2019</verification_date>
+  <study_first_submitted>November 29, 2018</study_first_submitted>
+  <study_first_submitted_qc>December 4, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 5, 2018</study_first_posted>
+  <results_first_submitted>December 11, 2020</results_first_submitted>
+  <results_first_submitted_qc>January 8, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 27, 2021</results_first_posted>
+  <last_update_submitted>January 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Brain Diseases</keyword>
+  <keyword>Nervous System Diseases</keyword>
+  <keyword>Central Nervous System Diseases</keyword>
+  <keyword>Neurodegenerative Diseases</keyword>
+  <keyword>Neurocognitive Disorders</keyword>
+  <keyword>Mental Disorders</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Tauopathy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 10, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/62/NCT03765762/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 11, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/62/NCT03765762/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>GRF6019</title>
+          <description>GRF6019 250 mL IV for 5 consecutive days</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Placebo 250 mL IV for 5 consecutive days</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="18"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>GRF6019</title>
+          <description>GRF6019 250 mL IV for 5 consecutive days</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Placebo 250 mL IV for 5 consecutive days</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="18"/>
+            <count group_id="B2" value="8"/>
+            <count group_id="B3" value="26"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75.2" spread="8.25"/>
+                    <measurement group_id="B2" value="69.5" spread="8.12"/>
+                    <measurement group_id="B3" value="73.5" spread="8.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Duration of Alzheimer's Disease</title>
+          <description>Years of Alzheimer's Disease Duration calculated from Medical History Year of Diagnosis to Year of Informed Consent</description>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5.0" spread="1.81"/>
+                    <measurement group_id="B2" value="6.0" spread="3.59"/>
+                    <measurement group_id="B3" value="5.3" spread="2.46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Frequency of Treatment-emergent Adverse Events (Safety)</title>
+        <description>Number of Subjects with at Least One Treatment-emergent adverse event by MedDRA preferred term and grouped by MedDRA System Organ Class</description>
+        <time_frame>5 weeks</time_frame>
+        <population>Safety: All subjects who received any amount of study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Frequency of Treatment-emergent Adverse Events (Safety)</title>
+          <description>Number of Subjects with at Least One Treatment-emergent adverse event by MedDRA preferred term and grouped by MedDRA System Organ Class</description>
+          <population>Safety: All subjects who received any amount of study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Tolerability of GRF6019</title>
+        <description>Tolerability of treatment defined by the number of subjects completing 4 weeks of study after receiving 5 daily infusions</description>
+        <time_frame>5 weeks</time_frame>
+        <population>Safety: All subjects who received any amount of study treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Tolerability of GRF6019</title>
+          <description>Tolerability of treatment defined by the number of subjects completing 4 weeks of study after receiving 5 daily infusions</description>
+          <population>Safety: All subjects who received any amount of study treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="18"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Mini-Mental State Examination (MMSE) Score</title>
+        <description>Mean change from Baseline to 5 Weeks in the Mini-Mental State Examination (MMSE) score. The MMSE consists of 5 components: orientation to time and place, registration of 3 words, attention and calculation, recall of 3 words, and language. The scores from the 5 components are summed to obtain the overall MMSE total score. The MMSE total score can range from 0 to 30, with higher scores indicating better mental status.</description>
+        <time_frame>Baseline and 5 weeks</time_frame>
+        <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Mini-Mental State Examination (MMSE) Score</title>
+          <description>Mean change from Baseline to 5 Weeks in the Mini-Mental State Examination (MMSE) score. The MMSE consists of 5 components: orientation to time and place, registration of 3 words, attention and calculation, recall of 3 words, and language. The scores from the 5 components are summed to obtain the overall MMSE total score. The MMSE total score can range from 0 to 30, with higher scores indicating better mental status.</description>
+          <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.3" spread="3.53"/>
+                    <measurement group_id="O2" value="1.8" spread="3.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Severe Impairment Battery (SIB) Total Score</title>
+        <description>Mean change from baseline in the SIB total score. The SIB assesses cognition; test questions measure orientation, attention, language, praxis, visuospatial perception, construction, memory, orientation to name, and social interaction. There are 57 items and the range of possible scores is 0-133. Lower scores indicate greater cognitive impairment.</description>
+        <time_frame>Baseline and 5 weeks</time_frame>
+        <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Severe Impairment Battery (SIB) Total Score</title>
+          <description>Mean change from baseline in the SIB total score. The SIB assesses cognition; test questions measure orientation, attention, language, praxis, visuospatial perception, construction, memory, orientation to name, and social interaction. There are 57 items and the range of possible scores is 0-133. Lower scores indicate greater cognitive impairment.</description>
+          <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.7" spread="7.59"/>
+                    <measurement group_id="O2" value="10.4" spread="4.93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Alzheimer's Disease Cooperative Study Group Activities of Daily Living Inventory for Severe Alzheimer's Disease (ADCS-ADL-Severe)</title>
+        <description>Mean change from baseline in the ADCS-ADL-Severe score. The ADCS-ADL-Severe contains 19 items covering physical and mental functioning and independence in self-care and assesses the competence in performing basic activities of daily living. The scores range from 0 to 54, with higher scores indicating less functional impairment.</description>
+        <time_frame>Baseline and 5 weeks</time_frame>
+        <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Alzheimer's Disease Cooperative Study Group Activities of Daily Living Inventory for Severe Alzheimer's Disease (ADCS-ADL-Severe)</title>
+          <description>Mean change from baseline in the ADCS-ADL-Severe score. The ADCS-ADL-Severe contains 19 items covering physical and mental functioning and independence in self-care and assesses the competence in performing basic activities of daily living. The scores range from 0 to 54, with higher scores indicating less functional impairment.</description>
+          <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.6" spread="5.05"/>
+                    <measurement group_id="O2" value="0.5" spread="4.93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Alzheimer's Disease Cooperative Study - Clinical Global Impression of Change Plus Caregiver Input (ADCS-CGIC)</title>
+        <description>Mean ADCS-CGIC score. A CGIC score is based on clinicians' observations of change in the subject's cognitive, functional, and behavioral performance since the beginning of a trial. The ADCS-CGIC is a rating of change and not of severity. It provides a semi structured format to enable clinicians to gather necessary clinical information from both the subject and informant to make a global impression of change. After completing the interviews, the clinician records the clinical impression of change on a 7-point Likert-type scale (from marked improvement to marked worsening). A score of 4 indicates no change, while scores &gt; 4 indicate worsening and scores &lt; 4 indicate improvement.</description>
+        <time_frame>Baseline and 5 weeks</time_frame>
+        <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Alzheimer's Disease Cooperative Study - Clinical Global Impression of Change Plus Caregiver Input (ADCS-CGIC)</title>
+          <description>Mean ADCS-CGIC score. A CGIC score is based on clinicians' observations of change in the subject's cognitive, functional, and behavioral performance since the beginning of a trial. The ADCS-CGIC is a rating of change and not of severity. It provides a semi structured format to enable clinicians to gather necessary clinical information from both the subject and informant to make a global impression of change. After completing the interviews, the clinician records the clinical impression of change on a 7-point Likert-type scale (from marked improvement to marked worsening). A score of 4 indicates no change, while scores &gt; 4 indicate worsening and scores &lt; 4 indicate improvement.</description>
+          <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.9" spread="0.83"/>
+                    <measurement group_id="O2" value="4.0" spread="0.76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Neuropsychiatric Inventory Nursing Home (NPI-NH) Total Score</title>
+        <description>Mean change from Baseline to 5 weeks in the NPI-NH total score. The NPI-NH is a questionnaire that quantifies behavioral changes in dementia in nursing home patients and evaluates 12 behavioral domains (Delusions, Hallucinations, Agitation/Aggression, Depression/Dysphoria, Anxiety, Elation/Euphoria, Apathy/Indifference, Disinhibition, Irritability/Lability, Aberrant Motor Behavior, Sleep and Nighttime Behavior Disorders, Appetite/Eating Changes). For each of the 12 behavioral domains the Frequency (scale:1=occasionally to 4=very frequently) is multiplied by the Severity (scale:1=Mild to 3=Severe) to obtain a domain score (frequency x severity), with a possible summed total score of 0 to 144. Lower scores correspond to less severity. A negative change score from baseline indicates improvement.</description>
+        <time_frame>Baseline and 5 weeks</time_frame>
+        <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Neuropsychiatric Inventory Nursing Home (NPI-NH) Total Score</title>
+          <description>Mean change from Baseline to 5 weeks in the NPI-NH total score. The NPI-NH is a questionnaire that quantifies behavioral changes in dementia in nursing home patients and evaluates 12 behavioral domains (Delusions, Hallucinations, Agitation/Aggression, Depression/Dysphoria, Anxiety, Elation/Euphoria, Apathy/Indifference, Disinhibition, Irritability/Lability, Aberrant Motor Behavior, Sleep and Nighttime Behavior Disorders, Appetite/Eating Changes). For each of the 12 behavioral domains the Frequency (scale:1=occasionally to 4=very frequently) is multiplied by the Severity (scale:1=Mild to 3=Severe) to obtain a domain score (frequency x severity), with a possible summed total score of 0 to 144. Lower scores correspond to less severity. A negative change score from baseline indicates improvement.</description>
+          <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-7.0" spread="19.16"/>
+                    <measurement group_id="O2" value="-20.0" spread="5.66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Neuropsychiatric Inventory (NPI) Caregiver Total Score</title>
+        <description>Mean change from Baseline to 5 Weeks in NPI Total Score. NPI is based on responses from the informed caregiver during an interview. It consists of 12 sub-domains (Delusions, Hallucinations, Agitation/Aggression, Dysphoria/Depression, Anxiety, Euphoria/Elation, Apathy/Indifference, Disinhibition, Irritability/Lability, Aberrant Motor, Nighttime Behavior, Appetite/Eating). For each of the 12 behavioral domains the Distress (scale:0=Not distressing at all to 5=Extreme) is multiplied by the Severity (scale:1=Mild to 3=Severe) to obtain a domain score (distress x severity), with a possible summed total score of 0 to 180. Lower scores correspond to less severity. A negative change score from baseline indicates improvement.</description>
+        <time_frame>Baseline and 5 weeks</time_frame>
+        <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+        <group_list>
+          <group group_id="O1">
+            <title>GRF6019</title>
+            <description>GRF6019 250 mL IV for 5 consecutive days</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Placebo 250 mL IV for 5 consecutive days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Neuropsychiatric Inventory (NPI) Caregiver Total Score</title>
+          <description>Mean change from Baseline to 5 Weeks in NPI Total Score. NPI is based on responses from the informed caregiver during an interview. It consists of 12 sub-domains (Delusions, Hallucinations, Agitation/Aggression, Dysphoria/Depression, Anxiety, Euphoria/Elation, Apathy/Indifference, Disinhibition, Irritability/Lability, Aberrant Motor, Nighttime Behavior, Appetite/Eating). For each of the 12 behavioral domains the Distress (scale:0=Not distressing at all to 5=Extreme) is multiplied by the Severity (scale:1=Mild to 3=Severe) to obtain a domain score (distress x severity), with a possible summed total score of 0 to 180. Lower scores correspond to less severity. A negative change score from baseline indicates improvement.</description>
+          <population>Evaluable: Subjects who received at least 4 of the 5 planned infusions</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-3.7" spread="11.60"/>
+                    <measurement group_id="O2" value="1.5" spread="4.32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>5 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>GRF6019</title>
+          <description>GRF6019 250 mL IV for 5 consecutive days</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Placebo 250 mL IV for 5 consecutive days</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 21.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="18"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sinus bradycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="18"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Oedema</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Injection site swelling</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Blood creatinine phosphokinase increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Blood pressure increased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="18"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Tooth extraction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="18"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="8"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="18"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="8"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The Clinical Trial Agreement contains language that restricts the PI from discussing or publishing Sponsor confidential and/or proprietary information. The embargo period may be extended by mutual agreement of the Sponsor and PI.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Head of Communications</name_or_title>
+      <organization>Alkahest, Inc.</organization>
+      <phone>(650) 801-0474</phone>
+      <email>info@alkahest.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

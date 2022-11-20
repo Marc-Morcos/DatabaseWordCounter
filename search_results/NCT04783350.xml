@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2026">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04783350</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00044646</org_study_id>
+    <nct_id>NCT04783350</nct_id>
+  </id_info>
+  <brief_title>Home-based Brain Stimulation for Memory</brief_title>
+  <acronym>MemStim-home</acronym>
+  <official_title>Home-based Transcranial Alternating Current Stimulation (tACS) for Older Adults at Risk of Memory Decline</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hebrew SeniorLife</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hebrew SeniorLife</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed project aims to systematically examine the feasibility of remote, caregiver-led&#xD;
+      tACS for older adults who are vulnerable to memory decline.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a feasibility study, which will include older adult participants (Ps) with memory&#xD;
+      deficits together with willing and able administrators (As) to administer tACS to the&#xD;
+      participants. This study will include 20 older Ps and 20 As to assess the feasibility of&#xD;
+      deploying home-based tACS in larger clinical trials, and to prepare for the development and&#xD;
+      implementation of such trials. The proposed project will systematically examine the&#xD;
+      feasibility of remote, caregiver-led tACS for older adults who are vulnerable to memory&#xD;
+      decline. This study will provide data to support the safety and effectiveness of home-based&#xD;
+      tACS in this population and will lead to future research to increase access of tACS as a part&#xD;
+      of memory decline prevention and treatment for older adults who have more difficulty reaching&#xD;
+      a clinic for treatment due to disability or who live more remotely.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 6, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Evaluation and Cognitive Assessment</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>a trained clinician will administer the Montreal Cognitive Assessment (MOCA) to characterize cognitive status and the level of dementia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Electroencephalography (EEG) measures</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>High-density EEG (257 channels) will be recorded before and after the tACS intervention and changes in spatiotemporal dynamics in different frequency bands (theta, alpha, beta, gamma) will be assessed</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Memory Loss</condition>
+  <arm_group>
+    <arm_group_label>Transcranial alternating current stimulation (tACS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (Ps) will undergo 20min of daily home-based tACS intervention at 40Hz over the left angular gyrus for 4 weeks by trained administrators (As) (phase 1). In case of cognitive and mental improvement participants will undergo further 10 weeks of 20 minutes session of tACS daily (phase 2). Additionally, those P/A pairs who completed the 14 weeks of home-based tACS intervention and express an interest in an open label extension may be enrolled in further 34 weeks of 20 minutes tACS sessions.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transcranial alternating current stimulation (tACS)</intervention_name>
+    <description>tACS will be administered to the left angular gyrus at gamma frequency to improve cognitive functioning (MoCA score) and resting-state EEG signatures.</description>
+    <arm_group_label>Transcranial alternating current stimulation (tACS)</arm_group_label>
+    <other_name>non-invasive brain stimulation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participants (Ps)&#xD;
+&#xD;
+          -  willing and capable to give informed consent for the participation in the study after&#xD;
+             it has been thoroughly explained&#xD;
+&#xD;
+          -  able and willing to comply with all study requirements&#xD;
+&#xD;
+          -  an informed consent form was signed&#xD;
+&#xD;
+          -  able to read, write, and communicate in English&#xD;
+&#xD;
+          -  able to identify an eligible administrator to participate with them in the study&#xD;
+&#xD;
+        Administrators (As)&#xD;
+&#xD;
+          -  at least 21 years of age&#xD;
+&#xD;
+          -  able to read, write, and communicate in English&#xD;
+&#xD;
+          -  self-reported computer proficiency and willingness to learn how to use tACS as defined&#xD;
+             by &quot;yes&quot; answers to the questions &quot;Do you feel comfortable using a computer?&quot; and &quot;Are&#xD;
+             you willing to be the primary caregiver for a participant and learn how to administer&#xD;
+             tACS?&quot;&#xD;
+&#xD;
+          -  stated availability during weekdays throughout the study period to administer tACS to&#xD;
+             the Ps&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants (Ps)&#xD;
+&#xD;
+          -  major psychiatric co-morbidity including major depressive disorder, schizophrenia or&#xD;
+             psychosis&#xD;
+&#xD;
+          -  blindness or other disabilities that prevent task performance&#xD;
+&#xD;
+          -  contraindications to tACS, as recorded on a standardized screening questionnaire,&#xD;
+             which include a reported seizure within the past two years, use of neuroactive drugs,&#xD;
+             self-reported presence of specific implanted medical devices (e.g., deep brain&#xD;
+             stimulator, medication infusion pump, cochlear implant, pacemaker, etc.)&#xD;
+&#xD;
+          -  the presence of any active dermatological condition, such as eczema, on the scalp a&#xD;
+             score of 18 or less on the Montreal Cognitive Assessment (MoCA) during the in-person&#xD;
+             screen&#xD;
+&#xD;
+          -  an inability to understand study procedures following review of the Informed Consent&#xD;
+             form&#xD;
+&#xD;
+          -  Understanding will be assessed by asking the participant to answer the following three&#xD;
+             questions: 1) What is the purpose of this study? 2) What are the risks of study&#xD;
+             involvement? 3) If you decide to participate, are you allowed to withdraw from the&#xD;
+             study at any time? Answers will be recorded by study personnel on the &quot;Assessment of&#xD;
+             Protocol Understanding&quot; form (see attached). Insufficient understanding will be&#xD;
+             defined by one or more incorrect answers, as determined at the discretion of the&#xD;
+             investigator&#xD;
+&#xD;
+        Administrators (As)&#xD;
+&#xD;
+          -  mild cognitive impairment defined by a MoCA score ≤26 during the in-person screen&#xD;
+&#xD;
+          -  insufficient understanding of study procedures following review of the Informed&#xD;
+             Consent form&#xD;
+&#xD;
+          -  Understanding will be assessed by asking the participant to answer the following three&#xD;
+             questions: 1) What is the purpose of this study? 2) What are the risks of study&#xD;
+             involvement? 3) If you decide to participate, are you allowed to withdraw from the&#xD;
+             study at any time? Answers will be recorded by study personnel on the &quot;Assessment of&#xD;
+             Protocol Understanding&quot; form (see attached). Insufficient understanding will be&#xD;
+             defined by one or more incorrect answers, as determined at the discretion of the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  poor eyesight, severe arthritis in the hands, pain, deformity or other condition that&#xD;
+             interferes with successful administration of tACS&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alvaro Pascual-Leone, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hinda and Arthur Marcus Institute for Aging Research</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hinda and Arthur Marcus Institute for Aging Research</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Strüber D, Herrmann CS. Modulation of gamma oscillations as a possible therapeutic tool for neuropsychiatric diseases: A review and perspective. Int J Psychophysiol. 2020 Jun;152:15-25. doi: 10.1016/j.ijpsycho.2020.03.003. Epub 2020 Mar 30. Review.</citation>
+    <PMID>32240665</PMID>
+  </reference>
+  <results_reference>
+    <citation>Antal A, Alekseichuk I, Bikson M, Brockmöller J, Brunoni AR, Chen R, Cohen LG, Dowthwaite G, Ellrich J, Flöel A, Fregni F, George MS, Hamilton R, Haueisen J, Herrmann CS, Hummel FC, Lefaucheur JP, Liebetanz D, Loo CK, McCaig CD, Miniussi C, Miranda PC, Moliadze V, Nitsche MA, Nowak R, Padberg F, Pascual-Leone A, Poppendieck W, Priori A, Rossi S, Rossini PM, Rothwell J, Rueger MA, Ruffini G, Schellhorn K, Siebner HR, Ugawa Y, Wexler A, Ziemann U, Hallett M, Paulus W. Low intensity transcranial electric stimulation: Safety, ethical, legal regulatory and application guidelines. Clin Neurophysiol. 2017 Sep;128(9):1774-1809. doi: 10.1016/j.clinph.2017.06.001. Epub 2017 Jun 19. Review.</citation>
+    <PMID>28709880</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Babiloni C, Blinowska K, Bonanni L, Cichocki A, De Haan W, Del Percio C, Dubois B, Escudero J, Fernández A, Frisoni G, Guntekin B, Hajos M, Hampel H, Ifeachor E, Kilborn K, Kumar S, Johnsen K, Johannsson M, Jeong J, LeBeau F, Lizio R, Lopes da Silva F, Maestú F, McGeown WJ, McKeith I, Moretti DV, Nobili F, Olichney J, Onofrj M, Palop JJ, Rowan M, Stocchi F, Struzik ZM, Tanila H, Teipel S, Taylor JP, Weiergräber M, Yener G, Young-Pearse T, Drinkenburg WH, Randall F. What electrophysiology tells us about Alzheimer's disease: a window into the synchronization and connectivity of brain neurons. Neurobiol Aging. 2020 Jan;85:58-73. doi: 10.1016/j.neurobiolaging.2019.09.008. Epub 2019 Sep 19. Review.</citation>
+    <PMID>31739167</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Buss SS, Fried PJ, Pascual-Leone A. Therapeutic noninvasive brain stimulation in Alzheimer's disease and related dementias. Curr Opin Neurol. 2019 Apr;32(2):292-304. doi: 10.1097/WCO.0000000000000669. Review.</citation>
+    <PMID>30720478</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ruffini G, Fox MD, Ripolles O, Miranda PC, Pascual-Leone A. Optimization of multifocal transcranial current stimulation for weighted cortical pattern targeting from realistic modeling of electric fields. Neuroimage. 2014 Apr 1;89:216-25. doi: 10.1016/j.neuroimage.2013.12.002. Epub 2013 Dec 15.</citation>
+    <PMID>24345389</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bréchet L, Brunet D, Birot G, Gruetter R, Michel CM, Jorge J. Capturing the spatiotemporal dynamics of self-generated, task-initiated thoughts with EEG and fMRI. Neuroimage. 2019 Jul 1;194:82-92. doi: 10.1016/j.neuroimage.2019.03.029. Epub 2019 Mar 19.</citation>
+    <PMID>30902640</PMID>
+  </results_reference>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>February 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>June 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hebrew SeniorLife</investigator_affiliation>
+    <investigator_full_name>Alvaro Pascual-Leone</investigator_full_name>
+    <investigator_title>Senior Scientist</investigator_title>
+  </responsible_party>
+  <keyword>alzheimer disease</keyword>
+  <keyword>memory and cognition</keyword>
+  <keyword>autobiographical memory</keyword>
+  <keyword>transcranial alternating current stimulation (tACS)</keyword>
+  <keyword>guided high-density electroencephalography (hdEEG)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Memory Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

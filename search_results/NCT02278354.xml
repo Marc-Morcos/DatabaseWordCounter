@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1685">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02278354</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18F-AV-1451-A11</org_study_id>
+    <nct_id>NCT02278354</nct_id>
+  </id_info>
+  <brief_title>Tau Imaging in Professional Fighters</brief_title>
+  <official_title>18F-AV-1451 PET Imaging in Professional Fighters</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Avid Radiopharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Cleveland Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Avid Radiopharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Subjects enrolled in the Professional Fighters Brain Health Study (PFBHS) will receive&#xD;
+      flortaucipir to explore its use as a biomarker for brain injury related to repetitive head&#xD;
+      trauma and to examine the relationship between clinical presentation and tau deposition.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 18, 2015</start_date>
+  <completion_date type="Actual">February 3, 2017</completion_date>
+  <primary_completion_date type="Actual">February 3, 2017</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Flortaucipir Imaging (Quantitative) Between Cognitive Groups</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Standard Uptake Value Ratio (SUVr) by subject enrollment group (cognitive impaired/normal) across weighted cortical average, frontal, temporal, parietal, and occipital brain regions. For SUVr, a value of 1 or lower signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Flortaucipir Imaging (Quantitative) Between Fighter Groups</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Standard Uptake Value Ratio (SUVr) by subject enrollment group (active fighter/retired fighter) across weighted cortical average, frontal, temporal, parietal, and occipital brain regions. For SUVr, a value of 1 or lower signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Flortaucipir Imaging (Qualitative) Between Cognitive Groups</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Qualitative read results (no, mild, moderate, or intense uptake) compared between cognitively impaired (CI) and cognitively normal (CN) groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Flortaucipir Imaging (Qualitative) Between Fighter Groups</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Qualitative read results (no, mild, moderate, or intense uptake) compared between active and retired fighter groups</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">35</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Active Professional Fighters</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Active professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Retired Professional Fighters</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Retired professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flortaucipir F18</intervention_name>
+    <description>IV injection, 370 megabecquerel (MBq) (10 mCi)</description>
+    <arm_group_label>Active Professional Fighters</arm_group_label>
+    <arm_group_label>Retired Professional Fighters</arm_group_label>
+    <other_name>[F-18]T807</other_name>
+    <other_name>18F-AV-1451</other_name>
+    <other_name>LY3191748</other_name>
+    <other_name>Tauvid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Brain PET scan</intervention_name>
+    <description>positron emission tomography (PET) scan of the brain 75-105 minutes post injection</description>
+    <arm_group_label>Active Professional Fighters</arm_group_label>
+    <arm_group_label>Retired Professional Fighters</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All Subjects&#xD;
+&#xD;
+          -  Currently enrolled in the PFBHS protocol and have participated in a minimum of 10&#xD;
+             professional fights&#xD;
+&#xD;
+          -  Can tolerate Positron Emission Tomography (PET) scan procedures&#xD;
+&#xD;
+          -  Have the ability to provide informed consent&#xD;
+&#xD;
+        Subjects with cognitive impairment&#xD;
+&#xD;
+          -  Have subjective cognitive complaints or objective decline or impairment as determined&#xD;
+             by the investigator&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have behavior dysfunction that is likely to interfere with imaging&#xD;
+&#xD;
+          -  Are claustrophobic or otherwise unable to tolerate the imaging procedure&#xD;
+&#xD;
+          -  Have current clinically significant cardiovascular disease or clinically significant&#xD;
+             abnormalities on screening electrocardiogram&#xD;
+&#xD;
+          -  A history of additional risk factors for Torsades de Pointes (TdP) or are taking drugs&#xD;
+             that are known to cause QT-prolongation&#xD;
+&#xD;
+          -  Have a current clinically significant infectious disease, endocrine or metabolic&#xD;
+             disease, pulmonary, renal or hepatic impairment, or cancer&#xD;
+&#xD;
+          -  Have had a non-study related radiopharmaceutical imaging or treatment procedure within&#xD;
+             7 days prior to the study imaging session&#xD;
+&#xD;
+          -  Have current drug or alcohol dependence or alcohol dependence within the past 2 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Lou Ruvo Center for Brain Health</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>October 28, 2014</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 30, 2014</study_first_posted>
+  <results_first_submitted>July 16, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 21, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 10, 2020</results_first_posted>
+  <last_update_submitted>August 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 13, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/54/NCT02278354/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 9, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/54/NCT02278354/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Enrollment occurred between Feb 2015 and Feb 2017</recruitment_details>
+      <pre_assignment_details>Five subjects enrolled in the study but did not receive a flortaucipir PET scan (2 active, 3 retired). Two additional subjects in the active fighters group did not have the minimum 10 fights required for inclusion into the study, and therefore were considered not to have completed the study. However, their PET scan results were analyzed.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Active Professional Fighters</title>
+          <description>Active professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+        </group>
+        <group group_id="P2">
+          <title>Retired Professional Fighters</title>
+          <description>Retired professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="23"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Flortaucipir PET Scan</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="20"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>&lt;10 professional fights</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Only includes subjects who received a flortaucipir PET scan in the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Active Professional Fighters</title>
+          <description>Active professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+        </group>
+        <group group_id="B2">
+          <title>Retired Professional Fighters</title>
+          <description>Retired professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="20"/>
+            <count group_id="B3" value="30"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31.7" spread="4.27"/>
+                    <measurement group_id="B2" value="47.6" spread="10.21"/>
+                    <measurement group_id="B3" value="42.3" spread="11.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="13"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Other</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="20"/>
+                    <count group_id="B3" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Amyloid status</title>
+          <description>Amyloid status determined by florbetapir PET scan</description>
+          <population>Per protocol, baseline amyloid status was only obtained for fighters &gt; 50 years of age or with a clinical presentation that suggested a possible Alzheimer's disease diagnosis (n=15)</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="1"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Amyloid negative</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Amyloid positive</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Flortaucipir Imaging (Quantitative) Between Cognitive Groups</title>
+        <description>Standard Uptake Value Ratio (SUVr) by subject enrollment group (cognitive impaired/normal) across weighted cortical average, frontal, temporal, parietal, and occipital brain regions. For SUVr, a value of 1 or lower signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+        <time_frame>baseline scan</time_frame>
+        <population>Cognitively impaired fighters either had subjective cognitive complaints or objective decline or impairment as determined by the investigator.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Cognitively Impaired Fighters</title>
+            <description>Fighters (active and retired) with cognitive impairment at baseline</description>
+          </group>
+          <group group_id="O2">
+            <title>Cognitively Normal Fighters</title>
+            <description>Fighters (active and retired) without cognitive impairment at baseline</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Flortaucipir Imaging (Quantitative) Between Cognitive Groups</title>
+          <description>Standard Uptake Value Ratio (SUVr) by subject enrollment group (cognitive impaired/normal) across weighted cortical average, frontal, temporal, parietal, and occipital brain regions. For SUVr, a value of 1 or lower signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+          <population>Cognitively impaired fighters either had subjective cognitive complaints or objective decline or impairment as determined by the investigator.</population>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Weighted cortical average</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.0048" lower_limit="0.977" upper_limit="1.0327"/>
+                    <measurement group_id="O2" value="0.971" lower_limit="0.9401" upper_limit="1.002"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Frontal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9731" lower_limit="0.9394" upper_limit="1.0068"/>
+                    <measurement group_id="O2" value="0.9357" lower_limit="0.8983" upper_limit="0.9732"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Temporal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9867" lower_limit="0.9425" upper_limit="1.0309"/>
+                    <measurement group_id="O2" value="0.9305" lower_limit="0.8812" upper_limit="0.9797"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Parietal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9472" lower_limit="0.9097" upper_limit="0.9847"/>
+                    <measurement group_id="O2" value="0.9288" lower_limit="0.8871" upper_limit="0.9705"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Occipital</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9513" lower_limit="0.912" upper_limit="0.9906"/>
+                    <measurement group_id="O2" value="0.9247" lower_limit="0.8809" upper_limit="0.9684"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Flortaucipir Imaging (Quantitative) Between Fighter Groups</title>
+        <description>Standard Uptake Value Ratio (SUVr) by subject enrollment group (active fighter/retired fighter) across weighted cortical average, frontal, temporal, parietal, and occipital brain regions. For SUVr, a value of 1 or lower signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+        <time_frame>baseline scan</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Professional Fighters</title>
+            <description>Active professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+          </group>
+          <group group_id="O2">
+            <title>Retired Professional Fighters</title>
+            <description>Retired professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Flortaucipir Imaging (Quantitative) Between Fighter Groups</title>
+          <description>Standard Uptake Value Ratio (SUVr) by subject enrollment group (active fighter/retired fighter) across weighted cortical average, frontal, temporal, parietal, and occipital brain regions. For SUVr, a value of 1 or lower signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Weighted cortical average</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9965" lower_limit="0.963" upper_limit="1.0299"/>
+                    <measurement group_id="O2" value="0.9794" lower_limit="0.9546" upper_limit="1.0042"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Frontal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9816" lower_limit="0.9411" upper_limit="1.022"/>
+                    <measurement group_id="O2" value="0.9273" lower_limit="0.8973" upper_limit="0.9572"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Temporal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9838" lower_limit="0.9306" upper_limit="1.0369"/>
+                    <measurement group_id="O2" value="0.9334" lower_limit="0.894" upper_limit="0.9728"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Parietal</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9623" lower_limit="0.9172" upper_limit="1.0073"/>
+                    <measurement group_id="O2" value="0.9137" lower_limit="0.8803" upper_limit="0.9471"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Occipital</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9632" lower_limit="0.916" upper_limit="1.0105"/>
+                    <measurement group_id="O2" value="0.9127" lower_limit="0.8777" upper_limit="0.9478"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Flortaucipir Imaging (Qualitative) Between Cognitive Groups</title>
+        <description>Qualitative read results (no, mild, moderate, or intense uptake) compared between cognitively impaired (CI) and cognitively normal (CN) groups.</description>
+        <time_frame>baseline scan</time_frame>
+        <population>Cognitively impaired fighters either had subjective cognitive complaints or objective decline or impairment as determined by the investigator.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Cognitively Impaired Fighters</title>
+            <description>Fighters (active and retired) with cognitive impairment at baseline</description>
+          </group>
+          <group group_id="O2">
+            <title>Cognitively Normal Fighters</title>
+            <description>Fighters (active and retired) without cognitive impairment at baseline</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Flortaucipir Imaging (Qualitative) Between Cognitive Groups</title>
+          <description>Qualitative read results (no, mild, moderate, or intense uptake) compared between cognitively impaired (CI) and cognitively normal (CN) groups.</description>
+          <population>Cognitively impaired fighters either had subjective cognitive complaints or objective decline or impairment as determined by the investigator.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="12"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>No Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mild Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Moderate Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Intense Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Flortaucipir Imaging (Qualitative) Between Fighter Groups</title>
+        <description>Qualitative read results (no, mild, moderate, or intense uptake) compared between active and retired fighter groups</description>
+        <time_frame>baseline scan</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Professional Fighters</title>
+            <description>Active professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+          </group>
+          <group group_id="O2">
+            <title>Retired Professional Fighters</title>
+            <description>Retired professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Flortaucipir Imaging (Qualitative) Between Fighter Groups</title>
+          <description>Qualitative read results (no, mild, moderate, or intense uptake) compared between active and retired fighter groups</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="20"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>No Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mild Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Moderate Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Intense Uptake</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>End of study for AE reporting was 48 hours after the last study drug administration.</time_frame>
+      <desc>Adverse Events were defined as occurring or worsening after injection of dose, within 48 hours post injection. AEs occurring after flortaucipir administration, but outside that window were not recorded in the database, unless considered attributable to flortaucipir injection.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Active Professional Fighters</title>
+          <description>Active professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+        </group>
+        <group group_id="E2">
+          <title>Retired Professional Fighters</title>
+          <description>Retired professional fighters (with and without cognitive impairment) receiving a flortaucipir PET scan</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>1.0</frequency_threshold>
+        <default_vocab>MedDRA (17.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>diarrhoea</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>epistaxis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="20"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Medical Director</name_or_title>
+      <organization>Avid Radiopharmaceuticals, Inc.</organization>
+      <phone>215-298-0700</phone>
+      <email>clinicaloperations@avidrp.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

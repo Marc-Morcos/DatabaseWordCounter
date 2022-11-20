@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2512">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05592678</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC20220551H</org_study_id>
+    <nct_id>NCT05592678</nct_id>
+  </id_info>
+  <brief_title>δ in Dementia Clinical Trials</brief_title>
+  <acronym>δND</acronym>
+  <official_title>Novel Methods for Clinical Trials in Dementia and Cognitive Decline</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center at San Antonio</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Texas Health Science Center at San Antonio</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to demonstrate potential improvements in clinical trial&#xD;
+      methods relating to dementia and cognitive decline. The main questions it aims to answer are:&#xD;
+&#xD;
+        -  Can an intervention's outcome be better assessed by a latent variable (&quot;δ&quot;) integrating&#xD;
+           cognitive performance with functional status?&#xD;
+&#xD;
+        -  Can latent biomarkers of δ guide the selection of an intervention that will modulate&#xD;
+           dementia severity?&#xD;
+&#xD;
+        -  Can a latent variable, derived from information collected remotely from caregivers,&#xD;
+           preselect subjects most likely to respond to the intervention?&#xD;
+&#xD;
+        -  Is the effect of the intervention in fact medicated by changes in the targeted&#xD;
+           biomarker?&#xD;
+&#xD;
+      In this case, the biomarker will be a latent variable derived from several proteins measured&#xD;
+      in blood (i.e., so-called &quot;adipokines&quot;). The intervention will be donepezil, a medication&#xD;
+      approved for the treatment of Alzheimer's Disease, but only recently associated with&#xD;
+      adipokine changes.&#xD;
+&#xD;
+      Participants with cognitive impairment and their caregivers will be interviewed by telephone&#xD;
+      and those with cognitive impairment will be treated for six-months with donepezil. On the&#xD;
+      basis of the caregiver's report, the cognitively impaired subjects will be assigned to two&#xD;
+      groups based on a prediction of their response to donepezil. Researchers will compare those&#xD;
+      groups to see if dementia severity, as measured by δ, improves in predicted responders, and&#xD;
+      whether the change in the d-score is mediated by changes in adipokines.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Title: &quot;Novel Methods for Clinical rials in Dementia and Cognitive Decline&quot;&#xD;
+&#xD;
+      Study Description: This is a double-blind assignment open label clinical trial to test novel&#xD;
+      approaches to clinical trial methods. 1) The study team will pre-select cases most likely to&#xD;
+      benefit from adipokine modulation by a telephone assessment. 2) The study team will&#xD;
+      pre-select subjects with clinical and preclinical dementia most likely to respond to therapy.&#xD;
+      3) The study team will test the drug donepezil's effect on dementia severity, in predicted&#xD;
+      responders and non-responders, as measured by a latent dementia phenotype &quot;δ' and 4) test a&#xD;
+      latent Adipokines biomarker construct as a mediator of their association in the predicted&#xD;
+      responders.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      Primary Objective: To test novel clinical trial methods relevant to dementia.&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+        1. To test donepezil's effect on dementia severity as measured by δ.&#xD;
+&#xD;
+        2. To test Adipokines as a mediator of donepezil's effect on δ.&#xD;
+&#xD;
+      Endpoints: Primary Endpoint: Dementia severity as measured by the latent phenotype &quot;δ&quot; using&#xD;
+      the &quot;dTEL&quot; homolog.&#xD;
+&#xD;
+      Secondary Endpoint: Change in Adipokines as a mediator of donepezil's effect on dTEL.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2023</start_date>
+  <completion_date type="Anticipated">November 2027</completion_date>
+  <primary_completion_date type="Anticipated">February 2027</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>a double-blind assignment open label clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Blind to group assignment</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>dTEL change</measure>
+    <time_frame>At baseline, and weeks 4, 12 and 24.</time_frame>
+    <description>Change in a latent dementia-specific phenotype derived from cognitive assessment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ADIPOKINES change</measure>
+    <time_frame>Baseline and week 24.</time_frame>
+    <description>Change in a latent construct derived from eight &quot;Adipokine&quot; proteins measured in blood.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Dementia &quot;Reversion&quot;</measure>
+    <time_frame>Week 24</time_frame>
+    <description>The frequency of dementia &quot;reversion&quot; defined as a final dTEL score &gt; -0.40, i.e., the optimal d-score that discriminates subjects with AD from those with MCI in the Alzheimer's Disease Neuroimaging Initiative (ADNI).</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Alzheimer's Disease (AD)</condition>
+  <condition>Dementia</condition>
+  <condition>Cognitive Decline</condition>
+  <condition>Mild Cognitivie Impairment (MCI)</condition>
+  <arm_group>
+    <arm_group_label>Predicted Responders</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Group assignment determined by a response predictor algorithm derived from remotely acquired caregiver reports of cognitive performance.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Predicted Non-Responders</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Group assignment determined by a response predictor algorithm derived from remotely acquired caregiver reports of cognitive performance.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Donepezil</intervention_name>
+    <description>6 months of open label treatment at 10mg PO QD (maximum)</description>
+    <arm_group_label>Predicted Non-Responders</arm_group_label>
+    <arm_group_label>Predicted Responders</arm_group_label>
+    <other_name>Aricept ®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ambulatory outpatient volunteers with competent informants&#xD;
+&#xD;
+          -  Aged 65-100 years&#xD;
+&#xD;
+          -  Clinical diagnosis of AD, or MCI&#xD;
+&#xD;
+          -  Capacity to give informed consent&#xD;
+&#xD;
+          -  Geriatric Depression Scale (GDS) (15 item) score ≤ 6&#xD;
+&#xD;
+          -  No significant visual or hearing impairments&#xD;
+&#xD;
+          -  A standardized dECog score between 0.0 and -1.0 relative to ADNI's cohort&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A self-reported diagnosis of &quot;Major Depression&quot; (treatment with &quot;antidepressants&quot; not&#xD;
+             exclusionary)&#xD;
+&#xD;
+          -  A history of psychosis, including visual hallucinations&#xD;
+&#xD;
+          -  History or treatment for Parkinson's, or tremor, or Rapid Eye Movement (REM) behavior&#xD;
+             disorder&#xD;
+&#xD;
+          -  History or treatment for atrial fibrillation&#xD;
+&#xD;
+          -  Treatment for cancer in the last 5 years (excluding skin cancers)&#xD;
+&#xD;
+          -  Major surgery in the last year&#xD;
+&#xD;
+          -  Current treatment with acetylcholinesterase inhibitor (AChEI) (memantine is&#xD;
+             acceptable). -Potential subjects on an AChEI can washout for three months and be&#xD;
+             rescreened.&#xD;
+&#xD;
+          -  Current treatment with anti-convulsants, mood stabilizers, neuroleptics, opiates,&#xD;
+             muscle relaxants, or systemic steroids&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Donald R. Royall, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amy Saklad</last_name>
+    <phone>210 567-8229</phone>
+    <email>SAKLADA@uthscsa.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marsha J. Polk, MS</last_name>
+    <phone>210 450-8403</phone>
+    <email>polk@uthscsa.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Univeristy of Texas Health Science Center at San Antonio (UTHSCSA)</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229-3900</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Amy Saklad</last_name>
+      <phone>210-567-8229</phone>
+      <email>SAKLADA@uthscsa.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marsha J. Polk, MS</last_name>
+      <phone>210 450-8403</phone>
+      <email>polk@uthscsa.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 13, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 25, 2022</study_first_posted>
+  <last_update_submitted>October 19, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>The University of Texas Health Science Center at San Antonio</investigator_affiliation>
+    <investigator_full_name>Donald Royall</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>adipokines</keyword>
+  <keyword>cognition</keyword>
+  <keyword>dementia</keyword>
+  <keyword>functional status</keyword>
+  <keyword>intelligence</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Donepezil</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>This study will comply with the NIH Data Sharing Policy and Policy on the Dissemination of NIH-Funded Clinical Trial Information and the Clinical Trials Registration and Results Information Submission rule. As such, this trial will be registered at ClinicalTrials.gov, and results information from this trial will be submitted to ClinicalTrials.gov. In addition, every attempt will be made to publish results in peer-reviewed journals. Data from this study may be requested from other researchers 5 years after the completion of the primary endpoint by contacting royall@uthscsa.edu</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Data from this study may be requested from other researchers 5 years after the completion of the primary endpoint by contacting royall@uthscsa.edu</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

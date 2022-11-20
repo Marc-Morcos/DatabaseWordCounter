@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="897">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04451408</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17755</org_study_id>
+    <secondary_id>J1G-MC-LAKB</secondary_id>
+    <nct_id>NCT04451408</nct_id>
+  </id_info>
+  <brief_title>A Study of LY3372993 in Participants With Alzheimer's Disease (AD) and Healthy Participants</brief_title>
+  <official_title>A Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of LY3372993 in Participants With Alzheimer's Disease and Healthy Participants</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to evaluate the safety and tolerability of LY3372993 in&#xD;
+      participants with AD, non-Japanese, and Japanese healthy participants who are of&#xD;
+      first-generation Japanese origin. The study will also investigate how much LY3372993 gets&#xD;
+      into the bloodstream and will test the effects of LY3372993. The study will be conducted in&#xD;
+      two parts. The part A includes participants with AD and part B includes healthy participants.&#xD;
+      Participation could last up to about 61 weeks and may include up to 31 visits to the study&#xD;
+      center.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 7, 2020</start_date>
+  <completion_date type="Anticipated">January 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Serious Adverse Event(s) (SAEs) Considered by the Investigator to be Related to Study Drug Administration</measure>
+    <time_frame>Baseline through Week 61 (part A) and Week 13 (Part B)</time_frame>
+    <description>A summary of SAEs and other non-serious adverse events (AEs), regardless of causality, will be reported in the Reported Adverse Events module</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Maximum Concentration (Cmax) of LY3372993</measure>
+    <time_frame>Day 1 Predose through Week 61 (part A) and Week 13 (Part B)</time_frame>
+    <description>PK: Cmax of LY3372993</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK: Area Under the Concentration Versus Time Curve (AUC) of LY3372993</measure>
+    <time_frame>Day 1 Predose through Week 61 (part A) and Week 13 (Part B)</time_frame>
+    <description>PK: AUC of LY3372993</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacodynamics (PD): Change from Baseline in Cerebral Amyloid Plaque Level (Part A only)</measure>
+    <time_frame>Baseline and Week 61 (part A)</time_frame>
+    <description>PD: Cerebral amyloid plaque level measured using florbetapir positron emission tomography</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">224</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>LY3372993 (Part A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3372993 administered as multiple doses either intravenously (IV) or subcutaneously (SC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3372993 (Part B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3372993 administered as single dose IV or SC.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (Part A)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered as multiple doses IV or SC.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (Part B)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered as single dose IV or SC.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3372993</intervention_name>
+    <description>Administered IV or SC.</description>
+    <arm_group_label>LY3372993 (Part A)</arm_group_label>
+    <arm_group_label>LY3372993 (Part B)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered IV or SC.</description>
+    <arm_group_label>Placebo (Part A)</arm_group_label>
+    <arm_group_label>Placebo (Part B)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        (Part A)&#xD;
+&#xD;
+          -  Gradual and progressive changes in memory function reported by participants or their&#xD;
+             partners for greater than or equal to (≥) 6 months at screening, and a clinical&#xD;
+             diagnosis of mild cognitive impairment due to AD, or AD dementia, as determined by the&#xD;
+             investigator or based upon medical history&#xD;
+&#xD;
+          -  Mini-Mental State Examination score ≥16&#xD;
+&#xD;
+          -  Have clinical laboratory test results within normal reference range or results with&#xD;
+             acceptable deviations that are judged to be not clinically significant by the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Have a study partner who will provide written informed consent to participate, is in&#xD;
+             frequent contact with the participant (defined as at least 10 hours per week), and&#xD;
+             will accompany the participant to study visits or be available through telephone at&#xD;
+             designated times&#xD;
+&#xD;
+        (Part B)&#xD;
+&#xD;
+          -  overtly healthy males or females&#xD;
+&#xD;
+          -  have a body mass index of 18.0 to 32.0 kg/m2, inclusive&#xD;
+&#xD;
+          -  To qualify as a participant of the first-generation Japanese origin, the participant,&#xD;
+             the participant's biological parents, and all of the participant's biological&#xD;
+             grandparents must be of exclusive Japanese descent and born in Japan.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        (Part A)&#xD;
+&#xD;
+          -  Have history or presence of uncontrolled asthma, significant autoimmune disease,&#xD;
+             hereditary angioedema, or known history of common variable immune deficiency&#xD;
+&#xD;
+          -  Contraindication to positron emission tomography (PET)&#xD;
+&#xD;
+          -  Have a history or presence of serious or unstable illnesses including cardiovascular,&#xD;
+             hepatic, renal, gastrointestinal, respiratory, endocrine, psychiatric, immunologic, or&#xD;
+             hematologic disease and other conditions that, in the investigator's opinion, could&#xD;
+             interfere with the analyses in this study, or increase risk for study intervention&#xD;
+             administration, or result in a participant's life expectancy of less than (&lt;)24 months&#xD;
+&#xD;
+          -  Have received treatment with biologic agents (such as monoclonal antibodies, including&#xD;
+             marketed drugs) within 3 months or 5 half-lives (whichever is longer) prior to dosing&#xD;
+&#xD;
+          -  Have had significant medical history of dizziness, syncope, or vasovagal attacks&#xD;
+             within the past 3 years&#xD;
+&#xD;
+          -  Contraindication to magnetic resonance imaging (MRI), including claustrophobia that&#xD;
+             cannot be managed with low-dose sedatives or the presence of contraindicated metal&#xD;
+             (ferromagnetic) implants/cardiac pacemaker&#xD;
+&#xD;
+        (Part B)&#xD;
+&#xD;
+          -  have a family history of early onset AD (AD diagnosed prior to 65 years of age)&#xD;
+&#xD;
+          -  have used or intend to use over-the-counter or prescription medication including&#xD;
+             herbal medications within 14 days prior to dosing.&#xD;
+&#xD;
+          -  have a history or presence of significant psychiatric disorders&#xD;
+&#xD;
+          -  have an abnormal blood pressure and/or pulse rate as determined by the investigator,&#xD;
+             or a pre-existing history of hypertension&#xD;
+&#xD;
+          -  any clinically significant ECG or brain MRI abnormalities&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrials.gov@Lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Altasciences Clinical Los Angeles, Inc</name>
+      <address>
+        <city>Cypress</city>
+        <state>California</state>
+        <zip>90630</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>714-252-0700</phone>
+    </contact>
+    <investigator>
+      <last_name>David Nguyen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Collaborative Neuroscience Research, LLC</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Omid Omidvar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Accel Research Sites- Clinical Research Unit</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>386-785-2400</phone>
+    </contact>
+    <investigator>
+      <last_name>Bruce G Rankin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Hallandale Beach</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>9544555757</phone>
+    </contact>
+    <investigator>
+      <last_name>Beth Emmie Safirstein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>352-775-1000</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey A Norton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ppd Development</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806-1041</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>4074269299</phone>
+    </contact>
+    <investigator>
+      <last_name>James Dale Taylor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IMIC, Inc.</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>786-310-7477</phone>
+    </contact>
+    <investigator>
+      <last_name>Evelyn Lopez-Brignoni</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>386-304-7050</phone>
+    </contact>
+    <investigator>
+      <last_name>Alexander J. White</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BioClinica Inc</name>
+      <address>
+        <city>The Villages</city>
+        <state>Florida</state>
+        <zip>32162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>352-261-0901</phone>
+    </contact>
+    <investigator>
+      <last_name>Ayesha Lall</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Covance Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75247</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>469-513-6727</phone>
+    </contact>
+    <investigator>
+      <last_name>Gene W Voskuhl</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oita University Hospital</name>
+      <address>
+        <city>Yufu</city>
+        <state>Oita</state>
+        <zip>879-5503</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>81120023812</phone>
+    </contact>
+    <investigator>
+      <last_name>Naoto Uemura</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Tokyo Hospital</name>
+      <address>
+        <city>Bunkyo-ku</city>
+        <state>Tokyo</state>
+        <zip>113-8655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>81120023812</phone>
+    </contact>
+    <investigator>
+      <last_name>Tatsuya Maruyama</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Hospital Tokyo</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <state>Tokyo</state>
+        <zip>162-0053</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>81120023812</phone>
+    </contact>
+    <investigator>
+      <last_name>Hiroyuki Fukase</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/3qQDrJd2dTslGhNmqMga6Q</url>
+    <description>A Study of LY3372993 in Participants With Alzheimer's Disease (AD)</description>
+  </link>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>June 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 30, 2020</study_first_posted>
+  <last_update_submitted>September 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

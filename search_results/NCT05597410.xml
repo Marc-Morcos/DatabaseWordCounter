@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1704">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05597410</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHARAD-01</org_study_id>
+    <nct_id>NCT05597410</nct_id>
+  </id_info>
+  <brief_title>Shanghai At Risk for Alzheimer's Disease: a Cohort Study</brief_title>
+  <acronym>SHARAD</acronym>
+  <official_title>Shanghai At Risk for Alzheimer's Disease: a Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ruijin Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ruijin Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this cohort study is to estimate the incidence of AD in the first-degree&#xD;
+      relatives of patients with AD. The main questions it aims to answer are:&#xD;
+&#xD;
+        -  cognitive changes of subjects at high risk of AD as ageing;&#xD;
+&#xD;
+        -  environmental and behavioral factors affecting AD incidence.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a prospective cohort study focusing on the first-degree relatives of patients&#xD;
+      with Alzheimer's disease (AD). Multiple methods including the neuropsychiatric assessment&#xD;
+      battery, magnetic resonance imaging (MRI) and fluid biomarkers (blood and urine) are used to&#xD;
+      estimate the longitudinal changes of the participants at high risk of AD. Besides, a&#xD;
+      structured questionnaire is designed to investigate how environmental, behavioral and other&#xD;
+      factors influence the incidence of AD. This study is of great significance in establishing&#xD;
+      novel guidelines for the prevention and treatment of dementia suitable for Chinese&#xD;
+      population, and for clinicians to predict the risk of AD in first-degree relatives.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2022</start_date>
+  <completion_date type="Anticipated">March 2030</completion_date>
+  <primary_completion_date type="Anticipated">March 2029</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of cognitive impairment at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>Number of participants who covert to AD or mild cognitive impairment (MCI) will be recorded to calculate the incidence.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Mini-Mental State Examination (MMSE) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>MMSE is a brief screening instrument used to assess cognitive function (orientation, memory, attention, ability to name objects, follow verbal/written commands, write a sentence, and copy figures) in elderly participants. Total score ranges from 0 to 30; lower score indicates greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Montreal cognitive assessment-Basic (MoCA) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>MoCA is a brief screening instrument used to assess cognitive function (orientation, memory, attention, ability to name objects, follow verbal/written commands, write a sentence, and copy figures) in elderly participants. Total score ranges from 0 to 30; lower score indicates greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Boston naming test (BNT) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>MoCA is a screening instrument used to assess object naming function. The total score ranges from 0 to 30, with lower scores indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in the auditory verbal learning test (AVLT) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>AVLT is a screening instrument used to assess the function of memory. The score in long-term memory (N5) ranges from 0 to 12, with lower scores indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in trail making test (TMT) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>AVLT is a screening instrument used to assess the executive function. Time consumed is recorded as the result, with higher scores indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Geriatric Depression Scale (GDS) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>GDS is a neuropsychological scale used to assess the level of depression. The total score ranges from 0 to 30, with higher scores indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From multi-modal MRI neuroimaging at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>Evaluation of multimodal MRI, including high-resolution structural T1 imaging, functional MRI, diffusion tensor imaging and quantitative susceptibility mapping.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change From Baseline in Blood concentration of Phosphorylated Tau (p-tau) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>Blood p-tau 181 and p-tau 217 at baseline will be tested. The higher blood p-tau is a strong predictor for AD.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change From Baseline in Blood Concentration of Amyloid β (Aβ) at 5 years</measure>
+    <time_frame>5 years</time_frame>
+    <description>Blood Aβ40 and Aβ42 at baseline will be tested. The decreased blood Aβ42/40 ratio is a strong predictor for AD.</description>
+  </other_outcome>
+  <enrollment type="Anticipated">3418</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Neurodegenerative Diseases</condition>
+  <condition>Cognitive Impairment</condition>
+  <condition>Neurocognitive Disorders</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Whole blood (3-4 ml) of all participants will be collected at baseline and stored at -80°C.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population is the first-degree, cognition-preserved relatives (including parents,&#xD;
+        children and siblings of the same father and mother) of patients with AD&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. the AD diagnostic criteria of probands meet the 2011 National Institute on Aging -&#xD;
+             Alzheimer's Association framework, and participants are the first-degree relatives&#xD;
+             (including parents, children and siblings of the same father and mother) of the&#xD;
+             proband;&#xD;
+&#xD;
+          2. not patients with dementia;&#xD;
+&#xD;
+          3. ≥ 50 years, males and females;&#xD;
+&#xD;
+          4. subjects have lived in Shanghai for more than 1 year and have no plan to move out of&#xD;
+             Shanghai within 5 years;&#xD;
+&#xD;
+          5. subjects are able to complete investigation, physical examination, imaging examination&#xD;
+             and biological specimen collection.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+        Individuals will be excluded if they have:&#xD;
+&#xD;
+          1. other diseases which could cause cognitive decline, e.g. cerebrovascular diseases,&#xD;
+             Creutzfeldt-Jakob disease and Parkinsons disease;&#xD;
+&#xD;
+          2. history of psychological disorders (according to Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders, 5th Edition);&#xD;
+&#xD;
+          3. uncorrectable visual or auditory impairment that hampers the completion of related&#xD;
+             examination.&#xD;
+&#xD;
+          4. pre-menopausal women will also be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gang Wang, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Ruijin Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gang Wang, MD, PhD</last_name>
+    <phone>086-021-64370045</phone>
+    <email>wg11424@rjh.com.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ruijin Hospital, Shanghai Jiao Tong University School of Medicine</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200025</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ran Tang, MD</last_name>
+      <phone>18221457023</phone>
+      <email>hellotangran@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Wang Gang, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <reference>
+    <citation>Cannon-Albright LA, Foster NL, Schliep K, Farnham JM, Teerlink CC, Kaddas H, Tschanz J, Corcoran C, Kauwe JSK. Relative risk for Alzheimer disease based on complete family history. Neurology. 2019 Apr 9;92(15):e1745-e1753. doi: 10.1212/WNL.0000000000007231. Epub 2019 Mar 13.</citation>
+    <PMID>30867271</PMID>
+  </reference>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>October 12, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 28, 2022</study_first_posted>
+  <last_update_submitted>October 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

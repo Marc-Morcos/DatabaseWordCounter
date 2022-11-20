@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="304">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04592341</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WN29722</org_study_id>
+    <secondary_id>2020-001384-87</secondary_id>
+    <nct_id>NCT04592341</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Pharmacodynamic (PD) Effects of Once Weekly Administration of Gantenerumab in Participants With Early Alzheimer's Disease (AD)</brief_title>
+  <official_title>A Phase II, Multicenter, Open-Label, Single Arm Study to Evaluate the Pharmacodynamic Effects of Once Weekly Administration of Gantenerumab in Participants With Early (Prodromal to Mild) Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase II, multicenter, open-label, single arm, PD study in participants with early&#xD;
+      (prodromal to mild) AD to evaluate the effect of a once weekly (Q1W) dosing regimen of&#xD;
+      gantenerumab on deposited amyloid as measured by change from baseline to Week 104 (primary)&#xD;
+      and Week 208 in brain amyloid positron emission tomography (PET). The administration of&#xD;
+      gantenerumab as a single injection of Q1W will be investigated in this study, to simplify the&#xD;
+      dosing regimen for participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">November 13, 2025</completion_date>
+  <primary_completion_date type="Anticipated">July 27, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Deposited Amyloid as Measured by Brain Amyloid PET Centiloid (CL) Levels</measure>
+    <time_frame>Up to Week 104</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Responses to Home Administration Questionnaire</measure>
+    <time_frame>Up to Week 208</time_frame>
+    <description>The home administration questionnaire will capture confidence, ease of use, convenience, and overall satisfaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Adverse Events (AEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to Week 224</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Columbia-Suicide Severity Rating Scale (C-SSRS) Score</measure>
+    <time_frame>Up to Week 208</time_frame>
+    <description>The C-SSRS is an assessment tool used to assess the lifetime suicidality of a patient (C-SSRS at baseline) as well as any new instances of suicidality (C-SSRS since last visit). The structured interview prompts recollection of suicidal ideation, including the intensity of the ideation, behavior, and attempts with actual or potential lethality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Amyloid-Related Imaging Abnormalities-Edema (ARIA-E) Confirmed by Magnetic Resonance Imaging (MRI)</measure>
+    <time_frame>Up to Week 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Amyloid-Related Imaging Abnormalities-Haemosiderin deposition (ARIA-H) Confirmed by Magnetic Resonance Imaging (MRI)</measure>
+    <time_frame>Up to Week 208</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Injection-Site Reactions (ISR)</measure>
+    <time_frame>24 hours after study drug administration, up to Week 208</time_frame>
+    <description>Injection reactions (local and systemic) are defined as adverse events that occur during or within 24 hours after study drug administration that are judged to be related to the study drug injection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Anti-Drug Antibodies to Gantenerumab</measure>
+    <time_frame>Up to Week 224</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of SC Gantenerumab at specified timepoints</measure>
+    <time_frame>Up to Week 224</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Brain Amyloid Based on Different Dosing Frequency</measure>
+    <time_frame>Up to Week 208</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">192</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Gantenerumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive gantenerumab by subcutaneous (SC) injection at a dose of 120 mg every 4 weeks (Q4W) for 12 weeks, followed by 255 mg Q4W for 12 weeks, and 255 mg every 2 weeks (Q2W) for another 12 weeks, followed by the target dose 255 mg once weekly (Q1W) for up to Week 103. Participants who complete Week 104 visit will be given an option to take part in 2-year extension of the study to receive gantenerumab 255 mg Q1W for up to Week 207.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gantenerumab</intervention_name>
+    <description>Gantenerumab will be administered by SC injection at a dose of 120 mg Q4W for 12 weeks, followed by 255 mg Q4W for 12 weeks, and 255 mg Q2W for another 12 weeks, followed by the target dose 255 mg Q1W for up to Week 103 and an optional dose of 255 mg Q1W for up to Week 207.</description>
+    <arm_group_label>Gantenerumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Probable Alzheimer's Disease (AD) dementia or prodromal AD.&#xD;
+&#xD;
+          -  Availability of a reliable study partner (non-professional caregiver) who accepts to&#xD;
+             participate in study procedure throughout the study duration&#xD;
+&#xD;
+          -  The participant should be capable of completing all aspects of study assessments&#xD;
+             including MRI, clinical genotyping, and PET imaging, either alone or with the help of&#xD;
+             the study partner (non-professional caregiver).&#xD;
+&#xD;
+          -  Adequate visual and auditory acuitysufficient to perform the neuropsychological&#xD;
+             testing (eye glasses and hearing aids are permitted).&#xD;
+&#xD;
+          -  Evidence of AD pathological process, as confirmed by amyloid PET scan by qualitative&#xD;
+             read by the core/central PET laboratory.&#xD;
+&#xD;
+          -  Prodromal or mild symptomatology, as defined by a screening Mini-Mental State&#xD;
+             Examination (MMSE) score &gt;/=22 and Clinical Dementia Rating global score (CDR-GS) of&#xD;
+             0.5 or 1.0, as well as a clinical dementia rating (CDR) memory domain score &gt;/=0.5.&#xD;
+&#xD;
+          -  If the participant is receiving symptomatic AD medications, a stable dosing regimen&#xD;
+             for at least 3 months prior to screening and until start of study treatment.&#xD;
+&#xD;
+          -  Agreement not to donate blood or blood products for transfusion for the duration of&#xD;
+             the study and for 1 year after final dose of study drug.&#xD;
+&#xD;
+          -  Agreement not to participate in other research studies for the duration of this trial,&#xD;
+             unless these are related Roche-sponsored non-interventional studies.&#xD;
+&#xD;
+          -  For women of childbearing potential: agreement to remain abstinent (refrain from&#xD;
+             heterosexual intercourse) or use contraceptive methods hat result in a failure rate of&#xD;
+             &lt; 1% per year during the treatment period and for at least 16 weeks after the final&#xD;
+             dose of study drug.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any evidence of a condition other than AD that may affect cognition.&#xD;
+&#xD;
+          -  History or presence of clinically evident systemic vascular disease that in the&#xD;
+             opinion of the investigator has the potential to affect cognitive function.&#xD;
+&#xD;
+          -  History or presence of clinically evident cerebrovascular disease.&#xD;
+&#xD;
+          -  History or presence of posterior reversible encephalopathy syndrome.&#xD;
+&#xD;
+          -  History or presence of any stroke with clinical symptoms within the past 12 months, or&#xD;
+             documented history within the last 6 months of an acute event that is consistent with&#xD;
+             a transient ischemic attack.&#xD;
+&#xD;
+          -  History of severe, clinically significant CNS trauma.&#xD;
+&#xD;
+          -  History or presence of intracranial mass that could potentially impair cognition.&#xD;
+&#xD;
+          -  Presence of infections that affect brain function or history of infections that&#xD;
+             resulted in neurologic sequelae.&#xD;
+&#xD;
+          -  History or presence of systemic autoimmune disorders that potentially cause&#xD;
+             progressive neurologic disease with associated cognitive deficits.&#xD;
+&#xD;
+          -  History of schizophrenia, schizoaffective disorder, major depression, or bipolar&#xD;
+             disorder.&#xD;
+&#xD;
+          -  At risk for suicide in the opinion of the investigator.&#xD;
+&#xD;
+          -  Alcohol and/or substance abuse or dependants in past 2 years.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>JEM Research LLC</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud, LLC</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Research and Treatment Center</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <zip>33414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Advanced Research &amp; Education</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Georgia</state>
+        <zip>30501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Summit Research Network Inc.</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Neurological Associates Willow Grove</name>
+      <address>
+        <city>Willow Grove</city>
+        <state>Pennsylvania</state>
+        <zip>19090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jessa Zkh (Campus Virga Jesse)</name>
+      <address>
+        <city>Hasselt</city>
+        <zip>3500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AZ Groeninge</name>
+      <address>
+        <city>Kortrijk</city>
+        <zip>8500</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Leuven Gasthuisberg</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupement Hospitalier Est - Hôpital Neurologique; Neurologie A (U502)</name>
+      <address>
+        <city>Bron cedex</city>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Pitie Salpetriere; IM2A</name>
+      <address>
+        <city>Paris</city>
+        <zip>75651</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gerontopole; Centre de Recherche clinique</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ambulates Gesundheitszentrum der Charité GmbH; MVZ Neurologie Campus Benjamin Franklin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12200</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ECRC Experimental and Clinical Research Center, Charité Campus Berlin Buch, Memory Clinic</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum rechts der Isar der TU München; Klinik für Psychiatrie und Psychotherapie</name>
+      <address>
+        <city>München</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Giovanni Calibita Fatebenefratell;Neurologia</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00186</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione San Raffaele Del Monte Tabor; Dipartimento Di Neurologia</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Cardinale Panico; Dip.Ricerca Clinica in Neurologia - UO Malattie Neurodegenerative</name>
+      <address>
+        <city>Tricase (LE)</city>
+        <state>Puglia</state>
+        <zip>73039</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ Vitamed</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-079</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indywidualna Praktyka Lekarska Prof. Dr Hab. N. Med. Konrad Rejdak.</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-016</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Senior Sp. Z O.O. Poradnia Psychogeriatryczna</name>
+      <address>
+        <city>Sopot</city>
+        <zip>81-855</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne Euromedis Sp. z o.o.</name>
+      <address>
+        <city>Szczecin</city>
+        <zip>70-111</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne NeuroProtect</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01-684</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ WCA</name>
+      <address>
+        <city>Wrocław</city>
+        <zip>53-659</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlínica Guipuzcoa; Servicio de Neurología</name>
+      <address>
+        <city>Donostia-san Sebastian</city>
+        <state>Guipuzcoa</state>
+        <zip>20014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Quiron de Madrid; Servicio de Neurologia</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de la Princesa; Servicio de Neurologia</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre; Servicio de Neurologia</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari i Politecnic La Fe; Servicio de Neurología</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Re-Cognition</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B16 8QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fritchie Centre</name>
+      <address>
+        <city>Cheltenham</city>
+        <zip>GL53 9DZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Surrey and Borders NHS Foundation Trust; Brain Science Research Unit</name>
+      <address>
+        <city>Chertsey</city>
+        <zip>kt16 9au</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ninewells Hospital</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD12 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charing Cross Hospital; Imperial Memory Unit, Level 10 West</name>
+      <address>
+        <city>London</city>
+        <zip>W6 8RF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>October 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm).</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

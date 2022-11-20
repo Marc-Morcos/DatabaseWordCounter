@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2438">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542109</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Interventional 16-2</org_study_id>
+    <secondary_id>P30AG024978-16</secondary_id>
+    <nct_id>NCT04542109</nct_id>
+  </id_info>
+  <brief_title>REmote Assessment and Dynamic Response Intervention</brief_title>
+  <acronym>READyR</acronym>
+  <official_title>READyR: A Remote Assessment and Dynamic Response Intervention to Support Couples in Planning for Changing Dementia Care Needs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Oregon Health and Science University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Oregon Health and Science University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the READyR study (originally called SHARE-sense) is to redevelop and test an&#xD;
+      intervention program to remotely assess for changing dementia-related care needs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Unmet dementia-related care needs are highly prevalent, and are detrimental to the care&#xD;
+      dyad's (person with dementia and their family care partner) health, safety, mortality, and&#xD;
+      likelihood of nursing home placement. The first phase of this study involves redevelopment of&#xD;
+      the intervention program into a 3-session values-based needs assessment intervention&#xD;
+      (delivered over 6 weeks) designed for early-stage persons with dementia and their primary&#xD;
+      family caregiver (i.e. spouse or partner). A secondary data analysis and focus groups will be&#xD;
+      conducted in order to complete the redevelopment phase. Objective digital data on behavioral&#xD;
+      patterns (from sensors and wearables) will be incorporated into a needs assessment that will&#xD;
+      allow for dynamic tailoring of the READyR program to new and unforeseen care needs.&#xD;
+&#xD;
+      People who voluntarily decide to participate in this study will be asked to participate in&#xD;
+      three sessions: Session 1 for baseline assessments gathered from all participants (including&#xD;
+      remote in-home monitoring), Session 2 for discussing the participant's care values and their&#xD;
+      alignment with current patterns of activities (assessed by remote monitoring) in the home,&#xD;
+      and Session 3 for addressing current dementia related care needs and setting goals for the&#xD;
+      future.&#xD;
+&#xD;
+      Participants who complete this study will be offered participation in a follow-up monitoring&#xD;
+      period to further study the possibilities for dynamic tailoring of their dementia-related&#xD;
+      needs assessment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 27, 2021</start_date>
+  <completion_date type="Actual">June 17, 2022</completion_date>
+  <primary_completion_date type="Actual">June 17, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Dyads will be randomized (assigned by chance) to one of two groups: 1) READyR A or 2) READyR B (Wait List Control).</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean difference effect sizes for pre-post change the care dyad's preparation for future care needs</measure>
+    <time_frame>Baseline, 6 weeks, 12 weeks</time_frame>
+    <description>The Preparation for Future Care Needs Scale (Short Form) assesses the degree to which an individual has engaged in planning for future care needs in late life using 15 items and 5 subscales representing distinct planning processes (awareness, gathering information, decision making, concrete planning, avoidance). Items are scored on a 5 point Likert scale with higher scores indicating greater preparation for future care needs. Sorensen, S., Chapman, B. P., Duberstein, P. R., Pinquart, M., &amp; Lyness, J. M. (2017). Assessing future care preparation in late life: Two short measures. Psychol Assess, 29(12), 1480-1495.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in the care dyad's relationship quality</measure>
+    <time_frame>Baseline, 6 weeks, 12 weeks</time_frame>
+    <description>The Dyadic Relationship Scale assesses the positive dyadic interactions and negative dyadic strain experienced by caregivers (11 items) and care recipients (10 items). Items are averaged for a summary score that ranges from 0 to 3, with higher scores indicating more positive interactions in the relationship, or more relationship strain, respectively. Sebern, M.D. &amp; Whitlatch, C.J. (2007). Dyadic Relationship Scale: A measure of the impact of the provision and receipt of family care. The Gerontologist, 47(6), 741-751.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in care-related strain</measure>
+    <time_frame>Baseline and weekly for 12 weeks</time_frame>
+    <description>Subjective strain from caregiving will be assessed among family care partners at baseline and follow-up assessments using the Zarit Burden Interview (ZBI), short-form (12 items). Scores range from 0-48 with higher scores indicating a greater degree of strain from providing care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in quality of life</measure>
+    <time_frame>Baseline, 6 weeks, and 12 weeks</time_frame>
+    <description>The Quality of Life: Alzheimer's Disease Scale assesses individual perceptions of quality of life (from poor to excellent) across 13 items. Items are averaged for a summary score of 1 to 4, higher scores indicating greater degree of quality of life. Logsdon, R. G., Gibbons, L. E., McCurry, S. M., &amp; Teri, L. (1999). Quality of Life in Alzheimer's Disease: Patient and Caregiver Reports. Journal of Mental Health and Aging, 5(1), 21-32.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean difference effect sizes for pre-post change in concealment of emotions.</measure>
+    <time_frame>Baseline, 6 weeks, and 12 weeks</time_frame>
+    <description>The Emotional Intimacy Disruptive Behavior Scale (8 items) assesses the frequency of engagement in behaviors to conceal emotions about an illness from one's partner. Druley, J. A., Stephens, M. A. P., &amp; Coyne, J. C. (1997). Emotional and physical intimacy in coping with Lupus: Women's dilemmas of disclosure and approach. . Health Psychology, 16, 506-514.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Dementia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Relationship, Marital</condition>
+  <condition>Caregiver Stress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>READyR A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group A will start the READyR intervention immediately after the baseline Session 1. The READyR program consists of a 3-session, values-based needs assessment intervention designed to match objectively-assessed in-home activity patterns with subjective reports of participants' care values. The goal of the intervention is to address unmet dementia-related care needs and help couples prepare for the future, and reduce strain on their relationship, and help maintain their health and well-being. Session 2 will occur approximately 3 weeks after Session 1, and Session 3 will occur approximately 3 weeks after Session 2. Session 3 also includes follow-up assessments.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>READyR B (wait list comparison)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Group B - the wait list comparison group - will have a 60-minute support session (comparator intervention) about 3 weeks after the baseline Session 1. The support session will include general information about dementia-related care needs that does not take into account the individual participant's care values or objective in-home activity patterns. They will also receive a check-in call approximately 3 weeks later, with follow-up assessments. Group B will begin the READyR intervention sessions following completion of follow-up assessments.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>READyR A</intervention_name>
+    <description>Two active sessions to conduct an individually-tailored dementia-related needs assessment, incorporating the participant's care values and objective data from remote in-home monitoring.</description>
+    <arm_group_label>READyR A</arm_group_label>
+    <other_name>SHARE-sense</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>READyR B</intervention_name>
+    <description>Active comparator. Two sessions to deliver general information about dementia-related care needs.</description>
+    <arm_group_label>READyR B (wait list comparison)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Persons with Dementia&#xD;
+&#xD;
+        Inclusion:&#xD;
+&#xD;
+          1. 62 years or older;&#xD;
+&#xD;
+          2. Able to identify a family care partner over age 20 who is living with you and will&#xD;
+             also consent to fully participate in the study;&#xD;
+&#xD;
+          3. Probable or confirmed diagnosis of mild cognitive impairment or early-stage dementia&#xD;
+&#xD;
+          4. Age and education adjusted MOCA score &gt; 15 (at most recent measurement by parent&#xD;
+             study) corresponding to early to moderate stage dementia&#xD;
+&#xD;
+        Exclusion:&#xD;
+&#xD;
+          1. Inability to speak English or read printed materials in English&#xD;
+&#xD;
+          2. Conditions that would limit participation at entry to study (e.g. visual or hearing&#xD;
+             impairments prohibiting reading and discussing the intervention materials);&#xD;
+&#xD;
+          3. Any uncontrolled medical condition that is expected to preclude completion of the&#xD;
+             study, such as late stage cancers.&#xD;
+&#xD;
+        Family Care Partners&#xD;
+&#xD;
+        Inclusion:&#xD;
+&#xD;
+          1. 21 years or older;&#xD;
+&#xD;
+          2. Self-identifying as a family member and care partner residing with the PwD&#xD;
+             participant;&#xD;
+&#xD;
+        Exclusion:&#xD;
+&#xD;
+          1. Inability to speak English or read printed materials in English&#xD;
+&#xD;
+          2. Conditions that would limit participation at entry to study (e.g. visual or hearing&#xD;
+             impairments prohibiting reading and discussing the intervention materials);&#xD;
+&#xD;
+          3. Any uncontrolled medical condition that is expected to preclude completion of the&#xD;
+             study, such as late stage cancers.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>62 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lyndsey M Miller, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>August 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2020</study_first_posted>
+  <last_update_submitted>June 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 30, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Oregon Health and Science University</investigator_affiliation>
+    <investigator_full_name>Lyndsey Miller</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Needs Assessment</keyword>
+  <keyword>Family Caregiver</keyword>
+  <keyword>Technology</keyword>
+  <keyword>Remote Monitoring</keyword>
+  <keyword>Care Values</keyword>
+  <keyword>Aging-in-place</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified IPD will be available upon request to our Alzheimer's Disease Research Center</ipd_description>
+    <ipd_time_frame>Data will become available after completion of study and after publication of primary study aims.</ipd_time_frame>
+    <ipd_access_criteria>Requests need to made to the PI at the Oregon Alzheimer's Disease Research Center (OARDC). A short data request form will need to be submitted to the OADRC</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

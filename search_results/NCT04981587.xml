@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1356">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04981587</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CEIH/FEB.21/8.TES</org_study_id>
+    <nct_id>NCT04981587</nct_id>
+  </id_info>
+  <brief_title>Effects of Strength Exercise on Fall Risk in Elderly With Alzheimer's Disease</brief_title>
+  <official_title>Effects of Strength Exercise on Fall Risk in Elderly With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Jaén</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Jaén</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Interventional study to show the effects of strength exercise on fall risk in elderly with&#xD;
+      Alzheimer's disease&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 1, 2021</start_date>
+  <completion_date type="Actual">March 4, 2022</completion_date>
+  <primary_completion_date type="Actual">December 10, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline Short physical performance battery (SPPB) at 3 and 6 months</measure>
+    <time_frame>Baseline, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>Informs about fall risk and mobility Score: 0-12 High score means better result</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Activities specific balance confidence scale (ABC scale) at 3 and 6 months</measure>
+    <time_frame>Baseline, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>This questionnaire allows to measure the balance of a person Score: 0-100% High percentage means better result</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Lawton Instrumental Activities of Daily Living Scale (IADL) at 3 and 6 months</measure>
+    <time_frame>Baseline, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>This tool gives us information about performance in activities of daily living Score: 0-8 High score means better result</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Quality of life Alzheimer Disease (QoL-AD) at 3 and 6 months</measure>
+    <time_frame>Baseline, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>Through this test we can know the level of quality of life of users who suffer from this disease Score: 0-52 High score means better result</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline FRAIL test at 3 and 6 months</measure>
+    <time_frame>Baseline, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>This rapid test allows to determine the state of frailty of older people Score: 0-5 High score means worst result</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Mini Mental State Examination (MMSE) at 3 and 6 months</measure>
+    <time_frame>Baseline, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>This test gives us information about the cognitive performance of the participants Score: 0-30 High score means better result</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Neuropsychiatric Inventory (NPI-Q) at 3 and 6 months</measure>
+    <time_frame>Baseline, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>This tool allows to specify the neuropsychiatric symptoms patients present Score: 0-36 High score means worst result</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline Manual dynamometry at 1,2,3 and 6 months</measure>
+    <time_frame>Baseline, 1, 2, 3 and 6 months (3 months after intervention)</time_frame>
+    <description>This test allows to quantify force an individual presents in a simple way Score: 0-∞ High score means better result</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Borg scale</measure>
+    <time_frame>3 times/week during strength exercises sessions</time_frame>
+    <description>In this way we can measure the level of perceived exertion during the intervention with strength exercise Score: 0-10 High score means more fatigue</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline One Maximum repetition strength test (1 MR) at 1,2,3 and 6 months</measure>
+    <time_frame>Baseline, 1 , 2 , 3 and 6 months (3 months after intervention)</time_frame>
+    <description>Allows you easily to assess maximum strength Score: 0-∞ High score means more strength level</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">64</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia; Alzheimer's Type (Etiology)</condition>
+  <condition>Fall Risk</condition>
+  <condition>Elderly</condition>
+  <condition>Resistance Training</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is the group that receives strength exercise in addition to usual treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This is the group that only receives usual treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Strength exercise</intervention_name>
+    <description>Strength exercise protocol for upper and lower limbs, using weights and elastic bands</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Usual treatment</intervention_name>
+    <description>The usual treatment is based on activities to enhance brain functions: attention, memory, executive functions, language and orientation.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  accept to participate in the study, through informed consent&#xD;
+&#xD;
+          -  subjects aged 60 or over with medical diagnosis of Azlheimer´s disease&#xD;
+&#xD;
+          -  minimal physical and mental state to perform the cognitive tests and strength exercise&#xD;
+             routine&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Neurodegenerative disease other than Alzheimer's disease&#xD;
+&#xD;
+          -  Suffering from serious somatic or psychiatric illnesses&#xD;
+&#xD;
+          -  Patients who have practiced strength exercise regularly&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexander Achalandabaso, Phd</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Jaen</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>A.F.A La Estrella</name>
+      <address>
+        <city>Jaén</city>
+        <state>Andalucía</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alexander achalandabaso</name>
+      <address>
+        <city>Alcalá De Henares</city>
+        <state>Madrid</state>
+        <zip>28805</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>July 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2021</study_first_posted>
+  <last_update_submitted>March 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 7, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Jaén</investigator_affiliation>
+    <investigator_full_name>Alexander Achalandabaso</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>alzheimer disease</keyword>
+  <keyword>elderly</keyword>
+  <keyword>exercise</keyword>
+  <keyword>fall risk</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

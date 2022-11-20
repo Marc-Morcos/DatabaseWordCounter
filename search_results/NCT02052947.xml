@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1369">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02052947</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2013.795</org_study_id>
+    <nct_id>NCT02052947</nct_id>
+  </id_info>
+  <brief_title>Co-LEsions in Alzheimer Disease and Related Disorders</brief_title>
+  <acronym>CLEM</acronym>
+  <official_title>Co-LEsions in Alzheimer Disease and Related Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospices Civils de Lyon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospices Civils de Lyon</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      One of the crucial challenges for the future of Alzheimer's disease (AD) therapeutic&#xD;
+      approaches in elderly is to target the main pathological process responsible for disability&#xD;
+      and dependency. However, a progressive cognitive impairment occurring after the age of 70 is&#xD;
+      often related to mixed lesions of neurodegenerative and vascular origins. Whereas young&#xD;
+      patients are mostly affected by pure lesions, aging favors the occurrence of co-lesions of&#xD;
+      AD, vascular and Lewy body types. Pure DLB (Dementia with Lewy Body) and AD are distinct&#xD;
+      disorders but they often coexist in old age patients, the Abeta pathology of DLB/AD cases&#xD;
+      being different to that observed in patients with AD alone. Vascular dementia (VD) and AD&#xD;
+      with cerebrovascular disease (AD+CVD) are the leading causes of dementia next to AD alone.&#xD;
+      Lack of consensus persists about the diagnosis criteria for VD and AD+CVD, due in part to&#xD;
+      their clinical, pathological heterogeneity and the multiple pathological subtypes.&#xD;
+&#xD;
+      We do not know the precise role and weight of each brain lesion type in the disability&#xD;
+      progression in elderly. To target the actual pathological process, we need to disclose the&#xD;
+      functional weight of AD, Lewy body and vascular lesion types in elderly. Most of the studies&#xD;
+      report on functional and clinical abnormalities in patients with pure pathologies. Thus,&#xD;
+      co-morbid processes involved in the transition from an independent functional status to&#xD;
+      disability in the elderly with co-lesions still remain to be elucidated. Neuropathological&#xD;
+      examination often performed at late stages cannot answer this question at mild or moderate&#xD;
+      stages.&#xD;
+&#xD;
+      Brain MRI, Single Photon Emission Computed Tomography (SPECT) with DaTscan® and CSF&#xD;
+      biomarkers help routinely in performing the diagnosis of pure or mixed lesions responsible&#xD;
+      for dementia. The topography of the atrophy in MRI helps to provide information about the&#xD;
+      etiological diagnosis. Medial temporal lobe atrophy on MRI has good discriminatory power for&#xD;
+      AD compared to DLB and VD in pathologically confirmed cases. DaTscan® SPECT presents with&#xD;
+      good sensitivity and specificity at early stages of DLB. The good diagnosis value of CSF&#xD;
+      biological markers has led recently to their inclusion in the research diagnosis criteria of&#xD;
+      AD. Low Aβ1-42 and high levels of total tau and hyperphosphorylated tau isoforms appear to be&#xD;
+      the most sensitive and specific CSF biomarkers. Aβ1-42 is lowered in AD, as well as in other&#xD;
+      neurodegenerative diseases like DLB, VD. The combination of MRI, particularly medial temporal&#xD;
+      atrophy measures and vascular lesions on FLAIR MRI sequences, SPECT and CSF biomarkers seem&#xD;
+      to be of incremental value for the diagnosis AD, VD, DLB and mixed profiles.&#xD;
+&#xD;
+      The aim of this study is to identify the biomarkers (MRI, SPECT-DaTscan® and CSF), and their&#xD;
+      combination, that are the most predictive of functional disability in elderly presenting with&#xD;
+      a progressive cognitive decline related to AD, DLB, VD and all mixed patterns.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date>January 2014</start_date>
+  <completion_date type="Anticipated">October 2020</completion_date>
+  <primary_completion_date type="Anticipated">July 2018</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disability progression</measure>
+    <time_frame>2 years</time_frame>
+    <description>defined by the Disability Assessment in Dementia (DAD) scale (Gauthier, Gelinas et al. 1997; Gelinas, Gauthier et al. 1999)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychological inventory</measure>
+    <time_frame>2 years</time_frame>
+    <description>For the diagnosis and initial correlation with imaging and CSF markers, o For longitudinal assessments : MMSE (Folstein, Folstein et al. 1975), Batterie Rapide d'Efficience Frontale (BREF) (Dubois, Slachevsky et al. 2000) Adas-Cog (Rosen, Mohs et al. 1984)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NeuroPsychiatric inventory</measure>
+    <time_frame>2 years</time_frame>
+    <description>Inventory described in Cummings, Mega et al. 1994</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical/serum markers</measure>
+    <time_frame>2 years</time_frame>
+    <description>Disability progression and cognitive decline</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">214</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Cerebrovascular Disease</condition>
+  <condition>Lewy Body Disease</condition>
+  <arm_group>
+    <arm_group_label>SPEC-DaTscan</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>SPEC-DaTscan</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>SPECT-DaTscan</intervention_name>
+    <description>Measurement of fixation of DaTscan® in the caudate and lenticular nucleus&#xD;
+LP (Lumbar Puncture): the LP will follow the last guidelines published in 2011 (Armand Perret-Liaudet is co-author of these guidelines; Perret-Liaudet A. et al, Cerebrospinal Fluid Collection Tubes: a critical issue for Alzheimer Disease diagnosis. Clin Chem, 2012, accepted).</description>
+    <arm_group_label>SPEC-DaTscan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female subject aged over 70 years&#xD;
+&#xD;
+          -  Out-patient consulting at one of the Memory Centres participating to the study&#xD;
+&#xD;
+          -  Patients meeting diagnosis criteria for dementia due to Alzheimer's disease (McKhann,&#xD;
+             Knopman et al. 2011), vascular dementia (NINCDS-AIREN criteria, Roma´n, G. C.,&#xD;
+             Tatemichi, T. K., Erkinjuntti, T., et al. (1993), Lewy body disease (McKeith, Dickson&#xD;
+             et al. 2005), and patients presenting with mixed signs and symptoms suggesting a&#xD;
+             combination of these diagnosis&#xD;
+&#xD;
+          -  Mild or moderate dementia stage (MMSE criteria &gt; 15)&#xD;
+&#xD;
+          -  Being affiliated to health insurance&#xD;
+&#xD;
+          -  Patient with sufficient visual, auditory and oral and written French language skills&#xD;
+             to complete the clinical and neuropsychological evaluations&#xD;
+&#xD;
+          -  Accompanied by a close relation in sufficient contact with the subject to assess their&#xD;
+             dependency&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with psychiatric disorders (Axe 1 DSMIV (Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders) disease) excepted patients with depressive or anxious disorders&#xD;
+             stabilized for more than 3 months&#xD;
+&#xD;
+          -  Patients taking any neuroleptic psychotropic medication&#xD;
+&#xD;
+          -  Patients taking other psychotropic medication, with the exception of any&#xD;
+             antidepressant, hypnotic, anxiolytic, acetylcholinesterase inhibitors or memantine&#xD;
+             which has been prescribed and stabilised for more than 3 months&#xD;
+&#xD;
+          -  Patients with signs and symptoms suggestive of dementia related to other diseases than&#xD;
+             AD, vascular and Lewy diseases, or mixed forms&#xD;
+&#xD;
+          -  Patients with other neurological diseases&#xD;
+&#xD;
+          -  Patients with progressive and unstable pathologies which could interfere with the&#xD;
+             variables under consideration&#xD;
+&#xD;
+          -  Deafness or blindness which could compromise evaluation of the patient&#xD;
+&#xD;
+          -  Patients being not able to undergo DaTscan®: with moderate or severe hepatic or renal&#xD;
+             impairment, a known hypersensitivity to ioflupane or any of the excipients&#xD;
+&#xD;
+          -  Patient living in an institution&#xD;
+&#xD;
+          -  Patient meeting brain MRI exclusion criteria (pacemakers, aneurysm clips, artificial&#xD;
+             heart valves, ear implants, metal fragments or foreign objects in the eyes, skin, or&#xD;
+             body) or refusing MRI&#xD;
+&#xD;
+          -  Patient being under guardianship&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>70 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nawele Boublay</last_name>
+    <phone>0472856302</phone>
+    <phone_ext>+33</phone_ext>
+    <email>nawele.boublay@chu-lyon.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hopital Charpennes</name>
+      <address>
+        <city>Villeurbanne</city>
+        <zip>69100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nawele Boublay</last_name>
+      <phone>00334.27.85.63.02</phone>
+      <email>nawale.boublay@chu-lyon.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Pierre KROLAK-SALMON</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>August 2017</verification_date>
+  <study_first_submitted>January 16, 2014</study_first_submitted>
+  <study_first_submitted_qc>January 31, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 3, 2014</study_first_posted>
+  <last_update_submitted>August 22, 2017</last_update_submitted>
+  <last_update_submitted_qc>August 22, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 23, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>cerebrovascular disease</keyword>
+  <keyword>Lewy body disease</keyword>
+  <keyword>MRI</keyword>
+  <keyword>SPECT</keyword>
+  <keyword>CSF</keyword>
+  <keyword>biomarkers</keyword>
+  <keyword>disability</keyword>
+  <keyword>Multicenter and prospective cohort study</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cerebrovascular Disorders</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

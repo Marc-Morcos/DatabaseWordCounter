@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2807">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05343611</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JPI- ERAHDL</org_study_id>
+    <nct_id>NCT05343611</nct_id>
+  </id_info>
+  <brief_title>Chocolate and Physical Exercise to Reduce Malnutrition in Pre-dementia Aged People</brief_title>
+  <acronym>Choko-AGE</acronym>
+  <official_title>Combining Vitamin E-functionalized CHOcolate With Physical Exercise to Reduce the risK Of Protein Energy Malnutrition in Pre-dementia AGEd People</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massimo Venturelli, PhD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Of Perugia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>INCLIVA</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Molde University College</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Liverpool</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Molecular Horizon S.r.l.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Nestlé Italiana S.p.A.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universita di Verona</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We hypothesize that the antioxidant and cytoprotective functions of vitamin E combined with&#xD;
+      the cortisol-lowering effect of chocolate polyphenols and physical activity may help prevent&#xD;
+      the age-dependent decline of mitochondrial function and nutrient metabolism in skeletal&#xD;
+      muscle, key underpinning events in protein-energy malnutrition (PEM) and muscle wasting in&#xD;
+      the elderly. To test this hypothesis, a vitamin E functionalized dark chocolate rich in&#xD;
+      polyphenols will be developed with the collaboration of Nestlè Company, and its effects will&#xD;
+      be investigated combined with physical activity in a 6-month randomized case-control trial on&#xD;
+      pre-dementia elderly patients, a well-defined population of subjects at risk of&#xD;
+      undernutrition and frailty. Subjects stabilized on a protein-rich diet (0.9-1.0 g protein/Kg&#xD;
+      ideal body weight/day) and physical exercise program (High Intensity Interval Training&#xD;
+      specifically developed for these subjects), will be randomized in 3 groups (n = 25 each):&#xD;
+      controls (Group A) will maintain the baseline diet and cases will receive either 30 g/day of&#xD;
+      dark chocolate containing 500 mg total polyphenols (corresponding to 60 mg epicatechin) and&#xD;
+      100 mg vitamin E (as RRR-alpha-tocopherol) (Group B) or the high polyphenol chocolate without&#xD;
+      additional vitamin E (Group C). Diet will be isocaloric and with the same intake of&#xD;
+      polyphenols and vitamin E in the 3 groups. Muscle mass will be the primary endpoint and other&#xD;
+      clinical endpoints will include neurocognitive status and previously identified biomolecular&#xD;
+      indices of frailty in pre-dementia patients. Muscle biopsies will be collected to assess&#xD;
+      myocyte contraction and mitochondrial metabolism. Laboratory endpoints will include the&#xD;
+      nutritional compliance to the proposed intervention (blood polyphenols and vitamin E status&#xD;
+      and metabolism), 24-h salivary cortisol, steroid hormones and IGF-1, and molecular indices of&#xD;
+      inflammation, oxidant stress, cell death and autophagy. These parameters will be investigated&#xD;
+      in muscle and blood cells by state-of-the-art omics techniques. Molecular and nutritional&#xD;
+      findings will also be confirmed in vitro using skeletal myotubes, blood leukocytes and neural&#xD;
+      cell lines. Clinical and laboratory results will be processed by a dedicated bioinformatics&#xD;
+      platform (developed with the external collaboration of the omics company Molecular Horizon&#xD;
+      Srl) to interpret the molecular response to the nutritional intervention and to personalize&#xD;
+      its application.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND Older adults are particularly vulnerable to undernutrition, a state resulting from&#xD;
+      defective food intake or uptake (nutrient deficiencies) leading to altered body composition&#xD;
+      and weight loss. Muscle wasting is a major drawback of this condition and a symptom of&#xD;
+      protein-energy malnutrition (PEM) and metabolic reprogramming of tissues that increase the&#xD;
+      ageing process. These changes sustain insulin resistance and impaired mitochondrial&#xD;
+      metabolism of critical organs and tissues, including skeletal muscle. Prevention of&#xD;
+      undernutrition is critical. Undernutrition correlates with an accelerated and general decline&#xD;
+      in health conditions (worsening both physical and cognitive/mental aspects), thus increasing&#xD;
+      the risk of frailty and finally accelerating physical and cognitive decline. Under these&#xD;
+      circumstances, the majority of people experience a significant loss of locomotor function,&#xD;
+      with a significant decline in quality of life, and a high risk of falls which often&#xD;
+      represents the terminal event in life. These factors can lower the frailty threshold for the&#xD;
+      oldest-old, with the consequent loss of adaptability, which is an essential feature of&#xD;
+      successful ageing. This process of deteriorating mobility is multifactorial and also includes&#xD;
+      decline in cognitive function, increased bone fragility, and reduced joint flexibility.&#xD;
+&#xD;
+      Strong evidence suggests that ageing and cognitive decline are associated with dysregulation&#xD;
+      of the hypothalamic-pituitary-adrenal axis (HPA axis), with a clear increase in cortisol&#xD;
+      levels. The effects of hypercortisolism are far-reaching, affecting the skeletal muscle&#xD;
+      widely, thus leading to significant sarcopenia and fragility. It is well known that HPA axis&#xD;
+      activity is impaired in Alzheimer's disease (AD) patients. This dysregulation induces an&#xD;
+      increase in cortisol levels. High levels of cortisol, one of the most catabolic hormones,&#xD;
+      also lead to noticeable sarcopenia. Mechanistic aspects include antagonistic effects on the&#xD;
+      insulin axis (secondary insulin resistance) and consequent metabolic reprogramming of tissues&#xD;
+      to gluconeogenesis sustained by non-carbohydrate precursors that include amino acids derived&#xD;
+      from the proteolytic degradation of muscle proteins. Comorbidity in frail people can further&#xD;
+      sustain the secretion and metabolic effects of cortisol, especially undernutrition and PEM.&#xD;
+      Some of us previously showed that cortisol levels are significantly higher in patients with&#xD;
+      AD and severity of the behavioural symptoms, and more importantly, changes in body mass,&#xD;
+      significantly correlated with cortisol levels. Therefore, cortisol levels, which are not&#xD;
+      regularly evaluated in AD patients, would help predict patients at risk of weight loss.&#xD;
+&#xD;
+      Moreover, recent findings revealed a significant decrease in cortisol levels in response to&#xD;
+      chronic physical activity in healthy individuals and patients with dementia. Physical&#xD;
+      activity treatment (PT) is a non-pharmacological treatment with great potential to attenuate&#xD;
+      the cognitive decline in healthy elderly. In patients with Mild Cognitive Impairment (MCI) it&#xD;
+      was observed that 6 months of PT significantly ameliorates BMI, 6' Walking Test (6MWT),&#xD;
+      systolic and diastolic blood pressure, glucose, cholesterol, and triglycerides. Importantly,&#xD;
+      PT may preferably be undertaken as high aerobic intensity (85-95% of maximal heart rate)&#xD;
+      intervals (HIT), as this yields superior effects on the cardiovascular system compared with&#xD;
+      PT of moderate or low intensity. HIT has successfully been applied in older individuals&#xD;
+      (8,9), and in frail populations such as patients with heart failure.&#xD;
+&#xD;
+      Along with physical activity, macro and micronutrients, are reported to interact with the&#xD;
+      activity of HPA-axis and to help reducing cortisol levels. Chocolate polyphenols appear to&#xD;
+      have significant effects with impact on both mental well-being and metabo-inflammatory&#xD;
+      symptoms of chronic exposure to such stress hormone (3,11-13). Cocoa-derived flavonoids can&#xD;
+      lower the levels of the active hormone cortisol. Mechanistically, these natural molecules&#xD;
+      inhibit 11β-hydroxysteroid dehydrogenase (11β-HSD) type 1, an enzyme involved in reducing&#xD;
+      cortisone to the active form cortisol. The intake of these and many other micronutrients and&#xD;
+      homeostatic factors decrease with aging due to general worsening of quantity and quality of&#xD;
+      food intake. Together with micronutrients, protein intake is a critical aspect and a major&#xD;
+      risk factor for PEM and frailty. Nutritional supplementation for frail people has been shown&#xD;
+      to slow their functional decline, improving both muscle mass and strength, particularly if&#xD;
+      this is combined with physical activity. It is now established that nutritional&#xD;
+      recommendations, including adequate protein and micronutrient intake, are important for a&#xD;
+      better quality of life in the elderly, which is common management approach of older people&#xD;
+      who are frail or at risk for developing frailty.&#xD;
+&#xD;
+      Vitamin E is a fat-soluble essential micronutrient with unique properties as antioxidant and&#xD;
+      cell protection factor. It is present in cellular membranes of all tissues to scavenge&#xD;
+      peroxyl radicals formed by free radical attack on polyunsaturated fatty acids. This function&#xD;
+      is particularly important to prevent mitochondrial damage and the uncontrolled release of&#xD;
+      free radicals from these organelles in the muscle. Its intake and function as cell protection&#xD;
+      factor and immune system modulator can be compromised in the elderly (20); moreover,&#xD;
+      preclinical and human experimental studies show that vitamin E positively influences myoblast&#xD;
+      proliferation, differentiation, survival, membrane repair, mitochondrial efficiency, muscle&#xD;
+      mass, muscle contractile properties, and exercise capacity. Furthermore, recent studies on&#xD;
+      the human metabolism of vitamin E demonstrated that the biotransformation of this vitamin in&#xD;
+      human tissues forms bioavailable long-chain metabolites with a role as tissue detoxification&#xD;
+      (PXR and PPAR-gamma agonist activity) and anti-inflammatory (LOX-5 inhibition) mediators.&#xD;
+      Therefore, for multiple reasons, vitamin E supplementation in the diet as a measure to&#xD;
+      support physical training in preventing age-associated PEM is worth investigating.&#xD;
+&#xD;
+      AIMS The study aims to investigate if regular consumption of vitamin E-functionalized and&#xD;
+      polyphenol-rich chocolate can support physical exercise high-protein diet to slow down the&#xD;
+      progression of protein-energy undernutrition in pre-dementia elderly people. Specifically,&#xD;
+      the primary aim is to investigate whether regular consumption of vitamin E-functionalized and&#xD;
+      polyphenol-rich chocolate and regular exercise practice boost lower limb muscle mass in&#xD;
+      pre-dementia elderly people. The secondary aims are to investigate the effect of regular&#xD;
+      consumption of vitamin E-functionalized and polyphenol-rich chocolate and regular exercise&#xD;
+      practice on muscle strength, cognitive function, vascular function, metabolic and physical&#xD;
+      functions, as well as mitochondrial respiration, circadian cortisol curve, blood hormones,&#xD;
+      and inflammatory status in blood and mRNA in pre-dementia elderly people.&#xD;
+&#xD;
+      PROCEDURE The study will be a randomized, double blinded, controlled trial with parallel&#xD;
+      groups including active control and shame groups. One hundred and fifty individuals with MCI&#xD;
+      and subjective cognitive decline without functional deficits will be screened for eligibility&#xD;
+      and those that comply with inclusion and exclusion criteria will be confirmed and the&#xD;
+      informed consent will be allocated for testing and undergo preliminary evaluations (T00).&#xD;
+      After preliminary evaluation, all the individuals included in the study will undergo a 4 to&#xD;
+      6-week &quot;Run-in&quot; phase during which the high protein diet (HPro) will be introduced and all&#xD;
+      subjects will be trained to implement the High-Intensity Training physical exercise (HIT)&#xD;
+      program that will be developed during the study. Immediately after the &quot;Run-in&quot;, a&#xD;
+      pre-intervention (T0) evaluation will be undertaken. Consequently, participants stabilized on&#xD;
+      the HPro Diet + HIT which will be the common treatment for all participants, will be randomly&#xD;
+      assigned (utilizing an online statistical computing web program) to one of the three arms of&#xD;
+      the nutritional intervention in which the effect of vitamin E (VE) will be investigated&#xD;
+      separate or combined with the effect of chocolate polyphenols (HPP) compared to control&#xD;
+      treatment. The intervention will last six months; assessments will be performed after three&#xD;
+      months (halfway through the intervention) and at the end of the intervention (T1 and T2,&#xD;
+      respectively). A follow-up assessment will be performed three months after the end of the&#xD;
+      intervention after the restoration of baseline diet and physical activity conditions (T3).&#xD;
+      Each group will include 27 participants; a 20% dropout has been estimated based on previous&#xD;
+      studies.&#xD;
+&#xD;
+      SAMPLE SIZE CALCULATION Proposed sample size is 75 (25 for each group) , according to alpha =&#xD;
+      0.05 and power = 0.8. Main outcome is &quot;muscle mass&quot;, and for all the groups treatment&#xD;
+      duration will be 6 months. In 6 months in the target population the loss of muscle mass is&#xD;
+      assumed to be 1.0-1.5% (+/- 0.5%) [5]. In Control group (Group A), which includes people&#xD;
+      undergoing targeted exercise, the expected increase is 2% (+-0.5%) [5]. In treatment groups&#xD;
+      (Groups B and C) the median expected increase at second follow-up is 4% (+-0.5%), and 1.5%&#xD;
+      (+-0.5%) at 6 months [6]. The rate of lost at follow-up, derived from previous studies, is&#xD;
+      20% (+-2%) [7]. Correlation between repeated measures is assumed to be 0.5, variance&#xD;
+      explained by the between-subjects effect 6.25 and error variance 65. All estimates were&#xD;
+      performed using Stata v.16.1 (StataCorp LP, College Station, TX, USA) by &quot;power repeated&quot;&#xD;
+      command. 14.&#xD;
+&#xD;
+      STATISTICAL ANALYSIS Statistical analysis will be conducted under the supervision of an&#xD;
+      expert in biostatistics (dr Gili, at Coordinator Unit) and with the support of LIPOSTAR&#xD;
+      software provided by external collaborator C2. A two-way repeated measures ANOVA, including&#xD;
+      age and gender as covariates, with &quot;time&quot; as within-group factor and &quot;treatment&quot; as&#xD;
+      between-groups factor will be utilized to calculate difference between groups. In the&#xD;
+      presence of significant effects, a multiple comparisons tests with Bonferroni's correction&#xD;
+      will be performed. The familywise alpha level for significance will be set at 0.05&#xD;
+      (two-tails), with Bonferroni's correction when needed, for all the analyses.&#xD;
+&#xD;
+      SIDE EFFECTS Sides effects may be related to the assessment procedures: strength, voluntary&#xD;
+      activation, and electrically evoked potential tests may cause muscle soreness and discomfort&#xD;
+      during the procedures. In case of persistent discomfort the procedure will be immediately&#xD;
+      stopped. Also, side effect might be caused by blood draw and muscle biopsy: subjects may&#xD;
+      experience some side effects related to the blood draw in the draw site, which normally gets&#xD;
+      between the following days. Also, subjects may experience some soreness in the site of the&#xD;
+      biopsy, muscle tightness and fatigue in the few days after biopsy was taken. In the case of&#xD;
+      these events, subject will be monitored and the family doctor will be informed.&#xD;
+&#xD;
+      DATA AND SAFETY MONITORING COMMITTEE A log-diary will be kept by each participant and will be&#xD;
+      checked weekly by the investigators and collaborators. In the diary participants will include&#xD;
+      information about possible adverse events caused by assessment procedures or related to the&#xD;
+      diet and training, any important points about the response to the interventions, any possible&#xD;
+      discomfort experienced during or after the training, or notes regarding diet and&#xD;
+      supplementation. Prof. Gianluca-Svegliati Baroni of the Gastroenterology Division of the&#xD;
+      University Hospital of Ancona, Italy will serve as external scientific supervisor of the&#xD;
+      clinical trial. He is an expert in clinical and preclinical studies of human nutrition and&#xD;
+      metabolism. He will advise on specific Code: CHOKO-AGE Data: 10/06/2021 Version:1 30 tasks&#xD;
+      and monitor the different phases of clinical trial from organization to implementation of&#xD;
+      activities, data gathering and evaluation/interpretation. The quality assurance standards of&#xD;
+      University of Verona will be adopted to monitor the clinical trial. A delegate of this&#xD;
+      University will be nominated to perform the monitoring of the different phases of the trial&#xD;
+      utilizing internal SOPs. The entire set of clinical procedures, operator's activity and&#xD;
+      collection of experimental data will be verified during a series of visits by the monitor&#xD;
+      that will occur at the beginning and the end of each time point in the study (Time T00 to&#xD;
+      T3).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2022</start_date>
+  <completion_date type="Anticipated">April 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in free-fat soft tissue mass (g)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Change in free-fat soft tissue mass, (FFSTM, g), will be assessed by means of a whole-body scan on a dual-energy X-ray absorptiometry scanner. Values at the regional level (upper limbs, lower limbs and trunk) will be also considered.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in the torque (Nm) and rate of torque development (Nm/s) of quadriceps during Maximal Voluntary Activation and electrically evoked potential</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Maximal voluntary and electrically evoked muscle contractions of the quadriceps muscle of the dominant leg will be measured utilizing a custom-made setup.&#xD;
+The torque (Nm) and rate of torque development (Nm/s) during a maximum voluntary contraction and a tetanic stimulation will be compared in order to estimate the role of central command flow to the muscle in changing the efficiency of the tension development at the tendon.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the one repetition maximum load (kg)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Maximal strength will be obtained as 1- repetition maximum (1RM) in the squat exercise machine (Leg press) 1RM will be recorded as the heaviest lifted load, in kilograms, achieved within 4-8 lifts, applying rest periods of ~4 min and increments of 5 kg between each trial until failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Rate of Force Development (N/s)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Immediately after the 1RM test, using the same apparatus, the Rate of force development (N/s) and peak force (N) will be assessed using a force platform and applying a load corresponding to 75% of the participant's pre-test 1RM. Analyses of early and late phase RFD may provide useful information on the relative neural and muscular contribution, respectively, to the muscle force development</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in submaximal and maximal oxygen consumption (ml/kg/min)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Individuals will perform a 3-speed walking test, on a treadmill. First, the subjects will be asked to stand in resting condition for 2 minutes meanwhile the resting oxygen uptake will be recorded. Then they will be asked to walk three 5-minute bouts of walking at 80%, 100%, and 120% self-selected speed respectively. Oxygen consumption (ml/kg/min) at these three speeds will be considered for the analysis.&#xD;
+Continuously progressing from the submaximal test, maximal oxygen consumption (ml/kg/min) will be measured during a ramped protocol exercise test employing increments every minute to exhaustion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Mini-Mental State Examination score (points)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>The global cognitive functioning will be assessed by means of Mini-Mental State Examination by an expert Neuropsychologist</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Flow-mediated dilation (%)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>The brachial artery will be imaged using a high-resolution ultrasound Doppler system. After baseline brachial artery imaging (basal measurement), a blood pressure cuff will be placed around the forearm and inflated to 250 mmHg for 5 min. Brachial artery images and blood velocity will be obtained continuously 30s before and 2 min after cuff release. Flow-mediated dilation will be calculated as a percentage change of the peak diameter in response to reactive hyperemia in relation to the baseline diameter.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Blood flow delta peak (ml/min) during a Single Passive-Leg Movement test</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>The Single Passive-Leg Movement protocol consists of 30s of resting baseline femoral blood flow data collection, followed by 1 single passive knee flexion and extension with the same measure for the following 60s. Blood mean velocity (Vmean) will be analyzed with 1Hz resolution on the Doppler ultrasound system for 30s at rest and second by second for the 60s following the single passive movement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Pulse Wave Velocity (m/s)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Ultrasound Doppler measurements will be taken at the carotid, common femoral artery and brachial artery, to assess peripheral arterial stiffness. PWV will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in distance (meters) during the 6-minute walking test</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>During the 6-minute walking test, a person has to walk as fast as possible over 6 minutes. The distance (meters) covered in 6 minutes will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in time (min) during the Time-up and go test (TUG)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>The individual will be asked to sit on a chair and at the word &quot;Go&quot; they have to stand up, walk to a 3-meter away marker, turn around it and walk back to the chair and sit down again. This trial will be repeated 3 times and the best score (time) will be recorded.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in score (number of raises) during the 30 seconds Chair-stand test</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>The individual will be asked to sit on a chair, to keep each hand on the opposite shoulder crossed at the wrists. When the test will start, individuals will be asked to rise to a full standing position and then sit back down again, repeating this movement for 30 seconds. The score will be the number of rises done in 30 seconds.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Circadian Cortisol curve (levels at 4 specific time throughout a day, ng/mL)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Salivary cortisol will be measured using plain Sarstedt Salivette collection devices (Nürmbrecht, Germany). Immediately after sample collection, the Salivette tubes will be centrifuged for 2 minutes at 1000 rpm and stored at -80°C until analysis. Cortisol levels will be determined by a time-resolved fluorescence immunoassay.&#xD;
+To assess the circadian cortisol curve the samples will be taken at 7 am, 11 am, 3 pm and 8 pm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Cortisol response to the exercise (delta percentage between before and after a training session, %)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Cortisol acute response to exercise will be derived from salivary cortisol collected right before and right after a single exercise session. Salivary cortisol will be measured using plain Sarstedt Salivette collection devices (Nürmbrecht, Germany). Immediately after sample collection, the Salivette tubes will be centrifuged for 2 minutes at 1000 rpm and stored at -80°C until analysis. Cortisol levels will be determined by a time-resolved fluorescence immunoassay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in IL-6 (pg/mL) and IGF-1 (ng/mL) concentrations.</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>From a blood sample, 100 microlitres of plasma will be obtained with EDTA as anticoagulant, and will be stored at -80ºC until analysis. IL-6 and IGF1 concentration will be measured by a specific Elisa kit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in malondialdehyde (MDA, μM)</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>For the determination of lipid peroxidation (measured as malondialdehyde) by HPLC, we will use the method described by Wong et al. (1987). The thiobarbiturate-MDA adduct will be quantified and this gives an estimation of lipid peroxidation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in mRNA expression</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>RNA samples will be processed by following the specific platform protocols and the final results will be bioinformatically analysed. Expression analysis software and pipelines will be used to analyse the differential expression profiles of the selected genes. We will also analyse SUB-NETWORKS, this is to see the relationships that exist between the different transcripts to try and find common molecular pathways</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the microbiota composition</measure>
+    <time_frame>Baseline (T00), Pre-intervention (T0) after 2-4 weeks, Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Bacterial DNA will be extracted from faecal samples and then amplified and sequenced using a high-throughput next-generation sequencing (NGS) platform able to generate million short sequences (reads) per single run. Sequences will be then processed using a bioinformatic pipeline whose steps that can be summarized as follows: raw data collection, data cleaning, assembly, gene prediction, taxonomic annotation, gene and protein abundance estimation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the muscle histology and fibre typing</measure>
+    <time_frame>Pre-intervention (T0), Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>After the biopsy, a portion of the muscle will be orientated transversely and immersed in an isopentane solution dipped in liquid nitrogen, and subsequently stored at - 80°C., For analysis they will be cut into 10 μm thick cryosections with a cryostat maintained at - 20°C and mounted on glass slides.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the muscle mitochondrial respiration</measure>
+    <time_frame>Pre-intervention (T0), Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>After the biopsy, the muscle fibre bundles will be transferred immediately into respirometer. Biopsy samples of 2-5 mg will be run in duplicate in the two chambers system calibrated. Respirometry will be performed at a chamber temperature of 37°C applying a substrate uncoupler-inhibitor titration (SUIT) protocol optimized for skeletal muscle fibers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the muscle In vitro force characteristics</measure>
+    <time_frame>Pre-intervention (T0), Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>After the biopsy, fibre bundles of 4-6 mm in length and 0.5 mm in diameter will be dissected from the samples and immersed in skinning solution to which the non-ionic detergent Brij 58 had been added. Fiber bundles will then be placed in storage solution and maintained for 24h at 4°C, followed by storage and transport at -20°C.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the muscle single fibre measurements</measure>
+    <time_frame>Pre-intervention (T0), Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>A bundle of permeabilized fibers will be removed from storage solution and placed in relaxing solution on ice. One end of the fibre will be secured to a force transducer, the other end attached to the lever arm of a servomotor. The length of the fibre will be adjusted to obtain an average sarcomere length of 2.5- 2.6 um. Fibre crosssectional area will be measured and relaxed single fibers activated by first immersing them in a chamber containing a low- Ca2+ concentration pre-activating solution for 3 min and then immersing them in a chamber containing high-[Ca2+] activating solution.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the muscle cytokine mRNA</measure>
+    <time_frame>Pre-intervention (T0), Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>A portion of the frozen muscle sample will be thawed on ice. mRNA for a panel of pro-inflammatory cytokines will be examined by quantitative real-time PCR (qPCR). RNA will be isolated using standard Trizol® extraction method and purified using RNeasy clean-up kit; cDNA will be synthesised using iScript first strand kit from 1 μg of isolated RNA. The panel of cytokines to be examined will include CCL2, CCL5, CXCL1 and IL-6, and S29. Targets will be amplified from 1 μg of cDNA using SYBR Green master mix reagent and amplified using a Bio-Rad thermocycler. The threshold cycle for target genes of interest will be normalised to s29 and expressed as fold-change using the delta-delta ct (2-ΔΔct) method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the muscle redox status</measure>
+    <time_frame>Pre-intervention (T0), Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>Assessment of muscle redox status will be undertaken by analysis of the reduced and oxidised glutathione contents of the biopsy together with analysis of the redox status of mitochondria through analysis of the proportion of peroxiredoxin 3 in the oxidised form, and cytosol by analysis of the proportion of peroxiredoxin 2 in the oxidised form.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the muscle proteomics</measure>
+    <time_frame>Pre-intervention (T0), Mid-intervention (T1) after 3 months, Post-intervention (T2) after 3 months and Follow-up (T3) after 3 months</time_frame>
+    <description>A portion of the frozen muscle will be thawed on ice and prepared for proteomic analysis as previously described. A global label-free proteomic approach will be used using an Ultimate 3000 RSLC nano system coupled to a QExactive mass spectrometer. Data analysis will be performed using Proteome Discover and Peaks7 software.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>Dementia</condition>
+  <condition>Dementia, Mild</condition>
+  <condition>Dementia Moderate</condition>
+  <condition>Dementia Senile</condition>
+  <condition>Malnutrition</condition>
+  <condition>Deficiency Nutritional</condition>
+  <condition>Deficiency Diseases</condition>
+  <arm_group>
+    <arm_group_label>Group A (Controls: HPro diet and HIT)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects included in this group will serve as controls and will maintain the HPro Diet + HIT program prescribed to all the participants included in the randomization step of the study. The subjects' diet will be adjusted to receive the same overall intake of calories (+ 180 kcal) and macronutrients (+ 3 g of proteins, 4 g of carbohydrates, +11 g of fat, + 4 g of fibers) that the chocolate products will provide to groups B and C.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B (Case 1: HPP Choko)</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Individuals included in this group will undergo the same diet and physical exercise as Group A and additionally they will add to their diet 30g of 85% dark chocolate high in PP (HPP ≥ 500 mg of PP and corresponding to ≥ 60 mg of epicatechin).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group C (Case 2: HPP/VE Chocolate)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Individuals included in this group will undergo the same diet and physical exercise as Group A and additionally they will add to their diet 30 grams of 85% dark HPP chocolate functionalized with 100 mg Vitamin E per day. On the days of HIT training, the VE/HPP Chocolate will be consumed in the ninety minutes after the end of the training.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Combination of High Protein Diet and Physical Exercise protocol</intervention_name>
+    <description>A high Protein Diet (HPro) will be provided to maintain individual caloric endpoint and to adjust protein intake to 0.9-1.0 g/Kg ideal body weight. Each participant will receive a tailored diet (taking into account personal preference) which will follow common general guidelines. Servings of food high in polyphenols will be limited to one per day.&#xD;
+Physical exercise will be undertaken three times each week for about 50 minutes per session. The intervention will consist of both aerobic and strength training exercises. Aerobic exercise will consist of walking on a treadmill with 4 x 4 minutes at (85-95% of HRmax), interrupted by 3-minute active recovery periods (60-70% of HRmax). Strength exercise consists of maximal strength training, using a seated leg press with 4 sets of 4 repetitions at ~90% of maximal strength (1RM). Rest periods between the sets will be 3-4 min.</description>
+    <arm_group_label>Group A (Controls: HPro diet and HIT)</arm_group_label>
+    <arm_group_label>Group B (Case 1: HPP Choko)</arm_group_label>
+    <arm_group_label>Group C (Case 2: HPP/VE Chocolate)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>HPP Choko</intervention_name>
+    <description>Participants add to their diet with 30 g/day of 85% dark chocolate high in polyphenols</description>
+    <arm_group_label>Group B (Case 1: HPP Choko)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>HPP/VE Choko</intervention_name>
+    <description>Participants add to their diet 30 grams of 85% dark chocolate high in polyphenols, functionalized with 100 mg of Vitamin E per day. On the days of HIT training the HPP/VE Chocolate will be consumed in the ninety minutes after the end of the training</description>
+    <arm_group_label>Group C (Case 2: HPP/VE Chocolate)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Presence of Mild Cognitive Impairment or Mild Dementia. Recruited individuals will be&#xD;
+             assessed by means of Neuropsychological tests (Mini Mental State Examination,&#xD;
+             evaluations criteria from Diagnostic and Statistical Manual for Mental Disorder-5)&#xD;
+             which will be performed by an expert Neuropsychologist&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of kidney or liver failure, or any other liver or kidney disease;&#xD;
+&#xD;
+          -  Presence of gastro-intestinal disorders (i.e. irritable bowel syndrome);&#xD;
+&#xD;
+          -  Presence of food intolerance;&#xD;
+&#xD;
+          -  Presence of heart failure, angina, pulmonary disease, cancer and cancer-related&#xD;
+             cachexia;&#xD;
+&#xD;
+          -  Presence of coagulation disorders;&#xD;
+&#xD;
+          -  Addictive or previous addictive behaviour, defined as the abuse of cannabis, opioids&#xD;
+             or other drugs, carrier of infectious diseases;&#xD;
+&#xD;
+          -  Presence of musculoskeletal diseases;&#xD;
+&#xD;
+          -  Suffering from mental illness, inability to cooperate;&#xD;
+&#xD;
+          -  Suffering from known cardiac conditions (e.g. pacemakers, arrhythmias, and cardiac&#xD;
+             conduction disturbances) or peripheral neuropathy;&#xD;
+&#xD;
+          -  Regular users of any proton pump inhibitors (e.g., omeprazole, lansoprazole,&#xD;
+             pantoprazole), antibiotics, anticoagulant medication or antiplatelet medications in&#xD;
+             high dose (es: acetylsalicylic acid &gt;200mg x day);&#xD;
+&#xD;
+          -  Mini Mental State (MMSE): results &gt;= 24 points&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Massimo Venturelli, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universita di Verona</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Roberto Modena, PhD</last_name>
+    <phone>00390464483508</phone>
+    <email>roberto.modena@univr.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CeRiSM (Sport Mountain and Health Research Center)</name>
+      <address>
+        <city>Rovereto</city>
+        <state>Trento</state>
+        <zip>38068</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Roberto Modena, PhD</last_name>
+      <phone>+390464483508</phone>
+      <email>roberto.modena@univr.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Verona</name>
+      <address>
+        <city>Verona</city>
+        <zip>37131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberto Modena, PhD</last_name>
+      <phone>+390464483508</phone>
+      <email>roberto.modena@univr.it</email>
+    </contact>
+    <investigator>
+      <last_name>Anna Pedrinolla, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Claudia Baschirotto, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Massimo Venturelli, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Roberts SB, Rosenberg I. Nutrition and aging: changes in the regulation of energy metabolism with aging. Physiol Rev. 2006 Apr;86(2):651-67. Review.</citation>
+    <PMID>16601270</PMID>
+  </reference>
+  <reference>
+    <citation>Anderson RM, Weindruch R. Metabolic reprogramming, caloric restriction and aging. Trends Endocrinol Metab. 2010 Mar;21(3):134-41. doi: 10.1016/j.tem.2009.11.005. Epub 2009 Dec 7. Review.</citation>
+    <PMID>20004110</PMID>
+  </reference>
+  <reference>
+    <citation>Grassi D, Lippi C, Necozione S, Desideri G, Ferri C. Short-term administration of dark chocolate is followed by a significant increase in insulin sensitivity and a decrease in blood pressure in healthy persons. Am J Clin Nutr. 2005 Mar;81(3):611-4.</citation>
+    <PMID>15755830</PMID>
+  </reference>
+  <reference>
+    <citation>Venturelli M, Cè E, Limonta E, Muti E, Scarsini R, Brasioli A, Schena F, Esposito F. Possible Predictors of Involuntary Weight Loss in Patients with Alzheimer's Disease. PLoS One. 2016 Jun 27;11(6):e0157384. doi: 10.1371/journal.pone.0157384. eCollection 2016.</citation>
+    <PMID>27347878</PMID>
+  </reference>
+  <reference>
+    <citation>Venturelli M, Sollima A, Cè E, Limonta E, Bisconti AV, Brasioli A, Muti E, Esposito F. Effectiveness of Exercise- and Cognitive-Based Treatments on Salivary Cortisol Levels and Sundowning Syndrome Symptoms in Patients with Alzheimer's Disease. J Alzheimers Dis. 2016 Jul 14;53(4):1631-40. doi: 10.3233/JAD-160392.</citation>
+    <PMID>27540967</PMID>
+  </reference>
+  <reference>
+    <citation>Cavedon V, Milanese C, Laginestra FG, Giuriato G, Pedrinolla A, Ruzzante F, Schena F, Venturelli M. Bone and skeletal muscle changes in oldest-old women: the role of physical inactivity. Aging Clin Exp Res. 2020 Feb;32(2):207-214. doi: 10.1007/s40520-019-01352-x. Epub 2019 Sep 18.</citation>
+    <PMID>31535334</PMID>
+  </reference>
+  <reference>
+    <citation>Helgerud J, Høydal K, Wang E, Karlsen T, Berg P, Bjerkaas M, Simonsen T, Helgesen C, Hjorth N, Bach R, Hoff J. Aerobic high-intensity intervals improve VO2max more than moderate training. Med Sci Sports Exerc. 2007 Apr;39(4):665-71.</citation>
+    <PMID>17414804</PMID>
+  </reference>
+  <reference>
+    <citation>Wang E, Næss MS, Hoff J, Albert TL, Pham Q, Richardson RS, Helgerud J. Exercise-training-induced changes in metabolic capacity with age: the role of central cardiovascular plasticity. Age (Dordr). 2014 Apr;36(2):665-76. doi: 10.1007/s11357-013-9596-x. Epub 2013 Nov 16.</citation>
+    <PMID>24243396</PMID>
+  </reference>
+  <reference>
+    <citation>Støren Ø, Helgerud J, Sæbø M, Støa EM, Bratland-Sanda S, Unhjem RJ, Hoff J, Wang E. The Effect of Age on the V˙O2max Response to High-Intensity Interval Training. Med Sci Sports Exerc. 2017 Jan;49(1):78-85.</citation>
+    <PMID>27501361</PMID>
+  </reference>
+  <reference>
+    <citation>Wisløff U, Støylen A, Loennechen JP, Bruvold M, Rognmo Ø, Haram PM, Tjønna AE, Helgerud J, Slørdahl SA, Lee SJ, Videm V, Bye A, Smith GL, Najjar SM, Ellingsen Ø, Skjaerpe T. Superior cardiovascular effect of aerobic interval training versus moderate continuous training in heart failure patients: a randomized study. Circulation. 2007 Jun 19;115(24):3086-94. Epub 2007 Jun 4.</citation>
+    <PMID>17548726</PMID>
+  </reference>
+  <reference>
+    <citation>Sumiyoshi E, Matsuzaki K, Sugimoto N, Tanabe Y, Hara T, Katakura M, Miyamoto M, Mishima S, Shido O. Sub-Chronic Consumption of Dark Chocolate Enhances Cognitive Function and Releases Nerve Growth Factors: A Parallel-Group Randomized Trial. Nutrients. 2019 Nov 16;11(11). pii: E2800. doi: 10.3390/nu11112800.</citation>
+    <PMID>31744119</PMID>
+  </reference>
+  <reference>
+    <citation>Smith DF. Benefits of flavanol-rich cocoa-derived products for mental well-being: A review. Journal of Functional Foods. 2013; 5 (1): 10-15.</citation>
+  </reference>
+  <reference>
+    <citation>Mao T, Van De Water J, Keen CL, Schmitz HH, Gershwin ME. Cocoa procyanidins and human cytokine transcription and secretion. J Nutr. 2000 Aug;130(8S Suppl):2093S-9S. doi: 10.1093/jn/130.8.2093S.</citation>
+    <PMID>10917928</PMID>
+  </reference>
+  <reference>
+    <citation>Tsang C, Hodgson L, Bussu A, Farhat G, Al-Dujaili E. Effect of Polyphenol-Rich Dark Chocolate on Salivary Cortisol and Mood in Adults. Antioxidants (Basel). 2019 May 29;8(6). pii: E149. doi: 10.3390/antiox8060149.</citation>
+    <PMID>31146395</PMID>
+  </reference>
+  <reference>
+    <citation>Isanejad M, Mursu J, Sirola J, Kröger H, Rikkonen T, Tuppurainen M, Erkkilä AT. Dietary protein intake is associated with better physical function and muscle strength among elderly women. Br J Nutr. 2016 Apr 14;115(7):1281-91. doi: 10.1017/S000711451600012X. Epub 2016 Feb 9.</citation>
+    <PMID>26857389</PMID>
+  </reference>
+  <reference>
+    <citation>Sastre J, Pallardó FV, Plá R, Pellín A, Juan G, O'Connor JE, Estrela JM, Miquel J, Viña J. Aging of the liver: age-associated mitochondrial damage in intact hepatocytes. Hepatology. 1996 Nov;24(5):1199-205.</citation>
+    <PMID>8903398</PMID>
+  </reference>
+  <reference>
+    <citation>Miller CJ, Gounder SS, Kannan S, Goutam K, Muthusamy VR, Firpo MA, Symons JD, Paine R 3rd, Hoidal JR, Rajasekaran NS. Disruption of Nrf2/ARE signaling impairs antioxidant mechanisms and promotes cell degradation pathways in aged skeletal muscle. Biochim Biophys Acta. 2012 Jun;1822(6):1038-50. doi: 10.1016/j.bbadis.2012.02.007. Epub 2012 Feb 15.</citation>
+    <PMID>22366763</PMID>
+  </reference>
+  <reference>
+    <citation>McArdle A, Jackson MJ. Exercise, oxidative stress and ageing. J Anat. 2000 Nov;197 Pt 4:539-41. Review.</citation>
+    <PMID>11197526</PMID>
+  </reference>
+  <reference>
+    <citation>Galli F, Azzi A, Birringer M, Cook-Mills JM, Eggersdorfer M, Frank J, Cruciani G, Lorkowski S, Özer NK. Vitamin E: Emerging aspects and new directions. Free Radic Biol Med. 2017 Jan;102:16-36. doi: 10.1016/j.freeradbiomed.2016.09.017. Epub 2016 Nov 2. Review.</citation>
+    <PMID>27816611</PMID>
+  </reference>
+  <reference>
+    <citation>Wu D, Meydani SN. Age-associated changes in immune function: impact of vitamin E intervention and the underlying mechanisms. Endocr Metab Immune Disord Drug Targets. 2014;14(4):283-9. Review.</citation>
+    <PMID>25244230</PMID>
+  </reference>
+  <reference>
+    <citation>Khor SC, Abdul Karim N, Ngah WZ, Yusof YA, Makpol S. Vitamin E in sarcopenia: current evidences on its role in prevention and treatment. Oxid Med Cell Longev. 2014;2014:914853. doi: 10.1155/2014/914853. Epub 2014 Jul 6. Review.</citation>
+    <PMID>25097722</PMID>
+  </reference>
+  <reference>
+    <citation>Chung E, Mo H, Wang S, Zu Y, Elfakhani M, Rios SR, Chyu MC, Yang RS, Shen CL. Potential roles of vitamin E in age-related changes in skeletal muscle health. Nutr Res. 2018 Jan;49:23-36. doi: 10.1016/j.nutres.2017.09.005. Epub 2017 Sep 21. Review.</citation>
+    <PMID>29420990</PMID>
+  </reference>
+  <reference>
+    <citation>Schubert M, Kluge S, Schmölz L, Wallert M, Galli F, Birringer M, Lorkowski S. Long-Chain Metabolites of Vitamin E: Metabolic Activation as a General Concept for Lipid-Soluble Vitamins? Antioxidants (Basel). 2018 Jan 12;7(1). pii: E10. doi: 10.3390/antiox7010010. Review.</citation>
+    <PMID>29329238</PMID>
+  </reference>
+  <reference>
+    <citation>Bartolini D, De Franco F, Torquato P, Marinelli R, Cerra B, Ronchetti R, Schon A, Fallarino F, De Luca A, Bellezza G, Ferri I, Sidoni A, Walton WG, Pellock SJ, Redinbo MR, Mani S, Pellicciari R, Gioiello A, Galli F. Garcinoic Acid Is a Natural and Selective Agonist of Pregnane X Receptor. J Med Chem. 2020 Apr 9;63(7):3701-3712. doi: 10.1021/acs.jmedchem.0c00012. Epub 2020 Mar 20.</citation>
+    <PMID>32160459</PMID>
+  </reference>
+  <reference>
+    <citation>Wong SH, Knight JA, Hopfer SM, Zaharia O, Leach CN Jr, Sunderman FW Jr. Lipoperoxides in plasma as measured by liquid-chromatographic separation of malondialdehyde-thiobarbituric acid adduct. Clin Chem. 1987 Feb;33(2 Pt 1):214-20.</citation>
+    <PMID>3802504</PMID>
+  </reference>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>April 11, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 18, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 25, 2022</study_first_posted>
+  <last_update_submitted>May 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Universita di Verona</investigator_affiliation>
+    <investigator_full_name>Massimo Venturelli, PhD</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Frailty</keyword>
+  <keyword>Physical Exercise</keyword>
+  <keyword>Undernutrition</keyword>
+  <keyword>Protein deficiency</keyword>
+  <keyword>Chocolate</keyword>
+  <keyword>Vitamin E</keyword>
+  <keyword>Phenols</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Malnutrition</mesh_term>
+    <mesh_term>Deficiency Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

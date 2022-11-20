@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2728">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05019014</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2011P001296</org_study_id>
+    <nct_id>NCT05019014</nct_id>
+  </id_info>
+  <brief_title>Olfactory Deficits in Neurologic Disease</brief_title>
+  <official_title>Olfactory Deficits in Neurologic Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to examine olfactory function in preclinical subjects or&#xD;
+      individuals with neurological diseases such as Probable Alzheimer's Disease (PRAD),&#xD;
+      Frontotemporal Dementias (FTD), Dementia with Lewy Bodies (DLB), Traumatic Brain Injury&#xD;
+      (TBI), and Amyotrophic Lateral Sclerosis (ALS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this study is to examine olfactory function in preclinical subjects [n = 150] or&#xD;
+      individuals with neurological diseases such as Probable Alzheimer's Disease (PRAD) [n = 50],&#xD;
+      Mild Cognitive Impairment [n = 50], Frontotemporal Dementias (FTD) [n = 50], and Dementia&#xD;
+      with Lewy Bodies (DLB) [n = 50] that are part of the Longitudinal Research Cohort of the&#xD;
+      Massachusetts Alzheimer's Disease Research Center (IRB Protocol #: 1999P003693), are being&#xD;
+      treated by neurologists in the Memory Disorders or Movements Disorders Clinics at MGH, or are&#xD;
+      part of the community. The investigators will also examine individuals with Amyotrophic&#xD;
+      Lateral Sclerosis (ALS) [n = 50], ALS probands [n = 50], and ALS family controls [n = 50]&#xD;
+      that are part of the Neurological Clinical Research Institute (NCRI) protocols &quot;NeuroBANK&quot;&#xD;
+      (2013P001670), &quot;Repository&quot; (2006P000982), and &quot;Longitudinal CSF&quot; (2011P000785). Olfactory&#xD;
+      data will be correlated with existing data collected under the above-mentioned IRB protocols.&#xD;
+      The investigators will also be studying olfactory function in patients with mild TBI [n=50],&#xD;
+      and moderate and severe TBI [n=50], that are patients of Spaulding Rehabilitation Network.&#xD;
+      Specifically, the investigators will assess odor discrimination, odor identification, and&#xD;
+      episodic olfactory memory, using the OLFACT olfactometer run by a laptop or through a&#xD;
+      wireless iPad interface (Osmic Enterprises). Olfactory data collected from patients and&#xD;
+      age-matched control subjects [n = 100] will be correlated with existing structural MRI,&#xD;
+      functional MRI, and PET imaging data and with existing neuropsychological data collected&#xD;
+      under IRB protocols 1999P003693 and 2007P002107 (&quot;Neurological Disease Registry&quot;), NeuroBANK™&#xD;
+      IRB protocol 2013P001670, Repository IRB protocol 2006P000982, and Longitudinal CSF IRB&#xD;
+      protocol 2011P000785.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 10, 2011</start_date>
+  <completion_date type="Actual">July 3, 2020</completion_date>
+  <primary_completion_date type="Actual">January 3, 2017</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Selective loss of episodic odor memory (Poor POEM status) will correlate with imaging and neuropsychological signs of neurodegenerative disease.</measure>
+    <time_frame>9 years</time_frame>
+    <description>Poor POEM status determined by comparing the predicted POEM score with the actual POEM score will correlate with entorhinal cortical thickness, and neuropsychological test results.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correct responses on the episodic memory of odor percepts measure will correlate with entorhinal cortical thickness, and neuropsychological test results.</measure>
+    <time_frame>9 years</time_frame>
+    <description>Compare number of trials correctly discriminated; compare number of odors correctly identified; and compare number of hits (accurate episodic memory of exposure to odor), and number of correct rejections (accurate episodic memory of non-exposure to odor). Correlate familiarity with number of hits and correct rejections.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correct responses on the odor percept identification task will correlate with imaging and neuropsychological signs of neurodegenerative disease.</measure>
+    <time_frame>9 years</time_frame>
+    <description>Compare number of trials of odors correctly identified will correlate with entorhinal cortical thickness, and neuropsychological test results.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correct responses on the odor discrimination task will correlate with imaging and neuropsychological signs of neurodegenerative disease.</measure>
+    <time_frame>9 years</time_frame>
+    <description>Compare number of trials correctly discriminated will correlate with entorhinal cortical thickness, and neuropsychological test results.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">201</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Traumatic Brain Injury</condition>
+  <condition>Amyotrophic Lateral Sclerosis</condition>
+  <condition>Frontotemporal Dementia</condition>
+  <condition>Lewy Body Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Neurodegenerative disease</arm_group_label>
+    <description>Participants with a diagnosis of Probable Alzheimer's Disease, prodromal Alzheimer's Disease, Frontotemporal Dementia, Mild Cognitive Impairment, Dementia with Lewy Bodies, mild and moderate/severe TBI, and familial or sporadic ALS per El Escorial Criteria or individuals with known gene mutations associated with ALS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Age-matched controls</arm_group_label>
+    <description>Healthy participants with no diagnosis.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        1. Diagnosis of Probable Alzheimer's Disease, prodromal Alzheimer's Disease,&#xD;
+             Frontotemporal Dementia, Mild Cognitive Impairment, or Dementia with Lewy Bodies or&#xD;
+             mild and moderate/severe TBI.&#xD;
+&#xD;
+          2. Diagnosis of familial or sporadic ALS per El Escorial Criteria or individuals with&#xD;
+             known gene mutations associated with ALS (regardless of clinical phenotype).&#xD;
+&#xD;
+          3. Age-matched controls&#xD;
+&#xD;
+          4. Males and females with a minimum age of enrollment of 18 years. There is no maximum&#xD;
+             age of enrollment.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Probable Alzheimer's Disease, prodromal Alzheimer's Disease,&#xD;
+             Frontotemporal Dementia, Mild Cognitive Impairment, or Dementia with Lewy Bodies or&#xD;
+             mild and moderate/severe TBI.&#xD;
+&#xD;
+          -  Diagnosis of familial or sporadic ALS per El Escorial Criteria or individuals with&#xD;
+             known gene mutations associated with ALS (regardless of clinical phenotype).&#xD;
+&#xD;
+          -  Age-matched controls&#xD;
+&#xD;
+          -  Males and females with a minimum age of enrollment of 18 years. There is no maximum&#xD;
+             age of enrollment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Primary pulmonary disease such as severe emphysema or asthma not under good medical&#xD;
+             control.&#xD;
+&#xD;
+          -  Current sinusitis or common cold or upper respiratory infection, nasal polyps, or&#xD;
+             sinusitis.&#xD;
+&#xD;
+          -  Traumatic or congenital anosmia&#xD;
+&#xD;
+          -  Current or recent (past 6 months) alcohol or substance dependence. A prior history of&#xD;
+             alcohol or substance abuse will not be grounds for exclusion.&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Severe cognitive dysfunction&#xD;
+&#xD;
+          -  Pneumocephalus&#xD;
+&#xD;
+          -  Basilar skull fracture&#xD;
+&#xD;
+          -  Known CSF leak&#xD;
+&#xD;
+          -  Facial fractures to include Lefort I, II or III&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark W Albers, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Dhilla Albers A, Asafu-Adjei J, Delaney MK, Kelly KE, Gomez-Isla T, Blacker D, Johnson KA, Sperling RA, Hyman BT, Betensky RA, Hastings L, Albers MW. Episodic memory of odors stratifies Alzheimer biomarkers in normal elderly. Ann Neurol. 2016 Dec;80(6):846-857. doi: 10.1002/ana.24792. Epub 2016 Nov 23.</citation>
+    <PMID>27696605</PMID>
+  </reference>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>April 7, 2017</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2021</study_first_posted>
+  <last_update_submitted>August 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 24, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Mark William Albers</investigator_full_name>
+    <investigator_title>Frank Wilkens and Family Endowed Scholar/ Asst. Prof. Neurology</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+    <mesh_term>Motor Neuron Disease</mesh_term>
+    <mesh_term>Amyotrophic Lateral Sclerosis</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1005">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04730635</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0000-413</org_study_id>
+    <secondary_id>MK-0000-413</secondary_id>
+    <nct_id>NCT04730635</nct_id>
+  </id_info>
+  <brief_title>Cognition Platform Study in Participants at Risk for Alzheimer's Disease (AD) (MK-0000-413)</brief_title>
+  <official_title>A Clinical Study to Evaluate a Cognitive Platform to Support Development of Symptomatic Therapies in Participants at Risk for Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to assess the ability of a repeated high-frequency&#xD;
+      site-based computerized cognitive assessment to evaluate the potential treatment effects of&#xD;
+      donepezil (MK-0000) compared with placebo among participants with mild cognitive impairment&#xD;
+      (MCI) or mild Alzheimer's Disease (AD). The primary study hypothesis is that the average&#xD;
+      percentage of correct responses on one card learning (OCL) task will be ≥2 percentage points&#xD;
+      in participants receiving donepezil compared with participants receiving placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 23, 2021</start_date>
+  <completion_date type="Anticipated">April 7, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 24, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Single-blind (placebo run-in) followed by double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage Change From Baseline in Correct Responses on the One Card Learning (OCL) Task to Week 8</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+    <description>OCL uses a pattern separation paradigm to assess visual memory. Tthe percentage change from baseline in correct responses on the OCL task up to Week 8 will be compared in participants receiving donepezil with participants receiving placebo.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change From Baseline in the Overall Standard Deviation (sd) in Average OCL Task (Arcsine Square Root Transformed) to Week 8</measure>
+    <time_frame>Baseline, Up to Week 8</time_frame>
+    <description>OCL uses a pattern separation paradigm to assess visual memory. The percentage change from baseline in correct responses on the OCL task up to Week 8 will be compared in participants receiving donepezil with participants receiving placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Correct Responses on the OCL Task</measure>
+    <time_frame>Up to approximately Week 8</time_frame>
+    <description>OCL uses a pattern separation paradigm to assess visual memory. The percentage of correct responses on the OCL task will be compared in participants receiving donepezil with participants receiving placebo up to approximately Week 8.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Donepezil</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive donepezil in doses up to 10 mg once daily (QD), orally in a scheduled titration for Days 1-56. The total treatment duration is 56 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive placebo QD, orally for Days 1-56. The total treatment duration is 56 Days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Donepezil</intervention_name>
+    <description>Donepezil 5 mg capsules for a total daily dose of up to 10 mg QD, orally, for Days 1-56.</description>
+    <arm_group_label>Donepezil</arm_group_label>
+    <other_name>MK-0000</other_name>
+    <other_name>Donepezil hydrochloride</other_name>
+    <other_name>Aricept</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Dose matched placebo capsule QD, orally for Days 1-56.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has an Mini Mental State Examination (MMSE) score between 18 and 28 (inclusive) at&#xD;
+             Screening (Visit 1) and Baseline (Visit 2)&#xD;
+&#xD;
+          -  Has a diagnosis of mild cognitive impairment (MCI) or mild Alzheimer's Disease (AD)&#xD;
+&#xD;
+          -  Has an Modified Hachinski Ischemia Scale (MHIS) score of ≤4&#xD;
+&#xD;
+          -  Must have a reliable and competent study partner/informant who accompanies participant&#xD;
+             to study visits and participates in assessments&#xD;
+&#xD;
+          -  Be willing to provide a blood sample for Apolipoprotein E (APOE) genotyping&#xD;
+&#xD;
+          -  Does not have intellectual disability&#xD;
+&#xD;
+          -  Be able to speak, read, hear, and understand the language of the study staff and the&#xD;
+             Informed Consent Form (ICF)&#xD;
+&#xD;
+          -  Be able and willing to adhere to the study visit schedule&#xD;
+&#xD;
+          -  Have visual acuity, visual function, hearing, and gross and fine motor skills adequate&#xD;
+             to support study participation&#xD;
+&#xD;
+          -  Be capable of performing the Cogstate battery assessments, as demonstrated at the&#xD;
+             Baseline/Familiarization Visit (Visit 2)&#xD;
+&#xD;
+          -  A female participant is eligible to participate if she is a woman of nonchildbearing&#xD;
+             potential (WONCBP)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Is at imminent risk of self-harm&#xD;
+&#xD;
+          -  Has evidence of a clinically relevant neurological disorder other than AD at&#xD;
+             screening, including but not limited to: Parkinson's disease, frontotemporal dementia,&#xD;
+             Huntington's disease, amyotrophic lateral sclerosis, multiple sclerosis, progressive&#xD;
+             supranuclear palsy, dementia with Lewy bodies, other types of dementia, neurosyphilis&#xD;
+             or that led to persistent cognitive deficits, or has a history of seizures or epilepsy&#xD;
+             within the last 5 years before screening&#xD;
+&#xD;
+          -  Has a known history of stroke or has a diagnosis of vascular dementia&#xD;
+&#xD;
+          -  Has history of multiple episodes of head trauma, or head trauma resulting in&#xD;
+             protracted loss of consciousness, or serious infectious disease affecting the brain,&#xD;
+             within the prior 3-5 years&#xD;
+&#xD;
+          -  Has evidence of a clinically relevant or unstable psychiatric disorder, based on&#xD;
+             Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5), including&#xD;
+             schizophrenia or other psychotic disorder, bipolar disorder, major depression, or&#xD;
+             delirium&#xD;
+&#xD;
+          -  Has a recent or ongoing, uncontrolled, clinically significant medical condition within&#xD;
+             2 months of the Screening visit&#xD;
+&#xD;
+          -  Has a history of cancer&#xD;
+&#xD;
+          -  Has a relative contraindication to donepezil including sick sinus syndrome, first,&#xD;
+             second, or third-degree heart block, bradycardia, active gastrointestinal (GI)&#xD;
+             bleeding, Zollinger-Ellison syndrome, uncontrolled peptic ulcer disease, or&#xD;
+             uncontrolled asthma&#xD;
+&#xD;
+          -  Has a history of significant multiple and/or severe allergies or has had an&#xD;
+             anaphylactic reaction or significant intolerability to prescription or&#xD;
+             non-prescription drugs or food. Exception: Participants with selected allergies may be&#xD;
+             enrolled with Sponsor's approval&#xD;
+&#xD;
+          -  Is positive for Hepatitis B surface antigen (HBsAg), hepatitis C antibodies or human&#xD;
+             immunodeficiency virus (HIV)&#xD;
+&#xD;
+          -  Has clinically significant vitamin B12 or folate deficiency in the 6 months&#xD;
+             immediately before screening, or vitamin B12 or folate deficiency in addition to&#xD;
+             increased serum homocysteine and methylmalonic acid levels at screening&#xD;
+&#xD;
+          -  Has prior AD treatment&#xD;
+&#xD;
+          -  Has participated in another investigational study within 4 weeks&#xD;
+&#xD;
+          -  Has a known history of structural changes on screening magnetic resonance imaging&#xD;
+             (MRI) scan that are clinically important, including signs indicative of vascular&#xD;
+             dementia, large infarct, lacunes in critical areas, space-occupying lesions, or&#xD;
+             extensive white matter disease&#xD;
+&#xD;
+          -  Is unwilling to or not eligible to undergo a MRI scan (if a prior MRI scan is not&#xD;
+             available)&#xD;
+&#xD;
+          -  Is pregnant, is attempting to become pregnant, or is nursing children&#xD;
+&#xD;
+          -  Has a history of alcoholism or drug dependency/abuse within the last 5 years prior to&#xD;
+             the Screening visit&#xD;
+&#xD;
+          -  Consumes greater than 3 glasses of alcoholic beverages per day&#xD;
+&#xD;
+          -  Consumes excessive amounts, defined as greater than 6 servings of coffee, tea, cola,&#xD;
+             energy drinks, or other caffeinated beverages per day&#xD;
+&#xD;
+          -  Is a regular user of cannabis, any illicit drugs or has a history of drug abuse within&#xD;
+             approximately 5 years. A participant who is a recreational user of cannabis or other&#xD;
+             drugs within the past 2 years can be enrolled as long as recreational use does not&#xD;
+             meet the definition of drug abuse and participant agrees to refrain from substance use&#xD;
+             for duration of study participation&#xD;
+&#xD;
+          -  Participants must have a negative urine drug screen (UDS) prior to randomization&#xD;
+&#xD;
+          -  Had major surgery within 3 months prior to the Screening visit that would interfere in&#xD;
+             the participant's ability to fully participate in the study&#xD;
+&#xD;
+          -  Has undergone neuropsychological testing or cognitive remediation in the past 4 weeks&#xD;
+&#xD;
+          -  Is or has an immediate family member who is investigational site or Sponsor staff&#xD;
+             directly involved with this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+    <email>Trialsites@merck.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Collaborative Neuroscience Network ( Site 0010)</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research, Hallandale Beach ( Site 0013)</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>954-455-5859</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research - Lady Lake ( Site 0025)</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>352-775-1000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Atlanta ( Site 0005)</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>404-537-1281</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Savannah ( Site 0023)</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>912-744-0800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pennington Biomedical Research Center ( Site 0006)</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Insight Clinical Trials ( Site 0020)</name>
+      <address>
+        <city>Beachwood</city>
+        <state>Ohio</state>
+        <zip>44122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>216-832-6066</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>North Texas Clinical Trials - Fort Worth - West Rosedale ( Site 0022)</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>817-744-8844</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital-CALHN Memory Trials ( Site 0031)</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+61 8 8222 7865</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health ( Site 0030)</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+61491079717</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>January 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 29, 2021</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Donepezil</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

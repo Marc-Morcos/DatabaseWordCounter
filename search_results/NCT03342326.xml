@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="288">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03342326</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1708117</org_study_id>
+    <secondary_id>2017-A02686-47</secondary_id>
+    <nct_id>NCT03342326</nct_id>
+  </id_info>
+  <brief_title>Lexical Priming by Music in Alzheimer's Disease and Healthy Aging</brief_title>
+  <acronym>PriMus</acronym>
+  <official_title>Lexical Priming by Music in Alzheimer's Disease and Healthy Aging</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Saint Etienne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Saint Etienne</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      While verbal memory is quickly reached in the wake of Alzheimer's disease, the musical memory&#xD;
+      remains preserved until a late stage of the disease. This observation encouraged the&#xD;
+      development of music-based therapies in the management of neurocognitive and behavioral&#xD;
+      disorders that characterize Alzheimer's disease. In order to develop rehabilitation programs&#xD;
+      that effectively target cognitive functions to stimulate, it is necessary to understand the&#xD;
+      mechanisms underlying this beneficial effect of music on cognition.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators study the stimulation by the song, material integrating language and music,&#xD;
+      and having an autobiographical value. The investigators measure the lexical priming capacity&#xD;
+      of the song, that is, its ability to activate and maintain lexical and semantic&#xD;
+      representations, which are threatened with alteration in the course of the disease.&#xD;
+&#xD;
+      This lexical priming effect by song is measured in patients with mild Alzheimer's disease and&#xD;
+      healthy volunteers during a single test session. In the first phase of the session,&#xD;
+      participants are exposed to familiar songs, presented in sung, spoken or instrumental form,&#xD;
+      whose popularity they evaluate. In the second phase, they perform two implicit memory tasks:&#xD;
+      a trigram completion task and a lexical decision task. These tests measure the facilitation&#xD;
+      of the processing of words evoked by songs in relation to words unrelated to songs,&#xD;
+      reflecting a &quot;long-term&quot; memory update of mnemic traces of primed words.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    failure to recruit&#xD;
+  </why_stopped>
+  <start_date type="Actual">April 3, 2018</start_date>
+  <completion_date type="Actual">May 29, 2019</completion_date>
+  <primary_completion_date type="Actual">May 29, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reaction time difference for the treatment of words that have been presented in sing condition in the exposure phase versus words presented in spoken condition.</measure>
+    <time_frame>Day 1</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reaction time difference for processing words associated with songs presented by their melody alone versus new words (not presented in the exhibition phase).</measure>
+    <time_frame>Day 1</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">58</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>patient with Alzheimer's Disease</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Exposure to familiar songs : a) Words and Music (sing condition), b) Words only (spoken condition) and c) Music only (instrumental condition) After each song : rate the popularity of the song on a scale of 1 to 5.&#xD;
+Music Experience Questionnaire : questions about the past music training&#xD;
+Implicit tasks memory : a) Completion of trigrams : freely complete the first 3 letters of a word. b) lexical decision : judge whether an audibly presented sound sequence is a word existing in the French language or not.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>healthy volunteer</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Exposure to familiar songs : a) Words and Music (sing condition), b) Words only (spoken condition) and c) Music only (instrumental condition) After each song : rate the popularity of the song on a scale of 1 to 5.&#xD;
+Music Experience Questionnaire : questions about the past music training&#xD;
+Implicit tasks memory : a) Completion of trigrams : freely complete the first 3 letters of a word. b) lexical decision : judge whether an audibly presented sound sequence is a word existing in the French language or not.&#xD;
+For volunteer over 65 years : Mini Mental State Examination, 5 words by Dubois and fluence verbal test</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Exposure to familiar songs</intervention_name>
+    <description>3 conditions : a) Words and Music (sing condition), b) Words only (spoken condition) and c) Music only (instrumental condition) After each song : rate the popularity of the song on a scale of 1 to 5.</description>
+    <arm_group_label>healthy volunteer</arm_group_label>
+    <arm_group_label>patient with Alzheimer's Disease</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Music Experience Questionnaire</intervention_name>
+    <description>questions about the past music training</description>
+    <arm_group_label>healthy volunteer</arm_group_label>
+    <arm_group_label>patient with Alzheimer's Disease</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Implicit tasks memory</intervention_name>
+    <description>2 tests : a) Completion of trigrams : freely complete the first 3 letters of a word.&#xD;
+b) lexical decision : judge whether an audibly presented sound sequence is a word existing in the French language or not.</description>
+    <arm_group_label>healthy volunteer</arm_group_label>
+    <arm_group_label>patient with Alzheimer's Disease</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>Mini Mental State Examination, 5 words by Dubois and fluence verbal test</description>
+    <arm_group_label>healthy volunteer</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for patients :&#xD;
+&#xD;
+          -  Presence of diagnostic criteria for Alzheimer's disease&#xD;
+&#xD;
+          -  Age ≥ 65 years&#xD;
+&#xD;
+          -  MMSE (Mini-mental state Examination) ≥ 20&#xD;
+&#xD;
+        Exclusion Criteria for patient :&#xD;
+&#xD;
+          -  Unstable clinical presentation or language presentation in the foreground&#xD;
+&#xD;
+          -  Cognitive disorder of etiology different from that of Alzheimer's disease&#xD;
+&#xD;
+        Inclusion Criteria for volunteers :&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Absence of neurological or psychiatric antecedents&#xD;
+&#xD;
+          -  For those aged 65 or over: MMSE (Mini-mental state Examination) greater than or equal&#xD;
+             to 27; non-pathological performance against the 5 words of Dubois and the verbal&#xD;
+             fluency test.&#xD;
+&#xD;
+        Exclusion Criteria for volunteers :&#xD;
+&#xD;
+          -  Visual or auditory disorders insufficiently corrected&#xD;
+&#xD;
+          -  Oral or written expression in French insufficient to carry out tests&#xD;
+&#xD;
+          -  Consumption of psychotropic drugs not stabilized&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>CHU de Saint Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <zip>42055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>November 10, 2017</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 14, 2017</study_first_posted>
+  <last_update_submitted>September 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Lexical priming</keyword>
+  <keyword>Healthy Aging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

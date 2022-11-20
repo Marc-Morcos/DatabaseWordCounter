@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="886">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05003830</url>
+  </required_header>
+  <id_info>
+    <org_study_id>XLan-S1208</org_study_id>
+    <nct_id>NCT05003830</nct_id>
+  </id_info>
+  <brief_title>Application of Multi-probe PET/MR Imaging in the Diagnosis and Evaluation of Alzheimer's Disease</brief_title>
+  <official_title>Application of Multi-probe PET/MR Imaging in the Diagnosis and Evaluation of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wuhan Union Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wuhan Union Hospital, China</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease (AD) is the most common cause of cognitive impairment, and its diagnosis&#xD;
+      requires a comprehensive analysis of the results of medical history, neuropsychological&#xD;
+      evaluation, imaging and laboratory tests. Among them, it has been widely recognized that&#xD;
+      amyloid PET imaging is used in the early diagnosis of AD, tau protein PET imaging is used in&#xD;
+      the assessment of the progression of AD, and the glucose metabolism PET imaging is used in&#xD;
+      the assessment of nerve damage. MRI can provide structure, blood perfusion, neural network&#xD;
+      connection damage and other information through multi-sequence scans. With the help of the&#xD;
+      PET/MR multi-modal imaging platform and multi-probe imaging technology, it can provide more&#xD;
+      sensitive and accurate imaging information for early diagnosis and disease assessment of AD,&#xD;
+      and provide a basis for clinical treatment decision-making.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cognitive impairment is a common neurodegenerative disease. The incidence of Alzheimer's&#xD;
+      disease (AD) in people over 65 years old is close to 5%, which brings a heavy burden to&#xD;
+      society. Relying only on medical history and neuropsychological evaluation, the early&#xD;
+      diagnosis and differential diagnosis of AD are difficult, and further imaging and laboratory&#xD;
+      tests are needed. This project will use PET/MRI, the most advanced imaging platform, to&#xD;
+      design a prospective clinical research program, combined with multi-sequence MRI and&#xD;
+      multi-probe PET imaging, to evaluate suspected or diagnosed AD patients. Through&#xD;
+      multi-parameter analysis of the structure MRI, function MRI (3D ASL, BOLD, DTI), metabolism&#xD;
+      PET (18F-FDG) , Aβ (11C-PIB) and tau (18F-PM-PBB3) PET, combined with clinical information,&#xD;
+      to evaluate the value of multi-modal imaging for early diagnosis and differential diagnosis&#xD;
+      of AD, to assist the clinic in the adjustment of early intervention measures and treatment&#xD;
+      strategies.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Multi-modal PET/MR imaging mode in Alzheimer's disease</measure>
+    <time_frame>2 years</time_frame>
+    <description>Subjects with suspected or confirmed Alzheimer's disease who have completed multi-modal multi-probe PET/MR imaging, compare with healthy control group to determine the image mode of AD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between the results of 18F-PM-PBB3 PET/MR imaging and Alzheimer's disease progression.</measure>
+    <time_frame>2 years</time_frame>
+    <description>Analyze the difference in 18F-PM-PBB3 deposition area and quantitative results in patients with different severity of Alzheimer's disease.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>PET/MR</condition>
+  <arm_group>
+    <arm_group_label>AD group</arm_group_label>
+    <description>Patients who meet the core clinical diagnostic criteria for Alzheimer's disease as defined by NIA-AA for mild cognitive decline or probable Alzheimer's disease.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy control group</arm_group_label>
+    <description>Age-matched subjects, who are healthy and have no clinically significant related abnormalities in their physical examinations, laboratory tests, vital signs, or ECG. In addition, no first-degree family history of early-onset AD or other neurodegenerative diseases related to dementia.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>PET/MR</intervention_name>
+    <description>18F-FDG, 11C-PIB and 18F-PM-PBB3 injection are radiopharmaceuticals used for positron emission tomography (PET) imaging. 18F-FDG dose is about 3.7-5.4 MBq/kg (0.1 -0.15 mCi/kg), and used in the assessment of brain glucose metabolism. 11C-PIB dose is about 5-10mCi, and used in the assessment of amyloid deposition. 18F-PM-PBB3 dose is about 5-10mCi, and used in the assessment of tau deposition. Use PET/MR equipment for simultaneous PET and MR collection.</description>
+    <arm_group_label>AD group</arm_group_label>
+    <arm_group_label>Healthy control group</arm_group_label>
+    <other_name>Positron Emission Tomography/Magnetic Resonance</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Central China&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients who meet the core clinical diagnostic criteria for Alzheimer's disease as&#xD;
+             defined by NIA-AA for mild cognitive decline or probable Alzheimer's disease.&#xD;
+&#xD;
+          -  Subjects are able to understand and sign the informed consent voluntarily, with good&#xD;
+             compliance.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have contraindications to PET/MR examination.&#xD;
+&#xD;
+          -  Clinically clear history of stroke.&#xD;
+&#xD;
+          -  Have a history of bipolar disorder or depression.&#xD;
+&#xD;
+          -  Patients with severe heart, liver, and kidney dysfunction.&#xD;
+&#xD;
+          -  Pregnant or lactating women.&#xD;
+&#xD;
+          -  Patients refuse to sign the informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Xiaoli Lan, MD,PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Wuhan Union Hospital, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaoli Lan, MD, PhD</last_name>
+    <phone>+86-13886193262</phone>
+    <email>lxl730724@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Xun Sun, PhD</last_name>
+    <phone>+86-13871349651</phone>
+    <email>sunxunsunny@163.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>China, Hubei Province</name>
+      <address>
+        <city>Wuhan</city>
+        <state>Hubei</state>
+        <zip>430022</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaoli Lan</last_name>
+      <phone>+86-13886193262</phone>
+      <email>lxl730724@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>August 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2021</study_first_posted>
+  <last_update_submitted>February 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wuhan Union Hospital, China</investigator_affiliation>
+    <investigator_full_name>Xiaoli Lan</investigator_full_name>
+    <investigator_title>Director of the Department of nuclear medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

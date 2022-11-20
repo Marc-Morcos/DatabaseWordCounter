@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="224">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04562506</url>
+  </required_header>
+  <id_info>
+    <org_study_id>rTMS-AD</org_study_id>
+    <nct_id>NCT04562506</nct_id>
+  </id_info>
+  <brief_title>Repetitive Transcranial Magnetic Stimulation With H-coil in Alzheimer's Disease</brief_title>
+  <official_title>Repetitive Transcranial Magnetic Stimulation With H-coil in Alzheimer's Disease: A Double-blind, Placebo-controlled Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Giancarlo Comi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>IRCCS San Raffaele</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Focal repetitive transcranial magnetic stimulation (rTMS) has been applied to improve&#xD;
+      cognition in Alzheimer's disease (AD) with conflicting results. In this study we aimed to&#xD;
+      explore feasibility, safety and efficacy of excitatory rTMS of bilateral DLPFC applied with&#xD;
+      H-coil in AD in a pilot randomized, placebo-controlled, double-blind study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Design The study was a double-blind, placebo-controlled paradigm, with randomization&#xD;
+      into a real rTMS group or a sham rTMS&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 21, 2010</start_date>
+  <completion_date type="Actual">September 8, 2014</completion_date>
+  <primary_completion_date type="Actual">September 8, 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improvement at Alzheimer's Disease Assessment Scale-cognitive over time</measure>
+    <time_frame>Change in the score between Baseline evaluation and end of the treatment (2 months after start of the treatment)</time_frame>
+    <description>Brief neuropsychological assessment used to assess the severity of cognitive symptoms of dementia</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Improvement at Mini Mental State Examination scale over time</measure>
+    <time_frame>Baseline evaluation, 1 month after start of the treatment, end of the treatment (2 months after start of the treatment) and end of follow-up (4 months after start of the treatment)</time_frame>
+    <description>Neuropsychological test used to assess the intellectual efficiency disorders and the presence of cognitive impairment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement at Beck Depression Inventory scale-II over time</measure>
+    <time_frame>Baseline evaluation, 1 month after start of the treatment, end of the treatment (2 months after start of the treatment) and end of follow-up (4 months after start of the treatment)</time_frame>
+    <description>Self-report inventory, psychometric test used to assess the severity of depression</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement at Clinical Global Impression-Improvement scale over time</measure>
+    <time_frame>Baseline evaluation, 1 month after start of the treatment, end of the treatment (2 months after start of the treatment) and end of follow-up (4 months after start of the treatment)</time_frame>
+    <description>Scale that requires the clinician to assess how much the patient's illness has improved or worsened relative to a baseline state at the beginning of the intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Persistence of improvement at Alzheimer's Disease Assessment Scale-cognitive over time</measure>
+    <time_frame>Change in the score between end of treatment (2 months after start of the treatment) and end of follow-up (4 months after start of treatment)</time_frame>
+    <description>Brief neuropsychological assessment used to assess the severity of cognitive symptoms of dementia</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Real rTMS stimulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>real deep excitatory, high frequency rTMS with H-coil stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham rTMS stimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>sham high frequency H-coil stimulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>rTMS with H-coil</intervention_name>
+    <description>Deep repetitive transcranial manetic stimulation or sham stimulation with H-coil</description>
+    <arm_group_label>Real rTMS stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham rTMS stimulation with H-coil</intervention_name>
+    <description>Sham rTMS stimulation</description>
+    <arm_group_label>Sham rTMS stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to understand the purpose and risk of the study and provide signed and dated&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  Male or female subjects, 18 to 80 years old.&#xD;
+&#xD;
+          -  Diagnosis of Alzheimer's disease according to the DSM IV&#xD;
+&#xD;
+          -  Subjects who answered all questions in the TMS pre-treatment safety questionnaire in a&#xD;
+             negative manner.&#xD;
+&#xD;
+          -  Have given written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of an additional neurological or psychiatric pathology.&#xD;
+&#xD;
+          -  Severe personality disorder.&#xD;
+&#xD;
+          -  Uncontrolled hypertension.&#xD;
+&#xD;
+          -  History of epilepsy, seizures, febrile convulsions.&#xD;
+&#xD;
+          -  History of epilepsy or seizures in first degree relatives.&#xD;
+&#xD;
+          -  History of head injury or stroke.&#xD;
+&#xD;
+          -  Presence of metal prostheses in the head (except dental fillings).&#xD;
+&#xD;
+          -  Metal implants or known history of any metal particles in the eye, cardiac pacemakers,&#xD;
+             cochlear implants, use of neurostimulators or medical pumps.&#xD;
+&#xD;
+          -  History of migraine within the past six months.&#xD;
+&#xD;
+          -  History of drug or alcohol abuse.&#xD;
+&#xD;
+          -  Impossibility of adequate communication with the examiner.&#xD;
+&#xD;
+          -  Participation in another clinical study, either concomitant or within the previous 3&#xD;
+             months.&#xD;
+&#xD;
+          -  Inability to sign the consent form.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giancarlo Comi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS San Raffaele</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele</name>
+      <address>
+        <city>Milan</city>
+        <state>MI</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2020</study_first_posted>
+  <last_update_submitted>September 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS San Raffaele</investigator_affiliation>
+    <investigator_full_name>Giancarlo Comi</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>all IPD that underlie results in a publication</ipd_description>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>starting 6 months after publication</ipd_time_frame>
+    <ipd_access_criteria>data are available from the corresponding author, upon reasonable request.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

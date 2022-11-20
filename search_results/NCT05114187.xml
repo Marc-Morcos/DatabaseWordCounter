@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2956">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05114187</url>
+  </required_header>
+  <id_info>
+    <org_study_id>#21-24</org_study_id>
+    <nct_id>NCT05114187</nct_id>
+  </id_info>
+  <brief_title>An Internet-Based Education Program for Care Partners of People Living With Dementia</brief_title>
+  <official_title>An Internet-Based Education Program for Care Partners of People Living With Dementia (iGeriCare): A Pilot Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Physicians' Services Incorporated Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With the aging population, the prevalence of dementia is increasing dramatically. People&#xD;
+      living with dementia are highly dependent on family care partners, who may have little&#xD;
+      knowledge of the disorder. National and provincial guidelines have all highlighted the&#xD;
+      importance of online resources to improve care partner education; however, very few have been&#xD;
+      widely implemented or rigorously studied.&#xD;
+&#xD;
+      The investigators have developed the award-winning dementia education platform to complement&#xD;
+      traditional patient and family educational approaches. It allows free access to multimedia&#xD;
+      e-learning lessons, live expert webinars, and email-based content that care partners can&#xD;
+      access any time, anywhere.&#xD;
+&#xD;
+      In a pilot randomized controlled trial (RCT), the investigators propose to study 1) the&#xD;
+      feasibility and care partner acceptance of the intervention and some of the study methods,&#xD;
+      and 2) the impact of the intervention on care partner self-efficacy, knowledge, and sense of&#xD;
+      burden.&#xD;
+&#xD;
+      This initiative has the potential to improve the quality, cost effectiveness, and efficiency&#xD;
+      of dementia care. The intervention could be easily scaled and spread both provincially and&#xD;
+      nationally to complement other dementia education methods, at a time when the prevalence of&#xD;
+      dementia is increasing and access to high quality internet-based interventions is essential.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2022</start_date>
+  <completion_date type="Anticipated">January 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is a two-arm pilot randomized controlled trial.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Intervention adherence (time spent)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Lesson completed data and email open rates will be collected and saved to quantify the time(s) spent on intervention activities.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant satisfaction</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>A custom satisfaction questionnaire data adapted from the Information Assessment Method For All (IAM4all) will be collected and saved to assess satisfaction with the intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participant satisfaction</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>A custom implementation oral interview questionnaire adapted from The Consolidated Framework for Implementation Research (CFIR) will be collected and saved to assess implementation of the intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recruitment rates</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Participant recruitment numbers will be collected and saved to quantify the number of interested participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Attrition rates</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Participant attrition rates will be collected and saved to quantify the number of study dropouts vs completions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the Revised Scale for Caregiving Self-Efficacy (RSCSE) at 8 weeks.</measure>
+    <time_frame>0, 8 weeks</time_frame>
+    <description>Self-efficacy will be measured through the Revised Scale for Caregiving Self-Efficacy (RSCSE) (reliability α = &gt;.80). The RSCSE contains 15 items within 3 subscales (self-efficacy for obtaining respite, responding to disruptive patient behaviours, and controlling upsetting thoughts about caregiving). Higher scores indicate a higher level of self-efficacy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the Dementia Knowledge Assessment Scale (DKAS) at 8 weeks.</measure>
+    <time_frame>0, 8 weeks</time_frame>
+    <description>Knowledge will be measured through the Dementia Knowledge Assessment Scale (DKAS) (reliability α = .85; ωh = .87; overall scale). The DKAS consists of 25 items on different aspects of dementia that could be answered with 'True,' 'Probably True,' 'False, 'Probably False,' or 'I don't know.' Higher scores indicate a higher level of dementia knowledge.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in the Zarit Burden Interview (ZBI) at 8 weeks.</measure>
+    <time_frame>0, 8 weeks</time_frame>
+    <description>Burden will be measured through the Zarit Burden Interview (ZBI) (reliability α = .92). The ZBI contains 22 items. Each item on the interview is a statement which the caregiver is asked to endorse using a 5-point scale. Response options range from 0 (Never) to 4 (Nearly Always). Higher scores indicate a higher level of burden.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>Dementia</condition>
+  <condition>Burden, Caregiver</condition>
+  <condition>Self Efficacy</condition>
+  <condition>Knowledge</condition>
+  <arm_group>
+    <arm_group_label>Education Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Education Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Education Intervention</intervention_name>
+    <description>Participants in the intervention group will be provided e-learning about dementia and promoting brain health, consisting of the following components:&#xD;
+Ten selected multimedia e-learning lessons;&#xD;
+A series of 16 'micro-learning' emails (2 emails/week) with small segments of content to reinforce the material from the lessons.&#xD;
+Participants will have 8-weeks to complete the intervention. The total time to complete is approximately 5-6 hours.</description>
+    <arm_group_label>Education Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Education Control</intervention_name>
+    <description>Participants in the control group will be provided e-learning about dementia and promoting brain health, consisting of the following components:&#xD;
+One selected multimedia e-learning lesson;&#xD;
+A series of 16 'micro-learning' emails (2 emails/week) with small segments of content to reinforce the material from the lessons.&#xD;
+Participants will have 8-weeks to complete. The total time to complete is approximately 1-2 hours.&#xD;
+Note: All participants will receive access to all e-learning at the conclusion of the study.</description>
+    <arm_group_label>Education Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. they are a family and/or friend care partner of a person living with dementia,&#xD;
+&#xD;
+          2. they reside in Canada,&#xD;
+&#xD;
+          3. they are 18 years of age and over,&#xD;
+&#xD;
+          4. they have a good command of the English language,&#xD;
+&#xD;
+          5. they have access to email and internet,&#xD;
+&#xD;
+          6. they are comfortable using email and internet,&#xD;
+&#xD;
+          7. they have the ability to grant online informed consent, and&#xD;
+&#xD;
+          8. they complete online baseline assessments.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. they are a not family and/or friend care partner of a person living with dementia,&#xD;
+&#xD;
+          2. they do not reside in Canada,&#xD;
+&#xD;
+          3. they are not 18 years of age and over,&#xD;
+&#xD;
+          4. they do not have a good command of the English language,&#xD;
+&#xD;
+          5. they do not have access to email and internet,&#xD;
+&#xD;
+          6. they are not comfortable using email and internet,&#xD;
+&#xD;
+          7. they do not have the ability to grant online informed consent, and&#xD;
+&#xD;
+          8. they do not complete online baseline assessments.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>October 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2021</study_first_posted>
+  <last_update_submitted>August 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 24, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Web-based intervention</keyword>
+  <keyword>Internet</keyword>
+  <keyword>E-health</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Caregiver</keyword>
+  <keyword>Alzheimer disease</keyword>
+  <keyword>Education and Training</keyword>
+  <keyword>Clinical Trial</keyword>
+  <keyword>Knowledge Translation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

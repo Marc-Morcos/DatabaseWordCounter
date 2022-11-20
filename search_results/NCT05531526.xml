@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="212">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05531526</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AR1001-ADP3-US01</org_study_id>
+    <nct_id>NCT05531526</nct_id>
+  </id_info>
+  <brief_title>Phase 3, Double-blind, Randomized, Placebo-controlled Trial to Evaluate the Efficacy and Safety of AR1001 in Participants With Early Alzheimer's Disease</brief_title>
+  <official_title>A Phase 3 Double-blind, Randomized, Placebo-controlled, Multi-center Trial to Evaluate the Efficacy and Safety of AR1001 Over 52 Weeks in Participants With Early Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AriBio Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AriBio Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This AR1001-ADP3-US01 protocol is a double-blind, randomized, placebo-controlled, multi-&#xD;
+      center, parallel-group comparison pivotal Phase 3 study to evaluate the efficacy and safety&#xD;
+      of AR1001 for the treatment of participants with early AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this Study is to evaluate the efficacy and safety of AR1001 in participants&#xD;
+      with Early Alzheimer's Disease (AD).&#xD;
+&#xD;
+      AR1001 is a small molecule that has demonstrated its potential as a therapeutic agent for AD&#xD;
+      via its polypharmacological characteristics with multiple mechanisms to ameliorate AD&#xD;
+      pathology.&#xD;
+&#xD;
+      AriBio completed a Phase 2 study in the United States (US) with AR1001 for the treatment of&#xD;
+      participants with mild to moderate AD. After confirming AR1001's therapeutic benefit in the&#xD;
+      mild AD population, AriBio is proceeding with a Phase 3 program in an early AD population&#xD;
+      including participants with MCI and mild dementia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2022</start_date>
+  <completion_date type="Anticipated">December 2027</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A Phase 3 Double-blind, Randomized, Placebo-controlled, Multi-center Trial to Evaluate the Efficacy and Safety of AR1001 over 52 Weeks in Participants with Early Alzheimer's Disease</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>double-blind, randomized, placebo-controlled</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the efficacy of AR1001 compared to Placebo in participants with Early Alzheimer's disease</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Clinical Dementia Rating Scale - Sum of Boxes (CDR-SOB) from Baseline to Week 52</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ADAS-Cog 13</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in ADAS-Cog 13 from Baseline to Week 52</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amsterdam-Cognitive Composite (A-CC)</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in A-CC from Baseline to Week 52</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amsterdam-Cognitive and Functional Composite (A-CFC)</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in A-CFC from Baseline to Week 52</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amsterdam-IADL short version (A-IADL-SV)</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Amsterdam-IADL short version (A-IADL-SV) from Baseline to Week 52</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geriatric Depression Scale (GDS)</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in GDS from Baseline to Week 52</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental Status Examination (MMSE)</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in MMSE from Baseline to Week 52</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Safety Analysis</measure>
+    <time_frame>160 weeks</time_frame>
+    <description>Frequency of treatment emergent adverse events (TEAEs) and treatment-emergent serious adverse events (TESAEs)&#xD;
+Changes in C-SSRS (Columbia Suicide Severity Rating Scale)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Biomarker Analysis</measure>
+    <time_frame>160 weeks</time_frame>
+    <description>Change in plasma/CSF biomarker levels from Baseline to Week 52 and the end of the Extension Phase.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory Analysis</measure>
+    <time_frame>160 weeks</time_frame>
+    <description>Change in both primary and secondary endpoints from Baseline and Week 52 to the end of the extension study.&#xD;
+Additional exploratory objectives may be defined as new relevant information is obtained.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Group A - Active Comparator</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Active, AR1001 30 mg QD will be administered daily for 52 weeks during the Treatment Phase of the study. In the Extension Phase, all eligible participants who choose to participate will receive AR1001 30 mg QD for 104 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B - Placebo Comparator</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo QD will be administered daily for 52 weeks during the Treatment Phase of the study. In the Extension Phase, all eligible participants who choose to participate will receive AR1001 30 mg QD for 104 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AR1001</intervention_name>
+    <description>AR1001 Active Oral Tablet</description>
+    <arm_group_label>Group A - Active Comparator</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo Oral Tablet</description>
+    <arm_group_label>Group B - Placebo Comparator</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female participants aged 55 to 80 years of age at the time of signing the&#xD;
+             Informed Consent Form&#xD;
+&#xD;
+          2. Participants (or participant's legally acceptable representative) and caregiver(s) who&#xD;
+             can sign an Informed Consent to participate in the study. Same caregiver(s) must&#xD;
+             assist the participant throughout the entire duration of the study&#xD;
+&#xD;
+          3. Mild cognitive impairment or mild dementia consistent with AD defined by stages 3 - 4&#xD;
+             according to the NIA AA (Jack et al., 2018) at screening and baseline&#xD;
+&#xD;
+          4. Participants who have MMSE Score greater than or equal to 20&#xD;
+&#xD;
+          5. Participants with a CDR global rating of 0.5 or 1&#xD;
+&#xD;
+          6. Participants with a A-CFC score less than or equal to 0&#xD;
+&#xD;
+          7. Participants who have had a magnetic resonance imaging (MRI) or computer tomography&#xD;
+             (CT) scan performed after onset of symptoms and within 2 years prior to screening with&#xD;
+             findings consistent with the diagnosis of AD and without any other clinically&#xD;
+             significant comorbid pathologies&#xD;
+&#xD;
+          8. Confirmed amyloid beta pathology by cerebrospinal fluid (CSF) analysis with beta&#xD;
+             amyloid ratio (1-42/1-40) of 0.058 or lower&#xD;
+&#xD;
+          9. Participants who have one (or more) identified adult study partner(s) who, in the&#xD;
+             opinion of the investigator, has sufficient contact with and knowledge about the&#xD;
+             participant as to be able to report knowledgably about the participant's safety,&#xD;
+             compliance and adherence, cognition, function, and behavior&#xD;
+&#xD;
+         10. Participant and/or the participant's legally authorized representative and the&#xD;
+             participant's study partner able and willing to sign an informed consent form (ICF)&#xD;
+             prior to beginning any study procedures including consent for genotyping for&#xD;
+             apolipoprotein E4 allele&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participants who are female and are either pregnant, nursing, or of childbearing&#xD;
+             potential and not practicing effective contraception&#xD;
+&#xD;
+          2. Participants who have signs of delirium&#xD;
+&#xD;
+          3. Participants who have any diagnosis of dementia or cognitive decline other than that&#xD;
+             related to Alzheimer's disease, including, but not limited to concomitant history of&#xD;
+             head trauma, alcohol abuse, frontotemporal dementia, Huntington Disease, and&#xD;
+             Parkinsonism (e.g., Parkinson's disease, Dementia with Lewy Bodies, etc.)&#xD;
+&#xD;
+          4. Participants with any current psychiatric diagnosis if, in the judgment of the&#xD;
+             investigator, the psychiatric disorder or symptom is likely to confound interpretation&#xD;
+             of drug effect, affect cognitive assessments, or affect the participant's ability to&#xD;
+             complete the study (e.g., schizophrenia)&#xD;
+&#xD;
+          5. Participants with vascular dementia and/or Hachinski Ischemic Scale (HIS) score ≥7&#xD;
+&#xD;
+          6. Participants with a recent MRI with evidence of central nervous system (CNS)&#xD;
+             infection, cerebrovascular (CBV) disease, or other neurological disease thought to&#xD;
+             interfere with the evaluation in this study&#xD;
+&#xD;
+          7. Participants with a history of myocardial infarction, unstable angina, coronary artery&#xD;
+             disease, or New York Heart Association (NYHA) class III or IV heart failure within the&#xD;
+             last 12 months&#xD;
+&#xD;
+          8. Participants with uncontrolled hypertension (systolic blood pressure &gt;160mm Hg or&#xD;
+             diastolic blood pressure &gt; 95mm Hg) or hypotension (systolic blood pressure &lt;90mm Hg&#xD;
+             or diastolic blood pressure &lt;50mm Hg). Participants should undergo repeated testing to&#xD;
+             ensure that accurate blood pressure readings are obtained&#xD;
+&#xD;
+          9. Participants with a body mass index (BMI) &gt; 35 kg/m2&#xD;
+&#xD;
+         10. Participants who have any other clinically significant abnormal laboratory tests such&#xD;
+             as elevated aspartate aminotransferase (AST), alanine transaminase (ALT) or total&#xD;
+             bilirubin levels, abnormally low vitamin B12, high TSH levels, or evidence of folic&#xD;
+             acid deficiency, as determined by the Investigator&#xD;
+&#xD;
+         11. Participants who have history of cancer or malignant tumor within 5 years prior to&#xD;
+             screening with the exception of:&#xD;
+&#xD;
+               1. Basal or squamous cell carcinoma of the skin or cervical dysplasia, which has&#xD;
+                  been adequately treated&#xD;
+&#xD;
+               2. In situ Grade 1 cervical cancer, fully treated at least 2 years prior to&#xD;
+                  screening, and without recurrence.&#xD;
+&#xD;
+               3. Prostate cancer, confined to the prostate gland, which has been adequately&#xD;
+                  treated (surgery and/or radiation) with normal or low and stable PSA levels for 2&#xD;
+                  years prior to screening&#xD;
+&#xD;
+               4. Adequately treated non-metastatic breast cancer&#xD;
+&#xD;
+         12. Participants who have history of untreated thyroid disorder&#xD;
+&#xD;
+         13. Participants who have an undiagnosed or uncontrolled seizure disorder (and/or an&#xD;
+             epileptic syndrome), which has or could lead to cognitive impairment either from&#xD;
+             repeated seizures or the medications used to control the seizure disorder&#xD;
+&#xD;
+         14. Participants who are being treated, or likely to require treatment during the study,&#xD;
+             with any medications prohibited by the study protocol&#xD;
+&#xD;
+         15. Participants who have participated in any investigational drug or device trial within&#xD;
+             the previous 30 days or five half-lives of an investigational drug at screening,&#xD;
+             whichever is longer&#xD;
+&#xD;
+         16. Participants whose treatment with FDA-approved AD medication (donepezil, galantamine,&#xD;
+             rivastigmine, or their combinations) has not been stable for at least 6 months prior&#xD;
+             to screening. Treatment and dosing should remain stable, with no changes throughout&#xD;
+             the trial&#xD;
+&#xD;
+         17. Participants who have been and/or are currently being treated with memantine, anti&#xD;
+             amyloid, anti-tau, or other investigational therapies for AD&#xD;
+&#xD;
+         18. Participants who currently take any other phosphodiesterase type 5 (PDE-5) inhibitors&#xD;
+             (e.g., sildenafil)&#xD;
+&#xD;
+         19. Participants who are currently receiving (or unable to stop use for at least 14 days&#xD;
+             [2 weeks] prior to receiving the first dose of the AR1001 and throughout the study)&#xD;
+             prescription or non prescription medications or other products known to be potent&#xD;
+             inhibitors of CYP3A4&#xD;
+&#xD;
+         20. Alcohol or substance use disorder within the past 5 years according to Diagnostic and&#xD;
+             Statistical Manual of Mental Disorders (DSM-5)&#xD;
+&#xD;
+         21. Participants who have previously participated in a clinical trial with AR1001&#xD;
+&#xD;
+         22. Participants, in the opinion of the Investigator, who are unsuitable to participate in&#xD;
+             the study&#xD;
+&#xD;
+         23. Participants with significant suicide risk as defined by the intensity of suicidal&#xD;
+             ideation subscale on the C-SSRS greater than or equal to 6&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Rock</last_name>
+    <role>Study Director</role>
+    <affiliation>CEO</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fred Kim</last_name>
+    <phone>7345168732</phone>
+    <email>fredkim@aribiousa.com</email>
+  </overall_contact>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>August 31, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 8, 2022</study_first_posted>
+  <last_update_submitted>October 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AR1001</keyword>
+  <keyword>AD</keyword>
+  <keyword>Early AD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

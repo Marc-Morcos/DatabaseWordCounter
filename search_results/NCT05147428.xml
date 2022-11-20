@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="194">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05147428</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H00023453</org_study_id>
+    <secondary_id>4R33AG069794-02</secondary_id>
+    <nct_id>NCT05147428</nct_id>
+  </id_info>
+  <brief_title>A Program to Reduce Inappropriate Medications Among Older Adults With Alzheimer's Disease</brief_title>
+  <acronym>D-PRESCRIBE-AD</acronym>
+  <official_title>D- PRESCRIBE-AD (The Developing a PRogram to Educate and Sensitize Caregivers to Reduce the Inappropriate Prescription Burden in Elderly With Alzheimer's Disease Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Massachusetts, Worcester</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard Pilgrim Health Care</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Humana Co.Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Anthem, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HealthCore, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Massachusetts, Worcester</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Potentially inappropriate prescribing includes the use of medications that may no longer be&#xD;
+      necessary or that may increase the risk of harm. Inappropriate prescribing can increase the&#xD;
+      overall symptom burden, and negatively affect health-related quality of life and function.&#xD;
+      The inappropriate prescription of certain drug categories such as sedative/hypnotics,&#xD;
+      antipsychotics, and strong anticholinergic agents poses particular risks for older adults,&#xD;
+      and may be more common among those with Alzheimer's disease and Alzheimer's disease- related&#xD;
+      dementias (AD/ADRD) due to a higher prevalence of multimorbidity and more frequent&#xD;
+      prescription of five or more medications. The D-PRESCRIBE-AD (Developing a PRogram to Educate&#xD;
+      and Sensitize Caregivers to Reduce the Inappropriate Prescription Burden in Elderly with&#xD;
+      Alzheimer's Disease) study will test a health plan-based intervention using the NIH&#xD;
+      Collaboratory's Distributed Research Network, which employs the Food and Drug Administration&#xD;
+      (FDA) Sentinel System infrastructure. The overarching goal of this randomized controlled&#xD;
+      trial is to assess the effect of a patient/caregiver- centered, multifaceted educational&#xD;
+      intervention on potentially inappropriate prescribing in patients with AD/ADRD. The research&#xD;
+      hypothesis is that education on inappropriate prescribing among patients/caregivers and their&#xD;
+      providers can reduce medication-related morbidity in patients with AD/ADRD and improve&#xD;
+      medication safety for this vulnerable population. The study population will include&#xD;
+      community-dwelling patients with AD/ADRD, identified based on diagnoses codes of AD/ADRD or&#xD;
+      use of a medication for Alzheimer's Disease, who have evidence of potentially inappropriate&#xD;
+      prescribing the three drug classes above. The trial will evaluate the effect of educational&#xD;
+      interventions designed to spur patient/caregiver-provider communication about medication&#xD;
+      safety (versus usual care) on the proportion of patients with inappropriate prescribing, the&#xD;
+      primary outcome of this study. The trial will be conducted in two large, national health&#xD;
+      plans.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 21, 2022</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study design will be a prospective, randomized, &quot;open-label&quot; educational intervention trial with three arms: (1) a combined patient/caregiver and provider educational intervention; (2) a provider only educational intervention; and (3) usual care.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Absence of Inappropriate Medication Prescription Dispensing</measure>
+    <time_frame>9 months</time_frame>
+    <description>The primary outcome will be defined as absence of any dispensing of the targeted inappropriate prescription class from day 91 to day 270 during the 9 months following receipt of intervention. These 9 months are split into a 3-month black-out period followed by a six-month observation period, or days 91-270.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dose Reduction</measure>
+    <time_frame>9 months</time_frame>
+    <description>Any dose reduction (defined as &gt; 50% reduction in dose of the selected inappropriate medication), assessed at the participant level using health claims data (outpatient dispensing) during days 91-270.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Polypharmacy Reduction</measure>
+    <time_frame>9 months</time_frame>
+    <description>Decrease in the proportion of patients with polypharmacy. (defined as &gt;5 active prescriptions for different agents) during days 91-270.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Health Care and Emergency Care Utilization Reductions</measure>
+    <time_frame>9 months</time_frame>
+    <description>Decline in the rates of: emergency room visits; rates of hospitalizations; rates of non-acute institutional stays (e.g., skilled nursing facilities); and overall health care utilization (number of outpatient visits, days hospitalized, emergency department visits, and non-acute institutional days) during days 91-270.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality Reduction</measure>
+    <time_frame>9 months</time_frame>
+    <description>Decline in-hospital all-cause mortality during days 91-270.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">15000</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Patient-Provider</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Both patients and providers will receive educational materials on inappropriate prescribing and deprescribing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Provider Only</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Only providers will receive educational materials on inappropriate prescribing and deprescribing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Educational Materials</intervention_name>
+    <description>Educational materials on inappropriate prescribing and deprescribing.</description>
+    <arm_group_label>Patient-Provider</arm_group_label>
+    <arm_group_label>Provider Only</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patient Inclusion Criteria:&#xD;
+&#xD;
+          1. Diagnosis of AD/ADRD based on a combination of AD/ADRD codes or treatment with a&#xD;
+             pharmacologic therapy used for AD (e.g., donepezil, rivastigmine, galantamine, and&#xD;
+             memantine) in the 365 days prior to or on cohort entry date.&#xD;
+&#xD;
+          2. Evidence of potentially inappropriate prescribing with antipsychotics,&#xD;
+             sedative-hypnotics, and strong anticholinergics within the past 3 months&#xD;
+&#xD;
+          3. Age ≥50 years of age as of cohort entry date&#xD;
+&#xD;
+          4. Continuous medical and pharmacy insurance coverage for at least the prior year&#xD;
+&#xD;
+        Patient Exclusion Criteria:&#xD;
+&#xD;
+          1. Evidence of residing in a nursing home or skilled nursing facility or receiving&#xD;
+             palliative care.&#xD;
+&#xD;
+          2. Incomplete/missing prescriber ID or incomplete contact information for either patient&#xD;
+             or prescribing provider.&#xD;
+&#xD;
+          3. On &quot;do not contact&quot; list&#xD;
+&#xD;
+        Provider Inclusion Criteria:&#xD;
+&#xD;
+        1. Prescribing provider associated with most recent prescribing of target drug.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jerry H Gurwitz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UMass Chan Medical School; UMass Memorial Medical Center; Meyers Health Care Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cassie Saphirak, MA</last_name>
+    <phone>5085565667</phone>
+    <email>CassandraFirneno.Saphirak@umassmed.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Carly M Massino, MPA</last_name>
+    <phone>5085952269</phone>
+    <email>Carly.Massino@umassmed.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Umass Chan Medical School</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>November 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2021</study_first_posted>
+  <last_update_submitted>August 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Massachusetts, Worcester</investigator_affiliation>
+    <investigator_full_name>Jerry Gurwitz</investigator_full_name>
+    <investigator_title>Professor of Medicine, Family Medicine and Community Health, and Population &amp; Quantitative Health Sciences Chief, Division of Geriatric Medicine UMass Chan Medical School and UMass Memorial Medical Center Executive Director, Meyers Health Care Institute</investigator_title>
+  </responsible_party>
+  <keyword>Deprescribing</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Medication Safety</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

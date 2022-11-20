@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2703">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05052450</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021/290</org_study_id>
+    <nct_id>NCT05052450</nct_id>
+  </id_info>
+  <brief_title>Factors Associated With Mortality, Morbidity and Prognosis in Dementia Patients</brief_title>
+  <official_title>Factors Associated With Mortality, Morbidity and Prognosis in Dementia Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gulhane Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Gulhane Training and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dementia; It is a chronic syndrome characterized by a general and progressive deterioration&#xD;
+      in cognition, including memory, orientation, language, and comprehension. The prognosis of&#xD;
+      this progressive and neurodegenerative disease after diagnosis may differ between&#xD;
+      individuals. In its broadest sense, the prognosis after a diagnosis of dementia; can be&#xD;
+      defined by shortening of life span, high level of cognitive and functional loss, decrease in&#xD;
+      quality of life and increased need for care. However, the prognosis of different types of&#xD;
+      dementia is highly variable. Because it is the most common type of dementia, studies are&#xD;
+      usually on Alzheimer's disease. It constitutes 50-75% of total dementia cases. Vascular&#xD;
+      dementia is the second most common cause of dementia and accounts for approximately 15% of&#xD;
+      dementia cases. Dementia with Lewy bodies constitutes 10-20% of the total dementia patients&#xD;
+      and ranks second among degenerative dementia types. Frontotemporal dementia, which mimics&#xD;
+      psychiatric disorders and has prominent behavioural problems, and Parkinson's&#xD;
+      disease-associated dementia, which is characterized by cognitive impairment that can be added&#xD;
+      to the existing picture in Parkinson's patients, are also counted among other types of&#xD;
+      dementia. Prognosis-related data on dementia types other than Alzheimer's disease are limited&#xD;
+      in the literature. Determining the prognosis is important to support patients, anticipate&#xD;
+      long-term health problems, plan physician and healthcare provision, and support patients with&#xD;
+      dementia.In view of the lack of sufficient data on dementia types other than Alzheimer's&#xD;
+      disease, it is aimed to contribute to the literature on this subject and to determine the&#xD;
+      factors that may affect prognosis, morbidity and mortality in patients belonging to all&#xD;
+      dementia types.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2000</start_date>
+  <completion_date type="Actual">December 31, 2020</completion_date>
+  <primary_completion_date type="Actual">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>2 years</time_frame>
+    <description>The event of death occuring during the follow-up period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mini-Mental State Examination</measure>
+    <time_frame>2 years</time_frame>
+    <description>It was performed to assess mental status. It gives an overall opinion on cognitive domains and tests orientation, registration, attention and calculation, recall, and language. Total scores on Mini-Mental State Examination range from 0 to 30, higher scores show better cognitive performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Barthel Index</measure>
+    <time_frame>2 years</time_frame>
+    <description>It was used for assessing physical functioning as a part of the routine geriatric evaluation.where the ten performance items used. Those items defined as feeding, bathing, grooming, dressing, continence of bowel and bladder, toilet use, transfers (bed to chair and back), mobility (on level surfaces), and climbing stairs. Each item is scored on this scale, and the sum is obtained by adding the score of each item (range, 0-100; higher scores show better performance)</description>
+  </primary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Actual">1000</enrollment>
+  <condition>Dementia</condition>
+  <condition>Dementia, Vascular</condition>
+  <condition>Dementia With Lewy Bodies</condition>
+  <condition>Dementia of Alzheimer Type</condition>
+  <condition>Dementia Frontal</condition>
+  <condition>Dementia, Mixed</condition>
+  <arm_group>
+    <arm_group_label>Dementia with Alzheimer</arm_group_label>
+    <description>Patients previously diagnosed with Alzheimer disease would be included</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dementia with Lewy Body Dementia</arm_group_label>
+    <description>Patients previously diagnosed with Lewy Body Dementia would be included</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dementia with Fronto-Temporal Dementia</arm_group_label>
+    <description>Patients previously diagnosed with Fronto-Temporal Dementia would be included</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dementia with Vascular Disease</arm_group_label>
+    <description>Patients previously diagnosed with Dementia with Vascular Disease would be included</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dementia with Parkinson Disease</arm_group_label>
+    <description>Patients previously diagnosed with Dementia with Parkinson Disease would be included</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Observational</intervention_name>
+    <description>Patients data were collected throughout the following time</description>
+    <arm_group_label>Dementia with Alzheimer</arm_group_label>
+    <arm_group_label>Dementia with Fronto-Temporal Dementia</arm_group_label>
+    <arm_group_label>Dementia with Lewy Body Dementia</arm_group_label>
+    <arm_group_label>Dementia with Parkinson Disease</arm_group_label>
+    <arm_group_label>Dementia with Vascular Disease</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients diagnosed with any kind of dementia and being older than 60 years would be&#xD;
+        included in the study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Having applied to the Gulhane Training and Research Hospital Geriatrics Polyclinic Being&#xD;
+        diagnosed with Alzheimer or Lewy Body Dementia or Vascular Dementia or Fronto-Temporal&#xD;
+        Dementia or Parkinson Disease Dementia Being at the age of 60 years or older&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Being under the age of 60 Patients with insufficient recorded data and follow-up for the&#xD;
+        study Patients who either have diagnosis or follow-up in another center. Patients who have&#xD;
+        severe dementia that prevents applying for outpatient clinic&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>September 2021</verification_date>
+  <study_first_submitted>September 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 22, 2021</study_first_posted>
+  <last_update_submitted>September 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>September 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Gulhane Training and Research Hospital</investigator_affiliation>
+    <investigator_full_name>Neslihan Kayahan</investigator_full_name>
+    <investigator_title>Medical Doctor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+    <mesh_term>Dementia, Vascular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="158">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05413655</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EX-039-10701</org_study_id>
+    <nct_id>NCT05413655</nct_id>
+  </id_info>
+  <brief_title>A Study of Oral EX039 in Subjects With Mild Alzheimer's Disease</brief_title>
+  <official_title>A Phase 2, Randomized, Double Blind, Placebo-Controlled Study of Oral EX039 as Add-on to Acetylcholine Esterase Inhibitors in Subjects With Mild Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Excelsior</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Formosa Biomedical Technology Corp.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Excelsior</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 2, randomized, double-blind, placebo-controlled study of oral EX039 as add-on&#xD;
+      to Acetylcholine Esterase Inhibitors in subjects with mild Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2022</start_date>
+  <completion_date type="Anticipated">November 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Alzheimer's Disease Assessment Scale-cognitive</measure>
+    <time_frame>Week 28</time_frame>
+    <description>Mean change from baseline in Alzheimer's Disease Assessment Scale-cognitive subscale measured at the end of week 28. Total scores range from 0-70, with higher scores (≥ 18) indicating greater cognitive impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Clinical Dementia Rating-Sum of Boxes</measure>
+    <time_frame>Week 28</time_frame>
+    <description>Mean change from baseline in Clinical Dementia Rating-Sum of Boxes (CDR-SB). measured at the end of week 28. Total scores range from 0 to 18, with higher scores indicating more worsening.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Clinician's Interview-Based Impression of Change Plus Caregiver Input</measure>
+    <time_frame>Week 4, 12, 20, 28</time_frame>
+    <description>Scorings of Clinician's Interview-Based Impression of Change Plus Caregiver Input (CIBIC-Plus) at the end of week 4, 12, 20, and 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events</measure>
+    <time_frame>Week 30</time_frame>
+    <description>To assess the safety and tolerability of EX039</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Responder rate assessment</measure>
+    <time_frame>Week 28</time_frame>
+    <description>The percentage of the recruited subjects whose mean change from baseline in Alzheimer's Disease Assessment Scale-cognitive subscale (ADAS-cog) measured at the end of week 28 is improved (≧4) without deterioration of CDR-SB and CIBIS-Plus</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>1000 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The recruited patient randomly assigned to this arm will take 1000 mg EX039 per day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>750 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The recruited patient randomly assigned to this arm will take 750 mg EX039 per day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The recruited patient randomly assigned to this arm will take placebo per day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EX039</intervention_name>
+    <description>The dosage form of EX039 is the capsule for oral use</description>
+    <arm_group_label>1000 mg</arm_group_label>
+    <arm_group_label>750 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>The dosage form of Placebo is the capsule for oral use</description>
+    <arm_group_label>placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 50-80 years.&#xD;
+&#xD;
+          -  Clinical diagnosis of probable mild Alzheimer disease dementia based on National&#xD;
+             Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer's&#xD;
+             Disease and Related Disorders Association (NINCDS/ADRDA criteria, 2011)&#xD;
+&#xD;
+          -  Last time (which must be within 3 months ) of Mini Mental State Exam (MMSE) between&#xD;
+             10-26.&#xD;
+&#xD;
+          -  Last time (which must be within 3 months) of Clinical Dementia Rating (CDR) score of&#xD;
+&#xD;
+          -  Physically healthy and all laboratory assessments (including hematology, chemistry,&#xD;
+             urinalysis and electrocardiograph) are within normal range or meet the following&#xD;
+             criteria:&#xD;
+&#xD;
+               -  AST, ALT level ≦ upper limit of normal&#xD;
+&#xD;
+               -  Creatine Kinase (CK) concentration more than 3 times upper limit of normal&#xD;
+&#xD;
+               -  Serum creatinine level ≦ upper limit of normal&#xD;
+&#xD;
+               -  HbA1c more than 8.0&#xD;
+&#xD;
+          -  Complaints of subjective memory impairment and cognitive disturbances by patients&#xD;
+             themselves or caregivers, including memory loss and at least one of the following&#xD;
+             cognitive disturbances: language, perceptual skills, attention, constructive&#xD;
+             abilities, orientation, problem solving, functional abilities.&#xD;
+&#xD;
+          -  Cognitive deficits caused impairment in social or occupational function.&#xD;
+&#xD;
+          -  Disease progression with gradual and continued decline from a previous level of&#xD;
+             functioning.&#xD;
+&#xD;
+          -  Female subjects must be of non-childbearing potential (greater than 1 year without&#xD;
+             menstrual period in the absence of hormone replacement therapy) or surgically sterile.&#xD;
+             If pre-menopausal or menopausal for 1 year or less, must have a negative pregnancy&#xD;
+             test and must not be lactating at screening visit. Female subjects of childbearing&#xD;
+             potential and who are sexually active are required to practice adequate methods of&#xD;
+             birth control. Male subjects who are sexually active will also be required to use an&#xD;
+             adequate form of birth control.&#xD;
+&#xD;
+          -  Has sufficient education equivalent to elementary education to communicate effectively&#xD;
+             and were capable of completing the assessments of the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Having other causes of dementia.&#xD;
+&#xD;
+          -  Having substantial concomitant cerebrovascular disease (defined by a history of a&#xD;
+             stroke&#xD;
+&#xD;
+             / intracranial hemorrhage temporally related to the onset of worsening of cognitive&#xD;
+             impairment) per investigator judgement.&#xD;
+&#xD;
+          -  Medical history of cancer (except for basal cell carcinoma) and/or treatment for&#xD;
+             cancer within the last 5 years.&#xD;
+&#xD;
+          -  Medical history or diagnosis of any of the following symptomatic and unstable /&#xD;
+             uncontrolled conditions per investigator's judgement:&#xD;
+&#xD;
+               -  Uncontrolled cardiovascular illnesses such as chronic congestive heart failure&#xD;
+                  (with or without edema), tachycardia, arrhythmias, uncontrolled hypertension.&#xD;
+&#xD;
+               -  Significant ischemic heart disease, myocardial infarction within the last two&#xD;
+                  years and/or with residual angina, orthopnea, conduction defects (ECG), or any&#xD;
+                  other clinical significant heart disease classified as New York Heart Association&#xD;
+                  (NYHA) III or IV.&#xD;
+&#xD;
+               -  Significant gastrointestinal disorders (for example gastrointestinal bleeding&#xD;
+                  within the last two years, malabsorption syndromes, post-gastrectomy, or active&#xD;
+                  peptic ulcer disease).&#xD;
+&#xD;
+               -  Uncontrolled endocrine disease such as uncontrolled diabetes mellitus or&#xD;
+                  hyperthyroidism.&#xD;
+&#xD;
+               -  Unstable/Uncontrolled major depression.&#xD;
+&#xD;
+               -  Has neurological disease (other than dementia of Alzheimer's type, such as: Lewy&#xD;
+                  body dementia - primary diagnosis, Huntington's disease, Parkinson's Disease,&#xD;
+                  encephalitis, epilepsy, vascular or multiinfarct dementia, stroke, congenital&#xD;
+                  mental deficiency, multiple sclerosis).&#xD;
+&#xD;
+               -  Significant pulmonary disease predisposing to hypoxia.&#xD;
+&#xD;
+               -  Has major physical illnesses (e.g. brain tumor, craniocerebral trauma, thyroid&#xD;
+                  disease)&#xD;
+&#xD;
+          -  Any other psychiatric disorders such as schizophrenia, or mental retardation.&#xD;
+&#xD;
+          -  Any suicidal actions in the past 2 years (per investigator judgement i.e. actual&#xD;
+             attempt, interrupted attempt, aborted attempt, or preparatory acts or behavior).&#xD;
+&#xD;
+          -  Hachinski Ischemic Score &gt; 4&#xD;
+&#xD;
+          -  Significant history of drug dependence or abuse (including alcohol, as defined in&#xD;
+             Diagnostic and Statistical Manual of Mental Disorders [DSM-V] or in the opinion of the&#xD;
+             investigator)&#xD;
+&#xD;
+          -  Clinically significant uncompensated hearing loss in the judgment of the investigator.&#xD;
+             Use of hearing aids is allowed.&#xD;
+&#xD;
+          -  Has other condition(s) that in the opinions of investigators to be ineligible to&#xD;
+             participate in this study, e.g. Subject who cannot swallow the capsule whole.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ching-Kuan Liu, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Kaohsiung Medical University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cliff Lin</last_name>
+    <phone>+886-972821234</phone>
+    <email>cliff.lin@excelsiorgroup.com.tw</email>
+  </overall_contact>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>March 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>June 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 10, 2022</study_first_posted>
+  <last_update_submitted>July 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 11, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There won't be any individual participant data shared to other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2635">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04428034</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HSC20200410H</org_study_id>
+    <nct_id>NCT04428034</nct_id>
+  </id_info>
+  <brief_title>Learning Skills Together Pilot Study</brief_title>
+  <official_title>A Pilot Evaluation of Learning Skills Together: A Intervention to Teach Complex Care Skills to Caregivers of Persons Living With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Texas Health Science Center at San Antonio</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The University of Texas Health Science Center at San Antonio</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Learning Skills Together (LST) program is a synchronous web-based educational&#xD;
+      intervention developed to address the essential need for training to equip family caregivers&#xD;
+      to someone with mid-stage Alzheimer's disease to confidently provide complex care tasks.The&#xD;
+      purpose of this pilot study is to evaluate the feasibility of delivering LST, the program's&#xD;
+      acceptability to caregivers, and likelihood of effecting caregivers self-efficacy and&#xD;
+      mastery.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 3, 2020</start_date>
+  <completion_date type="Actual">September 9, 2021</completion_date>
+  <primary_completion_date type="Actual">August 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>A pre- and post-test design to test the Learning Skills Together program will be employed.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Caregiver Competency</measure>
+    <time_frame>Change from baseline to 4 weeks post-intervention; and to 8 weeks post-intervention</time_frame>
+    <description>This will be measured using the Caregiving Competence Scale. This measure includes 3-items pertaining to caregiver's confidence (e.g., &quot;I feel confident that I am meeting the needs of my relative&quot;). There are five response options to each statement (&quot;Strongly Disagree&quot; [1] to &quot;Strongly Agree&quot; [5]), such that scores may range from 3 to 15. A lower score indicates a lower level of confidence that the caregiver is meeting their relative's needs (i.e., higher scores are better). The outcome measure will use the average change score from baseline scores.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Caregiver Mastery</measure>
+    <time_frame>Change from baseline to 4 weeks post-intervention; and to 8 weeks post-intervention</time_frame>
+    <description>This will be measured using the Caregiver Mastery Scale. This 7-item scale asks participants the extent to which they feel they have control over various parts of their lives (e.g., &quot;I have little control over the things that happen to me&quot;). Participants may respond that they &quot;Strongly Disagree (1) to Strongly agree (4) with each statement, such that scores range from 7 to 28. The lower the score, the less control the caregiver feels that they have control (i.e., higher scores are better). The mean score for this measure among caregivers to frail older adults was previously reported as 19.42 (SD 3.29), with Cronbach's alpha of 0.78. The outcome measure will use the average change score from baseline scores.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>Family Caregiving</condition>
+  <condition>Complex Care</condition>
+  <condition>Self Efficacy</condition>
+  <condition>Intervention</condition>
+  <arm_group>
+    <arm_group_label>Learning Skills Together Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the Learning Skills Together program will begin their participation with a one-on-one phone call with an interventionist, who will ensure the participant is prepared to to attend the group sessions (e.g., familiar with videoconference technology) and will help the participant to set individual goals. The caregiver participant will then attend 4, group-based sessions lasting approximately 1.5 hours each, to learn about common complex care tasks managed by family caregivers to someone with mid-stage Alzheimer's disease, such as managing behavioral symptoms of dementia, incontinence, nutrition, transferring, medication management, and more. Sessions will integrate interactive activities, such as videos, case studies, and discussions. Approximately four weeks later, caregivers will be asked to attend a group reflection session to discuss application of what was learned and progress in meeting individual goals.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Learning Skills Together</intervention_name>
+    <description>Information provided in arm/group description.</description>
+    <arm_group_label>Learning Skills Together Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Family member (including families of choice) to an individual living with Alzheimer's&#xD;
+             disease who has received a diagnosis from a physician&#xD;
+&#xD;
+          -  Ages 18 and old&#xD;
+&#xD;
+          -  Provides assistance with at least two instrumental activities of daily living or one&#xD;
+             activity of daily living&#xD;
+&#xD;
+          -  Care recipient is described as being within mid-stage Alzheimer's Disease&#xD;
+&#xD;
+          -  There are no plans to place the care recipient in a skilled nursing facility within&#xD;
+             the next 3 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  The caregiver is paid to provide care&#xD;
+&#xD;
+          -  The caregiver does not have reliable access to a computer and internet&#xD;
+&#xD;
+          -  The caregiver is unable to read and speak English&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>All genders are eligible. Gender is self-reported. Participants may select &quot;Male,&quot; &quot;Female,&quot; and &quot;Other&quot; gender, and may select all responses that apply.</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carole L White, PhD, RN</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UT Health San Antonio</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UT Health San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Pearlin LI, Schooler C. The structure of coping. J Health Soc Behav. 1978 Mar;19(1):2-21.</citation>
+    <PMID>649936</PMID>
+  </reference>
+  <reference>
+    <citation>Pearlin LI, Mullan JT, Semple SJ, Skaff MM. Caregiving and the stress process: an overview of concepts and their measures. Gerontologist. 1990 Oct;30(5):583-94.</citation>
+    <PMID>2276631</PMID>
+  </reference>
+  <reference>
+    <citation>Chan EY, Glass G, Chua KC, Ali N, Lim WS. Relationship between Mastery and Caregiving Competence in Protecting against Burden, Anxiety and Depression among Caregivers of Frail Older Adults. J Nutr Health Aging. 2018;22(10):1238-1245. doi: 10.1007/s12603-018-1098-1.</citation>
+    <PMID>30498832</PMID>
+  </reference>
+  <reference>
+    <citation>Robertson, SM, Zarit, SH, Duncan, LG, Rovine, MJ, &amp; Femia, EE. Family caregivers' patterns of positive and negative affect. Family Relations. 2007; 56(1): 12-23.</citation>
+  </reference>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>June 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 11, 2020</study_first_posted>
+  <results_first_submitted>August 30, 2021</results_first_submitted>
+  <results_first_submitted_qc>December 13, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 4, 2022</results_first_posted>
+  <last_update_submitted>July 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>De-identified study data will be made available to other researchers if requested.</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 3, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/34/NCT04428034/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Learning Skills Together Intervention</title>
+          <description>Participants in the Learning Skills Together program will begin their participation with a one-on-one phone call with an interventionist, who will ensure the participant is prepared to to attend the group sessions (e.g., familiar with videoconference technology) and will help the participant to set individual goals. The caregiver participant will then attend 4, group-based sessions lasting approximately 1.5 hours each, to learn about common complex care tasks managed by family caregivers to someone with mid-stage Alzheimer's disease, such as managing behavioral symptoms of dementia, incontinence, nutrition, transferring, medication management, and more. Sessions will integrate interactive activities, such as videos, case studies, and discussions. Approximately four weeks later, caregivers will be asked to attend a group reflection session to discuss application of what was learned and progress in meeting individual goals.&#xD;
+Learning Skills Together: Information provided in arm/group description.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Enrollment to Intervention Completion</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="45"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Attended at Least 2 Intervention Sessions in One Cohort</title>
+              <participants_list>
+                <participants group_id="P1" count="35">Forty-five (45) participants enrolled and completed the baseline survey. Of those who completed they baseline survey, six participants of those who completed the baseline survey did not attend at least 2 sessions. Three participants started the intervention in one cohort, but completed in another (off-protocol). One participant was found to be a fraudulent case, identified through none-varying (&quot;straight line&quot;) responses to survey questions.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="35"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Suspected Fraudulent Case</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+        <period>
+          <title>4-Week Follow Up Survey</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="35"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>8-Week Follow Up Survey</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="27">Of those 27 who completed the 8-week follow up survey, one participant skipped the 4-week follow up survey but completed the 8-week survey.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Baseline characteristics are described for the analysis population, which includes participants who were eligible according to initial criteria, but who also: 1) attended at least 2 program sessions and 2) completed the program in the same cohort (i.e., did not start in one cohort and complete &quot;make up&quot; sessions in the following cohort.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Learning Skills Together Intervention</title>
+          <description>Participants in the Learning Skills Together program will begin their participation with a one-on-one phone call with an interventionist, who will ensure the participant is prepared to to attend the group sessions (e.g., familiar with videoconference technology) and will help the participant to set individual goals. The caregiver participant will then attend 4, group-based sessions lasting approximately 1.5 hours each, to learn about common complex care tasks managed by family caregivers to someone with mid-stage Alzheimer's disease, such as managing behavioral symptoms of dementia, incontinence, nutrition, transferring, medication management, and more. Sessions will integrate interactive activities, such as videos, case studies, and discussions. Approximately four weeks later, caregivers will be asked to attend a group reflection session to discuss application of what was learned and progress in meeting individual goals.&#xD;
+Learning Skills Together: Information provided in arm/group description.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="35"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Race and Ethnicity</title>
+              <category_list>
+                <category>
+                  <title>African American/Black</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Caucasian/white</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hispanic</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Caregiver Competency</title>
+          <description>Measured using the Caregiver Competency Scale, a 3 item scale. Each scale has 5 responses: Never (0), to All of the time (5). Scores range from 3-15 with a lower score indicating less confidence in providing for relative's needs.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11.6" spread="2.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Caregiver Mastery</title>
+          <description>Measured using the Caregiver Mastery Scale, a 7 item scale which asks the participant the extent to which they feel they have control over various parts of their lives. Responses range from Strongly Disagree (1) to Strongly Agree (4). Range of scores are from 7-28, with a lower score showing that the caregiver believes they have less control.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16.6" spread="2.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Caregiver Competency</title>
+        <description>This will be measured using the Caregiving Competence Scale. This measure includes 3-items pertaining to caregiver's confidence (e.g., &quot;I feel confident that I am meeting the needs of my relative&quot;). There are five response options to each statement (&quot;Strongly Disagree&quot; [1] to &quot;Strongly Agree&quot; [5]), such that scores may range from 3 to 15. A lower score indicates a lower level of confidence that the caregiver is meeting their relative's needs (i.e., higher scores are better). The outcome measure will use the average change score from baseline scores.</description>
+        <time_frame>Change from baseline to 4 weeks post-intervention; and to 8 weeks post-intervention</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Learning Skills Together Intervention</title>
+            <description>Participants in the Learning Skills Together program will begin their participation with a one-on-one phone call with an interventionist, who will ensure the participant is prepared to to attend the group sessions (e.g., familiar with videoconference technology) and will help the participant to set individual goals. The caregiver participant will then attend 4, group-based sessions lasting approximately 1.5 hours each, to learn about common complex care tasks managed by family caregivers to someone with mid-stage Alzheimer's disease, such as managing behavioral symptoms of dementia, incontinence, nutrition, transferring, medication management, and more. Sessions will integrate interactive activities, such as videos, case studies, and discussions. Approximately four weeks later, caregivers will be asked to attend a group reflection session to discuss application of what was learned and progress in meeting individual goals.&#xD;
+Learning Skills Together: Information provided in arm/group description.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Caregiver Competency</title>
+          <description>This will be measured using the Caregiving Competence Scale. This measure includes 3-items pertaining to caregiver's confidence (e.g., &quot;I feel confident that I am meeting the needs of my relative&quot;). There are five response options to each statement (&quot;Strongly Disagree&quot; [1] to &quot;Strongly Agree&quot; [5]), such that scores may range from 3 to 15. A lower score indicates a lower level of confidence that the caregiver is meeting their relative's needs (i.e., higher scores are better). The outcome measure will use the average change score from baseline scores.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>4-Weeks Post-Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.0" spread="1.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>8-Weeks Post-Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.0" spread="2.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Caregiver Mastery</title>
+        <description>This will be measured using the Caregiver Mastery Scale. This 7-item scale asks participants the extent to which they feel they have control over various parts of their lives (e.g., &quot;I have little control over the things that happen to me&quot;). Participants may respond that they &quot;Strongly Disagree (1) to Strongly agree (4) with each statement, such that scores range from 7 to 28. The lower the score, the less control the caregiver feels that they have control (i.e., higher scores are better). The mean score for this measure among caregivers to frail older adults was previously reported as 19.42 (SD 3.29), with Cronbach's alpha of 0.78. The outcome measure will use the average change score from baseline scores.</description>
+        <time_frame>Change from baseline to 4 weeks post-intervention; and to 8 weeks post-intervention</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Learning Skills Together Intervention</title>
+            <description>Participants in the Learning Skills Together program will begin their participation with a one-on-one phone call with an interventionist, who will ensure the participant is prepared to to attend the group sessions (e.g., familiar with videoconference technology) and will help the participant to set individual goals. The caregiver participant will then attend 4, group-based sessions lasting approximately 1.5 hours each, to learn about common complex care tasks managed by family caregivers to someone with mid-stage Alzheimer's disease, such as managing behavioral symptoms of dementia, incontinence, nutrition, transferring, medication management, and more. Sessions will integrate interactive activities, such as videos, case studies, and discussions. Approximately four weeks later, caregivers will be asked to attend a group reflection session to discuss application of what was learned and progress in meeting individual goals.&#xD;
+Learning Skills Together: Information provided in arm/group description.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Caregiver Mastery</title>
+          <description>This will be measured using the Caregiver Mastery Scale. This 7-item scale asks participants the extent to which they feel they have control over various parts of their lives (e.g., &quot;I have little control over the things that happen to me&quot;). Participants may respond that they &quot;Strongly Disagree (1) to Strongly agree (4) with each statement, such that scores range from 7 to 28. The lower the score, the less control the caregiver feels that they have control (i.e., higher scores are better). The mean score for this measure among caregivers to frail older adults was previously reported as 19.42 (SD 3.29), with Cronbach's alpha of 0.78. The outcome measure will use the average change score from baseline scores.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="35"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>4-Weeks Post-Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.7" spread="2.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>8-Weeks Post-Intervention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.5" spread="2.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event data were collected over 1 year.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Learning Skills Together Intervention</title>
+          <description>Participants in the Learning Skills Together program will begin their participation with a one-on-one phone call with an interventionist, who will ensure the participant is prepared to to attend the group sessions (e.g., familiar with videoconference technology) and will help the participant to set individual goals. The caregiver participant will then attend 4, group-based sessions lasting approximately 1.5 hours each, to learn about common complex care tasks managed by family caregivers to someone with mid-stage Alzheimer's disease, such as managing behavioral symptoms of dementia, incontinence, nutrition, transferring, medication management, and more. Sessions will integrate interactive activities, such as videos, case studies, and discussions. Approximately four weeks later, caregivers will be asked to attend a group reflection session to discuss application of what was learned and progress in meeting individual goals.&#xD;
+Learning Skills Together: Information provided in arm/group description.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="35"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="35"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="35"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Adverse Event: Identification of Severe Depression</sub_title>
+                <description>This event pertains to caregivers who were identified during any measurement occasion as having severe depression. It is not known whether high depression scores were related to study participation.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="35"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Application of a. pre- and post-test design means that changes in self-efficacy cannot be attributed to the intervention alone&#xD;
+Results from this study are subject to selection bias given participant dropout between survey collection times&#xD;
+The small size of the analytic sample may have contributed to Type II error for some outcomes</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Kylie Meyer, PhD</name_or_title>
+      <organization>UT Health San Antonio</organization>
+      <phone>210-450-5386</phone>
+      <email>meyerk1@uthscsa.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

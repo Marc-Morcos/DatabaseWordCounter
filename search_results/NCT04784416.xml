@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="969">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04784416</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-00865</org_study_id>
+    <nct_id>NCT04784416</nct_id>
+  </id_info>
+  <brief_title>Transcranial Photobiomodulation for Alzheimer's Disease (TRAP-AD)</brief_title>
+  <official_title>Transcranial Photobiomodulation for Alzheimer's Disease (TRAP-AD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Alzheimer's Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>LiteCure LLC</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will be the first to evaluate the dose-dependent effects of t-PBM in amnestic Mild&#xD;
+      Cognitive Impairment (aMCI) (CDR of 0.5-1, FAST 1-3; age 65-85) in a randomized clinical&#xD;
+      trial of 8 weeks of t-PBM vs. sham. At screening, all subjects will complete initial&#xD;
+      neuropsychological testing. To elucidate mechanisms of action of t-PBM, prior to treatment,&#xD;
+      subjects will undergo neuroimaging related to critical features of AD: tau 18F MK-6240 load&#xD;
+      (PET), measures of brain bioenergetics (31P-MRS), and functional connectivity (rs-fMRI).&#xD;
+      Subjects will also undergo an open label t-PBM session performed during fMRI to detect BOLD&#xD;
+      changes with t-PBM. Subjects will then be randomized to t-PBM/sham and complete treatments in&#xD;
+      two participating centers (NYU/NKI acting as a single center, and MGH), ~10 min per day, 3&#xD;
+      days per week, for 8 weeks. t-PBM will be administered via pulsed, 808nm wavelength laser&#xD;
+      delivery to the forehead bilaterally (at standard EEG electrode positions F4, F3).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 27, 2021</start_date>
+  <completion_date type="Anticipated">November 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Repeatable Battery for the Assessment of Neuropsychological Status Update (RBANS) Total Scale Index Score.</measure>
+    <time_frame>Baseline, Week 8</time_frame>
+    <description>RBANS is s a brief, individually administered battery to measure cognitive decline or improvement. Total Scale Index Score Range = 40-160. A higher score indicates better performance.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Repeatable Battery for the Assessment of Neuropsychological Status Update (RBANS) Total Scale Index Score.</measure>
+    <time_frame>Baseline, Month 3</time_frame>
+    <description>RBANS is s a brief, individually administered battery to measure cognitive decline or improvement. Total Scale Index Score Range = 40-160. A higher score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Addenbrooke's Cognitive Examination (ACE-III) Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>ACE-III is a screening test that is composed of tests of attention, orientation, memory, language, visual perceptual and visuospatial skills. The total range of raw score is 0-100. A higher score indicates more intact cognitive functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Addenbrooke's Cognitive Examination (ACE-III) Score</measure>
+    <time_frame>Week 8</time_frame>
+    <description>ACE-III is a screening test that is composed of tests of attention, orientation, memory, language, visual perceptual and visuospatial skills. The total range of raw score is 0-100. A higher score indicates more intact cognitive functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Addenbrooke's Cognitive Examination (ACE-III) Score</measure>
+    <time_frame>Month 3</time_frame>
+    <description>ACE-III is a screening test that is composed of tests of attention, orientation, memory, language, visual perceptual and visuospatial skills. The total range of raw score is 0-100. A higher score indicates more intact cognitive functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Letter Comparison Test Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The total range of score is 0-21. A higher raw score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Letter Comparison Test Score</measure>
+    <time_frame>Week 8</time_frame>
+    <description>The total range of score is 0-21. A higher raw score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Letter Comparison Test Score</measure>
+    <time_frame>Month 3</time_frame>
+    <description>The total range of score is 0-21. A higher raw score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pattern Comparison Test Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The total range of score is 0-30. A higher raw score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pattern Comparison Test Score</measure>
+    <time_frame>Week 8</time_frame>
+    <description>The total range of score is 0-30. A higher raw score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pattern Comparison Test Score</measure>
+    <time_frame>Month 3</time_frame>
+    <description>The total range of score is 0-30. A higher raw score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stroop Color and Word Test (SCWT)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>SCWT is a neuropsychological test extensively used to assess the ability to inhibit cognitive interference that occurs when the processing of a specific stimulus feature impedes the simultaneous processing of a second stimulus attribute, well-known as the Stroop Effect. This study will use T-scores, range = 20 - 80. A higher T-score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stroop Color and Word Test (SCWT)</measure>
+    <time_frame>Week 8</time_frame>
+    <description>SCWT is a neuropsychological test extensively used to assess the ability to inhibit cognitive interference that occurs when the processing of a specific stimulus feature impedes the simultaneous processing of a second stimulus attribute, well-known as the Stroop Effect. This study will use T-scores, range = 20 - 80. A higher T-score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Stroop Color and Word Test (SCWT)</measure>
+    <time_frame>Month 3</time_frame>
+    <description>SCWT is a neuropsychological test extensively used to assess the ability to inhibit cognitive interference that occurs when the processing of a specific stimulus feature impedes the simultaneous processing of a second stimulus attribute, well-known as the Stroop Effect. This study will use T-scores, range = 20 - 80. A higher T-score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in Score Between Trail Making Test-A (TMT-A) and Trail Making Test-B (TMT-B)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Trails Making Test (Trails) is a neuropsychological test of visual attention and task switching. Both parts of the Trail Making Test consist of 25 circles distributed over a sheet of paper. In Part A, the circles are numbered 1-25, and the patient should draw lines to connect the numbers in ascending order. In Part B, the circles include both numbers (1-13) and letters (A-L); as in Part A, the patient draws lines to connect the circles in an ascending pattern (alternating numbers and letters). The time it takes to connect the &quot;trail&quot; is recorded.&#xD;
+Reported as B - A. Range = 0 - 100+ (measured in seconds). A higher B - A score indicates poorer performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in Score Between Trail Making Test-A (TMT-A) and Trail Making Test-B (TMT-B)</measure>
+    <time_frame>Week 8</time_frame>
+    <description>Trails Making Test (Trails) is a neuropsychological test of visual attention and task switching. Both parts of the Trail Making Test consist of 25 circles distributed over a sheet of paper. In Part A, the circles are numbered 1-25, and the patient should draw lines to connect the numbers in ascending order. In Part B, the circles include both numbers (1-13) and letters (A-L); as in Part A, the patient draws lines to connect the circles in an ascending pattern (alternating numbers and letters). The time it takes to connect the &quot;trail&quot; is recorded.&#xD;
+Reported as B - A. Range = 0 - 100+ (measured in seconds). A higher B - A score indicates poorer performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in Score Between Trail Making Test-A (TMT-A) and Trail Making Test-B (TMT-B)</measure>
+    <time_frame>Month 3</time_frame>
+    <description>TMT is a neuropsychological test of visual attention and task switching. Both parts of the Trail Making Test consist of 25 circles distributed over a sheet of paper. In Part A, the circles are numbered 1-25, and the patient should draw lines to connect the numbers in ascending order. In Part B, the circles include both numbers (1-13) and letters (A-L); as in Part A, the patient draws lines to connect the circles in an ascending pattern (alternating numbers and letters). The time it takes to connect the &quot;trail&quot; is recorded.&#xD;
+Reported as B - A. Range = 0 - 100+ (measured in seconds). A higher B - A score indicates poorer performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TMT-B T-Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>In TMT-B, the circles include both numbers (1-13) and letters (A-L); the patient draws lines to connect the circles in an ascending pattern (alternating numbers and letters). The time is takes to connect the &quot;trail&quot; is recorded. Range = 0 - 100. A higher T-score indicates better performance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TMT-B T-Score</measure>
+    <time_frame>Week 8</time_frame>
+    <description>In TMT-B, the circles include both numbers (1-13) and letters (A-L); the patient draws lines to connect the circles in an ascending pattern (alternating numbers and letters). The time is takes to connect the &quot;trail&quot; is recorded. Range = 0 - 100. A higher T-score indicates better performance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TMT-B T-Score</measure>
+    <time_frame>Month 3</time_frame>
+    <description>In TMT-B, the circles include both numbers (1-13) and letters (A-L); the patient draws lines to connect the circles in an ascending pattern (alternating numbers and letters). The time is takes to connect the &quot;trail&quot; is recorded. Range = 0 - 100. A higher T-score indicates better performance</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Face-Name Associative Memory Exam (FNAME-12) Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>FNAME-12 is an associative memory test where participants see a series of facial photos and names and are asked to remember the face-name pairs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Face-Name Associative Memory Exam (FNAME-12) Score</measure>
+    <time_frame>Week 8</time_frame>
+    <description>FNAME-12 is an associative memory test where participants see a series of facial photos and names and are asked to remember the face-name pairs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Face-Name Associative Memory Exam (FNAME-12) Score</measure>
+    <time_frame>Month 3</time_frame>
+    <description>FNAME-12 is an associative memory test where participants see a series of facial photos and names and are asked to remember the face-name pairs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Letter Number Sequencing Score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>this study will use T-scores, range = 20 - 80. A higher T-score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Letter Number Sequencing Score</measure>
+    <time_frame>Week 8</time_frame>
+    <description>this study will use T-scores, range = 20 - 80. A higher T-score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Letter Number Sequencing Score</measure>
+    <time_frame>Month 3</time_frame>
+    <description>this study will use T-scores, range = 20 - 80. A higher T-score indicates better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Systemic Assessment for Treatment Emergent Events - Specific Inquiry (SAFTEE-SI) Score</measure>
+    <time_frame>Baseline, up to Week 8</time_frame>
+    <description>SAFTEE-SI is a list of 55 symptoms. Participants indicate how bothersome each symptom has been for them by circling the appropriate number (0-none, 1-mild, 2-moderate, 3-severe). The total range of score is 0 - 165. The higher the score, the more severely bothersome the symptoms are.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Transcranial Photobiomodulation (t-PBM)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Active tPBM-2.0</intervention_name>
+    <description>The NIR pulsed wave (irradiance =300 mW/cm2) will be used. The duration or irradiation will be for ~11 minutes (666 seconds).</description>
+    <arm_group_label>Transcranial Photobiomodulation (t-PBM)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Sham tPBM-2.0</intervention_name>
+    <description>The sham mode (0 mW/cm2) will be used. The duration or sham &quot;irradiation&quot; will be for ~11 minutes (666 seconds).</description>
+    <arm_group_label>Sham</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>18F-MK-6240</intervention_name>
+    <description>PET tracer to be injected prior to PET imaging session, which will occur during baseline assessments</description>
+    <arm_group_label>Sham</arm_group_label>
+    <arm_group_label>Transcranial Photobiomodulation (t-PBM)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to give written informed consent and follow study procedures.&#xD;
+&#xD;
+          2. Age ≥ 65 years and ≤ 85 years.&#xD;
+&#xD;
+          3. Meets the Petersen MCI criteria for Amnestic MCI (single and multiple domain) with a&#xD;
+             Clinical Dementia Rating (CDR) between 0.5 to 1, and a Functional Assessment Staging&#xD;
+             (FAST) of 1-3.&#xD;
+&#xD;
+          4. Consents to permit and identifies a willing informed relative, family member, or&#xD;
+             spouse for study staff to interview to confirm subject reports as per UDS 3.0&#xD;
+             guidelines.&#xD;
+&#xD;
+          5. Have at least a high school diploma / 12 years education&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Unwilling/unable to comply with study procedures.&#xD;
+&#xD;
+          2. Other diagnosis of dementia (i.e., not Alzheimer's type), history of brain tumor, MRI&#xD;
+             evidence of brain damage or brain disease including significant trauma, hydrocephalus,&#xD;
+             seizures, intellectual disability, or other serious neurological disorder (e.g.&#xD;
+             Parkinson's disease or other movement disorders).&#xD;
+&#xD;
+          3. History of significant cardiovascular or cerebrovascular pathology (e.g., myocardial&#xD;
+             infarction; stroke).&#xD;
+&#xD;
+          4. Clinically unstable systemic medical disorders.&#xD;
+&#xD;
+          5. Current DSM-5 diagnosis of alcohol or drug use disorder or other major psychiatric&#xD;
+             illness (e.g., schizophrenia, bipolar, PTSD, depression).&#xD;
+&#xD;
+          6. Clinical or laboratory evidence of hypothyroidism.&#xD;
+&#xD;
+          7. Clinically significant abnormal findings of laboratory parameters or at physical&#xD;
+             examination.&#xD;
+&#xD;
+          8. Medications affecting cognition (e.g., narcotic analgesics; chronic use of medications&#xD;
+             with anticholinergic activity, anti-Parkinsonian medications, antipsychotic meds,&#xD;
+             etc.). Stable use (i.e., ≥ 6 months) of memantine or acetylcholinesterase inhibitors&#xD;
+             will be allowed.&#xD;
+&#xD;
+          9. Family history of early onset (&lt;60 y/o) dementia.&#xD;
+&#xD;
+         10. Body size and shape not allowing for a comfortable fit in PET and MRI scanners.&#xD;
+&#xD;
+         11. Past intolerance or hypersensitivity to t-PBM.&#xD;
+&#xD;
+         12. Significant skin conditions on the subject's scalp in the area of the procedure sites.&#xD;
+&#xD;
+         13. Any use of light-activated drugs (photodynamic therapy) within 14 days prior to study&#xD;
+             enrollment.&#xD;
+&#xD;
+         14. Any type of implants in the head, whose functioning might be affected by t-PBM, or any&#xD;
+             prosthetic devices (e.g., pacemaker or surgical clips) that constitutes a hazard for&#xD;
+             MRI imaging.&#xD;
+&#xD;
+         15. Claustrophobia or metallic foreign bodies that would preclude MRI.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dan Iosifescu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health and Nathan Kline Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ricardo Osorio, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NYU Langone Health and Nathan Kline Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paolo Cassano, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dan Iosifescu, MD</last_name>
+    <phone>646-754-5156</phone>
+    <email>dan.iosifescu@nyulangone.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Xiaotong Song</last_name>
+    <phone>646-754-2211</phone>
+    <email>xiaotong.song@nyulangone.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paolo Cassano, MD, PhD</last_name>
+      <phone>617-726-6421</phone>
+      <email>PCASSANO@mgh.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>MGH Team</last_name>
+      <phone>617-724-8780</phone>
+      <email>pbm@mgh.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Paolo Cassano, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aura Hurtado, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eva Ratai, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dan Iosifescu, MD</last_name>
+      <phone>646-754-5156</phone>
+      <email>dan.iosifescu@nyulangone.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Zanetta Kovbasyuk</last_name>
+      <phone>212-263-7563</phone>
+      <email>zanetta.kovbasyuk@nyulangone.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dan Iosifescu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ricardo Osorio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Martin Sadowski, MD, PhD, DSci</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ryan Brown, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Eva Petkova, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thaddeus Tarpey, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nathan Kline Institute</name>
+      <address>
+        <city>Orangeburg</city>
+        <state>New York</state>
+        <zip>10962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dan Iosifescu, MD</last_name>
+      <phone>646-754-5156</phone>
+      <email>dan.iosifescu@nyulangone.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Molly Irvin</last_name>
+      <phone>845-398-7752</phone>
+      <email>molly.irvin@nki.rfmh.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dan Iosifescu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ricardo Osorio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antonio Convit, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kathy Yates, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nunzio Pomara, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Matthew Hoptman, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Umit Tural, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Katherine Collins, MSW, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>March 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2021</study_first_posted>
+  <last_update_submitted>June 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 30, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Transcranial Photobiomodulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported in this article, after deidentification (text, tables, figures, and appendices) will be provided upon reasonable request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication or as required by a condition of awards and agreements supporting the research.</ipd_time_frame>
+    <ipd_access_criteria>The investigator who proposed to use the data will have access upon reasonable request.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1830">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05227820</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Biovie &amp; Dementia</org_study_id>
+    <nct_id>NCT05227820</nct_id>
+  </id_info>
+  <brief_title>Insulin-Sensitizing Anti-Inflammatory Small Molecule for Investigative Treatment of Dementia</brief_title>
+  <official_title>Anti-Inflammatory, Insulin-Sensitizing Agent for Treatment of Cognitive Decline Due to Degenerative Dementias</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Neurological Associates of West Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>BioVie Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Neurological Associates of West Los Angeles</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study seeks to measure changes in cognition through verbal and visual test procedures&#xD;
+      and changes in biomarkers of Alzheimer's disease and inflammatory and metabolic parameters&#xD;
+      that can be measure in the central nervous system (CNS) with advanced neuroimaging techniques&#xD;
+      in patients treated with NE3107 (17a-ethynyl-androst-5-3b,7b,17b-triol).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Considering how many people are in a state of mild cognitive impairment (MCI) and frank&#xD;
+      dementia, there is a substantial cost to society in terms of financial burden and suffering.&#xD;
+      Degenerative conditions that result in cognitive change in middle and late life are&#xD;
+      frequently associated with abnormal deposits of protein material (e.g., amyloid, phospho-tau)&#xD;
+      which interfere with neuronal function and viability. Inflammation and insulin resistance in&#xD;
+      the CNS and abnormal protein deposition and resultant physiological impairment characterize&#xD;
+      conditions of the Alzheimer's dementia (AD) type.&#xD;
+&#xD;
+      Neuroinflammation prompts AD progression, impaired cholesterol efflux and reduced insulin&#xD;
+      signaling (insulin resistance). Insulin resistance has been considered a risk factor as well&#xD;
+      as a feature of AD, and has also been associated with increased aß-42 secretion, neuritic&#xD;
+      plaque burden, abnormal insulin receptor performance, decreased glucose metabolism, and&#xD;
+      consequently decreased cognitive performance.&#xD;
+&#xD;
+      No therapy exists that has been proven to halt or reverse the progressive deposition of&#xD;
+      abnormal proteins or the attendant neurophysiological deterioration. Various investigational&#xD;
+      therapies aim to target the pathophysiological processes of AD; from combating abnormal&#xD;
+      protein deposition, to targeting sources of systemic and neuroinflammation, to providing&#xD;
+      cholinergic, hormonal, and metabolic support. A promising area of research is the ongoing use&#xD;
+      of insulin synthesizers as a therapeutic option for AD.&#xD;
+&#xD;
+      Several Phase 3 studies have been initiated and/or completed with compounds such as&#xD;
+      Semaglutide, a hormone that stimulates insulin signaling, Metformin, an insulin synthesizer,&#xD;
+      and NE3107, an anti-inflammatory insulin-sensitizing agent.&#xD;
+&#xD;
+      This study seeks to measure changes in cognition through verbal and visual test procedures&#xD;
+      and changes in biomarkers of Alzheimer's disease and inflammatory and metabolic parameters&#xD;
+      that can be measured in the CNS with advanced neuroimaging techniques in patients treated&#xD;
+      with NE3107 (17a-ethynyl-androst-5-ene-3b,7b,17b-triol).&#xD;
+&#xD;
+      Investigational Product&#xD;
+&#xD;
+      The drug under investigation is NE3107 (17a-ethynyl-androst-5-ene-3b,7b,17b-triol). NE3107 is&#xD;
+      formulated with common excipients used in oral medications in #2 hard gelatin capsules. The&#xD;
+      capsules are designed for oral administration. NE3107 capsules are stable at room temperature&#xD;
+      for at least 18 months. Stability of the capsules used in this study will be monitored by a&#xD;
+      concurrent stability study conducted by the capsule manufacturer and the holder of the&#xD;
+      primary IND, Biovie, Inc (Santa Monica, CA).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 19, 2022</start_date>
+  <completion_date type="Actual">August 20, 2022</completion_date>
+  <primary_completion_date type="Actual">July 20, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>fMRI MRS Change</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in MRS from baseline to completion on advanced functional magnetic resonance imaging (fMRI). Specifically the change in glutathione levels will be analyzed (as measured by Magnetic Resonance Spectroscopy (MRS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>fMRI DTI-NODDI Change</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in Diffusion Tensor Imaging - Neurite Orientation Dispersion Density Imaging (DTI-NODDI) from baseline to completion on advanced functional magnetic resonance imaging (fMRI). Specifically the stabilization and or improvement in dendritic density will be analyzed from baseline to completion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>fMRI ASL Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Change in Arterial Spin Labeling (ASL) compared to baseline</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>fMRI resting BOLD Seed Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Change in functional connectivity of the nucleus basalis of meynert (NBM) with both hippocampi as well as between both hippocampi compared to baseline as visualized by seed analysis of blood-oxygen level depended (BOLD) imaging</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>fMRI NVR Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Change in Neurovascular Coupling (NVR) as measured on BOLD imaging compared to baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Dementia Rating Change as calculated from the Quick Dementia Rating Scale Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Quick Dementia Rating Scale (QDRS)&#xD;
+The Quick Dementia Rating Scale (QDRS) is an interview-based tool administered by study officials to participants' caregivers used to obtain observations from a consistent source. The QDRS form consists of 10 categorical questions (5 cognitive, 5 functional), each with 5 detailed options depicting the level of impairment as either 0 (normal), 0.5 (mild/inconsistent impairment), 1 (mild/consistent impairment), 2 (moderate impairment), or 3 (severe impairment). Based on the conversion table outlined in Dr. James Galvin's research (2015), total QDRS scores were converted to Clinical Dementia Rating (CDR) scale levels ranging from 0 (normal aging), 0.5 (mild cognitive impairment), 1 (mild dementia), 2 (moderate dementia), and 3 (severe dementia).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Montreal Cognitive Assessment (MoCA) Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The MoCA evaluates frontal-executive functions (e.g., verbal abstraction and mental calculation), language (e.g., confrontation naming, phonemic fluency), orientation (e.g., person, place, date, day of the week, and time), visuospatial construction (e.g., simple figure copy), divided visual attention, and immediate and delayed memory of unstructured information. MoCA scores range from 0-30 possible points; 26 or greater is considered to reflect normal cognitive status.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog) Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The ADAS-Cog evaluates participants' cognitive ability. It is composed of 11 parts that measure word recall, object/figure naming, command following, constructional praxis, ideational praxis, orientation, word recognition, test direction recall, spoken language, comprehension, and word-finding difficulty. The ADAS-Cog is scored from 0-70 by measuring the errors made in each task, with a score of 70 representing the most severe impairment. A point reduction of 3.1 to 3.8 has been found to be the minimal clinically important difference (Schrag &amp; Schott, 2012). A change will be evaluated from baseline to completion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini-Mental State Examination (MMSE) Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>The MMSE is a 30-point questionnaire that evaluates cognition. The MMSE includes specific tasks that assess orientation, attention, memory, language, and visual-spatial skills. MMSE scores range from 0 - 30 possible points; 0-17: severe cognitive impairment, 18-23: mild cognitive impairment, 24-30: no cognitive impairment. A point decrease &gt;/= to 3 on the MMSE has been identified as the minimally clinically important difference (Andres, 2019). A change will be evaluated from baseline to completion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose Serology/Metabolic Level Change</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Fasting Glucose will be measured in baseline and post blood work and measured based on reference range 75 - 99 mg/dL.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">23</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Experimental Arm: NE3107</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants will take 200mg BID (12 hours apart) of NE3107 for 3 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NE3107</intervention_name>
+    <description>Participants will take 20mg twice daily (BID) approximately 12 hours apart. The dose will be stable the duration of the study intervention (3 months)</description>
+    <arm_group_label>Experimental Arm: NE3107</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        In order for a subject to be considered for this study, the following criterion is&#xD;
+        required:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Cognitive decline with Clinical Dementia Rating (CDR) score of 0.5 to 1, suggesting&#xD;
+             mild cognitive impairment to mild dementia.&#xD;
+&#xD;
+          -  Participants must be between the ages of 50-89&#xD;
+&#xD;
+          -  Primary cognitive complaint must be memory Impairment without movement or psychiatric&#xD;
+             explanation/diagnosis&#xD;
+&#xD;
+          -  Participants must show at least one abnormal imaging biomarker and none of the&#xD;
+             exclusion criteria below.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        In order for a subject to be considered for this study, he/she may NOT have any of the&#xD;
+        following:&#xD;
+&#xD;
+          -  Subjects with contraindications for lumbar puncture, such as bleeding abnormalities,&#xD;
+             use of anticoagulant medications, and local skin or spine abnormalities&#xD;
+&#xD;
+          -  Reversible causes of cognitive impairment that explains the clinical status entirely,&#xD;
+             such as hypothyroidism, depression&#xD;
+&#xD;
+          -  Advanced stages of any terminal illness or any active cancer that requires&#xD;
+             chemotherapy&#xD;
+&#xD;
+          -  History of breast cancer&#xD;
+&#xD;
+          -  Women with child-bearing potential who are not willing to use a double-barrier birth&#xD;
+             control method&#xD;
+&#xD;
+          -  Males not willing to use a double-barrier birth control method with female sex&#xD;
+             partners with child-bearing potential&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sheldon Jordan</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Neurological Associates The Interventional Group/The Regenesis Project</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Neurological Associates - The Interventional Group</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Lacor PN, Buniel MC, Furlow PW, Clemente AS, Velasco PT, Wood M, Viola KL, Klein WL. Abeta oligomer-induced aberrations in synapse composition, shape, and density provide a molecular basis for loss of connectivity in Alzheimer's disease. J Neurosci. 2007 Jan 24;27(4):796-807.</citation>
+    <PMID>17251419</PMID>
+  </reference>
+  <reference>
+    <citation>Connolly S. Economics of dementia: A review of methods. Dementia (London). 2020 Jul;19(5):1426-1440. doi: 10.1177/1471301218800639. Epub 2018 Sep 19. Review.</citation>
+    <PMID>30231623</PMID>
+  </reference>
+  <reference>
+    <citation>Khan, T.K. (2016) Chapter 1 - introduction to Alzheimer's disease biomarkers. Biomarkers in Alzheimer's Disease, pp. 3-23. doi:10.1016/B978-0-12-804832-0.00001-8</citation>
+  </reference>
+  <reference>
+    <citation>Nauck MA, Quast DR, Wefers J, Meier JJ. GLP-1 receptor agonists in the treatment of type 2 diabetes - state-of-the-art. Mol Metab. 2021 Apr;46:101102. doi: 10.1016/j.molmet.2020.101102. Epub 2020 Oct 14. Review.</citation>
+    <PMID>33068776</PMID>
+  </reference>
+  <reference>
+    <citation>Koenig AM, Mechanic-Hamilton D, Xie SX, Combs MF, Cappola AR, Xie L, Detre JA, Wolk DA, Arnold SE. Effects of the Insulin Sensitizer Metformin in Alzheimer Disease: Pilot Data From a Randomized Placebo-controlled Crossover Study. Alzheimer Dis Assoc Disord. 2017 Apr-Jun;31(2):107-113. doi: 10.1097/WAD.0000000000000202.</citation>
+    <PMID>28538088</PMID>
+  </reference>
+  <reference>
+    <citation>Kinney JW, Bemiller SM, Murtishaw AS, Leisgang AM, Salazar AM, Lamb BT. Inflammation as a central mechanism in Alzheimer's disease. Alzheimers Dement (N Y). 2018 Sep 6;4:575-590. doi: 10.1016/j.trci.2018.06.014. eCollection 2018. Review.</citation>
+    <PMID>30406177</PMID>
+  </reference>
+  <reference>
+    <citation>Chen MJ, Ramesha S, Weinstock LD, Gao T, Ping L, Xiao H, Dammer EB, Duong DD, Levey AI, Lah JJ, Seyfried NT, Wood LB, Rangaraju S. Extracellular signal-regulated kinase regulates microglial immune responses in Alzheimer's disease. J Neurosci Res. 2021 Jun;99(6):1704-1721. doi: 10.1002/jnr.24829. Epub 2021 Mar 17.</citation>
+    <PMID>33729626</PMID>
+  </reference>
+  <reference>
+    <citation>Rorbach-Dolata A, Piwowar A. Neurometabolic Evidence Supporting the Hypothesis of Increased Incidence of Type 3 Diabetes Mellitus in the 21st Century. Biomed Res Int. 2019 Jul 21;2019:1435276. doi: 10.1155/2019/1435276. eCollection 2019. Review.</citation>
+    <PMID>31428627</PMID>
+  </reference>
+  <reference>
+    <citation>Chow HM, Shi M, Cheng A, Gao Y, Chen G, Song X, So RWL, Zhang J, Herrup K. Age-related hyperinsulinemia leads to insulin resistance in neurons and cell-cycle-induced senescence. Nat Neurosci. 2019 Nov;22(11):1806-1819. doi: 10.1038/s41593-019-0505-1. Epub 2019 Oct 21.</citation>
+    <PMID>31636448</PMID>
+  </reference>
+  <reference>
+    <citation>Reading CL, Ahlem CN, Murphy MF. NM101 Phase III study of NE3107 in Alzheimer's disease: rationale, design and therapeutic modulation of neuroinflammation and insulin resistance. Neurodegener Dis Manag. 2021 Aug;11(4):289-298. doi: 10.2217/nmt-2021-0022. Epub 2021 Jul 12.</citation>
+    <PMID>34251287</PMID>
+  </reference>
+  <reference>
+    <citation>Maioli F, Coveri M, Pagni P, Chiandetti C, Marchetti C, Ciarrocchi R, Ruggero C, Nativio V, Onesti A, D'Anastasio C, Pedone V. Conversion of mild cognitive impairment to dementia in elderly subjects: a preliminary study in a memory and cognitive disorder unit. Arch Gerontol Geriatr. 2007;44 Suppl 1:233-41.</citation>
+    <PMID>17317458</PMID>
+  </reference>
+  <reference>
+    <citation>McKhann GM, Knopman DS, Chertkow H, Hyman BT, Jack CR Jr, Kawas CH, Klunk WE, Koroshetz WJ, Manly JJ, Mayeux R, Mohs RC, Morris JC, Rossor MN, Scheltens P, Carrillo MC, Thies B, Weintraub S, Phelps CH. The diagnosis of dementia due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimers Dement. 2011 May;7(3):263-9. doi: 10.1016/j.jalz.2011.03.005. Epub 2011 Apr 21.</citation>
+    <PMID>21514250</PMID>
+  </reference>
+  <reference>
+    <citation>Amieva H, Letenneur L, Dartigues JF, Rouch-Leroyer I, Sourgen C, D'Alchée-Birée F, Dib M, Barberger-Gateau P, Orgogozo JM, Fabrigoule C. Annual rate and predictors of conversion to dementia in subjects presenting mild cognitive impairment criteria defined according to a population-based study. Dement Geriatr Cogn Disord. 2004;18(1):87-93. Epub 2004 Apr 14.</citation>
+    <PMID>15087583</PMID>
+  </reference>
+  <reference>
+    <citation>Mitchell AJ, Shiri-Feshki M. Rate of progression of mild cognitive impairment to dementia--meta-analysis of 41 robust inception cohort studies. Acta Psychiatr Scand. 2009 Apr;119(4):252-65. doi: 10.1111/j.1600-0447.2008.01326.x. Epub 2008 Feb 18.</citation>
+    <PMID>19236314</PMID>
+  </reference>
+  <reference>
+    <citation>Schmidtke K, Hermeneit S. High rate of conversion to Alzheimer's disease in a cohort of amnestic MCI patients. Int Psychogeriatr. 2008 Feb;20(1):96-108. Epub 2007 May 16.</citation>
+    <PMID>17506911</PMID>
+  </reference>
+  <reference>
+    <citation>Albert MS, DeKosky ST, Dickson D, Dubois B, Feldman HH, Fox NC, Gamst A, Holtzman DM, Jagust WJ, Petersen RC, Snyder PJ, Carrillo MC, Thies B, Phelps CH. The diagnosis of mild cognitive impairment due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimers Dement. 2011 May;7(3):270-9. doi: 10.1016/j.jalz.2011.03.008. Epub 2011 Apr 21.</citation>
+    <PMID>21514249</PMID>
+  </reference>
+  <reference>
+    <citation>Mashour GA, Frank L, Batthyany A, Kolanowski AM, Nahm M, Schulman-Green D, Greyson B, Pakhomov S, Karlawish J, Shah RC. Paradoxical lucidity: A potential paradigm shift for the neurobiology and treatment of severe dementias. Alzheimers Dement. 2019 Aug;15(8):1107-1114. doi: 10.1016/j.jalz.2019.04.002. Epub 2019 Jun 19. Review.</citation>
+    <PMID>31229433</PMID>
+  </reference>
+  <reference>
+    <citation>Lonskaya I, Hebron M, Chen W, Schachter J, Moussa C. Tau deletion impairs intracellular β-amyloid-42 clearance and leads to more extracellular plaque deposition in gene transfer models. Mol Neurodegener. 2014 Nov 10;9:46. doi: 10.1186/1750-1326-9-46.</citation>
+    <PMID>25384392</PMID>
+  </reference>
+  <reference>
+    <citation>Chen Z, Trapp BD. Microglia and neuroprotection. J Neurochem. 2016 Jan;136 Suppl 1:10-7. doi: 10.1111/jnc.13062. Epub 2015 Mar 10. Review.</citation>
+    <PMID>25693054</PMID>
+  </reference>
+  <reference>
+    <citation>Sominsky L, De Luca S, Spencer SJ. Microglia: Key players in neurodevelopment and neuronal plasticity. Int J Biochem Cell Biol. 2018 Jan;94:56-60. doi: 10.1016/j.biocel.2017.11.012. Epub 2017 Dec 1. Review.</citation>
+    <PMID>29197626</PMID>
+  </reference>
+  <reference>
+    <citation>Skaper SD. Impact of Inflammation on the Blood-Neural Barrier and Blood-Nerve Interface: From Review to Therapeutic Preview. Int Rev Neurobiol. 2017;137:29-45. doi: 10.1016/bs.irn.2017.08.004. Epub 2017 Oct 16. Review.</citation>
+    <PMID>29132542</PMID>
+  </reference>
+  <reference>
+    <citation>Galvin JE. THE QUICK DEMENTIA RATING SYSTEM (QDRS): A RAPID DEMENTIA STAGING TOOL. Alzheimers Dement (Amst). 2015 Jun 1;1(2):249-259.</citation>
+    <PMID>26140284</PMID>
+  </reference>
+  <reference>
+    <citation>Randolph C, Tierney MC, Mohr E, Chase TN. The Repeatable Battery for the Assessment of Neuropsychological Status (RBANS): preliminary clinical validity. J Clin Exp Neuropsychol. 1998 Jun;20(3):310-9.</citation>
+    <PMID>9845158</PMID>
+  </reference>
+  <reference>
+    <citation>Breton A, Casey D, Arnaoutoglou NA. Cognitive tests for the detection of mild cognitive impairment (MCI), the prodromal stage of dementia: Meta-analysis of diagnostic accuracy studies. Int J Geriatr Psychiatry. 2019 Feb;34(2):233-242. doi: 10.1002/gps.5016. Epub 2018 Nov 27. Review.</citation>
+    <PMID>30370616</PMID>
+  </reference>
+  <reference>
+    <citation>Smith T, Gildeh N, Holmes C. The Montreal Cognitive Assessment: validity and utility in a memory clinic setting. Can J Psychiatry. 2007 May;52(5):329-32.</citation>
+    <PMID>17542384</PMID>
+  </reference>
+  <reference>
+    <citation>Nasreddine ZS, Phillips NA, Bédirian V, Charbonneau S, Whitehead V, Collin I, Cummings JL, Chertkow H. The Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairment. J Am Geriatr Soc. 2005 Apr;53(4):695-9. Erratum in: J Am Geriatr Soc. 2019 Sep;67(9):1991.</citation>
+    <PMID>15817019</PMID>
+  </reference>
+  <reference>
+    <citation>Motl RW, Cohen JA, Benedict R, Phillips G, LaRocca N, Hudson LD, Rudick R; Multiple Sclerosis Outcome Assessments Consortium. Validity of the timed 25-foot walk as an ambulatory performance outcome measure for multiple sclerosis. Mult Scler. 2017 Apr;23(5):704-710. doi: 10.1177/1352458517690823. Epub 2017 Feb 16.</citation>
+    <PMID>28206828</PMID>
+  </reference>
+  <reference>
+    <citation>Wong GKC, Mak JSY, Wong A, Zheng VZY, Poon WS, Abrigo J, Mok VCT. Minimum Clinically Important Difference of Montreal Cognitive Assessment in aneurysmal subarachnoid hemorrhage patients. J Clin Neurosci. 2017 Dec;46:41-44. doi: 10.1016/j.jocn.2017.08.039. Epub 2017 Sep 5.</citation>
+    <PMID>28887072</PMID>
+  </reference>
+  <reference>
+    <citation>O'Connell ME, Gould B, Ursenbach J, Enright J, Morgan DG. Reliable change and minimum clinically important difference (MCID) of the Repeatable Battery for the Assessment of Neuropsychology Status (RBANS) in a heterogeneous dementia sample: Support for reliable change methods but not the MCID. Appl Neuropsychol Adult. 2019 May-Jun;26(3):268-274. doi: 10.1080/23279095.2017.1413575. Epub 2018 Jan 10.</citation>
+    <PMID>29319337</PMID>
+  </reference>
+  <reference>
+    <citation>Burnham SC, Bourgeat P, Doré V, Savage G, Brown B, Laws S, Maruff P, Salvado O, Ames D, Martins RN, Masters CL, Rowe CC, Villemagne VL; AIBL Research Group. Clinical and cognitive trajectories in cognitively healthy elderly individuals with suspected non-Alzheimer's disease pathophysiology (SNAP) or Alzheimer's disease pathology: a longitudinal study. Lancet Neurol. 2016 Sep;15(10):1044-53. doi: 10.1016/S1474-4422(16)30125-9. Epub 2016 Jul 20.</citation>
+    <PMID>27450471</PMID>
+  </reference>
+  <reference>
+    <citation>Zheng W, Cui B, Han Y, Song H, Li K, He Y, Wang Z. Disrupted Regional Cerebral Blood Flow, Functional Activity and Connectivity in Alzheimer's Disease: A Combined ASL Perfusion and Resting State fMRI Study. Front Neurosci. 2019 Jul 24;13:738. doi: 10.3389/fnins.2019.00738. eCollection 2019.</citation>
+    <PMID>31396033</PMID>
+  </reference>
+  <reference>
+    <citation>Mishra VR, Sreenivasan KR, Zhuang X, Yang Z, Cordes D, Walsh RR. Influence of analytic techniques on comparing DTI-derived measurements in early stage Parkinson's disease. Heliyon. 2019 Apr 9;5(4):e01481. doi: 10.1016/j.heliyon.2019.e01481. eCollection 2019 Apr.</citation>
+    <PMID>31008407</PMID>
+  </reference>
+  <reference>
+    <citation>Gorges M, Müller HP, Liepelt-Scarfone I, Storch A, Dodel R; LANDSCAPE Consortium, Hilker-Roggendorf R, Berg D, Kunz MS, Kalbe E, Baudrexel S, Kassubek J. Structural brain signature of cognitive decline in Parkinson's disease: DTI-based evidence from the LANDSCAPE study. Ther Adv Neurol Disord. 2019 May 16;12:1756286419843447. doi: 10.1177/1756286419843447. eCollection 2019.</citation>
+    <PMID>31205489</PMID>
+  </reference>
+  <reference>
+    <citation>Kuhn T, Becerra S, Duncan J, Spivak N, Dang BH, Habelhah B, Mahdavi KD, Mamoun M, Whitney M, Pereles FS, Bystritsky A, Jordan SE. Translating state-of-the-art brain magnetic resonance imaging (MRI) techniques into clinical practice: multimodal MRI differentiates dementia subtypes in a traditional clinical setting. Quant Imaging Med Surg. 2021 Sep;11(9):4056-4073. doi: 10.21037/qims-20-1355.</citation>
+    <PMID>34476189</PMID>
+  </reference>
+  <reference>
+    <citation>Adamczuk K, Schaeverbeke J, Vanderstichele HM, Lilja J, Nelissen N, Van Laere K, Dupont P, Hilven K, Poesen K, Vandenberghe R. Diagnostic value of cerebrospinal fluid Aβ ratios in preclinical Alzheimer's disease. Alzheimers Res Ther. 2015 Dec 18;7(1):75. doi: 10.1186/s13195-015-0159-5.</citation>
+    <PMID>26677842</PMID>
+  </reference>
+  <reference>
+    <citation>Berman SE, Koscik RL, Clark LR, Mueller KD, Bluder L, Galvin JE, Johnson SC. Use of the Quick Dementia Rating System (QDRS) as an Initial Screening Measure in a Longitudinal Cohort at Risk for Alzheimer's Disease. J Alzheimers Dis Rep. 2017;1(1):9-13. doi: 10.3233/ADR-170004. Epub 2017 Apr 28.</citation>
+    <PMID>28819654</PMID>
+  </reference>
+  <reference>
+    <citation>Lin Y, Wang K, Ma C, Wang X, Gong Z, Zhang R, Zang D, Cheng Y. Evaluation of Metformin on Cognitive Improvement in Patients With Non-dementia Vascular Cognitive Impairment and Abnormal Glucose Metabolism. Front Aging Neurosci. 2018 Jul 27;10:227. doi: 10.3389/fnagi.2018.00227. eCollection 2018. Erratum in: Front Aging Neurosci. 2018 Oct 12;10:322.</citation>
+    <PMID>30100873</PMID>
+  </reference>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>October 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 2, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 7, 2022</study_first_posted>
+  <last_update_submitted>September 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

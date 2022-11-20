@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2463">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05260151</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019SQGH5295</org_study_id>
+    <nct_id>NCT05260151</nct_id>
+  </id_info>
+  <brief_title>Tau Protein and SV2a Imaging in Patients With Tau Protein-related Diseases</brief_title>
+  <official_title>Cross-sectional Validation and Longitudinal Study of Tau Protein and SV2a Imaging in Patients With Tau Protein-related Diseases and Normal Controls</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xuanwu Hospital, Beijing</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>XINGIMAGING LLC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>H. Lundbeck A/S</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Millennium Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Biogen</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hangzhou G-Bio Biotechnology Co., Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Xuanwu Hospital, Beijing</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Tau protein has been identified as one of the key pathological features of Tau&#xD;
+      proteinopathies, such as Alzheimer's disease (AD), progressive supranuclear palsy (PSP),&#xD;
+      frontotemporal dementia (FTD). Tau protein-targeted PET imaging can detect the amount and&#xD;
+      distribution of Tau protein deposition in human body, and has great research and application&#xD;
+      value in the diagnosis and evaluation of Tau protein disease. This study will be the first to&#xD;
+      introduce a complete quantitative, repeatable detection and analysis method in China. For the&#xD;
+      SV2a tracer [18F]MNI-1126, cross-sectional evaluation of its imaging in patients with Tau&#xD;
+      protein-related diseases and normal controls will be carried out. Later, longitudinal&#xD;
+      clinical symptoms and two tracers will be evaluated in patients with Tau protein-related&#xD;
+      diseases and normal controls.([18F]APN1607 and [18F]MNI1126) Imaging follow-up to explore&#xD;
+      longitudinal changes in brain Tau protein deposition and synaptic density in Tau&#xD;
+      protein-related diseases, thus providing support for future clinical drug trials using&#xD;
+      imaging biomarkers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Tau protein has been identified as one of the key pathological features of Tau protein&#xD;
+      diseases such as Alzheimer's disease (AD), progressive supranuclear palsy (PSP),&#xD;
+      frontotemporal dementia (FTD). Tau protein targeting PET imaging can detect the amount and&#xD;
+      distribution of Tau protein deposition in human body. It has significant research and&#xD;
+      application value in diagnosis and evaluation for Tau protein diseases. Previous studies have&#xD;
+      shown that Tau radiotracer can detect Tau pathology in early stage of AD, and Tau signal&#xD;
+      increases as the disease progresses. In addition, Tau binding may be associated with&#xD;
+      increased cognitive impairment in AD subjects. [18F] APN-1607 is a newly developed PET&#xD;
+      imaging agent targeting to Tau protein, which has high affinity with Tau protein in brain&#xD;
+      tissue of AD patients, high selectivity for Aβ protein, MAO-A and MAO-B, and no non-specific&#xD;
+      uptake in normal brain tissue. Toxicological studies show that intravenous injection of [18F]&#xD;
+      APN-1607 with dosage less than 20μg is safe. Its clinical research has been initiated in the&#xD;
+      United States, Japan and Taiwan.&#xD;
+&#xD;
+      Synaptic vesicle glycoprotein 2 (SV2) is a membrane protein in presynaptic envelope. SV2 is&#xD;
+      an important component of normal synaptic function and plays an important role in&#xD;
+      neurotransmitter release. Three isomers of SV2 are known, of which SV2A is the only subtype&#xD;
+      distributed throughout the brain. Studies have shown that synaptic loss in hippocampus and&#xD;
+      cerebral cortex is closely related to cognitive impairment in Alzheimer's disease. Therefore,&#xD;
+      PET imaging and quantification of SV2A signal may be an excellent representative of synaptic&#xD;
+      density in vivo, which can be used to measure the brain level of SV2A in Alzheimer's disease,&#xD;
+      Parkinson's disease or other neurological and psychiatric diseases, and potentially as a&#xD;
+      biomarker of synaptic density in neurodegenerative diseases. Researchers have reported the&#xD;
+      development and evaluation of 18F labeled tracers for SV2A protein imaging. The best&#xD;
+      candidate [18F] MNI-1126 has shown excellent in vivo binding properties in preliminary&#xD;
+      studies in non-human primates. These preliminary in vivo pre-clinical evaluations suggest&#xD;
+      that [18F] MNI-1126 exhibits excellent quality as a F-18 labeled PET tracer for multicenter&#xD;
+      SV2A imaging trials.&#xD;
+&#xD;
+      The greatest advantage of PET imaging technology is that it can visualize the structure or&#xD;
+      function of tissues and organs which could not be observed in vivo without trauma. Visual&#xD;
+      observation of the distribution of radioactivity concentration in PET images can&#xD;
+      qualitatively distinguish the positive and negative cases. Standard uptake value ratio (SUVR)&#xD;
+      can be used to semi-quantitatively analyze the abnormal uptake of a region of interest in&#xD;
+      patients for clinical and daily work. However, in the development of new molecular targeting&#xD;
+      markers, in order to make better use of the information in images to obtain the parameters&#xD;
+      and contents of molecular markers such as distribution, miss targeting or not, condition for&#xD;
+      blood-brain barrier passage ,and stability, a complete set of quantitative and repetitive&#xD;
+      detection and analysis methods should be applied. It includes detection of radioactivity in&#xD;
+      arterial blood, detection of metabolites of molecular markers, dynamic modeling of PET,&#xD;
+      repeated measurement and analysis, and so on.&#xD;
+&#xD;
+      Measuring radioactive activity of arterial blood is a method to obtain the input parameters&#xD;
+      of molecular targeted markers in the brain by detecting the radioactivity of per unit volume&#xD;
+      in arterial blood at multiple time points. High Performance Liquid Chromatography (HPLC) can&#xD;
+      be used to detect the metabolites of molecular markers with radioactivity, which can be used&#xD;
+      to calibrate the total radioactivity of arterial blood samples and obtain the concentration&#xD;
+      of free molecular targeted markers in arterial plasma. On the basis of acquiring the input&#xD;
+      parameters of brain molecular targeting markers, the dynamic behavior of a given PET tracer&#xD;
+      can be described by establishing a dynamic model of radiotracer and estimating the relevant&#xD;
+      parameters. The required data can be obtained under the minimum possible traumatic&#xD;
+      conditions, and then the parameters related to physiological, biochemical or metabolic&#xD;
+      processes can be quantitatively estimated. Then through repeated measurements of brain&#xD;
+      molecular targeting markers, that is, multiple scans of the same molecular marker and the&#xD;
+      same patient at different time points, the results of the two scans can be qualitatively and&#xD;
+      quantitatively analyzed and compared, and the pharmacokinetics of the markers in the brain,&#xD;
+      the properties of binding targets and the stability between batches can be further obtained.&#xD;
+      However, because of the intolerance of patients and other factors in the study of arterial&#xD;
+      blood radioactivity detection and repeated measurement for radioactive markers, although it&#xD;
+      is a mature PET-related research technology around the world, it has not been effectively&#xD;
+      carried out in China.&#xD;
+&#xD;
+      In this study, we will introduce a complete quantitative and repetitive analysis method for&#xD;
+      the first time in China to evaluate the cross-sectional imaging of Tau protein tracer&#xD;
+      [18F]APN-1607 and SV2a tracer [18F] MNI-1126 in patients with Tau protein-related diseases&#xD;
+      and normal controls. Subsequently, the longitudinal changes of Tau protein deposition and&#xD;
+      synaptic density in the brain of patients with Tau protein-related diseases will be explored&#xD;
+      through the evaluation of longitudinal clinical symptoms and follow-up of two kinds of tracer&#xD;
+      ([18F]APN1607 and [18F]MNI1126) imaging in patients with Tau protein-related diseases and&#xD;
+      normal controls, so as to provide support for the design of clinical trials using imaging&#xD;
+      biomarkers in the future.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The difference of Tau protein deposition and SV2a protein between patients with Tau protein-related diseases and healthy controls</measure>
+    <time_frame>March 2020 to December 2022.</time_frame>
+    <description>through the distribution characteristics, time activity curves and kinetic parameters of the tracers in different populations, and to find out the key imaging parameters related to clinical symptoms.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To evaluate the longitudinal changes of Tau deposition and SV2a in patients with Tau-related diseases and healthy volunteers</measure>
+    <time_frame>March 2020 to December 2022.</time_frame>
+    <description>Changes in each SUVR value or Tau and SV2a distribution were observed in subjects and healthy controls with different diseases</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To evaluate the correlation between the longitudinal changes of the deposition of Tau and SV2a</measure>
+    <time_frame>March 2020 to December 2022.</time_frame>
+    <description>clinical symptoms, MRI and serum biomarkers in patients with Tau-related diseases and healthy volunteers.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AE events</measure>
+    <time_frame>March 2020 to December 2022.</time_frame>
+    <description>AE events after the subject scan were determined to evaluate the safety of [18F]APN-1607 and [18F]MNI-1126.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">155</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Progressive Supranuclear Palsy</condition>
+  <condition>Frontotemporal Dementia</condition>
+  <arm_group>
+    <arm_group_label>Cross-sectional validation study</arm_group_label>
+    <description>Each tracer's study will enroll 5 normal controls and 5 cases for each relevant disease, which means [18F]APN-1607 imaging with arterial line will be performed in 5 normal controls, 15 patients with Alzheimer's disease patients, progressive supranuclear palsy (PSP) and frontotemporal dementia (FTD), and [18F] MNI-1126 imaging with Aline test will be performed in 5 normal controls, 15 patients with Alzheimer's disease, progressive supranuclear palsy (PSP) and frontotemporal dementia (FTD); a total of 40 patients will be enrolled in this study group. Patients may choose to participate in the cross-sectional validation study for both tracers, or only for one of them.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Longitudinal study</arm_group_label>
+    <description>A total of 115 patients are planned to be enrolled in the study. Among them, AD group will enroll 10 cognitive normal controls, 15 prodromal Alzheimer's disease patients and 15 mild Alzheimer's disease patients. Non-AD group will enroll 15 patients with progressive supranuclear palsy (PSP) , 15 patients with frontotemporal dementia (FTD) carrying MAPT gene, 15 patients with FTD without MAPT gene (carrying other FTD related genes such as C9Orf, Progranulin, CHCHD10 or svPPA with TDP43 gene), 15 non-symptomatic carriers with MAPT mutation and 15 normal controls. Subjects who participated in cross-sectional validation study could also participate in this longitudinal study. Patients may also choose to participate only in the longitudinal study.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      venous blood collected with EDTA anticoagulant CSF&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects will be separated into two groups: AD group and Non-AD group. Among them, AD group&#xD;
+        will include cognitive normal controls, prodromal Alzheimer's disease patients and mild&#xD;
+        Alzheimer's disease patients. Non-AD group will include patients with progressive&#xD;
+        supranuclear palsy (PSP) , patients with frontotemporal dementia (FTD) carrying MAPT gene,&#xD;
+        patients with FTD without MAPT gene (carrying other FTD related genes such as C9Orf,&#xD;
+        Progranulin, CHCHD10 or svPPA with TDP43 gene), non-symptomatic carriers with MAPT mutation&#xD;
+        and normal controls.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males and females aged 40 to 80 years.&#xD;
+&#xD;
+          -  Females have no fertility due to surgery or at least one year after menopause.&#xD;
+             Otherwise, pregnancy tests should be conducted during screening and every scan visit&#xD;
+             and should be negative. Males with fertility must use two methods of contraception&#xD;
+             during the study period and one of them should be barrier contraception. No sperm&#xD;
+             donation is allowed during the study period and within 90 days after the completion of&#xD;
+             this study.&#xD;
+&#xD;
+          -  The subject and the subject's legally authorized representative or caregiver should be&#xD;
+             willing and able to cooperate during the whole research process. According to the&#xD;
+             judgement of the researcher, there can be a research companion who has regular and&#xD;
+             sufficient contact with the subjects (spend more than 10 hours a week together). The&#xD;
+             companion can provide accurate information about the cognitive and functional aspects&#xD;
+             of the subject, and agrees to accompany the subjects and provide relevant information&#xD;
+             during the visits. Research companions must be confirmed by researchers that they have&#xD;
+             sufficient cognitive ability to accurately report subjects' behavior, cognition and&#xD;
+             function, and can accompany throughout the whole research process with subjects.&#xD;
+&#xD;
+          -  Researchers believe that the subject can complete all the relevant contents of this&#xD;
+             study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current or prior history of any alcohol or drug abuse within the past 3 years (self&#xD;
+             report).&#xD;
+&#xD;
+          -  Laboratory tests or ECG with clinically significant abnormalities and/or clinically&#xD;
+             significant unstable medical illness.&#xD;
+&#xD;
+          -  Radiation exposure received from clinical care prior participation in the last year,&#xD;
+             combined with that from the present study, exceeds an effective dose of 50 mSV.&#xD;
+&#xD;
+          -  Pregnant, lactating or breastfeeding or intention to become pregnant.&#xD;
+&#xD;
+          -  Evidence of clinically significant gastrointestinal, cardiovascular, hepatic, renal,&#xD;
+             hematological, neoplastic, endocrine, alternative neurological, immunodeficiency&#xD;
+             (including a positive HIV result), pulmonary, or other disorder or disease. Stable,&#xD;
+             treated chronic medical conditions like hypertension, hypercholesterolemia, diabetes&#xD;
+             mellitus, non-metastatic dermatologic or prostatic cancer, etc. are acceptable as long&#xD;
+             as they do not, in the investigator's opinion, contribute to cognitive dysfunction or&#xD;
+             limit participation in study procedures.&#xD;
+&#xD;
+          -  In the opinion of the investigator, unsuitable to complete lumbar puncture. For&#xD;
+             example: history of vertebral deformities, major lumbar back surgery, clinically&#xD;
+             significant back pain, clinically significant abnormal x-ray, and/or injury or taking&#xD;
+             blood thinners or lab results that would preclude the subject/patient participation or&#xD;
+             CSF collection during study.&#xD;
+&#xD;
+          -  MRI exclusion criteria include: findings that may impact cognition such as significant&#xD;
+             evidence of cerebrovascular disease (more than two lacunar infarcts, any territorial&#xD;
+             infarct &gt;1cm3, or deep white matter abnormality corresponding to an overall Fazekas&#xD;
+             scale of 3, with at least one confluent hyperintense lesion on the FLAIR sequence that&#xD;
+             is ≥20 mm in any dimension), infectious disease, space-occupying lesion, normal&#xD;
+             pressure hydrocephalus, CNS trauma, or any other structural abnormality that may&#xD;
+             impact cognition.&#xD;
+&#xD;
+          -  Veins are not suitable for repeated puncture.&#xD;
+&#xD;
+          -  Implants such as implanted cardiac pacemakers or defibrillators, insulin pumps,&#xD;
+             cochlear implants, metallic ocular foreign body, implanted neural stimulators, CNS&#xD;
+             aneurysm clips and other medical implants that have not been certified for MRI, or&#xD;
+             history of claustrophobia in MRI.&#xD;
+&#xD;
+          -  Daily treatment with anticholinergic antidepressants, typical antipsychotics, or&#xD;
+             barbiturates, daily treatment with benzodiazepines, opiates, or opioids; treatment&#xD;
+             with soporifics, stimulants, atypical antipsychotics, centrally acting anticholinergic&#xD;
+             antihistamines, or centrally acting anticholinergic antispasmodics is prohibited,&#xD;
+             unless administered intermittently and on a short-term basis and not used within 5&#xD;
+             half-lives prior to screening or any neurocognitive assessment.&#xD;
+&#xD;
+          -  Treatment with soporifics, stimulants, atypical antipsychotics, centrally acting&#xD;
+             anticholinergic antihistamines, or centrally acting anticholinergic antispasmodics is&#xD;
+             prohibited unless (a) administered daily that initiation or discontinuation of therapy&#xD;
+             or dose change does not occur within 5 half-lives prior to screening or at any point&#xD;
+             during the study, or (b) administered intermittently and on a short-term basis and not&#xD;
+             used within 5 half-lives prior to screening or any neurocognitive assessment.&#xD;
+&#xD;
+          -  Treatment with any therapeutic molecule or treatment that targets Aβ or Tau within 12&#xD;
+             months prior to screening.&#xD;
+&#xD;
+          -  Have participated in a clinical trial within 30 days prior to screening or within 5&#xD;
+             half-lives since last administration of investigational drug (whichever is greater).&#xD;
+&#xD;
+          -  Researchers consider that other diseases or causes might prevent subjects from&#xD;
+             completing the entire study.&#xD;
+&#xD;
+          -  Others that do not meet the specific inclusion/exclusion criteria of each part of this&#xD;
+             study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Biao Chen, M.D., Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Xuanwu Hospital, Beijing</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaohui Sun, Nurse</last_name>
+    <phone>13466660933</phone>
+    <email>xsun@xingimaging.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Biao Chen, M.D., Ph.D</last_name>
+    <phone>135010186287</phone>
+    <email>pbchan@hotmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Xuanwu Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100053</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Biao Chen, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>August 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 28, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 2, 2022</study_first_posted>
+  <last_update_submitted>February 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Xuanwu Hospital, Beijing</investigator_affiliation>
+    <investigator_full_name>Piu Chan</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Tau</keyword>
+  <keyword>SV2A</keyword>
+  <keyword>PET imaging</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Supranuclear Palsy, Progressive</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

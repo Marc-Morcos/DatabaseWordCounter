@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="293">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03748706</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PTI-125-03</org_study_id>
+    <secondary_id>R44AG060878</secondary_id>
+    <nct_id>NCT03748706</nct_id>
+  </id_info>
+  <brief_title>PTI-125 for Mild-to-moderate Alzheimer's Disease Patients</brief_title>
+  <official_title>A Phase 2a, Open-label, Multiple Dose, Safety, Pharmacokinetic and Biomarker Study of PTl-125 in Mild-to-moderate Alzheimer's Disease Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pain Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cassava Sciences, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2a, multi-center, open-label study of PTI-125 in mild-to-moderate Alzheimer's&#xD;
+      disease patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 2a, multi-center, open-label study of PTI-125 in mild-to-moderate AD&#xD;
+      patients, 50-85 years of age. A total of twelve (12) patients will be enrolled into the&#xD;
+      study. Patients will receive 100 mg b.i.d. of PTI-125. The objectives of this study are to&#xD;
+      investigate the safety, pharmacokinetics and effect on biomarkers of PTI-125 following 28-day&#xD;
+      repeat-dose oral administration.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 7, 2019</start_date>
+  <completion_date type="Actual">May 8, 2019</completion_date>
+  <primary_completion_date type="Actual">May 8, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum Plasma Concentration (Cmax)</measure>
+    <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+    <description>Blood draws will be done to evaluate levels of PTI-125 in the plasma using non-compartmental methods in WinNonlin.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Maximum Plasma Concentration (Tmax)</measure>
+    <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+    <description>Levels of PTI-125 will be assessed to determine how long it takes to reach the Cmax</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Last Quantifiable Plasma Concentration (Clast)</measure>
+    <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+    <description>Levels of PTI-125 will be assessed to determine the last time point where PTI-125 can be detected.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Last Quantifiable Plasma Concentration (Tlast)</measure>
+    <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+    <description>Levels of PTI-125 will be assessed to determine the elapsed time to where PTI-125 can last be detected in the plasma.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area Under the Curve (AUClast)</measure>
+    <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+    <description>AUC for PTI-125 plasma concentration from time zero to the last quantifiable plasma concentration.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma Half-life (T1/2)</measure>
+    <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+    <description>Assessment of the half-life in plasma of PTI-125</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SavaDx (Biomarker)</measure>
+    <time_frame>Study Day 1 and Day 28</time_frame>
+    <description>Blood samples will be tested for the complementary diagnostic/biomarker for Alzheimer's disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF Biomarkers</measure>
+    <time_frame>Change from Baseline to Day 28</time_frame>
+    <description>A cerebrospinal fluid sample collection will be performed for Aβ42, tau, YKL40 and other potential CSF biomarkers</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">13</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Simufilam (PTI-125)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Simufilam (PTI-125) 100 mg oral tablets administered twice daily (BID)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PTI-125, 100 mg tablets</intervention_name>
+    <description>PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+    <arm_group_label>Simufilam (PTI-125)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages &gt;= 50 and &lt;= 85 years&#xD;
+&#xD;
+          -  Informed consent form (ICF) signed by the subject or legally acceptable&#xD;
+             representative.&#xD;
+&#xD;
+          -  Clinical diagnosis of dementia due to possible or probable Alzheimer's disease&#xD;
+&#xD;
+          -  Mini-Mental State Examination score &gt;= 16 and &lt;= 24 at screening&#xD;
+&#xD;
+          -  If female, postmenopausal for at least 1 year&#xD;
+&#xD;
+          -  Patient living at home, senior residential setting, or an institutional setting&#xD;
+             without the need for continuous (i.e. 24-hour) nursing care&#xD;
+&#xD;
+          -  General health status acceptable for participation in the study&#xD;
+&#xD;
+          -  Fluency (oral and written) in English or Spanish&#xD;
+&#xD;
+          -  If receiving memantine, rivastigmine, galantamine or an AChEI, receiving a stable dose&#xD;
+             for at least 3 months (90 days) before screening and with continuous dosing for at&#xD;
+             least 3 months. If receiving donepezil, receiving any dose lower than 23 mg once&#xD;
+             daily.&#xD;
+&#xD;
+          -  The patient is a non-smoker for at least 12 months.&#xD;
+&#xD;
+          -  The patient or legal representative must agree to comply with the drawing of blood&#xD;
+             samples and with a lumbar puncture and the drawing of cerebrospinal fluid samples.&#xD;
+&#xD;
+          -  The patient has a ratio of total tau/Abeta42 in cerebrospinal fluid &gt;= 0.30.&#xD;
+&#xD;
+          -  Patient has a caregiver or legal representative responsible for administering the drug&#xD;
+             and recording the time.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exposure to an experimental drug, experimental biologic or experimental medical device&#xD;
+             within the longer of 5 half-lives or 3 months before screening&#xD;
+&#xD;
+          -  Residence in a skilled nursing facility&#xD;
+&#xD;
+          -  Clinically significant laboratory test results&#xD;
+&#xD;
+          -  Clinically significant untreated hypothyroidism (if treated, thyroid-stimulating&#xD;
+             hormone level and thyroid supplementation dose must be stable for at least 6 months&#xD;
+             before screening)&#xD;
+&#xD;
+          -  Insufficiently controlled diabetes mellitus or requiring insulin&#xD;
+&#xD;
+          -  Renal insufficiency (serum creatinine &gt;2.0 mg/dL)&#xD;
+&#xD;
+          -  Malignant tumor within 3 years before screening (except squamous and basal cell&#xD;
+             carcinoma or cervical carcinoma in situ or localized prostate cancer or localized&#xD;
+             stage 1 bladder cancer)&#xD;
+&#xD;
+          -  History of ischemic colitis or ischemic enterocolitis&#xD;
+&#xD;
+          -  Unstable medical condition that is clinically significant in the judgment of the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Alanine transaminase (ALT) or aspartate transaminase (AST) &gt;2 times the upper limit of&#xD;
+             normal or total bilirubin greater than the upper limit of normal.&#xD;
+&#xD;
+          -  History of myocardial infarction or unstable angina within 6 months before screening&#xD;
+&#xD;
+          -  History of more than 1 myocardial infarction within 5 years before screening&#xD;
+&#xD;
+          -  Clinically significant cardiac arrhythmia (including atrial fibrillation),&#xD;
+             cardiomyopathy, or cardiac conduction defect (patients with a pacemaker are&#xD;
+             acceptable)&#xD;
+&#xD;
+          -  Symptomatic hypotension, or uncontrolled hypertension&#xD;
+&#xD;
+          -  Clinically significant abnormality on screening electrocardiogram (ECG), including but&#xD;
+             not necessarily limited to a confirmed corrected QT value &gt;= 450 msec for males or &gt;=&#xD;
+             470 msec for females.&#xD;
+&#xD;
+          -  Stroke within 18 months before screening, or history of a stroke concomitant with&#xD;
+             onset of dementia&#xD;
+&#xD;
+          -  History of brain tumor or other clinically significant space-occupying lesion on CT or&#xD;
+             MRI&#xD;
+&#xD;
+          -  Head trauma with clinically significant loss of consciousness within 12 months before&#xD;
+             screening or concurrent with the onset of dementia&#xD;
+&#xD;
+          -  Onset of dementia secondary to cardiac arrest, surgery with general anesthesia, or&#xD;
+             resuscitation&#xD;
+&#xD;
+          -  Specific degenerative CNS disease diagnosis other than Alzheimer's disease (eg,&#xD;
+             Huntington's disease, Creutzfeld-Jacob disease, Down's syndrome, Frontotemporal&#xD;
+             Dementia, Parkinson's disease)&#xD;
+&#xD;
+          -  Wernicke's encephalopathy&#xD;
+&#xD;
+          -  Active acute or chronic Central Nervous System infection&#xD;
+&#xD;
+          -  Donepezil 23 mg or greater quaque die currently or within 3 months prior to enrollment&#xD;
+             in the study&#xD;
+&#xD;
+          -  Discontinued AChEI &lt; 30 days prior to enrollment in the study&#xD;
+&#xD;
+          -  Antipsychotics; low doses are allowed only if given for sleep disturbances, agitation&#xD;
+             and/or aggression, and only if the subject has received a stable dose for at least 3&#xD;
+             months before enrollment in the study&#xD;
+&#xD;
+          -  Tricyclic antidepressants and monoamine oxidase inhibitors; all other antidepressants&#xD;
+             are allowed only if the subject has received a stable dose for at least 3 months&#xD;
+             before enrollment in the study&#xD;
+&#xD;
+          -  Anxiolytics or sedative-hypnotics, including barbiturates (unless given in low doses&#xD;
+             for benign tremor); low doses of benzodiazepines and zolpidem are allowed only if&#xD;
+             given for insomnia/sleep disturbance, and only if the subject has received a stable&#xD;
+             dose for at least 3 months before enrollment in the study&#xD;
+&#xD;
+          -  Peripherally acting drugs with effects on cholinergic transmission&#xD;
+&#xD;
+          -  Immunosuppressants, including systemic corticosteroids, if taken in clinically&#xD;
+             immunosuppressive doses (Steroid use for allergy or other inflammation is permitted.)&#xD;
+&#xD;
+          -  Antiepileptic medications if taken for control of seizures&#xD;
+&#xD;
+          -  Chronic intake of opioid-containing analgesics&#xD;
+&#xD;
+          -  Sedating H1 antihistamines&#xD;
+&#xD;
+          -  Nicotine therapy (all dosage forms including a patch), varenicline (Chantix), or&#xD;
+             similar therapeutic agent within 30 days before screening&#xD;
+&#xD;
+          -  Clinically significant illness within 30 days of enrollment&#xD;
+&#xD;
+          -  History of significant neurological, hepatic, renal, endocrine, cardiovascular,&#xD;
+             gastrointestinal, pulmonary, or metabolic disease&#xD;
+&#xD;
+          -  Positive serum hepatitis B surface antigen (HBsAg) or positive hepatitis C virus (HCV)&#xD;
+             antibody test at screening&#xD;
+&#xD;
+          -  Positive HIV test at screening&#xD;
+&#xD;
+          -  Loss of a significant volume of blood (&gt; 450 mL) within 4 weeks prior to the study&#xD;
+&#xD;
+          -  Metformin or cimetidine.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lindsay Burns, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Cassava Sciences, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Insite Clinical Research</name>
+      <address>
+        <city>DeSoto</city>
+        <state>Texas</state>
+        <zip>75115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.cassavasciences.com</url>
+    <description>Cassava Sciences company website</description>
+  </link>
+  <reference>
+    <citation>Wang HY, Lee KC, Pei Z, Khan A, Bakshi K, Burns LH. PTI-125 binds and reverses an altered conformation of filamin A to reduce Alzheimer's disease pathogenesis. Neurobiol Aging. 2017 Jul;55:99-114. doi: 10.1016/j.neurobiolaging.2017.03.016. Epub 2017 Mar 31.</citation>
+    <PMID>28438486</PMID>
+  </reference>
+  <reference>
+    <citation>Wang HY, Bakshi K, Frankfurt M, Stucky A, Goberdhan M, Shah SM, Burns LH. Reducing amyloid-related Alzheimer's disease pathogenesis by a small molecule targeting filamin A. J Neurosci. 2012 Jul 18;32(29):9773-84. doi: 10.1523/JNEUROSCI.0354-12.2012. Erratum in: J Neurosci. 2021 Dec 15;41(50):10405. J Neurosci. 2022 Jan 19;42(3):529.</citation>
+    <PMID>22815492</PMID>
+  </reference>
+  <results_reference>
+    <citation>Wang HY, Pei Z, Lee KC, Lopez-Brignoni E, Nikolov B, Crowley CA, Marsman MR, Barbier R, Friedmann N, Burns LH. PTI-125 Reduces Biomarkers of Alzheimer's Disease in Patients. J Prev Alzheimers Dis. 2020;7(4):256-264. doi: 10.14283/jpad.2020.6.</citation>
+    <PMID>32920628</PMID>
+  </results_reference>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>November 13, 2018</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 21, 2018</study_first_posted>
+  <results_first_submitted>March 3, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 31, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">April 1, 2021</results_first_posted>
+  <last_update_submitted>June 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 5, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT03748706/Prot_ICF_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 16, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT03748706/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>PTI-125</title>
+          <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>PTI-125</title>
+          <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="13"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67.8" lower_limit="56" upper_limit="81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Maximum Plasma Concentration (Cmax)</title>
+        <description>Blood draws will be done to evaluate levels of PTI-125 in the plasma using non-compartmental methods in WinNonlin.</description>
+        <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Plasma Concentration (Cmax)</title>
+          <description>Blood draws will be done to evaluate levels of PTI-125 in the plasma using non-compartmental methods in WinNonlin.</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 Cmax</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1020" spread="442"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 Cmax</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1100" spread="417"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Maximum Plasma Concentration (Tmax)</title>
+        <description>Levels of PTI-125 will be assessed to determine how long it takes to reach the Cmax</description>
+        <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Maximum Plasma Concentration (Tmax)</title>
+          <description>Levels of PTI-125 will be assessed to determine how long it takes to reach the Cmax</description>
+          <units>hours</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 Tmax</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.00" lower_limit="1.00" upper_limit="3.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 Tmax</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.06" lower_limit="1.00" upper_limit="5.93"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Last Quantifiable Plasma Concentration (Clast)</title>
+        <description>Levels of PTI-125 will be assessed to determine the last time point where PTI-125 can be detected.</description>
+        <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Last Quantifiable Plasma Concentration (Clast)</title>
+          <description>Levels of PTI-125 will be assessed to determine the last time point where PTI-125 can be detected.</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 Clast</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="176" spread="112"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 Clast</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="238" spread="168"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Last Quantifiable Plasma Concentration (Tlast)</title>
+        <description>Levels of PTI-125 will be assessed to determine the elapsed time to where PTI-125 can last be detected in the plasma.</description>
+        <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Last Quantifiable Plasma Concentration (Tlast)</title>
+          <description>Levels of PTI-125 will be assessed to determine the elapsed time to where PTI-125 can last be detected in the plasma.</description>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 Tlast</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.0" spread="0.0150"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 Tlast</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.0" spread="0.0285"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Area Under the Curve (AUClast)</title>
+        <description>AUC for PTI-125 plasma concentration from time zero to the last quantifiable plasma concentration.</description>
+        <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Curve (AUClast)</title>
+          <description>AUC for PTI-125 plasma concentration from time zero to the last quantifiable plasma concentration.</description>
+          <units>h*ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 AUClast</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5320" spread="2230"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 AUClast</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6700" spread="3240"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Plasma Half-life (T1/2)</title>
+        <description>Assessment of the half-life in plasma of PTI-125</description>
+        <time_frame>Study Day 1 and Day 28 at 20, 40, and 60 min and at 1.5, 2, 2.5, 3, 4, 6, 8, 10 and 12 h post-dose</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Plasma Half-life (T1/2)</title>
+          <description>Assessment of the half-life in plasma of PTI-125</description>
+          <units>hours</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1 T1/2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.51" spread="2.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 28 T1/2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.35" spread="1.39"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SavaDx (Biomarker)</title>
+        <description>Blood samples will be tested for the complementary diagnostic/biomarker for Alzheimer's disease.</description>
+        <time_frame>Study Day 1 and Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SavaDx (Biomarker)</title>
+          <description>Blood samples will be tested for the complementary diagnostic/biomarker for Alzheimer's disease.</description>
+          <units>% change from baseline</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-39.8" spread="0.19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CSF Biomarkers</title>
+        <description>A cerebrospinal fluid sample collection will be performed for Aβ42, tau, YKL40 and other potential CSF biomarkers</description>
+        <time_frame>Change from Baseline to Day 28</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>PTI-125</title>
+            <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CSF Biomarkers</title>
+          <description>A cerebrospinal fluid sample collection will be performed for Aβ42, tau, YKL40 and other potential CSF biomarkers</description>
+          <units>% change from baseline</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Total tau</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-19.8" spread="0.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Abeta42</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.3" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>p-tau181</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-34.4" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neurogranin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-32" spread="0.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neurofilament light chain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-22" spread="0.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>YKL-40</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-9" spread="0.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-14" spread="0.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IL-1 beta</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-11" spread="0.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TNF alpha</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-5" spread="0.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Within the 28-day treatment period.</time_frame>
+      <desc>Moderate; mild; severe Serious; not serious Unlikely; likely; possibly related to drug treatment</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>PTI-125</title>
+          <description>PTI-125 100 mg oral tablets administered twice daily (BID)&#xD;
+PTI-125, 100 mg tablets: PTI-125, 100 mg tablets taken twice a day for 28 days</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (Unspecified)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <description>Moderate severity; rated as unlikely to be related to treatment.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>B12 deficiency</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypercalcemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal colic</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Flu</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="13"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Top enrolling PIs are included as authors on Cassava publications, but no individual PI has the right to publish alone without Cassava authorization.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Lindsay Burns, SVP of Neuroscience</name_or_title>
+      <organization>Cassava Sciences</organization>
+      <phone>512-501-2484</phone>
+      <email>lburns@cassavasciences.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

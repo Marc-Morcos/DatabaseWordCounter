@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1238">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05122598</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COTAG061981</org_study_id>
+    <secondary_id>2R44AG061981-03</secondary_id>
+    <nct_id>NCT05122598</nct_id>
+  </id_info>
+  <brief_title>Development and Evaluation of Computerized Olfactory Training Program for Cognitive Decline in Early Alzheimer's Disease</brief_title>
+  <official_title>Development and Evaluation of Computerized Olfactory Training Program (COT) for Cognitive Decline in Early Alzheimer's Disease (AD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Evon Medics LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Howard University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Family and Medical Counseling Service, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical Home Development Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Evon Medics LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether daily treatment with this new treatment&#xD;
+      approach, called COT would be effective in protecting the memory and brain regions of people&#xD;
+      who are already showing signs of memory loss.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease process starts in parts of the brain used for perceiving and interpreting&#xD;
+      smell many years before people begin to lose their memory and other cognitive functions.&#xD;
+      These parts of the brain are called the &quot;olfactory regions.&quot; From these olfactory regions,&#xD;
+      Alzheimer's disease spread to involve other parts of the brain. Scientists have shown that&#xD;
+      stimulating the olfactory regions through exposure to multiple naturally occurring essential&#xD;
+      or plant oils help to reduce the brain changes of Alzheimer's disease in animals. Also, many&#xD;
+      components from these plant oils have been shown to protect nerve cells from various kinds of&#xD;
+      stress and injuries; and we say they are 'neuroprotective'. A novel home-based olfactory&#xD;
+      chemosensory stimulation program that uses a portable, programmed, device known as the&#xD;
+      Computerized Olfactory Training (COT) program, administers olfactory psychophysical tasks&#xD;
+      while patients are being stimulated repeatedly with neuroprotective olfactory stimulants,&#xD;
+      using neuroscience-guided stimulation parameters to ensure sustained activation of all&#xD;
+      primary and secondary olfactory structures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Logical Memory II subscale (Delayed Paragraph Recall)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Measures patient's ability to recall information after a 20 to 30 minutes delay for story b from the Wechsler Memory Scale-IV (0-25). Higher scores indicate better performance. This is use for evaluation of forgetting or memory decay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Logical Memory II subscale (Delayed Paragraph Recall)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Measures patient's ability to recall information after a 20 to 30 minutes delay for story b from the Wechsler Memory Scale-IV (0-25). Higher scores indicate better performance. This is use for evaluation of forgetting or memory decay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Logical Memory II subscale (Delayed Paragraph Recall)</measure>
+    <time_frame>9 months</time_frame>
+    <description>Measures patient's ability to recall information after a 20 to 30 minutes delay for story b from the Wechsler Memory Scale-IV (0-25). Higher scores indicate better performance. This is use for evaluation of forgetting or memory decay.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ADCS-PACC composite score</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Combines tests that assess episodic memory, timed executive function and global cognition. Alzheimer's Disease Cooperative Study (ADCS) PACC (ADAS-PACC) is a composite score of: The Total Recall score from the Free and Cued Selective Reminding Test (FCSRT) (range from 0-48 points), The Delayed Recall score on the Logical Memory IIa subtest from the Wechsler Memory Scale (range from 0-25 points), the Digit Symbol Substitution Test score from the Wechsler Adult Intelligence Scale-Revised (range from 0-93 points), and the MMSE score (range from 0-30 points). Each of the component change scores is divided by the baseline sample standard deviation of that component, to form standardized z scores. These z scores are summed to form the composite. Z Scores could range from -5 to +5 with higher scores indicating less deficit and lower scores indicating greater deficit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ADCS-PACC composite score</measure>
+    <time_frame>6 months</time_frame>
+    <description>Combines tests that assess episodic memory, timed executive function and global cognition. Alzheimer's Disease Cooperative Study (ADCS) PACC (ADAS-PACC) is a composite score of: The Total Recall score from the Free and Cued Selective Reminding Test (FCSRT) (range from 0-48 points), The Delayed Recall score on the Logical Memory IIa subtest from the Wechsler Memory Scale (range from 0-25 points), the Digit Symbol Substitution Test score from the Wechsler Adult Intelligence Scale-Revised (range from 0-93 points), and the MMSE score (range from 0-30 points). Each of the component change scores is divided by the baseline sample standard deviation of that component, to form standardized z scores. These z scores are summed to form the composite. Z Scores could range from -5 to +5 with higher scores indicating less deficit and lower scores indicating greater deficit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ADCS-PACC composite score</measure>
+    <time_frame>9 months</time_frame>
+    <description>Combines tests that assess episodic memory, timed executive function and global cognition. Alzheimer's Disease Cooperative Study (ADCS) PACC (ADAS-PACC) is a composite score of: The Total Recall score from the Free and Cued Selective Reminding Test (FCSRT) (range from 0-48 points), The Delayed Recall score on the Logical Memory IIa subtest from the Wechsler Memory Scale (range from 0-25 points), the Digit Symbol Substitution Test score from the Wechsler Adult Intelligence Scale-Revised (range from 0-93 points), and the MMSE score (range from 0-30 points). Each of the component change scores is divided by the baseline sample standard deviation of that component, to form standardized z scores. These z scores are summed to form the composite. Z Scores could range from -5 to +5 with higher scores indicating less deficit and lower scores indicating greater deficit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Olfactory Psychophysical Tasks scores</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Using Sniffin' sticks, defines patient's olfactory threshold (T), discrimination (D) and identification (I). Scores: Male and Female threshold score (1-16); Male and Female discrimination score (4-16); Identification score (male: 3-16; female: 4-16); Threshold Discrimination Identification (TDI) composite score (male: 9-44; female: 11-43). Higher score indicates better olfactory performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Olfactory Psychophysical Tasks scores</measure>
+    <time_frame>6 months</time_frame>
+    <description>Using Sniffin' sticks, defines patient's olfactory threshold (T), discrimination (D) and identification (I). Scores: Male and Female threshold score (1-16); Male and Female discrimination score (4-16); Identification score (male: 3-16; female: 4-16); TDI composite score (male: 9-44; female: 11-43). Higher score indicates better olfactory performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Olfactory Psychophysical Tasks scores</measure>
+    <time_frame>9 months</time_frame>
+    <description>Using Sniffin' sticks, defines patient's olfactory threshold (T), discrimination (D) and identification (I). Scores: Male and Female threshold score (1-16); Male and Female discrimination score (4-16); Identification score (male: 3-16; female: 4-16); TDI composite score (male: 9-44; female: 11-43). Higher score indicates better olfactory performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in cortical thickness and grey matter volumes</measure>
+    <time_frame>Baseline and 9 months</time_frame>
+    <description>Defines as MRI imaging changes of the hippocampus and entorhinal cortex</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in subfield segmentations of the hippocampus and entorhinal cortex</measure>
+    <time_frame>Baseline and 9 months</time_frame>
+    <description>Using the Automatic Segmentation of Hippocampal subfields looking for changes in the hippocampus and entorhinal cortex</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the scores of Neuropsychological Test Battery (NTB)</measure>
+    <time_frame>Baseline, 6 months and 9 months</time_frame>
+    <description>Neuropsychological Test Battery (NTB) is a combination of widely used clinical neuropsychological tests measuring memory and executive function. he total Neuropsychological Test Battery (NTB) executive function is a composite score obtained from averaging the following three z-scores from the NTB: Wechsler Memory Scale Digit Span, Controlled Word Association Test (COWAT), and Category Fluency Test (CFT). The range in z scores is from -3 to 3; higher scores indicating less executive function deficit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the scores of Mini Mental State Examination (MMSE)</measure>
+    <time_frame>Baseline, 6 months and 9 months</time_frame>
+    <description>Mini Mental State Examination (MMSE) measures cognitive function and includes tests of orientation, attention, memory, language and visual-spatial skills. MMSE range 0 - 30; higher scores indicating less deficit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the scores of CDR scale (CDR)</measure>
+    <time_frame>Baseline, 6 months and 9 months</time_frame>
+    <description>Clinical Dementia Rating Scale (CDR) is a 5- point scale used to characterize six domains of cognitive and functional performance (Memory, Orientation, Judgment &amp; Problem Solving, Community Affairs, Home &amp; Hobbies, and Personal Care) applicable to Alzheimer's disease and related dementias.&#xD;
+CDR Score is the sum of boxes scores range from 0 - 18; higher scores indicating worse deficit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the scores of Global Deterioration Scale(GDS)</measure>
+    <time_frame>Baseline, 6 months and 9 months</time_frame>
+    <description>GDS provides an overview of the stages of cognitive function for those suffering from primary degenerative dementia such as Alzheimer's disease. Geriatric Depression Scale (GDS) scores range from 0 - 30; higher scores indicating worse depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the scores of Activities of Daily Living (ADCS-ADL)</measure>
+    <time_frame>Baseline, 6 months and 9 months</time_frame>
+    <description>ADCS-ADL is used for assessment of patient's ability to perform activities of daily living. ADCS-ADL is a 23-item activities of daily with score range from 0 - 78; lower scores indicating greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the scores of Quality of Life scale (QOL)</measure>
+    <time_frame>Baseline, 6 months and 9 months</time_frame>
+    <description>QOL measures satisfaction, perceptions of control, involvement, commitment and work-life balance, in terms of one's personal perception. QOL-AD score ranges from 13 - 52; higher scores indicating less deficit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in odor discrimination scores</measure>
+    <time_frame>Baseline, 9 months</time_frame>
+    <description>Odor discrimination score defines patient's ability to detect differences between odors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the grey matter volumes of other structures of the primary olfactory cortex</measure>
+    <time_frame>Baseline, 9 months</time_frame>
+    <description>Primary olfactory region images will use MPRAGE MRI sequence for grey matter volume</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the cortical thickness of other structures of the primary olfactory cortex</measure>
+    <time_frame>Baseline, 9 months</time_frame>
+    <description>Primary olfactory region images will use MPRAGE MRI sequence for cortical thickness</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Early Alzheimer's Disease</condition>
+  <condition>Memory Impairment</condition>
+  <arm_group>
+    <arm_group_label>Computerized Olfactory Training (COT) Device with olfactory stimulants</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>COT device with olfactory stimulants consists of daily 40 cycles of intervention with a combination of olfactory stimulation and training tasks, lasting ~45 minutes, delivered once daily over 6 months period by the participant or their partner/caregiver.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham/COT Device</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>This is COT device that uses compressed room air scented with phenylethylamine (rose scent) instead of olfactory stimulants and has shape pattern matching tasks instead of cognitive tasks, in order to blind users to their treatment assignment. Similar to the COT, sham COT will be used daily for 45 minutes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>COT</intervention_name>
+    <description>The COT with proprietary odorant molecules is designed to stimulate olfactory neural activity over long periods of time combined with orbitofrontal cortex (OFC) dependent olfactory tasks.</description>
+    <arm_group_label>Computerized Olfactory Training (COT) Device with olfactory stimulants</arm_group_label>
+    <other_name>COT with olfactory stimulants</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sham</intervention_name>
+    <description>Sham COT uses artificially scented compressed room air instead of olfactory stimulants and has control cognitive olfactory tasks.</description>
+    <arm_group_label>Sham/COT Device</arm_group_label>
+    <other_name>Sham COT</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 55-95 years; female must be post-menopausal for ≥ 2 consecutive years&#xD;
+&#xD;
+          2. Probable mild AD according to the core clinical criteria outlined in the National&#xD;
+             Institute on Aging/Alzheimer's Association (NIA-AA) Guidelines&#xD;
+&#xD;
+          3. MMSE score between the range of 21 to 27; CDR score of 1.0 (mild AD); scores on&#xD;
+             Logical Memory II subscale (Delayed Recall) from the Wechsler Memory Scale-Revised&#xD;
+             (WMS) within the recommended education-adjusted ranges&#xD;
+&#xD;
+          4. Have either cerebrospinal fluid (CSF) Aβ42 levels that are consistent with Alzheimer's&#xD;
+             disease as measured via mass spectrometry by C2N, or document elevated amyloid burden&#xD;
+             consistent with Alzheimer's disease from positron emission tomography (PET) imaging&#xD;
+&#xD;
+          5. Screening MRI without evidence of infection, infarction, or other focal lesions of&#xD;
+             neurological disease; and no significant nasal disease.&#xD;
+&#xD;
+          6. All participants must have a study partner with normal cognitive function.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any significant neurologic disease&#xD;
+&#xD;
+          2. Major psychiatric disorder within the past 2 years&#xD;
+&#xD;
+          3. Substance use disorder within the past 2 years&#xD;
+&#xD;
+          4. Any unstable medical condition&#xD;
+&#xD;
+          5. Contraindications to MRI&#xD;
+&#xD;
+          6. Any Alzheimer's disease modifying therapy (DMT) in the past 6 months&#xD;
+&#xD;
+          7. Antipsychotics, anticholinergics, anticonvulsants, and other antidepressants,&#xD;
+             benzodiazepines, or other psychotropic medications and blood thinners, except for&#xD;
+             aspirin at a prophylactic dose or less.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Evaristus Nwulia, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Evon Medics LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Evaristus Nwulia, MD</last_name>
+    <phone>410-227-2005</phone>
+    <email>enwulia@evonmedics.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maria Hipolito, MD</last_name>
+    <phone>571-241-2766</phone>
+    <email>mhipolito@evonmedics.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinics of Dr. Edwin Chapman @ MHDG</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edwin Chapman, MD</last_name>
+      <phone>202-396-8550</phone>
+      <email>echap1647@aol.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Family and Medical Counseling Service, Inc</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Serlin, MD</last_name>
+      <phone>202-889-7900</phone>
+      <phone_ext>573</phone_ext>
+      <email>mserlin@fmcsinc.org]</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Howard University (HU)</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas O Obisesan, MD</last_name>
+      <phone>202-865-6100</phone>
+      <email>tobisesan@howard.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>September 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2021</study_first_posted>
+  <last_update_submitted>May 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cognition</keyword>
+  <keyword>Memory</keyword>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Computerized Olfactory Training Device</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Central Nervous System Stimulants</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

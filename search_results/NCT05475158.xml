@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2559">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05475158</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1908-004-081</org_study_id>
+    <nct_id>NCT05475158</nct_id>
+  </id_info>
+  <brief_title>Comparison of OCTA Factors in Patients With or Without Amyloid Pathology: A Prospective Study</brief_title>
+  <official_title>Comparison of Optical Coherence Tomography Angiographic Factors of Macula and Optic Disc in Patients With or Without Amyloid Pathology: A Prospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pusan National University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pusan National University Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To compare alternation of retinal microcirculation within the macula and optic disc in&#xD;
+      patients with dementia, mild cognitive impairment (MCI), and cognitively healthy subjects who&#xD;
+      had positive amyloid biomarkers (Aβ +) or not, using optical coherence tomography angiography&#xD;
+      (OCTA).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer disease dementia (ADD) is the most common neurodegenerative disease dementia in&#xD;
+      elderly population associated with the accumulation of beta-amyloid (Aβ) plaques and tau&#xD;
+      neurofibrillary tangles (NFTs). Diagnostic biomarkers reflecting underlying amyloid or tau&#xD;
+      pathology of ADD have actively been developed. Of these, amyloid or tau positron emission&#xD;
+      tomography (PET) imaging and cerebrospinal fluid (CSF) Aβ1-42 or phosphorylated tau are&#xD;
+      representative biomarkers for ADD. However, these tend to be expensive, invasive, or&#xD;
+      available only in a tertiary hospital or a specialized laboratory. Alternative biomarkers&#xD;
+      which are inexpensive, less invasive, and highly available could be needed.&#xD;
+&#xD;
+      Patients with ADD commonly show visuospatial dysfunction which is mainly attributed to damage&#xD;
+      of parieto-occipital or temporo-occipital visual pathway. In addition, previous studies using&#xD;
+      optical coherence tomography (OCT) which is a useful tool measuring retinal nerve fiber layer&#xD;
+      thickness (RNFLT), macula ganglion cell/inner plexiform layer thickness (GC/IPLT) reported&#xD;
+      impaired pregeniculate afferent visual pathway, for example, reduction of RNFLT and loss of&#xD;
+      retinal ganglionic cells (RGCs) in patients with ADD.&#xD;
+&#xD;
+      The retina and brain have the same embryological origin. These were branched off from the&#xD;
+      forebrain, so the brain and retina have similar anatomic and physiologic traits of the&#xD;
+      vasculature. In line with this, several studies using laser doppler ultrasonography, or&#xD;
+      retinal function imager (RFI) revealed narrowed central retinal vein and decreased its blood&#xD;
+      velocity, or low blood flow rate of retinal arterioles and venules in patients with mild&#xD;
+      cognitive impairment (MCI) and ADD. The authors suggested that in patients with ADD,&#xD;
+      accumulation of Aβ in the vessel walls could cause disruption of basement membrane and&#xD;
+      endothelium, leading to the decreased vascular lumen and density of retinal vessel. Indeed,&#xD;
+      postmortem study revealed accumulated Aβ inside or around RGCs in AD.&#xD;
+&#xD;
+      OCTA can clearly visualize not only the specific layers of retinal vasculatures, including&#xD;
+      superficial, middle, and deep capillary plexuses, but also choroidal vessels with a high&#xD;
+      resolution and in a reproducible manner, without contrast agent. A few prior studies using&#xD;
+      OCTA reported enlarged foveal avascular zone (FAZ) and decrease of retinal vascular density&#xD;
+      and choroidal thickness in ADD or MCI compared to controls. On the other hand, the others&#xD;
+      showed no differences in FAZ area and vessel density between them.&#xD;
+&#xD;
+      In this study, the investigators first evaluated structural and microvascular changes of&#xD;
+      retina and the microvascular change of macula and optic disc in patients with clinically&#xD;
+      diagnosed ADD, MCI and cognitively normal controls using OCT and OCTA. Then, to investigate&#xD;
+      whether impaired pregeniculate visual pathway is truly associated with underlying amyloid&#xD;
+      pathology, the investigators further investigated those OCT and OCTA parameters in each&#xD;
+      subgroup with positive or negative amyloid biomarker.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 1, 2019</start_date>
+  <completion_date type="Actual">July 31, 2021</completion_date>
+  <primary_completion_date type="Actual">July 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SD-OCT imaging</measure>
+    <time_frame>Through study completion, measured at enrollment and analyzed from September 2019 to July 2021</time_frame>
+    <description>Measuring macular GC/IPLT (μm) and cimcumpapillary RNFLT (μm).&#xD;
+The average, minimum, and 6 sectoral (superotemporal, superior, superonasal, inferonasal, inferior, and inferotemporal) GC/IPLT (μm) values are obtained.&#xD;
+The average, 4 sectoral (temporal, superior, nasal, and inferior), and 12 clock-hour circumpapillary RNFLT (μm) are obtained.&#xD;
+Multiple measurements will not be aggregated, but analyzed respectively.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SD-OCTA imaging</measure>
+    <time_frame>Through study completion, measured at enrollment and analyzed from September 2019 to July 2021</time_frame>
+    <description>Acquiring microvasculature images of macular (6 × 6 mm^2 scan) and optic disc areas (4.5 × 4.5 mm^2 scan).&#xD;
+The average vessel density (VD, mm/mm^2) and perfusion density (PD, %) were automatically measured in the Early Treatment of Diabetic Retinopathy Study (ETDRS) grid with values shown in the nine subfields, central, inner, outer and full region.&#xD;
+The software calculated the area (mm^2), perimeter (mm), and circularity (defined as 4πA/P^2, where A was the area and P was the perimeter) of foveal avascular zone (FAZ). A circularity closer to 0 means an irregular shape, and closure to 1 indicates a circular shape.&#xD;
+Multiple measurements will not be aggregated, but analyzed respectively.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Diagnostic performance</measure>
+    <time_frame>Through study completion, analyzed from July 2021 to July 2022</time_frame>
+    <description>Diagnostic performance of OCT and OCTA parameters according to underlying Aβpathology.&#xD;
+Receiver operating characteristic (ROC) curves were drawn by plotting sensitivity against 1-specificity, and areas under ROC curves (AUCs) were used to evaluate the diagnostic performance of continuous OCT/OCTA variables. Ideal cut-off points were derived using the Youden index</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations</measure>
+    <time_frame>Through study completion, analyzed from July 2021 to July 2022</time_frame>
+    <description>Correlations between MMSE score and all of OCT/OCTA parameters were expressed as Pearson's or Spearman's rank correlation coefficients to account for the normal or non-normal distribution of the parameters, respectively.&#xD;
+OCT/OCTA parameters including as follows;&#xD;
+macular GC/IPLT (μm): average, minimum, and 6 sectoral (superotemporal, superior, superonasal, inferonasal, inferior, and inferotemporal) GC/IPLT&#xD;
+cimcumpapillary RNFLT (μm): verage, 4 sectoral (temporal, superior, nasal, and inferior), and 12 clock-hour circumpapillary RNFLT&#xD;
+Macular vessel density (VD, mm/mm^2) &amp; perfusion density (PD, %)&#xD;
+: VDs and PDs of central, parafoveal (nasal, temporal, superior, inferior), perifoveal (nasal, temporal, superior, inferior), and total&#xD;
+Optic disc perfusion density (%) and flux index (from 0 to 1) : nasal, temporal, superior, inferior</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Actual">117</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Amyloid Angiopathy</condition>
+  <condition>Macular Ischemia</condition>
+  <condition>Dementia</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Dementia</arm_group_label>
+    <description>Patients with Alzheimer disease dementia (ADD) fulfilled the NIA-AA core clinical criteria for probable ADD and Aβ positive according to ATN classification scheme.&#xD;
+Aβ positive refers to Aβ pathology (CSF Aβ1-42 &lt; 631.8 pg/ml or positive amyloid deposits on 18F-flutemetamol PET by visual inspection).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MCI (Mild cognitive impairment)</arm_group_label>
+    <description>Patients with mild cognitive impairment (MCI) met the Petersen's criteria.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CU (Cognitively unimpaired control)</arm_group_label>
+    <description>CU consisted of cognitively unimpaired subjects whose cognition (as defined by the Seoul Neuropsychological Screening Battery (SNSB)) was within normal limits.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Aβ positive</arm_group_label>
+    <description>Aβ positive refers to Aβ pathology (CSF Aβ1-42 &lt; 631.8 pg/ml or positive amyloid deposits on 18F-flutemetamol PET by visual inspection).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Aβ negative</arm_group_label>
+    <description>Aβ negative was within normal limits.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Neurologic Clinic of Pusan National University Hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Clinical and pathologic diagnosis of ADD or MCI as well as cognitively unimpaired&#xD;
+             control (CU) from the Neurologic Clinic of Pusan National University Hospital&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient not within the ages of 50-90 years old&#xD;
+&#xD;
+          -  Patient with glaucoma, macular degeneration, retinal vascular disease including&#xD;
+             diabetic retinopathy, retinal vein occlusion&#xD;
+&#xD;
+          -  Intraocular pressure (IOP) ≥ 21 mmHg&#xD;
+&#xD;
+          -  Dense corneal or ocular media opacity&#xD;
+&#xD;
+          -  History of ocular trauma or associated ocular disease&#xD;
+&#xD;
+          -  Astigmatism ≥ 3.0 diopter or spherical equivalent ≥ 6.0 diopter&#xD;
+&#xD;
+          -  Best corrected visual acuity (BCVA) &lt; 20/40&#xD;
+&#xD;
+          -  Any ocular surgery except uncomplicated cataract extraction&#xD;
+&#xD;
+          -  Uncontrolled hypertension and diabetes&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eun-Joo Kim, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Neurology, Pusan National University Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pusan National University Hospital</name>
+      <address>
+        <city>Busan</city>
+        <zip>49241</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Arvanitakis Z, Shah RC, Bennett DA. Diagnosis and Management of Dementia: Review. JAMA. 2019 Oct 22;322(16):1589-1599. doi: 10.1001/jama.2019.4782. Review.</citation>
+    <PMID>31638686</PMID>
+  </reference>
+  <reference>
+    <citation>Villemagne VL, Burnham S, Bourgeat P, Brown B, Ellis KA, Salvado O, Szoeke C, Macaulay SL, Martins R, Maruff P, Ames D, Rowe CC, Masters CL; Australian Imaging Biomarkers and Lifestyle (AIBL) Research Group. Amyloid β deposition, neurodegeneration, and cognitive decline in sporadic Alzheimer's disease: a prospective cohort study. Lancet Neurol. 2013 Apr;12(4):357-67. doi: 10.1016/S1474-4422(13)70044-9. Epub 2013 Mar 8.</citation>
+    <PMID>23477989</PMID>
+  </reference>
+  <reference>
+    <citation>Clark CM, Pontecorvo MJ, Beach TG, Bedell BJ, Coleman RE, Doraiswamy PM, Fleisher AS, Reiman EM, Sabbagh MN, Sadowsky CH, Schneider JA, Arora A, Carpenter AP, Flitter ML, Joshi AD, Krautkramer MJ, Lu M, Mintun MA, Skovronsky DM; AV-45-A16 Study Group. Cerebral PET with florbetapir compared with neuropathology at autopsy for detection of neuritic amyloid-β plaques: a prospective cohort study. Lancet Neurol. 2012 Aug;11(8):669-78. Epub 2012 Jun 28. Erratum in: Lancet Neurol. 2012 Aug;11(8):658.</citation>
+    <PMID>22749065</PMID>
+  </reference>
+  <reference>
+    <citation>Albert MS, DeKosky ST, Dickson D, Dubois B, Feldman HH, Fox NC, Gamst A, Holtzman DM, Jagust WJ, Petersen RC, Snyder PJ, Carrillo MC, Thies B, Phelps CH. The diagnosis of mild cognitive impairment due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimers Dement. 2011 May;7(3):270-9. doi: 10.1016/j.jalz.2011.03.008. Epub 2011 Apr 21.</citation>
+    <PMID>21514249</PMID>
+  </reference>
+  <reference>
+    <citation>Grossman I, Lutz MW, Crenshaw DG, Saunders AM, Burns DK, Roses AD. Alzheimer's disease: diagnostics, prognostics and the road to prevention. EPMA J. 2010 Jun;1(2):293-303. Epub 2010 Jun 29.</citation>
+    <PMID>21124753</PMID>
+  </reference>
+  <reference>
+    <citation>Kirby E, Bandelow S, Hogervorst E. Visual impairment in Alzheimer's disease: a critical review. J Alzheimers Dis. 2010;21(1):15-34. doi: 10.3233/JAD-2010-080785. Review.</citation>
+    <PMID>20182034</PMID>
+  </reference>
+  <reference>
+    <citation>Hodges JR. Alzheimer's centennial legacy: origins, landmarks and the current status of knowledge concerning cognitive aspects. Brain. 2006 Nov;129(Pt 11):2811-22.</citation>
+    <PMID>17071920</PMID>
+  </reference>
+  <reference>
+    <citation>Cronin-Golomb A, Corkin S, Rizzo JF, Cohen J, Growdon JH, Banks KS. Visual dysfunction in Alzheimer's disease: relation to normal aging. Ann Neurol. 1991 Jan;29(1):41-52. Erratum in: Ann Neurol 1991 Mar;29(3):271.</citation>
+    <PMID>1996878</PMID>
+  </reference>
+  <reference>
+    <citation>Blanks JC, Hinton DR, Sadun AA, Miller CA. Retinal ganglion cell degeneration in Alzheimer's disease. Brain Res. 1989 Nov 6;501(2):364-72.</citation>
+    <PMID>2819446</PMID>
+  </reference>
+  <reference>
+    <citation>Sadun AA, Bassi CJ. Optic nerve damage in Alzheimer's disease. Ophthalmology. 1990 Jan;97(1):9-17.</citation>
+    <PMID>2314849</PMID>
+  </reference>
+  <reference>
+    <citation>Jiang H, Liu Y, Wei Y, Shi Y, Wright CB, Sun X, Rundek T, Baumel BS, Landman J, Wang J. Impaired retinal microcirculation in patients with Alzheimer's disease. PLoS One. 2018 Feb 2;13(2):e0192154. doi: 10.1371/journal.pone.0192154. eCollection 2018.</citation>
+    <PMID>29394263</PMID>
+  </reference>
+  <reference>
+    <citation>Brown WR, Thore CR. Review: cerebral microvascular pathology in ageing and neurodegeneration. Neuropathol Appl Neurobiol. 2011 Feb;37(1):56-74. doi: 10.1111/j.1365-2990.2010.01139.x. Review.</citation>
+    <PMID>20946471</PMID>
+  </reference>
+  <reference>
+    <citation>Feke GT, Hyman BT, Stern RA, Pasquale LR. Retinal blood flow in mild cognitive impairment and Alzheimer's disease. Alzheimers Dement (Amst). 2015 Apr 23;1(2):144-51. doi: 10.1016/j.dadm.2015.01.004. eCollection 2015 Jun.</citation>
+    <PMID>27239502</PMID>
+  </reference>
+  <reference>
+    <citation>Berisha F, Feke GT, Trempe CL, McMeel JW, Schepens CL. Retinal abnormalities in early Alzheimer's disease. Invest Ophthalmol Vis Sci. 2007 May;48(5):2285-9.</citation>
+    <PMID>17460292</PMID>
+  </reference>
+  <reference>
+    <citation>Wu J, Zhang X, Azhati G, Li T, Xu G, Liu F. Retinal microvascular attenuation in mental cognitive impairment and Alzheimer's disease by optical coherence tomography angiography. Acta Ophthalmol. 2020 Sep;98(6):e781-e787. doi: 10.1111/aos.14381. Epub 2020 Mar 9.</citation>
+    <PMID>32153141</PMID>
+  </reference>
+  <reference>
+    <citation>Rosenfeld PJ, Durbin MK, Roisman L, Zheng F, Miller A, Robbins G, Schaal KB, Gregori G. ZEISS Angioplex™ Spectral Domain Optical Coherence Tomography Angiography: Technical Aspects. Dev Ophthalmol. 2016;56:18-29. doi: 10.1159/000442773. Epub 2016 Mar 15. Review.</citation>
+    <PMID>27023249</PMID>
+  </reference>
+  <reference>
+    <citation>Nesper PL, Fawzi AA. Human Parafoveal Capillary Vascular Anatomy and Connectivity Revealed by Optical Coherence Tomography Angiography. Invest Ophthalmol Vis Sci. 2018 Aug 1;59(10):3858-3867. doi: 10.1167/iovs.18-24710.</citation>
+    <PMID>30073360</PMID>
+  </reference>
+  <reference>
+    <citation>de Carlo TE, Bonini Filho MA, Chin AT, Adhi M, Ferrara D, Baumal CR, Witkin AJ, Reichel E, Duker JS, Waheed NK. Spectral-domain optical coherence tomography angiography of choroidal neovascularization. Ophthalmology. 2015 Jun;122(6):1228-38. doi: 10.1016/j.ophtha.2015.01.029. Epub 2015 Mar 17.</citation>
+    <PMID>25795476</PMID>
+  </reference>
+  <reference>
+    <citation>Bulut M, Kurtuluş F, Gözkaya O, Erol MK, Cengiz A, Akıdan M, Yaman A. Evaluation of optical coherence tomography angiographic findings in Alzheimer's type dementia. Br J Ophthalmol. 2018 Feb;102(2):233-237. doi: 10.1136/bjophthalmol-2017-310476. Epub 2017 Jun 9.</citation>
+    <PMID>28600299</PMID>
+  </reference>
+  <reference>
+    <citation>Jiang H, Wei Y, Shi Y, Wright CB, Sun X, Gregori G, Zheng F, Vanner EA, Lam BL, Rundek T, Wang J. Altered Macular Microvasculature in Mild Cognitive Impairment and Alzheimer Disease. J Neuroophthalmol. 2018 Sep;38(3):292-298. doi: 10.1097/WNO.0000000000000580.</citation>
+    <PMID>29040211</PMID>
+  </reference>
+  <reference>
+    <citation>O'Bryhim BE, Apte RS, Kung N, Coble D, Van Stavern GP. Association of Preclinical Alzheimer Disease With Optical Coherence Tomographic Angiography Findings. JAMA Ophthalmol. 2018 Nov 1;136(11):1242-1248. doi: 10.1001/jamaophthalmol.2018.3556.</citation>
+    <PMID>30352114</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang YS, Zhou N, Knoll BM, Samra S, Ward MR, Weintraub S, Fawzi AA. Parafoveal vessel loss and correlation between peripapillary vessel density and cognitive performance in amnestic mild cognitive impairment and early Alzheimer's Disease on optical coherence tomography angiography. PLoS One. 2019 Apr 2;14(4):e0214685. doi: 10.1371/journal.pone.0214685. eCollection 2019.</citation>
+    <PMID>30939178</PMID>
+  </reference>
+  <reference>
+    <citation>den Haan J, van de Kreeke JA, van Berckel BN, Barkhof F, Teunissen CE, Scheltens P, Verbraak FD, Bouwman FH. Is retinal vasculature a biomarker in amyloid proven Alzheimer's disease? Alzheimers Dement (Amst). 2019 May 10;11:383-391. doi: 10.1016/j.dadm.2019.03.006. eCollection 2019 Dec. Erratum in: Alzheimers Dement (Amst). 2020 Jul 05;12(1):e12046. Haan, Jurre den [corrected to den Haan, Jurre].</citation>
+    <PMID>31193094</PMID>
+  </reference>
+  <reference>
+    <citation>van de Kreeke JA, Nguyen HT, Konijnenberg E, Tomassen J, den Braber A, Ten Kate M, Yaqub M, van Berckel B, Lammertsma AA, Boomsma DI, Tan SH, Verbraak F, Visser PJ. Optical coherence tomography angiography in preclinical Alzheimer's disease. Br J Ophthalmol. 2020 Feb;104(2):157-161. doi: 10.1136/bjophthalmol-2019-314127. Epub 2019 May 22.</citation>
+    <PMID>31118186</PMID>
+  </reference>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>June 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 24, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 26, 2022</study_first_posted>
+  <last_update_submitted>July 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer disease dementia</keyword>
+  <keyword>Mild cognitive impairment</keyword>
+  <keyword>Amyloid pathology</keyword>
+  <keyword>Optical coherence tomographic angiography</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Amyloidosis</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

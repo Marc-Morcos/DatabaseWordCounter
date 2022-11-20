@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1913">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04640077</url>
+  </required_header>
+  <id_info>
+    <org_study_id>17447</org_study_id>
+    <secondary_id>I5T-MC-AACH</secondary_id>
+    <nct_id>NCT04640077</nct_id>
+  </id_info>
+  <brief_title>A Follow-On Study of Donanemab (LY3002813) With Video Assessments in Participants With Alzheimer's Disease (TRAILBLAZER-EXT)</brief_title>
+  <official_title>Donanemab Follow-On Study: Safety, Tolerability, And Efficacy in Symptomatic Alzheimer's Disease With Validation of Remote Neuropsychological Assessments</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goals of this study are to further determine whether the study drug donanemab is&#xD;
+      safe and effective in participants with Alzheimer's disease and to validate video scale&#xD;
+      assessments.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 23, 2020</start_date>
+  <completion_date type="Anticipated">March 5, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 19, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part A: Correlation between VTC and on-site assessment for PAIR 1 for Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog13)</measure>
+    <time_frame>1 Month</time_frame>
+    <description>Correlation between VTC and on-site assessment for PAIR 1 (defined as completing a VTC evaluation and one in person evaluation regardless of order) for the ADAS-Cog13. The ADAS-Cog13 (13-item version of ADAS Cog) assesses areas of cognitive function that are the most typically impaired in AD: orientation, verbal memory, language, praxis, delayed free recall, digit cancellation, and maze-completion measures. The ADAS-Cog13 scale ranges from 0 to 85, with higher scores indicating greater disease severity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part A: Correlation between VTC and on-site assessment for PAIR 1 for Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory (ADCS-ADL)</measure>
+    <time_frame>1 Month</time_frame>
+    <description>Correlation between VTC and on-site assessment for PAIR 1 for ADCS-ADL. The ADCS-ADL is a 23-item inventory developed as a rater-administered questionnaire answered by the participant's caregiver. The ADCS-ADL measures both basic and instrumental activities of daily living by participants. The range for the total ADCS-ADL score is 0 to 78, with lower scores indicating greater level of impairment. Alzheimer's Disease Cooperative Study Instrumental Activities of Daily Living Inventory (ADCS-iADL) is calculated from a subset of questions from the ADCS-ADL. The range for the ADCS-iADL is 0-59 with higher scores reflecting better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part A: Correlation between VTC and on-site assessment for PAIR 1 for Mini Mental State Examination (MMSE) Score</measure>
+    <time_frame>1 Month</time_frame>
+    <description>Correlation between VTC and on-site assessment for PAIR 1 for MMSE. The MMSE is a brief instrument used to assess cognitive function in participants. The range for the total MMSE score is 0 to 30, with lower scores indicating greater level of impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part A: Correlation between VTC and on-site assessment for PAIR 1 for Clinical Dementia Rating-Sum of Boxes (CDR-SB)</measure>
+    <time_frame>1 Month</time_frame>
+    <description>Correlation between VTC and on-site assessment for PAIR 1 for CDR-SB. The CDR-SB is a global assessment tool than can be used to effectively evaluate both cognition and function. The CDR-SB scores are calculated by adding the box scores and range from 0 to 18 (with higher scores indicative of more impairment).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part B: Percentage of Participants with One or More Adverse Events (AEs) or Serious AEs</measure>
+    <time_frame>Up to 72 Weeks</time_frame>
+    <description>A summary of serious and other non-serious adverse events regardless of causality is located in the Reported Adverse Events module.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline on the MMSE Score</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline on the MMSE Score. The MMSE is a brief instrument used to assess cognitive function in participants. The range for the total MMSE score is 0 to 30, with lower scores indicating greater level of impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline on the ADAS-Cog13 score</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline on the ADAS-Cog13. The ADAS-Cog13 (13-item version of ADAS Cog) assesses areas of cognitive function that are the most typically impaired in AD: orientation, verbal memory, language, praxis, delayed free recall, digit cancellation, and maze-completion measures. The ADAS-Cog13 scale ranges from 0 to 85, with higher scores indicating greater disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline on the Integrated Alzheimer's Disease Rating Scale (iADRS)</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline on the iADRS. The iADRS is a composite that measures both cognition and function from the ADAS- Cog and the ADCS-iADL. The iADRS is calculated as a linear combination of the total scores of the ADAS-Cog13 (score range 0 to 85 with higher scores reflecting worse performance) and the ADCS-iADL (score range from 0-59 with higher scores reflecting better performance). The iADRS score ranges from 0 to 144 with lower scores indicating greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline on the ADCS-iADL</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline on the ADCS-iADL. The ADCS-ADL is a 23-item inventory developed as a rater-administered questionnaire answered by the participant's caregiver. The ADCS-ADL measures both basic and instrumental activities of daily living by participants. The range for the total ADCS-ADL score is 0 to 78, with lower scores indicating greater level of impairment. ADCS-iADL is calculated from a subset of questions from the ADCS-ADL. The range for the ADCS-iADL is 0-59 with higher scores reflecting better performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline on the CDR-SB</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline on the CDR-SB. The CDR-SB is a global assessment tool than can be used to effectively evaluate both cognition and function. The CDR-SB scores are calculated by adding the box scores and range from 0 to 18 (with higher scores indicative of more impairment).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline in Brain Amyloid Plaque Deposition as Measured by Florbetapir F18 Positron Emission Tomography (PET) Scan</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline in Brain Amyloid Plaque Deposition as Measured by Florbetapir F18 PET Scan</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline in Brain Volume as Measured by Volumetric Magnetic Resonance Imaging (vMRI) measures</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline in Brain Volume as Measured by vMRI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Pharmacokinetics (PK): Average Serum Concentration of Donanemab</measure>
+    <time_frame>Predose, Up to Week 72</time_frame>
+    <description>PK: Average Serum Concentration of donanemab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Number or Participants with Anti-Donanemab Antibodies</measure>
+    <time_frame>Baseline to Week 72</time_frame>
+    <description>Number or Participants with Anti-donanemab Antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part B: Change from Baseline in Columbia-Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>Baseline, Week 72</time_frame>
+    <description>Change from Baseline in Columbia-Suicide Severity Rating Scale (C-SSRS). The C-SSRS is a scale that captures the occurrence, severity, and frequency of suicidal ideation and behavior during the assessment period via a questionnaire. Some questions are yes/no and some are on a scale of 1 (low severity) to 5 (high severity).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">90</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Brain Diseases</condition>
+  <condition>Central Nervous System Diseases</condition>
+  <condition>Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Part A Validation of Remote Scale Assessments</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Alternating at-home and on-site cognitive and functional scale assessments&#xD;
+Group 1: Cognitive/functional scale assessment at the study site (on-site), followed by an at-home assessment (VTC; video teleconference), or Group 2: Cognitive/functional scale assessment at home (VTC), followed by assessment on-site</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B Donanemab</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Donanemab administered intravenously (IV)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No Intervention</intervention_name>
+    <description>No intervention</description>
+    <arm_group_label>Part A Validation of Remote Scale Assessments</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>donanemab</intervention_name>
+    <description>Administered IV</description>
+    <arm_group_label>Part B Donanemab</arm_group_label>
+    <other_name>LY3002813</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participated in a double-blind treatment period of a sponsor-approved originating&#xD;
+             donanemab trial, for example the TRAILBLAZER-ALZ study.&#xD;
+&#xD;
+          -  Have a study partner&#xD;
+&#xD;
+          -  Stable symptomatic Alzheimer's Disease (AD) medications and other medication that may&#xD;
+             impact cognition for at least 30 days prior to randomization into Part A&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current serious or unstable illnesses including cardiovascular, hepatic, renal,&#xD;
+             gastroenterologic, respiratory, endocrinologic, neurologic (other than AD),&#xD;
+             psychiatric, immunologic, or hematologic disease and other conditions that, in the&#xD;
+             investigator's opinion, could interfere with outcome assessments or the analyses in&#xD;
+             this study.&#xD;
+&#xD;
+          -  Have received treatment with a passive anti-amyloid immunotherapy after completion of&#xD;
+             originating donanemab study or received active immunization against Aβ in any other&#xD;
+             study.&#xD;
+&#xD;
+          -  Poor venous access&#xD;
+&#xD;
+          -  Contraindication to PET or MRI imaging&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Irvine Clinical Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC Irvine-Institute for Memory Impairments and Neurological Disorders (UCI MIND)</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bradenton Research Center, Inc.</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Merritt Island Medical Research, LLC</name>
+      <address>
+        <city>Merritt Island</city>
+        <state>Florida</state>
+        <zip>32952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc - Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Research Consultants</name>
+      <address>
+        <city>Palm Beach Gardens</city>
+        <state>Florida</state>
+        <zip>33410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Intercoastal Medical Group</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stedman Clinical Trials</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University School of Medicine</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Josephson Wallack Munshower Neurology, PC</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Kansas - Clinical Research Center</name>
+      <address>
+        <city>Fairway</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cotton O'Neil Mulvane</name>
+      <address>
+        <city>Topeka</city>
+        <state>Kansas</state>
+        <zip>66606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Center for Memory</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Las Vegas Medical Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Memory Research Institute of New Jersey</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Guilford Neurologic Research, PA</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Diagnostics, Inc.</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Neurological Associates, Ltd.</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Clinical Research, Inc</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bruyère Research Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1N 5C8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Memory Program</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B 2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique de la Mémoire de l'Outaouais</name>
+      <address>
+        <city>Gatineau</city>
+        <state>Quebec</state>
+        <zip>J8T 8J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Diex Recherche Sherbrooke Inc.</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1L 0H8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/7tATxSc3LHXNDE2nVmdIY</url>
+    <description>A Follow-On Study of Donanemab (LY3002813) With Video Assessments in Participants With Alzheimer's Disease (TRAILBLAZER-EXT)</description>
+  </link>
+  <verification_date>May 15, 2022</verification_date>
+  <study_first_submitted>November 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2020</study_first_posted>
+  <last_update_submitted>May 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Central Nervous System Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Anonymized individual patient level data will be provided in a secure access environment upon approval of a research proposal and a signed data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>Access Criteria:&#xD;
+A research proposal must be approved by an independent review panel and researchers must sign a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>http://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

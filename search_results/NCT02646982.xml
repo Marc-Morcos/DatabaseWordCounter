@@ -1,0 +1,2073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1870">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02646982</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00084574</org_study_id>
+    <secondary_id>R01AG049752</secondary_id>
+    <nct_id>NCT02646982</nct_id>
+  </id_info>
+  <brief_title>Candesartan's Effects on Alzheimer's Disease And Related Biomarkers</brief_title>
+  <acronym>CEDAR</acronym>
+  <official_title>Candesartan's Effects on Alzheimer's Disease And Related Biomarkers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is intended to investigate the safety of candesartan, a blood pressure medication,&#xD;
+      in non-hypertensive individuals who have mild cognitive impairment (MCI) due to Alzheimer's&#xD;
+      disease and its effect on disease biomarkers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a double-blind placebo-control randomized clinical trial that compares candesartan to&#xD;
+      placebo in individuals with mild cognitive impairment (MCI) who also have positive&#xD;
+      Alzheimer's Disease (AD) biomarkers. The investigators will assess if blocking the effect of&#xD;
+      Ang II using angiotensin receptor blockers (ARBs) is safe in non hypertensive MCI individuals&#xD;
+      and whether the use of candesartan will be associated with changes in cerebrospinal fluid&#xD;
+      disease biomarkers.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 30, 2016</start_date>
+  <completion_date type="Actual">August 17, 2020</completion_date>
+  <primary_completion_date type="Actual">August 17, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With a Hypotensive Episode</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>Hypotension is defined as blood pressure &lt;100/40 mm Hg. Blood pressure was measured according to the American Heart Association guidelines with the subject in the sitting position and rested for 5 minutes. An appropriate cuff size (covering 60% of upper arm length and 80% of arm circumference) was used and correct cuff placement (1-2 inches above the brachial pulse on bare arm) was ensured.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Symptoms of Hypotension</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>Participants were asked to report any symptoms of hypotension (dizziness, weakness, fatigue and lightheadedness). All participants were given a telephone number to reach physician 24-hours per day to report symptoms they experience. The number of participants reporting symptoms of hypotension is reported here.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Hypotensive Episodes and Symptoms</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>The number of participants with reported episodes hypotension as well as symptoms of hypotension.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Elevated Serum Creatinine</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>The levels of creatinine were obtained from blood samples. Elevated serum creatinine is defined as levels &gt;2.5 milligram per deciliter (mg/dL). Elevated serum creatinine is indicative of decreased renal function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Hyperkalemia</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>The levels of potassium were obtained from blood samples. Hyperkalemia is defined as potassium levels &gt;5.9 milliequivalent per deciliter (meq/dL). Hyperkalemia is an indication of kidney dysfunction.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Discontinuing Study Medication</measure>
+    <time_frame>Up to Month 12</time_frame>
+    <description>The number of participants who discontinued the study medication is presented here.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cerebrospinal Fluid (CSF) Total Tau Levels</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>CSF total tau (t-tau) levels were analyzed from CSF samples obtained via lumbar puncture. Normal values for t-tau are &lt; 450 pg/ml. Elevated levels of t-tau indicate worsening disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cerebrospinal Fluid (CSF) of Tau Phosphorylated at Threonine 181 (p-tau181) Levels</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>CSF levels of p-tau181 were analyzed from CSF samples obtained via lumbar puncture. P-tau181 is a biomarker that is elevated in persons with Alzheimer's disease. Higher values indicate worsening disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cerebrospinal Fluid (CSF) Amyloid Aβ42 Levels</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>CSF Aβ42 levels were analyzed from CSF samples obtained via lumbar puncture. Aβ42 is a biomarker for Alzheimer's disease and lower values indicate worsening disease and an increased accumulation of amyloid in the brain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cerebrospinal Fluid (CSF) Amyloid Aβ40 Levels</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>CSF Aβ40 levels were analyzed from CSF samples obtained via lumbar puncture. Lower values indicate worsening disease and an increased brain accumulation of amyloid.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cerebrospinal Fluid (CSF) Amyloid Aβ42/Aβ40 Levels</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>CSF Aβ42/Aβ40 levels were analyzed from CSF samples obtained via lumbar puncture. A lower ratio indicates worsening disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulse Wave Velocity (PWV)</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>Arterial stiffness was assessed by Pulse Wave Velocity (PWV). PWV is calculated as PWV=distance (d)/time (t) and the unit of measure is reported as meters per second (m/s). Lower values indicate a preferable measurement of arterial stiffness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Augmentation Index (AI)</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>Arterial stiffness was assessed by Augmentation Index (AI). A lower values indicates a preferable state of arterial stiffness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hippocampal Volume</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>Structural MRI images were acquired in order to assess hippocampal volume. Decreased hippocampal volume suggests neurodegenerative changes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasoreactivity</measure>
+    <time_frame>Month 12</time_frame>
+    <description>Cerebrovascular reactivity (CVR) is assessed with blood oxygenation level-dependent (BOLD) MRI. Vasoreactivity (VR) is the degree of change in BOLD signal relative to change in end tidal CO2. CVR is an indicator of microvascular function (higher indicates better function)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Standardized Uptake Value Ratio (SUVR) of (11)C-Pittsburgh Compound B ((11)C-PiB)</measure>
+    <time_frame>Baseline, 12 Months</time_frame>
+    <description>In-vivo amyloid imaging with positron emission tomography (PET) was conducted after intravenous administration of 15±1.5 millicurie (mCi) of the radiotracer (11)C-PiB. SUVR is a ratio of PET uptake measured in the brain region of interest and a disease free reference region. A higher SUVR is an indication of increased PET radiotracer uptake and worsening disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Standardized Uptake Value Ratio (SUVR) of [18F]T807</measure>
+    <time_frame>Baseline, 12 Months</time_frame>
+    <description>In-vivo tau-PET imaging was conducted using the radiotracer [18F]T807. SUVR is a ratio of PET uptake measured in the brain region of interest and a disease free reference region. A higher SUVR is an indication of increased PET radiotracer uptake and worsening disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Dementia Rating (CDR) Score</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>The CDR rates each of the six general domains involving memory, orientation, judgment and problem-solving, community affairs, home and hobbies, and personal care. An overall score, ranging from 0 to 3, can be calculated. A score of 0 = normal, 0.5 = very mild dementia, 1 = mild dementia, 2 = moderate dementia, and 3 = severe dementia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EXecutive Abilities: Measures and Instruments for Neurobehavioral Evaluation and Research (EXAMINER) Toolbox Composite Score</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>The EXAMINER toolbox battery includes 11 tasks that generate 15 primary variables. Within this set, the EXAMINER includes working memory, inhibition, set shifting, and fluency. The parts of EXAMINER that were used for this study include: Flanker task (inhibition) which involves responding to a central stimulus while ignoring flanking stimuli that are either compatible or incompatible with the central stimulus; Set-shifting, a measure of mental flexibility; Spatial 1-Back test assesses spatial working memory; Dot Counting test assesses verbal working memory; Verbal Fluency tested using a List Generation test which require the participant to generate words beginning with a specific letter, and category fluency in which the participant generates words from a specified category (e.g., animals, fruits). A composite score is calculated where scores range from -1 to +1 and higher are reflective of better executive function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hopkins Verbal Learning Test (HVLT) Delayed Recall Score</measure>
+    <time_frame>Baseline, Month 6, Month 12</time_frame>
+    <description>The Hopkins Verbal Learning Test (HVLT) is used to assess memory domains. Participants are read a list of 12 words and are asked to recall as many as they can remember. This is repeated for 3 trials followed by a 20 minute delay, and then participants are asked to recall as many words as they can. The delayed recall score ranges from 0 to 12 and higher scores indicate better memory.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trail Making Test (TMT) Part B</measure>
+    <time_frame>Baseline, Month 12</time_frame>
+    <description>The Trail Making Test assesses executive function. In Part B of the TMT participants connect circles labeled with letters and numbers, in ascending order. The score is the amount of time it takes for the participant to complete the task. The average time is 75 seconds and times greater than 273 seconds indicate a deficit with executive function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trail Making Test (TMT) Part B - A</measure>
+    <time_frame>Baseline, Month 6, Month 12</time_frame>
+    <description>In Part A of the TMT participants connect circles labeled with numbers, in ascending order. The score is the amount of time it takes for the participant to complete the task. The TMT Part A score reflects visuoperceptual abilities and subtracting the score for Part A from the score from Part B provides a more accurate assessment of executive function. Lower scores indicate greater executive function.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">77</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Candesartan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Candesartan will be given orally once a day in a stepwise manner as follows: All participants will be initiated on 8 mg candesartan. The dose will be increased in 2 week increments to 16 mg and 32 mg as long as the systolic blood pressure (SBP) &gt;100 mm Hg, diastolic blood pressure (DBP) &gt;40 mm Hg and participant reports no symptoms of hypotension (dizziness or weakness). The highest achievable dose will be the Maximal Tolerated Dose (MTD) and the participant will receive this dose for the remaining duration of the study (participants will be treated for 1 year).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a matched placebo once a day orally for 12 months.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>A matched placebo will be given once daily for 12 months.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Candesartan</intervention_name>
+    <description>Candesartan will be started at 8 mg orally, once daily. The dose will be increased in 2 week increments to 16 mg and 32 mg orally, once a day, as long as SBP&gt;100 mm Hg, DBP&gt;40 mm Hg and there are no reported symptoms of hypotension (dizziness or weakness). Candesartan will be given for a total of 12 months.</description>
+    <arm_group_label>Candesartan</arm_group_label>
+    <other_name>Atacand</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Mild Cognitive Impairment, defined by:&#xD;
+&#xD;
+               -  Subjective memory concern&#xD;
+&#xD;
+               -  Abnormal memory function documented using the Logical Memory subscale (Delayed&#xD;
+                  Paragraph Recall, Paragraph A only) from the Wechsler Memory Scale-Revised (the&#xD;
+                  maximum score is 25): [&lt;11 for 16 or more years of education; &lt;9 for 8-15 years&#xD;
+                  of education; &lt;6 for &lt;7 years of education]&#xD;
+&#xD;
+               -  Montreal Cognitive Assessment (MoCA) &lt; 26&#xD;
+&#xD;
+               -  Clinical Dementia Rating scale /Memory sum Box score=0.5&#xD;
+&#xD;
+               -  General functional performance sufficiently preserved (Functional Assessment&#xD;
+                  Questionnaire&lt;9)&#xD;
+&#xD;
+          -  Amyloid positivity determined by measuring the amyloid content in the brain. This can&#xD;
+             be determined by either cerebrospinal fluid (CSF) amyloid level or an amyloid scan&#xD;
+             (PIB-PET)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Intolerance to ARBs&#xD;
+&#xD;
+          -  Current use of ARBs, angiotensin-converting enzyme inhibitors (ACEIs) (use of&#xD;
+             antihypertensive medications other than ACEI or ARBs for other indications is allowed)&#xD;
+&#xD;
+          -  Current diagnosis of hypertension or current use of antihypertensive medication that&#xD;
+             is prescribed specifically for hypertensive therapy&#xD;
+&#xD;
+          -  SBP less than 110 or DBP less than 40 mm Hg&#xD;
+&#xD;
+          -  Renal disease (Creatinine &gt;2.0 mg/dl), hyperkalemia (K&gt;5.5 meq/dl),&#xD;
+             platelets&lt;50,000/μl, or international normalized ratio (INR)&gt;1.9&#xD;
+&#xD;
+          -  Active medical or psychiatric diseases that in the judgment of the investigator would&#xD;
+             affect the safety of the subject or scientific integrity of the study&#xD;
+&#xD;
+          -  Uncontrolled congestive heart failure reflected by poor exercise tolerance and&#xD;
+             shortness of breath&#xD;
+&#xD;
+          -  History of stroke in the past 3 years&#xD;
+&#xD;
+          -  Inability to have MRI (eg metal implants or cardiac pacemaker) with an exception for&#xD;
+             those who cannot have an MRI, if all other parts of the study are obtained&#xD;
+             successfully they may still be enrolled in the study, or cognitive assessment or&#xD;
+             inability to assess amyloid positivity (no lumbar puncture and no amyloid scan)&#xD;
+&#xD;
+          -  History of increased intracranial pressure (ICP) or bleeding diathesis (from disease&#xD;
+             states or from use of anticoagulants such as warfarin, heparin and related products,&#xD;
+             rivaroxaban or Xarelto, apixaban or Eliquis, edoxaban or Savaysa, dabigatran or&#xD;
+             Pradaxa)&#xD;
+&#xD;
+          -  Women of childbearing potential (non-menopausal)&#xD;
+&#xD;
+          -  In those who are unable to demonstrate that they understood the details of the study&#xD;
+             (ie lack of decisional-capacity to consent), a study partner/surrogate who can sign on&#xD;
+             their behalf will be required, otherwise they will be excluded&#xD;
+&#xD;
+          -  Current use of Lithium, as candesartan may increase lithium concentration to toxic&#xD;
+             levels&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ihab Hajjar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wesley Woods Center</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30329</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>January 4, 2016</study_first_submitted>
+  <study_first_submitted_qc>January 4, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 6, 2016</study_first_posted>
+  <results_first_submitted>August 31, 2022</results_first_submitted>
+  <results_first_submitted_qc>August 31, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">September 29, 2022</results_first_posted>
+  <disposition_first_submitted>August 16, 2021</disposition_first_submitted>
+  <disposition_first_submitted_qc>August 16, 2021</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">August 20, 2021</disposition_first_posted>
+  <last_update_submitted>August 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>Ihab Hajjar</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>hypertension medication</keyword>
+  <keyword>Mild Cognitive impairment</keyword>
+  <keyword>Amyloid Beta</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Candesartan</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/82/NCT02646982/Prot_SAP_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 15, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/82/NCT02646982/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Participants were recruited from the Wesley Woods Health Center of Emory Healthcare in Atlanta, Georgia, USA. Participant enrollment began June 30, 2016 and all follow up was complete by August 17, 2020.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Candesartan</title>
+          <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo</title>
+          <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="38"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="35"/>
+                <participants group_id="P2" count="37"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Candesartan</title>
+          <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo</title>
+          <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="38"/>
+            <count group_id="B2" value="39"/>
+            <count group_id="B3" value="77"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66.7" spread="8.4"/>
+                    <measurement group_id="B2" value="69.5" spread="8.5"/>
+                    <measurement group_id="B3" value="68.1" spread="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="48"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="14"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="62"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sitting Systolic Blood Pressure</title>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="124.7" spread="13.6"/>
+                    <measurement group_id="B2" value="126.7" spread="13.2"/>
+                    <measurement group_id="B3" value="125.4" spread="13.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sitting Diastolic Blood Pressure</title>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="67.9" spread="9.9"/>
+                    <measurement group_id="B2" value="69.8" spread="10.1"/>
+                    <measurement group_id="B3" value="68.8" spread="10.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sitting Heart Rate</title>
+          <units>beats per minute</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66.3" spread="11.1"/>
+                    <measurement group_id="B2" value="67.3" spread="11.5"/>
+                    <measurement group_id="B3" value="66.8" spread="11.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Montreal Cognitive Assessment (MoCA) Score</title>
+          <description>MoCA is an instrument to screen for mild cognitive dysfunction, assessing the cognitive domains of attention and concentration, executive functions, memory, language, visuoconstructional skills, conceptual thinking, calculations, and orientation. Total scores range from 0 to 30 with higher scores indicating better cognitive function. A normal score is considered to be 26 or higher.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20.9" spread="3.9"/>
+                    <measurement group_id="B2" value="20.7" spread="2.7"/>
+                    <measurement group_id="B3" value="20.8" spread="3.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of Participants Taking Cholinesterase inhibitors or Memantine</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With a Hypotensive Episode</title>
+        <description>Hypotension is defined as blood pressure &lt;100/40 mm Hg. Blood pressure was measured according to the American Heart Association guidelines with the subject in the sitting position and rested for 5 minutes. An appropriate cuff size (covering 60% of upper arm length and 80% of arm circumference) was used and correct cuff placement (1-2 inches above the brachial pulse on bare arm) was ensured.</description>
+        <time_frame>Up to Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With a Hypotensive Episode</title>
+          <description>Hypotension is defined as blood pressure &lt;100/40 mm Hg. Blood pressure was measured according to the American Heart Association guidelines with the subject in the sitting position and rested for 5 minutes. An appropriate cuff size (covering 60% of upper arm length and 80% of arm circumference) was used and correct cuff placement (1-2 inches above the brachial pulse on bare arm) was ensured.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Symptoms of Hypotension</title>
+        <description>Participants were asked to report any symptoms of hypotension (dizziness, weakness, fatigue and lightheadedness). All participants were given a telephone number to reach physician 24-hours per day to report symptoms they experience. The number of participants reporting symptoms of hypotension is reported here.</description>
+        <time_frame>Up to Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Symptoms of Hypotension</title>
+          <description>Participants were asked to report any symptoms of hypotension (dizziness, weakness, fatigue and lightheadedness). All participants were given a telephone number to reach physician 24-hours per day to report symptoms they experience. The number of participants reporting symptoms of hypotension is reported here.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Hypotensive Episodes and Symptoms</title>
+        <description>The number of participants with reported episodes hypotension as well as symptoms of hypotension.</description>
+        <time_frame>Up to Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Hypotensive Episodes and Symptoms</title>
+          <description>The number of participants with reported episodes hypotension as well as symptoms of hypotension.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Elevated Serum Creatinine</title>
+        <description>The levels of creatinine were obtained from blood samples. Elevated serum creatinine is defined as levels &gt;2.5 milligram per deciliter (mg/dL). Elevated serum creatinine is indicative of decreased renal function.</description>
+        <time_frame>Up to Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Elevated Serum Creatinine</title>
+          <description>The levels of creatinine were obtained from blood samples. Elevated serum creatinine is defined as levels &gt;2.5 milligram per deciliter (mg/dL). Elevated serum creatinine is indicative of decreased renal function.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Hyperkalemia</title>
+        <description>The levels of potassium were obtained from blood samples. Hyperkalemia is defined as potassium levels &gt;5.9 milliequivalent per deciliter (meq/dL). Hyperkalemia is an indication of kidney dysfunction.</description>
+        <time_frame>Up to Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Hyperkalemia</title>
+          <description>The levels of potassium were obtained from blood samples. Hyperkalemia is defined as potassium levels &gt;5.9 milliequivalent per deciliter (meq/dL). Hyperkalemia is an indication of kidney dysfunction.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Discontinuing Study Medication</title>
+        <description>The number of participants who discontinued the study medication is presented here.</description>
+        <time_frame>Up to Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Discontinuing Study Medication</title>
+          <description>The number of participants who discontinued the study medication is presented here.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cerebrospinal Fluid (CSF) Total Tau Levels</title>
+        <description>CSF total tau (t-tau) levels were analyzed from CSF samples obtained via lumbar puncture. Normal values for t-tau are &lt; 450 pg/ml. Elevated levels of t-tau indicate worsening disease.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <population>This analysis includes participants who had CSF samples collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cerebrospinal Fluid (CSF) Total Tau Levels</title>
+          <description>CSF total tau (t-tau) levels were analyzed from CSF samples obtained via lumbar puncture. Normal values for t-tau are &lt; 450 pg/ml. Elevated levels of t-tau indicate worsening disease.</description>
+          <population>This analysis includes participants who had CSF samples collected.</population>
+          <units>Picograms per milliliter (pg/ml)</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Total Tau</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="638.31" spread="53.61"/>
+                    <measurement group_id="O2" value="529.04" spread="53.50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12 Total Tau</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="571.96" spread="52.89"/>
+                    <measurement group_id="O2" value="441.25" spread="53.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cerebrospinal Fluid (CSF) of Tau Phosphorylated at Threonine 181 (p-tau181) Levels</title>
+        <description>CSF levels of p-tau181 were analyzed from CSF samples obtained via lumbar puncture. P-tau181 is a biomarker that is elevated in persons with Alzheimer's disease. Higher values indicate worsening disease.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <population>This analysis includes participants who had CSF samples collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cerebrospinal Fluid (CSF) of Tau Phosphorylated at Threonine 181 (p-tau181) Levels</title>
+          <description>CSF levels of p-tau181 were analyzed from CSF samples obtained via lumbar puncture. P-tau181 is a biomarker that is elevated in persons with Alzheimer's disease. Higher values indicate worsening disease.</description>
+          <population>This analysis includes participants who had CSF samples collected.</population>
+          <units>pg/ml</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline p-tau</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="100.29" spread="9.09"/>
+                    <measurement group_id="O2" value="81.58" spread="9.07"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12 p-tau</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="88.52" spread="8.58"/>
+                    <measurement group_id="O2" value="68.49" spread="8.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cerebrospinal Fluid (CSF) Amyloid Aβ42 Levels</title>
+        <description>CSF Aβ42 levels were analyzed from CSF samples obtained via lumbar puncture. Aβ42 is a biomarker for Alzheimer's disease and lower values indicate worsening disease and an increased accumulation of amyloid in the brain.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <population>This analysis includes participants who had CSF samples collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cerebrospinal Fluid (CSF) Amyloid Aβ42 Levels</title>
+          <description>CSF Aβ42 levels were analyzed from CSF samples obtained via lumbar puncture. Aβ42 is a biomarker for Alzheimer's disease and lower values indicate worsening disease and an increased accumulation of amyloid in the brain.</description>
+          <population>This analysis includes participants who had CSF samples collected.</population>
+          <units>pg/ml</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Aβ42</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="554.80" spread="34.09"/>
+                    <measurement group_id="O2" value="523.03" spread="33.98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12 Aβ42</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="557.60" spread="27.32"/>
+                    <measurement group_id="O2" value="476.32" spread="27.43"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cerebrospinal Fluid (CSF) Amyloid Aβ40 Levels</title>
+        <description>CSF Aβ40 levels were analyzed from CSF samples obtained via lumbar puncture. Lower values indicate worsening disease and an increased brain accumulation of amyloid.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <population>This analysis includes participants who had CSF samples collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cerebrospinal Fluid (CSF) Amyloid Aβ40 Levels</title>
+          <description>CSF Aβ40 levels were analyzed from CSF samples obtained via lumbar puncture. Lower values indicate worsening disease and an increased brain accumulation of amyloid.</description>
+          <population>This analysis includes participants who had CSF samples collected.</population>
+          <units>pg/ml</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Aβ40</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11624.00" spread="625.86"/>
+                    <measurement group_id="O2" value="10802.00" spread="623.82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12 Aβ40</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11769.00" spread="571.54"/>
+                    <measurement group_id="O2" value="9735.00" spread="573.74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cerebrospinal Fluid (CSF) Amyloid Aβ42/Aβ40 Levels</title>
+        <description>CSF Aβ42/Aβ40 levels were analyzed from CSF samples obtained via lumbar puncture. A lower ratio indicates worsening disease.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <population>This analysis includes participants who had CSF samples collected.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Cerebrospinal Fluid (CSF) Amyloid Aβ42/Aβ40 Levels</title>
+          <description>CSF Aβ42/Aβ40 levels were analyzed from CSF samples obtained via lumbar puncture. A lower ratio indicates worsening disease.</description>
+          <population>This analysis includes participants who had CSF samples collected.</population>
+          <units>Ratio</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="37"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline Aβ42/Aβ40 ratio</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.049" spread="0.003"/>
+                    <measurement group_id="O2" value="0.052" spread="0.003"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12 Aβ42/Aβ40 ratio</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.050" spread="0.003"/>
+                    <measurement group_id="O2" value="0.051" spread="0.003"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pulse Wave Velocity (PWV)</title>
+        <description>Arterial stiffness was assessed by Pulse Wave Velocity (PWV). PWV is calculated as PWV=distance (d)/time (t) and the unit of measure is reported as meters per second (m/s). Lower values indicate a preferable measurement of arterial stiffness.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pulse Wave Velocity (PWV)</title>
+          <description>Arterial stiffness was assessed by Pulse Wave Velocity (PWV). PWV is calculated as PWV=distance (d)/time (t) and the unit of measure is reported as meters per second (m/s). Lower values indicate a preferable measurement of arterial stiffness.</description>
+          <units>m/s</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.81" lower_limit="7.12" upper_limit="8.51"/>
+                    <measurement group_id="O2" value="8.73" lower_limit="8.05" upper_limit="9.40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.71" lower_limit="7.03" upper_limit="8.40"/>
+                    <measurement group_id="O2" value="8.14" lower_limit="7.47" upper_limit="8.81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Augmentation Index (AI)</title>
+        <description>Arterial stiffness was assessed by Augmentation Index (AI). A lower values indicates a preferable state of arterial stiffness.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Augmentation Index (AI)</title>
+          <description>Arterial stiffness was assessed by Augmentation Index (AI). A lower values indicates a preferable state of arterial stiffness.</description>
+          <units>percentage of arterial stiffness</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.95" lower_limit="25.92" upper_limit="33.98"/>
+                    <measurement group_id="O2" value="31.22" lower_limit="27.24" upper_limit="35.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="28.36" lower_limit="24.45" upper_limit="32.27"/>
+                    <measurement group_id="O2" value="26.66" lower_limit="22.81" upper_limit="30.51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hippocampal Volume</title>
+        <description>Structural MRI images were acquired in order to assess hippocampal volume. Decreased hippocampal volume suggests neurodegenerative changes</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hippocampal Volume</title>
+          <description>Structural MRI images were acquired in order to assess hippocampal volume. Decreased hippocampal volume suggests neurodegenerative changes</description>
+          <units>mm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6949.82" spread="151.66"/>
+                    <measurement group_id="O2" value="6662.21" spread="151.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6761.12" spread="151.42"/>
+                    <measurement group_id="O2" value="6521.30" spread="152.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Vasoreactivity</title>
+        <description>Cerebrovascular reactivity (CVR) is assessed with blood oxygenation level-dependent (BOLD) MRI. Vasoreactivity (VR) is the degree of change in BOLD signal relative to change in end tidal CO2. CVR is an indicator of microvascular function (higher indicates better function)</description>
+        <time_frame>Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Vasoreactivity</title>
+          <description>Cerebrovascular reactivity (CVR) is assessed with blood oxygenation level-dependent (BOLD) MRI. Vasoreactivity (VR) is the degree of change in BOLD signal relative to change in end tidal CO2. CVR is an indicator of microvascular function (higher indicates better function)</description>
+          <units>(ml/100g/min)/mmHg</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.27" lower_limit="0.006" upper_limit="0.53"/>
+                    <measurement group_id="O2" value="-0.17" lower_limit="-0.42" upper_limit="0.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Global Standardized Uptake Value Ratio (SUVR) of (11)C-Pittsburgh Compound B ((11)C-PiB)</title>
+        <description>In-vivo amyloid imaging with positron emission tomography (PET) was conducted after intravenous administration of 15±1.5 millicurie (mCi) of the radiotracer (11)C-PiB. SUVR is a ratio of PET uptake measured in the brain region of interest and a disease free reference region. A higher SUVR is an indication of increased PET radiotracer uptake and worsening disease.</description>
+        <time_frame>Baseline, 12 Months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Global Standardized Uptake Value Ratio (SUVR) of (11)C-Pittsburgh Compound B ((11)C-PiB)</title>
+          <description>In-vivo amyloid imaging with positron emission tomography (PET) was conducted after intravenous administration of 15±1.5 millicurie (mCi) of the radiotracer (11)C-PiB. SUVR is a ratio of PET uptake measured in the brain region of interest and a disease free reference region. A higher SUVR is an indication of increased PET radiotracer uptake and worsening disease.</description>
+          <units>Ratio of target and reference regions</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.32" lower_limit="1.23" upper_limit="1.40"/>
+                    <measurement group_id="O2" value="1.42" lower_limit="1.32" upper_limit="1.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.34" lower_limit="1.23" upper_limit="1.45"/>
+                    <measurement group_id="O2" value="1.46" lower_limit="1.34" upper_limit="1.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Global Standardized Uptake Value Ratio (SUVR) of [18F]T807</title>
+        <description>In-vivo tau-PET imaging was conducted using the radiotracer [18F]T807. SUVR is a ratio of PET uptake measured in the brain region of interest and a disease free reference region. A higher SUVR is an indication of increased PET radiotracer uptake and worsening disease.</description>
+        <time_frame>Baseline, 12 Months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Global Standardized Uptake Value Ratio (SUVR) of [18F]T807</title>
+          <description>In-vivo tau-PET imaging was conducted using the radiotracer [18F]T807. SUVR is a ratio of PET uptake measured in the brain region of interest and a disease free reference region. A higher SUVR is an indication of increased PET radiotracer uptake and worsening disease.</description>
+          <units>Ratio of target and reference regions</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.33" spread="0.05"/>
+                    <measurement group_id="O2" value="1.36" spread="0.04"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.34" spread="0.06"/>
+                    <measurement group_id="O2" value="1.34" spread="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Dementia Rating (CDR) Score</title>
+        <description>The CDR rates each of the six general domains involving memory, orientation, judgment and problem-solving, community affairs, home and hobbies, and personal care. An overall score, ranging from 0 to 3, can be calculated. A score of 0 = normal, 0.5 = very mild dementia, 1 = mild dementia, 2 = moderate dementia, and 3 = severe dementia.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Dementia Rating (CDR) Score</title>
+          <description>The CDR rates each of the six general domains involving memory, orientation, judgment and problem-solving, community affairs, home and hobbies, and personal care. An overall score, ranging from 0 to 3, can be calculated. A score of 0 = normal, 0.5 = very mild dementia, 1 = mild dementia, 2 = moderate dementia, and 3 = severe dementia.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.86" spread="0.15"/>
+                    <measurement group_id="O2" value="1.85" spread="0.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.18" spread="0.28"/>
+                    <measurement group_id="O2" value="2.21" spread="0.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>EXecutive Abilities: Measures and Instruments for Neurobehavioral Evaluation and Research (EXAMINER) Toolbox Composite Score</title>
+        <description>The EXAMINER toolbox battery includes 11 tasks that generate 15 primary variables. Within this set, the EXAMINER includes working memory, inhibition, set shifting, and fluency. The parts of EXAMINER that were used for this study include: Flanker task (inhibition) which involves responding to a central stimulus while ignoring flanking stimuli that are either compatible or incompatible with the central stimulus; Set-shifting, a measure of mental flexibility; Spatial 1-Back test assesses spatial working memory; Dot Counting test assesses verbal working memory; Verbal Fluency tested using a List Generation test which require the participant to generate words beginning with a specific letter, and category fluency in which the participant generates words from a specified category (e.g., animals, fruits). A composite score is calculated where scores range from -1 to +1 and higher are reflective of better executive function.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>EXecutive Abilities: Measures and Instruments for Neurobehavioral Evaluation and Research (EXAMINER) Toolbox Composite Score</title>
+          <description>The EXAMINER toolbox battery includes 11 tasks that generate 15 primary variables. Within this set, the EXAMINER includes working memory, inhibition, set shifting, and fluency. The parts of EXAMINER that were used for this study include: Flanker task (inhibition) which involves responding to a central stimulus while ignoring flanking stimuli that are either compatible or incompatible with the central stimulus; Set-shifting, a measure of mental flexibility; Spatial 1-Back test assesses spatial working memory; Dot Counting test assesses verbal working memory; Verbal Fluency tested using a List Generation test which require the participant to generate words beginning with a specific letter, and category fluency in which the participant generates words from a specified category (e.g., animals, fruits). A composite score is calculated where scores range from -1 to +1 and higher are reflective of better executive function.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.03" spread="0.11"/>
+                    <measurement group_id="O2" value="-0.05" spread="0.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.18" spread="0.14"/>
+                    <measurement group_id="O2" value="0.04" spread="0.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.07" spread="0.14"/>
+                    <measurement group_id="O2" value="-0.06" spread="0.14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hopkins Verbal Learning Test (HVLT) Delayed Recall Score</title>
+        <description>The Hopkins Verbal Learning Test (HVLT) is used to assess memory domains. Participants are read a list of 12 words and are asked to recall as many as they can remember. This is repeated for 3 trials followed by a 20 minute delay, and then participants are asked to recall as many words as they can. The delayed recall score ranges from 0 to 12 and higher scores indicate better memory.</description>
+        <time_frame>Baseline, Month 6, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hopkins Verbal Learning Test (HVLT) Delayed Recall Score</title>
+          <description>The Hopkins Verbal Learning Test (HVLT) is used to assess memory domains. Participants are read a list of 12 words and are asked to recall as many as they can remember. This is repeated for 3 trials followed by a 20 minute delay, and then participants are asked to recall as many words as they can. The delayed recall score ranges from 0 to 12 and higher scores indicate better memory.</description>
+          <units>number of words recalled</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.83" spread="0.53"/>
+                    <measurement group_id="O2" value="5.29" spread="0.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.40" spread="0.52"/>
+                    <measurement group_id="O2" value="5.08" spread="0.51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.10" spread="0.52"/>
+                    <measurement group_id="O2" value="5.39" spread="0.51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Trail Making Test (TMT) Part B</title>
+        <description>The Trail Making Test assesses executive function. In Part B of the TMT participants connect circles labeled with letters and numbers, in ascending order. The score is the amount of time it takes for the participant to complete the task. The average time is 75 seconds and times greater than 273 seconds indicate a deficit with executive function.</description>
+        <time_frame>Baseline, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Trail Making Test (TMT) Part B</title>
+          <description>The Trail Making Test assesses executive function. In Part B of the TMT participants connect circles labeled with letters and numbers, in ascending order. The score is the amount of time it takes for the participant to complete the task. The average time is 75 seconds and times greater than 273 seconds indicate a deficit with executive function.</description>
+          <units>seconds</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="149.44" spread="14.00"/>
+                    <measurement group_id="O2" value="142.93" spread="13.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="122.04" spread="13.49"/>
+                    <measurement group_id="O2" value="152.91" spread="13.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="148.06" spread="16.01"/>
+                    <measurement group_id="O2" value="152.96" spread="15.65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Trail Making Test (TMT) Part B - A</title>
+        <description>In Part A of the TMT participants connect circles labeled with numbers, in ascending order. The score is the amount of time it takes for the participant to complete the task. The TMT Part A score reflects visuoperceptual abilities and subtracting the score for Part A from the score from Part B provides a more accurate assessment of executive function. Lower scores indicate greater executive function.</description>
+        <time_frame>Baseline, Month 6, Month 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Candesartan</title>
+            <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Trail Making Test (TMT) Part B - A</title>
+          <description>In Part A of the TMT participants connect circles labeled with numbers, in ascending order. The score is the amount of time it takes for the participant to complete the task. The TMT Part A score reflects visuoperceptual abilities and subtracting the score for Part A from the score from Part B provides a more accurate assessment of executive function. Lower scores indicate greater executive function.</description>
+          <units>seconds</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="108.08" spread="14.06"/>
+                    <measurement group_id="O2" value="91.56" spread="13.87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="81.59" spread="11.56"/>
+                    <measurement group_id="O2" value="102.38" spread="11.45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Month 12</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="103.64" spread="13.90"/>
+                    <measurement group_id="O2" value="103.50" spread="13.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Information on adverse events was collected for the duration of each participant's study enrollment, from the time that individuals gave consent to participate through their final study visit (up to 12 months).</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Candesartan</title>
+          <description>Participants receiving candesartan given orally once a day in a stepwise manner. Participants were initiated on 8 mg candesartan. The dose was increased in 2 week increments to 16 mg and 32 mg, as tolerated. The highest achievable dose was the Maximal Tolerated Dose (MTD) and the participant received this dose for the remaining duration of the study (12 months total).</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Participants receiving a placebo to match candesartan once a day orally for 12 months.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="20" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Fatigue, tiredness, weakness</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Lightheadedness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Pain at back of head</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Vasovagal syncope</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Runny nose</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Joint pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Panic attack</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Ihab Hajjar, MD</name_or_title>
+      <organization>Emory University</organization>
+      <phone>404-712-7250</phone>
+      <email>ihabhajjar@emory.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

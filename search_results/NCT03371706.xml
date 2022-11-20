@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2924">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03371706</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STU00206086</org_study_id>
+    <secondary_id>1R01AG055425-01A1</secondary_id>
+    <nct_id>NCT03371706</nct_id>
+  </id_info>
+  <brief_title>Communication Bridge: A Person-centered Internet-based Intervention for Individuals With Primary Progressive Aphasia</brief_title>
+  <official_title>Communication Bridge: A Person-centered Internet-based Intervention for Individuals With Primary Progressive Aphasia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will use a randomized controlled trial design to evaluate the effect of two&#xD;
+      evidence-based treatments for adults with mild Primary Progressive Aphasia (PPA). The aim of&#xD;
+      the study is to help us better understand the effects of speech language therapy on&#xD;
+      communication abilities in individuals with PPA.&#xD;
+&#xD;
+      Participants with a diagnosis of PPA and their actively-engaged care partners will be&#xD;
+      involved in the study for 12 months. Each participant will receive a laptop equipped with the&#xD;
+      necessary applications and features for the study. Participants will receive 5 evaluations&#xD;
+      and 15 speech therapy sessions with a licensed speech therapist, as well as access to&#xD;
+      Communication Bridge, a personalized web application to practice home exercises that&#xD;
+      reinforce treatment strategies. There are no costs to participate in this study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 3, 2018</start_date>
+  <completion_date type="Anticipated">April 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>NIH Stage 2 behavioral clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Communication Confidence PROM</measure>
+    <time_frame>5 assessment time points through study completion, an average of 1 year, including change over time</time_frame>
+    <description>Communication Confidence Rating Scale in Aphasia, a 0-100 numeric rating scale with 0 representing 'not confident' and 100 representing 'very confident'. Higher scores indicate greater confidence.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Communication Participation PROM</measure>
+    <time_frame>5 assessment time points through study completion, an average of 1 year, including change over time</time_frame>
+    <description>Communication Participation Item Bank, a 4-point rating scale with 0 representing 'very much' and 3 representing 'not at all'. Higher scores indicate greater severity of communication challenges.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Communication Participation Person Centered Goals</measure>
+    <time_frame>5 assessment time points through study completion, an average of 1 year, including change over time</time_frame>
+    <description>Goal Attainment Scaling, a 7-point rating scale with -3 representing 'no longer participating' and +3 representing 'exceeded goal'. Higher scores indicate better progress in goal achievement.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Change in Word accuracy (trained words)</measure>
+    <time_frame>5 assessment time points through study completion, an average of 1 year, including change over time</time_frame>
+    <description>Percent accuracy on trained words</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Script accuracy (trained scripts)</measure>
+    <time_frame>5 assessment time points through study completion, an average of 1 year, including change over time</time_frame>
+    <description>Percent accuracy on trained scripts</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">95</enrollment>
+  <condition>Primary Progressive Aphasia</condition>
+  <arm_group>
+    <arm_group_label>Communication Bridge™</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive Communication Bridge™, a multi-component, participation-focused, dyadic intervention in which both the person with PPA and their co-enrolled communication partner are intervention recipients. Communication Bridge™ is modelled on the Living with Aphasia: Framework for Outcome Measurement (A-FROM) and the Care Pathway Model that was developed for persons living with primary progressive aphasia. Consistent with participation-focused intervention models personally salient training stimuli are incorporated into all therapy activities in the Experimental arm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Evidence-Based Impairment Focused</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The Control arm includes a non-dyadic intervention in which the person with PPA is the active intervention recipient and their communication partner is in a supporting role. In the Control arm, participants receive a speech-language intervention designed to address impairment and functional limitations, comprised of activities that address word retrieval and 'automatic' speech production using fixed, non-personalized, stimuli across participants.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Communication Bridge™</intervention_name>
+    <description>Evidence-based speech language therapy treatment will be compared and contrasted in the two arms of the study.</description>
+    <arm_group_label>Communication Bridge™</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Evidence-Based Impairment Focused</intervention_name>
+    <description>Evidence-based speech language therapy treatment will be compared and contrasted in the two arms of the study.</description>
+    <arm_group_label>Evidence-Based Impairment Focused</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (person with PPA):&#xD;
+&#xD;
+          1. Meets diagnostic criteria for PPA based on neurologist and supporting medical&#xD;
+             assessments (extracted from medical records)&#xD;
+&#xD;
+          2. English as primary language used in daily communication activities (by self-report)&#xD;
+&#xD;
+          3. Adequate hearing (aided or unaided) for communicating with others in a crowded room&#xD;
+             (by self-report)&#xD;
+&#xD;
+          4. Adequate vision (aided or unaided) for reading a newspaper, or other functional&#xD;
+             materials (by self-report)&#xD;
+&#xD;
+          5. Able to pass technology screening and demonstrates sufficient knowledge for use of&#xD;
+             video conference and Communication Bridge™ web application use (with or without&#xD;
+             training)&#xD;
+&#xD;
+          6. Geriatric Depression Scale score ≤ 9&#xD;
+&#xD;
+          7. Mild-moderate PPA informed by a structured interview with a speech-language&#xD;
+             pathologist and a standardized testing battery.&#xD;
+&#xD;
+        Inclusion Criteria (Co-enrolled communication partner):&#xD;
+&#xD;
+          1. 18+ years of age&#xD;
+&#xD;
+          2. English as primary language used in daily communication activities (by self-report)&#xD;
+&#xD;
+          3. Adequate hearing (aided or unaided) for communicating with others in a crowded room&#xD;
+             (by self-report)&#xD;
+&#xD;
+          4. Able to pass technology screening* and demonstrates sufficient knowledge for use of&#xD;
+             video conference and Communication Bridge™ web application use (with or without&#xD;
+             training)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A dementia diagnosis other than Primary Progressive Aphasia&#xD;
+&#xD;
+          -  Participation is co-enrolled in an outside speech language therapy program during the&#xD;
+             study course.&#xD;
+&#xD;
+          -  Communication partners will be excluded if they have a pre-existing communication&#xD;
+             impairment that would affect study participation (e.g., aphasia, dementia)&#xD;
+&#xD;
+        Medical records will be requested and reviewed to determine eligibility.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Emily Rogalski, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mesulam Center for Cognitive Neurology and Alzheimer's Disease - Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>December 8, 2017</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 13, 2017</study_first_posted>
+  <last_update_submitted>November 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Emily Rogalski</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>aphasia</keyword>
+  <keyword>primary progressive aphasia</keyword>
+  <keyword>dementia</keyword>
+  <keyword>communication</keyword>
+  <keyword>frontotemporal dementia</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aphasia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Publication of study protocol manuscript prior to enrolling final participant. Communication Bridge Manual of Procedures upon publication of study protocol or when final participant completes all study procedures (whichever comes later). Statistical Analysis Plan to be published with study protocol. Informed Consent Form available immediately</ipd_time_frame>
+    <ipd_access_criteria>With approval of study administration team, with the exception of documents that will be made available to the public following study completion (manual of procedures). Analyzed and processed data will be available by request with an approved Collaborator Agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

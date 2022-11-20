@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1903">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04932473</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ALFAsleep-BBRC2018</org_study_id>
+    <nct_id>NCT04932473</nct_id>
+  </id_info>
+  <brief_title>ALFAsleep: Exploring Cognitive and Biological Correlates of Sleep Quality and Their Potential Links With Alzheimer's Disease</brief_title>
+  <official_title>ALFAsleep: Exploring Cognitive and Biological Correlates of Sleep Quality and Their Potential Links With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Barcelonabeta Brain Research Center, Pasqual Maragall Foundation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Barcelonabeta Brain Research Center, Pasqual Maragall Foundation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main goal of this study is to perform a multimodal characterization of brain structural&#xD;
+      and functional changes, as well as changes in Alzheimer's disease (AD) biomarkers, as a&#xD;
+      function of sleep quality measures. Cross-sectional data will enable us to confirm and expand&#xD;
+      previous knowledge in a large and well-phenotyped population, while longitudinal data will&#xD;
+      allow us to test the hypothesis of the existence of a bidirectional relationship between&#xD;
+      sleep quality and AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The main goal of this study is to perform a multimodal characterization of brain structural&#xD;
+      and functional changes, as well as changes in Alzheimer's disease (AD) biomarkers, as a&#xD;
+      function of sleep quality measures. Cross-sectional data will enable us to confirm and expand&#xD;
+      previous knowledge in a large and well-phenotyped population, while longitudinal data will&#xD;
+      allow us to test the hypothesis of the existence of a bidirectional relationship between&#xD;
+      sleep quality and AD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">January 26, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sleep quality</measure>
+    <time_frame>up to 2 weeks</time_frame>
+    <description>Actigraphy-derived sleep quality measures</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Cognitively Unimpaied</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        A total of 200 participants from the BBRC ALFA+ study (ALFA - FPM - 0311) will be selected&#xD;
+        based on their core AD biomarker profile to characterize their sleep quality with objective&#xD;
+        (actigraphy and RUSleeping RTS) and subjective measures.&#xD;
+&#xD;
+        Participants will be classified into two different groups, based on previously established&#xD;
+        CSF biomarkers cut off values, as follows: 1) Controls: individuals with CSF Aβ42/ Aβ40&#xD;
+        ratio &gt; 0.071 ng/mL (considered as without altered AD biomarkers). 2) Preclinical AD:&#xD;
+        individuals with CSF Aβ42/ Aβ40 ratio 0.071 ≤ ng/mL (considered as with evidence of brain&#xD;
+        amyloidosis). However, it must be noted that thresholds for core biomarker abnormalities in&#xD;
+        preclinical AD, is an ongoing field of research and that these thresholds may vary with the&#xD;
+        addition of novel data/evidence resulting from our group and others.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects that are currently participating in the ALFA+ study (cognitively healthy&#xD;
+             adults aged between 45-65 years at the moment of the inclusion in the 45-65/FPM2012&#xD;
+             study).&#xD;
+&#xD;
+          -  Subjects from whom CSF and/or neuroimaging biomarkers have been acquired during the&#xD;
+             last 36 months prior to their enrollment in the current study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of cognitive impairment.&#xD;
+&#xD;
+          -  Presence of clinically relevant neurological disorder, psychiatric disorder or other&#xD;
+             medical conditions that may jeopardize the interpretation of the study results&#xD;
+             according to the investigator criteria&#xD;
+&#xD;
+          -  For the PSG sub-study, participants currently treated with drugs that may interfere in&#xD;
+             PSG data interpretation (e.g. antidepressants or benzodiazepines).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Barcelonabeta Brain Research Center</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08005</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>June 2021</verification_date>
+  <study_first_submitted>June 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>June 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 21, 2021</study_first_posted>
+  <last_update_submitted>June 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>June 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

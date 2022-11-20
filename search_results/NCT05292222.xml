@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="166">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05292222</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A21-251</org_study_id>
+    <nct_id>NCT05292222</nct_id>
+  </id_info>
+  <brief_title>Transmagnetic Stimulation Pilot in Early Stage Alzheimer's Disease</brief_title>
+  <official_title>A Single Arm Study of Resting State Functional Magnetic Resonance Imaging (Rs-fMRI)-Guided Theta Burst Stimulation (TBS) in Early-Stage Alzheimer's Disease (AD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HealthPartners Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>HealthPartners Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease (AD) is a progressive neurodegenerative condition affecting 6.2 million&#xD;
+      individuals in the United States, resulting in an annual cost of care of $305 billion. AD is&#xD;
+      functionally characterized by progressive degeneration of large-scale brain networks (LSBNs),&#xD;
+      including the default mode network (DMN) presumably from the deposition of amyloid plaques&#xD;
+      and neurofibrillary tangles. Available FDA-approved medications for AD such as donepezil and&#xD;
+      memantine offer limited benefit and modest impact on quality of life. In combination with&#xD;
+      resting state functional MRI (rs-fMRI), transcranial magnetic stimulation (TMS) with&#xD;
+      intermittent theta burst stimulation (iTBS) offers a non-invasive alternative to&#xD;
+      pharmacotherapy in persons with AD. We propose a pilot trial using rs-fMRI to target&#xD;
+      dysfunctional LSBNs in early stage AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 17, 2022</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in connectivity measure of the TGd parcellations.</measure>
+    <time_frame>9 weeks</time_frame>
+    <description>Assessed by calculating the difference and corresponding 95% confidence interval between follow-up and baseline connectivity measures of the TGd parcellations. Range: -1 to 1.&#xD;
+Positive values indicate areas where connectivity is higher than healthy controls from the Human Connectome Project.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Intermittent theta burst stimulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All subjects will receive treatment with intermittent theta burst stimulation (iTBS). There will be a total of 5 treatments over a 2-week period. All subjects will receive iTBS to the right TGd region. TBS treatment will also be provided for two additional sites within the large-scale brain networks (LSBNs) that is found to contain the greatest number of connectivity anomalies. Total participation will be 10-12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Intermittent theta burst stimulation</intervention_name>
+    <description>MagVenture TMS Therapy with theta burst stimulation. Resting motor threshold: 80%; Number of pulses per session: 1200 pulses; Inter-train interval: 8 seconds; Pulse frequency in burst: 50 Hertz</description>
+    <arm_group_label>Intermittent theta burst stimulation</arm_group_label>
+    <other_name>Transmagnetic stimulation</other_name>
+    <other_name>MagVenture</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Established diagnosis of Mild Cognitive Impairment (MCI)/mild AD&#xD;
+&#xD;
+          -  Evidence for Central Nervous System (CNS) amyloidosis (e.g., Amyloid positron emission&#xD;
+             tomography (PET) or cerebrospinal fluid (CSF) biomarkers consistent with AD)&#xD;
+&#xD;
+          -  Prior brain imaging performed&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) &gt;24&#xD;
+&#xD;
+          -  Clinical Dementia Rating (CDR) Scale 0.5-1&#xD;
+&#xD;
+          -  Stable dose of cholinesterase inhibitors and memantine for at least one month&#xD;
+&#xD;
+          -  Subjects are between 40-90 years of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-AD dementia including, but not limited to, Lewy body dementia, frontotemporal&#xD;
+             dementia, vascular dementia, Jakob-Creutzfeldt disease, etc.&#xD;
+&#xD;
+          -  Inability to tolerate rs-fMRI&#xD;
+&#xD;
+          -  Contraindication of rs-fMRI due to implants or metal&#xD;
+&#xD;
+          -  Seizure disorder&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael H Rosenbloom, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HealthPartners Neurology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Research Coordinator</last_name>
+    <phone>651-495-6262</phone>
+    <email>ClinicalTrials@HealthPartners.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>HealthPartners Neuroscience Center</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trial Coordinator</last_name>
+      <phone>651-495-6363</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>March 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>March 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 23, 2022</study_first_posted>
+  <last_update_submitted>September 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>transmagnetic stimulation</keyword>
+  <keyword>functional MRI guided Theta Burst Stimulation</keyword>
+  <keyword>Early Stage</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No identifiable data will be shared with other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

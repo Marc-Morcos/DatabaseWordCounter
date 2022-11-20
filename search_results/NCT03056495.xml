@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="443">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03056495</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VostatAD01</org_study_id>
+    <secondary_id>2014-005311-17</secondary_id>
+    <nct_id>NCT03056495</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial to Determine Tolerable Dosis of Vorinostat in Patients With Mild Alzheimer Disease</brief_title>
+  <acronym>VostatAD01</acronym>
+  <official_title>Multicenter, Open-label Phase Ib Dose-escalation and Dose-confirmational Study for the Tolerability and Safety of N-hydroxy-N'-Phenyl-octanediamide (Vorinostat) in Patients With Mild Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>German Center for Neurodegenerative Diseases (DZNE)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital, Bonn</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Göttingen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>German Center for Neurodegenerative Diseases (DZNE)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Clinical Trial is an open, non-randomized Phase Ib study to determine the maximal&#xD;
+      tolerable dose (MTD) of Vorinostat in Alzheimer disease (AD) patients between (including) 55&#xD;
+      and 90 years with mild symptoms. The MTD in this study is defined as the dose that leads to&#xD;
+      maximum toxicity with Common Toxicity Criteria (CTC) grade 1 symptoms.The safety and&#xD;
+      tolerability of Vorinostat in this group of study participants should be tested.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The MTD of Vorinostat in the treatment of Alzheimer's patients is to be determined by using&#xD;
+      an open, non-randomized, multicentric dose-finding study with adaptive design. This Clinical&#xD;
+      Trial will take place in 2 parts.&#xD;
+&#xD;
+      The first part will be performed as a dose escalation part in cohorts of three subjects.&#xD;
+      Possible dosages will be: one, two, three or four capsules (100 mg per capsule) once per day.&#xD;
+      The first cohort receives a dose of 100 mg per day. After the treatment, a Vorinostat-free&#xD;
+      follow-up phase will take place. For the following cohorts, dose increases, a repetition of&#xD;
+      the previous dose or a dose reduction are possible.&#xD;
+&#xD;
+      After the dose escalation with a determination of the MTD, a dosage confirmation is carried&#xD;
+      out with additional subjects. The subjects are given a dose of Vorinostat of MTD over 4 weeks&#xD;
+      followed by a Vorinostat-free follow-up phase.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date type="Actual">September 28, 2017</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determination of the maximum-tolerated dose (MTD) in elderly subjects during dose escalation</measure>
+    <time_frame>12 months</time_frame>
+    <description>A MTD is defined as the highest dose with no &gt; grade 1 toxicity according to Common Toxicity Criteria (CTC).&#xD;
+The dose-limiting toxicity (DLT) is defined as the dose, which leads with a 30% chance of toxicity to CTC Grade 2 or higher and / or leads to corrected QT interval (QTc)≥480ms and/or increase of QTc &gt;= 50ms compared to baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment - Emergent Adverse Events (Safety)</measure>
+    <time_frame>during dose escalation and during 4 weeks treatment with MTD every week</time_frame>
+    <description>The analysis of safety assessments will include the following data collected for each subject:&#xD;
+- Adverse Events (AEs) in the context of Drug Exposure (days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of Vorinostat concentration in blood - pharmacokinetics</measure>
+    <time_frame>d21 by 4 weeks treatment with MTD</time_frame>
+    <description>Blood and plasma area under the concentration time curve of Vorinostat from time zero to 8 hours postdose.&#xD;
+The pharmacokinetic study will investigate the correlation between dose administered and concentration of Vorinostat in blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>association of alterations in the genome-wide transcriptome profile with the dose administered, toxicity and treatment response - pharmacodynamics</measure>
+    <time_frame>d21 by 4 weeks treatment with MTD</time_frame>
+    <description>The genome-wide transcriptome profile will be determined as a pharmacodynamic surrogate parameter. Alterations between baseline and after dose administered will be compared. The pharmacodynamic study will investigate the correlation between dose administered, alterations in the genome-wide transcriptome profile as well as treatment responses (memory performance) and toxicities.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Investigational drug</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>N-hydroxy-N'-phenyl-octanediamide (Vorinostat) capsules once a day, three weeks of treatment; dose escalation with different dosages per cohort; One cohort of three subjects</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>N-hydroxy-N'-phenyl-octanediamide (Vorinostat)</intervention_name>
+    <description>N-hydroxy-N'-phenyl-octanediamide capsules once a day, three weeks of treatment; dose escalation with different dosages per cohort; One cohort of three subjects</description>
+    <arm_group_label>Investigational drug</arm_group_label>
+    <other_name>Vorinostat</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  written informed consent to participate in the study&#xD;
+&#xD;
+          -  verified capacity to consent by a doctor not involved in the study&#xD;
+&#xD;
+          -  mild Alzheimer's disease (NINCDS / ADRDA criteria and Mini-Mental State Examination&#xD;
+             (MMSE) 22-27)&#xD;
+&#xD;
+          -  age (including) from 55 to 90 years&#xD;
+&#xD;
+          -  subjects must be able to meet the requirements described in the study protocol&#xD;
+&#xD;
+          -  outpatient living&#xD;
+&#xD;
+          -  Informant lives with subject in the same household&#xD;
+&#xD;
+          -  Rosen modified Hachinski ischemia score ≤4&#xD;
+&#xD;
+          -  concerning only female patients: postmenopausal&#xD;
+&#xD;
+          -  concerning only male patients: commitment to use a suitable contraceptive&#xD;
+&#xD;
+          -  cerebral imaging study (CT or cMRI), which is consistent with a diagnosis of probable&#xD;
+             Alzheimer's disease (not older than 3 years)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  other neurological and psychiatric diseases explaining cognitive deficits better than&#xD;
+             an AD diagnosis&#xD;
+&#xD;
+          -  conspicuous MRI / CCT scan explaining the cognitive deficits better than an AD&#xD;
+             diagnosis&#xD;
+&#xD;
+          -  severe physical, neurological or psychiatric disorders that interfere with the&#xD;
+             participation in the study&#xD;
+&#xD;
+          -  history of malignant tumors except non- metastasizing basal cell carcinoma of the skin&#xD;
+&#xD;
+          -  history of seizures&#xD;
+&#xD;
+          -  dysphagia leading to the inability to swallow capsules&#xD;
+&#xD;
+          -  untreated severe acute infections with clinical symptoms such as respiratory&#xD;
+             infections, pneumonia, bronchitis, acute diarrhea, influenza, untreated urinary tract&#xD;
+             infections&#xD;
+&#xD;
+          -  in the family history, unexplained sudden cases of heart failure before the age of 50&#xD;
+             years&#xD;
+&#xD;
+          -  long QT syndrome in the family history&#xD;
+&#xD;
+          -  evidence of QTc prolongation ≥480 ms at screening (Fridericia adjusted QT interval),&#xD;
+             of arrhythmias especially of severe uncontrolled ventricular arrhythmias or atrial&#xD;
+             fibrillation in ECG&#xD;
+&#xD;
+          -  not sufficiently treated angina&#xD;
+&#xD;
+          -  heart failure (NYHA III, IV)&#xD;
+&#xD;
+          -  myocardial infarction&#xD;
+&#xD;
+          -  known infection with HBV, HCV and / or HIV&#xD;
+&#xD;
+          -  occurrence of venous thrombosis or embolism&#xD;
+&#xD;
+          -  therapy with antidepressants begun in the last 12 weeks or dose modification of a&#xD;
+             pre-existing therapy with antidepressants&#xD;
+&#xD;
+          -  antidiabetic treatment begun in the last 12 weeks or dose modification of pre-existing&#xD;
+             antidiabetic treatment&#xD;
+&#xD;
+          -  long-term use of anti-inflammatory drugs except acetylsalicylic acid for&#xD;
+             cardiovascular prophylaxis&#xD;
+&#xD;
+          -  current treatment or treatment within the past 12 weeks with HDAC inhibitors (eg&#xD;
+             valproate)&#xD;
+&#xD;
+          -  taking medication that may increase the dose-dependent side effects myelosuppression&#xD;
+             or QTc interval prolongation.&#xD;
+&#xD;
+        These include, but are not limited to:&#xD;
+&#xD;
+          -  Class Ia antiarrhythmic agents such as quinidine, procainamide, disopyramide&#xD;
+&#xD;
+          -  Class III antiarrhythmic drugs such as amiodarone, sotalol, ibutilide&#xD;
+&#xD;
+          -  Class Ic antiarrhythmics such as flecainide, propafenone&#xD;
+&#xD;
+          -  penicillamine&#xD;
+&#xD;
+          -  opioids such as methadone and pyrazolone derivatives such as metamizole and&#xD;
+             Propyphenazone&#xD;
+&#xD;
+          -  doxorubicin, epirubicin&#xD;
+&#xD;
+          -  macrolides and their analogues such as erythromycin, clarithromycin&#xD;
+&#xD;
+          -  telithromycin&#xD;
+&#xD;
+          -  oxazolidinones such as linezolid&#xD;
+&#xD;
+          -  quinolones such as moxifloxacin, levofloxacin&#xD;
+&#xD;
+          -  fluoxetine, maprotiline&#xD;
+&#xD;
+          -  tricyclic and tetracyclic antidepressants&#xD;
+&#xD;
+          -  chlorpromazine, pimozide, haloperidol, droperidol, ziprasidone and clozapine&#xD;
+&#xD;
+          -  antiemetics&#xD;
+&#xD;
+          -  azole like ketoconazole, fluconazole, voriconazole&#xD;
+&#xD;
+          -  aminocholine such as primaquine&#xD;
+&#xD;
+          -  pentamidine such as quinine, chloroquine&#xD;
+&#xD;
+          -  diaminopyrimidine such as pyrimethamine&#xD;
+&#xD;
+          -  salbutamol and formoterol methotrexate&#xD;
+&#xD;
+          -  azathioprine, cyclosporine Interferon gamma 1b&#xD;
+&#xD;
+          -  alemtuzumab, basiliximab, efalizumab, natalizumab&#xD;
+&#xD;
+          -  sunitinib, nilotinib, lapatinib&#xD;
+&#xD;
+          -  mitoxantrone, Hydroxycarbamide, mercaptopurine&#xD;
+&#xD;
+          -  taking of prescription and non-prescription drugs for cognitive enhancement (except&#xD;
+             cholinesterase inhibitors and memantine at a stable dose for at least 3 months before&#xD;
+             baseline)&#xD;
+&#xD;
+          -  therapy with anticoagulants except acetylsalicylic acid&#xD;
+&#xD;
+          -  HbA1c in screening more than 10% above the upper limit of normal&#xD;
+&#xD;
+          -  magnesium, sodium, calcium and potassium levels outside the normal range (at screening&#xD;
+             and baseline)&#xD;
+&#xD;
+          -  existing anemia with Hb &lt;11 (at screening and baseline)&#xD;
+&#xD;
+          -  existing thrombocytopenia; platelet ≤150.000 / ul, leukocytes ≤ 3.000 / ul,&#xD;
+             neutrophils absolutely ≤ 1.500 / ul (at screening and baseline)&#xD;
+&#xD;
+          -  prothrombin or INR ≥ 1.5 above the laboratory limit of normal; PTT ≥ 1.5 x above the&#xD;
+             laboratory limit of normal (at screening and baseline)&#xD;
+&#xD;
+          -  clinically relevant renal and / or hepatic impairment at screening and baseline (total&#xD;
+             bilirubin ≥ 1.5 x above the upper limit of the norm and / or GPT, AST ≥ 4x above the&#xD;
+             upper limit of the norm and / or creatinine ≥ 1.5x above the upper limit of the norm&#xD;
+             and / or creatinine clearance &lt;60 ml / min)&#xD;
+&#xD;
+          -  hematuria&gt; 15 RBCs / mL at screening and baseline&#xD;
+&#xD;
+          -  proteinuria at screening and baseline except in asymptomatic urinary tract infections&#xD;
+&#xD;
+          -  participating in other clinical and therapeutic trials within the last 12 weeks&#xD;
+&#xD;
+        relevant only for dose confirmation:&#xD;
+&#xD;
+          -  subjects with existing contraindications for performing an MRI if no MRI available&#xD;
+             from the period of 6 months prior to screening&#xD;
+&#xD;
+          -  cardiac pacemaker&#xD;
+&#xD;
+          -  metal objects in the body, which exclude a 1.5 or 3 T MRI&#xD;
+&#xD;
+          -  claustrophobia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sandra Kuhs, Dr. rer. nat.</last_name>
+    <phone>0049-228-43302-846</phone>
+    <email>sandra.kuhs@dzne.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>German Center for Neurodegenerative Diseases</name>
+      <address>
+        <city>Bonn</city>
+        <zip>53127</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anja Schneider, Prof. Dr. med.</last_name>
+      <phone>0049-228-287-1137</phone>
+      <email>anja.schneider@dzne.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Göttingen, Department of Psychiatry and Psychotherapy</name>
+      <address>
+        <city>Göttingen</city>
+        <zip>37075</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jens Wiltfang, Prof. Dr. med.</last_name>
+      <phone>0049-551-3966601</phone>
+      <email>jens.wiltfang@med.uni-goettingen.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>July 2019</verification_date>
+  <study_first_submitted>December 27, 2016</study_first_submitted>
+  <study_first_submitted_qc>February 14, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 17, 2017</study_first_posted>
+  <last_update_submitted>July 31, 2019</last_update_submitted>
+  <last_update_submitted_qc>July 31, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 1, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vorinostat</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

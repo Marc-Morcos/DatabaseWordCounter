@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="204">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05016427</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GB301-A01</org_study_id>
+    <nct_id>NCT05016427</nct_id>
+  </id_info>
+  <brief_title>A Study of Possibility of Using Regulatory T Cells(VT301) for Treatment of Alzheimer's Disease</brief_title>
+  <official_title>A Phase 1 Open-Label Dose-Escalating Study to Determine the Safety, and Tolerability of VT301 in Subjects With Mild-to-Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VTBIO Co. LTD</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VTBIO Co. LTD</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall study methods are as follows.&#xD;
+&#xD;
+      [Clinical Trials Schedules] The study consists of a screening period(Visit 1) of up to 30 to&#xD;
+      50 days, blood collection visits(Visit 2) for IP generation and administration visits for IP&#xD;
+      administration(Visit 3), with a follow-up(FU) period of 90 days(Visit 4~7). During the&#xD;
+      Follow-up(FU) Period, subjects will visit 4 times for safety, tolerability and efficacy&#xD;
+      evaluation, with 90 Day being the End of Study(EOS) Visit.&#xD;
+&#xD;
+      [Subject screening and blood collection for IP generation] During Screening Period, subjects&#xD;
+      will be informed about the study and asked if they want to participate. The subjects and&#xD;
+      representatives and the caregiver/study partner will be asked to sign consent forms before&#xD;
+      any study-specific procedures are performed. Screening procedures will be performed to assess&#xD;
+      whether the subject is eligible to participate in the study. A minimum of approximately 200&#xD;
+      mL of the subject's blood will be collected ≥30 days before Baseline and shipped to the IP&#xD;
+      Manufacturing Agency for generation of the IP. Subjects are required to refrain from&#xD;
+      consuming alcohol ≥3 days before any blood samples for IP generation are collected. If&#xD;
+      required (e.g. due to contamination), additional blood samples for IP generation may be&#xD;
+      collected during an unscheduled visit.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All Adverse Events(AE) that occurred from the time of acquisition of consent of the subjects to the time of EOS(End of Study) shall be collected.</measure>
+    <time_frame>Change from Baseline AE at 3 months</time_frame>
+    <description>The collected AE (or ADR) should be monitored until possible recovery (or the investigator is determined to be normalized) or until the EOS can be determined to be meaningless for further monitoring.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of subjects with abnormal clinical Physical examination</measure>
+    <time_frame>Change from Baseline Physical examination at 3 months</time_frame>
+    <description>The number of subjects with normal and abnormal Physical examination findings will be summarized for each treatment group at each time point. Clinical significance was determined by the investigator.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of subjects With Clinically Significant Abnormalities in 12-lead Electrocardiogram</measure>
+    <time_frame>Change from Baseline 12-lead Electrocardiogram at 3 months</time_frame>
+    <description>The number of subjects with normal and abnormal ECG findings will be summarized for each treatment group at each time point. Clinical significance was determined by the investigator.&#xD;
+ECG measures PR interval (ms), QRS interval, QT interval(ms), QTc interval (ms), and heart rate(bpm) for each treatment group at each time point.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of subjects with abnormal clinical Laboratory Tests</measure>
+    <time_frame>Change from Baseline clinical Laboratory Tests at 3 months</time_frame>
+    <description>The number of subjects with normal and abnormal Laboratory Tests findings will be summarized for each treatment group at each time point. Clinical significance was determined by the investigator.&#xD;
+Blood and urine samples will be collected for the assessment of following clinical Laboratory Tests</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of subjects with abnormal vital signs</measure>
+    <time_frame>Change from Baseline vital signs at 3 months</time_frame>
+    <description>Vital signs, including height (only assessed at Screening), weight, systolic and diastolic blood pressure, heart rate, and body temperature, will be measured after the subject has been in a sitting position for 5 minutes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Screening &quot;Questionnaire: Columbia Suicide Severity Rating Scale(C-SSRS)&quot; at 90 days</measure>
+    <time_frame>Change from Baseline C-SSRS at 3 months</time_frame>
+    <description>C-SSRS will be assessed for the risk of suicide by an interview with the subject.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline &quot;Questionnaire: Alzheimer's Disease Assessment Scale-Cognitive Subscale-13 task(ADAS-Cog-13)&quot; at 90 days</measure>
+    <time_frame>Change from Baseline ADAS-Cog-13 at 3 months</time_frame>
+    <description>ADAS-Cog-13 will be assessed for cognitive evaluation by interviews with the subject and caregiver/study partner.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline &quot;Questionnaire: Alzheimer's Disease Cooperative Study-Activities of Daily Living(ADCS-ADL)&quot; at 90 days</measure>
+    <time_frame>Change from Baseline ADCS-ADL at 3 months</time_frame>
+    <description>ADCS-ADL will be assessed by caregiver/study partner interview regarding activities of daily living of the subject.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Screening &quot;Questionnaire: Mini-Mental State Examination(MMSE)&quot; at 90 days.</measure>
+    <time_frame>Change from Baseline MMSE at 3 months</time_frame>
+    <description>MMSE will be assessed for the evaluation of cognitive function and severity of the disease by an interview with the subject.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Screening &quot;Questionnaire: Clinical Dementia Rating(CDR)&quot; at 90 days.</measure>
+    <time_frame>Change from Baseline CDR at 3 months</time_frame>
+    <description>CDR will be assessed for severity of the disease evaluation by interviews with the subject and caregiver/study partner.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>VT301(low dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>VT301 low dose: 8.5x10^4 cells/kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>VT301(high dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>VT301 high dose: 1.7x10^5 cells/kg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VT301</intervention_name>
+    <description>VT301 is off-white suspension of regulatory T cells (Tregs) (1.7x10^5 cells/kg±15%) for injection diluted with sterile saline solution and supplied in clear, colorless, polypropylene vials.</description>
+    <arm_group_label>VT301(high dose)</arm_group_label>
+    <arm_group_label>VT301(low dose)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female 79≥ aged ≥50 years at the time of signing Informed Consent Form.&#xD;
+&#xD;
+          2. Patients (or their legally acceptable representative) can understand and provide&#xD;
+             informed consent to participate in the study.&#xD;
+&#xD;
+          3. Diagnosis of mild-to-moderate AD according to National Institute of Aging and&#xD;
+             Alzheimer Association (NIA-AA) diagnostic guidelines.&#xD;
+&#xD;
+          4. Mild-to-moderate AD with MMSE ≥ 10 points and CDR Global Score (CDR-GS) of 0.5 to 2.0&#xD;
+             points at Screening.&#xD;
+&#xD;
+          5. Have ≥1 identified adult caregiver (study partner) who is able to read, understand,&#xD;
+             and speak the designated language at the study site; either lives with the subject or&#xD;
+             sees the subject for ≥8 hours/week; and agrees to accompany the subject to each study&#xD;
+             visit and participate in clinical assessments.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A medical history of any of the following:&#xD;
+&#xD;
+               1. Stroke, transient ischemic attack (TIA), or unexpected loss of consciousness&#xD;
+                  within one year at Screening.&#xD;
+&#xD;
+               2. Clinically significant cerebral hemorrhage, bleeding lesion, or cerebrovascular&#xD;
+                  abnormality.&#xD;
+&#xD;
+               3. Malignant tumor within 5 years at Screening (no time limit for stable&#xD;
+                  non-metastatic prostate cancer or completely resected non-melanoma skin cancer of&#xD;
+                  6 months or longer).&#xD;
+&#xD;
+               4. Unable to perform MRI tests by enthesis/transplantation of metallic substances&#xD;
+                  (metallic bone fixings, heart devices, etc.) in the body.&#xD;
+&#xD;
+               5. Allergic or hypersensitive to the treatment of regulatory T cell components.&#xD;
+&#xD;
+          2. Patients who have any of the following accompanying diseases/symptoms:&#xD;
+&#xD;
+               1. Medical conditions or neurological/neural degenerative disease (excluding AD)&#xD;
+                  considered to cause cognitive impairment or to affect the evaluation of clinical&#xD;
+                  trials (discontinuation, nonconformity, interference, etc.) in the judgment of&#xD;
+                  the investigator.&#xD;
+&#xD;
+               2. History of clinically significant gastrointestinal, endocrine, inflammatory or&#xD;
+                  cardiovascular disease that is not controlled by drug/non-drug treatment.&#xD;
+&#xD;
+               3. History of mental illness (e.g., schizophrenia, major depression disorder,&#xD;
+                  bipolar disorder, delirium, etc.) that is considered to affect participation in&#xD;
+                  clinical trials under the judgment of the investigator.&#xD;
+&#xD;
+               4. History of alcohol or drug abuse or dependence (except caffeine or nicotine).&#xD;
+&#xD;
+               5. Vision, hearing, or mobility (behavior) has deteriorated to a degree that&#xD;
+                  interferes with or is unable to perform clinical trial procedures.&#xD;
+&#xD;
+               6. Hypersensitive to bee venom.&#xD;
+&#xD;
+               7. High blood pressure who are not controlled by drug/non-drug treatment (SBP &gt; 165&#xD;
+                  mmHg or DBP &gt; 96 mmHg).&#xD;
+&#xD;
+               8. Hypersensitive to gentamycin.&#xD;
+&#xD;
+          3. Patients who have any of the following abnormal lab values at Screening:&#xD;
+&#xD;
+               1. Urine Drug Screening Test: positive.&#xD;
+&#xD;
+               2. Hepatitis B virus surface Antigen (HBsAg): positive.&#xD;
+&#xD;
+               3. Anti-Hepatitis C Virus (Anti-HCV): positive.&#xD;
+&#xD;
+               4. Anti- Human Immunodeficiency Virus (Anti-HIV): positive.&#xD;
+&#xD;
+               5. Sensitization test for bee venom: positive.&#xD;
+&#xD;
+               6. Serious renal dysfunction: Serum Creatinine ≥ 1.7 mg/dL.&#xD;
+&#xD;
+               7. Clinically significant hepatic dysfunction (one or more of the following):.&#xD;
+&#xD;
+                    -  Serum Alanine Transaminase (ALT) ≥ 2 x upper limit of normal (ULN)&#xD;
+&#xD;
+                    -  Serum Aspartate Transaminase (AST) ≥ 2 x ULN&#xD;
+&#xD;
+                    -  Serum Bilirubin ≥ organ ULN x 2&#xD;
+&#xD;
+          4. The person with the following drug or need to be administered during the clinical&#xD;
+             trial period:&#xD;
+&#xD;
+               1. Acetylcholine Esterase(AChE) inhibitor, N-methyl-D-aspartate(NMDA) receptor&#xD;
+                  antagonist, or a co-administration of these two drugs (Except if the dose was&#xD;
+                  started more than 90 days before the date of the acquisition of the consent form&#xD;
+                  and can be maintained reliably during administration and clinical trials without&#xD;
+                  changing the dose for more than 60 days).&#xD;
+&#xD;
+                    -  However, the drug corresponding to (a) shall not be duplicated in (b).&#xD;
+&#xD;
+               2. Drugs affecting the central nervous system (However, the dose was administered&#xD;
+                  stably 30 days prior to the date of the acquisition of the consent form, except&#xD;
+                  if it can be maintained during the clinical trial period).&#xD;
+&#xD;
+               3. Drugs that are not properly administered during the clinical trial period as&#xD;
+                  determined by the other investigator's.&#xD;
+&#xD;
+          5. The person with the following one or more applicable:&#xD;
+&#xD;
+               1. A female subject who is pregnant or breast-feeding.&#xD;
+&#xD;
+               2. Fertile female@ subjects who have plans for pregnancy or do not use effective&#xD;
+                  contraception method# during clinical trials period.&#xD;
+&#xD;
+               3. A male subject who does not undergo surgical sterilization procedures or surgery&#xD;
+                  without effective contraception method# (with a Fertile female@ partner).&#xD;
+&#xD;
+                    -  A fertile women is a women whose menopause has not occurred since the first&#xD;
+                       menstrual and who has not undergone surgical sterilization procedures or&#xD;
+                       surgery. Non-fertile women are defined as having one or more of the&#xD;
+                       following:&#xD;
+&#xD;
+                         -  12 months of natural menopause.&#xD;
+&#xD;
+                              -  For natural menopause for 6 months, the concentration of hCG(human&#xD;
+                                 Chorionic Gonadotropin) in the blood is 0 to 5 mIU/mL.&#xD;
+&#xD;
+                                   -  In case of surgical sterilization procedures or surgery&#xD;
+                                      (bilateral ovariectomy, bilateral tubal ligation, etc.)&#xD;
+&#xD;
+                                        -  Effective contraception methods recognized in this&#xD;
+                                           clinical trial are as follows:&#xD;
+&#xD;
+                         -  Combining either hormonal contraceptives(subdermal implant agents,&#xD;
+                            injections, oral contraceptive, etc.) or spermicide with physical&#xD;
+                            barrier method(condom, contraceptive vaginal diaphragm, vaginal sponge,&#xD;
+                            cervical cap).&#xD;
+&#xD;
+                              -  Transplantation of intrauterine device(IUD) or intrauterine&#xD;
+                                 system(copper-loop, hormone-containing intrauterine system).&#xD;
+&#xD;
+                                   -  Both male(condom) and female(contraceptive vaginal diaphragm,&#xD;
+                                      vaginal sponge, or cervical cap) use physical barrier method.&#xD;
+&#xD;
+                                        -  surgical sterilization procedures or surgery (bilateral&#xD;
+                                           ovariectomy, bilateral tubal ligation, etc.)&#xD;
+&#xD;
+          6. A person who has blood donation within 30 days of the date of the acquisition of the&#xD;
+             consent form.&#xD;
+&#xD;
+          7. A person who has participated in another clinical trial within 60 days from the time&#xD;
+             of the acquisition of the consent form and has been given a investigational&#xD;
+             product(IP) or applied a clinical trial medical instrument.&#xD;
+&#xD;
+          8. Other persons who are not qualified to participate in clinical trials under the&#xD;
+             judgment of the investigator's.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>79 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Vtbio Co., Ltd</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>hansaem Son</last_name>
+      <phone>+82-2-553-9777</phone>
+      <email>hsson@vtbio.co.kr</email>
+    </contact>
+    <investigator>
+      <last_name>dongyoung Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>July 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 23, 2021</study_first_posted>
+  <last_update_submitted>August 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

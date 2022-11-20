@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1035">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01315639</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P081205</org_study_id>
+    <nct_id>NCT01315639</nct_id>
+  </id_info>
+  <brief_title>New Biomarker for Alzheimer's Disease Diagnostic</brief_title>
+  <acronym>BALTAZAR</acronym>
+  <official_title>Plasma Abeta Peptides and the Risk of Alzheimer's Disease. Diagnostic Performance and Predictive and Prognostic Values of Measurements of Plasma Amyloid Peptides Concentrations for the Diagnosis of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to examine the relationship between plasma putative biomarkers for&#xD;
+      Alzheimer's disease (i.e. Ab40 amyloid and total Ab42 amyloid, free, bound, free/bound,&#xD;
+      truncated, sAPPα) and :&#xD;
+&#xD;
+        -  the risk of conversion of individuals with Mild Cognitive Impairment (MCI) into&#xD;
+           Alzheimer's disease (AD),&#xD;
+&#xD;
+        -  the Alzheimer's disease progression rate.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rational Whether there are biological markers of Alzheimer's disease (AD) is crucial for&#xD;
+      adequate targeting and appropriate management of the disease. The aim of our study is to&#xD;
+      examine diagnostic performance and predictive and prognostic values of new plasma markers of&#xD;
+      AD.&#xD;
+&#xD;
+      Results of studies on the predictive value of plasma concentrations of Aβ40 and 42 amyloid&#xD;
+      peptides for incident AD are not straightforward. Discrepancies in these results may be due&#xD;
+      to the fact that total peptide concentrations have been measured. One recent study suggests&#xD;
+      that plasma free Aβ peptide concentration and particularly low-density lipoprotein&#xD;
+      receptor-related protein (LPR) as like as free Aβ/total Aβ ratio would be more reliable and&#xD;
+      discriminant.&#xD;
+&#xD;
+      Main objective of the study To examine the association between plasma free Aβ peptide&#xD;
+      concentration and (1) the risk of conversion of subjects with Mild Cognitive Impairment (MCI)&#xD;
+      into Alzheimer's disease (AD) and (2) the risk of worsening of the disease in patients with&#xD;
+      mild and moderate stages of AD.&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        -  To examine the association of total peptid Aβ concentration, free Aβ/Total Aβ ratio, and&#xD;
+           trunked plasmatic Aβ to the risk of incident AD in MCI subjects, and to the risk of&#xD;
+           worsening of the disease in mild and moderate AD patients,&#xD;
+&#xD;
+        -  To examine the association between serum sAPP concentration and the risk of incident AD&#xD;
+           in MCI subjects, and the risk of worsening of the disease in mild and moderate AD&#xD;
+           patients,&#xD;
+&#xD;
+        -  To compare the time evolution of concentrations of these biomarkers to Alzheimer's&#xD;
+           disease progression rate which will be assessed on the basis of neuropsychological&#xD;
+           examinations and MRI examination of hippocampal atrophy,&#xD;
+&#xD;
+        -  To examine the association between serum and cerebrospinal fluid (CSF) concentrations of&#xD;
+           AD biomarkers in subgroup of participants who undergo lumbar puncture,&#xD;
+&#xD;
+        -  To examine the association between neuroimaging data (cerebral volume, hippocampal&#xD;
+           volume, cerebrovascular lesions and plasma and CSF AD biomarkers' concentrations,&#xD;
+&#xD;
+        -  To constitute blood and plasma banks, gene bank and CSF bank for future studies on other&#xD;
+           biomarkers of AD.&#xD;
+&#xD;
+      Design and Methods Longitudinal multicenter study including 1300 subjects with amnestic&#xD;
+      impairment (MCI, n=650 and AD, n=650) derived from the main French national Memory Resources&#xD;
+      and Research Centers.&#xD;
+&#xD;
+      Participants will undergo at baseline and every 6 months a neurological examination, a&#xD;
+      neuropsychological assessment (and an oculomotor examination for those included from Broca&#xD;
+      Hospital).&#xD;
+&#xD;
+      Alzheimer disease biomarkers' measurements will be performed at inclusion and at the end of&#xD;
+      the study. For those MCI participants who convert to dementia, the end of the study will&#xD;
+      correspond to the AD conversion period.&#xD;
+&#xD;
+      A Magnetic Resonance Imaging (MRI) scan will be performed at inclusion and at the end of the&#xD;
+      study for MCI subjects who convert into AD.&#xD;
+&#xD;
+      A lumbar puncture on an outpatient basis will be performed at study entry in all participants&#xD;
+      who will give an informed consent for this examination in absence of contraindication.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 3, 2010</start_date>
+  <completion_date type="Actual">March 16, 2018</completion_date>
+  <primary_completion_date type="Actual">February 26, 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean concentration of plasma AB peptides</measure>
+    <time_frame>at t0 and 24 months</time_frame>
+    <description>MCI &quot;converted&quot; (MCI-AD)&#xD;
+and stable MCI (MCI-MCI) groups</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>plasma levels of Tau protein</measure>
+    <time_frame>t0</time_frame>
+    <description>Ancillary study :comparison of plasma levels of Tau protein at baseline between MCI converters and MCI non-converters and between rapidly and non-rapidly progressing AD.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean concentration of biomarker</measure>
+    <time_frame>t0 and 24 months</time_frame>
+    <description>Mean plasma concentration of AB peptides between&#xD;
+fast decliner AD (decline of 7 points or more in ADAS-cog)&#xD;
+and non fast decliner AD groups&#xD;
+Mean concentration of sAPPalpha between&#xD;
+MCI &quot;converted&quot; (MCI-AD)&#xD;
+and stable MCI (MCI-MCI) groups&#xD;
+Mean concentration of sAPPalpha between&#xD;
+fast decliner AD (decline of 7 points or more in ADAS-cog)&#xD;
+and non fast decliner AD groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRI</measure>
+    <time_frame>T0 + M24 or conversion</time_frame>
+    <description>•Relationship between MRI measures (brain volume, hippocampus atrophy, vascular lesions) and biomarkers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Transcriptomics biomarkers</measure>
+    <time_frame>T0 and 24 months or conversions</time_frame>
+    <description>• Relationship between transcriptomics biomarkers and cognitive decline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bace peptide</measure>
+    <time_frame>t0</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TACE/ADAM17</measure>
+    <time_frame>to</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cathepsin</measure>
+    <time_frame>t0</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>sAPPβ</measure>
+    <time_frame>t0</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio of CSF sAPPβ and CSF sAPPα</measure>
+    <time_frame>t0</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio of plasma Aβ and plasma Tau</measure>
+    <time_frame>t0</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Tau</measure>
+    <time_frame>24 months</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRI biomarkers</measure>
+    <time_frame>t0</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRI biomarkers</measure>
+    <time_frame>24 months</time_frame>
+    <description>ancillary study</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">1067</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>biomarkers, MRI and CSF</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Longitudinal multicenter study including 1300 subjects with amnestic impairment (MCI, n=650 and AD, n=650) derived from the main French national Memory Resources and Research Centers.&#xD;
+Participants will undergo at baseline and every 6 months a neurological examination, a neuropsychological assessment (and an oculomotor examination for those included from Broca Hospital).&#xD;
+Alzheimer disease biomarkers' measurements will be performed at inclusion and at the end of the study (or the conversion).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>biomarkers, MRI and CSF</intervention_name>
+    <description>MRI at Day 0 and month 24 (or conversion) Biomarkers at Day 0 et month 24 (or conversion) CSF at D0</description>
+    <arm_group_label>biomarkers, MRI and CSF</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        MCI group :&#xD;
+&#xD;
+          -  ≥ 70 years&#xD;
+&#xD;
+          -  MCI diagnosis : New criteria (Petersen, PORTET*)&#xD;
+&#xD;
+               1. cognitive complaint from the patient, family, or both,&#xD;
+&#xD;
+               2. report by the subject or reporter of a decline in cognitive or functional&#xD;
+                  performance, relative to previous abilities,&#xD;
+&#xD;
+               3. cognitive disorders evidenced by clinical evaluation: impairment in memory or&#xD;
+                  another cognitive domain,&#xD;
+&#xD;
+               4. cognitive impairment without any repercussion on daily life, even if the subject&#xD;
+                  reports difficulties concerning complex daily activities,&#xD;
+&#xD;
+               5. no dementia&#xD;
+&#xD;
+          -  Having signed an informed consent form&#xD;
+&#xD;
+          -  Fluent in French&#xD;
+&#xD;
+        AD group :&#xD;
+&#xD;
+          -  ≥ 45 years&#xD;
+&#xD;
+          -  AD diagnosis (DSM IV-TR et NINCDS-ADRDA)&#xD;
+&#xD;
+          -  Mild to moderate (MMSE &gt; 15)&#xD;
+&#xD;
+          -  Having signed an informed consent form&#xD;
+&#xD;
+          -  Caregiver/informant to provide information on patient&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Normal cognitive function&#xD;
+&#xD;
+          -  Major depression (according to the DSMIV-TR or MINI or Geriatric depression Scale&gt;&#xD;
+             20/30)&#xD;
+&#xD;
+          -  Genetic form of AD (genetic mutation known)&#xD;
+&#xD;
+          -  All other diseases that could interfere with cognitive assessment (Epilepsy,&#xD;
+             Parkinson's disease, schizophrenia, other dementia)&#xD;
+&#xD;
+          -  Major sensory deficits that could interfere with cognitive assessment (visual and&#xD;
+             auditory)&#xD;
+&#xD;
+          -  Diseases involving the short-term survival (advanced cancer, unstable heart disease,&#xD;
+             severe hepatic/respiratory/renal failure)&#xD;
+&#xD;
+          -  Contraindication for MRI, for lumbar puncture (i.e. anticoagulant agents)&#xD;
+&#xD;
+          -  Use of any experimental agent for the duration of the study&#xD;
+&#xD;
+          -  Participation to other biomedical research that could interfere with principal&#xD;
+             objective of the study&#xD;
+&#xD;
+          -  For MCI patient, use of IchE or memantine medication before inclusion&#xD;
+&#xD;
+          -  Less than 4 years of education&#xD;
+&#xD;
+          -  Illiteracy, is unable to count or to read&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Non health insurance affiliation&#xD;
+&#xD;
+          -  Private subjects of freedom by legal or administrative decision&#xD;
+&#xD;
+          -  Contraindication for MRI examination:&#xD;
+&#xD;
+          -  Claustrophobic subject&#xD;
+&#xD;
+          -  Carrying a cardiac pacemaker&#xD;
+&#xD;
+          -  Presence of any ferromagnetic metallic implants or foreign bodies (carrying an&#xD;
+             internal electrical/magnetic device, carrying a valvular prosthesis)&#xD;
+&#xD;
+          -  Carrying a ventricular valvular&#xD;
+&#xD;
+        Exclusion criteria specific to the lumbar puncture:&#xD;
+&#xD;
+        • Taking anticoagulant agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olivier Hanon, ph</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>APHP, Hôpital Broca</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>March 11, 2011</study_first_submitted>
+  <study_first_submitted_qc>March 14, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 15, 2011</study_first_posted>
+  <last_update_submitted>November 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Dementia</keyword>
+  <keyword>Cognitive impairment</keyword>
+  <keyword>Memory impairment</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Cerebrospinal fluid</keyword>
+  <keyword>Plasma</keyword>
+  <keyword>Biomarker</keyword>
+  <keyword>Longitudinal</keyword>
+  <keyword>Abeta peptide amyloid, saPP alpha</keyword>
+  <keyword>Oculomotor impairment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

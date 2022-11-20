@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1608">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04476303</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BEY-2019-01</org_study_id>
+    <nct_id>NCT04476303</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Pharmacokinetics and Safety of BEY2153 in Healthy Participants</brief_title>
+  <official_title>A Randomized, Double-blind, Placebo-controlled, Single and Multiple Ascending Dose Phase I Clinical Trial to Evaluate the Safety, Tolerability and Pharmacokinetics of BEY2153 After Oral Administration in Healthy Young and Elderly Male Volunteers.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BeyondBio Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BeyondBio Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a first in human Phase 1 study to evaluate the safety, tolerability and&#xD;
+      pharmacokinetics with healthy young and elderly adult male volunteers after receiving single&#xD;
+      and multiple ascending dose of BEY2153.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Healthy young and elderly adult volunteers who meet the criteria, will be treated single and&#xD;
+      multiple ascending dose of BEY2153 or placebo orally. Food effect evaluation study will be&#xD;
+      conducted with single ascending dose. After the single ascending dose study, independent&#xD;
+      external experts will review blinded data and multiple ascending dose study will be&#xD;
+      conducted.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date type="Actual">August 28, 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Maximum observed plasma concentration (Cmax)</measure>
+    <time_frame>Day 1 to Day 9</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area Under the Curve (AUC)</measure>
+    <time_frame>Day 1 to Day 9</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apparent terminal elimination half-life (t1/2)</measure>
+    <time_frame>Day 1 to Day 9</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apparent clearance (CL/F)</measure>
+    <time_frame>Day 1 to Day 9</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Apparent volume of distribution (Vz/F)</measure>
+    <time_frame>Day 1 to Day 9</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Events (AEs)</measure>
+    <time_frame>Up to 48 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to 48 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant changes in vital signs</measure>
+    <time_frame>Up to 18 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant changes in 12-Lead electrocardiogram (ECG) parameters</measure>
+    <time_frame>Up to 18 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant changes in clinical laboratory results</measure>
+    <time_frame>Up to 18 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of clinically significant changes in physical examination</measure>
+    <time_frame>Up to 18 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>SAD (#6 Cohort)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: BEY2153 or placebo subjects will receive single ascending dose of BEY2153 or placebo once.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SAD (#1 Cohort) - Food effect evaluation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: BEY2153 or placebo subjects will receive single ascending dose of BEY2153 or placebo for two periods at 7 days interval, with both fasting and after high fat meal.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MAD (#4 Cohort)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: BEY2153 or placebo subjects will receive multiple ascending dose of BEY2153 or placebo for 7 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BEY2153</intervention_name>
+    <description>Capsule</description>
+    <arm_group_label>MAD (#4 Cohort)</arm_group_label>
+    <arm_group_label>SAD (#1 Cohort) - Food effect evaluation</arm_group_label>
+    <arm_group_label>SAD (#6 Cohort)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Young adult: A healthy Korean male aged 19 to 45 (inclusive) years at the time of&#xD;
+             screening Elderly adult: A healthy Korean male aged over 65 (inclusive) years at the&#xD;
+             time of screening&quot;&#xD;
+&#xD;
+          2. Subjects weighing between 55 kg and 90 kg with BMI between 18.0 and 27.0 kg/m2&#xD;
+             (inclusive) at screening.&#xD;
+&#xD;
+          3. Subjects who have listened to the detailed description of this clinical trial and have&#xD;
+             fully understood, and who have agreed in writing to voluntarily participate and&#xD;
+             observe the precautions prior to receiving any of the screening procedures&#xD;
+&#xD;
+          4. Subjects who is eligible for this clinical trial by the investigator's judgement with&#xD;
+             laboratory test results and physical-examination findings and etc.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Young adult / Elderly adult: Subjects with evidence or a history of clinically&#xD;
+             significant hepatic, renal, neurologic, immunologic, pulmonary, endocrine or&#xD;
+             hematological, neoplastic, cardiovascular, psychiatric diseases (mood disorder,&#xD;
+             obsessive-compulsive disorder etc.).&#xD;
+&#xD;
+          2. Subjects with evidence or a history of gastrointestinal disease or with history of&#xD;
+             gastrointestinal surgery that may affect assessment of safety, PK characteristics of&#xD;
+             study drug.&#xD;
+&#xD;
+          3. Subjects who showed significant abnormalities at neurologic examination at screening&#xD;
+             visit.&#xD;
+&#xD;
+          4. Subjects who showed any abnormalities at vital signs&#xD;
+&#xD;
+          5. Subjects who showed any abnormalities at blood test&#xD;
+&#xD;
+          6. Subjects with serum AST (SGOT) or ALT (SGPT) level or total bilirubin exceed 1.5 times&#xD;
+             the upper limit of the normal range at screening&#xD;
+&#xD;
+          7. Subjects who showed any abnormalities at ECG subsection&#xD;
+&#xD;
+          8. Subjects who are hypersensitive to drugs, or who have clinically significant&#xD;
+             hypersensitivity reactions history.&#xD;
+&#xD;
+          9. Subjects with a history of alcohol or drug abuse or subjects who showed positive&#xD;
+             results for abuse drug at urine drug screening test.&#xD;
+&#xD;
+         10. Subjects who consume alcohol continuously or who are unable to abstain from drinking&#xD;
+             from the time of consent until the end of the clinical trial.&#xD;
+&#xD;
+         11. Smokers&#xD;
+&#xD;
+         12. Subjects who had recessive disease, symptomatic infection, virus, bacteria or fungus&#xD;
+             infection 1 week before the first study drug administration.&#xD;
+&#xD;
+         13. Subjects who have taken any prescribed drug or herbal medicine within two weeks prior&#xD;
+             to the first study drug administration. Non-prescribed medicine (OTC) or vitamin&#xD;
+             supplement prohibit within one week prior to the first study drug administration or&#xD;
+             subjects whose administrations are predicted.&#xD;
+&#xD;
+         14. Subjects who have participated and taken investigational drug in any other clinical&#xD;
+             trial within six months prior to study drug administration&#xD;
+&#xD;
+         15. Subjects who showed positive result for HBs antigen, HCV antibody, HIV&#xD;
+             antigen-antibody test at screening&#xD;
+&#xD;
+         16. Subjects who had whole blood donation, apheresis or blood transfusion within 3 months&#xD;
+             before the first study drug administration.&#xD;
+&#xD;
+         17. Subjects who had grapefruit containing food from 3 days before the scheduled date of&#xD;
+             the first study drug administration to discharge and those who cannot be prevented&#xD;
+             from taking it during the study period.&#xD;
+&#xD;
+         18. Subjects who consume or are unable to abstain from products containing caffeine from 3&#xD;
+             days before the scheduled date of the first study drug administration to discharge,&#xD;
+             and those who cannot be prevented from taking it during the study period.&#xD;
+&#xD;
+         19. Subjects who do not agree to use following medically appropriate method of&#xD;
+             contraception and not to donate sperm starting from subject enrollment to 90 days&#xD;
+             after last administration of investigational product.&#xD;
+&#xD;
+         20. Subjects judged ineligible for the study after a review of the clinical laboratory&#xD;
+             results by the investigator or for other reasons.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Seoul National University Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Beyondbio Inc.</last_name>
+      <phone>+82-42-716-0020</phone>
+      <email>clinicaltrials@beyondbio.co.kr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>July 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 20, 2020</study_first_posted>
+  <last_update_submitted>November 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

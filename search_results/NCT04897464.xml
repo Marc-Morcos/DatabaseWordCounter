@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1425">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04897464</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BT-AD-01</org_study_id>
+    <nct_id>NCT04897464</nct_id>
+  </id_info>
+  <brief_title>Validation Study of a New Digital Treatment Test</brief_title>
+  <official_title>Validation Study of a New Digital Treatment Test Based on Interactive Video Games for Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Braingaze</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Braingaze</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Oculomotor behavior and cognitive processing of visual information are intimately connected.&#xD;
+      AD patients show ocular movement problems. Oculomotor deficits are broad consisting mainly of&#xD;
+      different saccade metrics, altered pupil responses. and smaller and irregular eye vergence&#xD;
+      movements. Here we test an interactive eye-tracking game to improve eye motion control and&#xD;
+      thereby training cognitive behavior&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2021</start_date>
+  <completion_date type="Anticipated">May 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MoCA</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Measure changes in MoCA</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MMSE</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Measure changes in MMSE</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CANTAB</measure>
+    <time_frame>immediately after the intervention</time_frame>
+    <description>Measure changes in CANTAB tests</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>MCI</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>BGaze therapy Alzheimer</intervention_name>
+    <description>BGaze Therapy is an interactive eye tracking game</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        1) Clinical diagnosis of MCI or AD&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Severe cognitive deterioration&#xD;
+&#xD;
+          2. History of neurological disease with clinically relevant impact on cognition&#xD;
+&#xD;
+          3. Severe psychiatric disorder&#xD;
+&#xD;
+          4. Incidental structural brain findings with impact on cognitive impairment&#xD;
+&#xD;
+          5. Presence of relevant visual problems&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hans Super</last_name>
+    <phone>0034931696572</phone>
+    <email>hans@braingaze.eu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laszlo Bax</last_name>
+    <phone>0034931696572</phone>
+    <email>Laszlo@braingaze.eu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Braingaze</name>
+      <address>
+        <city>Mataró</city>
+        <state>Barcelona</state>
+        <zip>08302</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hans Super</last_name>
+      <email>hans@braingaze.eu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>May 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 21, 2021</study_first_posted>
+  <last_update_submitted>May 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 21, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>anonymized data can be shared upon request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

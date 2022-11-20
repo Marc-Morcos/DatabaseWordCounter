@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1977">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05597124</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro2022001256</org_study_id>
+    <nct_id>NCT05597124</nct_id>
+  </id_info>
+  <brief_title>Exercise to Improve Brain Health in Older African Americans</brief_title>
+  <official_title>Determinants of Individual Differences in the Efficacy of Aerobic Exercise to Improve Brain Health and Reduce Alzheimer's Disease Risk in Older African Americans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rutgers, The State University of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Göteborg University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, Irvine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rutgers, The State University of New Jersey</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Older African Americans-especially those with lower income and those living in urban&#xD;
+      neighborhoods- have a greater risk of Alzheimer's disease (AD) compared to the general&#xD;
+      population. This health disparity is attributable, in part, to modifiable factors including&#xD;
+      insufficient levels of aerobic exercise. However, not everyone gains the same degree of&#xD;
+      neuroprotection from exercise. For the proposed project, we plan to investigate genetic risk&#xD;
+      as a novel source of response heterogeneity to exercise interventions in African Americans.&#xD;
+      Previously, we demonstrated that five months of twice-weekly cardio-dance exercise can&#xD;
+      increase the dynamic rearrangement (or &quot;neural flexibility&quot;) of resting-state networks within&#xD;
+      the medial temporal lobe (MTL), one of the earliest brain regions impacted by AD. Moreover,&#xD;
+      this improved neural flexibility mediates intervention-related improvements in&#xD;
+      generalization, the ability to apply past learning to novel task demands. Given our earlier&#xD;
+      findings that generalization is impaired in preclinical AD, these results suggest a novel&#xD;
+      circuit-level mechanism, MTL neural flexibility, through which exercise may reduce risk for&#xD;
+      dementia. Moreover, we discovered that the cognitive benefits of exercise in older African&#xD;
+      Americans are diminished in those with a risk variant of the ABCA7 (rs3764650) gene. Two key&#xD;
+      limitations to our previous exercise studies were: (1) interventions limited to two 60-minute&#xD;
+      classes/week, below the recommended 150 minutes/week, and (2) too few participants to&#xD;
+      evaluate the effect of ABCA7 on exercise-induced changes on neural flexibility. We propose to&#xD;
+      recruit 280 sedentary older African Americans, ages 60 and above, to be randomized to one of&#xD;
+      two equally engaging six-month interventions, a Cardio Dance Fitness (CDF) intervention, and&#xD;
+      a Strength, Flexibility, &amp; Balance active control. All participants will undergo-at&#xD;
+      enrollment and post-intervention-health assessments, cognitive tests, and structural and&#xD;
+      functional magnetic resonance imaging (fMRI), and a blood-draw to assess amyloid (Aβ 42/40)&#xD;
+      and tau (p-tau231, p-tau181). This will enable us to test: 1) the effect of the CDF&#xD;
+      intervention on a cognitive marker of AD risk, generalization; 2) the effect of the CDF&#xD;
+      intervention on a fMRI biomarker of AD, neural flexibility, and determine whether&#xD;
+      improvements in neural flexibility mediate improvements in generalization; and 3) whether&#xD;
+      ABCA7 genotypic variations moderate the efficacy of the CDF intervention for reducing AD&#xD;
+      risk. Impact: This work lays the foundation for future larger clinical trials to develop&#xD;
+      personalized exercise prescriptions for older African Americans with varying genetic, health,&#xD;
+      and social-determinant risk profiles, so as to optimize the impact of this low-cost&#xD;
+      non-pharmaceutical intervention for improving their brain health.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2023</start_date>
+  <completion_date type="Anticipated">March 2028</completion_date>
+  <primary_completion_date type="Anticipated">March 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Generalization Performance on the Concurrent Discrimination and Transfer Task</measure>
+    <time_frame>Changes from baseline to six months</time_frame>
+    <description>The Concurrent Discrimination and Transfer Task (a task that indexes generalization, the ability to apply past learning to novel task demands) will be administered at baseline, and then following the intervention (6-months). The main outcome from this task is the number transfer errors. A higher score indicates worse generalization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Generalization Performance on the Acquired Equivalence Task</measure>
+    <time_frame>Changes from baseline to six months</time_frame>
+    <description>The Acquired Equivalence Task (a task that indexes generalization, the ability to apply past learning to novel task demands) will be administered at baseline, and then following the intervention (6-months). The main outcome from this task is generalization accuracy. A higher score indicates better generalization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Medial Temporal Lobe Neural Flexibility</measure>
+    <time_frame>Changes from baseline to six months</time_frame>
+    <description>Medial Temporal Lobe Neural Flexibility is a measure of synchrony via fMRI resting-state analyses in the hippocampus and other medial temporal lobe brain regions for encoding new memories. Flexibility is quantified as the number of times a node displayed a change in community assignment, normalized by the total possible number of changes; this will be computed for each of our seven regions of interest in the medial temporal lobe. A higher score indicates greater flexibility.&#xD;
+The flexibility of the MTL network as a whole was then computed as the mean flexibility over all nodes.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Exploratory Outcome: AB 42/40</measure>
+    <time_frame>Changes from baseline to six months</time_frame>
+    <description>The ratio of 42 to 40 amino acid-long amyloid β, a marker of plaque pathology, will be examined as an exploratory outcome. Lower values indicate more AB 42/40 pathology.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory Outcome: p-tau181</measure>
+    <time_frame>Changes from baseline to six months</time_frame>
+    <description>Phosphorylated tau 181, a marker of AD-related tau phosphorylation and secretion, will be examined as an exploratory outcome. Higher values indicate more tau pathology.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory Outcome: p-tau231</measure>
+    <time_frame>Changes from baseline to six months</time_frame>
+    <description>Phosphorylated tau 231, a marker of AD-related tau phosphorylation and secretion, will be examined as an exploratory outcome. Higher values indicate more tau pathology.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory Outcome: Neurofilament-light Chain</measure>
+    <time_frame>Changes from baseline to six months</time_frame>
+    <description>Neurofilament-light chain (NfL) is a neuronal cytoplasmic protein; its levels increase in plasma and cerebrospinal fluid proportional to the degree of axonal damage in a variety of neurological disorders, including Alzheimer's disease. Higher values indicate greater axonal damage.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">280</enrollment>
+  <condition>Aging</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Healthy Aging</condition>
+  <condition>Cognitive Change</condition>
+  <arm_group>
+    <arm_group_label>Cardio-Dance Fitness</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is the experimental group. Participants will meet three times a week for dance classes for approximately 60 minutes per session, over 24 weeks (approximately 6 months).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Strength, Flexibility &amp; Balance</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>This is the active control group. Participants will meet three times a week for strength, flexibility, and balance exercises for approximately 60 minutes per session, over 24 weeks (approximately 6 months).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cardio-Dance Fitness</intervention_name>
+    <description>This is an aerobic cardio-dance fitness exercise class in a social context with aerobic intensity assessed by heart rate monitoring throughout the class. Participants will meet three times a week for approximately 60 minutes per session, over 24 weeks (approximately 6 months).</description>
+    <arm_group_label>Cardio-Dance Fitness</arm_group_label>
+    <other_name>CDF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Strength, Flexibility &amp; Balance</intervention_name>
+    <description>This intervention will serve as a stringent, structurally equivalent, active comparator to the CDF intervention, identical in duration, frequency, and social contact except for the content of this non-aerobic intervention. SFB will involve non-aerobic activity with strength, flexibility, and balance training.</description>
+    <arm_group_label>Strength, Flexibility &amp; Balance</arm_group_label>
+    <other_name>SFB</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  self-identify as either African American or Black;&#xD;
+&#xD;
+          -  be age 60 or older;&#xD;
+&#xD;
+          -  able to speak, read, and understand English;&#xD;
+&#xD;
+          -  available over the study period; independently ambulatory (i.e., not needing a&#xD;
+             wheelchair, walker, or cane);&#xD;
+&#xD;
+          -  meet criteria for low levels of physical activity (less than 60 minutes per week)&#xD;
+             based on the International Physical Activity Questionnaire (IPAQ-short version);&#xD;
+&#xD;
+          -  scoring 28-35 (inclusive) on the Telephone Interview for Cognitive Status Modified&#xD;
+             (sensitivity [43%], specificity [94%] for lower threshold; sensitivity [93%],&#xD;
+             specificity [42%] for upper threshold)55.&#xD;
+&#xD;
+          -  scoring 20-26 (inclusive) on the Montreal Cognitive Assessment (MoCA) during the&#xD;
+             in-person screening&#xD;
+&#xD;
+          -  have clearance to participate from their primary care physician, with oversight of all&#xD;
+             our patient health under the guidance of our physician-scientist Co-I, William Hu,&#xD;
+             Chief of Cognitive Neurology at Rutgers.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  color-blindness (because some of our tasks utilize color as a cue);&#xD;
+&#xD;
+          -  any diagnosed neurological disorder (including headaches and peripheral neuropathy);&#xD;
+             diagnosed or self-reported non-neurological conditions that likely affect MTL&#xD;
+             outcomes, such as, major depressive disorder (or a Geriatric Depression Scale-Short&#xD;
+             Form score ≥ 5), schizophrenia, delusional disorder, schizoaffective disorder or&#xD;
+             significant psychiatric symptoms that could impair the completion of the study (e.g.,&#xD;
+             psychosis), substance-related and addictive disorders (or treatment in past five&#xD;
+             years), chemotherapy or radiation treatment for cancers, planning to undergo general&#xD;
+             anesthesia during the study period;&#xD;
+&#xD;
+          -  exercise contraindications, such as, orthopedic complications, myocardial infarction,&#xD;
+             coronary artery bypass grafting, angioplasty or other cardiac condition in the past&#xD;
+             year, current treatment for congestive heart failure, angina, uncontrolled arrhythmia,&#xD;
+             deep vein thrombosis (DVT) or another cardiovascular event, and uncontrolled&#xD;
+             hypertension with resting systolic or diastolic blood pressures &gt; 180/110 mmHg.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark A. Gluck, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rutgers, The State University of New Jersey - Newark campus</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bernadette A. Fausto, PhD</last_name>
+    <phone>(973) 944-0775</phone>
+    <email>bernadette.fausto@rutgers.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joshua L. Gills, PhD</last_name>
+    <phone>(708) 299-6867</phone>
+    <email>joshua.gills@rutgers.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rutgers, The State University of New Jersey - Newark campus</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lisa Haber-Chalom</last_name>
+      <email>lhchalom@newark.rutgers.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mark A. Gluck, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bernadette A. Fausto, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul R. Duberstein, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Steven K. Malin, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>William Hu, MD, PhD, FAAN</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Liangyuan Hu, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2022</study_first_posted>
+  <last_update_submitted>October 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rutgers, The State University of New Jersey</investigator_affiliation>
+    <investigator_full_name>Mark A. Gluck, PhD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We will make the data and associated documentation available to users only under a Data-Sharing Agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using appropriate computer technology; and (3) a commitment to destroying or returning the data after analyses are completed.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>All data will be made available to share with the public after de-identification and following a grace period of six months post-grant completion to allow the PI and team to publish results from the research first.</ipd_time_frame>
+    <ipd_access_criteria>Data requests will be approved by the Principal Investigator and Co-Investigators. Requests can be made by completing a data request form.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

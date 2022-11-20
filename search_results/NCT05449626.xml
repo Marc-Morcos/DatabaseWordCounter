@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1692">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05449626</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022/514/227/3</org_study_id>
+    <nct_id>NCT05449626</nct_id>
+  </id_info>
+  <brief_title>Validity and Reliability of Turkish Version of Bayer Activities of Daily Living Scale</brief_title>
+  <official_title>Validity and Reliability of Turkish Version of Bayer Activities of Daily Living Scale</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yeditepe University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Yeditepe University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of our study is to verify the validity and reliability of the Turkish version of&#xD;
+      B-GYA.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dementia refers to a condition in which individuals with brain damage have multiple cognitive&#xD;
+      deficits with impairment in activities of daily living (ADL). Therefore, the assessment of&#xD;
+      ADL is one of the main criteria for evaluating dementia. ADL disorders are often observed by&#xD;
+      caregivers before they are identified by psychometric testing, thus suggesting that ADL&#xD;
+      assessment can contribute to the early detection of dementia.&#xD;
+&#xD;
+      Evaluation of ADL has become increasingly important with the introduction of new drugs for&#xD;
+      Alzheimer's disease (AD), as well as being a helpful tool in diagnosis. Current guidelines&#xD;
+      have recognized the need for therapeutic intervention in AD to measure and document treatment&#xD;
+      effects on ADL. It has been emphasized that internationally validated and approved test tools&#xD;
+      to evaluate dementia are important for multinational clinical drug trials that evaluate the&#xD;
+      efficacy of anti-dementia drugs. Therefore, it is of great importance to find ADL scales that&#xD;
+      can be used internationally. Various ADL scales have been developed, such as Lawton's&#xD;
+      instrumental ADL (IADL), functional activities questionnaire (FAQ), ADCS-ADL, and Bayer ADL&#xD;
+      (B-ADL). Of these, W-ADL was developed based on an international pilot study to evaluate ADL&#xD;
+      deficits in patients from different cultural backgrounds.&#xD;
+&#xD;
+      Specifically, through a collaborative study conducted in four different countries during the&#xD;
+      development of the RDA, the researchers prepared 141 items and selected 25 of them that could&#xD;
+      be used internationally. The target group of the scale included elderly patients suffering&#xD;
+      from mild to moderate dementia or cognitive impairment. European countries: In the United&#xD;
+      Kingdom, Germany, and Spain, the validation study of the B-ADL was carried out in three&#xD;
+      stages. The aim of our research is to verify the validity and reliability of the Turkish&#xD;
+      version of B-ADL.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 26, 2022</start_date>
+  <completion_date type="Anticipated">December 6, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 6, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Standardized Mini Mental Test</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>For the first time, Folstein et al. [12] and found to be valid and reliable in the diagnosis of mild dementia in the Turkish population will be used. SMMT, which measures mental state, is a scale that evaluates cognitive functions in five separate sections (orientation, registration, attention and calculation, recall and language). The test can be easily applied in daily medical practice and is very suitable for screening cognitive function in the elderly. The total score is 30. The cut-off point of the scale was determined as 24.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Dementia Rating Scale</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>The Clinical Dementia Rating Scale was developed by Woolf in 2016 in order to have information about the participant's memory, orientation, judgment and problem-solving ability, functionality outside the home, home life, hobbies and personal care. An evaluation will be made by asking detailed questions about all the areas specified in this test, which will be applied to the patient and their relatives. According to the answers given in each field, it will be scored as 0-0.5-1-2-3 by using the score table in the front of the test. It is a general assessment made to determine the dementia stage of the person. 0.5-1 mild, 1-2 moderate, 2-3 advanced stages of dementia.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Activities of Daily Living</condition>
+  <arm_group>
+    <arm_group_label>Alzheimer's disease group</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Group</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Assessment</intervention_name>
+    <description>The Standardized Mini-Mental Test and Clinical Dementia Rating Scale will be administered by the physician to the healthy individuals with dementia to be included in the study.</description>
+    <arm_group_label>Alzheimer's disease group</arm_group_label>
+    <arm_group_label>Healthy Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        200 individuals and healthy individuals who were diagnosed with Alzheimer's according to&#xD;
+        the international diagnostic criteria of the American National Neurological and&#xD;
+        Communication Disorders Stroke and Alzheimer Association (NINCDS-ADRDA) and were in mild&#xD;
+        and moderate stages (&lt;2) according to the Clinical Dementia Rating: CDR. 200 individuals&#xD;
+        found will be included&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individuals aged 60 and over&#xD;
+&#xD;
+          -  Being literate&#xD;
+&#xD;
+          -  Having given consent to participate in the study&#xD;
+&#xD;
+          -  Individuals diagnosed with Alzheimer's according to the international diagnostic&#xD;
+             criteria of the American National Neurological and Communication Disorders Stroke and&#xD;
+             Alzheimer's Association (NINCDS-ADRDA) and in mild and moderate stages (&lt;2) according&#xD;
+             to the Clinical Dementia Rating: CDR will be included in the study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those who did not give consent to participate in the study&#xD;
+&#xD;
+          -  CDR&gt;2&#xD;
+&#xD;
+          -  Except for behavioral or functional symptoms associated with dementia, individuals&#xD;
+             with medical, psychiatric, neurological conditions, or physical disabilities that may&#xD;
+             significantly affect the performance of ADL will be excluded from the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Yeditepe University</name>
+      <address>
+        <city>Istanbul</city>
+        <state>Turkiye</state>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ebru Akbuğa Koç</last_name>
+      <phone>05548611344</phone>
+      <email>ebruakbuga@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ebru Akbuğa Koç, Lecturer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>July 4, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 4, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 8, 2022</study_first_posted>
+  <last_update_submitted>July 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Yeditepe University</investigator_affiliation>
+    <investigator_full_name>Ebru Akbuğa Koç</investigator_full_name>
+    <investigator_title>Lecturer</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>Activities of Daily Living</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

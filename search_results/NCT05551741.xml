@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="20">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05551741</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IBC-01-01</org_study_id>
+    <secondary_id>1R01AG071810-01</secondary_id>
+    <secondary_id>2021-006580-19</secondary_id>
+    <secondary_id>PTCG-20-701033</secondary_id>
+    <nct_id>NCT05551741</nct_id>
+  </id_info>
+  <brief_title>A First in Human Study of IBC-Ab002 in Persons With Early Alzheimer's Disease (AD)</brief_title>
+  <official_title>A First in Human Study to Evaluate the Safety, Tolerability and Pharmacokinetics of IBC-Ab002 in Persons With Early Alzheimer's Disease (AD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Immunobrain Checkpoint</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Alzheimer's Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Immunobrain Checkpoint</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled first-in-human, Phase 1, safety,&#xD;
+      tolerability, pharmacokinetic (PK) and preliminary exploratory activity study of escalating&#xD;
+      multiple intravenous (IV) doses of IBC-Ab002 in persons with early Alzheimer's disease. The&#xD;
+      study will have both Single- and Multiple-Ascending Dose components.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects in 5 sequential cohorts of 8 subjects each will be assigned in a 3:1 ratio to&#xD;
+      receive either IBC-Ab002 or matching placebo 4 times. Part A will be a single-ascending dose&#xD;
+      study and Part B will be a multiple ascending dose study. The two parts of the study will be&#xD;
+      intercalated such that subjects will be dosed once every 12 weeks. However, repeated dosing&#xD;
+      at any dose level will not begin until the anticipated cumulative dose for that cohort has&#xD;
+      been equaled or exceeded in Part A and/or B of the study, and appropriate safety review of&#xD;
+      data from all preceding doses in prior subjects has taken place. All subjects randomized into&#xD;
+      Part A of the study will automatically continue into Part B unless dosing is halted at the&#xD;
+      individual or group level due to safety or other concerns.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2022</start_date>
+  <completion_date type="Anticipated">December 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Within each cohort subjects are randomized to either active investigational product or placebo in a ratio 3:1</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of subjects with adverse events, serious adverse events</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with clinically significant changes in hematology parameters</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome - complete blood count, white blood cells, red blood cells, platelets, hematocrit, mean corpuscular hemoglobin (MCH), neutrophiles percent, neutrophiles absolute, lymphocytes percent, lymphocytes absolute, monocytes percent, monocytes absolute, eosinophils percent, eosinophils absolute, basophils percent, basophils absolute, mean platelet volume</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with clinically significant changes in biochemistry parameters</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome - sodium, potassium, calcium, phosphorus, glucose, alanine aminotransferase (ALT), aspartate transaminase (AST), lactate dehydrogenase (LDH), creatine kinase (CK), gamma glutamyl transferase (GGT), alkaline phosphatase (ALP), bilirubin, creatine, albumin, total protein, amylase, total cholesterol, triglycerides, thyroid function tests (T3, T4, TSH), coagulation panel International normalized ratio (INR) and partial thromboplastin time (PTT).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with clinically significant changes in urinalysis parameters</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome - protein, nitrates, glucose, specific gravity, ketones, urobilinogen, bilirubin, pH, hemoglobin</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with clinically significant changes in vital signs</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety outcome - weight, heart rate, respiratory rate, body temperature, systolic and diastolic blood pressure</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with clinically significant changes in physical examination</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with clinically significant changes in electrocardiogram (EEG)</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with development of new abnormalities on brain MRI</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome - lacunar infarcts, territorial infarct, macroscopic hemorrhage, deep white matter lesions, cerebral contusion, encephalomalacia, infective lesion, aneurysm or vascular malformation, intraparenchymal tumor, meningioma or arachnoid cyst, inflammation, edema</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of subjects with increased suicidality</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Safety Outcome - measured using Columbia Suicidality Rating Scale. Part 1 of the scale (Suicidal Ideation) is comprised of 5 yes/no questions with &quot;yes&quot; indicating suicidal ideation and &quot;no&quot; indicating no suicidal ideation.&#xD;
+Part 2 of the scale (Intensity of Ideation) is comprised of 5 items which should be rated with respect to the most severe type if ideation (with 5 being the most severe intensity and 1 being the least intensity).&#xD;
+Part 3 of thee scale (Suicidal Behavior) is comprised of 5 yes/no items with &quot;yes&quot; indicating suicidal behavior and &quot;no&quot; indicating no suicidal behavior.&#xD;
+Part 4 of the scale (Actual Attempts) is comprised of 2 items which should be rated with respect to the most severe outcome of the suicide attempt (with the highest score indicating the most severe outcome and 0 indicating no harm).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>IBC-Ab002 levels in serum.</measure>
+    <time_frame>Pre-dose and up to Day 84 post-dose</time_frame>
+    <description>Pharmacokinetic Outcome - Area under the concentration-time curve from time zero to infinity, Area under the concentration-time curve from time zero to the time of the last measurable sample, maximum observed concentration, time to reach maximum observed concentration, terminal elimination half-life, clearance, volume of distribution,</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of subjects with positive serum anti-IBC-Ab002 antibodies</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Pharmacokinetic Outcome</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IBC-Ab002 low dose or placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IBC-Ab002 mid low dose or placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IBC-Ab002 mid dose or placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IBC-Ab002 mid high dose or placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>IBC-Ab002 high dose or placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IBC-Ab002</intervention_name>
+    <description>An anti-PD-L1 monoclonal antibody</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal Saline</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_label>Cohort 5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Diagnosis of early Alzheimer's disease based on the National Institute on Aging and&#xD;
+             Alzheimer's Association) (NIA-AA Research Framework criteria, regardless of&#xD;
+             apolipoprotein E (APOE) gene status.&#xD;
+&#xD;
+          2. Able to speak, read and write the local language fluently.&#xD;
+&#xD;
+          3. With respect to symptomatic treatment for Alzheimer's disease, subjects should either&#xD;
+             be not treated with any approved treatments for AD or stabilized on approved&#xD;
+             medication(s) other than anti-Ab antibodies for the treatment of AD for at least 3&#xD;
+             months prior to Baseline.&#xD;
+&#xD;
+          4. Subject has a care partner who spends at least 15 hours/week with the subject, and can&#xD;
+             attend all visits with the subject, report accurately on the subject's status, and&#xD;
+             ensure compliance with all study requirements&#xD;
+&#xD;
+          5. Subject and care partner must each independently be able to understand the study&#xD;
+             requirements and provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Females who are not postmenopausal at Screening as defined by amenorrhea for at least&#xD;
+             12 consecutive months or who have not been sterilized surgically (i.e. bilateral tubal&#xD;
+             ligation, total hysterectomy, or bilateral oophorectomy, all with surgery at least 1&#xD;
+             month before Screening)&#xD;
+&#xD;
+          2. Other than Alzheimer's disease, any neurologic or medical disorder which may impair&#xD;
+             cognition.&#xD;
+&#xD;
+          3. Any contra-indication to undergo magnetic resonance imaging (MRI).&#xD;
+&#xD;
+          4. Severe vision or hearing impairment that would prevent the subject from performing&#xD;
+             psychometric tests or otherwise complying with requirements for study participation&#xD;
+             and activities.&#xD;
+&#xD;
+          5. History of certain neurological, psychiatric or medical conditions including&#xD;
+             autoimmune diseases.&#xD;
+&#xD;
+          6. Clinically significant laboratory or electrocardiogram (ECG) abnormalities&#xD;
+&#xD;
+          7. Presence of contraindication to lumbar puncture (LP) including taking anticoagulant or&#xD;
+             antiplatelet medications other than aspirin at a dose of &lt; 100 mg/day or clopidogrel.&#xD;
+&#xD;
+          8. Taking any of the following medications.&#xD;
+&#xD;
+               1. Immunosuppressant medications, including chronic systemic corticosteroids&#xD;
+                  (chronic use of topical steroids is allowed)&#xD;
+&#xD;
+               2. Injected or infused antibody therapies, including but not limited to antibodies&#xD;
+                  directed against tumor necrosis factor (TNF), anti-interleukin-6 (anti-IL-6),&#xD;
+                  natalizumab, rituximab and similar agents&#xD;
+&#xD;
+               3. Aducanumab, (aducanumab-avwa) intravenous injection (brand name: Aduhelm™), or&#xD;
+                  any other experimental or approved anti-amyloid antibody&#xD;
+&#xD;
+               4. Insulin&#xD;
+&#xD;
+               5. Anticoagulant or anti-platelet medications including warfarin, heparinoids and&#xD;
+                  direct coagulation factor inhibitors (e.g. apixaban, dabigatran, rivaroxaban)&#xD;
+                  within 90 days of the planned first dose of study drug; either aspirin at a dose&#xD;
+                  of &lt; 100 mg/day or clopidogrel at a dose of 75 mg/day, but not both in&#xD;
+                  combination is permitted&#xD;
+&#xD;
+          9. Participation in any other interventional clinical trial, or treatment with any&#xD;
+             investigational drug or investigational use of an approved therapy, within 30 days or&#xD;
+             5 half-lives of such agent, whichever is longer, prior to the first Screening visit&#xD;
+&#xD;
+         10. Subject currently smokes more than 5 cigarettes or equivalent tobacco consumption&#xD;
+             daily&#xD;
+&#xD;
+         11. Regular nonmedical use of cannabis or cannabis products unless such products are&#xD;
+             documented by the manufacturer's label not to contain tetrahydrocannabinol or its&#xD;
+             derivatives or analogs&#xD;
+&#xD;
+         12. History of drug (including cannabis) or alcohol abuse within the last 5 years&#xD;
+&#xD;
+         13. Positive urine drug test for drugs of abuse at Screening. Subjects who test positive&#xD;
+             for benzodiazepines or opioids in urine drug testing need not be excluded if in the&#xD;
+             clinical opinion of the investigator, this is due to the subject taking&#xD;
+             prior/concomitant medications containing benzodiazepines or opioids for a medical&#xD;
+             condition and not due to drug abuse&#xD;
+&#xD;
+         14. Subjects who answer &quot;yes&quot; to Columbia Suicidality Rating Scale (C-SSRS) suicidal&#xD;
+             ideation Type 4 or 5, or any suicidal behavior assessment within 6 months before&#xD;
+             Screening, at Screening, or has been hospitalized or treated for suicidal behavior in&#xD;
+             the past 5 years before Screening&#xD;
+&#xD;
+         15. Unwillingness to comply with study requirements or history of noncompliance in prior&#xD;
+             clinical trials&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jesse Cedarbaum, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Immunobrain Checkpoint</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Catherine Mummery, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dementia Research Centre, UCL, London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dalia Bracha</last_name>
+    <phone>+972547831876</phone>
+    <email>dalia@immunobrain.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kinga Barsony</last_name>
+    <email>kinga.barsony@worldwide.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rambam Health Care Campus</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Merav Shor</last_name>
+      <phone>+972-50-7773471</phone>
+      <email>m_shor@rambam.health.gov.il</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rabin Medical Center</name>
+      <address>
+        <city>Petach Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sara Mola</last_name>
+      <email>Saramol@clalit.org.il</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center</name>
+      <address>
+        <city>Ramat Gan</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Efrat Tal</last_name>
+      <phone>+972-54-6881186</phone>
+      <email>Efrat.Tal@sheba.health.gov.il</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tel-Aviv Sourasky Medical Center</name>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Noa Trablus</last_name>
+      <phone>+972-54-7324473</phone>
+      <email>noat@tlvmc.gov.il</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dementia Research Centre, National Hospital for Neurology and Neurosurgery</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marivic Ricamara</last_name>
+      <email>Marivic.ricamara@nhs.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Miguel Paz-Alvarez</last_name>
+      <email>miguel.paz-alvarez@nhs.net</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Catherine Mummery, MD PhD FRCP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield teaching Hospitals NHS Trust</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daisy Priest</last_name>
+      <phone>+44-114 22 65580</phone>
+      <email>Daisy.priest1@nhs.net</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>July 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 20, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 23, 2022</study_first_posted>
+  <last_update_submitted>September 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>anti-PD-L1 monoclonal antibody</keyword>
+  <keyword>IBC-Ab002</keyword>
+  <keyword>early Alzheimer's Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual study data will be shared with qualified researchers upon review of the request by the trial sponsor</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>After the end of the study, submission of the clinical study report and publication of the study results</ipd_time_frame>
+    <ipd_access_criteria>Upon review of the qualifications of the requesting researcher and the purpose of the research</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

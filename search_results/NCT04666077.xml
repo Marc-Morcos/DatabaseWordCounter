@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1473">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04666077</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 19-0243(0002)</org_study_id>
+    <nct_id>NCT04666077</nct_id>
+  </id_info>
+  <brief_title>Music Therapy Experiences in Patients With Mild Cognitive Impairment (MCI) and Alzheimer's Disease (AD)</brief_title>
+  <official_title>A Randomized, Blinded, Controlled Trial of Music Therapy Singing Interventions for Patients With MCI and AD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study compares different music therapy (MT) experiences and their impact on memory and&#xD;
+      language in patients with Alzheimer's disease and Mild Cognitive Impairment.&#xD;
+&#xD;
+      The 12-month study will assess the role of common experiences involving familiar music and&#xD;
+      other pleasant events (blinded control) to benefit cognition and measure the quality of life&#xD;
+      for people with Alzheimer's disease and Mild Cognitive Impairment.&#xD;
+&#xD;
+      Following screening, all participants will meet with a licensed music therapist at the first&#xD;
+      study visit. Thereafter, each group will have an individualized schedule of follow-up&#xD;
+      telephone calls and visits.&#xD;
+&#xD;
+      Screening for the study and participation in the study intervention can be completed&#xD;
+      in-person or from your home, if you do not live in the area.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Interested participants and their study partner will be enrolled after an evaluation to&#xD;
+      determine cognitive impairment or mild dementia. The evaluation, either in person or remote,&#xD;
+      will include cognitive testing, clinical and neurological evaluation, a review medical&#xD;
+      records and medical history and an examination as deemed necessary by a dementia physician.&#xD;
+      Eligible participants will undergo baseline testing including linguistic analyses and will be&#xD;
+      randomly assigned to one of 3 intervention groups. Participants and their study partners will&#xD;
+      be contacted at least once every three months for cognitive testing and medical review.&#xD;
+      Contact with the music therapy team will occur up to twice per week but not less than once&#xD;
+      per month, for the first six months study enrollment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 25, 2019</start_date>
+  <completion_date type="Anticipated">January 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomized, controlled 6 months (24 week) trial to assess the benefits of Homebased MT through Supervised, Supported Singing (H3S) vs control condition receiving attention (AtCon) in persons with ADRD or its prodrome (MCI). A randomized sub group will receive both the H3S and Individualized Music therapy (IMT) during for the same interval. Randomization to H3S, IMT, AtCon will be 2 to 1 to 2, with stratification of disease severity to insure equal representation across arms.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>All treatment arms will be conducted at the Louis Armstrong Center for Music and Medicine with staff at that location while screening and all outcome evaluations will be conducted at the Alzheimer's Disease Research Center at the Mount Sinai location. A single unblinded team member at each site will coordinate visits and data collection.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mini Mental Status Exam (MMSE)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Mini Mental Status Exam to assess cognition, behavior and function. Full score from 0-30, higher score indicates poorer health outcomes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Neuropsychiatric Inventory to assess cognition, behavior and function. The total NPI score is 0-144, higher score indicates poorer health outcomes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Activities of Daily Living (ADCS-ADL)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The Alzheimer's Disease Cooperative Study Activities of Daily Living (ADCS-ADL) to assess cognition, behavior and function. The ADCS-ADL is a 23 item scale that includes 6 Basic ADL items and 17 Instrumental ADL items that provide a total score from 0-78, with a lower score indicating greater severity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinician's Global Impression of Change (ADCS-CGIC)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The Alzheimer's Disease Cooperative Study Clinician's Global Impression of Change. (ADCS-CGIC) to assess cognition, behavior and function. Full scale from 1-7, higher score indicates poorer health outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog)</measure>
+    <time_frame>12 months</time_frame>
+    <description>ADAS-Cog. to assess specific cognitive domains with composite scores of language, attention and executive function. The ADAS-Cog subscale is scored from 0-100. The full ADAS is scored from 0 to 150 by summing the number of errors made on each task so that higher scores indicate worse performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Zarit Burden Interview</measure>
+    <time_frame>12 months</time_frame>
+    <description>Zarit Burden Interview.to assess caregiver burden. 22-item instrument, full score from 0-88, higher score indicates feeling more burden.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Home-based MT through Supervised, Supported Singing (H3S)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment arm 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>H3S and IMT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment arm 2 received both Home-based Supervised, Supported Singing (H3S) and Individualized Music Therapy (IMT)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Attention Control (AtCon)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Comparison condition with comparable attention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Home-based MT through Supervised, Supported Singing (H3S)</intervention_name>
+    <description>Daily singing of &quot;song of kin&quot;. The song of kin will be derived from an assessment session and evaluation inclusive of an interview under the supervision of Dr. Joanne Loewy and her team at the Louis Armstrong Center for Music and Medicine (LACMM). The interview will include the participant and their study partner who will assist in identifying musical preferences and relevant cultural experiences. A recording of prescribed song protocols will be provided. Participants and study partners will be directed to plan a minimum of 1 hour a day in which the participant will sing along with the study partner-administered song of kin. A diary will be provided to the study partner to record the time of day, amount of time spent and comments on the activity. Study staff will contact the members of this group to confirm compliance with the activity.</description>
+    <arm_group_label>H3S and IMT</arm_group_label>
+    <arm_group_label>Home-based MT through Supervised, Supported Singing (H3S)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Individualized Music Therapy (IMT)</intervention_name>
+    <description>The Individualized Music therapy (IMT) conducted by the LACMM staff. It will be administered by a certified music therapist twice weekly for 45 minutes. The sessions will employ extensive clinical improvisation based on the songs of kin utilized in the H3S condition. Compliance will be measured with a weekly log which will record dates and times of each condition.</description>
+    <arm_group_label>H3S and IMT</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Attention Control (AtCon)</intervention_name>
+    <description>The attention control (AtCon) will meet with the LACMM team for an interview in which they will be asked about music preferences and music experiences. They will answer any questions from participant and caregiver about music experiences. Study staff will contact the members of this group at the same schedule as the H3S group to assess music activity engagement. This will measure unplanned exposure and minimize &quot;drop-in&quot; music activity which could contaminate the control condition.</description>
+    <arm_group_label>Attention Control (AtCon)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Alzheimer's disease or mild cognitive impairment&#xD;
+&#xD;
+          -  Must have study partner&#xD;
+&#xD;
+          -  English speaking&#xD;
+&#xD;
+          -  No verbal impairment&#xD;
+&#xD;
+          -  Community-dwelling&#xD;
+&#xD;
+          -  Must have webcam or smart phone&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A diagnosis of dementia other than probable or possible AD&#xD;
+&#xD;
+          -  Probable AD with Down syndrome&#xD;
+&#xD;
+          -  History of a clinically significant stroke with residual deficit&#xD;
+&#xD;
+          -  Current evidence or history in past two years of epilepsy, focal brain lesion, head&#xD;
+             injury&#xD;
+&#xD;
+          -  Current diagnosis for major psychiatric disorder including psychosis, major&#xD;
+             depression, bipolar disorder, alcohol or substance abuse.&#xD;
+&#xD;
+          -  Participation in another interventional study&#xD;
+&#xD;
+          -  Comorbidity causing disability interfering with intervention such as pain or&#xD;
+             discomfort or life expectancy less than 1 year&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mary Sano, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Joanne Loewy, DA, LCAT, MT-BC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mount Sinai Beth Israel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Juliana Gamino, BFA</last_name>
+    <phone>212-241-8329</phone>
+    <email>juliana.gamino@mssm.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>John Mondanaro, PhD, LCAT, MT-BC</last_name>
+    <phone>212-420-2722</phone>
+    <email>john.mondanaro@mountsinai.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Louis Armstrong Center for Music and Medicine, Mount Sinai Beth Israel</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Mondanaro, PhD, LCAT, MT-BC</last_name>
+      <phone>212-420-2722</phone>
+      <email>john.mondanaro@mountsinai.org</email>
+    </contact>
+    <investigator>
+      <last_name>Joanne Loewy, DA, LCAT, MT-BC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Disease Research Center, Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juliana Gamino, BFA</last_name>
+      <phone>212-241-8329</phone>
+      <email>juliana.gamino@mssm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mary Sano, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 14, 2020</study_first_posted>
+  <last_update_submitted>December 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Mary C Sano</investigator_full_name>
+    <investigator_title>Director, Alzheimer's Disease Research Center</investigator_title>
+  </responsible_party>
+  <keyword>music</keyword>
+  <keyword>music therapy</keyword>
+  <keyword>memory</keyword>
+  <keyword>executive function</keyword>
+  <keyword>cognitive function</keyword>
+  <keyword>caregiver burden</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

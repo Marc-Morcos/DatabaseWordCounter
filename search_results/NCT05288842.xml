@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1192">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05288842</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020_26</org_study_id>
+    <secondary_id>2021-A00879-32</secondary_id>
+    <nct_id>NCT05288842</nct_id>
+  </id_info>
+  <brief_title>Tanycytes in Alzheimer's Disease and Frontotemporal Dementia</brief_title>
+  <acronym>BIOWATCH</acronym>
+  <official_title>TANYCYTES' ROLE IN ALZHEIMER'S DISEASE AND FRONTOTEMPORAL DEMENTIA: ARE THEY THE KEY TO WELL AGING?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Lille</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>European Research Council</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Lille</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Metabolic and hormonal deregulations are both a risk factor and a hallmark of Alzheimer's&#xD;
+      disease (AD) and frontotemporal dementia (FTD), occurring early in the course of the disease.&#xD;
+      In FTD in particular, hyperorality and dietary changes are associated with metabolic and&#xD;
+      hormonal changes such as altered levels of the anorexigenic hormone leptin.&#xD;
+&#xD;
+      The hypothalamus is a brain region that controls metabolism and hormonal systems.&#xD;
+      Hypothalamic function depends on its ability to sense peripheral signals. The hypothalamus&#xD;
+      sits on a circumventricular organ called the median eminence (ME) that puts it in contact&#xD;
+      with systemic blood circulation. In the ME, fenestrated capillaries allow the diffusion of&#xD;
+      bloodborne factors. However, despite the lack of blood-brain barrier at brain microvessels,&#xD;
+      diffusion is controlled by specialized ependymoglial cells, the tanycytes, which exert a&#xD;
+      barrier function between the ME and the third ventricle and controls the access of&#xD;
+      blood-borne molecules into the hypothalamus. Previous work from our laboratory and the ERC&#xD;
+      consortium has highlighted the role of tanycytes not only in the regulation of the release of&#xD;
+      neurohormones from neuroendocrine nerve terminals into the pituitary portal blood&#xD;
+      circulation, but also in the transport of circulating leptin into the hypothalamus. Hence&#xD;
+      hypothalamic dysfunction in AD and FTD can result either from dysregulation of neuroendocrine&#xD;
+      secretions, direct neuronal loss or from defective transport (and hence resistance) to&#xD;
+      hormones like leptin.&#xD;
+&#xD;
+      This study is to demonstrate that leptin transport though tanycytes is early altered in FTD&#xD;
+      and AD and correlates&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 6, 2022</start_date>
+  <completion_date type="Anticipated">October 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean CSF-to-blood ratio (CBR) of leptin concentration.</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Leptin concentration in blood and CSF (in the pg/mL range) will be measured by enzyme-linked immunosorbent assay (ELISA).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean of the CSF-to-blood ratio (CBR) of hypothalamus-related hormones</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>CSF-to-blood ratio (CBR) of hypothalamus-related hormones</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood metabolomics</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Blood and CSF metabolites will be measured by LC MS/MS.Will be used a mix of targeted and untargeted approach for metabolomics using the Thermo Q-Exactive Orbitrap.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF metabolomics</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Blood and CSF metabolites will be measured by LC MS/MS.Will be used a mix of targeted and untargeted approach for metabolomics using the Thermo Q-Exactive Orbitrap.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation coefficient between leptin CBR and general cognitive functioning assessed by the Mattis Dementia Rating Scale (MDRS)6</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Correlation coefficient between leptin CBR and general cognitive functioning</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation coefficients between leptin CBR and performances in a neuropsychological battery assessing the function of affective and social cognition in each AD and FTD groups</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Correlation coefficients between leptin CBR and performances</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation coefficients between leptin CBR and behavioral, and psychological symptoms of dementia</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Correlation coefficients between leptin CBR and behavioral, and psychological symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation coefficients between leptin CBR and putative symptoms/markers of hypothalamus dysfunction</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Correlation coefficients between leptin CBR and putative symptoms/markers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation coefficients between leptin CBR and changes in resting metabolic activity assessed by indirect calorimetry through</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Correlation coefficients between leptin CBR and changes in resting metabolic activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation coefficients between leptin CBR and the following CSF biomarkers</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Correlation coefficients between leptin CBR and the following CSF biomarkers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation coefficients between leptin CBR and the following MRI markers</measure>
+    <time_frame>At visit 2, occurring 1 to 90 days after visit 1(Baseline)</time_frame>
+    <description>Correlation coefficients between leptin CBR and the following MRI markers</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">102</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Frontotemporal Dementia</condition>
+  <arm_group>
+    <arm_group_label>Group 1: Controls</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: Alzheimer's Disease</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: Frontotemporal Dementia</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Lumbar puncture</intervention_name>
+    <description>5 mL of CSF</description>
+    <arm_group_label>Group 1: Controls</arm_group_label>
+    <arm_group_label>Group 2: Alzheimer's Disease</arm_group_label>
+    <arm_group_label>Group 3: Frontotemporal Dementia</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>blood sample</intervention_name>
+    <description>6x5 mL of blood sample collected :1 dry tube, 2 EDTA tubes, 1 fluoride tube, and 2 polypropylene tubes</description>
+    <arm_group_label>Group 1: Controls</arm_group_label>
+    <arm_group_label>Group 2: Alzheimer's Disease</arm_group_label>
+    <arm_group_label>Group 3: Frontotemporal Dementia</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Serum, plasma and CSF supernatant will be aliquoted and labelled for storage&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects intended to participate will be recruited in Lille in the memory clinic and in the&#xD;
+        memory clinic network Meotis (North of France above Paris)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects able to undergo a lumbar puncture&#xD;
+&#xD;
+          -  Subjects registered with the French Social Security, in agreement with the French law&#xD;
+             on biomedical experimentation&#xD;
+&#xD;
+        To be assigned in the study subgroups, subjects will have to fulfill the specific following&#xD;
+        criteria:&#xD;
+&#xD;
+        Group 1: Controls&#xD;
+&#xD;
+          -  absence of cognitive complaint (completion of the memory complaint questionnaire)&#xD;
+&#xD;
+          -  absence of significant cognitive impairment: normal MMSE according to age and&#xD;
+             education levels&#xD;
+&#xD;
+          -  Subjects capable of and willing to comply with the protocol and to give their written&#xD;
+             informed consents after having received and understood the subject information Group&#xD;
+             2: Alzheimer's Disease&#xD;
+&#xD;
+          -  Diagnosis of probable Alzheimer's disease dementia according to the NIA 2011 criteria1&#xD;
+&#xD;
+          -  MMSE ≥ 16&#xD;
+&#xD;
+          -  Subjects who have a study partner. The study partner is required to complete several&#xD;
+             scales and to drive back the subject after the lumbar puncture for safety reasons. If&#xD;
+             the subjects or their study partners are not able to drive, their transport fees will&#xD;
+             be reimbursed by the promotor&#xD;
+&#xD;
+          -  Subjects and his/her study partners capable of and willing to comply with the protocol&#xD;
+             and to give their written informed consents after having received and understood the&#xD;
+             subject information. According to the legal protection or the mental capacities of the&#xD;
+             subject, he/she will be accompanied by him/her legally acceptable representative&#xD;
+             during this procedure Group 3: Frontotemporal Dementia&#xD;
+&#xD;
+          -  Diagnosis of probable frontotemporal dementia according to the FTDC 2011 criteria2&#xD;
+&#xD;
+          -  MMSE ≥ 16&#xD;
+&#xD;
+          -  Subjects who have a study partner. The study partner is required to complete several&#xD;
+             scales and to drive back the subject after the lumbar puncture for safety reasons. If&#xD;
+             the subjects or their study partners are not able to drive, their transport fees will&#xD;
+             be reimbursed by the promotor&#xD;
+&#xD;
+          -  Subjects and his/her study partners capable of and willing to comply with the protocol&#xD;
+             and to give their written informed consents after having received and understood the&#xD;
+             subject information. According to the legal protection or the mental capacities of the&#xD;
+             subject, he/she will be accompanied by him/her legally acceptable representative&#xD;
+             during this procedure&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  General exclusion criteria:&#xD;
+&#xD;
+          -  Subjects with dementia caused by a non-neurodegenerative disease, including patients&#xD;
+             with severe cerebrovascular risk factor load&#xD;
+&#xD;
+          -  Subjects who have contraindications to perform a lumbar puncture&#xD;
+&#xD;
+          -  Subjects who have contraindications to perform a MRI scan&#xD;
+&#xD;
+        Associated illnesses or conditions:&#xD;
+&#xD;
+          -  Subjects with other neurodegenerative disease such as Lewy body dementia and&#xD;
+             Parkinson's disease&#xD;
+&#xD;
+          -  Subjects with other serious neurological disorder such as brain tumor, stroke,&#xD;
+             epilepsy, hydrocephalus and any condition which contraindicates, in the investigator's&#xD;
+             judgment, entry to the study;&#xD;
+&#xD;
+          -  Subjects with severe metabolic or endocrine disorder (excluding hypothyroidism under&#xD;
+             stable hormone replacement therapy, controlled type 2 diabetes or common&#xD;
+             dyslipidaemia), previously known or identified at screening&#xD;
+&#xD;
+          -  Subjects under metformin treatment.&#xD;
+&#xD;
+        Biological exclusion criteria:&#xD;
+&#xD;
+          -  Subjects with known active HCV, HBV or HIV&#xD;
+&#xD;
+          -  Subjects with clinical or significant laboratory abnormalities, previously known or&#xD;
+             identified at screening, in the judgment of the investigator&#xD;
+&#xD;
+        Others:&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding or Women of childbearing age without effective&#xD;
+             contraception (a pregnancy test will be done)&#xD;
+&#xD;
+          -  Subjects with excessive alcohol intake or drug abuse, in the judgment of the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Subjects who, in the opinion of the investigator, have a risk of non-compliance to the&#xD;
+             study procedures or who are otherwise not appropriate to include in this clinical&#xD;
+             trial (for example, being impossible to contact in case of emergency)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thibaud LEBOUVIER, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Lille</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thibaud LEBOUVIER, MD,PhD</last_name>
+    <phone>0320445962</phone>
+    <phone_ext>+33</phone_ext>
+    <email>thibaud.lebouvier@chru-lille.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Memory Resources and Research Center Lille</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thibaud LEBOUVIER, MD, PhD</last_name>
+      <email>thibaud.lebouvier@chru-lille.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Laetitia BREUILH, PhD</last_name>
+      <phone>0320446728</phone>
+      <email>laetitia.breuilh@chru-lille.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>July 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 21, 2022</study_first_posted>
+  <last_update_submitted>October 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer disease</keyword>
+  <keyword>Frontotemporal Dementia</keyword>
+  <keyword>tanycytes</keyword>
+  <keyword>metabolism</keyword>
+  <keyword>hormone</keyword>
+  <keyword>cerebrospinal fluid</keyword>
+  <keyword>blood</keyword>
+  <keyword>hypothalamus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

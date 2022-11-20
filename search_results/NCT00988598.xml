@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="128">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00988598</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B0401008</org_study_id>
+    <nct_id>NCT00988598</nct_id>
+  </id_info>
+  <brief_title>A Brief Study To Evaluate The Safety, Tolerability, And Blood Levels Of Multiple Doses Of PF-044467943 Or Placebo In Combination With Donepezil In Subjects With Mild To Moderate Alzheimer's Disease</brief_title>
+  <official_title>A PHASE 1, DOUBLE-BLIND, PLACEBO-CONTROLLED, SPONSOR OPEN, RANDOMIZED, MULTIPLE DOSE STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND PHARMACOKINETICS OF PF-04447943 IN MILD TO MODERATE ALZHEIMER'S DISEASE SUBJECTS ON STABLE DONEPEZIL THERAPY</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pfizer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to evaluate the safety of PF-04447943 when given in combination&#xD;
+      with donepezil in subjects who have Alzheimer's Disease. The study will also evaluate the&#xD;
+      absorption and distribution of both PF-04447943 and donepezil.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 26, 2009</start_date>
+  <completion_date type="Actual">July 5, 2010</completion_date>
+  <primary_completion_date type="Actual">July 5, 2010</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Vital Signs Abnormalities of Potential Clinical Concern</measure>
+    <time_frame>Baseline up to Day 10</time_frame>
+    <description>Criteria for vital signs abnormalities of potential concern included: supine/standing systolic blood pressure (BP) (less than [&lt;] 90 millimeter of mercury [mmHg], maximum [max] decrease and increase of greater than or equal to [&gt;=] 30 mmHg from baseline); diastolic BP (&lt;50 mmHg, maximum decrease and increase of &gt;=20 mmHg from baseline); supine pulse rate &lt;40 beats per minute [bpm] or greater than [&gt;]120 bpm); standing pulse rate &lt;40 bpm or &gt;140 bpm. Baseline is defined as the last pre-dose (PF-04447943) recording at Day 0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Electrocardiogram (ECG) Abnormalities of Potential Clinical Concern</measure>
+    <time_frame>Baseline up to Day 10</time_frame>
+    <description>Criteria for ECG abnormalities of potential clinical concern included: PR interval (&gt;=300 milliseconds [msec], &gt;= 25 percent [%] increase when baseline &gt;200 msec or increase &gt;=50% when baseline less than or equal to [&lt;=] 200 msec); QRS interval (&gt;=200 msec, &gt;= 25% increase when baseline &gt;100 msec or increase &gt;=50% when baseline &lt;=100 msec); QT corrected using Fridericia's formula (QTcF) (&gt;=500 msec, maximum increase between &gt;=30 to &lt;60 msec and &gt;=60 msec). Baseline is defined as the last pre-dose (PF-04447943) recording at Day 0.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Laboratory Test Abnormalities</measure>
+    <time_frame>Baseline up to Day 10</time_frame>
+    <description>Criteria for laboratory tests abnormalities included: hemoglobin, hematocrit (&lt;0.8*lower limit of normal [LLN]); red blood cell count (&lt;0.8*LLN); platelets (&lt;0.5*LLN or &gt;1.75* upper limit of normal [ULN]); leucocytes (&lt;0.6*LLN or &gt;1.5*ULN); lymphocytes, total neutrophils (&lt;0.8*LLN or &gt;1.2*ULN); basophils, eosinophils, monocytes (&gt;1.2*ULN); total bilirubin (&gt;1.5* ULN); aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase (&gt;3*ULN); creatinine, blood urea nitrogen (&gt;1.3*ULN); glucose (&lt;0.6*LLN or &gt;1.5*ULN); uric acid (&gt;1.2*ULN); sodium (&lt;0.95*LLN or 1.05*ULN); potassium, calcium, chloride, bicarbonate (&lt;0.9*LLN or 1.1*ULN); albumin, total protein (&lt;0.8*LLN or 1.2*ULN); urine analysis. Total number of participants with any laboratory abnormalities was reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Baseline up to Day 10</time_frame>
+    <description>An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to Day 10 after last dose that were absent before treatment or that worsened relative to pretreatment state. Any abnormalities related to physical and neurological findings, laboratory tests, vital signs and ECG were reported as adverse events. AEs included SAEs as well as non-serious AEs which occurred during the trial.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentrations of PF-04447943</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of PF-04447943</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+    <description>Area under the plasma concentration time-curve from time zero to end of dosing interval (tau), where dosing interval is 12 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax) of PF-04447943</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Maximum Observed Plasma Concentration (Tmax) of PF-04447943</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentrations of Donepezil</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Donepezil</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+    <description>Area under the plasma concentration time-curve from time zero to end of dosing interval (tau), where dosing interval is 24 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Observed Plasma Concentration (Cmax) of Donepezil</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Reach Maximum Observed Plasma Concentration (Tmax) of Donepezil</measure>
+    <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>PF-04447943</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PF-04447943</intervention_name>
+    <description>25 mg of PF-04447943 orally every 12 hours for 7 days</description>
+    <arm_group_label>PF-04447943</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>25 mg matching placebo to PF-04447943 orally every 12 hours for 7 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects must have Alzheimer's dementia with a Mini Mental State Examination score&#xD;
+             between 18-26, inclusive.&#xD;
+&#xD;
+          -  Subjects must have a reliable caregiver.&#xD;
+&#xD;
+          -  Subjects must be on Aricept&#xD;
+&#xD;
+          -  Memantine is allowed if subjects are on a stable dose&#xD;
+&#xD;
+          -  Subjects must be in reasonably good health, based on medical history, physical&#xD;
+             examination, vital signs, and ECG, with no serious or unstable disease within the past&#xD;
+             3 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects with clinically significant heart disease cannot participate.&#xD;
+&#xD;
+          -  Subjects with a past or current history of seizures cannot participate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Glendale Adventist Medical Center</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida - Center for Clinical Trials Research</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Clinical</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 1, 2009</study_first_submitted>
+  <study_first_submitted_qc>October 1, 2009</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 2, 2009</study_first_posted>
+  <results_first_submitted>October 28, 2020</results_first_submitted>
+  <results_first_submitted_qc>October 28, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 19, 2020</results_first_posted>
+  <last_update_submitted>October 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>phase 1 Alzheimer's disease donepezil</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Eligible participants enrolled in this study were already on prior stable donepezil therapy.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>PF-04447943 25 mg + Donepezil</title>
+          <description>PF-04447943 25 milligram (mg) tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo + Donepezil</title>
+          <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="8"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>PF-04447943 25 mg + Donepezil</title>
+          <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo + Donepezil</title>
+          <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="5"/>
+            <count group_id="B3" value="15"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="69.9" spread="5.6"/>
+                    <measurement group_id="B2" value="69.8" spread="5.8"/>
+                    <measurement group_id="B3" value="69.9" spread="5.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Vital Signs Abnormalities of Potential Clinical Concern</title>
+        <description>Criteria for vital signs abnormalities of potential concern included: supine/standing systolic blood pressure (BP) (less than [&lt;] 90 millimeter of mercury [mmHg], maximum [max] decrease and increase of greater than or equal to [&gt;=] 30 mmHg from baseline); diastolic BP (&lt;50 mmHg, maximum decrease and increase of &gt;=20 mmHg from baseline); supine pulse rate &lt;40 beats per minute [bpm] or greater than [&gt;]120 bpm); standing pulse rate &lt;40 bpm or &gt;140 bpm. Baseline is defined as the last pre-dose (PF-04447943) recording at Day 0.</description>
+        <time_frame>Baseline up to Day 10</time_frame>
+        <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Vital Signs Abnormalities of Potential Clinical Concern</title>
+          <description>Criteria for vital signs abnormalities of potential concern included: supine/standing systolic blood pressure (BP) (less than [&lt;] 90 millimeter of mercury [mmHg], maximum [max] decrease and increase of greater than or equal to [&gt;=] 30 mmHg from baseline); diastolic BP (&lt;50 mmHg, maximum decrease and increase of &gt;=20 mmHg from baseline); supine pulse rate &lt;40 beats per minute [bpm] or greater than [&gt;]120 bpm); standing pulse rate &lt;40 bpm or &gt;140 bpm. Baseline is defined as the last pre-dose (PF-04447943) recording at Day 0.</description>
+          <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Supine Systolic BP (&lt;90 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Standing Systolic BP (&lt;90 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Supine Diastolic BP (&lt;50 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Standing Diastolic BP (&lt;50 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Increase in Supine Systolic BP (&gt;=30 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Increase in Standing Systolic BP (&gt;=30 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Increase in Supine Diastolic BP (&gt;=20 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Increase in Standing Diastolic BP (&gt;=20 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Decrease in Supine Systolic BP (&gt;=30 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Decrease in Standing Systolic BP (&gt;=30 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Decrease in Supine Diastolic BP (&gt;=20 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Max Decrease in Standing Diastolic BP (&gt;=20 mmHg)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Supine Pulse Rate (&lt;40 bpm)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Supine Pulse Rate (&gt;120 bpm)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Standing Pulse Rate (&lt;40 bpm)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Standing Pulse Rate (&gt;140 bpm)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Electrocardiogram (ECG) Abnormalities of Potential Clinical Concern</title>
+        <description>Criteria for ECG abnormalities of potential clinical concern included: PR interval (&gt;=300 milliseconds [msec], &gt;= 25 percent [%] increase when baseline &gt;200 msec or increase &gt;=50% when baseline less than or equal to [&lt;=] 200 msec); QRS interval (&gt;=200 msec, &gt;= 25% increase when baseline &gt;100 msec or increase &gt;=50% when baseline &lt;=100 msec); QT corrected using Fridericia's formula (QTcF) (&gt;=500 msec, maximum increase between &gt;=30 to &lt;60 msec and &gt;=60 msec). Baseline is defined as the last pre-dose (PF-04447943) recording at Day 0.</description>
+        <time_frame>Baseline up to Day 10</time_frame>
+        <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Electrocardiogram (ECG) Abnormalities of Potential Clinical Concern</title>
+          <description>Criteria for ECG abnormalities of potential clinical concern included: PR interval (&gt;=300 milliseconds [msec], &gt;= 25 percent [%] increase when baseline &gt;200 msec or increase &gt;=50% when baseline less than or equal to [&lt;=] 200 msec); QRS interval (&gt;=200 msec, &gt;= 25% increase when baseline &gt;100 msec or increase &gt;=50% when baseline &lt;=100 msec); QT corrected using Fridericia's formula (QTcF) (&gt;=500 msec, maximum increase between &gt;=30 to &lt;60 msec and &gt;=60 msec). Baseline is defined as the last pre-dose (PF-04447943) recording at Day 0.</description>
+          <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Maximum PR Interval (&gt;=300 msec)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum PR Interval Increase (&gt;=25/50%)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum QRS Interval (&gt;=200 msec)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum QRS Interval Increase (&gt;=25/50%)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum QTcF Interval (&gt;=500 msec)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum QTcF Interval Increase(Change &gt;=30 to &lt;60)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Maximum QTcF Interval Increase (Change &gt;=60)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Laboratory Test Abnormalities</title>
+        <description>Criteria for laboratory tests abnormalities included: hemoglobin, hematocrit (&lt;0.8*lower limit of normal [LLN]); red blood cell count (&lt;0.8*LLN); platelets (&lt;0.5*LLN or &gt;1.75* upper limit of normal [ULN]); leucocytes (&lt;0.6*LLN or &gt;1.5*ULN); lymphocytes, total neutrophils (&lt;0.8*LLN or &gt;1.2*ULN); basophils, eosinophils, monocytes (&gt;1.2*ULN); total bilirubin (&gt;1.5* ULN); aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase (&gt;3*ULN); creatinine, blood urea nitrogen (&gt;1.3*ULN); glucose (&lt;0.6*LLN or &gt;1.5*ULN); uric acid (&gt;1.2*ULN); sodium (&lt;0.95*LLN or 1.05*ULN); potassium, calcium, chloride, bicarbonate (&lt;0.9*LLN or 1.1*ULN); albumin, total protein (&lt;0.8*LLN or 1.2*ULN); urine analysis. Total number of participants with any laboratory abnormalities was reported.</description>
+        <time_frame>Baseline up to Day 10</time_frame>
+        <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Laboratory Test Abnormalities</title>
+          <description>Criteria for laboratory tests abnormalities included: hemoglobin, hematocrit (&lt;0.8*lower limit of normal [LLN]); red blood cell count (&lt;0.8*LLN); platelets (&lt;0.5*LLN or &gt;1.75* upper limit of normal [ULN]); leucocytes (&lt;0.6*LLN or &gt;1.5*ULN); lymphocytes, total neutrophils (&lt;0.8*LLN or &gt;1.2*ULN); basophils, eosinophils, monocytes (&gt;1.2*ULN); total bilirubin (&gt;1.5* ULN); aspartate aminotransferase, alanine aminotransferase, alkaline phosphatase (&gt;3*ULN); creatinine, blood urea nitrogen (&gt;1.3*ULN); glucose (&lt;0.6*LLN or &gt;1.5*ULN); uric acid (&gt;1.2*ULN); sodium (&lt;0.95*LLN or 1.05*ULN); potassium, calcium, chloride, bicarbonate (&lt;0.9*LLN or 1.1*ULN); albumin, total protein (&lt;0.8*LLN or 1.2*ULN); urine analysis. Total number of participants with any laboratory abnormalities was reported.</description>
+          <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)</title>
+        <description>An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to Day 10 after last dose that were absent before treatment or that worsened relative to pretreatment state. Any abnormalities related to physical and neurological findings, laboratory tests, vital signs and ECG were reported as adverse events. AEs included SAEs as well as non-serious AEs which occurred during the trial.</description>
+        <time_frame>Baseline up to Day 10</time_frame>
+        <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Treatment-Emergent Adverse Events (AEs) and Serious Adverse Events (SAEs)</title>
+          <description>An AE was any untoward medical occurrence in a participant who received study drug without regard to possibility of causal relationship. An SAE was an AE resulting in any of the following outcomes or deemed significant for any other reason: death; initial or prolonged inpatient hospitalization; life-threatening experience (immediate risk of dying); persistent or significant disability/incapacity; congenital anomaly. Treatment-emergent are events between first dose of study drug and up to Day 10 after last dose that were absent before treatment or that worsened relative to pretreatment state. Any abnormalities related to physical and neurological findings, laboratory tests, vital signs and ECG were reported as adverse events. AEs included SAEs as well as non-serious AEs which occurred during the trial.</description>
+          <population>Safety analysis set included all participants who had received at least 1 dose of study medication.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>AEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SAEs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Plasma Concentrations of PF-04447943</title>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+        <population>Pharmacokinetic (PK) concentration analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 evaluable PF-04447943 concentration. Here, 'number analyzed, n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Plasma Concentrations of PF-04447943</title>
+          <population>Pharmacokinetic (PK) concentration analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 evaluable PF-04447943 concentration. Here, 'number analyzed, n' signifies those participants who were evaluable at specified time point.</population>
+          <units>nanogram per milliliter (ng/mL)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1: 0 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.01050" spread="0.033204"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 1: 0.5 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="179.6" spread="127.67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 1: 1 hour</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="296.7" spread="83.312"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 1: 3 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="225.9" spread="46.905"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 1: 8 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="91.76" spread="30.400"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 1: 12 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="51.99" spread="21.018"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 0 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73.49" spread="28.023"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 0.5 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="340.4" spread="168.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 1 hour</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="353.6" spread="112.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 3 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="284.0" spread="83.881"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 8 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="124.8" spread="49.247"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 12 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="69.08" spread="28.483"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of PF-04447943</title>
+        <description>Area under the plasma concentration time-curve from time zero to end of dosing interval (tau), where dosing interval is 12 hours.</description>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+        <population>PK analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 of the PK parameters of interest for PF-04447943. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of PF-04447943</title>
+          <description>Area under the plasma concentration time-curve from time zero to end of dosing interval (tau), where dosing interval is 12 hours.</description>
+          <population>PK analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 of the PK parameters of interest for PF-04447943. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+          <units>nanogram*hour per milliliter (ng*hr/mL)</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1657" spread="391.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2140" spread="688.96"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Maximum Observed Plasma Concentration (Cmax) of PF-04447943</title>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+        <population>PK analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 of the PK parameters of interest for PF-04447943. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Observed Plasma Concentration (Cmax) of PF-04447943</title>
+          <population>PK analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 of the PK parameters of interest for PF-04447943. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="303.8" spread="66.655"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="390.9" spread="109.31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Reach Maximum Observed Plasma Concentration (Tmax) of PF-04447943</title>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours after morning dose of PF-04447943 on Day 1, Day 7</time_frame>
+        <population>PK analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 of the PK parameters of interest for PF-04447943. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Reach Maximum Observed Plasma Concentration (Tmax) of PF-04447943</title>
+          <population>PK analysis set included all randomized participants who had received at least one dose of PF-04447943 and had at least 1 of the PK parameters of interest for PF-04447943. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+          <units>hours</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.00" lower_limit="1.00" upper_limit="3.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.767" lower_limit="0.500" upper_limit="3.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Plasma Concentrations of Donepezil</title>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+        <population>PK concentration analysis set included all randomized participants who had received donepezil and had at least 1 evaluable donepezil concentration. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Plasma Concentrations of Donepezil</title>
+          <population>PK concentration analysis set included all randomized participants who had received donepezil and had at least 1 evaluable donepezil concentration. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 0: 0 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.30" spread="22.982"/>
+                    <measurement group_id="O2" value="19.10" spread="10.562"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 0: 0.5 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="29.93" spread="22.874"/>
+                    <measurement group_id="O2" value="23.92" spread="16.478"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 0: 1 hour</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="41.08" spread="20.592"/>
+                    <measurement group_id="O2" value="36.18" spread="9.6916"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 0: 3 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="54.09" spread="28.122"/>
+                    <measurement group_id="O2" value="41.56" spread="11.088"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 0: 8 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42.15" spread="24.360"/>
+                    <measurement group_id="O2" value="30.92" spread="11.339"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 0: 12 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="9"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34.04" spread="20.659"/>
+                    <measurement group_id="O2" value="28.02" spread="11.308"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 0 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34.94" spread="22.579"/>
+                    <measurement group_id="O2" value="33.86" spread="3.7031"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 0.5 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="39.56" spread="26.766"/>
+                    <measurement group_id="O2" value="35.82" spread="3.8226"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 1 hour</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47.29" spread="30.726"/>
+                    <measurement group_id="O2" value="45.04" spread="12.347"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 3 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58.15" spread="30.916"/>
+                    <measurement group_id="O2" value="56.36" spread="5.6783"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 8 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46.90" spread="23.802"/>
+                    <measurement group_id="O2" value="45.42" spread="4.4404"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7: 12 hours</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42.83" spread="23.299"/>
+                    <measurement group_id="O2" value="41.78" spread="4.7505"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Donepezil</title>
+        <description>Area under the plasma concentration time-curve from time zero to end of dosing interval (tau), where dosing interval is 24 hours.</description>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+        <population>PK analysis set included all randomized participants who had received donepezil and had at least 1 of the PK parameters of interest of donepezil. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Area Under the Curve From Time Zero to End of Dosing Interval (AUCtau) of Donepezil</title>
+          <description>Area under the plasma concentration time-curve from time zero to end of dosing interval (tau), where dosing interval is 24 hours.</description>
+          <population>PK analysis set included all randomized participants who had received donepezil and had at least 1 of the PK parameters of interest of donepezil. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+          <units>ng*hr/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="426.8" spread="256.08"/>
+                    <measurement group_id="O2" value="380.6" spread="127.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="513.4" spread="314.66"/>
+                    <measurement group_id="O2" value="565.2" spread="40.402"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Maximum Observed Plasma Concentration (Cmax) of Donepezil</title>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+        <population>PK analysis set included all randomized participants who had received donepezil and had at least 1 of the PK parameters of interest of donepezil. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Observed Plasma Concentration (Cmax) of Donepezil</title>
+          <population>PK analysis set included all randomized participants who had received donepezil and had at least 1 of the PK parameters of interest of donepezil. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+          <units>ng/mL</units>
+          <param>Geometric Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47.60" spread="27.600"/>
+                    <measurement group_id="O2" value="42.48" spread="8.1522"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52.88" spread="30.177"/>
+                    <measurement group_id="O2" value="59.61" spread="4.6404"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Reach Maximum Observed Plasma Concentration (Tmax) of Donepezil</title>
+        <time_frame>0 hours (pre-dose), 0.5, 1, 3, 8, 12 hours post donepezil administration on Day 0(Baseline), Day 7</time_frame>
+        <population>PK analysis set included all randomized participants who had received donepezil and had at least 1 of the PK parameters of interest of donepezil. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>PF-04447943 25 mg + Donepezil</title>
+            <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo + Donepezil</title>
+            <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Reach Maximum Observed Plasma Concentration (Tmax) of Donepezil</title>
+          <population>PK analysis set included all randomized participants who had received donepezil and had at least 1 of the PK parameters of interest of donepezil. Here, 'n' signifies those participants who were evaluable at specified time point.</population>
+          <units>hours</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 0</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="10"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.00" lower_limit="1.00" upper_limit="3.00"/>
+                    <measurement group_id="O2" value="3.00" lower_limit="1.00" upper_limit="3.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="8"/>
+                    <count group_id="O2" value="5"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.00" lower_limit="1.00" upper_limit="8.00"/>
+                    <measurement group_id="O2" value="3.00" lower_limit="1.00" upper_limit="3.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>PF-04447943 25 mg + Donepezil</title>
+          <description>PF-04447943 25 mg tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo + Donepezil</title>
+          <description>Placebo matched to PF-04447943 tablet orally, twice daily from Day 1 through Day 6 and once in morning on Day 7 along with donepezil 10 mg tablet orally once daily for 7 days.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA v13.0</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Confusional state</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Nightmare</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pollakiuria</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Pfizer has the right to review disclosures, requesting a delay of less than 60 days. Investigator will postpone single center publications until after disclosure of pooled data (all sites), less than 12 months from study completion/termination at all participating sites. Investigator may not disclose previously undisclosed confidential information other than study results.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Pfizer ClinicalTrials.gov Call Center</name_or_title>
+      <organization>Pfizer, Inc.</organization>
+      <phone>1-800-718-1021</phone>
+      <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

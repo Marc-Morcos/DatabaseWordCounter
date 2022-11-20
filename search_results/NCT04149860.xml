@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="925">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04149860</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18146A</org_study_id>
+    <nct_id>NCT04149860</nct_id>
+  </id_info>
+  <brief_title>Study With Lu AF87908 in Healthy Participants and Participants With Alzheimer's Disease</brief_title>
+  <official_title>Interventional, Randomized, Double-blind, Placebo-controlled, Single-ascending-dose Study Investigating the Safety, Tolerability, and Pharmacokinetic Properties of Lu AF87908 in Healthy Subjects and Patients With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lundbeck A/S</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>H. Lundbeck A/S</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the safety of a single dose of Lu AF87908, how&#xD;
+      well it is tolerated and what the body does to the drug in healthy participants and&#xD;
+      participants with Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will be divided into three parts: Part A, Part B and Part C.&#xD;
+&#xD;
+      Part A consists of up to 6 sequential cohorts (Cohorts A1 to A6):&#xD;
+&#xD;
+      -Cohorts A1 to A6: 8 healthy participants per cohort (aiming for an equal number of men and&#xD;
+      women): 6 randomized to Lu AF87908 and 2 randomized to placebo.&#xD;
+&#xD;
+      Part B consists of up to 3 sequential cohorts (Cohorts B1 to B3):&#xD;
+&#xD;
+      -Cohorts B1 to B3: 4 Japanese and 4 Chinese healthy participants per cohort: 6 participants&#xD;
+      randomized to Lu AF87908 and 2 participants randomized to placebo.&#xD;
+&#xD;
+      Part C consists of 2 sequential cohorts (Cohorts C1 and C4):&#xD;
+&#xD;
+      -Cohorts C1 and C4: 8 participants with Alzheimer's disease per cohort: 6 randomized to Lu&#xD;
+      AF87908 and 2 randomized to placebo.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 27, 2019</start_date>
+  <completion_date type="Anticipated">June 19, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 19, 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Treatment Emergent Adverse Events</measure>
+    <time_frame>From Day 0 to Day 84</time_frame>
+    <description>Safety and tolerability based on the safety assessments (clinical safety laboratory tests, vital signs, weight, ECG parameters and physical examination)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>AUC(0-t) of Lu AF87908</measure>
+    <time_frame>From Day 0 to Day 84</time_frame>
+    <description>Area under the plasma concentration curve for Lu AF87908</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cmax of Lu AF87908</measure>
+    <time_frame>From Day 0 to Day 84</time_frame>
+    <description>Maximum observed plasma concentration for Lu AF87908</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tmax Lu AF87908</measure>
+    <time_frame>From Day 0 to Day 84</time_frame>
+    <description>Nominal time of occurrence of Cmax of Lu AF97908 in plasma</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>Healthy</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Part A: Lu AF87908 or Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in Cohorts A1 to A6 will receive a single dose of either Lu AF87908 or matching placebo at specific dose levels on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: Lu AF87908 or Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in Cohorts B1 to B3 will receive a single dose of either Lu AF87908 or matching placebo at specific dose levels on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part C: Lu AF87908 or Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in Cohorts C1 and C4 will receive a single dose of either Lu AF87908 or matching placebo at specific dose levels on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lu AF87908</intervention_name>
+    <description>Lu AF87908 concentrate for solution for intravenous (IV) infusion</description>
+    <arm_group_label>Part A: Lu AF87908 or Placebo</arm_group_label>
+    <arm_group_label>Part B: Lu AF87908 or Placebo</arm_group_label>
+    <arm_group_label>Part C: Lu AF87908 or Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Concentrate for solution for IV infusion</description>
+    <arm_group_label>Part A: Lu AF87908 or Placebo</arm_group_label>
+    <arm_group_label>Part B: Lu AF87908 or Placebo</arm_group_label>
+    <arm_group_label>Part C: Lu AF87908 or Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+        Healthy Participants:&#xD;
+&#xD;
+        -Men and women ≥18 and ≤65 years of age with a body mass index (BMI) ≥18 and ≤32 kilograms&#xD;
+        (kg)/square meter (m^2) and a minimum weight of 50 kg.&#xD;
+&#xD;
+        Participants with Alzheimer's disease:&#xD;
+&#xD;
+          -  Men and women with a clinical diagnosis of Alzheimer's disease, Stages 3-4 according&#xD;
+             to the FDA guidelines.&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) of 20-30, AND&#xD;
+&#xD;
+          -  Clinical Dementia Scale (CDR) global score of 0.5 or 1.0.&#xD;
+&#xD;
+          -  Confirmed or determined (via amyloid positron emission tomography [PET] scan) to be&#xD;
+             amyloid positive.&#xD;
+&#xD;
+          -  If on FDA approved Alzheimer's disease medication, the treatment has been stable for 4&#xD;
+             months prior to Day 1.&#xD;
+&#xD;
+             -≥50 years of age&#xD;
+&#xD;
+          -  BMI ≥18 and ≤34 kg/m^2 and a minimum weight of 50 kg.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Clinically relevant structural brain abnormality as assessed using magnetic resonance&#xD;
+             imaging (MRI).&#xD;
+&#xD;
+          -  Any past or current treatment with an anti-Abeta or anti-tau active vaccine.&#xD;
+&#xD;
+          -  Any past or current treatment with a monoclonal anti-tau antibody or a tau anti-sense&#xD;
+             oligomer within the last 6 months.&#xD;
+&#xD;
+          -  Treatment with covid-19, influenza or pneumonia vaccine within the last 30 days prior&#xD;
+             to dosing of investigational medicinal product (IMP).&#xD;
+&#xD;
+        Other eligibility criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Email contact via H. Lundbeck A/S</last_name>
+    <role>Study Director</role>
+    <affiliation>LundbeckClinicalTrials@Lundbeck.com</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Email contact via H. Lundbeck A/S</last_name>
+    <phone>+45 36301311</phone>
+    <email>LundbeckClinicalTrials@Lundbeck.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>PAREXEL International</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Research Center of America</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Panax Clinical Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Atlanta LLC</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Princeton Medical Institute</name>
+      <address>
+        <city>Princeton</city>
+        <state>New Jersey</state>
+        <zip>08540</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinilabs, Inc.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10019</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 31, 2019</study_first_submitted>
+  <study_first_submitted_qc>November 1, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2019</study_first_posted>
+  <last_update_submitted>October 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 7, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

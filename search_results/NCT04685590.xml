@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="848">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685590</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00067429</org_study_id>
+    <nct_id>NCT04685590</nct_id>
+  </id_info>
+  <brief_title>Senolytic Therapy to Modulate the Progression of Alzheimer's Disease (SToMP-AD) Study</brief_title>
+  <acronym>SToMP-AD</acronym>
+  <official_title>Phase II Clinical Trial to Evaluate the Safety and Feasibility of Senolytic Therapy in Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wake Forest University Health Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The University of Texas Health Science Center at San Antonio</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Wake Forest University Health Sciences</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of the study is to determine the safety, feasibility, and efficacy of&#xD;
+      senolytics in older adults with amnestic mild cognitive impairment (MCI) or early-stage AD&#xD;
+      (Clinical Dementia Rating (CDR)=0.5 or 1) who are tau PET positive&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a Phase II multi-site, randomized, double-blind placebo controlled trial to&#xD;
+      determine safety, feasibility, and efficacy of senolytics in older adults with amnestic mild&#xD;
+      cognitive impairment (MCI) or early-stage AD (Clinical Dementia Rating (CDR)=0.5 or 1) who&#xD;
+      are tau PET positive.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 22, 2021</start_date>
+  <completion_date type="Anticipated">January 2032</completion_date>
+  <primary_completion_date type="Anticipated">January 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Serious Adverse Events (SAEs) and Adverse Events (AEs) in treatment group as compared to placebo group</measure>
+    <time_frame>Baseline to Week 48</time_frame>
+    <description>Adverse Events (AEs) and SAEs will be collected at each in-person visit and at scheduled telephone visits from baseline to week 48. Incidence of SAEs between groups (treatment vs. placebo) will be reviewed by the Data Safety Monitoring Board (DSMB) for clinical significance.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in cellular senescence blood marker Senescence-Associated Secretory Phenotype (SASP) composite score</measure>
+    <time_frame>Baseline to Week 12</time_frame>
+    <description>Composite score (average z-score of log-transformed values) of ten primary SASP factors measured in blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cellular senescence blood marker Cluster of Differentiation 3 (CD3) in blood</measure>
+    <time_frame>Baseline to Week 12</time_frame>
+    <description>Primary markers of cellular senescence CD3 measured in blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cellular senescence blood marker cyclin-dependent kinase inhibitor 2A (p16INK4A+) in blood</measure>
+    <time_frame>Baseline to Week 12</time_frame>
+    <description>Primary markers of cellular senescence p16INK4A+ measured in blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in cellular senescence blood marker T cells in blood</measure>
+    <time_frame>Baseline to Week 12</time_frame>
+    <description>Primary markers of cellular senescence T cells measured in blood.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Clinical Dementia Rating Scale Sum of Boxes (CDR-SB) slope</measure>
+    <time_frame>Baseline to Week 48</time_frame>
+    <description>CDR is calculated on the basis of testing six different cognitive and behavioral domains such as memory, orientation, judgment and problem solving, community affairs, home and hobbies performance, and personal care. The CDR is based on a scale of 0-3: no dementia (CDR = 0), questionable dementia (CDR = 0.5), MCI (CDR = 1), moderate cognitive impairment (CDR = 2), and severe cognitive impairment (CDR = 3). The six domains are often summed to create a 0 - 18 &quot;sum of the boxes&quot; score. CDR-SB has been shown to demonstrate sensitivity to cognitive changes associated with progression of amnestic mild cognitive impairment (aMCI) and early Alzheimer's Disease (AD).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the 14 - item Alzheimer's Disease Assessment Scale - Cognitive subscale (ADAS-Cog 14) slope</measure>
+    <time_frame>Baseline to Week 48</time_frame>
+    <description>A psychometric instrument that evaluates memory, attention, reasoning, language, orientation, and praxis. A higher score indicates more impairment. Scores from the original portion of the test range from 0 (best) to 65 (worse), and are added to the mean of the words not immediately recalled (max of 10) and the number of items not recalled after a delay (ranging from 0-10) all total the maximum score of 85. A positive change indicates cognitive worsening.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Positron Emission Tomography (PET) - Computed Tomography (CT) - brain tau pathology</measure>
+    <time_frame>Baseline to Week 48</time_frame>
+    <description>Tau levels in the brain will measured by 18F AV1451 PET imaging to assess target engagement of dasatinib and quercetin (D+Q) and impact on brain tau as a relevant Alzheimer's Disease (AD) biomarker.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Alzheimer Disease, Early Onset</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dasatinib (D) is given as (1) 100mg capsule daily for 2 consecutive days (Sprycel®, Bristol Myers Squibb). Quercetin (Q) will be given as (4) 250 mg capsules daily (total 1000 mg daily) for the same 2 consecutive days (Thorne Research). Both are administered orally.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo capsules following the same administration protocol as the experimental treatment - administered once daily (1st dose of each cycle will be given, supervised, at the clinic visit; the 2nd dose will be taken at home) for 2 consecutive days followed by a 13-day (+/- 2 day) no-drug period for 12 consecutive weeks for 6 rounds of administration.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dasatinib + Quercetin</intervention_name>
+    <description>D+Q will be administered once daily (1st dose of each cycle will be given, supervised, at the clinic visit; the 2nd dose will be taken at home) for 2 consecutive days followed by a 13-day (+/- 2 day) no-drug period for 12 consecutive weeks for 6 rounds of administration.</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo Capsules</intervention_name>
+    <description>Matching placebo capsules following the same administration protocol as the experimental treatment - administered once daily (1st dose of each cycle will be given, supervised, at the clinic visit; the 2nd dose will be taken at home) for 2 consecutive days followed by a 13-day (+/- 2 day) no-drug period for 12 consecutive weeks for 6 rounds of administration.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Ages 65 years and older at screening&#xD;
+&#xD;
+          2. Both sexes&#xD;
+&#xD;
+          3. All ethnicities&#xD;
+&#xD;
+          4. Diagnosis of amnestic mild cognitive impairment (aMCI) or early Alzheimer's disease&#xD;
+             (AD)&#xD;
+&#xD;
+          5. Elevated tau protein as determined by CSF Aβ:tau ratio&#xD;
+&#xD;
+          6. FDA-approved medications for AD (e.g. donepezil, rivastigmine, galantamine) are&#xD;
+             permitted as long as the participant has been maintained on a stable dose for at least&#xD;
+             three months prior to study entry.&#xD;
+&#xD;
+          7. Labs: Normal blood cell counts, normal liver and renal function without clinically&#xD;
+             significant excursions as determined by coordinating center Medical Monitor. Total&#xD;
+             cholesterol &lt;240 mg/dl, HbA1c ≤ 7%.&#xD;
+&#xD;
+          8. prothrombin time (PT)/partial thromboplastin time (PTT)/international normalized ratio&#xD;
+             (INR) within normal limits&#xD;
+&#xD;
+          9. Participants must have the ability to provide written consent or be accompanied by a&#xD;
+             Legally Authorized Representative designated to sign informed consent (if determined&#xD;
+             not to have decision capacity by Site PI).&#xD;
+&#xD;
+         10. Participants must have a study partner who agrees to participate throughout the&#xD;
+             duration of the study. The study partner must have frequent and sufficient contact&#xD;
+             (approximately 10 hours per week) with the participant and be able to provide accurate&#xD;
+             information regarding the participant's cognitive and functional abilities.&#xD;
+&#xD;
+         11. Participants must have no travel plans that would interfere with scheduling visits&#xD;
+             following consent over the 12 months of study duration&#xD;
+&#xD;
+         12. Must speak English fluently and have at least six years of formal education&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Body mass index (BMI)&gt;40 kg/m2&#xD;
+&#xD;
+          2. corrected QT interval (QTc) &gt;450 msec&#xD;
+&#xD;
+          3. MRI contraindications including claustrophobia, the presence of metal (ferromagnetic)&#xD;
+             implants, or cardiac pacemaker.&#xD;
+&#xD;
+          4. Pregnancy&#xD;
+&#xD;
+          5. Any significant neurologic disease other than prodromal or early AD including&#xD;
+             Parkinson's disease, Huntington's disease, normal pressure hydrocephalus, brain tumor,&#xD;
+             progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple&#xD;
+             sclerosis, or history of significant head trauma followed by persistent neurologic&#xD;
+             deficits or known structural brain abnormalities.&#xD;
+&#xD;
+          6. Current or history of alcohol or substance abuse or dependence within the past 2 years&#xD;
+             Diagnostic and Statistical Manual of Mental Disorders (DSM V criteria)&#xD;
+&#xD;
+          7. Uncontrolled diabetes (HbA1c &gt; 7% or the current use of insulin or sulfonylureas)&#xD;
+&#xD;
+          8. Poorly controlled blood pressure (systolic BP&gt;160, diastolic BP&gt;90 mmHg)&#xD;
+&#xD;
+          9. eGFR &lt; 10 ml/ min/ 1.73 m2.&#xD;
+&#xD;
+         10. Myocardial infarction, angina, stroke, or transient ischemic attack in the past 6&#xD;
+             months.&#xD;
+&#xD;
+         11. Chronic heart failure.&#xD;
+&#xD;
+         12. Presence of significant liver disease with total bilirubin &gt;2X upper limit.&#xD;
+&#xD;
+         13. Inability to tolerate oral medication.&#xD;
+&#xD;
+         14. Subjects taking medications that are sensitive to substrates or substrates with a&#xD;
+             narrow therapeutic range for CYP3A4, CYP2C8, CYP2C9, or CYP2D6 or strong inhibitors or&#xD;
+             inducers of CYP3A4 (e.g., cyclosporine, tacrolimus, or sirolimus).&#xD;
+&#xD;
+         15. Subjects currently taking drugs that induce cellular senescence: alkylating agents,&#xD;
+             anthracyclines, platins, other chemotherapy.&#xD;
+&#xD;
+         16. Subjects on therapeutic doses of anticoagulants (e.g., warfarin, heparin, low&#xD;
+             molecular weight heparin, factor Xa inhibitors, etc.) other than low-dose aspirin&#xD;
+&#xD;
+         17. Subjects taking H2 antagonists or proton pump inhibitors who are unable or unwilling&#xD;
+             to reduce or hold therapy for at least 2 days prior to and during each of the 2-day&#xD;
+             courses of Dasatinib plus quercetin dosing. Instead, subjects may use antacids prior&#xD;
+             to and during each of the 2-day courses of Dasatinib plus quercetin dosing.&#xD;
+&#xD;
+         18. Subjects taking the following other drugs if they cannot be held for at least 2 days&#xD;
+             before and during administration of study drug or placebo: digoxin, lithium, all&#xD;
+             statins, repaglidine, bosentan, gemfibrozil, olmesartan, enalapril, valsartan,&#xD;
+             methotrexate, corticosteroids, thyroid hormones, eluxadoline, eltrombopag,&#xD;
+             nitroglycerin, pioglitazone, glyburide, enzalutamide, ezetimibe, colchicine, imatinib,&#xD;
+             cyclosporine, tacrolimus, sirolimus, carbamazepine, flecainide, phenytoin,&#xD;
+             phenobarbital, rifampicin, theophylline, warfarin, heparin, full dose ASA,&#xD;
+             clopidogrel, celecoxib, desipramine, thioridazine, venlafaxine, tizanidine,&#xD;
+             atomoxetine, voriconazole, citalopram, diazepam, escitalopram, propranolol, clozapine,&#xD;
+             cyclobenzaprine, mexiletine, olanzapine, ondansetron, riluzole.&#xD;
+&#xD;
+         19. Presence of any condition that the Investigator believes would put the subject at risk&#xD;
+             or would preclude the patient from successfully completing all aspects of the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Suzanne Craft, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest University Health Sciences</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Miranda Orr, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Wake Forest University Health Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Miranda Orr, PhD</last_name>
+    <phone>336-713-8830</phone>
+    <email>morr@wakehealth.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sarah B Bohlman, MSL</last_name>
+    <phone>336-716-7354</phone>
+    <email>sarabrow@wakehealth.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Wake Forest Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miranda Orr, PhD</last_name>
+      <phone>336-713-8830</phone>
+      <email>morr@wakehealth.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sarah B Bohlman, MSL</last_name>
+      <phone>336-716-7354</phone>
+      <email>sarabrow@wakehealth.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>December 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>January 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 24, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>amnestic mild cognitive impairment</keyword>
+  <keyword>Alzheimer Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dasatinib</mesh_term>
+    <mesh_term>Quercetin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

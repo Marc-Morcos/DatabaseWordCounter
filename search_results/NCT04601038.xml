@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2288">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04601038</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00227116</org_study_id>
+    <nct_id>NCT04601038</nct_id>
+  </id_info>
+  <brief_title>Trial of CORT108297 to Attenuate the Effects of Acute Stress in the Allocortex (CORT-X)</brief_title>
+  <acronym>CORT-X</acronym>
+  <official_title>Phase II Trial of CORT108297 to Attenuate the Effects of Acute Stress in the Allocortex (CORT-X)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      CORT-X will examine if mitigation of stress-mediated pathogenesis of Alzheimer's disease (AD)&#xD;
+      is a feasible target for intervention in individuals at risk for this disease. This&#xD;
+      single-site (Baltimore, Maryland) phase II clinical trial is a 2-week, randomized,&#xD;
+      placebo-controlled crossover study of the effects of the selective glucocorticoid receptor&#xD;
+      antagonist, CORT108297, on cognitive test performance in 26 individuals with mild cognitive&#xD;
+      impairment (MCI) due to AD and in 26 cognitively normal individuals with an increased risk&#xD;
+      for AD due to family history, genetics, and/or subjective memory complaints. All subjects&#xD;
+      will participate in a brief stressor (public speaking and mental arithmetic) and provide&#xD;
+      saliva samples so investigators can measure stress hormone response. Then, following 2 weeks&#xD;
+      of treatment with placebo or CORT108297, in counterbalanced order, participants will complete&#xD;
+      cognitive tests assessing memory and executive function. All study participants will receive&#xD;
+      CORT108297 and placebo over the course of this 10-week trial that requires 6 in-person study&#xD;
+      visits. The primary aims will compare the effects of CORT108297 to placebo on cognitive test&#xD;
+      performance in individuals with MCI due to AD and in individuals at risk for AD, and describe&#xD;
+      the side effects of CORT108297 in study participants. Secondary aims will identify subject&#xD;
+      characteristics that predict positive response to study drug.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 28, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Memory as assessed by pattern separation task performance after 2 weeks of treatment with CORT108297</measure>
+    <time_frame>After 2 weeks of treatment</time_frame>
+    <description>Percent of correct responses to the &quot;lure&quot; items on the pattern separation task, with 100% indicating a perfect score</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Memory as assessed by the Hopkins Verbal Learning Test-Revised Edition (HVLT-R) after 2 weeks of treatment with CORT108297</measure>
+    <time_frame>After 2 weeks of treatment</time_frame>
+    <description>Total number of words recalled in trials 1, 2, 3, and the delayed recall trial of the HVLT-R, with scores ranging from 0 (no words recalled) to 48 (all 12 words recalled after each of the trials)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Executive functioning as assessed by the Trail Making Test (TMT), part B after 2 weeks of treatment with CORT108297</measure>
+    <time_frame>After 2 weeks of treatment</time_frame>
+    <description>Number of seconds required to complete part B of the TMT, with lower scores indicating better performance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Executive functioning as assessed by the Digit Span Task (digit span backwards) after 2 weeks of treatment with CORT108297</measure>
+    <time_frame>After 2 weeks of treatment</time_frame>
+    <description>Total number of correct responses on the backwards trials of the Digit Span Task, with scores ranging from 0 (no trials correct) to 14 (perfect score)</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">52</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Memory Impairment</condition>
+  <arm_group>
+    <arm_group_label>MCI</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Individuals with mild cognitive impairment due to Alzheimer's disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cognitively Normal</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Individuals who are cognitively normal but who are at risk for Alzheimer's disease</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CORT108297</intervention_name>
+    <description>120mg of a selective glucocorticoid receptor antagonist, taken as 2 tablets daily for 2 weeks</description>
+    <arm_group_label>Cognitively Normal</arm_group_label>
+    <arm_group_label>MCI</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo taken as 2 tablets daily for 2 weeks</description>
+    <arm_group_label>Cognitively Normal</arm_group_label>
+    <arm_group_label>MCI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Individuals must meet criteria for mild cognitive impairment due to Alzheimer's disease&#xD;
+        according to National Institute on Aging (NIA)/Alzheimer's Association recommendations OR&#xD;
+        be cognitively normal based on clinical and cognitive assessment in the Enrollment Visit&#xD;
+        and have at least one of the following risk factors for AD:&#xD;
+&#xD;
+          -  Known to have at least 1 apolipoprotein E (APOE) ε4 allele;&#xD;
+&#xD;
+          -  Subjective cognitive concerns with a T score &lt; 40 on the Multifactorial Memory&#xD;
+             Questionnaire Satisfaction Scale23;&#xD;
+&#xD;
+          -  A first-degree relative with dementia.&#xD;
+&#xD;
+        Inclusion Criteria for all subjects:&#xD;
+&#xD;
+          -  At least 55 years of age;&#xD;
+&#xD;
+          -  Body mass index &gt;17 and &lt;30;&#xD;
+&#xD;
+          -  Post-menopausal (if female)&#xD;
+&#xD;
+          -  Non-smoker;&#xD;
+&#xD;
+          -  Availability of a study partner who has frequent contact with the subject (10+&#xD;
+             hours/week in person and by telephone), and is able to provide an independent&#xD;
+             evaluation of functioning;&#xD;
+&#xD;
+          -  Native English speaker;&#xD;
+&#xD;
+          -  Good general health with no disease expected to interfere with the study;&#xD;
+&#xD;
+          -  Willing and able to participate for the duration of the study.&#xD;
+&#xD;
+        Exclusion Criteria for all subjects:&#xD;
+&#xD;
+          -  Participation in a therapeutic clinical trial at any time during the study;&#xD;
+&#xD;
+          -  Abnormal corrected QT interval using Bazett's formula (QTcB; defined as &gt; 450 ms for&#xD;
+             men and &gt; 470 ms for women) as determined on ECG;&#xD;
+&#xD;
+          -  Any significant neurologic disease other than suspected incipient Alzheimer's disease,&#xD;
+             such as Parkinson's disease, multi-infarct dementia, Huntington's disease, normal&#xD;
+             pressure hydrocephalus, brain tumor, progressive supranuclear palsy, seizure disorder,&#xD;
+             subdural hematoma, multiple sclerosis, or history of significant head trauma followed&#xD;
+             by persistent neurologic deficits or known structural brain abnormalities, including&#xD;
+             lacunes in critical memory structures including the hippocampus and parahippocampal&#xD;
+             cortex;&#xD;
+&#xD;
+          -  Major depression, bipolar disorder within the past 1 year;&#xD;
+&#xD;
+          -  History of alcohol or drug dependence;&#xD;
+&#xD;
+          -  Any significant systemic illness or unstable medical condition, which could lead to&#xD;
+             difficulty complying with the protocol;&#xD;
+&#xD;
+          -  General surgery within the last 3 months;&#xD;
+&#xD;
+          -  Sensory impairment (poor vision or hearing) significant enough to interfere with&#xD;
+             ability to provide valid cognitive test data;&#xD;
+&#xD;
+          -  Treatment within the last six months with antidepressants, neuroleptics, sedative&#xD;
+             hypnotics, or glucocorticoids;&#xD;
+&#xD;
+          -  Treatment within the last six months with medications metabolized by the CYP2C9 or&#xD;
+             CYP2C19 enzymes, most notably clopidogrel and proton pump inhibitors;&#xD;
+&#xD;
+          -  Concurrent use of a CYP3A inhibitor, including grapefruit juice, and St. John's Wort;&#xD;
+&#xD;
+          -  Exceptions to these guidelines may be considered on a case-by-case basis at the&#xD;
+             discretion of the PI.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cynthia A Munro, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicholas Bienko, MA</last_name>
+    <phone>410-550-2036</phone>
+    <email>nbienko1@jhmi.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cynthia A Munro, PhD</last_name>
+    <phone>410-550-6271</phone>
+    <email>cmunro@jhmi.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Johns Hopkins School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nick Bienko, MA</last_name>
+      <phone>410-550-2036</phone>
+      <email>nbienko1@jhmi.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>October 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 23, 2020</study_first_posted>
+  <last_update_submitted>June 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Stress</keyword>
+  <keyword>Memory loss</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>Cognitive</keyword>
+  <keyword>Impairment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

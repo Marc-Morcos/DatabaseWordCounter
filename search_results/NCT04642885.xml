@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1838">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04642885</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2000024219</org_study_id>
+    <secondary_id>R01AG058565</secondary_id>
+    <nct_id>NCT04642885</nct_id>
+  </id_info>
+  <brief_title>Families Coping Together With Alzheimer's Disease</brief_title>
+  <acronym>FACT-AD</acronym>
+  <official_title>Families Coping Together With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Department of Health and Human Services</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Two remote phone/zoom calls are required to assess experiences as a family coping with&#xD;
+      dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Using a combination of paper or online surveys in addition to interactive visits with blood&#xD;
+      pressure monitoring, participants are observed interacting with each other. Blood pressure&#xD;
+      devices are mailed to their homes and only worn for six minute intervals. The first visit&#xD;
+      generally lasts one hour and the second visit 90 minutes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 30, 2019</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Family-Based</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Caregiver demand appraisals</measure>
+    <time_frame>Baseline and one year</time_frame>
+    <description>(1a) Caregiver demand appraisals: 6 items from the 12-item Zarit Burden Interview (ZBI) will assess caregiver appraisals of demands (e.g., That because of the time you spend with your relative that you don't have enough time for yourself?&quot;. Caregivers self-report aspects of burden on a scale from 0 (never) to 4 (nearly always; α= .86). Higher numbers indicate higher demands. Administration is 2.5 minutes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Caregiver perceived stress</measure>
+    <time_frame>Baseline and one year later</time_frame>
+    <description>(1b) Caregiver perceived stress: 6 items from the 12-item Zarit Burden Interview (ZBI) will assess caregiver perceived stress (e.g., &quot;Stressed between caring for your relative and trying to meet other responsibilities (work/family)?&quot;). Caregivers self-report aspects of burden on a scale from 0 (never) to 4 (nearly always; α= .86). Higher numbers indicate higher stress. Administration is 2.5 minutes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Caregiver negative Coping</measure>
+    <time_frame>Baseline and one year later</time_frame>
+    <description>The Brief COPE Inventory is a shortened version (28 items) of the COPE inventory in which respondents indicate how often they use a particular coping strategy under stress as ranked on a 4-point scale with 1 (I haven't been doing this at all) to 4 (I've been doing this a lot). Examples of items include &quot;I've been using alcohol or drugs to help me get through it.&quot; and &quot;I've been criticizing myself&quot; (α=0.72, 0.84, 0.75 for emotion, problem, and dysfunction focused subscales). Higher scores indicate poorer coping. Administration is 10 minutes</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Relational Functioning</measure>
+    <time_frame>Baseline and one year later</time_frame>
+    <description>The Relationships Inventory will measure the degree to which individuals perceive that they can rely on their parent or child for help and support when needed (e.g., &quot;to what extent can you count on your parent/child for help with a problem?&quot; &quot;to what extent can you count on your parent/child to give you honest feedback, even when you might not want to hear it?&quot;). Ratings will be made on a scale from 1 (not at all) to 5 (very much; α=.79). Four additional items will assess the degree to which individuals perceive that their parent/child is a good support-provider (e.g., &quot;overall, my parent/child is a good support-provider&quot; using a scale from 1 (strongly disagree) to 7 (strongly agree). Higher numbers indicate higher relationship functioning. Administration is 5 minutes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health</measure>
+    <time_frame>Baseline and one year later</time_frame>
+    <description>Health-related quality of life will be assessed using the 12-item Short Form Survey (SF-12) version 1.0, documenting the extent of limitations in a number of domains. Higher scores indicate better physical and mental health-related quality of life. It has been used with both persons with ADRD and caregivers. Administration is 5 minutes. The minimum and maximum scores are 0 and 100.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Family Research</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>dyad</arm_group_label>
+    <description>parent with dementia and an adult child who is a caregiver</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        In this study, adult children of a parent over 55 with early stage dementia who are&#xD;
+        responsible for helping parent with at least one task will be recruited&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Parent must be 55 plus with symptoms or a diagnosis of dementia&#xD;
+&#xD;
+          -  Adult child must be over 18 and involved in some way with assisting parent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Yale school of Public Health</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>November 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2020</study_first_posted>
+  <last_update_submitted>September 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2585">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04780178</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10320</org_study_id>
+    <nct_id>NCT04780178</nct_id>
+  </id_info>
+  <brief_title>Telephone Acceptance and Commitment Therapy Intervention for Caregivers of Adults With ADRD</brief_title>
+  <acronym>(TACTICs)</acronym>
+  <official_title>Telephone Acceptance and Commitment Therapy Intervention for Caregivers of Adults With Alzheimer's Disease and Related Dementias (TACTICs): A Pilot Randomized Controlled Trial (RRF)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Cleveland State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to test if Acceptance and Commitment Therapy (ACT), a behavioral&#xD;
+      intervention designed to increase psychological flexibility in the face of challenges,&#xD;
+      reduces anxiety associated psychological distress in dementia caregivers compared to the&#xD;
+      control group who will receive self-help and educational materials. This version of ACT is&#xD;
+      delivered over the phone in six primary sessions and one booster session.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Actual">August 8, 2022</completion_date>
+  <primary_completion_date type="Actual">August 8, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomly assigned to receive either the TACTICs telephone therapy or the minimally enhanced usual care packet of information.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Outcome assessors are blinded to participant group assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Generalized Anxiety Disorder Scale (GAD-7)</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>The Generalized Anxiety Disorder Scale (GAD-7) contains 7 items with total scores ranging from 0 to 21. Scores of 5, 10, and 15 are cut-offs for mild, moderate, and severe anxiety, respectively. An add-on item assessing the patient's global impression of symptom-related impairment helps researchers understand the extent to which anxiety interferes in daily life. The GAD-7 has factorial validity for the diagnosis of general anxiety disorder and is sensitive to change.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Patient Health Questionnaire-8</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>8-item Patient Health Questionnaire-8 assesses depressive symptoms. With total scores ranging from 0 to 24, scores of 5, 10, 15, and 20 represent mild, moderate, moderately severe, and severe depression, respectively. The PHQ-8 has factorial validity for the diagnosis of major depressive disorder.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Zarit Burden Interview</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>The Zarit Burden Interview is a two-factor, 22-item scale that measures personal strain and role strain in caregiving by summing responses to a total score (0-20 little or no burden; 21-40 mild to moderate burden; 41-60 moderate to severe burden; and 61-88 severe burden). The ZBI measures change over time resulting from the progression of the patient's symptoms or from interventions aimed at reducing burden.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Experience of Suffering Scale</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>The Experience of Suffering Scale contains 33 items across 3 subscales: physical (9 items), psychological (15 items), and existential (9 items) suffering. Total scores for each subscale are calculated with higher scores indicating more suffering within each domain.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Multidimensional Psychological Flexibility Inventory</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>The 24-item Multidimensional Psychological Flexibility Inventory - Short form measures psychological flexibility and inflexibility. Respondents rate how true each statement is for them on a 6-point Likert-type scale anchored from 1=never true to 6=always true. Higher scores indicate higher levels of the dimension being assessed (i.e., psychological flexibility, psychological inflexibility).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Satisfaction with Life Scale</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>The 5-item Satisfaction with Life Scale measures wellbeing. On a 7-point scale, participants indicate how much they agree or disagree with each of the 5 items to assess cognitive judgments of life satisfaction.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Quality of Life in Alzheimer's Disease</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>Quality of Life in Alzheimer's Disease measures caregiver reported measure about the patient's quality of life and will provide preliminary data on the potential impact of the intervention on the person with ADRD for whom enrolled caregiver is caring for.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Intervention Acceptability</measure>
+    <time_frame>Post-intervention (7-9 weeks post-baseline)</time_frame>
+    <description>Intervention acceptability is measured at T2 using an investigator-created 5-item measure of quantitative and qualitative satisfaction items.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Health Care and Resource Utilization</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month</time_frame>
+    <description>Health care and resource utilization will be measured using an investigator-created 8-item measure. Items will assess caregiver-reported health and mental care utilization (e.g., emergency department [ED], inpatient, outpatient) and services accessed or used to support their caregiving (e.g., support groups, respite care, in-home aid).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Inventory of Complicated Grief</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month ICG will (only) be measured in participants who have their loved one with dementia die during the study and agree to this survey</time_frame>
+    <description>The 19-item Inventory of Complicated Grief measures post death grief and bereavement in participants who have lost their loved one with dementia during the study. Each item is rated on a 5-point Likert scale with responses ranging from &quot;never&quot; to &quot;always&quot;.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Anticipatory grief</measure>
+    <time_frame>Baseline, post-intervention (7-9 weeks post-baseline), 3-month, 6-month AGS will (only) be measured in participants who have their loved one with dementia die during the study and agree to this survey</time_frame>
+    <description>the Anticipatory Grief Scale (AGS),43 a 27-item self-report tool designed to assess anticipatory grief of dementia caregivers. Items are scored on a 5-point Likert scale with responses ranging from &quot;strongly disagree&quot; to &quot;strongly agree.&quot;</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">60</enrollment>
+  <condition>Anxiety</condition>
+  <condition>Caregiver Burden</condition>
+  <arm_group>
+    <arm_group_label>TACTICs</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Our ACT intervention will include 6 weekly 1-hour telephone sessions and 1 booster session offered 1 month after session 6 designed to increase psychological flexibility through practice of one or more of the six skills in each session. Although these are ideally spaced 1 week apart, participants will have up to 12 weeks to complete the 6 sessions. Each session will include guided mindfulness practice that encourages non-judgmental awareness of the present moment to increase psychological flexibility; brief (10-minute) study-provided audio recordings will enable participants to practice mindfulness at home. Caregivers will also identify deeply-held values to serve as a guide when choosing how to spend limited time or energy and will set values-based action goals each week. A booster session will be provided one month after session 6 to reinforce skills learned.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Minimally Enhanced Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>All caregivers randomized to the mEUC group will receive a mailed packet containing 1) a letter from the Co-PIs thanking them for participating, 2) printed selections from of the NIH Alzheimer's caregiving website (https://www.nia.nih.gov/health/alzheimers/caregiving), and 3) a listing of Alzheimer's Association sponsored support groups closest to the caregiver's home address. Caregivers will also receive a brief phone call from the research coordinator to verify receipt of the packet. Since this is a usual care group with a minimally-enhanced component, it will be up to the mEUC participants to decide whether or not to engage with these intervention materials.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Telephone Acceptance and Commitment Therapy Intervention for Caregivers of Adults with Alzheimer's Disease and Related Dementias</intervention_name>
+    <description>A telephone-based acceptance and commitment therapy for caregivers</description>
+    <arm_group_label>TACTICs</arm_group_label>
+    <other_name>TACTICs</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Listed in ADRD patient's chart as primary caregiver or self-identifies as ADRD&#xD;
+             patient's primary caregiver&#xD;
+&#xD;
+          -  Intends to continue caregiving for ≥12 months&#xD;
+&#xD;
+          -  Clinically-significant anxiety (score ≥10 on GAD-7)&#xD;
+&#xD;
+          -  21 years or older&#xD;
+&#xD;
+          -  Able to communicate in English&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Caregiver is a non-family member&#xD;
+&#xD;
+          -  Care recipient is in an assisted living or nursing home (at baseline)&#xD;
+&#xD;
+          -  Has ADRD or other serious mental illness diagnosis such as schizophrenia as determined&#xD;
+             by ICD-10 code or self-report&#xD;
+&#xD;
+          -  Caregiver is enrolled in an existing ADRD collaborative program at Eskenazi Health, IU&#xD;
+             Health or the VA.&#xD;
+&#xD;
+          -  Caregiver is enrolled in another IU study that is testing a ADRD caregiver&#xD;
+             intervention&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicole R Fowler, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>IUH</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>February 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 3, 2021</study_first_posted>
+  <last_update_submitted>August 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Nicole R. Fowler, PhD</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Dementia</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>Caregiving</keyword>
+  <keyword>Caregiver</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>Telehealth</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>In future manuscripts, the authors will list contact information and state that the IPD is available upon request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

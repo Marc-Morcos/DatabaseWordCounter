@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2674">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04844060</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DC-2009-1002</org_study_id>
+    <nct_id>NCT04844060</nct_id>
+  </id_info>
+  <brief_title>Cerebro Spinal Fluid Collection (CSF)</brief_title>
+  <acronym>Analzheimer</acronym>
+  <official_title>Analysis of Clinical Data and Diagnosis in Any Person Requiring an Assay of Alzheimer Biomarkers in Cerebrospinal Fluid</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Strasbourg, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Strasbourg, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cognitive neurodegenerative diseases are a major public health issue. At present, the&#xD;
+      diagnosis of certainty is still based on anatomopathological analyses. Even if the diagnostic&#xD;
+      tools available to clinicians have made it possible to improve probabilistic diagnosis during&#xD;
+      the patient's lifetime, there are still too many diagnostic errors and sub-diagnostic in this&#xD;
+      field. The arrival of biomarkers has made it possible to reduce these diagnostic errors,&#xD;
+      which were of the order of 25 to 30%. This high error rate is due to different parameters.&#xD;
+      These diseases are numerous and often present common symptoms due to the fact that common&#xD;
+      brain structures are affected. These diseases evolve progressively over several years and&#xD;
+      their early diagnosis, when the symptoms are discrete, makes them even more difficult to&#xD;
+      diagnose at this stage. In addition, co-morbidities are common in the elderly, further&#xD;
+      complicating the diagnosis of these diseases.&#xD;
+&#xD;
+      At present, the only cerebrospinal fluid (CSF) biomarkers that are routinely used for the&#xD;
+      biological diagnosis of neurodegenerative cognitive pathologies are those specific to&#xD;
+      Alzheimer's disease: Aβ42, Aβ40, Tau-total and Phospho-Tau. These biomarkers represent an&#xD;
+      almost indispensable tool in the diagnosis of dementia.&#xD;
+&#xD;
+      It is therefore important to determine whether Alzheimer's biomarkers can be disrupted in&#xD;
+      other neurodegenerative cognitive pathologies, but also to find biomarkers specific to these&#xD;
+      different pathologies by facilitating the implementation of clinical studies which will thus&#xD;
+      make it possible to improve their diagnosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 2010</start_date>
+  <completion_date type="Anticipated">December 2030</completion_date>
+  <primary_completion_date type="Anticipated">December 2030</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CSF collection</measure>
+    <time_frame>1 year</time_frame>
+    <description>To create a database of patients with cognitive disorders in whom a lumbar puncture has been carried out in order to measure Alzheimer's biomarkers. This database would not only be biological but also clinical and diagnostic, including the results of neuropsychological tests, clinical examinations, the results of brain imaging (MRI, PET-FDG, DAT-SCAN,…) as well as the last diagnosis retained by the clinician in charge of the patient. Thus, after completing this database, the main objective is to evaluate the proportion of different diseases that have led to the decision to search for Alzheimer biomarkers in CSF.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Setting up in new study/collaboration</measure>
+    <time_frame>1 year</time_frame>
+    <description>This database would allow clinical studies and collaborations to be built easily and quickly.&#xD;
+For example, when setting up a clinical study with the aim of testing the discriminating potential of a biomarker between various cognitive pathologies, we will only use in this database patients for whom the diagnosis is well established. The objective will be to determine whether the biomarker is capable of discriminating between these well-defined populations.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>To compare the levels of CSF Alzheimer's biomarkers between these different populations and determine their ability to discriminate between AD and other neurodegenerative cognitive pathologies</measure>
+    <time_frame>1 year</time_frame>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia With Lewy Bodies</condition>
+  <condition>Frontotemporal Dementia</condition>
+  <condition>Parkinson's Disease Dementia</condition>
+  <condition>Multiple System Atrophy</condition>
+  <arm_group>
+    <arm_group_label>Patients with cognitive impairment</arm_group_label>
+    <description>All patients with cognitive disorders observed at the memory center of Strasbourg and in whom a lumbar puncture is performed as part of the patient's diagnosis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Lumbar punction</intervention_name>
+    <description>Lumbar punction</description>
+    <arm_group_label>Patients with cognitive impairment</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Cerebrospinal fluid&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients with cognitive disorders observed at the memory center of Strasbourg and in&#xD;
+        whom a lumbar puncture is performed as part of the patient's diagnosis.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with lumbar puncture (LP)&#xD;
+&#xD;
+          -  Patients with accurate clinical diagnosis&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who do not have a lumbar puncture&#xD;
+&#xD;
+          -  Patients for whom no accurate diagnostic information is available&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frédéric BLANC, MD/PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpitaux Universitaires de Strasbourg</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Frédéric BLANC, MD/PhD</last_name>
+    <phone>33388155858</phone>
+    <email>frederic.blanc@unistra.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Olivier BOUSIGES, PharmD/PhD</last_name>
+    <phone>33388128909 / 33368854039</phone>
+    <email>olivier.bousiges@chru-strasbourg.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Service d'évaluation et Centre Mémoire de Ressources et de Recherche (CM2R), Hôpital de jour Saint François - Pôle de Gériatrie, Hôpitaux Universitaires de Strasbourg, Hôpital de la Robertsau</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frédéric BLANC, MD/PhD</last_name>
+      <phone>33388115624</phone>
+      <email>frédéric.blanc@chru-strasbourg.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Olivier BOUSIGES, PharmaD/PhD</last_name>
+      <phone>33388128909</phone>
+      <email>olivier.bousiges@chru-strasbourg.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>April 2021</verification_date>
+  <study_first_submitted>March 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 14, 2021</study_first_posted>
+  <last_update_submitted>April 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>April 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>CSF library</keyword>
+  <keyword>Database of patients with cognitive disorders</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Multiple System Atrophy</mesh_term>
+    <mesh_term>Shy-Drager Syndrome</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

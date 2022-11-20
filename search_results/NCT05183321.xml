@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1400">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05183321</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KQCLLAD001</org_study_id>
+    <nct_id>NCT05183321</nct_id>
+  </id_info>
+  <brief_title>Treatment of Periodontal Disease in Patients With Alzheimer's Disease</brief_title>
+  <official_title>Treatment of Periodontal Disease in Patients With Alzheimer's Disease: Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wuhan Union Hospital, China</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wuhan Union Hospital, China</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of this study is to evaluate the effect of periodontal therapy in in&#xD;
+      subjects with a clinical diagnosis of mild to moderate AD dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized, controlled study that will assess the effects of periodontal therapy in&#xD;
+      subjects with probable AD dementia according to the National Institute on Aging-Alzheimer's&#xD;
+      Association (NIA-AA) criteria. The study will enroll approximately 190 generally healthy male&#xD;
+      and female subjects ≥55 and ≤80 years of age. Enrolled subjects must have a documented&#xD;
+      diagnosis of mild to moderate AD dementia. The subject should not have other conditions or&#xD;
+      brain imaging abnormalities that can explain the symptoms of dementia. All subjects will be&#xD;
+      encouraged to have LPs (during screening, week 28 and week 52) in the absence of medical&#xD;
+      conditions that can increase the risk of the procedure in the opinion of the Investigator.&#xD;
+      Cerebrospinal fluid (CSF) and blood will be analyzed for measurements of biomarkers of AD and&#xD;
+      neuroinflammation, PiB-PET will be done for assessment of AD. A subset of sites will monitor&#xD;
+      subjects for clinical evidence of periodontitis at baseline, 28 and 52 weeks.&#xD;
+&#xD;
+      The study will consist of 3 phases: a screening phase of up to 8 weeks, a treatment phase of&#xD;
+      up to 52 weeks, and a safety follow-up phase of 8 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Assessment Scale-Cognitive Subscale 11 (ADAS-Cog 11)</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Mean change in Alzheimer's Disease Assessment Scale-Cognitive Subscale 11 (ADAS-Cog 11) from baseline to the end of treatment period. ADAS-Cog 11 measures cognitive functions and non-cognitive functions such as mood and behavior. Total scores range from 0-70, with higher scores (≥ 18) indicating greater cognitive impairment. ADAS-Cog 11 score increases by 2-4 points per year on average in subjects with mild to moderate Alzheimer's Disease. A treatment period of 52 weeks was selected to allow sufficient time to demonstrate at least 2.5 points difference between active treatment and placebo on ADAS-Cog 11 at the end of the treatment period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ADCS-ADL</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Alzheimer's Disease Cooperative Study Group-Activities of Daily Living (ADCS-ADL)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MMSE</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Alzheimer's Disease Cooperative Study Group-Activities of Daily Living Change in Mini-Mental State Examination (MMSE).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MoCA</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Montreal Cognitive Assessment Scale</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>PiB-PET</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in PiB-PET</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Tau-PET</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Tau-PET</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Tau levels in cerebrospinal fluid</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Tau levels in cerebrospinal fluid</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Aβ levels in cerebrospinal fluid</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in Aβ levels in cerebrospinal fluid</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Magnetic resonance imaging</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in magnetic resonance imaging</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Periodontal (or gum) pocket depth</measure>
+    <time_frame>52 weeks</time_frame>
+    <description>Change in periodontal (or gum) pocket depth</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">190</enrollment>
+  <condition>Periodontitis</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Group will not receive treatment: periodontal therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Periodontal therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group will receive treatment: periodontal therapy</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>periodontal therapy</intervention_name>
+    <description>periodontal cleaning</description>
+    <arm_group_label>Periodontal therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject has primary school education or above.&#xD;
+&#xD;
+          -  Subject has probable AD dementia according to the NIA-AA criteria.&#xD;
+&#xD;
+          -  Subject has brain MRI scan consistent with the diagnosis of AD performed during the&#xD;
+             screening period. Computed Tomography scan can be used only if the subject has an&#xD;
+             absolute contraindication for MRI.&#xD;
+&#xD;
+          -  Subject has a Modified Hachinski score ≤4 at screening.&#xD;
+&#xD;
+          -  Subject has an MMSE score ≥15 at screening.&#xD;
+&#xD;
+          -  Subjects with background symptomatic therapy with acetylcholine esterase inhibitors,&#xD;
+             and/or memantine, are allowed as long as the dose has been stable for 90 days prior to&#xD;
+             screening and no changes are planned during the study.&#xD;
+&#xD;
+          -  Subject has a primary caregiver willing to accept responsibility for supervising the&#xD;
+             treatment (e.g., administering study drug) and assessing the condition of the subject&#xD;
+             throughout the study in accordance with all protocol requirements.&#xD;
+&#xD;
+          -  Subject has body mass index &lt;38 kg/m2 at Screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject has imaging consistent with a dementia diagnosis other than AD.&#xD;
+&#xD;
+          -  Subject has had an increase or restoration of cognition based on medical history.&#xD;
+&#xD;
+          -  Subject with history or current evidence of major psychiatric illness such as&#xD;
+             schizophrenia, bipolar disorder, or major depressive disorder that may interfere with&#xD;
+             the patient's ability to perform the study and all assessments. NOTE: Mild depression&#xD;
+             or depressive mood arising in the context of AD are not criteria for exclusion. The&#xD;
+             use of anti-depressants or the use of anti epileptic medication for non&#xD;
+             seizure-related treatment is allowed if the dose has remained stable for at least 60&#xD;
+             days prior to enrollment.&#xD;
+&#xD;
+          -  Subject is fitted with pacemakers (except for new compatible products), large&#xD;
+             ferromagnetic implants, or implanted electronic devices such as cochlear implants,&#xD;
+             magnetic metal drug infusion pumps, nerve stimulators, diaphragmatic stimulators and&#xD;
+             injection pumps, physiological stimulators, and cardiac mechanical valves.&#xD;
+&#xD;
+          -  Subject has magnetic metal foreign body or prosthesis in eye, magnetic metal joint or&#xD;
+             ferromagnetic foreign body in body.&#xD;
+&#xD;
+          -  Subject has epilepsy or claustrophobia.&#xD;
+&#xD;
+          -  Subject had received antibiotics or periodontal treatment within the last 6 months.&#xD;
+&#xD;
+          -  Subject had taken aspirin, warfarin and other anticoagulant drugs in the last 6&#xD;
+             months.&#xD;
+&#xD;
+          -  Subject has any of the following laboratory findings at screening:&#xD;
+&#xD;
+               1. Coagulation disorders.&#xD;
+&#xD;
+               2. Hemoglobin ≤10 g/dl.&#xD;
+&#xD;
+               3. Poorly controlled diabetes as defined by hemoglobin A1C (HbA1C) &gt;8.&#xD;
+&#xD;
+               4. Positive blood screen for Human Immunodeficiency Virus (HIV 1 and 2), Hepatitis B&#xD;
+                  surface antigen (HBsAg), or Hepatitis C virus antibodies (HCV-Ab) at Screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lili Chen</last_name>
+    <role>Study Chair</role>
+    <affiliation>Wuhan Union Hospital, China</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lili Chen, PhD</last_name>
+    <phone>0086-027-85726480</phone>
+    <email>lily-c1030@163.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mengru Xie</last_name>
+    <phone>0086-027-85726480</phone>
+    <email>hbxiemengru@163.com</email>
+  </overall_contact_backup>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>December 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 10, 2022</study_first_posted>
+  <last_update_submitted>February 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Periodontitis</mesh_term>
+    <mesh_term>Periodontal Diseases</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

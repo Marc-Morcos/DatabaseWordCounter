@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="347">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04971733</url>
+  </required_header>
+  <id_info>
+    <org_study_id>E2814-G000-103</org_study_id>
+    <secondary_id>2020-005728-12</secondary_id>
+    <nct_id>NCT04971733</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess Safety and Target Engagement of E2814 in Participants With Mild to Moderate Cognitive Impairment Due to Dominantly Inherited Alzheimer's Disease</brief_title>
+  <official_title>An Open-Label Phase 1b/2 Study to Assess Safety and Target Engagement of E2814 in Subjects With Mild to Moderate Cognitive Impairment Due to Dominantly Inherited Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eisai Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Eisai Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the study is to assess the safety and tolerability of intravenous&#xD;
+      (IV) infusions of E2814 in participants with dominantly inherited Alzheimer's disease (DIAD),&#xD;
+      and to evaluate target engagement (TE) of E2814 on microtubule binding region (MTBR)-tau&#xD;
+      species in cerebrospinal fluid (CSF) in participants with DIAD.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 28, 2021</start_date>
+  <completion_date type="Anticipated">September 13, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 13, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Treatment-emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Screening up to 16 weeks after the last dose of study drug (approximately 124 Weeks)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Serious Adverse Events (SAEs)</measure>
+    <time_frame>Screening up to 14 weeks after the last dose of study drug (approximately 122 Weeks)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Markedly Abnormal Laboratory Values</measure>
+    <time_frame>Up to Week 120</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinically Significant Vital Signs Values</measure>
+    <time_frame>Up to Week 120</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinically Significant Electrocardiogram (ECG) Findings</measure>
+    <time_frame>Baseline up to Week 120</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in CSF Free and Bound MTBR-tau at 12 Weeks</measure>
+    <time_frame>Baseline up to Week 12</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Total MTBR-tau at 12 Weeks</measure>
+    <time_frame>Baseline up to Week 12</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cmax: Maximum Observed Plasma Concentration for E2814 on Days 1 and 85</measure>
+    <time_frame>Days 1 and 85: 0-24 hours post-infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax: Time to Reach the Maximum Plasma Concentration for E2814 on Days 1 and 85</measure>
+    <time_frame>Days 1 and 85: 0-24 hours post-infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC(0-672h): Area Under the Plasma Concentration-time Curve From Zero Time to 672 Hours for E2814 on Days 1 and 85</measure>
+    <time_frame>Days 1 and 85: 0-672 hours post-infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax Serum: Maximum Observed Serum Concentration for E2814 on Days 1 and 85</measure>
+    <time_frame>Days 1 and 85: 0-24 hours post-infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax Serum: Time to Reach the Maximum Serum Concentration for E2814 on Days 1 and 85</measure>
+    <time_frame>Days 1 and 85: 0-24 hours post-infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC(0-672h) Serum: Area Under the Serum Concentration-time Curve From Zero Time to 672 Hours for E2814 on Days 1 and 85</measure>
+    <time_frame>Days 1 and 85: 0-672 hours post-infusion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF Concentrations of E2814</measure>
+    <time_frame>Up to Week 108</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum anti-E2814 Antibody Concentration</measure>
+    <time_frame>Up to Week 120</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma anti-E2814 Antibody Concentration</measure>
+    <time_frame>Up to Week 120</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in CSF Concentrations of Total tau (t-tau) and Phosphorylated tau (p-tau)</measure>
+    <time_frame>Baseline up to Week 108</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in tau Positron Emission Tomography (PET) Signal</measure>
+    <time_frame>Baseline up to Week 108</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">8</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Phase 1b: E2814</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive E2814 as an intravenous infusion at set intervals over 12 weeks in Phase 1b.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2: E2814</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive E2814 as an intravenous infusion at set intervals over 96 weeks in Phase 2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>E2814</intervention_name>
+    <description>E2814 intravenous infusion.</description>
+    <arm_group_label>Phase 1b: E2814</arm_group_label>
+    <arm_group_label>Phase 2: E2814</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female, age 18 to 80 years at the time of informed consent&#xD;
+&#xD;
+          2. Individuals who are confirmed to be mutation positive for presenilin 1 (PSEN1),&#xD;
+             amyloid precursor protein (APP), or presenilin 2 (PSEN2) gene that is associated with&#xD;
+             DIAD&#xD;
+&#xD;
+          3. Clinical Dementia Rating - Sum of Boxes (CDR-SB) score 5 to 12 at Screening&#xD;
+&#xD;
+          4. Evidence of positive amyloid status based on historical or screening amyloid PET&#xD;
+&#xD;
+          5. Able to undergo magnetic resonance imaging (MRI), lumbar puncture (LP), PET, and&#xD;
+             complete all study-related testing and evaluations&#xD;
+&#xD;
+          6. Has a study partner who in the investigator's judgment is able to provide accurate&#xD;
+             information as to the participant's cognitive and functional abilities, who agrees to&#xD;
+             provide information at the study visits which require informant input for scale&#xD;
+             completion&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Clinically significant illness that required medical treatment within 8 weeks before&#xD;
+             the first dose or a clinically significant infection that required medical treatment&#xD;
+             within 4 weeks before first dose&#xD;
+&#xD;
+          2. Females who are breastfeeding or pregnant at Screening or Baseline&#xD;
+&#xD;
+          3. Females of childbearing potential who:&#xD;
+&#xD;
+             Within 3 months before screening, did not use a highly effective method of&#xD;
+             contraception&#xD;
+&#xD;
+          4. Any neurological condition that may be contributing to cognitive impairment above and&#xD;
+             beyond that caused by the participant's Alzheimer's disease (AD)&#xD;
+&#xD;
+          5. History of transient ischemic attacks, stroke, or seizures within 12 months of&#xD;
+             Screening&#xD;
+&#xD;
+          6. History of clinically important carotid or vertebrobasilar stenosis, plaque, or other&#xD;
+             prominent risk factor for stroke or cerebral haemorrhage (including atrial&#xD;
+             fibrillation and anticoagulation). Low dose aspirin (less than or equal to [&lt;=] 325&#xD;
+             milligram [mg] daily) is not exclusionary&#xD;
+&#xD;
+          7. Any current psychiatric diagnosis or symptoms, (example, hallucinations, major&#xD;
+             depression, or delusions) that could interfere with study procedures in the&#xD;
+             participant&#xD;
+&#xD;
+          8. Geriatric Depression Scale (GDS) score greater than or equal to 8 at Screening&#xD;
+&#xD;
+          9. Contraindications to MRI scanning, including but not limited to pacemaker/cardiac&#xD;
+             defibrillator, neurostimulators, ferromagnetic metal implants (example, in skull and&#xD;
+             cardiac devices other than those approved as safe for use in MRI scanners)&#xD;
+&#xD;
+         10. Evidence of other clinically significant lesions on brain MRI at Screening that could&#xD;
+             indicate a dementia diagnosis other than AD&#xD;
+&#xD;
+         11. Other significant pathological findings on brain MRI at Screening&#xD;
+&#xD;
+         12. Hypersensitivity to E2814 or any of the excipients, or to any monoclonal antibody&#xD;
+             (mAb) treatment&#xD;
+&#xD;
+         13. Any immunological disease which is not adequately controlled, or which requires&#xD;
+             treatment with immunoglobulins, systemic monoclonal antibodies (or derivatives of&#xD;
+             monoclonal antibodies), systemic immunosuppressants, or plasmapheresis during the&#xD;
+             study&#xD;
+&#xD;
+         14. With a bleeding disorder of current chronic use of anticoagulants (example, warfarin,&#xD;
+             dabigatran, rivaroxaban or apixaban) or of clopidogrel is exclusionary. Limited&#xD;
+             (occasional or isolated) use of anticoagulants/antiplatelet compounds in cases such as&#xD;
+             surgical procedures&#xD;
+&#xD;
+         15. Have thyroid stimulating hormone outside of normal range. Other tests of thyroid&#xD;
+             function with results outside the normal range should only be exclusionary if they are&#xD;
+             considered clinically significant by the investigator&#xD;
+&#xD;
+         16. Hemoglobin A1c (HgbA1c) greater than (&gt;) 8 percent (%) (retesting is permitted if&#xD;
+             slightly elevated) or poorly controlled insulin-dependent diabetes (including&#xD;
+             hypoglycemic episodes). Participants may be rescreened after 3 months to allow&#xD;
+             optimization of diabetic control&#xD;
+&#xD;
+         17. Abnormally low serum vitamin B12 levels for the testing laboratory&#xD;
+&#xD;
+         18. History of human immunodeficiency virus (HIV) infection, history of hepatitis B&#xD;
+             infection within the past year, history of hepatitis C infection which has not been&#xD;
+             adequately treated, or history of spirochete infection of the central nervous system&#xD;
+             (example, syphilis, Lyme, or borreliosis)&#xD;
+&#xD;
+         19. Any other clinically significant abnormalities in physical examination, vital signs,&#xD;
+             laboratory tests, or ECG at Screening or Baseline which in the opinion of the&#xD;
+             investigator require further investigation or treatment or which may interfere with&#xD;
+             study procedures or safety&#xD;
+&#xD;
+         20. Malignant neoplasms within 3 years of Screening (except for basal or squamous cell&#xD;
+             carcinoma in situ of the skin, or localized prostate cancer in male participant, or&#xD;
+             localized breast cancer in female participants)&#xD;
+&#xD;
+         21. Answers &quot;yes&quot; to Columbia-Suicide Severity Rating Scale (C-SSRS) suicidal ideation&#xD;
+             Type 4 or 5, or any suicidal behavior assessment within 6 months before Screening, at&#xD;
+             Screening, or at the Baseline Visit, or has been hospitalized or treated for any&#xD;
+             suicidal behavior in lifetime&#xD;
+&#xD;
+         22. Known or suspected history of drug or alcohol abuse or dependence within 2 years&#xD;
+             before Screening or a positive urine drug test at Screening&#xD;
+&#xD;
+         23. Any other medical conditions (example, cardiac, respiratory, gastrointestinal, renal&#xD;
+             disease) which are not stably and adequately controlled, or which in the opinion of&#xD;
+             the investigator could affect the participant's safety or interfere with the study&#xD;
+             assessments&#xD;
+&#xD;
+         24. Concurrent participation in a clinical study involving any anti-amyloid therapies&#xD;
+             (including any mAb therapies) within 6 months before Screening&#xD;
+&#xD;
+         25. Concurrent participation in a clinical study involving any anti-tau therapies&#xD;
+&#xD;
+         26. Participated in any other investigational medication or device study in the 3 months&#xD;
+             or 5 half-lives (whichever is longer) of the medication before Screening&#xD;
+&#xD;
+         27. Planned surgery which requires general anesthesia that would take place during the&#xD;
+             study&#xD;
+&#xD;
+         28. Visual or hearing impairment that would prevent the participant from performing&#xD;
+             psychometric tests accurately&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>UC San Diego Altman Clinical and Translational Research Insititute Clinic</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University School of Medicine, Health Partners, Adult Neurology Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital for Neurology and Neurosurgery (NHNN) University College London(UCL) Hospitals NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <zip>WC1N 3BG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>July 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>July 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 21, 2021</study_first_posted>
+  <last_update_submitted>May 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>E2814</keyword>
+  <keyword>Central Nervous System Diseases</keyword>
+  <keyword>Mild Alzheimer's disease</keyword>
+  <keyword>Mental Disorders</keyword>
+  <keyword>Neurocognitive Disorders</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Eisai's data sharing commitment and further information on how to request data can be found on our website http://eisaiclinicaltrials.com/.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

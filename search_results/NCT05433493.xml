@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2138">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05433493</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20220621</org_study_id>
+    <nct_id>NCT05433493</nct_id>
+  </id_info>
+  <brief_title>Effect of Individual Cognitive Stimulation on Memory and Executive Function in Older Adults With Alzheimer's Disease</brief_title>
+  <official_title>Effect of Individual Cognitive Stimulation on Memory and Executive Functioning in Older Adults With Mild to Moderate Alzheimer's Disease: A Multicentre Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rsocialform - Geriatria, Lda</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aveiro University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rsocialform - Geriatria, Lda</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This multicentre study, with a randomised controlled repeated measures experimental design,&#xD;
+      will be conducted in several Portuguese institutions, which provide care and supportive&#xD;
+      services for older adults diagnosed with mild or moderate Alzheimer's disease (AD), with an&#xD;
+      aim to assess the effect of individual cognitive stimulation (CS) on memory and executive&#xD;
+      functioning. Participants in the intervention group will attend 24 individual CS sessions,&#xD;
+      twice weekly for 12 weeks. Participants in the control group will complete their usual&#xD;
+      routines without any activity restrictions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Neurocognitive disorders (NCD) currently affect around 55 million people worldwide and&#xD;
+      expected to increase to 78 million by 2030 and 139 million by 2050, with Alzheimer's disease&#xD;
+      (AD) potentially accounting for 60-70% of dementia cases. Dementia is a syndrome, generally&#xD;
+      chronic or progressive in nature, that causes deterioration of cognitive function,&#xD;
+      particularly memory and executive functions, beyond what is expected in normal aging.&#xD;
+      However, there is evidence that in the early stages of NCD, people can learn and improve&#xD;
+      their cognitive functions through interventions such as CS. CS is a psychosocial intervention&#xD;
+      and a non-pharmacological therapy recommended by international practice guidelines for people&#xD;
+      with mild-to-moderate stage AD. However, it is also important to investigate whether NCD&#xD;
+      generates new skills or only preserves acquired skills, given that AD manifests initially and&#xD;
+      notably with deficits in memory and learning, sometimes accompanied by deficits in executive&#xD;
+      functions. Testing the effectiveness of CS by recruiting a representative sample from several&#xD;
+      Portuguese districts and using a CS programme with detailed and comprehendible content, may&#xD;
+      elicit relevant evidence in clinical practice, contribute to the development of social&#xD;
+      development programs and initiatives to ensure social protection and inclusion, promote&#xD;
+      recurrent therapeutic interventions in Portuguese institutions with provide care and&#xD;
+      supporting services for older adults with dementia, and strengthen research on&#xD;
+      non-pharmacological therapies. Thus, this multicentre, randomised controlled study is&#xD;
+      essential to analyse the effects of the individual CS on global cognitive function and&#xD;
+      specific cognitive domains (e.g., executive functioning, memory) in older adults with mild or&#xD;
+      moderate AD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2022</start_date>
+  <completion_date type="Anticipated">March 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Parallel Assignment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Double (Participant, Outcomes Assessor)</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cognitive functioning assessed through Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>baseline</time_frame>
+    <description>Cognitive functioning assessed by the Mini-Mental State Examination (MMSE), a gold standard screening tool for assessing global cognitive function. Scores range from 0 to 30, with higher scores indicating better cognitive functioning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in cognitive functioning assessed through Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>12 weeks after the beginning of the intervention</time_frame>
+    <description>Change in cognitive functioning evaluated by the Mini-Mental State Examination (MMSE), a gold standard screening tool for assessing global cognitive function.&#xD;
+Scores range from 0 to 30, with higher scores indicating better cognitive functioning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in cognitive functioning assessed through Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>12 weeks after end of intervention</time_frame>
+    <description>Change in cognitive functioning evaluated by the Mini-Mental State Examination (MMSE), a gold standard screening tool for assessing global cognitive function.&#xD;
+Scores range from 0 to 30, with higher scores indicating better cognitive functioning.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive functioning assessed through Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-COG)</measure>
+    <time_frame>baseline</time_frame>
+    <description>Evaluates the severity of cognitive deficits in AD in the following domains: memory, orientation, language, praxis and constructive capacity. The total score in the Portuguese version of ADAS-Cog is composed of 11 subtests in the cognitive part and varies between 0 (better performance) and 68 points (worse performance), i.e., higher scores equals better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in cognitive functioning assessed through Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-COG)</measure>
+    <time_frame>12 weeks after the beginning of the intervention</time_frame>
+    <description>Evaluates the severity of cognitive deficits in AD in the following domains: memory, orientation, language, praxis and constructive capacity. The total score in the Portuguese version of ADAS-Cog is composed of 11 subtests in the cognitive part and varies between 0 (better performance) and 68 points (worse performance), i.e., higher scores equals better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in cognitive functioning assessed through Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-COG)</measure>
+    <time_frame>12 weeks after end of intervention</time_frame>
+    <description>Evaluates the severity of cognitive deficits in AD in the following domains: memory, orientation, language, praxis and constructive capacity. The total score in the Portuguese version of ADAS-Cog is composed of 11 subtests in the cognitive part and varies between 0 (better performance) and 68 points (worse performance), i.e., higher scores equals better performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Memory function evaluated through Memory Alteration Test (MAT)</measure>
+    <time_frame>baseline</time_frame>
+    <description>The MAT is used to assess memory function. It is an easy and quick instrument that assesses five memory domains: temporal orientation, encoding, semantic memory, free recall, and cued recall. Total scores range from 0 to 50, with higher scores indicating better memory. It has good psychometric properties and is highly sensitive to mild cognitive decline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in memory function evaluated through Memory Alteration Test (MAT)</measure>
+    <time_frame>12 weeks after the beginning of the intervention</time_frame>
+    <description>The MAT is used to assess memory function. It is an easy and quick instrument that assesses five memory domains: temporal orientation, encoding, semantic memory, free recall, and cued recall. Total scores range from 0 to 50, with higher scores indicating better memory. It has good psychometric properties and is highly sensitive to mild cognitive decline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in memory function evaluated through Memory Alteration Test (MAT)</measure>
+    <time_frame>12 weeks after end of intervention</time_frame>
+    <description>The MAT is used to assess memory function. It is an easy and quick instrument that assesses five memory domains: temporal orientation, encoding, semantic memory, free recall, and cued recall. Total scores range from 0 to 50, with higher scores indicating better memory. It has good psychometric properties and is highly sensitive to mild cognitive decline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Memory function evaluated through Free and Cued Selective Reminding Test (FCSRT)</measure>
+    <time_frame>baseline</time_frame>
+    <description>FCSRT is a verbal learning and memory test that allows prompting the encoding and retrieval conditions by using semantic cues on learning and recall trials. It is composed of 16 semantically categorised, unrelated items/words.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in memory function evaluated through Free and Cued Selective Reminding Test (FCSRT)</measure>
+    <time_frame>12 weeks after the beginning of the intervention</time_frame>
+    <description>FCSRT is a verbal learning and memory test that allows prompting the encoding and retrieval conditions by using semantic cues on learning and recall trials. It is composed of 16 semantically categorised, unrelated items/words.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in memory function evaluated through Free and Cued Selective Reminding Test (FCSRT)</measure>
+    <time_frame>12 weeks after end of intervention</time_frame>
+    <description>FCSRT is a verbal learning and memory test that allows prompting the encoding and retrieval conditions by using semantic cues on learning and recall trials. It is composed of 16 semantically categorised, unrelated items/words.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Executive functions assessed through Frontal Assessment Battery (FAB)</measure>
+    <time_frame>baseline</time_frame>
+    <description>FAB assesses executive functions such as abstract thinking, mental flexibility, motor programming, interference sensibility, inhibitory control and environmental independence. Scores range between 0 - 18 points with higher scores indicating better cognitive function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in executive functions assessed through Frontal Assessment Battery (FAB)</measure>
+    <time_frame>12 weeks after the beginning of the intervention</time_frame>
+    <description>FAB assesses executive functions such as abstract thinking, mental flexibility, motor programming, interference sensibility, inhibitory control and environmental independence. Scores range between 0 - 18 points with higher scores indicating better cognitive function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in executive functions assessed through Frontal Assessment Battery (FAB)</measure>
+    <time_frame>12 weeks after end of intervention</time_frame>
+    <description>FAB assesses executive functions such as abstract thinking, mental flexibility, motor programming, interference sensibility, inhibitory control and environmental independence. Scores range between 0 - 18 points with higher scores indicating better cognitive function.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Executive functions assessed through Trail Making Test (TMT)</measure>
+    <time_frame>baseline</time_frame>
+    <description>TMT is one of the most widely used instruments in clinical and experimental neuropsychology. It is very sensitive to identify cognitive impairments, measuring simple motor and spatial skills, basic sequencing skills, mental flexibility, selective attention, visuo-perceptual skills, motor speed, and executive functions. Higher scores indicate greater impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in executive functions assessed through Trail Making Test (TMT)</measure>
+    <time_frame>12 weeks after the beginning of the intervention</time_frame>
+    <description>TMT is one of the most widely used instruments in clinical and experimental neuropsychology. It is very sensitive to identify cognitive impairments, measuring simple motor and spatial skills, basic sequencing skills, mental flexibility, selective attention, visuo-perceptual skills, motor speed, and executive functions. Higher scores indicate greater impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in executive functions assessed through Trail Making Test (TMT)</measure>
+    <time_frame>12 weeks after end of intervention</time_frame>
+    <description>TMT is one of the most widely used instruments in clinical and experimental neuropsychology. It is very sensitive to identify cognitive impairments, measuring simple motor and spatial skills, basic sequencing skills, mental flexibility, selective attention, visuo-perceptual skills, motor speed, and executive functions. Higher scores indicate greater impairment.</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Sociodemographic information gathered through the sociodemographic questionnaire</measure>
+    <time_frame>baseline</time_frame>
+    <description>The sociodemographic questionnaire was designed specifically for this study. It gathers information about the participants' gender, age, marital status, educational level, care and support services that the participant attends, medical comorbidities (including cognitive ones), and pharmacological treatment. It will be administered to all participants.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adherence to the intervention and dropouts evaluated through a session form</measure>
+    <time_frame>during the intervention</time_frame>
+    <description>Adherence to the intervention and dropouts will be assessed using a session form, designed specifically for this study, completed by the technician after each session, tracking the attendance and mood/behaviour of the participants throughout the intervention sessions.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Dementia</condition>
+  <condition>Neurocognitive Disorders</condition>
+  <condition>Cognitive Impairment</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>Cognitive Decline</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants who meet the inclusion criteria will be randomly assigned to the intervention group receiving individual CS or to the control group receiving treatment as usual (participating in the activities previously established in their individual intervention plan).&#xD;
+Participants in the intervention group will participate in two individual CS sessions per week for 12 weeks in addition to their treatment as usual. The sessions will include the same protocol in every participant site.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants in the control group will receive treatment/activities as usual, participating in the activities previously established in their individual intervention plan.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive stimulation</intervention_name>
+    <description>The intervention program will have 24 sessions (base scheme of 4 series of 6 sessions), lasting approximately 45 min and will be developed according to the following structure: - welcoming (greeting to the participant) (5 min); - orientation to reality (10 min); - main cognitive stimulation activity (25 min); - return to calm and evaluation of the session (5 min).&#xD;
+The CS sessions will have an individual format and will be conducted by a professional with experience in CS and previously trained in this intervention. The intervention sessions will include several activities based on the CS principles, with evidence suggesting positive participant effects. The CS sessions will be carried out using material, developed by the principal investigator, in digital format (power point presentations). There will be no repetition of activities, and throughout the base CS program, the degree of difficulty of the exercises will be adjusted based on the dementia stage of the participant.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 65 or over.&#xD;
+&#xD;
+          -  Receive care and support services for older adults for at least three months.&#xD;
+&#xD;
+          -  Alzheimer's disease, according to the criteria of the Diagnostic and Statistical&#xD;
+             Manual of Mental Disorders, 5th edition.&#xD;
+&#xD;
+          -  Ability to communicate and understand.&#xD;
+&#xD;
+          -  Native speakers of Portuguese.&#xD;
+&#xD;
+          -  To have given informed consent for the project, duly completed and signed, after&#xD;
+             previous information.&#xD;
+&#xD;
+          -  Total scores between 10 and 24 points on the Mini Mental State Examination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Cannot read and write.&#xD;
+&#xD;
+          -  Severe sensory and physical limitations and/or an acute or serious illness preventing&#xD;
+             participation in the CS sessions.&#xD;
+&#xD;
+          -  Evidence of aggressive and disruptive behaviour, as indicated by the reference&#xD;
+             technicians of the institution to which the participant is linked.&#xD;
+&#xD;
+          -  Consumption of psychoactive substances, taking neuroleptics and/or antipsychotics in&#xD;
+             the last two months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susana I Justo Henriques, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nursing School of Coimbra</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Óscar Ribeiro, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Aveiro University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Susana I Justo Henriques, PhD</last_name>
+    <phone>+351231202040</phone>
+    <email>susana.justo.henriques@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rui PC Maia, Bs</last_name>
+    <phone>+351967116708</phone>
+    <email>geral@replicar.pt</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rsocialform - Geriatria, Lda</name>
+      <address>
+        <city>Mealhada</city>
+        <state>Aveiro</state>
+        <zip>3050</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cediara - Associação de Solidariedade Social de Ribeira de Fráguas</name>
+      <address>
+        <city>Aveiro</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tânia Silva</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia da Horta</name>
+      <address>
+        <city>Açores</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Soraia Florêncio</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia de Mirandela</name>
+      <address>
+        <city>Bragança</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fátima Pereira</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Social e Cultural S. Pedro de Bairro</name>
+      <address>
+        <city>Braga</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandra Carvalho</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Social Vale do Homem - Casa da Alegria</name>
+      <address>
+        <city>Braga</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sílvia Peixoto</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Residência Sénior Don António</name>
+      <address>
+        <city>Castelo Branco</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tânia Augusto</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia de Castelo Branco</name>
+      <address>
+        <city>Castelo Branco</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sofia Fernandes</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Associação de Promoção Social, Cultural e Desportiva de Fornos de Algodres</name>
+      <address>
+        <city>Guarda</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susana Gomes</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação João Bento Raimundo</name>
+      <address>
+        <city>Guarda</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mónica García</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Associação Bem Estar para a Terceira Idade de Santiago de Litém</name>
+      <address>
+        <city>Leiria</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia Silva</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia de Alcobaça</name>
+      <address>
+        <city>Leiria</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christelle Matias</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Associação de Socorros da Freguesia de Turcifal</name>
+      <address>
+        <city>Lisboa</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lígia Sinógas</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Apoio Social de Oeiras - IASFA</name>
+      <address>
+        <city>Lisboa</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luís Milheiras</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Inválidos do Comércio</name>
+      <address>
+        <city>Lisboa</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cláudia Faustino</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Associação de Apoio Social de Perafita</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vanessa Pereira</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Associação de Desenvolvimento da Vila de Paço de Sousa -Lar e Centro de dia Padre Américo</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana Nunes</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASSTIR - Associação de Solidariedade Social S. Tiago de Rebordões</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luísa Carneiro</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Social e Paroquial de Recarei</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana S Mendes</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia de Santo Tirso</name>
+      <address>
+        <city>Porto</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sara Sousa</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia de Coruche</name>
+      <address>
+        <city>Santarém</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana António</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia de Ponte de Lima</name>
+      <address>
+        <city>Viana Do Castelo</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susana Lima</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Associação de Solidariedade Social da Freguesia de Abraveses</name>
+      <address>
+        <city>Viseu</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mónica Bastos</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa da Misericórdia de Vouzela</name>
+      <address>
+        <city>Viseu</city>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rui Dionísio</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Portugal</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>June 22, 2022</study_first_submitted>
+  <study_first_submitted_qc>June 22, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 27, 2022</study_first_posted>
+  <last_update_submitted>July 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>older adults</keyword>
+  <keyword>cognitive function</keyword>
+  <keyword>memory</keyword>
+  <keyword>executive function</keyword>
+  <keyword>dementia</keyword>
+  <keyword>cognitive stimulation therapy</keyword>
+  <keyword>cognition</keyword>
+  <keyword>neurocognitive disorders</keyword>
+  <keyword>individual therapy</keyword>
+  <keyword>non-pharmacological therapy</keyword>
+  <keyword>randomised controlled trial</keyword>
+  <keyword>Alzheimer disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="70">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04867616</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AH0003</org_study_id>
+    <secondary_id>2020-005829-88</secondary_id>
+    <nct_id>NCT04867616</nct_id>
+  </id_info>
+  <brief_title>A Study to Test the Efficacy, Safety, and Tolerability of Bepranemab (UCB0107) in Patients With Mild Cognitive Impairment or Mild Alzheimer's Disease (AD)</brief_title>
+  <official_title>A Patient- and Investigator-Blind, Placebo-Controlled Study to Evaluate the Efficacy, Safety, and Tolerability of Bepranemab (UCB0107) in Study Participants With Prodromal to Mild Alzheimer's Disease (AD), Followed by an Open-Label Extension Period</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UCB Biopharma SRL</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>UCB Pharma</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to investigate the effect of bepranemab versus (vs) placebo on&#xD;
+      the Clinical Dementia Rating Scale Sum of Boxes (CDR-SB) up to Week 80 in study participants&#xD;
+      with prodromal or mild Alzheimer's Disease (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 9, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 9, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Upon completion of the 80-week Double-blind Treatment Period, study participants will be eligible to enter a 48-week Open-label Extension Period with planned treatments of bepranemab for 44 weeks, followed by a Safety Follow-up Visit 20 weeks after the last infusion of investigational medicinal product.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline to Week 80 in the Clinical Dementia Rating Scale Sum of Boxes (CDR-SB) total score</measure>
+    <time_frame>From from Baseline to Week 80</time_frame>
+    <description>The Clinical Dementia Rating (CDR) scale is a clinician-rated dementia staging system that tracks the progression of cognitive impairment in 6 categories (memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care). Each category is scored on a 5-point scale in which None=0, Questionable=0.5, Mild=1, Moderate=2, and Severe=3. The global CDR score is established by clinical scoring rules and has values of 0 (no dementia), 0.5, (questionable dementia), 1 (mild dementia), 2 (moderate dementia), and 3 (severe dementia). The Clinical Dementia Rating Scale Sum of Boxes (CDR-SB) is obtained by adding the ratings in each of the 6 categories and ranges from 0 to 18 with higher scores indicative of greater impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>From Baseline to the Safety Follow-Up (Week 152)</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a patient or clinical study participant, temporally associated with the use of study medication, whether or not considered related to the study medication. An AE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of study medication.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent serious adverse events (TESAEs)</measure>
+    <time_frame>From Baseline to the Safety Follow-Up (Week 152)</time_frame>
+    <description>A serious adverse event (SAE) is any untoward medical occurrence that at any dose:&#xD;
+Results in death&#xD;
+Is life-threatening&#xD;
+Requires inpatient hospitalisation or prolongation of existing hospitalisation&#xD;
+Results in persistent or significant disability/incapacity, or&#xD;
+Is a congenital anomaly/birth defect&#xD;
+Other important medical events which based on medical or scientific judgement may jeopardize the patients, or may require medical or surgical intervention to prevent any of the above</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of TEAEs leading to discontinuation or death</measure>
+    <time_frame>From Baseline to the Safety Follow-Up (Week 152)</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a patient or clinical study participant, temporally associated with the use of study medication, whether or not considered related to the study medication. An AE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of study medication.tion, whether or not considered related to the study medication. An AE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of study medication.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Drug-related TEAEs</measure>
+    <time_frame>From Baseline to the Safety Follow-Up (Week 152)</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a patient or clinical study participant, temporally associated with the use of study medication, whether or not considered related to the study medication. An AE can therefore be any unfavorable and unintended sign, symptom, or disease temporally associated with the use of study medication.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in suicidal ideation and behavior as assessed by the Columbia-Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>From from Baseline to Week 80</time_frame>
+    <description>The Columbia Suicide Severity Rating Scale (C-SSRS) is a measure used to identify and assess individuals at risk for suicide. The C-SSRS is made up of ten categories, all of which maintain binary responses (yes/no) to indicate a presence or absence of the behavior. The ten categories included in the C-SSRS are as follows: Category 1 - Wish to be Dead; Category 2 - Non-specific Active Suicidal Thoughts; Category 3 - Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act; Category 4 - Active Suicidal Ideation with Some Intent to Act, without Specific Plan; Category 5 - Active Suicidal Ideation with Specific Plan and Intent; Category 6 - Preparatory Acts or Behavior; Category 7 - Aborted Attempt; Category 8 - Interrupted Attempt; Category 9 - Actual Attempt (non-fatal); Category 10 - Completed Suicide.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 56 and Week 80 on indices of tau burden in the brain as measured by [18F]Genentech tau probe 1 (GTP1) positron emission tomography (PET)</measure>
+    <time_frame>From from Baseline to Week 56 and Week 80</time_frame>
+    <description>[18F]Genentech tau probe 1 (GTP1) positron emission tomography (PET) will be used to assess the brain aggregated tau burden during the study. Images will be transferred to and analyzed by a central imaging laboratory. [18F]GTP1 imaging data will be analyzed to determine the standardized uptake value ratio relative to cerebellum in multiple brain regions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 56 and Week 80 in Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog14)</measure>
+    <time_frame>From from Baseline to Week 56 and Week 80</time_frame>
+    <description>The Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog14) is a composite scale (neuropsychological test battery and clinician reported outcome) that evaluates memory, orientation, attention, reasoning, language, and constructional praxis. Higher scores indicate greater impairment, with a minimum of 0 and a maximum of 90.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 56 and Week 80 in Amsterdam-Instrumental Activities of Daily Living (A-iADL)</measure>
+    <time_frame>From from Baseline to Week 56 and Week 80</time_frame>
+    <description>The Amsterdam-Instrumental Activities of Daily Living Questionnaire (A-iADL) is an adaptive and computerized observer-reported outcome measure designed to assess impairments in instrumental activities of daily living (iADL) in early dementia. The questionnaire is administered to an informant such as a relative or friend, with every effort made to use the same informant for a particular study participant throughout the study. The questionnaire consists of 70 items in 7 categories, which takes approximately 20 to 25 minutes to complete. The A-iADL assesses impairments in a broad range of daily activities including household activities, household appliances, finances, work, computer, appliances, leisure activities. The scoring range is 20 to 80 using an item response theory algorithm, with higher scores indicating better functioning (Sikkes et al, 2013).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 56 and Week 80 in Mini-Mental State Examination (MMSE) total score</measure>
+    <time_frame>From from Baseline to Week 56 and Week 80</time_frame>
+    <description>The MMSE is an 11-item neuropsychological test that is used to assess cognitive status in adults, and can be used to screen for cognitive impairment and to estimate severity of cognitive impairment. It assesses orientation, memory, attention, ability to name, ability to follow verbal and written commands, ability to write a sentence and to copy a drawing. The test takes approximately 10 to 15 minutes to complete. The score ranges from 0 to 30. Lower scores are indicative of poorer cognitive performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum concentrations of bepranemab over the 80-week Double-blind Treatment Period</measure>
+    <time_frame>From from Baseline to Week 80</time_frame>
+    <description>Serum samples will be collected for the measurement of concentrations of bepranemab at different time points during the Double-blind Treatment Period.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">421</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Dose level 1 bepranemab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to this arm will receive pre-specified doses (Dose level 1) of bepranemab during the Double-blind Treatment Period and the Open-label Extension Period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dose level 2 bepranemab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to this arm will receive pre-specified doses (Dose level 2) of bepranemab during the Double-blind Treatment Period and the Open-label Extension Period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Arm</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants randomized to this arm will receive Placebo to maintain the blinding during the Double-blind Treatment Period and will re-randomized during the Open-label Extension Period to receive pre-specified doses of bepranemab.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Pharmaceutical form: Solution for infusion&#xD;
+Route of administration: Intravenous infusion&#xD;
+Participants will receive Placebo during the Double-blind Treatment Period.</description>
+    <arm_group_label>Placebo Arm</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Bepranemab</intervention_name>
+    <description>Pharmaceutical form: Solution for infusion&#xD;
+Route of administration: Intravenous infusion&#xD;
+Participants will receive pre-specified doses of bepranemab during the Double-blind Treatment Period and the Open-label Extension Period.</description>
+    <arm_group_label>Dose level 1 bepranemab</arm_group_label>
+    <arm_group_label>Dose level 2 bepranemab</arm_group_label>
+    <arm_group_label>Placebo Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  50 to 80 years of age&#xD;
+&#xD;
+          -  Diagnosis of prodromal/mild cognitive impairment (MCI) due to Alzheimer's Disease (AD)&#xD;
+             or mild AD according to National Institute of Aging-Alzheimer's Association (NIA-AA)&#xD;
+&#xD;
+          -  A global Clinical Dementia Rating (CDR) score of 0.5 to 1.0 and CDR-Memory Box (CDRMB)&#xD;
+             score ≥0.5 at Screening and Baseline&#xD;
+&#xD;
+          -  Score of ≤85 for the delayed recall domain of the Repeatable Battery for the&#xD;
+             Assessment of Neuropsychological Status (RBANS) at Screening&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) score ≥20 at Screening&#xD;
+&#xD;
+          -  Participant has an identified informant that has and will maintain sufficient contact&#xD;
+             (minimum of 5 hours per week) with the participant to be able to provide accurate&#xD;
+             information on the participant's cognitive, functional, and emotional states and of&#xD;
+             the participant's personal care&#xD;
+&#xD;
+          -  At least 6 years of formal education after the age of 5 or work experience to exclude&#xD;
+             mental deficits other than prodromal or mild AD dementia&#xD;
+&#xD;
+          -  Evidence of cerebral Aβ accumulation by either positive amyloid assessment by either&#xD;
+             positron emission tomography (PET) scan or cerebrospinal fluid pTau181/Aβ1-42 ratio&#xD;
+             assessment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any evidence of a condition that may affect cognition other than AD&#xD;
+&#xD;
+          -  Contraindications to PET imaging&#xD;
+&#xD;
+          -  Inability to tolerate or contraindication to magnetic resonance imaging&#xD;
+&#xD;
+          -  Any serious medical condition or abnormality that in the opinion of the investigator&#xD;
+             would preclude safe participation in and completion of the study or interfere with&#xD;
+             study assessments and/or study interpretation&#xD;
+&#xD;
+          -  Alcohol or drug abuse within 2 years of screening&#xD;
+&#xD;
+          -  Use of any experimental therapy within the past 6 months (or 5 half lives) prior to&#xD;
+             screening&#xD;
+&#xD;
+          -  Previous treatment with medication intended to treat a neurodegenerative disorder&#xD;
+             (other than AD) within 1 year of screening&#xD;
+&#xD;
+          -  Chronic daily treatment with atypical antipsychotics, opiates or opioids,&#xD;
+             benzodiazepines, barbiturates, hypnotics, or any medication with clinically&#xD;
+             significant centrally acting antihistamine or anticholinergic activitiy&#xD;
+&#xD;
+          -  Received treatment with monoclonal antibodies (mAbs), cytokines, immunoglobulins, or&#xD;
+             other blood products within 3 months or 5 half-lives (whichever is longer) prior to&#xD;
+             first dosing&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>UCB Cares</last_name>
+    <role>Study Director</role>
+    <affiliation>001 844 599 2273 (UCB)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ah0003 50305</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50428</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50431</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50442</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50458</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50450</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50452</name>
+      <address>
+        <city>Pasadena</city>
+        <state>California</state>
+        <zip>91105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50447</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50434</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50422</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50467</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50421</name>
+      <address>
+        <city>Stamford</city>
+        <state>Connecticut</state>
+        <zip>06905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50465</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50449</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50435</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33487</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50430</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50429</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50436</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50426</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50427</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50478</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50464</name>
+      <address>
+        <city>Ocoee</city>
+        <state>Florida</state>
+        <zip>34761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50438</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50457</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50454</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50444</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50476</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50446</name>
+      <address>
+        <city>Westchester</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50479</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50439</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50445</name>
+      <address>
+        <city>Braintree</city>
+        <state>Massachusetts</state>
+        <zip>02184</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50453</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50448</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50420</name>
+      <address>
+        <city>Neptune</city>
+        <state>New Jersey</state>
+        <zip>07753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50451</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50255</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50443</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50423</name>
+      <address>
+        <city>East Providence</city>
+        <state>Rhode Island</state>
+        <zip>02914</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50455</name>
+      <address>
+        <city>Cordova</city>
+        <state>Tennessee</state>
+        <zip>38018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50380</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50424</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50432</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50440</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40121</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40123</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40575</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40576</name>
+      <address>
+        <city>Kortrijk</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40002</name>
+      <address>
+        <city>Leuven</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50463</name>
+      <address>
+        <city>Kelowna</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50461</name>
+      <address>
+        <city>Ottawa</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50520</name>
+      <address>
+        <city>Quebec</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50045</name>
+      <address>
+        <city>Toronto</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50291</name>
+      <address>
+        <city>Toronto</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50462</name>
+      <address>
+        <city>Toronto</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 50522</name>
+      <address>
+        <city>West Vancouver</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40129</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40580</name>
+      <address>
+        <city>Bron Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40636</name>
+      <address>
+        <city>Dijon Cedex</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40493</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40635</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40578</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40201</name>
+      <address>
+        <city>Rennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40131</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40581</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40579</name>
+      <address>
+        <city>Villeurbanne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40028</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40590</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40430</name>
+      <address>
+        <city>Munich</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40592</name>
+      <address>
+        <city>Siegen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40577</name>
+      <address>
+        <city>ULM</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40371</name>
+      <address>
+        <city>Monza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40600</name>
+      <address>
+        <city>Parma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40597</name>
+      <address>
+        <city>Pavia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40497</name>
+      <address>
+        <city>Pozzilli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40438</name>
+      <address>
+        <city>Roma</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40596</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40598</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40450</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40449</name>
+      <address>
+        <city>Den Bosch</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40601</name>
+      <address>
+        <city>Zwolle</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40603</name>
+      <address>
+        <city>Bialystok</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40606</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40605</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40609</name>
+      <address>
+        <city>Katowice</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40638</name>
+      <address>
+        <city>Scinawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40608</name>
+      <address>
+        <city>Szczecin</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40604</name>
+      <address>
+        <city>Warsaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40607</name>
+      <address>
+        <city>Warsaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40602</name>
+      <address>
+        <city>Warszawa</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40611</name>
+      <address>
+        <city>Wroclaw</city>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40159</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40160</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40267</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40612</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40105</name>
+      <address>
+        <city>Cordoba</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40614</name>
+      <address>
+        <city>Donostia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40540</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40615</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40352</name>
+      <address>
+        <city>Pamplona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40280</name>
+      <address>
+        <city>Sant Cugat Del Valles</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40617</name>
+      <address>
+        <city>Santander</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40049</name>
+      <address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40453</name>
+      <address>
+        <city>Terrassa</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40230</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40613</name>
+      <address>
+        <city>Valencia</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40616</name>
+      <address>
+        <city>Zaragoza</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40662</name>
+      <address>
+        <city>Birmingham</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40619</name>
+      <address>
+        <city>Bristol</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40639</name>
+      <address>
+        <city>Glasgow</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40622</name>
+      <address>
+        <city>Guildford</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40618</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40621</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40620</name>
+      <address>
+        <city>Motherwell</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40623</name>
+      <address>
+        <city>Plymouth</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40391</name>
+      <address>
+        <city>Southampton</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ah0003 40691</name>
+      <address>
+        <city>Winchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>April 27, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 30, 2021</study_first_posted>
+  <last_update_submitted>October 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Bepranemab</keyword>
+  <keyword>UCB0107</keyword>
+  <keyword>Phase 2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data from this trial may be requested by qualified researchers six months after product approval in the US and/or Europe, or global development is discontinued, and 18 months after trial completion. Investigators may request access to anonymized individual patient-level data and redacted trial documents which may include: analysis-ready datasets, study protocol, annotated case report form, statistical analysis plan, dataset specifications, and clinical study report. Prior to use of the data, proposals need to be approved by an independent review panel at www.Vivli.org and a signed data sharing agreement will need to be executed. All documents are available in English only, for a prespecified time, typically 12 months, on a password protected portal. This plan may change if the risk of reidentifying trial participants is determined to be too high after the trial is completed; in this case and to protect participants, individual patient-level data would not be made available.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data from this trial may be requested by qualified researchers six months after product approval in the US and/or Europe or global development is discontinued, and 18 months after trial completion.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers may request access to anonymized IPD and redacted study documents which may include: raw datasets, analysis-ready datasets, study protocol, blank case report form, annotated case report form, statistical analysis plan, dataset specifications, and clinical study report. Prior to use of the data, proposals need to be approved by an independent review panel at www.Vivli.org and a signed data sharing agreement will need to be executed. All documents are available in English only, for a pre-specified time, typically 12 months, on a password protected portal.</ipd_access_criteria>
+    <ipd_url>http://www.Vivli.org</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

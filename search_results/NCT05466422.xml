@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="543">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05466422</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2214-002</org_study_id>
+    <secondary_id>MK-2214-002</secondary_id>
+    <nct_id>NCT05466422</nct_id>
+  </id_info>
+  <brief_title>A Study of MK-2214 in Adults With Mild Cognitive Impairment or Mild-to-Moderate Alzheimer's Disease (MK-2214-002)</brief_title>
+  <official_title>A Multiple Ascending Dose Clinical Trial to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of MK-2214 in Adults With Mild Cognitive Impairment or Mild-to-Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety, tolerability, pharmacokinetics (PK) and&#xD;
+      pharmacodynamics of MK-2214 in adults with mild cognitive impairment (MCI) or&#xD;
+      mild-to-moderate Alzheimer's Disease (AD). The primary hypothesis (Part 1) is that at a&#xD;
+      generally well tolerated dose level, the true geometric mean concentration at Day 85 of&#xD;
+      MK-2214 in cerebrospinal fluid is &gt;0.3 nanomolar (nM). Optional healthy older participants&#xD;
+      (Part 2) may receive MK-2214 at dose levels determined by criteria met in Part 1.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 20, 2022</start_date>
+  <completion_date type="Anticipated">August 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2024</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Experience At Least One Adverse Event (AE)</measure>
+    <time_frame>Up to approximately 297 days</time_frame>
+    <description>An AE is defined as any untoward medical occurrence in a participant, temporally associated with the use of study treatment, whether or not considered related to the study treatment. The number of participants who experience at least one AE will be presented.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Who Discontinue Study Treatment Due to an AE</measure>
+    <time_frame>Up to approximately 57 days</time_frame>
+    <description>An AE is defined as any untoward medical occurrence in a participant, temporally associated with the use of study treatment, whether or not considered related to the study treatment. The number of participants who discontinue study treatment due to an AE will be presented.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Area Under the Concentration-Time Curve of MK-2214 from Time 0 to 28 Hours (AUC0-28) After First and Third Dose</measure>
+    <time_frame>At designated time points (up to 85 days)</time_frame>
+    <description>AUC is a measure of the extrapolated mean concentration in serum. Blood samples will be collected pre-dose and post-dose at designated timepoints to determine AUC0-28 of MK-2214.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Maximum Concentration (Cmax) of MK-2214 After First and Third Dose</measure>
+    <time_frame>At designated time points (up to 85 days)</time_frame>
+    <description>Cmax is the maximum concentration of the drug observed in plasma. Blood samples will be collected pre-dose and post-dose at designated timepoints to determine Cmax of MK-2214.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Time to Maximum Concentration (Tmax) of MK-2214 After First and Third Dose</measure>
+    <time_frame>At designated time points (up to 85 days)</time_frame>
+    <description>Tmax is the amount of time required to reach Cmax. Blood samples will be collected pre-dose and post-dose at designated timepoints to determine Tmax of MK-2214.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Apparent Terminal Half-Life (t1/2) of MK-2214 After First and Third Dose</measure>
+    <time_frame>At designated time points (up to 85 days)</time_frame>
+    <description>t1/2 is the time required for 50% of drug to be cleared from serum. Blood samples will be collected pre-dose and post-dose at designated timepoints to determine t1/2 of MK-2214.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Concentration of MK-2214 in Cerebrospinal Fluid (CSF) at Day 85 (C85d)</measure>
+    <time_frame>Day 85</time_frame>
+    <description>CSF concentration of MK-2214 will be presented for Day 85.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage change from baseline to Day 29 in free phospho-tau in CSF</measure>
+    <time_frame>Baseline and Day 29 pre-dose</time_frame>
+    <description>Free phospho-tau in CSF will be determined for participants using the individual percent of baseline values (100* free phospho-tau / baseline).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage change from baseline to Day 85 in free phospho-tau in CSF</measure>
+    <time_frame>Baseline and Day 85</time_frame>
+    <description>Free phospho-tau in CSF will be determined for participants using the individual percent of baseline values (100* free phospho-tau / baseline).</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>MK-2214</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive MK-2214 administered in escalating doses as an intravenous (IV) infusion on Days 1, 29, and 57.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo as an IV infusion on Days 1, 29, and 57.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MK-2214</intervention_name>
+    <description>MK-2214 in escalating doses as an IV infusion on Days 1, 29, and 57</description>
+    <arm_group_label>MK-2214</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo as an IV infusion on Days 1, 29, and 57</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        The key Inclusion Criteria include but are not limited to the following:&#xD;
+&#xD;
+          -  Participant is in overall good health based on medical history and laboratory safety&#xD;
+             tests&#xD;
+&#xD;
+          -  BMI between 18.5 and 35 kg/m2&#xD;
+&#xD;
+        Part 1 Only:&#xD;
+&#xD;
+          -  History of cognitive and functional decline with gradual onset and slow progression&#xD;
+             for at least one year before Screening&#xD;
+&#xD;
+          -  Have an Mini-Mental State Examination (MMSE) &gt;12 and &lt;28 at the prestudy visit&#xD;
+&#xD;
+          -  Modified Hachinski Ischemic Score (MHIS) score &lt;4 at the prestudy visit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        The key Exclusion Criteria include but are not limited to the following:&#xD;
+&#xD;
+          -  Based on clinical interview and Columbia-Suicide Severity Rating Scale (C-SSRS), has&#xD;
+             reported suicidal ideation with intent, with or without a plan or method&#xD;
+&#xD;
+          -  History of unstable or poorly controlled endocrine, gastrointestinal (GI),&#xD;
+             cardiovascular, hematological, hepatic, renal, respiratory, or genitourinary&#xD;
+             abnormalities or diseases&#xD;
+&#xD;
+          -  History of clinically significant active neurological disease (except for AD or MCI&#xD;
+             for participants in Part 1)&#xD;
+&#xD;
+          -  History of clinically significant active autoimmune disease requiring ongoing systemic&#xD;
+             immunosuppressant therapy&#xD;
+&#xD;
+          -  History of cancer (malignancy)&#xD;
+&#xD;
+          -  History of significant multiple and/or severe allergies (eg, food, drug, latex&#xD;
+             allergy), or has had an anaphylactic reaction or significant intolerability to&#xD;
+             prescription or nonprescription drugs or food&#xD;
+&#xD;
+          -  Positive test(s) for Hepatitis B Surface Antigen (HBsAg), hepatitis C antibodies or&#xD;
+             human immunodeficiency virus (HIV)&#xD;
+&#xD;
+          -  Has had a major surgery and/or donated or lost 1 unit of blood (approximately 500 mL)&#xD;
+             within 4 weeks prior to the prestudy visit&#xD;
+&#xD;
+          -  Has a contraindication to lumbar dural puncture, such as coagulopathy, concomitant&#xD;
+             anticoagulation beyond low dose aspirin, thrombocytopenia, or other factors that could&#xD;
+             preclude safe lumbar puncture&#xD;
+&#xD;
+          -  Currently receiving or has received aducanumab or another anti-amyloid therapy within&#xD;
+             the last 6 months&#xD;
+&#xD;
+          -  Has a history of receiving biological therapy within 3 months or 5 half-lives&#xD;
+             (whichever is longer) or any human immunoglobulin preparation within the last year&#xD;
+&#xD;
+          -  Has received any non-live vaccine starting from 14 days prior to first study&#xD;
+             intervention or is scheduled to receive any non-live vaccine through 14 days following&#xD;
+             the final dose of study intervention. Exception: COVID-19 and influenza vaccines may&#xD;
+             be administered&#xD;
+&#xD;
+          -  Is receiving systemic immunosuppression, including corticosteroids exceeding&#xD;
+             physiologic replacement doses&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+    <email>Trialsites@merck.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>California Clinical Trials Medical Group managed by PAREXEL-PAREXEL International ( Site 0007)</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>800-239-4367</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Collaborative Neuroscience Research, LLC ( Site 0009)</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>844-424-9494</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research - Lady Lake ( Site 0011)</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>352-441-2000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>K2 Medical Research ( Site 0005)</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>407-500-5252</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Atlanta ( Site 0002)</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>404-537-1281</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Global Medical Institutes LLC; Princeton Medical Institute ( Site 0003)</name>
+      <address>
+        <city>Princeton</city>
+        <state>New Jersey</state>
+        <zip>08540</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>609-921-3555</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>July 18, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 18, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 20, 2022</study_first_posted>
+  <last_update_submitted>October 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

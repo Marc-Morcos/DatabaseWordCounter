@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1590">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04954534</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SARC-CR-01</org_study_id>
+    <nct_id>NCT04954534</nct_id>
+  </id_info>
+  <brief_title>Exploratory Efficacy Study of NEUROSTEM® in Subjects Who Control Group of NEUROSTEM®</brief_title>
+  <official_title>Exploratory Efficacy Study of NEUROSTEM® in Subjects Who Control Group of NEUROSTEM® Phase-I/IIa Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Samsung Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medipost Co Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Samsung Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to evaluate of Exploratory Efficacy of NEUROSTEM® in Subjects who control group&#xD;
+      of NEUROSTEM® Phase-I/IIa Clinical Trial&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 12, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from the baseline in ADAS-Cog</measure>
+    <time_frame>4weeks,8weeks,12weeks,24 weeks after the first dose</time_frame>
+    <description>The ADAS-Cog is a psychometric instrument that evaluates memory, attention, reasoning, language, orientation, and praxis using an 11-point AD Assessment Scale. It has a minimum score of 0 and a maximum severity score of 70, and a higher score indicates more impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in CDR-SOB</measure>
+    <time_frame>24 weeks after the first dose</time_frame>
+    <description>The CDR-SOB(Clinical Dementia Rating, Sum of Boxes) is a global rating of dementia severity based on the clinician's interpretation of the history and examination. The range of this instrument is 0 to 18 with higher numbers indicating greater impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from the baseline in K-MMSE(korean version)</measure>
+    <time_frame>24 weeks after the first dose</time_frame>
+    <description>The MMSE(Mini-Mental State Examination) is a brief, practical test for cognitive dysfunction. The test consists of five sections (orientation, registration, attention-calculation, recall, and language) and results in a total possible score from 0 to 30, with higher scores indicating better function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from the baseline in CGA-NPI</measure>
+    <time_frame>24 weeks after the first dose</time_frame>
+    <description>Caregiver-administered Neuropsychiatric Inventory, Measure abnormal behavior. The score range is 0-144. A higher score means severe abnormal behavior.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from the baseline in SIB</measure>
+    <time_frame>24 weeks after the first dose</time_frame>
+    <description>The Severe Impairment Battery (SIB) is an assessment of cognitive dysfunction across nine domains such as memory, language, and orientation. The score ranges from 0 (worst) to 100 (best)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ADAS-Cog Response Rate</measure>
+    <time_frame>The ADAS-cog response is defined as no worsening (no change or improvement on ADAS-cog score) of the ADAS-cog score at 24 weeks after the first administration compared to the baseline</time_frame>
+    <description>Alzheimer's Disease assessment Scale-Cognitive Subscale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in CIBIC-plus</measure>
+    <time_frame>24 weeks after the first dose</time_frame>
+    <description>The Clinician's Interview-Based Impression of Change-plus(CIBIC-plus) is a rating scale derived from an interview with the patient and caregiver with an independent rater designed to measure several domains of patient function, such as mental/cognitive state, behavior, and activities of daily living. The scores range from 1 (marked improvement) to 7 (marked worsening).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from the baseline in CSF biomarkers</measure>
+    <time_frame>24 weeks after the first dose</time_frame>
+    <description>biomakrers analysis (Amyloid beta 42, Phosphorylated tau, Total tau, RBC, WBC, Protein, Glucose)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">9</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>NEUROSTEM (hUCB-MSCs) - high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>human umbilical cord blood-derived mesenchymal stem cells High dose: 3 x 10^7 cells/2mL 3 repeated intraventricular administrations via an Ommaya Reservoir at 4-week intervals</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>human umbilical cord blood derived mesenchymal stem cells</intervention_name>
+    <description>High dose: 3 x 10^7cells/2mL 3 repeated intraventricular administrations via an Ommaya Reservoir at 4-week intervals</description>
+    <arm_group_label>NEUROSTEM (hUCB-MSCs) - high dose</arm_group_label>
+    <other_name>NEUROSTEM</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Subjects who have been treated with placebo in phase 1/2a clinical trial of NEUROSTEM®&#xD;
+&#xD;
+          2. Subjects who voluntarily decided to participate and signed the consent form after&#xD;
+             receiving explanations on the clinical trial (in case it is difficult for the&#xD;
+             participant to sign, the consent of the legal representative)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of stroke within 3 months prior to study enrollment&#xD;
+&#xD;
+          2. Severe liver disorder (equivalent to double the normal values of ALT and AST) at Visit&#xD;
+             1&#xD;
+&#xD;
+          3. Severe kidney disorder (serum creatinine ≥1.5mg/dL) at Visit 1&#xD;
+&#xD;
+          4. Abnormal Laboratory findings at Visit 1&#xD;
+&#xD;
+               -  Hemoglobin &lt; 9.5 g/dL for male and &lt;9.0 g/dL for female&#xD;
+&#xD;
+               -  Total WBC Count &lt; 3000/mm3&#xD;
+&#xD;
+               -  Total Bilirubin &gt;= 3 mg/dL&#xD;
+&#xD;
+          5. Suspected active lung disease based on chest X-ray at Visit 1&#xD;
+&#xD;
+          6. Bleeding disorder (abnormal blood coagulation test result (i.e. platelet count of &lt;&#xD;
+             137,000/mm3, PT ≥ 1.5 INR, or aPTT ≥ 1.5 x control anti-coagulant or anti-platelet,&#xD;
+             without anticoagulant or anti-platelet therapy)&#xD;
+&#xD;
+          7. Diagnosis of cancer (of any body system, including brain tumor)&#xD;
+&#xD;
+          8. Contraindicated for any of the tests performed during the clinical trial period (for&#xD;
+             example, MRI, CT, PET)&#xD;
+&#xD;
+          9. Whom the principal investigator considers inappropriate for participation in the study&#xD;
+             due to any reasons other than those listed above&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Duk L. Na, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Samsung Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Heejin kim, MD</last_name>
+    <phone>+82-2-3410-1947</phone>
+    <email>evekhj@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>June 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>July 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 8, 2021</study_first_posted>
+  <last_update_submitted>July 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Samsung Medical Center</investigator_affiliation>
+    <investigator_full_name>Duk Lyul Na</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

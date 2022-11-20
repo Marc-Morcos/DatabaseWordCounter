@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="932">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04804241</url>
+  </required_header>
+  <id_info>
+    <org_study_id>945869</org_study_id>
+    <nct_id>NCT04804241</nct_id>
+  </id_info>
+  <brief_title>Senicapoc in Alzheimer's Disease</brief_title>
+  <acronym>Senicapoc</acronym>
+  <official_title>Proof of Mechanism Study of Senicapoc in Mild or Prodromal Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Davis</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, Davis</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Development of novel disease-modifying therapies for Alzheimer's disease (AD) remains of&#xD;
+      paramount importance. This study will be a Phase II randomized clinical trial testing&#xD;
+      Senicapoc in patients with mild or prodromal AD. This will be a small Proof of Mechanism&#xD;
+      study to prove biological activity and target engagement in humans with early AD. The&#xD;
+      investigators will study up to 55 patients over 52 weeks, with primary outcomes being&#xD;
+      Alzheimer's Disease Assessment Scale Cognitive Subscale (ADAS-Cog) scores and blood and&#xD;
+      cerebrospinal fluid (CSF) markers of neuroinflammation. This pilot study will provide an&#xD;
+      estimate of treatment effect size on cognitive trajectory, daily function, and brain atrophy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will study up to 55 patients (3:1 active treatment with 10 mg/day&#xD;
+      maintenance dose: placebo) over 52 weeks in either the Sacramento or East Bay locations the&#xD;
+      University of California Davis Alzheimer's Disease Research Center (ADRC), with cognitive&#xD;
+      outcomes, blood, and CSF markers of neuroinflammation. This pilot study will provide an&#xD;
+      estimate of treatment effect size on cognitive trajectory, daily function, and brain atrophy.&#xD;
+      The trial will last 1 year (52 weeks on 10 mg/day of active drug or placebo) with primary&#xD;
+      efficacy measures at baseline, week 26, and week 52. Additional safety monitoring visits will&#xD;
+      occur at weeks 4, 12, and 36 including physical exams, measurement of blood pressure, vital&#xD;
+      signs, safety labs, electrocardiogram recordings, collection of Adverse Events and&#xD;
+      Concomitant Medications. The study will culminate with a visit at 78 weeks (26 weeks after&#xD;
+      last dose, allowing full wash-out from the central nervous system (CNS)) to test if the&#xD;
+      previously treated and untreated groups show any differences, as would be expected if&#xD;
+      Senicapoc treatment for 1 year was disease-modifying. All participants will be required to&#xD;
+      participate in either the CSF Sub-study or the Amyloid Positron Emission Tomography (PET)&#xD;
+      Sub-study. All participants will be required to participate in the Cognitive Event Related&#xD;
+      Potential (ERP) Sub-study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 18, 2022</start_date>
+  <completion_date type="Anticipated">June 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Subjects will be randomized 3 to 1 to receive active study medication versus placebo.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>This is a double-blind study. All subjects and staff will be blinded to treatment allocation. Investigational drug pharmacy will maintain unblinded randomization information.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in the Alzheimer's Disease Assessment Scale, Cognitive Subscale (ADAS-Cog 13) score</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>ADAS-Cog 13 is a scale used to measure cognitive dysfunction in a number of neural domains. Total scores range from 0-70, with higher scores indicating greater cognitive impairment and a worse outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline to Week 52 in levels of Cerebrospinal fluid (CSF) biomarkers: IL-1β, IL-6, TNF-α, MCP-1, and IL-10</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>A lumbar puncture will be done and CSF collected at baseline prior to initiating study treatment and at Week 52 at the end of study treatment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline to Week 52 in levels of serum biomarkers: IL-6, TNF-α, MCP-1, and IL-10 and high sensitivity C-Reactive protein</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>Blood draws will be done and serum processed at baseline prior to initiating study treatment and at Week 52 at the end of study treatment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Screening in the Clinical Dementia Rating (CDR) sum of boxes score</measure>
+    <time_frame>Screening, Week 26, Week 52</time_frame>
+    <description>The CDR is a widely used clinical tool for grading the relative severity of dementia with scores that range from 0 (no impairment) to 3 (severe impairment). A higher score indicates greater cognitive impairment and a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in the Everyday Cognition (ECog) score</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>The ECog is a validated instrument used to assess cognitively mediated functional abilities in older adults. It is comprised of 39 items and a higher total score indicates greater cognitive impairment and a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Screening in Montreal Cognitive Assessment (MoCA) score</measure>
+    <time_frame>Screening, Week 26, Week 52</time_frame>
+    <description>The MoCA is a diagnostic tool used for detecting Mild Cognitive Impairment and early Alzheimer's disease. The scale goes from 0 to 30. A higher score indicates less cognitive impairment and a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 52 in Spanish English Neuropsychological Assessment Scales (SENAS) memory score</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>The SENAS was devised to be a broad set of psychometrically matched measures with equivalent Spanish and English versions. The composites are z-scores, the more positive the score is, the less cognitive impairment and the better the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 52 in Spanish English Neuropsychological Assessment Scales (SENAS) executive composite score</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>The SENAS was devised to be a broad set of psychometrically matched measures with equivalent Spanish and English versions. The composites are z-scores, the more positive the score is, the less cognitive impairment and the better the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Bushcke Cued Selective Reminding Task (CSRT) score</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>The CSRT is widely used to identify mild dementia and measure associative learning and memory. It involves a study phase where subjects identify pictured items in response to category cures. This is followed by a free recall period and then a cued recall period where category cues are presented to the subjects. The raw score for the CSRT is 0 to 48 (16 items with 3 recall trials). The combined scores when combining the Free plus Cued Recall trials is 0 to 96. The higher the score, the less cognitive impairment and the better the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Trails B score</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>The Trails B is a well-established measure of executive function in which subjects must serially connect alternating numbers and letters. It is scored based on accuracy and time to completion. A longer time to complete indicates greater cognitive impairment and a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Verbal fluency (semantic) score</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>Controlled Oral Word Association Test (COWAT) is a verbal fluency test that measures spontaneous production of words belonging to the same category or beginning with some designated letter (e.g. Animals, Fruits, Vegetables, letter 'F', 'A', 'S'). The more words correctly stated by the participant for a particular category in a 1-minute time period indicates less cognitive impairment and a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Verbal fluency (letter) score</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>Controlled Oral Word Association Test (COWAT) is a verbal fluency test that measures spontaneous production of words belonging to the same category or beginning with some designated letter (e.g. Animals, Fruits, Vegetables, letter 'F', 'A', 'S'). The more words correctly stated by the participant for a specific letter in a 1-minute time period, indicates less cognitive impairment and a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 52 in Brain MRI measures of total grey matter.</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>Volumetric MRIs will be done at baseline and Week 52.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 52 in Brain MRI measures of total brain volume.</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>Volumetric MRIs will be done at baseline and Week 52.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 52 in Brain MRI measures of white matter hyperintensities.</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>Volumetric MRIs will be done at baseline and Week 52.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 52 in total grey matter florbetaben binding on amyloid Positron Emission Tomography (PET)</measure>
+    <time_frame>Baseline, Week 52</time_frame>
+    <description>Amyloid PETs will be done at baseline and Week 52.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cognitive Event Related Potential (ERP) measures of P600 word repetition.</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>Cognitive ERPs will be done at Baseline, Week 26 and Week 52</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cognitive Event Related Potential (ERP) measures of alpha suppression effect.</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>Cognitive ERPs will be done at Baseline, Week 26 and Week 52</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in Cognitive Event Related Potential (ERP) measures of anti-coupling between early theta and late alpha/beta activity.</measure>
+    <time_frame>Baseline, Week 26, Week 52</time_frame>
+    <description>Cognitive ERPs will be done at Baseline, Week 26 and Week 52</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">55</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>10 mg daily Senicapoc</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 mg daily Senicapoc for 52 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo daily for 52 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Senicapoc</intervention_name>
+    <description>10 mg oral tablet</description>
+    <arm_group_label>10 mg daily Senicapoc</arm_group_label>
+    <other_name>TRAM-34</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo Tablet</intervention_name>
+    <description>Placebo Oral Tablet</description>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 55-85&#xD;
+&#xD;
+          -  Fluent in either English or Spanish&#xD;
+&#xD;
+          -  Willing to be randomized to active drug (10 mg Senicapoc) vs. placebo (3:1 ratio)&#xD;
+&#xD;
+          -  Clinical Dementia Rating (CDR) global score of 1 or 0.5&#xD;
+&#xD;
+          -  Education adjusted scores between 15-28 on the Montreal Cognitive Assessment (MoCA) at&#xD;
+             the Screening visit.&#xD;
+&#xD;
+          -  A consensus clinical diagnosis of either amnestic Mild Cognitive Impairment (MCI) or&#xD;
+             mild AD dementia. Diagnoses are made by a comprehensive case conference review for all&#xD;
+             participants in the ADRC longitudinal cohort and all CADC referrals, resulting in a&#xD;
+             consensus diagnosis made according to current research criteria. For patients referred&#xD;
+             from other clinics, the case will be reviewed by a study physician and&#xD;
+             neuropsychologist and only patients who satisfy criteria for probable AD (McKhann et&#xD;
+             al 1984) or amnestic MCI (Petersen et al 2004) will be eligible for enrollment.&#xD;
+&#xD;
+          -  Vision (with or without correction) of at least 20/50 for distant vision&#xD;
+&#xD;
+          -  All participants will need a study partner informant who has at least 6 hours of&#xD;
+             contact per week with the participant. The study partners are used to help answer&#xD;
+             questions on the subject's behalf, since many of them will be impaired and may need&#xD;
+             assistance with providing accurate information. The study partners are not asked to&#xD;
+             provide any opinions or judgements about the subjects.&#xD;
+&#xD;
+          -  For Females of childbearing potential: Must agree to practice a highly effective&#xD;
+             method of contraception throughout the study until completion of the Week 78 follow up&#xD;
+             visit. Highly effective methods of contraception are those that alone or in&#xD;
+             combination result in a failure rate of less than 1% per year when used correctly and&#xD;
+             consistently.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unstable medical illnesses including hepatic insufficiency (elevated ALT, AST, or GGT;&#xD;
+             or low albumin attributable to liver disease), renal insufficiency (CK-EPI stage 4 or&#xD;
+             higher, or estimated GFR &lt;30)&#xD;
+&#xD;
+          -  Unstable ischemic cardiovascular disease, respiratory failure, moderate or severe&#xD;
+             congestive heart failure - New York Heart Association class III or IV, cancer,&#xD;
+             unstable hematologic disease or a life expectancy of &lt;3 years&#xD;
+&#xD;
+          -  Use of experimental AD treatments&#xD;
+&#xD;
+          -  Unable to undergo MRI scanning (e.g. pacemaker, metallic implants, severe&#xD;
+             claustrophobia)&#xD;
+&#xD;
+          -  History of chronic psychiatric illness (e.g. schizophrenia), any episode of major&#xD;
+             depression within last 2 years, or current Geriatric Depression Scale (GDS) &gt; 6, any&#xD;
+             recent suicide attempts or suicidal ideation. Subjects with a diagnosis of bipolar&#xD;
+             disorder may be included if they have been clinically stable for a minimum of 3 years&#xD;
+             prior to the Screening visit. Clinical stability to be determined by the Principal&#xD;
+             Investigator.&#xD;
+&#xD;
+          -  History of a serious infectious disease affecting the brain (including neurosyphilis,&#xD;
+             meningitis, or encephalitis), head trauma resulting in any persistent cognitive&#xD;
+             deficit&#xD;
+&#xD;
+          -  History of alcohol or drug abuse/dependence within the past 5 years&#xD;
+&#xD;
+          -  Known allergy to chemically related compounds (e.g. clotrimazole)&#xD;
+&#xD;
+          -  Lack of good venous access, such that multiple blood draws would be precluded&#xD;
+&#xD;
+          -  Regular use of any of these CNS active medications: benzodiazepines, antipsychotics,&#xD;
+             narcotics, or anti-epileptic drugs. Exceptions may be allowed by the Principal&#xD;
+             Investigator for regular use of low doses of CNS active medications. Subjects using&#xD;
+             any of these treatments will be instructed to hold their dose on the evening prior and&#xD;
+             the day of the efficacy visits (Baseline, Week 26 and Week 52). Stable doses (&gt; 6&#xD;
+             weeks) of cholinesterase inhibitors or memantine will be allowed, as will stable doses&#xD;
+             of anti-depressants.&#xD;
+&#xD;
+          -  Female subjects who are pregnant or breastfeeding or who plan to become pregnant&#xD;
+             during participation in this trial&#xD;
+&#xD;
+          -  Inability to swallow oral tablets&#xD;
+&#xD;
+        Exclusions for Cerebrospinal Fluid (CSF) Sub-study:&#xD;
+&#xD;
+          -  Presence of an implanted shunt for the drainage of CSF or an implanted CNS catheter&#xD;
+&#xD;
+          -  History of bleeding diathesis or coagulopathy,&#xD;
+&#xD;
+          -  On anticoagulant therapy (within 14 days of lumbar puncture (LP), including but not&#xD;
+             limited to warfarin, heparin, dabigatran, rivaroxaban, and apixaban,&#xD;
+&#xD;
+          -  Requires daily antiplatelet therapy, including but not limited to aspirin (unless &lt;&#xD;
+             81mg/day), clopidogrel, dipyridamole, and ticlopiidinegrel. However, the investigators&#xD;
+             will not exclude those who can safely hold antiplatelet therapy for 7 days prior to&#xD;
+             LP. Safety will be determined by the participant's Primary Care Provider and study PI.&#xD;
+&#xD;
+          -  For those who take antiplatelet therapy intermittently (e.g. aspirin as needed for&#xD;
+             pain), the investigators will exclude any doses within 48 hours of the LP or more than&#xD;
+             two dosses within 7 days of LP.&#xD;
+&#xD;
+          -  platelet count less than the lower limit of normal (platelet counts between 100,000&#xD;
+             and 150,000 mm3 are permissible as long as the investigator confirms there is no&#xD;
+             evidence of current bleeding diathesis or coagulopathy)&#xD;
+&#xD;
+          -  The investigators will require INR/PT and aPTT labs to be done within 14 days of LP&#xD;
+             and will exclude those with INR &gt; 1.30 or abnormally elevated aPTT.&#xD;
+&#xD;
+        Exclusions for PET Sub-Study:&#xD;
+&#xD;
+          -  Does not have good venous access, such that multiple blood draws would be precluded&#xD;
+&#xD;
+          -  Prior radiation exposure of &gt; 2 rem total within last 12 months.&#xD;
+&#xD;
+          -  Probable AD dementia patients with a global cortical SUVr &lt; 1.08.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Olichney, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, Davis</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mitzi Hurtado</last_name>
+    <phone>(916) 734-5244</phone>
+    <email>mhurt@ucdavis.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hongzheng Zhang</last_name>
+    <phone>(925) 357-6914</phone>
+    <email>hzzhang@ucdavis.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California, Davis Alzheimer's Disease Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martha Forloines, PhD</last_name>
+      <phone>916-734-5223</phone>
+      <email>mrforloines@ucdavis.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis Alzheimer's Disease Center East Bay</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martha Forloines, PhD</last_name>
+      <phone>916-734-5223</phone>
+      <email>mrforloines@ucdavis.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://studypages.com/s/a-study-of-senicapoc-in-alzheimers-disease-116386/</url>
+    <description>Learn more or sign up for the study here!</description>
+  </link>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>March 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>March 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Amnestic Mild Cognitive Impairment (MCI)</keyword>
+  <keyword>Mild AD dementia</keyword>
+  <keyword>Senicapoc</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Investigator may share individual participant data collected, after de-identification, that supports the results reported in published articles (test, tables, figures, appendices)</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months and ending 36 months following article publication</ipd_time_frame>
+    <ipd_access_criteria>Proposals may be submitted to Principal Investigator up to 36 months following article publication. Information regarding submitting proposals and accessing data can be found on the UC Davis Alzheimer's Disease Research Center webpage.</ipd_access_criteria>
+    <ipd_url>https://health.ucdavis.edu/alzheimers/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

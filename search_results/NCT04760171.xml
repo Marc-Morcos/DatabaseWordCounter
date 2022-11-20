@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2571">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04760171</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EN21/138414</org_study_id>
+    <nct_id>NCT04760171</nct_id>
+  </id_info>
+  <brief_title>Amyloid Proteins From Medullary Thyroid Cancer and Laryngeal Amyloidosis</brief_title>
+  <official_title>An ex Vivo Study to Purify Amyloid Fibrils and Solve Their 3D Structures Using Amyloid Proteins From Medullary Thyroid Cancer and Laryngeal Amyloidosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Leeds Teaching Hospitals NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Leeds</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Leeds Teaching Hospitals NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Using excess tumour samples that contain amyoid, from patients with Medullary Thyroid Cancer,&#xD;
+      we aim to determine the structures of ex vivo amyloid fibrils from human tumour tissue&#xD;
+      samples and compare them with that of existing stock of in vitro formed amyloid fibrils. This&#xD;
+      will permit the analysis of the effects of gene mutation and post-translational modification&#xD;
+      on the development of amyloid from a disease state.&#xD;
+&#xD;
+      Amyloid is known to accumulate in the brain tissue of patients with neuro-degenerative&#xD;
+      conditions such as Alzheimer's disease and Dementia. Therefore solving the structure of&#xD;
+      amyloid fibrils may aid the development of future treatments for these conditions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an anonymous, voluntary inclusion, laboratory based, basic science research study.&#xD;
+      Appropriate patients who meet the inclusion criteria and complete the consent process will be&#xD;
+      asked to donate a small sample of excess tumour tissue after the completion of their surgical&#xD;
+      procedure. This tissue will be transferred to the research laboratory in Leeds University for&#xD;
+      analysis and subject to a variety of investigations and scientific procedures to achieve the&#xD;
+      study objectives.&#xD;
+&#xD;
+      These include:&#xD;
+&#xD;
+        1. - amyloid extraction by tissue homogenization and centrifugation as already documented&#xD;
+           in the literature.&#xD;
+&#xD;
+        2. - mass spectrometry analysis to identify and characterize the most prominent proteins&#xD;
+           present in the amyloid deposits and their possible post-translational modifications.&#xD;
+&#xD;
+        3. - Transmission Electron Microscopy to characterize at the gross features of the&#xD;
+           extracted amyloid fibrils at low resolution (&gt;20Å). This relatively simple procedure&#xD;
+           allows for quick characterization of the samples in order to optimize them for Atomic&#xD;
+           Force Microscopy (AFM) and Cryo-Electron Microscopy (Cryo-EM).&#xD;
+&#xD;
+        4. - Atomic Force microscopy to characterize helical parameters of the amyloid fibrils&#xD;
+           needed to calculate the structure from Cryo-EM data.&#xD;
+&#xD;
+        5. - Cryo-Electron Microscopy to elucidate the structure of the amyloids extracted from&#xD;
+           tissue affected in each disease&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">February 2026</completion_date>
+  <primary_completion_date type="Anticipated">February 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Amyloid extraction by tissue homogenization and centrifugation</measure>
+    <time_frame>12-24 months</time_frame>
+    <description>A standard laboratory technique for subsequent analysis</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transmission electron microscopy</measure>
+    <time_frame>12-24 months</time_frame>
+    <description>To characterize the gross features of the extracted amyloid fibrils at low resolution (&gt;20Å). This relatively simple procedure allows for quick characterization of the samples in order to optimize them for Atomic Force Microscopy (AFM) and Cryo-Electron Microscopy (Cryo-EM).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Atomic force microscopy</measure>
+    <time_frame>12-24 months</time_frame>
+    <description>To characterize helical parameters of the amyloid fibrils needed to calculate the structure from Cryo-EM data.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cryo-electron microscopy (Cryo-EM)</measure>
+    <time_frame>12-24 months</time_frame>
+    <description>To elucidate the structure of the amyloids extracted from tissue affected in each disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mass spectrometry</measure>
+    <time_frame>12-24 months</time_frame>
+    <description>Analysis to identify and characterize the most prominent proteins present in the amyloid deposits and their possible post-translational modifications.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Amyloid</condition>
+  <condition>Medullary Thyroid Cancer</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <description>Patients diagnosed with medullary thyroid cancer (MTC) who are undergoing standard surgical treatment for their disease. This will be either hemithyroidectomy or total thyroidectomy. Patients with laryngeal amyloidosis (LA) who are undergoing standard surgical treatment of this disease. This will be microlaryngoscopy &amp; biopsy/debulking</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Excess tumour tissue resected from patients with known medullary thyroid cancer, or,&#xD;
+      laryngeal amyloidosis.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with MTC, who have been recommended via the Thyroid Multi-Disciplinary team&#xD;
+        meeting, to undergo hemi or total thyroidectomy surgery.&#xD;
+&#xD;
+        Patients with LA, who agree with their surgeon, to undergo surgical treatment of that&#xD;
+        condition&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed with known or suspected MTC or LA&#xD;
+&#xD;
+          -  Age &gt;= 18 years, no upper age limit&#xD;
+&#xD;
+          -  Able to provide informed consent for both surgical treatment and inclusion into this&#xD;
+             study&#xD;
+&#xD;
+          -  For MTC patients, treatment recommendation from the Thyroid MDT is for either&#xD;
+             hemithyroidectomy or total thyroidectomy&#xD;
+&#xD;
+          -  for LA patients, agreement with their attending clinician to undergo surgical&#xD;
+             debulking of disease under general anaesthetic. The procedure is called&#xD;
+             'microlaryngoscopy and biopsy/debulking'&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No known or suspected diagnosis of MTC or LA&#xD;
+&#xD;
+          -  Age &lt;18 years&#xD;
+&#xD;
+               -  Unable to provide informed consent&#xD;
+&#xD;
+               -  Treatment recommendation from Thyroid MDT is for any treatment excluding primary&#xD;
+                  surgery (ie palliation, best supportive care, chemotherapy, radiotherapy etc)&#xD;
+&#xD;
+               -  For LA patients, no agreement between patient and attending clinician to proceed&#xD;
+                  with surgery as primary treatment.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>James Moor, FRCS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Leeds Teaching Hospitals NHS Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anne Gowing</last_name>
+    <phone>+441132060469</phone>
+    <email>anne.gowing@nhs.net</email>
+  </overall_contact>
+  <link>
+    <url>https://onlinelibrary.wiley.com/doi/pdf/10.1111/cen.12515</url>
+    <description>British Thyroid Association guidlines for management of thyroid cancer</description>
+  </link>
+  <reference>
+    <citation>GBD 2016 Neurology Collaborators. Global, regional, and national burden of neurological disorders, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016. Lancet Neurol. 2019 May;18(5):459-480. doi: 10.1016/S1474-4422(18)30499-X. Epub 2019 Mar 14.</citation>
+    <PMID>30879893</PMID>
+  </reference>
+  <reference>
+    <citation>Knowles TP, Vendruscolo M, Dobson CM. The amyloid state and its association with protein misfolding diseases. Nat Rev Mol Cell Biol. 2014 Jun;15(6):384-96. doi: 10.1038/nrm3810. Review. Erratum in: Nat Rev Mol Cell Biol. 2014 Jul;15(7):496.</citation>
+    <PMID>24854788</PMID>
+  </reference>
+  <reference>
+    <citation>Gallardo R, Iadanza MG, Xu Y, Heath GR, Foster R, Radford SE, Ranson NA. Fibril structures of diabetes-related amylin variants reveal a basis for surface-templated assembly. Nat Struct Mol Biol. 2020 Nov;27(11):1048-1056. doi: 10.1038/s41594-020-0496-3. Epub 2020 Sep 14. Erratum in: Nat Struct Mol Biol. 2020 Oct 9;:.</citation>
+    <PMID>32929282</PMID>
+  </reference>
+  <reference>
+    <citation>Gallardo R, Ranson NA, Radford SE. Amyloid structures: much more than just a cross-β fold. Curr Opin Struct Biol. 2020 Feb;60:7-16. doi: 10.1016/j.sbi.2019.09.001. Epub 2019 Nov 1. Review.</citation>
+    <PMID>31683043</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 10, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 18, 2021</study_first_posted>
+  <last_update_submitted>February 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thyroid Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Neuroendocrine</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Amyloidosis</mesh_term>
+    <mesh_term>Thyroid Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Samples will be anonymised, and research outputs will be based on the whole cohort. Therefore IPD will not be available.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

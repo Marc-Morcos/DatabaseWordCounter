@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1508">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04715750</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LMT-01-01-19</org_study_id>
+    <nct_id>NCT04715750</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Imaging Characteristics of [18F]PI-2620 PET in AD and PSP Patients Using High and Low Specific Activity</brief_title>
+  <official_title>An Open Label, Single Center Study to Evaluate the Safety and Imaging Characteristics of [18F]PI-2620 as PET Radioligand for Imaging Tau Deposition in the Brains of Patients With Mild to Moderate Alzheimer's Disease (AD) and Patients With Progressive Supranuclear Palsy (PSP) After i.v. Application of [18F]PI-2620 With High and Low Specific Activity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Life Molecular Imaging GmbH</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Life Molecular Imaging SA</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Life Molecular Imaging SA</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label study without randomisation. All eligible patients will receive two&#xD;
+      administrations of the investigational imaging agent [18F]PI-2620 at a radioactive dose of&#xD;
+      185 MBq, one with high specific activity (≤ 5 µg tracer mass dose), another one with low&#xD;
+      specific activity (40-50 µg tracer mass dose).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open-label, single center study to visually assess and quantitatively compare&#xD;
+      brain PET images obtained after application of [18F]PI-2620 with different specific&#xD;
+      activities: 1) High specific activity (low mass dose): 185 MBq containing a maximum mass dose&#xD;
+      of ≤5 μg in up to 10 mL and 2) Low specific activity (high mass dose): 185 MBq containing a&#xD;
+      maximum mass dose of 40-50 μg in up to 10 mL).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 12, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Comparability of visual assessment of PI-2620 tau PET images obtained after injection of high specific activity and low specific activity in AD and PSP patients.</measure>
+    <time_frame>4-54 days</time_frame>
+    <description>PI-2620 tau PET images obtained with [18F]PI-2620 using high specific activity (185 MBq and ≤ 5 µg mass dose) and with [18F]PI-2620 using low specific activity (185 MBq and 40-50 µg mass dose) in AD and PSP patients will be visually analyzed. Visual analysis of the tau signal pattern will be compared for high and low specific activity images within the same subject.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Comparability of quantitative assessment of PI-2620 tau PET images obtained after injection of high specific activity and low specific activity in AD and PSP patients.</measure>
+    <time_frame>4-54 days</time_frame>
+    <description>PI-2620 tau PET images obtained with [18F]PI-2620 using high specific activity (185 MBq and ≤ 5 µg mass dose) and with [18F]PI-2620 using low specific activity (185 MBq and 40-50 µg mass dose) in AD and PSP patients will be quantitatively analyzed. Quantitative analysis of the tau signal pattern will be compared for high and low specific activity images within the same subject.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of adverse events</measure>
+    <time_frame>From injection of [18F]PI-2620 until up to 6 days after injection</time_frame>
+    <description>Safety will be evaluated by collection of Adverse Events.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Progressive Supranuclear Palsy</condition>
+  <arm_group>
+    <arm_group_label>Tau deposition in the brains of Alzheimer Disease and Progressive Supranuclear Palsy patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will receive two administrations of [18F]PI-2620 at a radioactive dose of 185 MBq, one with high specific activity (≤ 5 µg tracer mass dose), another one with low specific activity (40-50 µg tracer mass dose)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]-PI2620</intervention_name>
+    <description>[18F]PI-2620 is a radioactive diagnostic agent being developed for the indication of PET imaging of the brain to detect tau pathology in adult patients who are being evaluated for neurodegenerative decline. All patients will receive two administrations of [18F]PI-2620 at a radioactive dose of 185 MBq, one with high specific activity (≤ 5 µg tracer mass dose), another one with low specific activity (40-50 µg tracer mass dose).</description>
+    <arm_group_label>Tau deposition in the brains of Alzheimer Disease and Progressive Supranuclear Palsy patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males and females aged 50-80 years&#xD;
+&#xD;
+          -  Able to understand, sign and date written informed consent, which is confirmed by the&#xD;
+             judgment of the referring physician&#xD;
+&#xD;
+          -  Written informed consent must be obtained before any assessment is performed&#xD;
+&#xD;
+          -  Prior evaluable MRI&#xD;
+&#xD;
+          -  Female patients must be documented by medical records or physician's note to be either&#xD;
+             surgically sterile (by means of hysterectomy, bilateral salpingectomy or bilateral&#xD;
+             oophorectomy) or post-menopausal for at least 1 year (no menses for 12 months without&#xD;
+             an alternative medical cause). If they are of child-bearing potential, must commit to&#xD;
+             use of a highly effective contraceptive measure for the duration of the study&#xD;
+&#xD;
+          -  Male patients and their partners of childbearing potential must commit to the use of a&#xD;
+             highly effective method of contraception for a minimum of one week following each PET&#xD;
+             scan&#xD;
+&#xD;
+          -  Male patients must commit to not donate sperm for a minimum of one week after each PET&#xD;
+             scan.&#xD;
+&#xD;
+        Inclusion Criteria for mild-moderate AD patients&#xD;
+&#xD;
+          -  Patients with mild or moderate AD in accordance with NIA-AA guidelines 2011&#xD;
+&#xD;
+          -  Have a CDR score of ≥ 0.5 at screening&#xD;
+&#xD;
+          -  Have an MMSE score of ≤ 24 at screening&#xD;
+&#xD;
+          -  Prior evaluable amyloid PET imaging confirming presence of beta-amyloid brain&#xD;
+             pathology&#xD;
+&#xD;
+          -  Medications taken for symptomatic treatment of AD must be maintained on a stable&#xD;
+             dosage regimen for at least 30 days before the [18F]PI-2620 PET imaging visits&#xD;
+&#xD;
+        Inclusion Criteria for patients with probable PSP&#xD;
+&#xD;
+          -  Patients with a clinical diagnosis of probable PSP based on the Movement Disorder&#xD;
+             Society criteria (Höglinger et al., 2017).&#xD;
+&#xD;
+          -  Have a PSP rating score between 20 - 60&#xD;
+&#xD;
+          -  Medications taken for symptomatic treatment of PSP must be maintained on a stable&#xD;
+             dosage regimen for at least 30 days before the [18F]PI-2620 PET imaging visits&#xD;
+&#xD;
+        Exclusion Criteria (for all patients)&#xD;
+&#xD;
+          -  Laboratory tests with clinically significant abnormalities and/or clinically&#xD;
+             significant unstable medical illness equivalent to CTC v5.0 (common toxicity criteria)&#xD;
+             toxicities greater than grade 2&#xD;
+&#xD;
+          -  Evidence of clinically significant disease that is expected to interfere with&#xD;
+             cognitive assessments or the ability to complete the study procedures&#xD;
+&#xD;
+          -  Patient has received an investigational drug including treatments targeting&#xD;
+             amyloid-beta plaques or tau within 3 months of screening&#xD;
+&#xD;
+          -  Pregnant (or intention of getting pregnant), lactating or breastfeeding&#xD;
+&#xD;
+          -  MRI exclusion criteria include: Findings of cerebrovascular disease (more than two&#xD;
+             lacunar infarcts, any territorial infarct &gt;1 cm3, or deep white matter abnormality&#xD;
+             corresponding to an overall Fazekas scale of 3 with at least one confluent&#xD;
+             hyperintense lesion on the Fluid-Attenuated Inversion Recovery (FLAIR) sequence that&#xD;
+             is &gt;=20 mm in any dimension), infectious disease, space-occupying lesions, normal&#xD;
+             pressure hydrocephalus or any other abnormalities associated with Central Nervous&#xD;
+             System (CNS) disease&#xD;
+&#xD;
+          -  Implants such as implanted cardiac pacemakers or defibrillators, insulin pumps,&#xD;
+             cochlear implants, metallic ocular foreign body, implanted neural stimulators, CNS&#xD;
+             aneurysm clips and other medical implants that have not been certified for MRI, or&#xD;
+             history of claustrophobia in MRI&#xD;
+&#xD;
+          -  Unwilling and/or unable to cooperate with study procedures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Stephens, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Life Molecular Imaging GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Audrey Perrotin, PhD</last_name>
+    <phone>+49 (0)30 461 1246 03</phone>
+    <email>GRA@life-mi.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Aleksandar Jovalekic, PhD</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Nuclear Medicine, University Hospital Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franziska Zientek</last_name>
+    </contact>
+    <investigator>
+      <last_name>Osama Sabri, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>December 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 18, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2021</study_first_posted>
+  <last_update_submitted>October 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Tau PET</keyword>
+  <keyword>[18F]PI-2620</keyword>
+  <keyword>Mass dose</keyword>
+  <keyword>Specific activity</keyword>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Progressive Supranuclear Palsy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Supranuclear Palsy, Progressive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

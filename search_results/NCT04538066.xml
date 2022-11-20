@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="238">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04538066</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NTRP101-204</org_study_id>
+    <secondary_id>R44AG066366</secondary_id>
+    <nct_id>NCT04538066</nct_id>
+  </id_info>
+  <brief_title>Bryostatin Treatment of Moderately Severe Alzheimer's Disease</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Phase 2 Study Assessing Safety, Tolerability and Long-term Efficacy of Bryostatin in the Treatment of Moderately Severe Alzheimer's Disease Subjects Not Receiving Memantine Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Neurotrope Bioscience, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Neurotrope Bioscience, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety, tolerability, and long-term efficacy of bryostatin 1 (hereafter&#xD;
+      referred to as bryostatin) for the treatment of moderately severe Alzheimer's disease (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized double-blind placebo-controlled, Phase 2 study comparing bryostatin-1 to&#xD;
+      placebo for long-term efficacy in the treatment of moderately severe AD (Mini Mental State&#xD;
+      Examination, 2nd edition scores of 10-18 at baseline) in the absence of memantine. Eligible&#xD;
+      subjects will receive 7 doses of bryostatin (i.v., 20μg) or matching placebo during the first&#xD;
+      12 weeks. A second course of treatment consisting of 7 doses will begin 30 days after the&#xD;
+      final dose of the first treatment period. Cognitive tests will be assessed at intervals&#xD;
+      during the study and 4 months after the final dose of study drug. The primary endpoint is the&#xD;
+      total SIB score assessment obtained at Week 28, following completion of 2 courses of&#xD;
+      treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 30, 2020</start_date>
+  <completion_date type="Anticipated">November 2, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Study subjects will be randomized 1:1 to receive either the active treatment, bryostatin-1, or placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Sponsor, investigators and staff, and the clinical research organization are all blinded to study treatment assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety: Treatment-emergent adverse events and serious adverse events for all randomized subjects who received any study medication</measure>
+    <time_frame>Baseline through 30 days post end of treatment</time_frame>
+    <description>Treatment emergent adverse events and serious adverse events will be analyzed by treatment group.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Efficacy: Severe Impairment Battery total score</measure>
+    <time_frame>Primary analysis at Week 28</time_frame>
+    <description>The treatment difference in the primary efficacy endpoint of Severe Impairment Battery (SIB). The SIB is used to assess cognition in subjects with moderate and severe AD. It is divided into nine subscales that include attention, language, orientation, memory, praxis, visuospatial ability, construction, social skills, orienting head to name. Non-verbal responses are allowed, thus decreasing the need for language output. Forty questions are included with a point score range of 0-100. Lower scores indicate greater cognitive impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severe Impairment Battery (SIB) total score at the end of the Week 42 follow-up visit</measure>
+    <time_frame>Week 42 is the final follow-up for study subjects, occurring 16 weeks after the last dose of study drug.</time_frame>
+    <description>The SIB assesses cognition. Score range 0-100. Lower scores indicate greater cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The SIB total score from baseline at Week 13</measure>
+    <time_frame>Week 13 follows the first 12-week course of study treatment.</time_frame>
+    <description>The SIB assesses cognition. Score range 0-100. Lower scores indicate greater cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SIB total scores from baseline at Weeks 5, 9,15, 20 and 24</measure>
+    <time_frame>Weeks 5, 9,15, 20 and 24 occur during the treatment phase of the study.</time_frame>
+    <description>The SIB assesses cognition. Score range 0-100. Lower scores indicate greater cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SIB total scores from baseline at Weeks 5, 9, 15, 20 and 24 for subjects with baseline Mini Mental State Exam version 2 (MMSE-2) scores of 10-14 and 15-18</measure>
+    <time_frame>Weeks 5, 9, 15, 20 and 24</time_frame>
+    <description>MMSE-2 tests selected aspects of cognition on a scale of 0-30. Subjects with MMSE-2 scores of 10-18 will be enrolled in the study. Scores of 10-14 indicate greater impairment than scores of 15-18.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SIB trends over time</measure>
+    <time_frame>Slopes will be estimated by using SIB data at Week 0, 5, 9, 13, 15, 20, 24, and 28</time_frame>
+    <description>Individual-specific slopes of total SIB scores will be obtained for all patients.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Bryostatin 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>20ug Bryostatin will be administered over 45 minutes IV. The course of treatment will include 7 doses over the first 12 weeks, followed by a second identical treatment period beginning 30 days after completion of the first treatment period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be administered over 45 minutes IV. The course of treatment will include 7 doses over the first 12 weeks, followed by a second identical treatment period beginning 30 days after completion of the first treatment period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bryostatin 1</intervention_name>
+    <description>Bryostatin 20 micrograms administered IV over 45 minutes every other week after 2 initial loading doses of 24 micrograms administered weekly. A total of 7 doses administered over 12 weeks, followed by a second identical course of treatment beginning 30 days after completion of the first 7-dose course.</description>
+    <arm_group_label>Bryostatin 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered IV over 45 minutes every other week after 2 initial loading doses of 24 micrograms administered weekly. A total of 7 doses administered over 12 weeks, followed by a second identical course of treatment beginning 30 days after completion of the first 7-dose course.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written informed consent from caregiver and subject (if possible) or legally&#xD;
+             acceptable representative if different from caregiver&#xD;
+&#xD;
+          2. Male and female subjects 55-85 years of age inclusive&#xD;
+&#xD;
+          3. Cognitive deficit present for at least 2 years that meet the diagnostic criteria for&#xD;
+             probable Alzheimer's dementia. The diagnosis must be confirmed at the time of the&#xD;
+             screening visit&#xD;
+&#xD;
+          4. MMSE-2 score of 10-18 inclusive (applies to Screening Visit only)&#xD;
+&#xD;
+          5. Patients must have a baseline SIB total score of at least 60 and may not have a SIB&#xD;
+             score &gt;93 at screening&#xD;
+&#xD;
+          6. Neuroimaging computerized tomography (CT) or Magnetic Resonance Imaging (MRI) within&#xD;
+             the last 24 months consistent with a diagnosis of probable AD without any other&#xD;
+             clinically significant co-morbid pathologies. If there has been a significant change&#xD;
+             in the subject's clinical status since the last imaging study that is not consistent&#xD;
+             with progression of the subject's AD, an imaging study should be performed to confirm&#xD;
+             eligibility&#xD;
+&#xD;
+          7. Reliable caregiver(s) or informant(s) who attends the subject at least an average of 3&#xD;
+             hours or more per day for 3 or more days per week and who will agree to accompany the&#xD;
+             subject to the clinic visits and reliably complete the caregiver questions&#xD;
+&#xD;
+          8. Adequate vision and motor function to comply with testing&#xD;
+&#xD;
+          9. If taking an approved cholinesterase inhibitor for treatment of Alzheimer's disease,&#xD;
+             must be on a stable dose for at least 3 months prior to entry into study and the dose&#xD;
+             must not change during the study unless a change is required due to an adverse effect&#xD;
+             of the prescribed medication or a clinically significant change in the patient's&#xD;
+             status&#xD;
+&#xD;
+         10. Subjects who are memantine naïve or have been off memantine for at least 90 days prior&#xD;
+             to initial treatment with study drug&#xD;
+&#xD;
+         11. Subjects on neuroleptic medications must be on a stable dose for ≥4 weeks at screening&#xD;
+             (dose adjustments will be permitted if medically necessary at the discretion of the&#xD;
+             PI)&#xD;
+&#xD;
+         12. Females participating in the study must meet one the following criteria:&#xD;
+&#xD;
+               1. Surgically sterilized (e.g., hysterectomy, bilateral oophorectomy or tubal&#xD;
+                  ligation) for at least 6 months or postmenopausal (postmenopausal females must&#xD;
+                  have no menstrual bleeding for at least 1 year) or&#xD;
+&#xD;
+               2. If not postmenopausal, agree to use a double method of contraception, one of&#xD;
+                  which is a barrier method (e.g., intrauterine device plus condom, spermicidal gel&#xD;
+                  plus condom) 30 days prior to dosing until 30 days after last dose and have&#xD;
+                  negative human chorionic gonadotropin (β-hCG) test for pregnancy at screening&#xD;
+&#xD;
+         13. Males who have not had a vasectomy must use appropriate contraception methods (barrier&#xD;
+             or abstinence) from 30 days prior to dosing until 30 days after last dose&#xD;
+&#xD;
+         14. In the opinion of the PI subjects should be in reasonably good health over the last 6&#xD;
+             months and any chronic disease should be stable -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Eligibility Criteria:&#xD;
+&#xD;
+        Inclusion&#xD;
+&#xD;
+        1. Written informed consent from caregiver and subject (if possible) or legally acceptable&#xD;
+        representative if different from caregiver 2. Male and female subjects 55-85 years of age&#xD;
+        inclusive 3. Cognitive deficit present for at least 2 years that meet the diagnostic&#xD;
+        criteria for probable Alzheimer's dementia. The diagnosis must be confirmed at the time of&#xD;
+        the screening visit 4. MMSE-2 score of 10-18 inclusive (applies to Screening Visit only) 5.&#xD;
+        Patients must have a baseline SIB total score of at least 60 and may not have a SIB score&#xD;
+        &gt;93 at screening 6. Neuroimaging computerized tomography (CT) or Magnetic Resonance Imaging&#xD;
+        (MRI) within the last 24 months consistent with a diagnosis of probable AD without any&#xD;
+        other clinically significant co-morbid pathologies. If there has been a significant change&#xD;
+        in the subject's clinical status since the last imaging study that is not consistent with&#xD;
+        progression of the subject's AD, an imaging study should be performed to confirm&#xD;
+        eligibility 7. Reliable caregiver(s) or informant(s) who attends the subject at least an&#xD;
+        average of 3 hours or more per day for 3 or more days per week and who will agree to&#xD;
+        accompany the subject to the clinic visits and reliably complete the caregiver questions 8.&#xD;
+        Adequate vision and motor function to comply with testing 9. If taking an approved&#xD;
+        cholinesterase inhibitor for treatment of Alzheimer's disease, must be on a stable dose for&#xD;
+        at least 3 months prior to entry into study and the dose must not change during the study&#xD;
+        unless a change is required due to an adverse effect of the prescribed medication or a&#xD;
+        clinically significant change in the patient's status 10. Subjects who are memantine naïve&#xD;
+        or have been off memantine for at least 90 days prior to initial treatment with study drug&#xD;
+        11. Subjects on neuroleptic medications must be on a stable dose for ≥4 weeks at screening&#xD;
+        (dose adjustments will be permitted if medically necessary at the discretion of the PI) 12.&#xD;
+        Females participating in the study must meet one the following criteria:&#xD;
+&#xD;
+          1. Surgically sterilized (e.g., hysterectomy, bilateral oophorectomy or tubal ligation)&#xD;
+             for at least 6 months or postmenopausal (postmenopausal females must have no menstrual&#xD;
+             bleeding for at least 1 year) or&#xD;
+&#xD;
+          2. If not postmenopausal, agree to use a double method of contraception, one of which is&#xD;
+             a barrier method (e.g., intrauterine device plus condom, spermicidal gel plus condom)&#xD;
+             30 days prior to dosing until 30 days after last dose and have negative human&#xD;
+             chorionic gonadotropin (β-hCG) test for pregnancy at screening 13. Males who have not&#xD;
+             had a vasectomy must use appropriate contraception methods (barrier or abstinence)&#xD;
+             from 30 days prior to dosing until 30 days after last dose 14. In the opinion of the&#xD;
+             PI subjects should be in reasonably good health over the last 6 months and any chronic&#xD;
+             disease should be stable Exclusion&#xD;
+&#xD;
+               1. Dementia due to any condition other than AD, including vascular dementia&#xD;
+                  (Rosen-Modified Hachinski Ischemic score ≥ 5)&#xD;
+&#xD;
+               2. Evidence of significant central nervous system (CNS) vascular disease on previous&#xD;
+                  neuroimaging including but not limited to: cortical stroke, multiple infarcts,&#xD;
+                  localized single infarcts in the thalamus, angular gyrus, multiple lacunar&#xD;
+                  infarcts or extensive white matter injury&#xD;
+&#xD;
+               3. Clinically significant neurologic disease or condition other than AD, such as&#xD;
+                  cerebral tumor, chronic subdural fluid collections, Huntington's Disease,&#xD;
+                  Parkinson's Disease, normal pressure hydrocephalus, or any other diagnosis that&#xD;
+                  could interfere with assessment of safety and efficacy&#xD;
+&#xD;
+               4. Evidence of clinically significant unstable cardiovascular, pulmonary, renal,&#xD;
+                  hepatic, gastrointestinal, neurologic, or metabolic disease within the 6 months&#xD;
+                  prior to enrollment. If there is a history of cancer the subject should be clear&#xD;
+                  of cancer for at least 2 years prior to screening. More recent history of basal&#xD;
+                  cell or squamous cell carcinoma and melanoma in situ (Stage 0) may be acceptable&#xD;
+                  after review by the Medical Monitor.&#xD;
+&#xD;
+               5. Creatinine clearance (CL) of &lt;45ml/min&#xD;
+&#xD;
+               6. Poorly controlled diabetes, at the discretion of the Principal Investigator&#xD;
+&#xD;
+               7. Concomitant treatment with NMDA receptor antagonists such as but not limited to&#xD;
+                  memantine or drug combinations containing memantine, dextromethorphan (a cough&#xD;
+                  suppressant), ketamine, phencyclidine (PCP), methoxetamine (MXE), nitrous oxide&#xD;
+                  (N2O) and the following synthetic opioids: penthidine, levorphanol, methadone,&#xD;
+                  dextrpropoxyphene, tramadol, and ketobemidone.&#xD;
+&#xD;
+               8. Use of vitamin E &gt; 400 International Units (IU) per day within 14 days prior to&#xD;
+                  screening&#xD;
+&#xD;
+               9. Use of acetaminophen within 14 days prior to screening&#xD;
+&#xD;
+              10. Use of gabapentin within 14 days prior to screening&#xD;
+&#xD;
+              11. Use of valproic acid within 14 days prior to screening&#xD;
+&#xD;
+              12. Use of an active Alzheimer's vaccine within 2 years prior to screening&#xD;
+&#xD;
+              13. Use of a monoclonal antibody for treatment of AD within 1 year prior to screening&#xD;
+&#xD;
+              14. Any medical or psychiatric condition that is likely to require initiation of&#xD;
+                  additional medication or surgical intervention during the course of the study&#xD;
+&#xD;
+              15. Any screening laboratory values outside the reference ranges that are deemed&#xD;
+                  clinically significant by the PI&#xD;
+&#xD;
+              16. Use of an investigational drug within 90 days prior to screening&#xD;
+&#xD;
+              17. Suicidality defined as active suicidal thoughts during the 6 months prior to&#xD;
+                  screening or at Baseline [Type 4 or 5 on C-SSRS], or history of suicide attempt&#xD;
+                  in previous 2 years, or at serious suicide risk in PI's judgment&#xD;
+&#xD;
+              18. Major psychiatric illness such as current major depression according to&#xD;
+                  Diagnostic and Statistical Manual of Mental Disorders, 5th Edition , current or&#xD;
+                  past diagnosis of bipolar disorder, schizophrenia, or any other psychiatric&#xD;
+                  disorder that might interfere with the assessments of safety or efficacy at the&#xD;
+                  discretion of the PI&#xD;
+&#xD;
+              19. Diagnosis of alcohol or drug abuse within the last 2 years&#xD;
+&#xD;
+              20. Abnormal laboratory tests that suggest an alternate etiology for dementia. If the&#xD;
+                  patient has prior history of serum B12 abnormality, anemia with hemoglobin&#xD;
+                  ≤10g/dl, thyroid function abnormality, electrolyte abnormality, or positive&#xD;
+                  syphilis serology the patient should be revaluated to determine if these&#xD;
+                  potential causes of dementia have been addressed. Only if these causes have been&#xD;
+                  ruled out as the cause of the dementia can the patient be enrolled.&#xD;
+&#xD;
+              21. History of prolonged QT or prolonged QT on screening ECG (QTcB or QTcF &gt;499 per&#xD;
+                  central reader)&#xD;
+&#xD;
+              22. Acute or poorly controlled medical illness: blood pressure &gt; 180 mmHg systolic or&#xD;
+                  100 mmHg diastolic; myocardial infarction within 6 months; uncompensated&#xD;
+                  congestive heart failure [New York Heart Association (NYHA) Class III or IV]&#xD;
+&#xD;
+              23. Known to be seropositive for human immunodeficiency virus (HIV)&#xD;
+&#xD;
+              24. Known to be seropositive for Hepatitis B or C, unless successful curative&#xD;
+                  treatment for Hepatitis C (e.g., Harvoni) has been received and there is&#xD;
+                  documentation that there is no Hep B/C virus detected 3 months after completion&#xD;
+                  of treatment&#xD;
+&#xD;
+              25. AST or ALT &gt;3x upper limit of normal (ULN) and total bilirubin &gt;2x ULN or&#xD;
+                  International Normalized Ratio (INR) &gt;1.5&#xD;
+&#xD;
+              26. Prior exposure to bryostatin, or known sensitivity to bryostatin or any&#xD;
+                  ingredient in the study drug&#xD;
+&#xD;
+              27. Any other concurrent medical condition, which in the opinion of the PI makes the&#xD;
+                  subject unsuitable for the clinical study -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Axiom Research</name>
+      <address>
+        <city>Colton</city>
+        <state>California</state>
+        <zip>92324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galiz Research</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Dade Medical Research Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anchor Neuroscience</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Research and Treatment Center</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <zip>33414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Center for Medical Research</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus Memory Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Atlanta</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Savannah</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fort Wayne Neurological Center</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Millenium Psychiatric Associates</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Associates of Albany, P. C.</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Research Center</name>
+      <address>
+        <city>Matthews</city>
+        <state>North Carolina</state>
+        <zip>28105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Summitt Research Network (Oregon)</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kingfisher Cooperative</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>August 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 3, 2020</study_first_posted>
+  <last_update_submitted>March 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bryostatin 1</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

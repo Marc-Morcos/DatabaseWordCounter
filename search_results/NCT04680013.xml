@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2542">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04680013</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20070307</org_study_id>
+    <secondary_id>RF1AG054080</secondary_id>
+    <secondary_id>RF1AG054074</secondary_id>
+    <secondary_id>U01AG052410</secondary_id>
+    <nct_id>NCT04680013</nct_id>
+  </id_info>
+  <brief_title>Genetic Studies in Familial Dementia</brief_title>
+  <official_title>Genetic Studies in Familial Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Case Western Reserve University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Wake Forest University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Miami</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to identify genetic factors that contribute to or cause dementia&#xD;
+      (loss of memory) and related disorders across all ages and ethnic groups. This includes a&#xD;
+      number of neurological diseases such as early and late-onset Alzheimer disease, mild&#xD;
+      cognitive impairment, and other dementias.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2007</start_date>
+  <completion_date type="Anticipated">November 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation between genetic factors and Alzheimer disease, dementia, and related phenotypes.</measure>
+    <time_frame>5 years</time_frame>
+    <description>Genetic factors will be measured through genome-wide genotyping arrays and/or whole-genome sequencing, and then correlated with Alzheimer disease and related phenotypes, such as cognitive impairment, functional impairment, and relevant biomarkers.&#xD;
+.</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">20000</enrollment>
+  <condition>Dementia of Alzheimer Type</condition>
+  <condition>Alzheimer Disease, Late Onset</condition>
+  <condition>Alzheimer Disease, Early Onset</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>Cognitive Control</arm_group_label>
+    <description>Participants in this group are cognitively intact.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Cognitive Impairment</arm_group_label>
+    <description>Participants in this group have mild cognitive impairment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dementia Group</arm_group_label>
+    <description>Participants in this group have dementia.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Approximately 40 ml of whole blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population consists of older individuals affected by dementia, mild cognitive&#xD;
+        impairment, cognitive controls, or their family members. Ascertainment is across both males&#xD;
+        and females, and all race-ethnic groups.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 18 years and older&#xD;
+&#xD;
+          2. Patients diagnosed with dementia, their family members and unrelated healthy controls&#xD;
+             without dementia.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Individuals with competing diagnosis such as: Amyotrophic lateral sclerosis,&#xD;
+        Frontotemporal lobar degeneration, Multiple system atrophy, Corticobasal degeneration,&#xD;
+        Progressive Supranuclear Palsy, Huntington's disease, traumatic brain injury, drug or&#xD;
+        alcohol abuse, or schizophrenia, etc. (unless family members of a dementia affected&#xD;
+        individual).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Margaret Pericak-Vance, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Miami</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michael Prough</last_name>
+    <phone>877-686-6444</phone>
+    <email>AD-HIHG@miami.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Prough</last_name>
+      <phone>877-686-6444</phone>
+      <email>AD-HIHG@miami.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Margaret Pericak-Vance, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gary Beecham, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.nia.nih.gov/research/dn/alzheimers-disease-genomics-sharing-plan</url>
+    <description>NIH/NIA Alzheimer disease genomics data sharing plan</description>
+  </link>
+  <link>
+    <url>http://www.niagads.org</url>
+    <description>NIA Genomics of Alzheimer Disease Storage site</description>
+  </link>
+  <link>
+    <url>https://www.niagads.org/sites/all/public_files/NIAGADS-DDA.pdf</url>
+    <description>NIAGADS data distribution agreement</description>
+  </link>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>December 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 22, 2020</study_first_posted>
+  <last_update_submitted>August 24, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 24, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Miami</investigator_affiliation>
+    <investigator_full_name>Margaret Pericak-Vance</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Memory loss</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Late Onset Disorders</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data from this study will be shared via government required repositories and with our collaborators. Data are coded, with no personally identifiable information included. Data shared include the genomic data (array data, sequence data, APOE genotyping results, etc), phenotype data (case/control status, age of onset, etc), and basic demographic information (sex, race/ethnicity data if available, etc).&#xD;
+The NIH Genomic Data Sharing Policy (GDS Policy) took effect on January 25th, 2015. This necessitates that we send coded data and samples to the National Institute on Aging Genetics of Alzheimer's Disease (NIAGADS)l; in some cases materials derived from participants (blood or DNA) may be stored at the National Cell Repository for Alzheimer's Disease (NCRAD).&#xD;
+We may share deidentified genomic and phenotypic data with collaborators at other sites in order the accomplish the scientific aims of the study. Such research is performed with the approval of the local internal review boards.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>This study adheres to the NIA Alzheimer Disease Genomics Data Sharing Plan (https://www.nia.nih.gov/research/dn/alzheimers-disease-genomics-sharing-plan). As such, genomic data will be deposited in NIH/NIA data repositories (www.niagads.org). For genomic data, this typically happens within a year of data generation, or upon publication in scientific journals (whichever is sooner). Basic phenotypic data (affection status, age of onset, sex, family structure if applicable, etc) are deposited with the genomic data. More detailed phenotypic data (cognitive data, biomarker, etc) will be made available upon publication. Data dictionaries for primary data (genomic data and basic phenotypic data) will be available with the deposition of data into the NIH/NIA data repositories (www.niagads.org). Additional supporting documentation (analysis plans, study protocols, etc) is typically described in detail upon publication of results in peer reviewed literature.</ipd_time_frame>
+    <ipd_access_criteria>This study adheres to the NIA Alzheimer disease Genomics Data Sharing Plan (https://www.nia.nih.gov/research/dn/alzheimers-disease-genomics-sharing-plan). As part of this plan data distribution agreements are required before recipients receive any data from this study. The primary requirements for the DDA include language ensuring that (1) data are not transferred to others beyond the initial recipient, (2) no attempt will be made to identify participants, (3) any results or data generated as part of the study will be shared back to NIA/NIAGADS. See the NIA Data Distribution Agreement for more details (https://www.niagads.org/sites/all/public_files/NIAGADS-DDA.pdf).</ipd_access_criteria>
+    <ipd_url>https://www.nia.nih.gov/research/dn/alzheimers-disease-genomics-sharing-plan</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

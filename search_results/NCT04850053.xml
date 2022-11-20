@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04850053</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AD-seeds-detector</org_study_id>
+    <nct_id>NCT04850053</nct_id>
+  </id_info>
+  <brief_title>Detection of Alzheimer's Disease (AD)-Related Seeds for AD Diagnosis</brief_title>
+  <official_title>Detection of Alzheimer's Disease (AD)-Related Seeds as Biomarkers for Accurate Diagnosis of AD（AD-seeds-detector）</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Capital Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shandong Provincial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Xiangya Hospital of Central South University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Zhejiang Provincial People's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Beijing Geriatric Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kaifeng Central Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The First Affiliated Hospital of Chongqing Medical Universty</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Huashan Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>First Affiliated Hospital Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>West China Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Henan Provincial People's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Capital Medical University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will investigate the biomarkers of Aβ and Tau seeds in plasma detected by&#xD;
+      Alzheimer's disease (AD) related seeds quantitative detector (AD-seeds-detector), and their&#xD;
+      sensitivity and specificity in diagnosing AD, compared with those from age-matched&#xD;
+      cognitively normal controls, and those with other types of dementia.&#xD;
+&#xD;
+      To perform a high throughput analysis of the amount of Aβ and Tau seeds, the investigators&#xD;
+      have developed an AD-seeds-detector, in which a fluorescence microplate reader was combined&#xD;
+      with an oscillating mixer or water-bath-type ultrasonicator.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Aβ and Tau seeds have the potential to serve as biomarkers for AD. The AD-seeds-detector&#xD;
+      could detect small quantities of Aβ and Tau seeds by taking advantage of their ability to&#xD;
+      nucleate and enhance aggregation, enabling a very high amplification of the signal. This&#xD;
+      study examines the effectiveness of using the AD-seeds-detector as a novel technique for&#xD;
+      discriminating AD from cognitively normal control and non-AD dementia by detecting small Aβ&#xD;
+      and Tau seeds in plasma.&#xD;
+&#xD;
+      This will be an observational study aiming at using the AD-seeds-detector to detect minute&#xD;
+      amounts of Aβ and Tau seeds in plasma as novel biomarkers with high sensitivity and&#xD;
+      specificity for the accurate diagnosis of AD. To achieve this goal, the investigators will&#xD;
+      conduct two studies using the AD-seeds-detector to detect the Aβ and Tau seeds in the plasma&#xD;
+      samples.&#xD;
+&#xD;
+      Study one:&#xD;
+&#xD;
+      A single-center cohort that consists of well-characterized AD patients (n=150), cognitively&#xD;
+      normal controls (n=100) and non-AD dementia patients (n=50).&#xD;
+&#xD;
+      Study two:&#xD;
+&#xD;
+      A multi-center cohort with well-characterized AD patients (n=400), cognitively normal&#xD;
+      controls (n=400) and non-AD dementia patients (n=400).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 26, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The area under curve of the AD-seeds-detector for the accurate diagnosis of AD</measure>
+    <time_frame>two years</time_frame>
+    <description>The area under curve is used to show the ability of the AD-seeds-detector to diagnose AD. The value of area under curve is higher, then the ability of the AD-seeds-detector to diagnose AD is stronger.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The sensitivity</measure>
+    <time_frame>two years</time_frame>
+    <description>The sensitivity is used to show the ability of the AD-seeds-detector to diagnose AD patients, and is represented by true positive/ (true positive +false negative).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The specificity</measure>
+    <time_frame>two years</time_frame>
+    <description>The specificity is used to show the ability of the AD-seeds-detector to avoid false AD patients and rule out AD patients, and is represented by true negative/ (false positive + true negative).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive predictive value</measure>
+    <time_frame>two years</time_frame>
+    <description>The positive predictive value is used to show the ability of the AD-seeds-detector to correctly label AD patients who test positive, and is represented by true positive / (true positive + false positive)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The negative predictive value</measure>
+    <time_frame>two years</time_frame>
+    <description>The negative predictive value is used to show the ability of the AD-seeds-detector to correctly label people who test negative, and is represented by true negative / (false negative + true negative)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular toxcity of Aβ seeds protein</measure>
+    <time_frame>two years</time_frame>
+    <description>Toxcity of Aβ seeds protein on cells</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Morphology and structure of Aβ</measure>
+    <time_frame>two years</time_frame>
+    <description>Comparison of Morphology and structure of beta-amyloid protein between difference groups</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Alzheimer's disease</arm_group_label>
+    <description>Criteria for AD according to the 2011 NIA-AA</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-AD dementia</arm_group_label>
+    <description>Frontotemporal dementia (FTD); or Parkinson's disease dementia (PDD); or dementia with Lewy bodies (DLB); or vascular dementia (VaD); or corticobasal degeneration (CBD); or dementia not otherwise specified.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cognitively normal controls</arm_group_label>
+    <description>Individuals with normal cognitive function</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood,cerebral spinal fluid&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Study one: (1) AD patients (n=150); (2) cognitively normal controls (n=100); (3) non-AD&#xD;
+        dementia patients (n=50).&#xD;
+&#xD;
+        Study two: (1) AD patients (n=400); (2) cognitively normal controls (n=400); (3) non-AD&#xD;
+        dementia patients (n=400).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 55-75. Written informed consent obtained from participant or legal guardian prior&#xD;
+             to any study-related procedures. The diagnosis of AD is made using the National&#xD;
+             Institute on Aging and the Alzheimer's Association (NIA-AA) criteria. As for non-AD&#xD;
+             dementia, the McKeith criteria are used for DLB,the revised diagnostic criteria&#xD;
+             proposed by the International behavioral variant (bvFTD) Criteria Consortium for&#xD;
+             bvFTD,the Gorno-Tempini criteria for the semantic variant FTD or non-fluent aphasia,&#xD;
+             the Movement Disorder Society Task Force criteria for PDD, the vascular behavioral and&#xD;
+             cognitive disorders (Vas-Cog) criteria for VaD, the Armstrong's criteria for CBD, the&#xD;
+             CDC's diagnostic criteria for CJD, etc. In addition, normal cognition is supported by&#xD;
+             MMSE, CDR and other cognitive function scales.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other medical or psychiatric illness. No one can serve as an informant. Refused to&#xD;
+             complete a cognitive test and provide biospecimen.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jianping Jia, Doctor</last_name>
+    <phone>8610-83199449</phone>
+    <email>jiajp@vip.126.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xuanwu Hospital of Capital Medical University</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100053</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jianping Jia, Doctor</last_name>
+      <phone>8610-83199449</phone>
+      <email>jiajp@vip.126.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>April 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 20, 2021</study_first_posted>
+  <last_update_submitted>May 5, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 5, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 11, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Capital Medical University</investigator_affiliation>
+    <investigator_full_name>Jianping Jia</investigator_full_name>
+    <investigator_title>Chief Director</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

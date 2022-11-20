@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2398">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04571502</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AG068572</org_study_id>
+    <secondary_id>NIH Award R01AG068572</secondary_id>
+    <nct_id>NCT04571502</nct_id>
+  </id_info>
+  <brief_title>Integration of Health Information Technology and Promotion of Personhood in Family-Centered Dementia Care</brief_title>
+  <official_title>Integration of Health Information Technology and Promotion of Personhood in Family-Centered Dementia Care</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Florida International University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama, Tuscaloosa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Florida International University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease and related dementias (ADRD) are leading causes of disability and often&#xD;
+      result in communication deficits of the person with dementia (PWD) that can complicate ADRD&#xD;
+      caregiving and clinical care. The research team will work with stakeholders to develop and&#xD;
+      design a personalized Assistive and Alternative Communication (AAC) device that relies on&#xD;
+      information technology (IT) and touchscreens to promote communication and personhood for PWD&#xD;
+      about their care preferences and experiences. This study will integrate the AAC into an&#xD;
+      existing health IT intervention that already facilitates clinical communication between&#xD;
+      caregivers and providers of PWD, called CareHeroes (CH). A clinical trial will be conducted&#xD;
+      to evaluate outcomes of 120 triads (PWD/caregivers/providers) utilizing the CH intervention&#xD;
+      as an adjunct to care and caregiving for 12 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The target enrollment for the clinical trial is 120 triads of health care providers,&#xD;
+      caregivers, and people with dementia (PWD), where 120 unique dyads of caregivers/PWD will&#xD;
+      participate and healthcare providers will participate in multiple triads. The team plans to&#xD;
+      enroll 60 triads at each of the two participating clinical sites. Participants will be&#xD;
+      randomly assigned to either the full intervention or a minimal intervention for a period of&#xD;
+      12 months, where they will be asked to communicate clinical and other relevant information&#xD;
+      with one another as part of regular caregiving and clinical care activities. Several&#xD;
+      psychosocial outcome variables for providers, caregivers, and PWD will be assessed. We will&#xD;
+      compare outcomes based on group assignment and different amounts and patterns of use of CH&#xD;
+      (e.g., minimal/non-users versus frequent users). The primary outcome variables are quality of&#xD;
+      life for caregivers and PWD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 2023</start_date>
+  <completion_date type="Anticipated">May 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Outcome Assessors will not be involved with the intervention implementation and study participants will be asked not to reveal their group assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Quality of Life In Alzheimer's disease- Care Recipient and Caregiver (proxy-interview)</measure>
+    <time_frame>Baseline, 6-months, 12- months</time_frame>
+    <description>The 13-item QOL-AD scale uses a scale of 1-4 (poor, fair, good, or excellent) to rate a variety of life domains, including the care recipient's physical health, mood, relationships, activities, and ability to complete tasks. The Care Recipient (self-assesses) and caregiver (proxy-interview) complete the QOL-AD.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Perceived Change Index- Caregiver QOL</measure>
+    <time_frame>Baseline, 6-months, 12- months</time_frame>
+    <description>A 13-item scale that measures caregiver appraisals of self-improvement or decline in distinct areas of well- being. Caregiver indicates whether each item has become worse, stayed the same, or improved in the past month: feeling rested, ability to have time for yourself, and feelings of being upset. The total and subscales (Affect, Somatic, and Ability to Manage)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in PATIENT HEALTH QUESTIONNAIRE (PHQ-9)- Caregiver</measure>
+    <time_frame>Baseline, 6-months, 12- months</time_frame>
+    <description>The 9-item Patient Health Questionnaire (PHQ-9) includes nine items that correspond to each of the nine symptoms of major depression from the Diagnostic and Statistical Manual of Mental Disorders. The PHQ-9 scores range from 0 to 27 (increasing score correlates with increasing depression severity) and each of the 9 items is scored from 0 to 3, indicating &quot;how often a symptom is bothersome.&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in The Positive Aspects of Caregiving Scale- Caregiver</measure>
+    <time_frame>Baseline, 6-months, 12- months</time_frame>
+    <description>The Positive Aspects of Caregiving Scale (Tarlow et al., 2004) assesses positive feelings resulting from care provision among family caregivers of older adults with functional limitations. Each of the 9 items on the scale asks about potential benefits from caregiving for the caregivers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Zarit Caregiver Burden Inventory-22 items (ZBI-22)- Caregiver</measure>
+    <time_frame>Baseline, 6-months, 12- months</time_frame>
+    <description>The ZBI-22 (22 items) assesses common stressors experienced by dementia caregivers. A list of statements which reflect how people sometimes feel when taking care of another person are presented and caregivers are queried about how often they felt that way (never, rarely, sometimes, quite frequently, or nearly always).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in 12 Item Short-Form Health Survey (SF-12) - Caregiver</measure>
+    <time_frame>Baseline,12- months</time_frame>
+    <description>The SF-12 is a validated, shortened version of the The RAND Health Care 36-Item Health Survey that includes 7 health concepts: physical functioning, bodily pain, role limitations due to physical health problems, role limitations due to personal or emotional problems, emotional well-being, social functioning, energy/fatigue, and general health perceptions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in The Revised Memory and Behavior Problems Checklist - Caregiver interviewed about Care Recipient</measure>
+    <time_frame>Baseline,12-months</time_frame>
+    <description>The Revised Memory and Behavior Problems Checklist, a 24-item caregiver-reported measure of observable memory difficulties and behavior problems in patients along with a parallel assessment of the caregiver's reaction to these behavioral problems. The checklist is a reliable and valid assessment that asks the caregiver to rate the frequency of care recipient problems (0 = never occurred to 4 = daily or more often) within three subscales (i.e., memory-related, depression, and disruptive behaviors). The caregiver rates the frequency of each behavior problem during the past week and his/her reaction to the behavior (i.e., how bothered or upset the caregiver feels when the behavior occurs [0 = not at all to 4 = extremely bothered]).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in The Cornell Scale for Depression in Dementia (CSDD)- Care Recipient interviewed, Caregiver Interviewed about Care Recipient</measure>
+    <time_frame>Baseline,12-months</time_frame>
+    <description>The Cornell Scale for Depression in Dementia (CSDD) is a validated and reliable depression severity measure. The 19-item tool has been validated to rate depression symptoms over the entire range of cognitive impairment. The CSDD is administered via 2 semi-structured interviews: 1 with an informant and 1 with the patient. A final decision regarding the presence or absence of symptoms is achieved by the clinician's judgment and integration of both sets of responses.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Geriatric Depression Scale (GDS-15)- Care Recipient</measure>
+    <time_frame>Baseline,12-months</time_frame>
+    <description>The 15-item Geriatric Depression Scale (GDS-15) is a depression screening tool developed for use in older adults. It had been validated for community-dwelling, hospitalized, and institutionalized older adults. The GDS-15 has a yes-no format. Scores range from 0 to 15; the higher the score the more likely the individual is experiencing depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Partner-Patient Questionnaire for Shared Activities-Caregiver interviewed about relationship with Care Recipient</measure>
+    <time_frame>Baseline, 6 Months, 12 Months</time_frame>
+    <description>The PPQSA was constructed to measure the extent to which the AD patient's mood and mental state interfered with the patient-partner relationship.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Functional Linguistic Communication Inventory (FLCI)- Care Recipient</measure>
+    <time_frame>Baseline, 12 months</time_frame>
+    <description>Functional Linguistic Communication Inventory (FLCI) is a standardized instrument for evaluating functional communication in persons with moderate and severe dementia. A number of domains assessed included: Greeting and naming, Answering questions, Writing, Sign comprehension, Object-to-picture matching, Word reading and comprehension, Reminiscing, Following commands, Pantomime, Gesture, and Conversation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CareHeroes Usage - Links clicked on the app, resources accessed</measure>
+    <time_frame>6 months</time_frame>
+    <description>The research team will track user actions ( provider, caregiver, care recipient) on the Web and Android/iphone operating system Apps, such as login, logout, viewing of educational material, taking a health assessment, or contacting the provider.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Provider Interviews</measure>
+    <time_frame>Baseline, 6 months, 12 months</time_frame>
+    <description>The research team will conduct interviews with the providers who are participating in the triads. The interview questions will include newly-created closed-ended questions, and open-ended qualitative questions that will assess their perceptions of integrating CareHeroes (CH) into clinical workflow (e.g. acceptability of technology, problems experienced, observed benefits); and how use of CH influenced clinical/shared decision making and clinical care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CareHeroes Usage- Links clicked on the app, resources accessed</measure>
+    <time_frame>12 months</time_frame>
+    <description>The research team will track user actions ( provider, caregiver, care recipient) on the Web and Android/IOS Apps, such as login, logout, viewing of educational material, taking a health assessment, or contacting the provider.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Neurocognitive Disorders</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Caregiver</condition>
+  <arm_group>
+    <arm_group_label>Full Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TRIADs (caregiver, PWD, and provider) randomly assigned to the experimental arm will have access to use CareHeroes AND the newly developed AAC app. Provider will receive information via the AAC app.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Minimal Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>TRIADs (caregiver, PWD, and provider) randomly assigned to the minimal intervention arm will have access to use CareHeroes but only a paper version of the newly developed AAC app.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>CareHeroes</intervention_name>
+    <description>CareHeroes (CH) is IT that addresses lack of caregiver support and education about ADRD care that often result in depression, burden, and low caregiving self-efficacy. The CH intervention provides caregivers with electronic and video-based educational materials, links to services, and self-assessments for depression and burden that offer feedback. It also allows the caregiver to assess symptoms of the PWD using clinical assessments, which can be shared with the provider. The clinical trial evaluates the impact of the addition of an AAC interface (e-communication board) to CareHereos that relies on touchscreen technology, pictures, and text to support PWD with communication deficits so that the PWD can engage and communicate about preferences and experiences with the caregiver and provider about their daily and clinical care. The minimal intervention group will only have access to a paper version of the AAC.</description>
+    <arm_group_label>Full Intervention</arm_group_label>
+    <arm_group_label>Minimal Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Caregivers:&#xD;
+&#xD;
+          -  Regular access to the internet (via computer or smartphone) and telephone&#xD;
+&#xD;
+          -  21 years-old or older&#xD;
+&#xD;
+          -  Providing caregiving activities (Activities of Daily Living and/or Instrumental&#xD;
+             Activities of Daily Living) for an average of 2 hours or more per day of direct&#xD;
+             assistance or supervision for a person with ADRD&#xD;
+&#xD;
+          -  Speak and understand English or Spanish.&#xD;
+&#xD;
+        Care Recipient:&#xD;
+&#xD;
+          -  60 years or older&#xD;
+&#xD;
+          -  Speak and understand English or Spanish&#xD;
+&#xD;
+          -  Have an established diagnosis of a Neurocognitive Disorder (Alzheimer's disease,&#xD;
+             vascular dementia, frontotemporal dementia, Lewy body dementia or Parkinson's disease&#xD;
+             dementia)&#xD;
+&#xD;
+          -  Receive a score on the Mini Mental Status Exam of 21 or lower&#xD;
+&#xD;
+          -  Be able to complete the eligibility vision screen.&#xD;
+&#xD;
+        Healthcare Providers:&#xD;
+&#xD;
+        * Provide ongoing healthcare and support services to PWD and their families.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Caregivers:&#xD;
+&#xD;
+          -  Provide care to a PWD living in an assisted living facility or nursing home&#xD;
+&#xD;
+          -  Plan for the PWD to be placed in a long-term care facility during the study period&#xD;
+&#xD;
+          -  Plan to end their role as caregiver within 6 months of study enrollment&#xD;
+&#xD;
+          -  Have their own major medical conditions affecting independent functioning (e.g.&#xD;
+             illness or disability) or cognitive impairment&#xD;
+&#xD;
+          -  Do not speak and read English or Spanish&#xD;
+&#xD;
+          -  Have known active suicidal ideation&#xD;
+&#xD;
+        Care Recipients:&#xD;
+&#xD;
+          -  Significant visual or hearing impairment (with supports)&#xD;
+&#xD;
+          -  Known active suicidal ideation&#xD;
+&#xD;
+          -  Schizophrenia diagnosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Ellen L Brown, EdD,RN,FAAN</last_name>
+    <phone>305-348-1312</phone>
+    <email>ebrown@fiu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nicole Ruggiano, PhD, MSW</last_name>
+    <phone>205-348-4654</phone>
+    <email>nruggiano@ua.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UAB Alzheimer's Risk Assessment and Intervention Clinic</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David S Geldmacher, MD</last_name>
+      <phone>205-934-0683</phone>
+      <email>dgeldmacher@uabmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Jewish Health</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marc E Agronin, MD</last_name>
+      <phone>305-751-8626</phone>
+      <phone_ext>67299</phone_ext>
+      <email>magronin@miamijewishhealth.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression severity measure. J Gen Intern Med. 2001 Sep;16(9):606-13.</citation>
+    <PMID>11556941</PMID>
+  </reference>
+  <reference>
+    <citation>Tarlow BJ, Wisniewskil SR, Belle SH., et al. Positive Aspects of Caregiving: Contributions of the REACH Project to the Development of New Measures for Alzheimer's Caregiving. 2004; 26(4):429-53.</citation>
+  </reference>
+  <reference>
+    <citation>Roth DL, Burgio LD, Gitlin LN, Gallagher-Thompson D, Coon DW, Belle SH, Stevens AB, Burns R. Psychometric analysis of the Revised Memory and Behavior Problems Checklist: factor structure of occurrence and reaction ratings. Psychol Aging. 2003 Dec;18(4):906-15.</citation>
+    <PMID>14692875</PMID>
+  </reference>
+  <reference>
+    <citation>Brown EL, Ruggiano N, Page TF, Roberts L, Hristidis V, Whiteman KL, Castro J. CareHeroes Web and Android™ Apps for Dementia Caregivers: A Feasibility Study. Res Gerontol Nurs. 2016 Jul-Aug;9(4):193-203. doi: 10.3928/19404921-20160229-02. Epub 2016 Mar 4.</citation>
+    <PMID>29977440</PMID>
+  </reference>
+  <reference>
+    <citation>Brown EL, Agronin ME, Stein JR. Interventions to Enhance Empathy and Person-Centered Care for Individuals With Dementia: A Systematic Review. Res Gerontol Nurs. 2020 May 1;13(3):158-168. doi: 10.3928/19404921-20191028-01. Epub 2019 Nov 11.</citation>
+    <PMID>31697393</PMID>
+  </reference>
+  <reference>
+    <citation>Ruggiano N, Brown EL, Li J, Scaccianoce M. Rural Dementia Caregivers and Technology: What Is the Evidence? Res Gerontol Nurs. 2018 Jul 1;11(4):216-224. doi: 10.3928/19404921-20180628-04. Review.</citation>
+    <PMID>30036405</PMID>
+  </reference>
+  <reference>
+    <citation>Brown EL, Ruggiano N, Li J, Clarke PJ, Kay ES, Hristidis V. Smartphone-Based Health Technologies for Dementia Care: Opportunities, Challenges, and Current Practices. J Appl Gerontol. 2019 Jan;38(1):73-91. doi: 10.1177/0733464817723088. Epub 2017 Aug 4. Review.</citation>
+    <PMID>28774215</PMID>
+  </reference>
+  <reference>
+    <citation>Ruggiano N, Brown EL, Shaw S, Geldmacher D, Clarke P, Hristidis V, Bertram J. The Potential of Information Technology to Navigate Caregiving Systems: Perspectives from Dementia Caregivers. J Gerontol Soc Work. 2019 May-Jun;62(4):432-450. doi: 10.1080/01634372.2018.1546786. Epub 2018 Nov 13.</citation>
+    <PMID>30422754</PMID>
+  </reference>
+  <reference>
+    <citation>Zarit SH, Reever KE, Bach-Peterson J. Relatives of the impaired elderly: correlates of feelings of burden. Gerontologist. 1980 Dec;20(6):649-55.</citation>
+    <PMID>7203086</PMID>
+  </reference>
+  <reference>
+    <citation>Ware J Jr, Kosinski M, Keller SD. A 12-Item Short-Form Health Survey: construction of scales and preliminary tests of reliability and validity. Med Care. 1996 Mar;34(3):220-33.</citation>
+    <PMID>8628042</PMID>
+  </reference>
+  <reference>
+    <citation>Teri L, Truax P, Logsdon R, Uomoto J, Zarit S, Vitaliano PP. Assessment of behavioral problems in dementia: the revised memory and behavior problems checklist. Psychol Aging. 1992 Dec;7(4):622-31.</citation>
+    <PMID>1466831</PMID>
+  </reference>
+  <reference>
+    <citation>Alexopoulos GS, Abrams RC, Young RC, Shamoian CA. Cornell Scale for Depression in Dementia. Biol Psychiatry. 1988 Feb 1;23(3):271-84.</citation>
+    <PMID>3337862</PMID>
+  </reference>
+  <reference>
+    <citation>Bayles KA, Tomoeda CK. FLCI: Functional Linguistic Communication Inventory. Canyonlands Publishing, Incorporated; 1994.</citation>
+  </reference>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 1, 2020</study_first_posted>
+  <last_update_submitted>October 5, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Health technology</keyword>
+  <keyword>Assistive and Alternative Communication Device</keyword>
+  <keyword>Family Centered Care</keyword>
+  <keyword>Personhood</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

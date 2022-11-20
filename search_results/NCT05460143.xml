@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2447">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05460143</url>
+  </required_header>
+  <id_info>
+    <org_study_id>311930</org_study_id>
+    <nct_id>NCT05460143</nct_id>
+  </id_info>
+  <brief_title>Optical Neuroimaging and Cognition</brief_title>
+  <acronym>ONIC</acronym>
+  <official_title>Wearable Optical Monitoring of Brain Function in Healthy Adults and People With Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Cambridge</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Cambridgeshire and Peterborough NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Gianna Angelopoulos Programme for Science, Technology and Innovation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Newton Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Cambridge</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dementia is associated with a variety of neurovascular and neurometabolic abnormalities.&#xD;
+      Traditional imaging techniques used to investigate such abnormalities, such as Positron&#xD;
+      Emission Tomography and functional Magnetic Resonance Imaging, are not always well tolerated,&#xD;
+      have expensive start up and running costs, and are limited with regards to the types of&#xD;
+      experiments that can be performed as they can be highly sensitive to movement, are noisy, and&#xD;
+      have physical restrictions.&#xD;
+&#xD;
+      Near-infrared spectroscopy (NIRS) is a non-invasive neuroimaging technique which uses light&#xD;
+      in the near-infrared spectrum to detect relative changes in concentration of oxygenated and&#xD;
+      deoxygenated haemoglobin, and the oxidation state of Cytochrome C Oxidase. As such, NIRS can&#xD;
+      provide measures of brain oxygenation and metabolism. NIRS is less sensitive to movement, is&#xD;
+      well tolerated and has few contraindications. It is thus a promising candidate for use in&#xD;
+      clinics or in peoples' homes for monitoring dementia.&#xD;
+&#xD;
+      In the present study, the investigators aim to use both dual-wavelength and broadband NIRS in&#xD;
+      a range of dementia subtypes, including Alzheimer's Disease and Dementia with Lewy Bodies,&#xD;
+      and severities, including Mild Cognitive Impairment, to identify how brain oxygenation and&#xD;
+      metabolism is altered in dementia and across various clinical subgroups. The investigators&#xD;
+      also aim to determine the relationship between brain oxygenation and metabolism in dementia,&#xD;
+      and use machine learning approaches to identify optical biomarkers for dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are several different types of dementia including Alzheimer's Disease (AD) and Dementia&#xD;
+      with Lewy Bodies (DLB). Due to the overlapping symptomatology across types of dementia and&#xD;
+      the lack of objective biomarkers currently available for dementia, misdiagnosis rates are&#xD;
+      high. Additionally, the transition from what is commonly thought to be an intermediate stage,&#xD;
+      termed Mild Cognitive Impairment (MCI), to dementia, is not well defined. Neurovascular and&#xD;
+      metabolic dysfunction has been strongly linked to neurodegeneration and dementia, however, a&#xD;
+      mechanistic understanding of this link has not been fully developed.&#xD;
+&#xD;
+      Near-Infrared Spectroscopy (NIRS) is a non-invasive, non-ionising and portable neuroimaging&#xD;
+      technique which uses light to quantify changes in concentration of oxygenated and&#xD;
+      deoxygenated haemoglobin in the brain. As such, it is a highly attractive alternative to&#xD;
+      functional Magnetic Resonance Imaging as it allows access to a larger variety of individuals,&#xD;
+      can be used at the bedside or in patients' own homes, and is significantly less intrusive.&#xD;
+&#xD;
+      To identify how the brain's haemodynamics and metabolism is altered in dementia, this study&#xD;
+      will use NIRS in 25 patients with AD, 25 patients with DLB, 50 patients with MCI and 100&#xD;
+      age-matched healthy controls. This study will be conducted by the School of Technology and&#xD;
+      the School of Clinical Medicine at the University of Cambridge.&#xD;
+&#xD;
+      Firstly, the investigators will perform several cognitive tests in these patient groups&#xD;
+      whilst measuring brain activity using a state-of-the-art, dual-wavelength, high-density NIRS&#xD;
+      device to map how the brain's haemodynamics are altered in dementia. Secondly, the&#xD;
+      investigators will perform further cognitive tests using broadband NIRS to measure how&#xD;
+      neurometabolism is altered across the patient groups. The investigators will also relate the&#xD;
+      optical data to several facets of cognition that these cognitive tests will measure including&#xD;
+      memory, attention, and motor function. Several questionnaires will also be administered to&#xD;
+      assess non-cognitive symptoms such as depression and sleep disturbances. If participants in&#xD;
+      the patient groups have not had a Magnetic Resonance Imaging (MRI) scan, or did one over two&#xD;
+      years ago, they will also undertake an MRI scan to enable the localisation of brain activity,&#xD;
+      measured by NIRS, accounting for individual differences in brain structure and atrophy&#xD;
+      patterns.&#xD;
+&#xD;
+      The investigators shall compare all patient groups (AD, DLB, MCI) with healthy controls to&#xD;
+      determine how the brain's haemodynamics and metabolism are altered in dementia, as well as&#xD;
+      how this relates to both behavioural scores (collected during cognitive testing) and clinical&#xD;
+      scores (using either data collected from questionnaires or patient's own clinical history).&#xD;
+      Through combining the two NIRS techniques, the investigators shall also determine the nature&#xD;
+      of the relationship between the blood oxygenation in the surrounding vasculature and the&#xD;
+      intra-neuronal metabolic activity, and how this relationship may be altered in dementia and&#xD;
+      across different types of dementia. Additionally, the investigators shall apply computational&#xD;
+      methods, such as machine learning, to identify haemodynamic and/or metabolic signatures for&#xD;
+      use as biomarkers in the clinic.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2023</start_date>
+  <completion_date type="Anticipated">September 1, 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2025</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brain oxygenation</measure>
+    <time_frame>Within the study session (1 hour)</time_frame>
+    <description>As measured with dual-wavelength NIRS. We will measure task-related relative changes in concentration in oxygenated and deoxygenated haemoglobin (µmol).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain metabolism</measure>
+    <time_frame>Within the study session (1hour)</time_frame>
+    <description>As measured with broadband NIRS. We will measure task-related changes in oxidation state of Cytochrome C Oxidase(µmol).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive behavioural data</measure>
+    <time_frame>Within the study session (1 hour)</time_frame>
+    <description>Behavioural scores collected through the cognitive testing performed during NIRS scans. These include scores of memory function and word retrieval, e.g., accuracy of words recalled, reaction times.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ACE-R score</measure>
+    <time_frame>Within the study session (maximum 1 hour)</time_frame>
+    <description>Cognitive exam, out of 100%.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rey Auditory Verbal learning test</measure>
+    <time_frame>Within the study session (maximum 1 hour)</time_frame>
+    <description>Accuracy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geriatric depression scale</measure>
+    <time_frame>Within the study session (maximum 1 hour)</time_frame>
+    <description>Number identified out of 15.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Dementia With Lewy Bodies</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Dementia with Lewy Bodies</arm_group_label>
+    <description>These subjects should meet the criteria for dementia with Lewy Bodies (McKeith et al. (2005). Diagnosis and management of dementia with Lewy bodies: Third report of the DLB consortium. Neurology. 65:1863-72.).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Alzheimer's Disease</arm_group_label>
+    <description>These subjects should have a clinical diagnosis of AD in accordance with the National Institute of Neurological Disorders and Stroke-Alzheimer Disease and Related Disorders criteria (McKhann, G. M., et al. 2011. The diagnosis of dementia due to Alzheimer's disease: recommendations from the National Institute on Aging-Alzheimer's Association workgroups on diagnostic guidelines for Alzheimer's disease. Alzheimers Dement. 7:263-9.).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Cognitive Impairment - LB</arm_group_label>
+    <description>Mild Cognitive Impairment in a single or a multiple domain (Jak et al., 2009) with at least one LB symptom (MCI-LB; McKeith, I. G., et al. 2020. Research criteria for the diagnosis of prodromal dementia with Lewy bodies. Neurology. 94(17): 743-55.).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Cognitive Impairment - AD</arm_group_label>
+    <description>Mild Cognitive Impairment in a single or a multiple domain (Jak et al., 2009) with AD symptoms (MCI-AD; Dubois, B., et al. 2009. Early detection of Alzheimer's disease: new diagnostic criteria. Dialogues Clin Neurosci. 11(2): 135-9.).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <description>These subjects should have MMSE scores above 26, no regular memory complaints, no signs/symptoms of dementia and no unstable or significant medical illness.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Near-infrared Spectroscopy scan</intervention_name>
+    <description>Near-infrared spectroscopy is a non-invasive neuroimaging technique which uses light in the near-infrared spectrum to measure changes in brain oxygenation and metabolism.</description>
+    <arm_group_label>Alzheimer's Disease</arm_group_label>
+    <arm_group_label>Dementia with Lewy Bodies</arm_group_label>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment - AD</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment - LB</arm_group_label>
+    <other_name>NIRS</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Magnetic Resonance Imaging scan</intervention_name>
+    <description>Magnetic Resonance Imaging is a non-invasive neuroimaging technique which provides detailed structural images of the brain.</description>
+    <arm_group_label>Alzheimer's Disease</arm_group_label>
+    <arm_group_label>Dementia with Lewy Bodies</arm_group_label>
+    <other_name>MRI</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The target study population is people with dementia. This includes those with Alzheimer's&#xD;
+        Disease, Dementia with Lewy Bodies, as well as those in the intermediate stages of the&#xD;
+        disease, such as Mild Cognitive Impairment. We will also recruit healthy controls.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. A diagnosis of probable:&#xD;
+&#xD;
+               -  Lewy Body Dementia&#xD;
+&#xD;
+               -  Alzheimer's Disease&#xD;
+&#xD;
+               -  Mild Cognitive Impairment (MCI-LB or MCI-AD) OR&#xD;
+&#xD;
+          2. Cognitively normal for their education and age, with a MMSE score above 26 AND&#xD;
+&#xD;
+               -  A good grasp of the English language&#xD;
+&#xD;
+               -  An informant (either a carer or family member) who will be available throughout&#xD;
+                  testing (only relevant if in a patient group)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Severe dementia&#xD;
+&#xD;
+               -  Unable to participate&#xD;
+&#xD;
+               -  A MMSE score below 12&#xD;
+&#xD;
+          2. A condition which influences metabolism or haemodynamics&#xD;
+&#xD;
+               -  Such as metabolic or respiratory disorders&#xD;
+&#xD;
+          3. A significant mental illness&#xD;
+&#xD;
+               -  Such as rheumatoid arthritis, systemic lupus erythematosus&#xD;
+&#xD;
+               -  Oral steroid use&#xD;
+&#xD;
+          4. A significant psychiatric disorder&#xD;
+&#xD;
+          5. MCI due to other causes such as traumatic brain injury, vascular dementia, or&#xD;
+             fronto-temporal dementia&#xD;
+&#xD;
+          6. A history of excessive drug or alcohol use&#xD;
+&#xD;
+          7. Contraindications to MRI (only for patient groups undertaking the MRI scan:&#xD;
+             AD/MCI/DLB)&#xD;
+&#xD;
+               -  Surgical implants e.g. pacemakers&#xD;
+&#xD;
+               -  Obesity&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gemma Bale, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Cambridge</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Emilia Butters, MSc</last_name>
+    <phone>07462064164</phone>
+    <email>eb857@cam.ac.uk</email>
+  </overall_contact>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>July 6, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 15, 2022</study_first_posted>
+  <last_update_submitted>October 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Cambridge</investigator_affiliation>
+    <investigator_full_name>Gemma Bale</investigator_full_name>
+    <investigator_title>Assistant professor</investigator_title>
+  </responsible_party>
+  <keyword>Dementia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

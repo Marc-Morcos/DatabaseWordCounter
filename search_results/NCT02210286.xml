@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2074">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02210286</url>
+  </required_header>
+  <id_info>
+    <org_study_id>29329</org_study_id>
+    <nct_id>NCT02210286</nct_id>
+  </id_info>
+  <brief_title>Magnesium L-Threonate for the Enhancement of Learning and Memory in People With Dementia</brief_title>
+  <official_title>The Use of Magnesium L-Threonate for the Enhancement of Learning and Memory in People With Mild to Moderate Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Magceutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to examine the effects of supplementing Magnesium L-Threonate in&#xD;
+      people with mild to moderate dementia. The investigators' goal is to understand whether&#xD;
+      Magnesium L-Threonate will be associated with improvement in memory and brain function.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Emerging research on the effects of a novel magnesium compound of L-Threonic Acid Magnesium&#xD;
+      Salt (L-TAMS) containing Vitamins C and D on cognitive performance suggests that&#xD;
+      supplementation may benefit individuals with Alzheimer's disease (AD). This proof of concept&#xD;
+      will assess whether supplementation with Magtein (MGT), a constant release formula of&#xD;
+      Magnesium L-threonate, Vitamin C, and Vitamin D, is associated with changes in regional&#xD;
+      cerebral metabolism in elderly people with mild to moderate dementia.&#xD;
+&#xD;
+      This is an open-label, two-month trial consisting of 15-20 participants aged 60 and older&#xD;
+      with mild to moderate dementia. Subjects will receive 1,800 mg/day of MgT-1219 for a total of&#xD;
+      60 days. They will be given neurocognitive testing, blood chemistries, and FDG-PET imaging at&#xD;
+      baseline, 60 days and more testing at 180 days to assess the acute effect of MgT-1219 on&#xD;
+      hippocampal and PFC-mediated executive function, attention, reasoning, and memory. Blood&#xD;
+      draws will be conducted prior to treatment initiation to assess kidney and liver function,&#xD;
+      complete blood count, fasting plasma insulin, and red blood cell magnesium.&#xD;
+&#xD;
+      Our outcome measures include a combination of neuropsychological testing and neuroimaging.&#xD;
+      These will be employed to measure changes in the degree of cognitive impairment within&#xD;
+      subjects over time, as well as between subjects in the intervention and control groups.&#xD;
+      FDG-PET imaging will be used to assess the degree of synaptic activity and density within&#xD;
+      subjects at different time points in the study. These measures will be supplemented by&#xD;
+      measures of, sleep quality, daytime sleepiness, depression, and activities of daily living.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2014</start_date>
+  <completion_date type="Actual">July 2016</completion_date>
+  <primary_completion_date type="Actual">April 2016</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Cognitive Function</measure>
+    <time_frame>Baseline and 6 months</time_frame>
+    <description>Neurocognitive assessment - Domain-specific composite scores for the four following cognitive areas include:&#xD;
+1a) Alzheimer's Disease Assessment Scale - cognitive subscale (ADAS-COG) (min: 0, max: 70, higher = better, units on a scale)&#xD;
+1b) Mini Mental Status Examination (MMSE) (min: 0, max : 30, higher = better, units on a scale)&#xD;
+1c) Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) (min: 40, max: 160, higher = better, units on a scale)&#xD;
+1d) Wechsler Adult Intelligence Scale - Fourth edition (WAIS-IV) (min: 85 , max: 115, higher = better, units on a scale)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Cognitive Function (DKEFS Color-Word Test)</measure>
+    <time_frame>Baseline and 6 months</time_frame>
+    <description>1) Delis-Kaplan Executive Function System Color-Word Test (DKEFS, assesses executive functioning): no minimum or maximum set, higher is worse, total number of errors</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Cognitive Function (DKEFS - Trail 4)</measure>
+    <time_frame>Baseline to 6 months</time_frame>
+    <description>This is a graphomotor test comprised of 5 conditions. Condition 4 (Number Letter Switching) is a measure of cognitive flexibility</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in CMRgl</measure>
+    <time_frame>Baseline to Day 67</time_frame>
+    <description>Brain imaging focusing on the following anatomical regions: medial temporal region (including hippocampus and entorhinal cortex), prefrontal cortex, parietotemporal cortex, posterior cingulate cortex. Increases in the summary index sROI have been shown to track AD-related CMRgl declines.&#xD;
+We will be focusing on changes in the cerebral metabolic rate for glucose (CMRgl) from baseline to day 67.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RBC Magnesium Chemistry</measure>
+    <time_frame>Baseline and 6 months</time_frame>
+    <description>Magnesium (mg/dl) in red blood cells</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">17</enrollment>
+  <condition>Dementia</condition>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Magtein</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All participants will orally take a total of 1800 mg/day for 60 days. Oral administration includes two pills 2 hours before bed time and one pill in the morning, each pill containing 600 mg of MgT-1219.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Magtein</intervention_name>
+    <arm_group_label>Magtein</arm_group_label>
+    <other_name>magnesium l-threonate</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  People of either gender &gt; 60 years of age.&#xD;
+&#xD;
+          -  Subject scores between 16 and 26 on the MMSE&#xD;
+&#xD;
+          -  Subject or representative is willing to sign the consent for prior to enrollment into&#xD;
+             the study and to participate in all aspects of the study. Prospective subject must&#xD;
+             give verbal assent if unable to sign written consent.&#xD;
+&#xD;
+          -  Adequate visual and auditory acuity to allow neuropsychological testing.&#xD;
+&#xD;
+          -  Greater than 12 years of educational achievement, or a General Education Development&#xD;
+             certificate to allow adequate neuropsychological testing, and consistency of sample.&#xD;
+&#xD;
+          -  Female subject is surgically sterile, post-menopausal or agrees to use an acceptable&#xD;
+             method of birth control.&#xD;
+&#xD;
+          -  Subject agrees to stop taking any vitamins, minerals, or dietary/herbal supplements&#xD;
+             he/she is currently taking at least 7 days prior to randomization and agrees to not&#xD;
+             take any vitamins, minerals or dietary/herbal supplements other than the study product&#xD;
+             until after study completion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active heart disease&#xD;
+&#xD;
+          -  Uncontrolled high blood pressure (≥ 140/90 mmHg)&#xD;
+&#xD;
+          -  Renal or hepatic impairment/disease&#xD;
+&#xD;
+          -  Type I diabetes&#xD;
+&#xD;
+          -  Unstable thyroid disease&#xD;
+&#xD;
+          -  Psychiatric disorder (hospitalized in the past year)&#xD;
+&#xD;
+          -  History of drug or alcohol abuse.&#xD;
+&#xD;
+          -  Immune disorder (such as HIV/AIDS)&#xD;
+&#xD;
+          -  TIAs, carotid bruits, or verified lacunes&#xD;
+&#xD;
+          -  Significant pulmonary disease&#xD;
+&#xD;
+          -  Contraindication for a PET scan including those who have had a stroke or heart attack&#xD;
+             in the past 6 months, and those unable or unwilling to lie down for 1 hour.&#xD;
+&#xD;
+          -  Any medical condition deemed exclusionary by the Principal Investigator (PI)&#xD;
+&#xD;
+          -  History of cancer (except localized skin cancer without metastases or in situ cervical&#xD;
+             cancer) within 5 years prior to screening.&#xD;
+&#xD;
+          -  Currently taking any medications that are known to interact with magnesium.&#xD;
+&#xD;
+          -  Currently taking antibiotics as the study product may reduce the absorption of&#xD;
+             antibiotics. A washout period of 2 weeks is allowed.&#xD;
+&#xD;
+          -  On an unstable dose of medication (defined as fewer than 90 days at the same dose).&#xD;
+&#xD;
+          -  Currently taking any medication deemed exclusionary by PI.&#xD;
+&#xD;
+          -  Allergy or sensitivity to any ingredient in the test product.&#xD;
+&#xD;
+          -  Evidence of hepatic or renal dysfunction&#xD;
+&#xD;
+          -  History of drug or alcohol abuse in the past 12 months.&#xD;
+&#xD;
+          -  Pregnant , lactating, or planning to become pregnant during the study period.&#xD;
+&#xD;
+          -  Subject has any condition or abnormality that, in the opinion of the investigator,&#xD;
+             would compromise the safety of the subject or the quality of the study data.&#xD;
+&#xD;
+          -  Subject is participating or has participated in another research study within 30 days&#xD;
+             prior to the screening visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Natalie L Rasgon, MD, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine, Department of Psychiatry &amp; Behavioral Sciences</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>August 1, 2014</study_first_submitted>
+  <study_first_submitted_qc>August 4, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 6, 2014</study_first_posted>
+  <results_first_submitted>July 27, 2020</results_first_submitted>
+  <results_first_submitted_qc>January 29, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 2, 2021</results_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Natalie Rasgon</investigator_full_name>
+    <investigator_title>Professor, Director of Center for Neuroscience in Women's Health</investigator_title>
+  </responsible_party>
+  <keyword>dementia</keyword>
+  <keyword>magnesium</keyword>
+  <keyword>learning</keyword>
+  <keyword>memory</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Magtein</title>
+          <description>17 subjects were then enrolled into the study</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Magtein Subjects</title>
+          <description>Inclusion criteria included adults of either gender &gt; 60 years of age (women had to be post-menopausal), a diagnosis of probable AD from their physician, a Mini-Mental State Examination (MMSE) between 14 and 24, adequate visual and auditory acuity to allow for neuropsychological testing, at least 12 years of education (or a GED to allow consistency of the sample), and willingness to or having a representative willing to sign the informed consent prior to enrollment into the study (for those subjects unable to sign or understand informed consent, assent to participate in the study was required), and agreeing to discontinue vitamins, minerals, or dietary/herbal supplements for at least 7 days prior to study entry and until after study completion.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="17"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="77.0" spread="5.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <population>Two participants discontinued the intervention before analysis</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="15"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="17"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Cognitive Function</title>
+        <description>Neurocognitive assessment - Domain-specific composite scores for the four following cognitive areas include:&#xD;
+1a) Alzheimer's Disease Assessment Scale - cognitive subscale (ADAS-COG) (min: 0, max: 70, higher = better, units on a scale)&#xD;
+1b) Mini Mental Status Examination (MMSE) (min: 0, max : 30, higher = better, units on a scale)&#xD;
+1c) Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) (min: 40, max: 160, higher = better, units on a scale)&#xD;
+1d) Wechsler Adult Intelligence Scale - Fourth edition (WAIS-IV) (min: 85 , max: 115, higher = better, units on a scale)</description>
+        <time_frame>Baseline and 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Magtein Cognitive Data</title>
+            <description>Participants were assessed with the ADAS-Cog, MMSE, D-KEFS RBANS, and WAIS-IV neuropsychological assessments. We hypothesized improvements in cognitive scores with MMFS-201-101 treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Cognitive Function</title>
+          <description>Neurocognitive assessment - Domain-specific composite scores for the four following cognitive areas include:&#xD;
+1a) Alzheimer's Disease Assessment Scale - cognitive subscale (ADAS-COG) (min: 0, max: 70, higher = better, units on a scale)&#xD;
+1b) Mini Mental Status Examination (MMSE) (min: 0, max : 30, higher = better, units on a scale)&#xD;
+1c) Repeatable Battery for the Assessment of Neuropsychological Status (RBANS) (min: 40, max: 160, higher = better, units on a scale)&#xD;
+1d) Wechsler Adult Intelligence Scale - Fourth edition (WAIS-IV) (min: 85 , max: 115, higher = better, units on a scale)</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>ADAS-COG</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.58" spread="7.58"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>MMSE</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.73" spread="2.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>RBANS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.36" spread="8.83"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>WAIS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.07" spread="1.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Cognitive Function (DKEFS Color-Word Test)</title>
+        <description>1) Delis-Kaplan Executive Function System Color-Word Test (DKEFS, assesses executive functioning): no minimum or maximum set, higher is worse, total number of errors</description>
+        <time_frame>Baseline and 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Change From Baseline in Cognitive Function (DKEFS)</title>
+            <description>Participants were assessed with the ADAS-Cog, MMSE, D-KEFS RBANS, and WAIS-IV neuropsychological assessments. We hypothesized improvements in cognitive scores with MMFS-201-101 treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Cognitive Function (DKEFS Color-Word Test)</title>
+          <description>1) Delis-Kaplan Executive Function System Color-Word Test (DKEFS, assesses executive functioning): no minimum or maximum set, higher is worse, total number of errors</description>
+          <units>total number of errors</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.8" spread="4.23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Cognitive Function (DKEFS - Trail 4)</title>
+        <description>This is a graphomotor test comprised of 5 conditions. Condition 4 (Number Letter Switching) is a measure of cognitive flexibility</description>
+        <time_frame>Baseline to 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Change From Baseline in Cognitive Function (DKEFS - Trail 4)</title>
+            <description>Participants were assessed with the ADAS-Cog, MMSE, D-KEFS RBANS, and WAIS-IV neuropsychological assessments. We hypothesized improvements in cognitive scores with MMFS-201-101 treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Cognitive Function (DKEFS - Trail 4)</title>
+          <description>This is a graphomotor test comprised of 5 conditions. Condition 4 (Number Letter Switching) is a measure of cognitive flexibility</description>
+          <units>time in seconds</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.5" spread="88.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in CMRgl</title>
+        <description>Brain imaging focusing on the following anatomical regions: medial temporal region (including hippocampus and entorhinal cortex), prefrontal cortex, parietotemporal cortex, posterior cingulate cortex. Increases in the summary index sROI have been shown to track AD-related CMRgl declines.&#xD;
+We will be focusing on changes in the cerebral metabolic rate for glucose (CMRgl) from baseline to day 67.</description>
+        <time_frame>Baseline to Day 67</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Change in CMRgl From Baseline</title>
+            <description>We examined CMRgl changes using our summary index statistical region of interest (sROI) which is free of the multiple comparison concern.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in CMRgl</title>
+          <description>Brain imaging focusing on the following anatomical regions: medial temporal region (including hippocampus and entorhinal cortex), prefrontal cortex, parietotemporal cortex, posterior cingulate cortex. Increases in the summary index sROI have been shown to track AD-related CMRgl declines.&#xD;
+We will be focusing on changes in the cerebral metabolic rate for glucose (CMRgl) from baseline to day 67.</description>
+          <units>mmol·min-1·100 g-1</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0093" spread="0.031"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>RBC Magnesium Chemistry</title>
+        <description>Magnesium (mg/dl) in red blood cells</description>
+        <time_frame>Baseline and 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Change in RBC Magnesium</title>
+            <description>Change in the amount of magnesium in red blood cells (mg/dl) from baseline</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>RBC Magnesium Chemistry</title>
+          <description>Magnesium (mg/dl) in red blood cells</description>
+          <units>mg/dl</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.007" spread="1.16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Magtein Adverse Events</title>
+          <description>See Table below for details on adverse event.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>GI Problem</sub_title>
+                <description>1 subject developed mild gastrointestinal discomfort after taking MMFS-201-101</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Alison Myoraku</name_or_title>
+      <organization>Stanford University</organization>
+      <phone>6507244559</phone>
+      <email>myoraku@stanford.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

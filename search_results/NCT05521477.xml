@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="851">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05521477</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2022-01052</org_study_id>
+    <nct_id>NCT05521477</nct_id>
+  </id_info>
+  <brief_title>Dynamic Response to Probiotics in Context of Alzheimer Disease: a Proof-of-concept Study</brief_title>
+  <acronym>HISTEPPA</acronym>
+  <official_title>HIgh Frequency Sampling to sTudy the Physiological Effect of Probiotics on Peripheral Markers of Alzheimer's Pathology: a Proof-of-concept Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Geneva</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Geneva</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      proof-of-concept study to adequately design a larger trial to investigate the effect of&#xD;
+      supplementation of a probiotic (SLAB51) on AD biomarker.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND: A growing body of evidence suggests an effect of gut bacteria and their&#xD;
+      metabolites on brain health, including the development of neurodegenerative conditions and&#xD;
+      Alzheimer's disease (AD). Probiotic supplementation is commonplace in medicine but targeting&#xD;
+      the gut microbiome to prevent AD is poorly understood and little is known on the dynamic&#xD;
+      effects of probiotics on physiology.&#xD;
+&#xD;
+      AIM: This is a proof-of-concept study to adequately design a larger trial to investigate the&#xD;
+      effect of supplementation of a probiotic (SLAB51) on AD biomarker. The study will use a high&#xD;
+      frequency sampling to closely monitor the physiological dynamics as the result of low and&#xD;
+      high dose consumption of the probiotic.&#xD;
+&#xD;
+      METHODS: Study subjects will be three patients with prodromal AD between 60 and 80 years old&#xD;
+      and carrying the apolipoprotein E (APOE) e4 allele. Participants will sequentially receive no&#xD;
+      supplement (run-in), low and high doses of probiotics for five consecutive days with a&#xD;
+      washout period in-between. Blood and stools will be collected every day or every second days.&#xD;
+      The main readout will be the established plasma markers of AD, and more exploratory analysis&#xD;
+      will be performed on putative mediators of the gut-brain axis.&#xD;
+&#xD;
+      EXPECTED OUTCOME: Curves of dynamic change of the readouts will be built for each subject,&#xD;
+      and a model of the response will be estimated. The results of this project will help design a&#xD;
+      larger trial to identify the most promising analytes showing a dynamic response to probiotic&#xD;
+      consumption and better understand the link to the pathology.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2022</start_date>
+  <completion_date type="Anticipated">September 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The study design will allow to evaluate the dose dependent effect of probiotic consumption on AD blood-based biomarker by comparing each individual to its baseline sampling.&#xD;
+Each participant will follow a 3 phases program of identical procedures:&#xD;
+Phase I - baseline control: no probiotic will be consumed&#xD;
+Phase II - Low dose probiotic consumption: 1 dose of probiotic will be taken in the morning for 5 days&#xD;
+Phase III - High dose probiotic consumption: The subject will receive 1 dose of probiotic in the morning and one dose in the evening for 5 days&#xD;
+In all phases (2 weeks time) blood, stools, cardiometabolic parameter, food frequency, cognitive, anxiety and depression assessment will be collected at specific time points (either shortly before, during or shortly after the treatment period).</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Concentration of plasma AD biomarker, Amyloid</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes of plasma amyloid concentration, namely Ab40 and Ab42 in pg/ml, will be reported in the blood shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Concentration of plasma AD biomarker, Tau</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes of plasma Tau concentration more specifically p-Tau-181, p-Tau-231 and Tau in pg/ml, will be reported in the blood shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Concentration of plasma AD biomarker, Nfl</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes of plasma concentration neurofilament light (NfL in pg/ml), will be reported in the blood shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of GFAP</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes in concentration of plasma glial fibrillary acidic protein (GFAP), as a marker of neuroinflammation, will be reported shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of a panel of cytokines</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes in concentraion of a large panel of cytokines measured in plasma, as markers of systemic inflammation, will be reported shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma concentration of VCAM and NCAM</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes in concentration of plasma VCAM and NCAM, as markers of endothelial dysfunction, will be reported shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Profiling of gut bacterial population isolated from stools</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes in alpha and beta diversity, as well as the functionality of gut bacterial population isolated from stools will be reported shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma and stool concentration of bacterial derived metabolites</measure>
+    <time_frame>within a year of last participant finalising the study</time_frame>
+    <description>The dynamic changes of plasma and stool concentration of bacterial derived metabolites or small molecules (eg: short chain fatty acids (SCFAs) or lipopolysaccharide (LPS) will be reported shortly before, during and shortly after the consumption of probiotic (low or high doses) as compared to the baseline without treatment.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">3</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>participant procedure</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>each participant will go through 3 phases of identical protocol. In each phases blood and stools will be collected at specific days, as well as cardiometabolic measures, transit time, cognitive tests and food consumption.&#xD;
+Each phase last 2 weeks with a washout period of 1 month in between. In the first phase, no treatment will be provided, in the second phase a low dose of probiotic (once a day for five days) will be given and in the third phase high dose of probiotic (twice a day for five days) will be administered.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>SLAB51</intervention_name>
+    <description>One dose of probiotic consists of a bag of probiotic powder to dissolve in a glass of water according to the manufacturer instructions. Each bag contains 100 billion bacteria of the following strains: streptococcus thermophilus DSM 32245, 2 Bifidobacteria lactis DSM 32246 and DSM 32247, Lactobacillus acidophilus DSM 32241, Lactobacillus helveticus DSM 32242, Lactobacillus paracasei DSM 32243, Lactobacillus plantarum DSM 32244 and Lactobacillus brevis DSM 27961.</description>
+    <arm_group_label>participant procedure</arm_group_label>
+    <other_name>Agimixx</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of mild cognitive impairment (MCI) due to AD, obtained from the clinical&#xD;
+             path of the participant in the memory clinic according to the criteria of Petersen et&#xD;
+             al. 1999 (46)&#xD;
+&#xD;
+          -  Previous evidence of brain amyloidosis (assessed by positron emission tomographie&#xD;
+             (PET) or cerebrospinal fluid (CSF))&#xD;
+&#xD;
+          -  Carrier of APOEe4 gene allele&#xD;
+&#xD;
+          -  Defecates at least once a day&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Antibiotic consumption 1 month prior the intervention&#xD;
+&#xD;
+          -  Prebiotic consumption 1 month prior the intervention&#xD;
+&#xD;
+          -  Recent change in diet habit (eg: vegetarian, vegan, high protein diet)&#xD;
+&#xD;
+          -  Current alcohol addiction&#xD;
+&#xD;
+          -  Current smoking habit&#xD;
+&#xD;
+          -  Clinical diagnosis of dementia.&#xD;
+&#xD;
+          -  Contraindications to probiotic consumption&#xD;
+&#xD;
+          -  Inability to undergo the procedures of the study, e.g., severe behavioural&#xD;
+             disturbances.&#xD;
+&#xD;
+          -  severe diseases:&#xD;
+&#xD;
+               1. Life threatening diseases,&#xD;
+&#xD;
+               2. Severe systemic diseases (e.g., kidney insufficiency, cardiac insufficiency,&#xD;
+                  decompensated diabetes, decompensated metabolic diseases, decompensated&#xD;
+                  hypothyroidism, uncontrolled autoimmune diseases);&#xD;
+&#xD;
+               3. Chronic digestive diseases (e.g.: Crohn's disease, Ulcerative colitis, C.&#xD;
+                  difficile infection)&#xD;
+&#xD;
+               4. Chronic immune diseases&#xD;
+&#xD;
+          -  The participation to a clinical trial involving potential Alzheimer's disease&#xD;
+             modifying therapies.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giovanni B Frisoni, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HUG</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Giovanni B Frisoni, MD</last_name>
+    <phone>+41 (0)22 372 58 01</phone>
+    <email>Giovanni.Frisoni@unige.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Claire Chevalier, PhD</last_name>
+    <email>claire.chevalier@unige.ch</email>
+  </overall_contact_backup>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>August 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>August 25, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 30, 2022</study_first_posted>
+  <last_update_submitted>August 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Geneva</investigator_affiliation>
+    <investigator_full_name>Giovanni B. Frisoni</investigator_full_name>
+    <investigator_title>MD Professor</investigator_title>
+  </responsible_party>
+  <keyword>microbiome</keyword>
+  <keyword>alzheimer disease</keyword>
+  <keyword>probiotic</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

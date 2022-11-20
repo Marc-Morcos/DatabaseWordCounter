@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="548">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02386306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GC-100-02</org_study_id>
+    <nct_id>NCT02386306</nct_id>
+  </id_info>
+  <brief_title>Study Evaluating Safety, Tolerability, and PK of Multiple Ascending Doses of GC021109 in Subjects With Mild to Moderate Alzheimer's Disease</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled; Phase 1b, Safety, Tolerability, and Pharmacokinetic Study of Multiple Ascending Doses of GC021109 in Subjects With Mild to Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GliaCure, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GliaCure, Inc.</source>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1b, multi-center, randomized, double-blind, placebo-controlled study designed&#xD;
+      to evaluate the safety, tolerability, and pharmacokinetics of GC021109 in subjects with mild&#xD;
+      to moderate Alzheimer's Disease (as determined by 2011 National Institute on Aging-&#xD;
+      Alzheimer's Association [NIA-AA] criteria and Mini Mental State Examination [MMSE]). The&#xD;
+      Investigator, study site staff, (with exception of a designated pharmacist/pharmacy&#xD;
+      technician) and all study subjects will be blinded to randomized study medication assignment&#xD;
+      until database lock. Treatment assignments may be unblinded for select pre-authorized&#xD;
+      individuals involved in the safety and PK data reviews in order to accurately determine how&#xD;
+      to proceed with dose escalation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2015</start_date>
+  <completion_date type="Actual">October 2015</completion_date>
+  <primary_completion_date type="Actual">October 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Assessment of the number and severity of treatment-emergent AEs (TEAEs) following single oral doses of GC021109 and placebo from Day 1 through Day 28</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Estimate of the pharmacokinetic (PK) parameters of multiple, escalating dose levels of GC021109: AUC0-t, AUC0-24, AUC0-inf, AUC%extrap, CL/F, Cmax, Tmax, λz, and t1/2.</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in plasma PK concentrations will be measured pre-dose through Day 28 of the study and PK parameters derived using non-compartmental and/or compartmental methods as appropriate. The following PK parameters of GC021109 will be calculated: AUC0-t, AUC0-24, AUC0-inf, AUC%extrap, CL/F, Cmax, Tmax, λz, and t1/2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the effect of multiple, escalating dose levels of GC021109 on potential biomarkers of activities.</measure>
+    <time_frame>28 days</time_frame>
+    <description>Plasma and cerebrospinal fluid samples will be collected pre-dose and on Day 28 to analyze biomarkers such as IL-12, amyloid β, and tau.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">39</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Treatment Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each study participant will be administered with one 1mg dose capsule per day of GC021109 for 28 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Cohort 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receiving placebo as part of each cohort will be dosed with a comparable capsule to those in the treatment arm of each cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each study participant will be administered with one dose per day of GC021109 for 28 days. Dose levels will be determined following a review of cohort 1 safety data through day 14</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Cohort 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receiving placebo as part of each cohort will be dosed with a comparable capsule to those in the treatment arm of each cohort.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Each study participant will be administered with one dose per day of GC021109 for 28 days. Dose levels will be determined following a review of cohort 2 safety data through day 14</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Cohort 3</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receiving placebo as part of each cohort will be dosed with a comparable capsule to those in the treatment arm of each cohort.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GC021109</intervention_name>
+    <arm_group_label>Treatment Cohort 1</arm_group_label>
+    <arm_group_label>Treatment Cohort 2</arm_group_label>
+    <arm_group_label>Treatment Cohort 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo Cohort 1</arm_group_label>
+    <arm_group_label>Placebo Cohort 2</arm_group_label>
+    <arm_group_label>Placebo Cohort 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female subjects aged 55-85 years, inclusive, at the time of informed consent.&#xD;
+&#xD;
+          2. Subjects diagnosed with mild to moderate AD as determined by the following:&#xD;
+&#xD;
+               1. Diagnosis of probable AD according to the 2011 NIA-AA criteria&#xD;
+&#xD;
+               2. MMSE (using serial 7's) score of 12-26 at screening (Mild defined as 20-26 and&#xD;
+                  Moderate defined as 12-19)&#xD;
+&#xD;
+               3. Documentation in the clinic notes of mild/moderate AD&#xD;
+&#xD;
+          3. If on AD therapy, stable dose for at least 3 months prior to screening.&#xD;
+&#xD;
+          4. All male subjects must practice effective contraception during the study. Females of&#xD;
+             childbearing potential must use a medically accepted form of birth control, unless&#xD;
+             postmenopausal for &gt; 1 year (as documented by elevated follicle-stimulating hormone&#xD;
+             [FSH]) or surgically sterile. All females of childbearing potential must have a&#xD;
+             negative serum pregnancy test (human chorionic gonadotropin beta [hCGβ]) at screening&#xD;
+             and a negative urine pregnancy test on Day 1 pre-dose.&#xD;
+&#xD;
+          5. Body mass index (BMI) between 18 and 35 kg/m2, inclusive, at screening.&#xD;
+&#xD;
+          6. Must have an eligible caregiver (who spends a minimum of 10 hours per week with the&#xD;
+             subject) who will be available for the duration of the study to serve as the subject's&#xD;
+             designee. Caregiver must be willing to comply with study procedures.&#xD;
+&#xD;
+          7. Caregiver must sign a caregiver ICF after the nature and risks of study participation&#xD;
+             have been fully explained to them.&#xD;
+&#xD;
+          8. Patients who are capable, according to the Investigator, or patient's legally&#xD;
+             authorized representative, must sign a patient ICF after the nature and risks of study&#xD;
+             participation have been fully explained to them.&#xD;
+&#xD;
+          9. Patients who are capable of providing assent but not capable of signing the ICF,&#xD;
+             according to the Investigator, should provide assent for study participation.&#xD;
+&#xD;
+               1. Patients who sign the ICF are not required to provide a separate assent.&#xD;
+&#xD;
+               2. Patients who are not capable of providing assent are still allowed to participate&#xD;
+                  provided the patient's legally authorized representative agrees to participation.&#xD;
+&#xD;
+             Investigators must document the reasons for any patient that is unable to provide&#xD;
+             assent and maintain this documentation with the consent/assent documents.&#xD;
+&#xD;
+         10. Must be able to comply with all study requirements and restrictions for the duration&#xD;
+             of the study.&#xD;
+&#xD;
+         11. Non-smoker and non-tobacco user for a minimum of 3 months prior to screening and for&#xD;
+             the duration of the study.&#xD;
+&#xD;
+         12. Ability to swallow capsules.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. MRI findings inconsistent with AD within the previous 12 months. All subjects must&#xD;
+             have had a MRI within the previous 12 months to be eligible.&#xD;
+&#xD;
+          2. History or current evidence of any clinically significant cardiac, endocrinologic,&#xD;
+             hematologic, hepatobiliary, immunologic, metabolic, urologic, pulmonary, neurologic,&#xD;
+             dermatologic, psychiatric, renal, or other major disease, as determined by the&#xD;
+             Investigator.&#xD;
+&#xD;
+          3. History of cancer within the past five years (excluding non-melanoma skin cancer).&#xD;
+&#xD;
+          4. Active suicidal ideation reported on the Columbia - Suicide Severity Rating Scale (C&#xD;
+             SSRS) at screening.&#xD;
+&#xD;
+          5. Clinically significant abnormal laboratory test values at screening (as determined by&#xD;
+             the Investigator), including:&#xD;
+&#xD;
+               1. any values for alanine aminotransferase (ALT) or aspartate aminotransferase (AST)&#xD;
+                  that are 1.5 times above the upper limit of the reference range&#xD;
+&#xD;
+               2. any values for total or direct bilirubin that are 1.5 times above the upper limit&#xD;
+                  of the reference range&#xD;
+&#xD;
+               3. estimated glomerular filtration rate &lt;85ml/min/1.73m2.&#xD;
+&#xD;
+          6. Subjects with a QTc of ≥450 msec for males and ≥470 msec for females at screening.&#xD;
+&#xD;
+          7. Participation in another clinical trial or treatment with an investigational agent&#xD;
+             within 30 days or 5 half-lives, whichever is longer, prior to Day 1.&#xD;
+&#xD;
+          8. Subjects with a body weight &gt; 120 kg at screening.&#xD;
+&#xD;
+          9. History of alcohol or drug abuse or dependence within 12 months of screening as&#xD;
+             determined by the Investigator.&#xD;
+&#xD;
+         10. Clinically significant infection within 3 months of screening as determined by the&#xD;
+             Investigator.&#xD;
+&#xD;
+         11. Any conditions that, in the opinion of the Investigator, would make the subject&#xD;
+             unsuitable for enrollment or could interfere with the subject's participation in or&#xD;
+             completion of the study.&#xD;
+&#xD;
+         12. Positive urine screen for prohibited drugs (cocaine, cannabinoids, nicotine [urine&#xD;
+             cotinine is the detection mechanism for nicotine], opiates, barbiturates,&#xD;
+             amphetamines, and benzodiazepines) or positive alcohol Breathalyzer on Day 1.&#xD;
+&#xD;
+         13. Positive blood screen for human immunodeficiency virus (HIV), hepatitis B surface&#xD;
+             antigen (HBsAg), or hepatitis C virus antibody (HCVAb) at screening.&#xD;
+&#xD;
+         14. Known or suspected hypersensitivity or idiosyncratic reaction to study medication or&#xD;
+             any components thereof.&#xD;
+&#xD;
+         15. Has donated blood within 3 months of screening or plans to donate blood within 3&#xD;
+             months of study completion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Collaborative Neuroscience Network</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Quantum laboratories / Memory Disorder Center</name>
+      <address>
+        <city>Deerfield Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Clinical</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Research and Treatment Center</name>
+      <address>
+        <city>Lake Worth</city>
+        <state>Florida</state>
+        <zip>33449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Compass Research</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2015</verification_date>
+  <study_first_submitted>February 16, 2015</study_first_submitted>
+  <study_first_submitted_qc>March 10, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 11, 2015</study_first_posted>
+  <last_update_submitted>February 1, 2016</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 3, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

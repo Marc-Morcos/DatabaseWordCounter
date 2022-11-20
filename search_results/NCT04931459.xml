@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="931">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04931459</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACU-001</org_study_id>
+    <secondary_id>3U01AG053247</secondary_id>
+    <nct_id>NCT04931459</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety, Tolerability, and Blood Levels of ACU193 in Participants With MCI or Mild AD</brief_title>
+  <acronym>INTERCEPT-AD</acronym>
+  <official_title>A Phase 1 Placebo-Controlled, Single- and Multiple-Dose Study of the Safety, Tolerability, and Pharmacokinetics of Intravenous ACU193 in Mild Cognitive Impairment or Mild Dementia Due to Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Acumen Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Acumen Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 1 study is a single ascending dose (SAD) and multiple ascending dose (MAD),&#xD;
+      placebo-controlled study to evaluate the safety, tolerability, pharmacokinetics (PK), and&#xD;
+      pharmacodynamics (PD) of intravenous ACU193 when administered to participants diagnosed with&#xD;
+      Mild Cognitive Impairment (MCI) or Mild Dementia due to Alzheimer's disease (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 21, 2021</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 2023</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Study ACU-001 is a placebo-controlled study to investigate the safety, tolerability, pharmacokinetics, and pharmacodynamics of single and multiple escalating doses of intravenous ACU193. A two-part single-ascending dose (SAD)/multiple-ascending dose (MAD) study design will be conducted in a population of individuals with early AD (MCI or mild dementia due to AD).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence and Nature of Treatment-Related Adverse Events (AE) or Serious Adverse Events (SAE) as Assessed by Common Terminology Criteria for Adverse Events (CTCAE)</measure>
+    <time_frame>Baseline up to 20 weeks (SAD); 24 or 28 weeks (MAD)</time_frame>
+    <description>Proportion of participants with AE, discontinuations due to AE or SAE, and withdrawals from the study due to AE</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Clinical Laboratory Tests</measure>
+    <time_frame>Baseline up to 20 weeks (SAD); 24 or 28 weeks (MAD)</time_frame>
+    <description>Incidence and clinically significant abnormal changes in clinical laboratory assessments (hematology, clinical chemistry, urinalysis)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in 12-Lead ECGs</measure>
+    <time_frame>Baseline up to 20 weeks (SAD); 24 or 28 weeks (MAD)</time_frame>
+    <description>Clinically significant abnormal changes in 12-Lead ECGs for PR, QRS, QT, QTcF, and QTcB</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the Columbia-Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>Baseline up to 20 weeks (SAD); 24 or 28 weeks (MAD)</time_frame>
+    <description>Presence of suicidal ideation as defined by a positive response to Question 5 on the C-SSRS suicide ideation section</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Magnetic Resonance Imaging (MRI)</measure>
+    <time_frame>Baseline (predose) up to 20 weeks (SAD); 24 or 28 weeks (MAD)</time_frame>
+    <description>Brain magnetic resonance imaging (MRI) findings to assess amyloid-related imaging abnormalities (ARIA), including incidence of ARIA-E (edema) or ARIA-H (hemosiderosis)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Estimate Blood Levels of ACU193</measure>
+    <time_frame>Up to 140 days post dose</time_frame>
+    <description>Area under the concentration-time curve (AUC) from time zero to the time of last measurable concentration (AUCt)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate Maximum Blood Levels of ACU193</measure>
+    <time_frame>Up to 140 days post dose.</time_frame>
+    <description>Maximum observed blood concentration Cmax(obs).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate Time to Reach Maximum Blood Levels of ACU193</measure>
+    <time_frame>Up to 140 days post dose.</time_frame>
+    <description>Time to reach Tmax(obs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate Blood Levels of ACU193</measure>
+    <time_frame>Up to 140 days post dose.</time_frame>
+    <description>Area under the plasma concentration-time curve from time 0 to infinity (AUC∞)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate Clearance of ACU193</measure>
+    <time_frame>Up to 140 days post dose</time_frame>
+    <description>Clearance (CL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate Volume of Distribution of ACU193</measure>
+    <time_frame>Up to 140 days post dose</time_frame>
+    <description>Apparent volume of distribution at terminal phase (Vz)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">62</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>ACU193 Administration</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 1 to 3 doses of ACU193 by intravenous (IV) infusion.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Administration</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive 1 to 3 doses of matching ACU193 placebo by intravenous (IV) infusion.&#xD;
+2 participants per cohort will receive placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ACU193</intervention_name>
+    <description>Intravenous ACU193</description>
+    <arm_group_label>ACU193 Administration</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous Placebo</description>
+    <arm_group_label>Placebo Administration</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Males or females ages 55 to 90 (inclusive).&#xD;
+&#xD;
+          2. Participant weighs at least 41 kg (90 lbs) and no more than 113 kg (250 lbs) before&#xD;
+             study drug administration.&#xD;
+&#xD;
+          3. Female participants must be surgically sterile or be at least two years&#xD;
+             post-menopausal or at least one year post-menopausal with an elevated follicle&#xD;
+             stimulating hormone (FSH). Male participants with a female partner of child-bearing&#xD;
+             potential must use adequate contraception.&#xD;
+&#xD;
+          4. Individual (or the participant's Legally Authorized Representative [LAR]) is able to&#xD;
+             give informed consent.&#xD;
+&#xD;
+          5. Are willing and able to comply with scheduled visits, treatment plan, laboratory&#xD;
+             tests, and other study procedures.&#xD;
+&#xD;
+          6. Must meet all of the following clinical criteria for MCI due to AD or mild AD at&#xD;
+             Screening:&#xD;
+&#xD;
+               1. Participant meets NIA-Alzheimer's Association (NIA-AA) criteria for MCI due to AD&#xD;
+                  or probable AD.&#xD;
+&#xD;
+               2. A global Clinical Dementia Rating (CDR) of 0.5 or 1.0.&#xD;
+&#xD;
+               3. A Mini-Mental State Examination (MMSE) score between 18 and 30 (inclusive).&#xD;
+&#xD;
+               4. A positive amyloid positron emission tomography (PET) scan.&#xD;
+&#xD;
+          7. Must consent to apolipoprotein E (APOE) genotyping.&#xD;
+&#xD;
+          8. If using cholinesterase inhibitors or memantine to treat symptoms related to AD, doses&#xD;
+             must be stable for at least four weeks prior to Baseline and the participant must be&#xD;
+             willing to keep the doses stable throughout the duration of the study.&#xD;
+&#xD;
+          9. Must have a reliable informant or caregiver who is willing and able to perform all&#xD;
+             caregiver roles as specified in the caregiver Informed Consent Form (ICF).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Receipt of any investigational biological drug within less than one year of Baseline&#xD;
+             or of any investigational small molecule drug within less than six months of Baseline.&#xD;
+             Receipt of any approved treatments that target amyloid plaques in the brain within&#xD;
+             less than one year of Baseline.&#xD;
+&#xD;
+          2. Currently receiving or likely to require the following types of anticoagulants:&#xD;
+             coumarins and indandiones, Factor Xa inhibitors, heparins, thrombin inhibitors.&#xD;
+&#xD;
+          3. Has known humanized monoclonal antibody allergy or hypersensitivity.&#xD;
+&#xD;
+          4. History of significant neurological disease, other than AD, that may affect cognition&#xD;
+             or ability to complete the study, including but not limited to, other dementias,&#xD;
+             serious infection of the brain, Parkinson´s disease, or adult epilepsy.&#xD;
+&#xD;
+          5. Has had magnetic resonance imaging (MRI) or computerized tomography (CT) of brain&#xD;
+             within previous two years showing pathology that would be inconsistent with a&#xD;
+             diagnosis of AD.&#xD;
+&#xD;
+          6. Has MRI with results showing greater than four amyloid-related imaging abnormalities&#xD;
+             hemorrhage/hemosiderin deposition (ARIA-H), presence of any amyloid-related imaging&#xD;
+             abnormalities edema/effusions (ARIA-E), or superficial siderosis.&#xD;
+&#xD;
+          7. Has any contraindications for MRI studies, including claustrophobia, the presence of&#xD;
+             metal (ferromagnetic) implants, or a cardiac pacemaker that is not compatible with&#xD;
+             MRI.&#xD;
+&#xD;
+          8. Current serious or unstable clinically important illness that, in the judgment of the&#xD;
+             Investigator, is likely to affect cognitive assessment including visual and hearing&#xD;
+             impairment, deteriorate, or affect the participant's safety or ability to complete the&#xD;
+             study, including psychiatric, hepatic, renal, gastroenterological, respiratory,&#xD;
+             cardiovascular, endocrinological, immunologic, or hematologic disorders.&#xD;
+&#xD;
+          9. Has an ongoing or new clinically significant laboratory abnormality, as determined by&#xD;
+             the Investigator.&#xD;
+&#xD;
+         10. Has a history or presence of clinically significant abnormal 12-lead electrocardiogram&#xD;
+             (ECG) or an ECG with QT interval corrected using Fridericia's formula (QTcF) &gt;470 msec&#xD;
+             for female participants or &gt;450 msec for male participants. As the ECGs are obtained&#xD;
+             in triplicate and are meant to be interpreted together, if one of the three ECGs in&#xD;
+             the triplicate has a QTcF above the threshold, eligibility of the participant should&#xD;
+             be determined based on clinical judgment of the Investigator in consultation with the&#xD;
+             medical monitor. If two of the three ECGs in the triplicate have a QTcF above the&#xD;
+             threshold, then the participant would not be eligible.&#xD;
+&#xD;
+         11. Within one year before Screening, any of the following: myocardial infarction;&#xD;
+             moderate or severe congestive heart failure, New York Heart Association class III or&#xD;
+             IV; hospitalization for, or symptom of, unstable angina; syncope due to orthostatic&#xD;
+             hypotension or unexplained syncope; known significant structural heart disease (eg,&#xD;
+             significant valvular disease, hypertrophic cardiomyopathy), or hospitalization for&#xD;
+             arrhythmia.&#xD;
+&#xD;
+         12. History of seizure, transient ischemic attack (TIA), or stroke within the last 18&#xD;
+             months.&#xD;
+&#xD;
+         13. History of clinically significant carotid or vertebrobasilar stenosis or plaque.&#xD;
+&#xD;
+         14. History of a malignant disease with the exception of resected cutaneous squamous cell&#xD;
+             carcinoma in situ, basal cell carcinoma, cervical carcinoma in situ, or in situ&#xD;
+             prostate cancer with a normal prostate-specific antigen posttreatment within the last&#xD;
+             five years.&#xD;
+&#xD;
+         15. Current symptoms meeting Diagnostic and Statistical Manual of Mental Disorders, Fifth&#xD;
+             Edition, criteria for major depressive disorder or any current primary psychiatric&#xD;
+             diagnosis other than AD if, in the judgment of the Investigator, the psychiatric&#xD;
+             disorder or symptom is likely to confound interpretation of drug effect, affect&#xD;
+             cognitive assessments, or affect the participant´s ability to complete the study.&#xD;
+&#xD;
+         16. Are a suicide risk, as determined by meeting any of the following criteria:&#xD;
+&#xD;
+               1. Suicide attempt within the six months prior to Baseline.&#xD;
+&#xD;
+               2. Suicidal ideation as defined by a positive response to Question 5 on the&#xD;
+                  Columbia-Suicide Severity Rating Scale (C-SSRS) suicidal ideation section.&#xD;
+&#xD;
+               3. Significant risk of suicide, as judged by the site Investigator.&#xD;
+&#xD;
+         17. History of multiple concussions, significant head trauma, or objective change in&#xD;
+             neuropsychological function within the last five years.&#xD;
+&#xD;
+         18. History of human immunodeficiency virus (HIV).&#xD;
+&#xD;
+         19. History of alcohol or drug abuse/dependence within the last five years.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eric Siemers, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Acumen Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Russell Barton</last_name>
+    <role>Study Director</role>
+    <affiliation>Acumen Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alyssa Carroll</last_name>
+    <role>Study Director</role>
+    <affiliation>Acumen Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trials</last_name>
+    <phone>463-235-7482</phone>
+    <email>clinicaltrials@acumenpharm.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinical Endpoints</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jenna Leger</last_name>
+      <phone>480-566-9090</phone>
+      <email>jleger@clinicalendpoints.com</email>
+    </contact>
+    <investigator>
+      <last_name>Nida Laurin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Orange County Research Institute</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Florence Harder</last_name>
+      <phone>714-635-7110</phone>
+      <email>fharder@ocri.us</email>
+    </contact>
+    <investigator>
+      <last_name>Steve Sitar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hoag Hospital Newport Beach</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adrienne Swietlikowski</last_name>
+      <phone>949-764-6797</phone>
+      <email>adrienne.swietlikowski@hoag.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gustavo Alva</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leon Smith</last_name>
+      <phone>954-455-5757</phone>
+      <email>lsmith@velocityclinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Beth Safirstein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessie Luttrell</last_name>
+      <phone>407-461-3511</phone>
+      <email>jessie.luttrell@CharterResearch.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rachael Nix</last_name>
+      <phone>(352) 775-1000</phone>
+      <email>rachael.nix@CharterResearch.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jeffrey Norton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus Clinical Services</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bertha Cano</last_name>
+      <phone>305-631-6991</phone>
+      <email>b.cano@columbusclinical.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mayelin Perez</last_name>
+      <email>m.perez@columbusclinical.net</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alida Reinoso</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Combined Research Orlando Phase I-IV</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jorge Guerrero</last_name>
+      <phone>407-440-4493</phone>
+      <email>Jorge@clinicaltrialsorlando.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yenilady Estevez</last_name>
+      <phone>(407) 440-4493</phone>
+      <email>Yenilady@clinicaltrialsorlando.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Eric Carbonell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32321</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Loria &quot;Jackie&quot; Boucher</last_name>
+      <phone>386-304-7070</phone>
+      <email>jackieb@progressivemedicalresearch.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Campbell</last_name>
+      <phone>386-304-7070</phone>
+      <email>jennyc@progressivemedicalresearch.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Alexander White</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Santos Research Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria R. Hernandez</last_name>
+      <phone>813-298-7121</phone>
+      <email>mhpharmacovigilance@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sherley R Valdez-Arroyo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Center for Medical Research</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Johnson</last_name>
+      <email>acmr.recruitment@cenexel.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>iResearch Atlanta</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Morgan Hecker</last_name>
+      <phone>404-537-1281</phone>
+      <email>morgan.hecker@iresearchatlanta.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Ambrosetti</last_name>
+      <phone>404-537-1281</phone>
+      <email>maria.Ambrosetti@iresearchatlanta.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kimball Johnson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Memory Research Institute of NJ</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lauren Bawiec</last_name>
+      <email>l.bawiec@cenexel.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sanjiv Sharma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katrina Causay</last_name>
+      <phone>212-305-2077</phone>
+      <email>kc2305@cumc.columbia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Lawrence Honig</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AMC Research</name>
+      <address>
+        <city>Matthews</city>
+        <state>North Carolina</state>
+        <zip>28105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yahaira Martinez</last_name>
+      <phone>704-364-4000</phone>
+      <phone_ext>240</phone_ext>
+      <email>ymartinez@amcneurology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Laura Crawford</last_name>
+      <phone>704-364-4000</phone>
+      <email>lcrawford@amcneurology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mohammad Reza Bolouri</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Neurological Associates</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Bruno</last_name>
+      <phone>215-957-9250</phone>
+      <email>lisabruno.ana@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>David Weisman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kerwin Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jordan Caldwell</last_name>
+      <phone>972-433-9151</phone>
+      <email>jcaldwell@kerwinmedical.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Vo</last_name>
+      <phone>972-433-9151</phone>
+      <email>jvo@kerwinmedical.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Diana Kerwin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials Network</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77074</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sontoshi Patro</last_name>
+      <phone>713-484-6947</phone>
+      <email>spatro@ctntexas.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lizette Gomez</last_name>
+      <phone>713-484-6947</phone>
+      <email>lgomez@ctntexas.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nelson Berrios</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>May 18, 2021</study_first_submitted>
+  <study_first_submitted_qc>June 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 18, 2021</study_first_posted>
+  <last_update_submitted>October 28, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 31, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Diseases</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Mild dementia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

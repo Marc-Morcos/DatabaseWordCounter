@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1504">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04597827</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38RC20.282</org_study_id>
+    <secondary_id>2020-A02236-33</secondary_id>
+    <nct_id>NCT04597827</nct_id>
+  </id_info>
+  <brief_title>Metacognition in Semantic Dementia: Comparison With Alzheimer's Disease</brief_title>
+  <acronym>META-DEM</acronym>
+  <official_title>Metacognition in Semantic Dementia: Comparison With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims at exploring patients' ability to monitor their own memory performance&#xD;
+      depending on their primary deficit and the type of memory involved in the criterion task. The&#xD;
+      goal is to evaluate if semantic dementia (SD) and Alzheimer's disease (AD) differently affect&#xD;
+      patients' awareness of their memory abilities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients who will give their informed non-opposition will be included. Participants will&#xD;
+      undergo 6 metacognitive tasks in which they will be tested on newly learnt information (i.e.,&#xD;
+      episodic memory) or prior knowledge (i.e., semantic memory) and asked to evaluate their&#xD;
+      performance either prior or after the test. Correlation between their evaluation and their&#xD;
+      actual performance will be measured. Performance and correlations will be compared across&#xD;
+      groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 16, 2020</start_date>
+  <completion_date type="Anticipated">July 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Metacognitive bias on the episodic predictive judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive bias will be assessed by subtracting the mean proportion of the metacognitive judgments to the actual memory performance. Bias will range from -1 (underestimation) to 1 (overestimation).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive accuracy on the episodic predictive judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive accuracy will be assessed by calculating a gamma correlation for each participant. Metacognition accuracy allows to evaluate people's ability to discriminate correct responses from incorrect responses. Gamma correlation range from -1 to 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive bias on the semantic predictive judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive bias will be assessed by subtracting the mean proportion of the metacognitive judgments to the actual memory performance. Bias will range from -1 (underestimation) to 1 (overestimation).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive accuracy on the semantic predictive judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive accuracy will be assessed by calculating a gamma correlation for each participant. Metacognition accuracy allows to evaluate people's ability to discriminate correct responses from incorrect responses. Gamma correlation range from -1 to 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive bias on episodic global judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive bias will be assessed by subtracting the mean proportion of the metacognitive judgments to the actual memory performance. Bias will range from -1 (underestimation) to 1 (overestimation).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive bias on semantic global judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive bias will be assessed by subtracting the mean proportion of the metacognitive judgments to the actual memory performance. Bias will range from -1 (underestimation) to 1 (overestimation).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive bias on the episodic retrospective judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive bias will be assessed by subtracting the mean proportion of the metacognitive judgments to the actual memory performance. Bias will range from -1 (underestimation) to 1 (overestimation).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive accuracy on the episodic retrospective judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive accuracy will be assessed by calculating a gamma correlation for each participant. Metacognition accuracy allows to evaluate people's ability to discriminate correct responses from incorrect responses. Gamma correlation range from -1 to 1.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive bias on the semantic retrospective judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive bias will be assessed by subtracting the mean proportion of the metacognitive judgments to the actual memory performance. Bias will range from -1 (underestimation) to 1 (overestimation).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Metacognitive accuracy on the semantic retrospective judgment task</measure>
+    <time_frame>End of study : around May 2022</time_frame>
+    <description>Metacognitive accuracy will be assessed by calculating a gamma correlation for each participant. Metacognition accuracy allows to evaluate people's ability to discriminate correct responses from incorrect responses. Gamma correlation range from -1 to 1.</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Semantic Dementia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Semantic dementia</arm_group_label>
+    <description>Diagnosis of semantic dementia (revised criteria Moreaud et al., 2008; based on Neary et al., 1998)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Alzheimer's disease</arm_group_label>
+    <description>NIAAA 2011 criteria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>MMSE above 27, no neurological or psychiatric disorder</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Metacognition tests</intervention_name>
+    <description>Test on episodic or semantic memory</description>
+    <arm_group_label>Alzheimer's disease</arm_group_label>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Semantic dementia</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with Alzheimer's disease will be patients at the CHU of Grenoble.&#xD;
+&#xD;
+        Patients with Alzheimer's disease will be recruited in the CHU Grenoble, CHU Angers, CHU&#xD;
+        Bordeaux, CHU Colmar, CHU Lyon, CHU Rennes and CHUV Lausanne.&#xD;
+&#xD;
+        Controls will be recruited via the database &quot;Seniors pour la Science &quot;,&#xD;
+        https://seniorspourlascience.fr/&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  native French-speakers&#xD;
+&#xD;
+          -  normal or corrected-to-normal vision&#xD;
+&#xD;
+          -  for patients ONLY : doctor-approved diagnosis of semantic dementia or Alzheimer's&#xD;
+             disease&#xD;
+&#xD;
+          -  for healthy participants ONLY: score above 27 on the MMSE&#xD;
+&#xD;
+          -  non-opposition in participation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  other neurological/ psychiatric disorder, or cognitive disorder that might affect&#xD;
+             general cognition&#xD;
+&#xD;
+          -  drug or alcohol abuse&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olivier MOREAUD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Grenoble</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Olivier MOREAUD</last_name>
+    <phone>(33)4.76.76.57.90</phone>
+    <email>omoreaud@chu-grenoble.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Céline SOUCHAY</last_name>
+    <phone>33 (0)6 72 23 12 97</phone>
+    <email>celine.souchay@univ-grenoble-alpes.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Angers</name>
+      <address>
+        <city>Angers</city>
+        <zip>49 933</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frédérique ETCHARRY-BOUYX</last_name>
+      <phone>02 41 35 46 14</phone>
+      <email>FrEtcharry-Bouyx@chu-angers.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sophie AURIACOMBE</last_name>
+      <phone>+33 (0)5 57 82 01 16</phone>
+      <email>sophie.auriacombe@chu-bordeaux.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Neurologique de Lyon</name>
+      <address>
+        <city>Bron</city>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bernard CROISILE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpitaux Civils Colmar</name>
+      <address>
+        <city>Colmar</city>
+        <zip>68024</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>François SELLAL</last_name>
+      <phone>(33)3.89.12.41.50</phone>
+      <email>francois.sellal@ch-colmar.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chu Grenoble Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olivier MOREAUD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Serge BELLIARD</last_name>
+      <phone>33 (0)2 99 28 42 94</phone>
+      <email>serge.belliard@chu-rennes.fr</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olivier ROUAUD</last_name>
+      <email>Olivier.Rouaud@chuv.ch</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Switzerland</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>October 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>May 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

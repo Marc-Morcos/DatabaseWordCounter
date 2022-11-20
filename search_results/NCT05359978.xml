@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2647">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05359978</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UBurgos2</org_study_id>
+    <nct_id>NCT05359978</nct_id>
+  </id_info>
+  <brief_title>Treatment in Occupational Therapy With Significant Activities to Improve Quality of Life</brief_title>
+  <official_title>Occupational Therapy Intervention for Alzheimer's Disease Patients. An International Comparison in Spain and Italy.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universidad de Burgos</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Universidad de Burgos</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      We followed a pretest-posttest non-equivalent control group experimental design study&#xD;
+      comparing two cohorts of patient with different types of dementia.&#xD;
+&#xD;
+      Approximately 250 patients will be screened to achieve 240 participants, divided in two&#xD;
+      cohorts (120 each), furthermore each cohorts was divided in other two groups (experimental&#xD;
+      group (60 each) and control group (60 each) the first one followed up by private centres in&#xD;
+      Spain endowed with Occupational Therapy and the second by public centres in the region of&#xD;
+      Modena.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The course of dementia goes through different stages and during the moderate and advanced&#xD;
+      stages cognitive decline and functional deterioration are frequently accompanied by the&#xD;
+      so-called behavioural and psychological symptoms of dementia (BPSD), that put severe stress&#xD;
+      on the persons with dementia (PwD), on their families and on the health system. Worldwide&#xD;
+      consensus guidelines recommend non-pharmacological approaches to be first line.&#xD;
+&#xD;
+      The occupational therapist studies human activity as a therapeutic resource to prevent and&#xD;
+      treat physical and/or psychosocial difficulties, in order to improve the person's quality of&#xD;
+      life.&#xD;
+&#xD;
+      Subjects were not randomly assigned to different treatment groups (control group and&#xD;
+      experimental group); instead, consecutive sampling was chosen by assigning subjects based on&#xD;
+      an odd-and-even-numbered technique (odd subjects were assigned to the control group and even&#xD;
+      subjects to the experimental group). Both groups presented the same pathological, cultural,&#xD;
+      and sexual characteristics, and belonged to the same age group.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2019</start_date>
+  <completion_date type="Actual">April 20, 2022</completion_date>
+  <primary_completion_date type="Actual">March 20, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>It's a pretest-posttest non-equivalent control group experimental design study comparing two cohorts of patient with different types of dementia</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Approximately 250 patients will be screened to achieve 240 participants, divided in two cohorts (120 each), furthermore each cohorts was divided in other two groups (experimental group (60 each) and control group (60 each) the first one followed up by private centres in Spain endowed with Occupational Therapy and the second by public centres in the region of Modena</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tinetti</measure>
+    <time_frame>2 days</time_frame>
+    <description>- The Tinetti test has been recommended and widely used in the elderly to assess mobility, balance and gait, and predict falls. Different versions can be found. A systematic literature search identified 37 publications on the Tinetti test and falls.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CDR</measure>
+    <time_frame>2 days</time_frame>
+    <description>- The Clinical Dementia Rating (CDR) has demonstrated high validity and reliability for this purpose, but it requires a considerable amount of data to be collected both from the patient and from an informant.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MMSE</measure>
+    <time_frame>2 days</time_frame>
+    <description>- The MMSE fulfilled its original goal of providing a brief screening test that quantitatively assesses the severity of cognitive impairment and documents cognitive changes occurring over time</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>NPI</measure>
+    <time_frame>2 days</time_frame>
+    <description>- The NPI-Q Spanish version offers the possibility to use a reliable and brief instrument that can be used as a screening in the evaluation of neuropsychiatric symptoms in dementia and associated caregiver distress</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Barthel</measure>
+    <time_frame>2 days</time_frame>
+    <description>- Evidence suggests that (Barthel Index) BI is a valid measure of activities of daily living; sensitivity to change is limited at extremes of disability (floor and ceiling effects), and reliability of standard BI assessment is acceptable</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">240</enrollment>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>cards</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants received 2 days at week during 30 minutes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>significance activities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>participants received 2 days a week during 30 minutes</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>To with significance activities</intervention_name>
+    <description>activities with purpose with people who are diagnosed of dementia 2 days at week during 30 minutes</description>
+    <arm_group_label>cards</arm_group_label>
+    <arm_group_label>significance activities</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  a diagnosis of primary dementia (DSM V)&#xD;
+&#xD;
+          -  a MMSE score ≤ 24&#xD;
+&#xD;
+          -  a NPI global score ≥ 32/144&#xD;
+&#xD;
+          -  a treatment with significance activities in Occupational Therapy&#xD;
+&#xD;
+          -  live in a nursing home&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  presence of uncontrolled medical disease potentially contributing to the cognitive&#xD;
+             decline and BPSD&#xD;
+&#xD;
+               -  concomitant psychiatric disorders or chronic alcoholism&#xD;
+&#xD;
+               -  concomitant diseases severe enough to reduce life expectancy &lt; 6 months&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Olalla Saiz Vazquez</name>
+      <address>
+        <city>Burgos</city>
+        <zip>09003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>April 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 28, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 4, 2022</study_first_posted>
+  <last_update_submitted>May 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universidad de Burgos</investigator_affiliation>
+    <investigator_full_name>OLALLA SAIZ VAZQUEZ</investigator_full_name>
+    <investigator_title>Graduado en Terapia Ocupacional</investigator_title>
+  </responsible_party>
+  <keyword>Occupational Therapy</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Significance activities</keyword>
+  <keyword>No-pharmacological treatment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

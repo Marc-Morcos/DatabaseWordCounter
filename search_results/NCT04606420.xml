@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="141">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04606420</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20172897</org_study_id>
+    <nct_id>NCT04606420</nct_id>
+  </id_info>
+  <brief_title>Can Lifestyle Changes Reverse Early-Stage Alzheimer's Disease</brief_title>
+  <official_title>Lifestyle Intervention for Early Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Preventive Medicine Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard Medical School (HMS and HSDM)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Cleveland Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Renown Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Preventive Medicine Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of this study is to determine if comprehensive lifestyle changes may slow,&#xD;
+      stop, or reverse the progression of early-stage Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      51 patients who have early Alzheimer's disease (MoCA above 17) in the San Francisco Bay area&#xD;
+      were enrolled over time and are randomly assigned to one of two groups.&#xD;
+&#xD;
+      After baseline testing, the first group then receives this lifestyle medicine program for 20&#xD;
+      weeks, four hours/day, three days/week (all done virtually via Zoom since March 2020 due to&#xD;
+      COVID-19).&#xD;
+&#xD;
+      The second group will not receive the lifestyle program for 20 weeks and will serve as a&#xD;
+      randomized control group during this phase of the study.&#xD;
+&#xD;
+      Both groups will be re-tested after 20 weeks.&#xD;
+&#xD;
+      Then, the second group will &quot;cross over&quot; and receive this lifestyle medicine program for 20&#xD;
+      weeks and the first group will continue the lifestyle program for 20 additional weeks. After&#xD;
+      a total of 40 weeks, both groups will be re-tested again and compared. Those initially&#xD;
+      randomly assigned to the control group will receive the intervention for 40 weeks and then be&#xD;
+      re-tested at that time.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 8, 2018</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>In this randomized crossover design, 51 patients with early Alzheimer's disease were randomly-assigned to one of two groups. After baseline testing, the first group receives the lifestyle program for 20 weeks (via Zoom since 2/20 due to COVID-19). The second group does not and is a randomized control group during this phase. Both groups are re-tested after 20 weeks. Then, the second group &quot;crosses over&quot; and receives this program for 20 weeks and the first group continues the program for 20 additional weeks. After 40 weeks, both groups are re-tested again. Patients initially randomly assigned to the control group will receive the intervention for a total of 40 weeks and then be re-tested.&#xD;
+Due to challenges in recruiting patients, including Covid-19, we recently terminated recruitment after 51 patients were recruited. This decision was based on recruitment and funding issues, without review of any of the data. This trial will continue until all 51 patients have completed it.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Since this is a behavioral intervention, it is not possible to blind the participant and the care provider from whether or not they are receiving the intervention. However, everyone involved in testing patients (Outcome Assessors) is blinded to group assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in Alzheimer Disease Assessment Scale cognitive section (ADAS-Cog) score</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>The ADAS-Cog test is one of the most frequently used tests to measure cognition in clinical trials. Patients obtain scores of 0 to 70; higher scores indicate poorer performance.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline in Clinical Global Impression of Change (CGIC) score</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>The CGIC test is often used in clinical trials of cognition. CGIC scores range from 1 (very much improved) through to 7 (very much worse).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from Baseline in Clinical Dementia Rating Scale Sum of Boxes (CDR-SOB) score</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>The CDR-SOB is a commonly used dementia staging instrument. The CDR-SOB score is obtained by summing each of the domain box scores, with scores ranging from 0 to 18 (lower is better).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in the microbiome</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>This test measures the type and relative preponderance of gut organisms at Dr. Rob Knight's lab at UCSD. To assess whether this intervention is associated with a systematic signal in the gut microbiome, he will use 16S rRNA amplicon sequencing, metagenomic sequencing, and untargeted mass spectrometry to analyze stool samples of these study participants. This will provide the relative proportion of organisms in the microbiome of these patients at each time interval.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in telomere length</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>The leukocyte telomere length assay from PBMCs will be performed in the laboratory of Dr. Elizabeth Blackburn at UCSF using the quantitative polymerase chain reaction method to measure telomere length relative to standard reference DNA, expressed as telomere to single-copy gene ratio (T/S).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in biomarkers</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>These are measures of inflammation (C-reactive protein in mg/L), genomics, serum amyloid (C2N), angiogenesis, lipids (total cholesterol, LDL-cholesterol, triglycerides in mg/dl), blood pressure (mm Hg), and weight (pounds).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory biomarkers</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>Inflammatory Human ProInflammatory 10-Plex: IFN-γ, IL-1β, IL-2, IL-4, IL-6, IL-8, IL-10, IL-12 p70, IL-13, TNF-α. Tanzi Lab, Harvard Medical School/Mass General Hospital McCance Center for Brain Health &amp; MassGeneral Institute for Neurodegenerative Disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amyloid peptides</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>Human Aβ Peptide Panel 1 (6E10) 3-plex: Aβ38, Aβ40, and Aβ42 The Phospho(Thr231)/Total Tau Kit; p-tau 181; p-tau217. Tanzi Lab, Harvard Medical School/Mass General Hospital McCance Center for Brain Health &amp; MassGeneral Institute for Neurodegenerative Disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>R-PLEX measures</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>Neurofilament light chain (NF-L): custom-make; R-PLEX Human Neurofilament L Antibody Set; GFAP: custom-make; R-PLEX Human GFAP Antibody Set S100 family proteins: custom-make; R-PLEX Human S100A8/MRP8 Antibody Set. Tanzi Lab, Harvard Medical School/Mass General Hospital McCance Center for Brain Health &amp; MassGeneral Institute for Neurodegenerative Disease</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angiogenesis biomarkers</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>Angiogenesis Panel 1 (human) measures 7-plex proteins: VEGF-A, VEGF-C, VEGF-D, Tie-2, Flt-1, PlGF, and FGF (basic). Arnold Lab, Harvard Medical School/Massachusetts General Hospital Alzheimer's Clinical and Translational Research Unit and Interdisciplinary Brain Center.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vascular injury panel 2</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>Measure 4-plex protein: SAA, CRP, VCAM-1, and ICAM-1. Arnold Lab, Harvard Medical School/Massachusetts General Hospital Alzheimer's Clinical and Translational Research Unit and Interdisciplinary Brain Center.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Metabolic Panel: 1 Human 7-PLEX</measure>
+    <time_frame>At baseline and also after 20 weeks, 40 weeks.</time_frame>
+    <description>C-Peptide, GIP (active), GLP-1 (active), Glucagon, Insulin, Leptin, PP Quanterix Banyan Panel: p-TAU, NFL, GFAP, UCHL1. Arnold Lab, Harvard Medical School/Massachusetts General Hospital Alzheimer's Clinical and Translational Research Unit and Interdisciplinary Brain Center.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">51</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Experimental (Intervention) Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>These patients will receive the comprehensive lifestyle medicine intervention from day 1 through the end of the study. They will be tested at baseline, after 20 weeks, and after 40 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control (Non-Intervention) Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>These patients will be asked to continue their current diet and lifestyle without making any changes for 20 weeks. They will be tested at baseline and after 20 weeks. Then, they will &quot;cross over&quot; and receive the same lifestyle medicine intervention for 20 weeks and will be tested again after 20 weeks of the intervention and also after 40 weeks of the intervention. After 20 weeks in the randomized control group, patients who no longer meet these eligibility criteria (e.g, a MoCA score &lt;18) will not cross over and will not receive the lifestyle intervention; their data during the first 20 weeks in the control group (when they met the entry criteria) will be used.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Lifestyle medicine</intervention_name>
+    <description>Diet: A low fat (10-15%) whole foods vegan diet, high in complex carbs and low in refined carbs (fruits, vegetables, whole grains, legumes, soy, seeds &amp; nuts). Calories unrestricted. Multivitamin, fish oil, curcumin, vitamin C, B12, CoQ10, lion's mane, probiotic, and magnesium. 21 meals/week and supplements provided to participants and caregivers at no cost to them.&#xD;
+Exercise: Aerobic (e.g., walking) and strength training 30 minutes/day based on a personalized prescription from an exercise physiologist or certified personal trainer and registered nurse.&#xD;
+Stress Management: Meditation, gentle yoga-based poses, progressive relaxation, breathing exercises, and meditation (with optional glasses) 1 hour per day, supervised by a certified stress management specialist.&#xD;
+Group Support: Participants and their spouses/caregivers participate in a support group one hour/session, 3 days/week, supervised by a licensed mental health professional in a supportive, safe environment.</description>
+    <arm_group_label>Experimental (Intervention) Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Current diagnosis of mild dementia or mild cognitive impairment due to Alzheimer's&#xD;
+             disease/process (McKhann and Albert criteria), with MoCA score above 17 (i.e., 18 or&#xD;
+             higher)&#xD;
+&#xD;
+          -  Willingness and ability to participate in all aspects of the intervention&#xD;
+&#xD;
+          -  Availability of spouse or caregiver who can provide collateral information and assist&#xD;
+             with study adherence&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  severe dementia&#xD;
+&#xD;
+          -  physical disability that precludes regular exercise&#xD;
+&#xD;
+          -  clear evidence for other causes of neurodegeneration or dementia, e.g., severe&#xD;
+             cerebrovascular disease, Parkinson's disease&#xD;
+&#xD;
+          -  significant ongoing psychiatric or substance abuse problems&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dean Ornish, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>President, Preventive Med Res Inst; Clinical Prof Medicine UCSF</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Catherine Madison, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Chief Neurologist, Preventive Medicine Research Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rudolph E Tanzi, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Co-Director, McCance Center for Brain Health, Harvard Medical School/Mass General Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Steven E. Arnold, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Director, Alzheimer's Clinical and Translational Research Unit, Harvard Medical School/Mass General Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jonathan Rosand, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Kistler Endowed Chair in Neurology, Harvard Medical School/Mass General Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Douglas Galasko, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Professor of Neurology, University of California, San Diego</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David A Sinclair, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Co-Director, Paul Glenn Labs for the Biology of Aging, Harvard Medical School</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jonathan Artz, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Renown Health Institute of Neurosciences</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California, San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Preventive Medicine Research Institute</name>
+      <address>
+        <city>Sausalito</city>
+        <state>California</state>
+        <zip>94965</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McCance Center for Brain Health, Harvard Medical School/Mass General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Renown Health Institute of Neurosciences</name>
+      <address>
+        <city>Reno</city>
+        <state>Nevada</state>
+        <zip>89502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Ornish D, Scherwitz LW, Billings JH, Brown SE, Gould KL, Merritt TA, Sparler S, Armstrong WT, Ports TA, Kirkeeide RL, Hogeboom C, Brand RJ. Intensive lifestyle changes for reversal of coronary heart disease. JAMA. 1998 Dec 16;280(23):2001-7. Erratum in: JAMA 1999 Apr 21;281(15):1380.</citation>
+    <PMID>9863851</PMID>
+  </reference>
+  <reference>
+    <citation>Gould KL, Ornish D, Scherwitz L, Brown S, Edens RP, Hess MJ, Mullani N, Bolomey L, Dobbs F, Armstrong WT, et al. Changes in myocardial perfusion abnormalities by positron emission tomography after long-term, intense risk factor modification. JAMA. 1995 Sep 20;274(11):894-901.</citation>
+    <PMID>7674504</PMID>
+  </reference>
+  <reference>
+    <citation>Ornish D, Brown SE, Scherwitz LW, Billings JH, Armstrong WT, Ports TA, McLanahan SM, Kirkeeide RL, Brand RJ, Gould KL. Can lifestyle changes reverse coronary heart disease? The Lifestyle Heart Trial. Lancet. 1990 Jul 21;336(8708):129-33.</citation>
+    <PMID>1973470</PMID>
+  </reference>
+  <reference>
+    <citation>Ornish D, Weidner G, Fair WR, Marlin R, Pettengill EB, Raisin CJ, Dunn-Emke S, Crutchfield L, Jacobs FN, Barnard RJ, Aronson WJ, McCormac P, McKnight DJ, Fein JD, Dnistrian AM, Weinstein J, Ngo TH, Mendell NR, Carroll PR. Intensive lifestyle changes may affect the progression of prostate cancer. J Urol. 2005 Sep;174(3):1065-9; discussion 1069-70.</citation>
+    <PMID>16094059</PMID>
+  </reference>
+  <reference>
+    <citation>Dunn-Emke SR, Weidner G, Pettengill EB, Marlin RO, Chi C, Ornish DM. Nutrient adequacy of a very low-fat vegan diet. J Am Diet Assoc. 2005 Sep;105(9):1442-6.</citation>
+    <PMID>16129088</PMID>
+  </reference>
+  <reference>
+    <citation>Dewell A, Weidner G, Sumner MD, Chi CS, Ornish D. A very-low-fat vegan diet increases intake of protective dietary factors and decreases intake of pathogenic dietary factors. J Am Diet Assoc. 2008 Feb;108(2):347-56. doi: 10.1016/j.jada.2007.10.044.</citation>
+    <PMID>18237581</PMID>
+  </reference>
+  <reference>
+    <citation>Ornish D, Lin J, Daubenmier J, Weidner G, Epel E, Kemp C, Magbanua MJ, Marlin R, Yglecias L, Carroll PR, Blackburn EH. Increased telomerase activity and comprehensive lifestyle changes: a pilot study. Lancet Oncol. 2008 Nov;9(11):1048-57. doi: 10.1016/S1470-2045(08)70234-1. Epub 2008 Sep 15. Erratum in: Lancet Oncol. 2008 Dec;9(12):1124.</citation>
+    <PMID>18799354</PMID>
+  </reference>
+  <reference>
+    <citation>Ornish D, Magbanua MJ, Weidner G, Weinberg V, Kemp C, Green C, Mattie MD, Marlin R, Simko J, Shinohara K, Haqq CM, Carroll PR. Changes in prostate gene expression in men undergoing an intensive nutrition and lifestyle intervention. Proc Natl Acad Sci U S A. 2008 Jun 17;105(24):8369-74. doi: 10.1073/pnas.0803080105. Epub 2008 Jun 16.</citation>
+    <PMID>18559852</PMID>
+  </reference>
+  <reference>
+    <citation>Chainani-Wu N, Weidner G, Purnell DM, Frenda S, Merritt-Worden T, Pischke C, Campo R, Kemp C, Kersh ES, Ornish D. Changes in emerging cardiac biomarkers after an intensive lifestyle intervention. Am J Cardiol. 2011 Aug 15;108(4):498-507. doi: 10.1016/j.amjcard.2011.03.077. Epub 2011 May 31.</citation>
+    <PMID>21624543</PMID>
+  </reference>
+  <reference>
+    <citation>Ornish D, Lin J, Chan JM, Epel E, Kemp C, Weidner G, Marlin R, Frenda SJ, Magbanua MJM, Daubenmier J, Estay I, Hills NK, Chainani-Wu N, Carroll PR, Blackburn EH. Effect of comprehensive lifestyle changes on telomerase activity and telomere length in men with biopsy-proven low-risk prostate cancer: 5-year follow-up of a descriptive pilot study. Lancet Oncol. 2013 Oct;14(11):1112-1120. doi: 10.1016/S1470-2045(13)70366-8. Epub 2013 Sep 17.</citation>
+    <PMID>24051140</PMID>
+  </reference>
+  <reference>
+    <citation>Silberman A, Banthia R, Estay IS, Kemp C, Studley J, Hareras D, Ornish D. The effectiveness and efficacy of an intensive cardiac rehabilitation program in 24 sites. Am J Health Promot. 2010 Mar-Apr;24(4):260-6. doi: 10.4278/ajhp.24.4.arb.</citation>
+    <PMID>20232608</PMID>
+  </reference>
+  <reference>
+    <citation>Ngandu T, Lehtisalo J, Solomon A, Levälahti E, Ahtiluoto S, Antikainen R, Bäckman L, Hänninen T, Jula A, Laatikainen T, Lindström J, Mangialasche F, Paajanen T, Pajala S, Peltonen M, Rauramaa R, Stigsdotter-Neely A, Strandberg T, Tuomilehto J, Soininen H, Kivipelto M. A 2 year multidomain intervention of diet, exercise, cognitive training, and vascular risk monitoring versus control to prevent cognitive decline in at-risk elderly people (FINGER): a randomised controlled trial. Lancet. 2015 Jun 6;385(9984):2255-63. doi: 10.1016/S0140-6736(15)60461-5. Epub 2015 Mar 12.</citation>
+    <PMID>25771249</PMID>
+  </reference>
+  <reference>
+    <citation>Tangney CC, Li H, Wang Y, Barnes L, Schneider JA, Bennett DA, Morris MC. Relation of DASH- and Mediterranean-like dietary patterns to cognitive decline in older persons. Neurology. 2014 Oct 14;83(16):1410-6. doi: 10.1212/WNL.0000000000000884. Epub 2014 Sep 17.</citation>
+    <PMID>25230996</PMID>
+  </reference>
+  <reference>
+    <citation>Norton S, Matthews FE, Barnes DE, Yaffe K, Brayne C. Potential for primary prevention of Alzheimer's disease: an analysis of population-based data. Lancet Neurol. 2014 Aug;13(8):788-94. doi: 10.1016/S1474-4422(14)70136-X. Erratum in: Lancet Neurol. 2014 Nov;13(11):1070.</citation>
+    <PMID>25030513</PMID>
+  </reference>
+  <reference>
+    <citation>Toni N, Teng EM, Bushong EA, Aimone JB, Zhao C, Consiglio A, van Praag H, Martone ME, Ellisman MH, Gage FH. Synapse formation on neurons born in the adult hippocampus. Nat Neurosci. 2007 Jun;10(6):727-34. Epub 2007 May 7.</citation>
+    <PMID>17486101</PMID>
+  </reference>
+  <reference>
+    <citation>Morris MC, Evans DA, Tangney CC, Bienias JL, Wilson RS. Associations of vegetable and fruit consumption with age-related cognitive change. Neurology. 2006 Oct 24;67(8):1370-6.</citation>
+    <PMID>17060562</PMID>
+  </reference>
+  <reference>
+    <citation>Morris MC, Evans DA, Bienias JL, Tangney CC, Bennett DA, Wilson RS, Aggarwal N, Schneider J. Consumption of fish and n-3 fatty acids and risk of incident Alzheimer disease. Arch Neurol. 2003 Jul;60(7):940-6.</citation>
+    <PMID>12873849</PMID>
+  </reference>
+  <reference>
+    <citation>Baierle M, Vencato PH, Oldenburg L, Bordignon S, Zibetti M, Trentini CM, Duarte MM, Veit JC, Somacal S, Emanuelli T, Grune T, Breusing N, Garcia SC. Fatty acid status and its relationship to cognitive decline and homocysteine levels in the elderly. Nutrients. 2014 Sep 12;6(9):3624-40. doi: 10.3390/nu6093624.</citation>
+    <PMID>25221976</PMID>
+  </reference>
+  <reference>
+    <citation>Morris MC, Evans DA, Bienias JL, Tangney CC, Bennett DA, Aggarwal N, Schneider J, Wilson RS. Dietary fats and the risk of incident Alzheimer disease. Arch Neurol. 2003 Feb;60(2):194-200. Erratum in: Arch Neurol. 2003 Aug;60(8):1072.</citation>
+    <PMID>12580703</PMID>
+  </reference>
+  <reference>
+    <citation>Singh B, Parsaik AK, Mielke MM, Erwin PJ, Knopman DS, Petersen RC, Roberts RO. Association of mediterranean diet with mild cognitive impairment and Alzheimer's disease: a systematic review and meta-analysis. J Alzheimers Dis. 2014;39(2):271-82. doi: 10.3233/JAD-130830. Review.</citation>
+    <PMID>24164735</PMID>
+  </reference>
+  <reference>
+    <citation>Trichopoulou A, Kyrozis A, Rossi M, Katsoulis M, Trichopoulos D, La Vecchia C, Lagiou P. Mediterranean diet and cognitive decline over time in an elderly Mediterranean population. Eur J Nutr. 2015 Dec;54(8):1311-21. doi: 10.1007/s00394-014-0811-z. Epub 2014 Dec 9.</citation>
+    <PMID>25482573</PMID>
+  </reference>
+  <reference>
+    <citation>Staubo SC, Aakre JA, Vemuri P, Syrjanen JA, Mielke MM, Geda YE, Kremers WK, Machulda MM, Knopman DS, Petersen RC, Jack CR Jr, Roberts RO. Mediterranean diet, micronutrients and macronutrients, and MRI measures of cortical thickness. Alzheimers Dement. 2017 Feb;13(2):168-177. doi: 10.1016/j.jalz.2016.06.2359. Epub 2016 Jul 25.</citation>
+    <PMID>27461490</PMID>
+  </reference>
+  <reference>
+    <citation>Ozawa M, Shipley M, Kivimaki M, Singh-Manoux A, Brunner EJ. Dietary pattern, inflammation and cognitive decline: The Whitehall II prospective cohort study. Clin Nutr. 2017 Apr;36(2):506-512. doi: 10.1016/j.clnu.2016.01.013. Epub 2016 Jan 29.</citation>
+    <PMID>26874911</PMID>
+  </reference>
+  <reference>
+    <citation>Friedland RP. Mechanisms of molecular mimicry involving the microbiota in neurodegeneration. J Alzheimers Dis. 2015;45(2):349-62. doi: 10.3233/JAD-142841. Review.</citation>
+    <PMID>25589730</PMID>
+  </reference>
+  <reference>
+    <citation>Grant WB. Trends in diet and Alzheimer's disease during the nutrition transition in Japan and developing countries. J Alzheimers Dis. 2014;38(3):611-20. doi: 10.3233/JAD-130719.</citation>
+    <PMID>24037034</PMID>
+  </reference>
+  <reference>
+    <citation>Jacka FN, Cherbuin N, Anstey KJ, Sachdev P, Butterworth P. Western diet is associated with a smaller hippocampus: a longitudinal investigation. BMC Med. 2015 Sep 8;13:215. doi: 10.1186/s12916-015-0461-x.</citation>
+    <PMID>26349802</PMID>
+  </reference>
+  <reference>
+    <citation>Wells RE, Yeh GY, Kerr CE, Wolkin J, Davis RB, Tan Y, Spaeth R, Wall RB, Walsh J, Kaptchuk TJ, Press D, Phillips RS, Kong J. Meditation's impact on default mode network and hippocampus in mild cognitive impairment: a pilot study. Neurosci Lett. 2013 Nov 27;556:15-9. doi: 10.1016/j.neulet.2013.10.001. Epub 2013 Oct 10.</citation>
+    <PMID>24120430</PMID>
+  </reference>
+  <reference>
+    <citation>Luders E, Cherbuin N, Gaser C. Estimating brain age using high-resolution pattern recognition: Younger brains in long-term meditation practitioners. Neuroimage. 2016 Jul 1;134:508-513. doi: 10.1016/j.neuroimage.2016.04.007. Epub 2016 Apr 11.</citation>
+    <PMID>27079530</PMID>
+  </reference>
+  <reference>
+    <citation>Blumenthal JA, Smith PJ, Mabe S, Hinderliter A, Lin PH, Liao L, Welsh-Bohmer KA, Browndyke JN, Kraus WE, Doraiswamy PM, Burke JR, Sherwood A. Lifestyle and neurocognition in older adults with cognitive impairments: A randomized trial. Neurology. 2019 Jan 15;92(3):e212-e223. doi: 10.1212/WNL.0000000000006784. Epub 2018 Dec 19.</citation>
+    <PMID>30568005</PMID>
+  </reference>
+  <reference>
+    <citation>Dusek JA, Otu HH, Wohlhueter AL, Bhasin M, Zerbini LF, Joseph MG, Benson H, Libermann TA. Genomic counter-stress changes induced by the relaxation response. PLoS One. 2008 Jul 2;3(7):e2576. doi: 10.1371/journal.pone.0002576. Erratum in: PLoS One. 2017 Feb 21;12 (2):e0172845.</citation>
+    <PMID>18596974</PMID>
+  </reference>
+  <reference>
+    <citation>Gauthier S, Aisen PS, Cummings J, Detke MJ, Longo FM, Raman R, Sabbagh M, Schneider L, Tanzi R, Tariot P, Weiner M, Touchon J, Vellas B; EU/US CTAD Task Force. Non-Amyloid Approaches to Disease Modification for Alzheimer's Disease: An EU/US CTAD Task Force Report. J Prev Alzheimers Dis. 2020;7(3):152-157. doi: 10.14283/jpad.2020.18. Epub 2020 Apr 6.</citation>
+    <PMID>32420298</PMID>
+  </reference>
+  <reference>
+    <citation>Finch CE, Tanzi RE. Genetics of aging. Science. 1997 Oct 17;278(5337):407-11. Review.</citation>
+    <PMID>9334291</PMID>
+  </reference>
+  <reference>
+    <citation>Choi SH, Bylykbashi E, Chatila ZK, Lee SW, Pulli B, Clemenson GD, Kim E, Rompala A, Oram MK, Asselin C, Aronson J, Zhang C, Miller SJ, Lesinski A, Chen JW, Kim DY, van Praag H, Spiegelman BM, Gage FH, Tanzi RE. Combined adult neurogenesis and BDNF mimic exercise effects on cognition in an Alzheimer's mouse model. Science. 2018 Sep 7;361(6406). pii: eaan8821. doi: 10.1126/science.aan8821.</citation>
+    <PMID>30190379</PMID>
+  </reference>
+  <reference>
+    <citation>Epel ES, Puterman E, Lin J, Blackburn EH, Lum PY, Beckmann ND, Zhu J, Lee E, Gilbert A, Rissman RA, Tanzi RE, Schadt EE. Meditation and vacation effects have an impact on disease-associated molecular phenotypes. Transl Psychiatry. 2016 Aug 30;6(8):e880. doi: 10.1038/tp.2016.164.</citation>
+    <PMID>27576169</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang R, Miller RG, Madison C, Jin X, Honrada R, Harris W, Katz J, Forshew DA, McGrath MS. Systemic immune system alterations in early stages of Alzheimer's disease. J Neuroimmunol. 2013 Mar 15;256(1-2):38-42. doi: 10.1016/j.jneuroim.2013.01.002. Epub 2013 Feb 4.</citation>
+    <PMID>23380586</PMID>
+  </reference>
+  <reference>
+    <citation>Mueller SG, Schuff N, Yaffe K, Madison C, Miller B, Weiner MW. Hippocampal atrophy patterns in mild cognitive impairment and Alzheimer's disease. Hum Brain Mapp. 2010 Sep;31(9):1339-47. doi: 10.1002/hbm.20934.</citation>
+    <PMID>20839293</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Schuff N, Camacho M, Chao LL, Fletcher TP, Yaffe K, Woolley SC, Madison C, Rosen HJ, Miller BL, Weiner MW. MRI markers for mild cognitive impairment: comparisons between white matter integrity and gray matter volume measurements. PLoS One. 2013 Jun 6;8(6):e66367. doi: 10.1371/journal.pone.0066367. Print 2013.</citation>
+    <PMID>23762488</PMID>
+  </reference>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>October 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 28, 2020</study_first_posted>
+  <last_update_submitted>September 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

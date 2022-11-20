@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1078">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02246075</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EVP-6124-027</org_study_id>
+    <nct_id>NCT02246075</nct_id>
+  </id_info>
+  <brief_title>Study of the Safety of Two Doses of Investigational Study Drug EVP-6124 in Subjects With Alzheimer's Disease Currently Receiving Memantine</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, 24-Week, Phase 2 Study of Two Doses of EVP-6124 Hydrochloride or Placebo in Subjects With Mild to Moderate Alzheimer's Disease Currently Receiving Memantine Medication With or Without Additional Acetylcholinesterase Inhibitor Co-Medication</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>FORUM Pharmaceuticals Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Quintiles, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>FORUM Pharmaceuticals Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety of 2 fixed doses of EVP-6124&#xD;
+      hydrochloride (HCl) compared to placebo for 24 weeks in subjects with mild to moderate&#xD;
+      Alzheimer's disease who are concurrently receiving stable treatment with memantine and&#xD;
+      currently receiving stable treatment or previously treated with an acetylcholinesterase&#xD;
+      inhibitor.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    Forum has decided not to proceed with this study at this time.&#xD;
+  </why_stopped>
+  <start_date>July 2015</start_date>
+  <primary_completion_date type="Anticipated">October 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety/Tolerability of EVP-6124 with concurrent memantine</measure>
+    <time_frame>Baseline to Day 168</time_frame>
+    <description>Number of subjects with AEs&#xD;
+Percentage of subjects with AEs&#xD;
+Number of subjects with SAEs&#xD;
+Percentage of subjects with SAEs&#xD;
+Number of subjects who discontinue due to AEs&#xD;
+Percentage of subjects who discontinue due to AEs&#xD;
+Number of subject deaths&#xD;
+Percentage of subject deaths</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline in the Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>Baseline to Day 168</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Cognition</condition>
+  <arm_group>
+    <arm_group_label>EVP-6124, low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose, Tablet, Once Daily, Day 1 through Day 168</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EVP-6124, high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose, Tablet, Once Daily, Day 1 through Day 168</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EVP-6124, Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, Tablet, Once Daily, Day 1 through Day 168</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EVP-6124</intervention_name>
+    <arm_group_label>EVP-6124, Placebo</arm_group_label>
+    <arm_group_label>EVP-6124, high dose</arm_group_label>
+    <arm_group_label>EVP-6124, low dose</arm_group_label>
+    <other_name>encenicline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ages ≥55 and ≤85 years&#xD;
+&#xD;
+          -  Informed consent form (ICF) signed by the subject or legally acceptable representative&#xD;
+             before any study-specific procedures for the subject are performed and an ICF signed&#xD;
+             by the support person/caregiver before any study-specific procedures for the support&#xD;
+             person/caregiver are performed&#xD;
+&#xD;
+          -  Clinical diagnosis of dementia due to possible or probable AD consistent with criteria&#xD;
+             established by a workgroup of the National Institute on Aging and the Alzheimer's&#xD;
+             Disease Association&#xD;
+&#xD;
+          -  Magnetic resonance imaging (MRI) or computed tomography (CT) scan performed within 12&#xD;
+             months before screening, with findings consistent with the diagnosis of dementia due&#xD;
+             to AD without any other clinically significant comorbid pathologies. If an MRI or CT&#xD;
+             scan is unavailable or occurred greater than 12 months before screening, this&#xD;
+             assessment should be completed and the findings confirmed before the subject enters&#xD;
+             the run-in period (Day -14) (copy of the report will be available at the study site)&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) score ≥12 and ≤26 at screening&#xD;
+&#xD;
+          -  Modified Hachinski Ischemic Scale (mHIS) score ≤4 at screening&#xD;
+&#xD;
+          -  Fertile, sexually active subjects (men and women) must use an effective method of&#xD;
+             contraception during the study. Female subjects and the female partner of male&#xD;
+             subjects must be surgically sterile (hysterectomy or bilateral tubal ligation),&#xD;
+             postmenopausal for at least 1-year, or willing to practice adequate methods of&#xD;
+             contraception if of childbearing potential (defined as consistent use of combined&#xD;
+             effective methods of contraception [including at least 1 barrier method])&#xD;
+&#xD;
+          -  Reliable and capable support person/caregiver, who if not living in the same&#xD;
+             household, interacts with the subject regularly and will help facilitate clinic visits&#xD;
+             of the study subject&#xD;
+&#xD;
+          -  Subject living at home, senior residential setting, or an institutional setting&#xD;
+             without the need for continuous (ie, 24-hour) nursing care&#xD;
+&#xD;
+          -  General health status acceptable for participation in a 24-week study&#xD;
+&#xD;
+          -  Fluency (oral and written) in the language in which the standardized tests will be&#xD;
+             administered&#xD;
+&#xD;
+          -  Receiving a stable dose of memantine for at least 3 months (90 days) before screening&#xD;
+             and with continuous dosing for at least 3 months. Additional co-medication with an&#xD;
+             AChEI (donepezil in any dose form other than 23 mg once daily (QD), rivastigmine or&#xD;
+             galantamine) is allowed if stable for at least 3 months (90 days) before screening&#xD;
+             with total continuous exposure for at least 3 months.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exposure to an experimental drug, experimental biologic or experimental medical device&#xD;
+             within 2 months (60 days) before screening&#xD;
+&#xD;
+          -  Prior participation in an amyloid vaccination clinical study at any time in the past&#xD;
+             or completion of a passive amyloid vaccination study within 6 months before screening&#xD;
+&#xD;
+          -  Inability to swallow a tablet&#xD;
+&#xD;
+          -  In the judgment of the investigator, inability of the subject to complete a 24-week&#xD;
+             study&#xD;
+&#xD;
+          -  Residence in a skilled nursing facility&#xD;
+&#xD;
+          -  Inability to be ≥75% compliant with single-blind study drug&#xD;
+&#xD;
+          -  Clinically significant (in the judgment of the investigator) abnormal serum&#xD;
+             electrolytes (sodium, potassium, magnesium) after repeat testing&#xD;
+&#xD;
+          -  Clinically significant untreated hypothyroidism (if treated, thyroid-stimulating&#xD;
+             hormone level and thyroid supplementation dose must be stable for at least 6 months&#xD;
+             before screening)&#xD;
+&#xD;
+          -  Insufficiently controlled diabetes mellitus (in the judgment of the investigator) or&#xD;
+             requiring insulin&#xD;
+&#xD;
+          -  Renal insufficiency (serum creatinine &gt;2.0 mg/dL)&#xD;
+&#xD;
+          -  Malignant tumor within 3 years before screening (except squamous and basal cell&#xD;
+             carcinoma or cervical carcinoma in situ or localized prostate cancer)&#xD;
+&#xD;
+          -  History of ischemic colitis or ischemic enterocolitis&#xD;
+&#xD;
+          -  Unstable medical condition that is clinically significant in the judgment of the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Female subjects who are pregnant, nursing, or planning to become pregnant during the&#xD;
+             study&#xD;
+&#xD;
+          -  Alanine transaminase (ALT) or aspartate transaminase (AST) &gt;2.5 times the upper limit&#xD;
+             of normal&#xD;
+&#xD;
+          -  History of myocardial infarction or unstable angina within 6 months before screening&#xD;
+&#xD;
+          -  History of more than 1 myocardial infarction within 5 years before screening&#xD;
+&#xD;
+          -  Clinically significant (in the judgment of the investigator) cardiac arrhythmia&#xD;
+             (including atrial fibrillation), cardiomyopathy, or cardiac conduction defect&#xD;
+             (subjects with a pacemaker are acceptable)&#xD;
+&#xD;
+          -  Symptomatic hypotension, or uncontrolled hypertension (in the judgment of the&#xD;
+             investigator)&#xD;
+&#xD;
+          -  Clinically significant abnormality on screening electrocardiogram (ECG), including but&#xD;
+             not necessarily limited to a confirmed QTc value ≥450 msec for males or ≥470 msec for&#xD;
+             females. In subjects with a QRS value &gt;120msec, those with a QTc value &lt;500 msec may&#xD;
+             be eligible following discussion with the Medical Monitor.&#xD;
+&#xD;
+          -  Stroke within 18 months before screening, or history of a stroke concomitant with&#xD;
+             onset of dementia&#xD;
+&#xD;
+          -  History of brain tumor, subdural hematoma, or other clinically significant (in the&#xD;
+             judgment of the investigator) space-occupying lesion on CT or MRI&#xD;
+&#xD;
+          -  Head trauma with clinically significant (in the judgment of the investigator) loss of&#xD;
+             consciousness within 12 months before screening or concurrent with the onset of&#xD;
+             dementia&#xD;
+&#xD;
+          -  Onset of dementia secondary (in the judgment of the investigator) to cardiac arrest,&#xD;
+             surgery with general anesthesia, or resuscitation&#xD;
+&#xD;
+          -  Specific degenerative CNS disease diagnosis other than AD (eg, Huntington's disease,&#xD;
+             Creutzfeld-Jacob disease, Down's syndrome, Fronto-Temporal Dementia, Parkinson's&#xD;
+             disease)&#xD;
+&#xD;
+          -  Wernicke's encephalopathy&#xD;
+&#xD;
+          -  Active acute or chronic CNS infection&#xD;
+&#xD;
+          -  Donepezil 23 mg QD currently or within 3 months prior to randomization&#xD;
+&#xD;
+          -  Discontinued AChEI &lt;30 days prior to randomization&#xD;
+&#xD;
+          -  Antipsychotics; low doses (in the judgment of the investigator, except clozapine) are&#xD;
+             allowed only if given for sleep disturbances, agitation and/or aggression, and only if&#xD;
+             the subject has received a stable dose for at least 3 months before randomization&#xD;
+&#xD;
+          -  Tricyclic antidepressants and monoamine oxidase inhibitors; all other antidepressants&#xD;
+             are allowed only if the subject has received a stable dose for at least 3 months&#xD;
+             before randomization&#xD;
+&#xD;
+          -  Anxiolytics or sedative-hypnotics, including barbiturates (unless given in low doses&#xD;
+             for benign tremor); low doses of benzodiazepines and zolpidem (in the judgment of the&#xD;
+             investigator) are allowed only if given for insomnia/sleep disturbance, and only if&#xD;
+             the subject has received a stable dose for at least 3 months before randomization&#xD;
+&#xD;
+          -  Peripherally acting drugs with effects on cholinergic transmission&#xD;
+&#xD;
+          -  Immunosuppressants, including systemic corticosteroids, if taken in clinically&#xD;
+             immunosuppressive doses in the judgment of the investigator (Note: steroid use for&#xD;
+             allergy or other inflammation is permitted)&#xD;
+&#xD;
+          -  Antiepileptic medications if taken for control of seizures&#xD;
+&#xD;
+          -  Chronic intake of opioid-containing analgesics&#xD;
+&#xD;
+          -  Sedating H1 antihistamines&#xD;
+&#xD;
+          -  Nicotine therapy (all dosage forms including a patch), varenicline (Chantix), or&#xD;
+             similar therapeutic agent within 30 days before screening&#xD;
+&#xD;
+          -  Clinically significant urine drug screen (UDS) or serum alcohol test result in the&#xD;
+             judgment of the investigator (including medical marijuana)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2015</verification_date>
+  <study_first_submitted>September 17, 2014</study_first_submitted>
+  <study_first_submitted_qc>September 19, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 22, 2014</study_first_posted>
+  <last_update_submitted>October 13, 2015</last_update_submitted>
+  <last_update_submitted_qc>October 13, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 15, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>Cognition</keyword>
+  <keyword>Alpha-7 nAChR</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="896">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05363293</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AL001-ALZ02</org_study_id>
+    <nct_id>NCT05363293</nct_id>
+  </id_info>
+  <brief_title>Multiple Ascending Dose Safety, Tolerability, Pharmacokinetic Study of AL001 in Patients With Alzheimer's Disease and Healthy Adult Subjects</brief_title>
+  <acronym>&quot;MAD&quot;</acronym>
+  <official_title>A Multiple-dose, Steady-state, Double-blind, Ascending Dose, Safety, Tolerability, Pharmacokinetic Study of AL001 in Patients With Mild to Moderate Alzheimer's Disease and Healthy Adult Subjects (&quot;MAD Study&quot;)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alzamend Neuro, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Alzamend Neuro, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2a, multi-center, placebo-controlled, double-blinded, randomized, multiple&#xD;
+      ascending dose (MAD) clinical trial to determine the safety and maximum tolerated dose of&#xD;
+      AL001. Up to 72 participants will be randomly assigned to receive study drug (active AL001)&#xD;
+      or placebo. The study consists of a 4-week screening period, a 14-day treatment period, and a&#xD;
+      42-day follow-up period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 1/2a, multi-center, placebo-controlled, double-blind, randomized, multiple&#xD;
+      ascending dose (MAD) clinical trial to determine the safety and maximum tolerated dose (MTD)&#xD;
+      of AL001, a crystal engineered lithium-salicylate-proline lithium delivery product that in&#xD;
+      nonclinical studies was shown to enhance and prolong the pharmacokinetic (PK) profile of&#xD;
+      lithium in the brain with enhanced efficacy potential in Alzheimer's models compared to&#xD;
+      lithium carbonate.&#xD;
+&#xD;
+      A maximum of approximately 72 participants will be enrolled. Participants will be randomly&#xD;
+      assigned to receive study drug (active AL001) or placebo in a ratio of 6:2, respectively,&#xD;
+      with 8 patients in each dosing cohort. Cohorts 2a, 3a, 4a and 5a will involve 1:1 healthy&#xD;
+      non-elderly and elderly subjects; cohorts 1, 2b, 3b, 4b and 5b will involve Alzheimer's&#xD;
+      subjects. The study will consist of a screening period (Days -28 to -2), a 14-day treatment&#xD;
+      period, and a 42-day follow-up period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 4, 2022</start_date>
+  <completion_date type="Anticipated">May 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multi-center, placebo-controlled, double-blind, randomized, multiple ascending dose clinical trial to determine the safety and maximum tolerated dose of AL001.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>double-blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants with serious AEs, TEAEs that lead to premature discontinuation, abnormal laboratory test results, abnormal ECG readings.</measure>
+    <time_frame>a 14-day treatment period</time_frame>
+    <description>To evaluate the safety and tolerability of AL001 in healthy subjects and patients with adverse event(s), AD, descriptive statistics will be presented by treatment group for each cohort and overall, for the following:&#xD;
+Proportion of participants with treatment-emergent adverse events (TEAEs)&#xD;
+Proportion of participants with serious AEs&#xD;
+Proportion of participants with TEAEs that lead to premature discontinuation&#xD;
+Proportion of participants with abnormal values for each safety laboratory test (change from baseline)&#xD;
+Proportion of participants with abnormal values for each Electrocardiogram (ECG) parameter (change from baseline in standard 12-lead ECG parameters)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants with serious AEs, TEAEs that lead to premature discontinuation, abnormal laboratory test results, abnormal ECG readings.</measure>
+    <time_frame>a 42-day follow-up period</time_frame>
+    <description>To evaluate the safety and tolerability of AL001 in participants with adverse event(s), AD, descriptive statistics will be presented by treatment group for each cohort and overall, for the following:&#xD;
+Proportion of participants with treatment-emergent adverse events (TEAEs)&#xD;
+Proportion of participants with serious AEs&#xD;
+Proportion of participants with TEAEs that lead to premature discontinuation&#xD;
+Proportion of participants with abnormal values for each safety laboratory test (change from baseline)&#xD;
+Proportion of participants with abnormal values for each ECG parameter (change from baseline in standard 12-lead ECG parameters)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum Tolerated Dose of AL001 in healthy subjects and patients with Alzheimers Disease</measure>
+    <time_frame>a 14-day treatment period</time_frame>
+    <description>To characterize the MTD of AL001 in healthy subjects and in patients with AD, descriptive statistics will be presented by treatment group for each cohort and overall, for the following:&#xD;
+Proportion of healthy non-elderly adult subjects and healthy elderly subjects/patients with plasma trough measurements of lithium &gt; 1.0 and &gt;1.2 mEq/L, respectively&#xD;
+Proportion of healthy subjects and patients with plasma maximum concentration (Cmax) measurements for salicylate &gt; 30 mg/dL</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Healthy Non-elderly and Elderly Adults</condition>
+  <arm_group>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomized to receive AL001. When adequate safety data are available, a review will be done for all participants to make a dose-escalation or dose and/or regimen modification decision. This will be repeated for each cohort.&#xD;
+A total of 9 cohorts will receive 5 different dose levels of AL001 in multiple ascending doses under fasted conditions up to tolerability/safety limits.&#xD;
+Cohort 1 will include 8 AD subjects. In this cohort, 6 active and 2 placebo AD subjects (as per randomization code) will receive the following treatment or placebo:&#xD;
+• Cohort 1: 60% of 450 mg lithium carbonate equivalent of AL001 (1890 mg AL001 daily ×14 days, given as 3 × 210 mg AL001 capsules TID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The data from the previous cohort must be deemed safe before the next sequential cohort may be enrolled and dosing initiated.&#xD;
+Cohort 2 will be sub-divided into 2 cohorts: Cohort 2a (8 healthy subjects - 4 non-elderly adults and 4 elderly adults) and Cohort 2b (8 AD subjects). Per randomization, there will be 6 active and 2 placebo subjects in each cohort:&#xD;
+• Cohort 2a and 2b: 100% 450 mg lithium carbonate equivalent of AL001 (3150 mg AL001 daily × 14 days, given as 5 × 210 mg AL001 capsules TID).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The data from the previous cohort must be deemed safe before the next sequential cohort may be enrolled and dosing initiated.&#xD;
+Cohort 3 will be sub-divided into 2 cohorts: Cohort 3a (8 healthy subjects - 4 non-elderly adults and 4 elderly adults) and Cohort 3b (8 AD subjects). Per randomization, there will be 6 active and 2 placebo subjects in each cohort:&#xD;
+• Cohort 3a and 3b: 140% of 450 mg lithium carbonate equivalent of AL001 (4410 mg AL001 daily × 14 days, given as 7 × 210 mg AL001 capsules TID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The data from the previous cohort must be deemed safe before the next sequential cohort may be enrolled and dosing initiated.&#xD;
+Cohort 4 will be sub-divided into 2 cohorts: Cohort 4a (8 healthy subjects - 4 non-elderly adults and 4 elderly adults) and Cohort 4b (8 AD subjects). Per randomization, there will be 6 active and 2 placebo subjects in each cohort:&#xD;
+• Cohort 4a and 4b: 160% of 450 mg lithium carbonate equivalent of AL001 (5040 mg AL001 daily × 14 days, given as 8 × 210 mg AL001 capsules TID)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The data from the previous cohort must be deemed safe before the next sequential cohort may be enrolled and dosing initiated.&#xD;
+Cohort 5 will be sub-divided into 2 cohorts: Cohort 5a (8 healthy subjects - 4 non-elderly adults and 4 elderly adults) and Cohort 5b (8 AD subjects). Per randomization, there will be 6 active and 2 placebo subjects in each cohort:&#xD;
+• Cohort 5a and 5b: 200% of 450 mg lithium carbonate equivalent of AL001 (6300 mg AL001 daily × 14 days - lithium dose equivalent to that used for bipolar/affective disorders, given as 10 × 210 mg AL001 capsules TID)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AL 001</intervention_name>
+    <description>a crystal engineered lithium-salicylate-proline lithium delivery product</description>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 1</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 2</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 3</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 4</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 5</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>matching placebo formulation</description>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 1</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 2</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 3</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 4</arm_group_label>
+    <arm_group_label>Multiple Ascending Doses of AL001 vs. Placebo - Cohort 5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (Alzheimer's Patients):&#xD;
+&#xD;
+          -  Availability of medical history to provide information about the cognitive and&#xD;
+             functional level of the participant and of a qualified source such as the caregiver&#xD;
+             willing and able to provide information about the cognitive and functional level of&#xD;
+             the participant&#xD;
+&#xD;
+          -  Males (non-vasectomized and vasectomized) must agree to use barrier contraception&#xD;
+             during the study until after Study Day 42&#xD;
+&#xD;
+          -  Females must meet criteria if childbearing for contraception or be non-childbearing&#xD;
+&#xD;
+          -  Clinical diagnosis of dementia (neurocognitive disorder) by a qualified clinician&#xD;
+             based on the DSM-V criteria:&#xD;
+&#xD;
+          -  Considered AD Stage 2, 3, or 4 based on the FDA classification&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) score between 16 and 26, inclusive, at Screening&#xD;
+&#xD;
+          -  Patient's health is judged adequate to participate in this clinical study by the&#xD;
+             Investigator&#xD;
+&#xD;
+        Exclusion Criteria (Alzheimer's Patients):&#xD;
+&#xD;
+          -  Female who is breastfeeding, pregnant, planning to become pregnant during the study&#xD;
+&#xD;
+          -  Kidney disease (eGFR &lt;60 mL/minute/1.73 m2)&#xD;
+&#xD;
+          -  History of untreated thyroid dysfunction that may be independently associated with&#xD;
+             cognitive impairment&#xD;
+&#xD;
+          -  Uncontrolled tachy/brady arrhythmias, atrial fibrillation or coronary heart failure&#xD;
+&#xD;
+          -  Any medical condition that in the Investigator's judgement would affect patient safety&#xD;
+             and scientific integrity of the studySystemic related exclusions:&#xD;
+&#xD;
+          -  History of allergy or AE(s) associated with the study treatments, including lithium&#xD;
+             and salicylates&#xD;
+&#xD;
+          -  Pre-existing peptic ulcer, hemorrhagic gastritis, or duodenitis&#xD;
+&#xD;
+          -  Magnetic resonance imaging (MRI)-related exclusion criteria&#xD;
+&#xD;
+          -  Treatment with haloperidol&#xD;
+&#xD;
+          -  Hyponatremia&#xD;
+&#xD;
+          -  Suspected of having or at risk for Brugada Syndrome&#xD;
+&#xD;
+          -  Prescribed or over-the-counter use of a salicylate-containing product other than low&#xD;
+             dose aspirin for cardioprotection (eg, aspirin, bismuth sub-salicylate,&#xD;
+             salicylazosulfapyridine [sulfasalazine]) from 1 week before first dose to 1 week after&#xD;
+             last dosing; treatment with haloperidol&#xD;
+&#xD;
+          -  Aspirin/nasal polyposis/asthma syndrome&#xD;
+&#xD;
+        Inclusion criteria (Healthy Subjects):&#xD;
+&#xD;
+          -  Non-elderly (≥18 and &lt;65 years) and elderly (≥65 and ≤80 years) male and/or female&#xD;
+             adult subjects of any gender, race or ethnicity, determined to be generally in good&#xD;
+             physical health&#xD;
+&#xD;
+          -  Willingness to use contraceptive methods as appropriate&#xD;
+&#xD;
+        Exclusion criteria (Healthy Subjects)&#xD;
+&#xD;
+          -  Clinically significant abnormalities detected by medical history, physical&#xD;
+             examination, vital sign measurements, ECG findings, or clinical laboratory findings or&#xD;
+             any historical or present condition/ treatment that may prevent successful or safe&#xD;
+             study completion, including substance abuse, kidney disease (estimated glomerular&#xD;
+             filtration rate [eGFR] &lt;60 mL/minute/1.73 m2) or hyponatremia&#xD;
+&#xD;
+          -  Use of any medication on a chronic basis except an oral contraceptive, with&#xD;
+             appropriate washout of prescription, OTC, vitamins and herbal supplements&#xD;
+&#xD;
+          -  Female pregnant or planning to be pregnant, or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Eve Del Rio, MD</last_name>
+    <phone>908 672 6388</phone>
+    <email>Eve@RioPharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Donald P Reitberg, PhD</last_name>
+    <phone>973 699 3849</phone>
+    <email>DReitberg@Prodigy.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>iResearch Atlanta &amp; iResearch Savannah</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Monica Mahathre</last_name>
+      <phone>404-537-1281</phone>
+      <email>monica.mahathre@iresearchatlanta.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kimball A. Johnson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>April 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 2, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 5, 2022</study_first_posted>
+  <last_update_submitted>November 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

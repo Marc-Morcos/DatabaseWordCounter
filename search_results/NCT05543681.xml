@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2473">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05543681</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IGC-AD1-P2 BIDAG</org_study_id>
+    <nct_id>NCT05543681</nct_id>
+  </id_info>
+  <brief_title>IGC-AD1 Trial on Agitation in Dementia Due to Alzheimer's</brief_title>
+  <acronym>IGC-AD1-P2</acronym>
+  <official_title>A Phase 2, Multicenter, Double-Blind, Randomized, Placebo-Controlled, Trial of the Safety and Efficacy of IGC-AD1 on Agitation in Participants With Dementia Due to Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IGC Pharma LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>India Globalization Capital Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the efficacy of an oral medication, IGC-AD1 that is a&#xD;
+      natural THC-based (Tetrahydrocannabinol) formulation, administered in micro doses, twice a&#xD;
+      day, on symptomatological Agitation, in patients with mild to severe dementia from&#xD;
+      Alzheimer's.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a placebo-controlled, multi-site, parallel, double blind, randomized study.&#xD;
+      Enrollment is open for Participants ages 60 and above with mild to severe dementia due to&#xD;
+      Alzheimer's Disease, with established symptomatological Agitation, for a minimum of two weeks&#xD;
+      prior to enrollment, with Agitation due to other etiologies, or recent, or transient&#xD;
+      Agitation symptoms ruled out. Clinical Agitation is established with a baseline NPI-12&#xD;
+      (Agitation Domain only) score ≥ 4 as well as meeting the IPA criteria for Agitation.&#xD;
+&#xD;
+      The medication is titrated to BID over two days and down over two days at End of Trial (EOT).&#xD;
+      Caregivers will monitor and record in a logbook vitals daily using Sponsor provided scales&#xD;
+      and logbook.&#xD;
+&#xD;
+      Safety will be monitored with daily calls to the Participant/Caregiver dyad for the first&#xD;
+      four days followed by calls every third day till EOT. Week two is an on-site visit with&#xD;
+      week-four being optional.&#xD;
+&#xD;
+      Both solicited AEs and non-solicited AEs will be monitored, assessed, graded, and tabulated.&#xD;
+      Solicited AEs include the following: somnolence, falls, dizziness, asthenia, nausea, suicidal&#xD;
+      ideation, tachycardia, bradycardia, hypertension and hypotension, and BMI.&#xD;
+&#xD;
+      The primary objective of the study is to assess the efficacy of IGC-AD1 on Agitation as&#xD;
+      scored by the CMAI between baseline and EOT with the secondary objective being acute efficacy&#xD;
+      as measured by the CMAI between baseline and week two. There are several exploratory&#xD;
+      objectives included elsewhere. The trial will also have blood draws for sparse&#xD;
+      Pharmacokinetics (PK).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 11, 2022</start_date>
+  <completion_date type="Anticipated">November 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Multi-site, Randomized, double-blind, placebo-controlled parallel-group trial in adults with mild to severe dementia from Alzheimer's and symptomatological Agitation.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Double-blind for study site and participants</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Agitation</measure>
+    <time_frame>Baseline to week six</time_frame>
+    <description>Change in mean Cohen Mansfield Agitation Inventory (CMAI) score</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acute Agitation</measure>
+    <time_frame>Baseline to week two</time_frame>
+    <description>Change in mean Cohen Mansfield Agitation Inventory (CMAI) score</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Agitation at week four</measure>
+    <time_frame>Baseline to week four</time_frame>
+    <description>Change in mean Cohen Mansfield Agitation Inventory (CMAI) score</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Participant overall wellbeing</measure>
+    <time_frame>Baseline to weeks two and six</time_frame>
+    <description>Change in the Clinical Global Impression Scale (CGI)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Participant executive functions</measure>
+    <time_frame>Baseline to week six</time_frame>
+    <description>Change in Mini-Mental State Examination (MMSE2) score</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Depression</measure>
+    <time_frame>Baseline to weeks two, four, and six</time_frame>
+    <description>Change in mean Cornell Scale for Depression in Dementia (CSDD) score</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Neuropsychiatric symptoms</measure>
+    <time_frame>Baseline to weeks two, four, and six</time_frame>
+    <description>Change in mean Neuropsychiatric Inventory (NPI-12) score</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Participant quality of life</measure>
+    <time_frame>Baseline to weeks two, four and six</time_frame>
+    <description>Change in mean Quality of Life in Alzheimer's Disease (QOL-AD) score</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Caregiver burden</measure>
+    <time_frame>Baseline to weeks two and six</time_frame>
+    <description>Change in mean Zarit Burden Interview (ZBI) score</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Psychotropic drugs</measure>
+    <time_frame>Baseline to six weeks</time_frame>
+    <description>Change in type and dosage of psychotropic drugs</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>CYP2C9 polymorphisms on agitation</measure>
+    <time_frame>Baseline to weeks two, four and six</time_frame>
+    <description>Change in mean Cohen Mansfield Agitation Inventory (CMAI) score for each type of metabolizer group (*1/*1, *1/*3, etc.)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">164</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Agitation,Psychomotor</condition>
+  <condition>Depression</condition>
+  <condition>Anxiety</condition>
+  <condition>Memory Impairment</condition>
+  <condition>Care Giving Burden</condition>
+  <condition>NPS</condition>
+  <condition>Agitated; State, Acute Reaction to Stress</condition>
+  <condition>Aggression</condition>
+  <condition>Aggressive Outburst</condition>
+  <arm_group>
+    <arm_group_label>Active Comparator: IGC-AD1Active</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Active Treatment 2.5mg THC and 1.5mg Melatonin plus excipients in 1 ml oral liquid</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Comparator: IGC-AD1 Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, similar to Active in color, taste, texture, with excipients but without THC and Melatonin as 1 ml oral liquid</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anti-agitation in Alzheimer's dementia (IGC-AD1-Active)</intervention_name>
+    <description>A non-sterile solution for oral or sublingual administration.</description>
+    <arm_group_label>Active Comparator: IGC-AD1Active</arm_group_label>
+    <other_name>Active Study Drug</other_name>
+    <other_name>Study Drug</other_name>
+    <other_name>Active</other_name>
+    <other_name>IGC-AD1 Active</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anti-agitation in Alzheimer's dementia (IGC-AD1-Placebo)</intervention_name>
+    <description>A non-sterile solution for oral or sublingual administration similar in color and texture to the Active.</description>
+    <arm_group_label>Placebo Comparator: IGC-AD1 Placebo</arm_group_label>
+    <other_name>IGC-AD1 Placebo</other_name>
+    <other_name>Non-active study drug</other_name>
+    <other_name>IGC-AD1 Non-Active</other_name>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        To be eligible to participate in this study, an individual must meet all the following&#xD;
+        criteria:&#xD;
+&#xD;
+          1. Participant and/or Caregiver must provide a signed and dated Informed Consent Form&#xD;
+             (ICF) prior to any study procedures.&#xD;
+&#xD;
+          2. Must have a Caregiver who is able and willing to comply with all required study&#xD;
+             procedures.&#xD;
+&#xD;
+          3. The Caregiver must be known to the Participant and must be able to use electronic&#xD;
+             devices such as a cell phone, video conference over a laptop or cell phone, weighing&#xD;
+             scale, and be able to learn to take blood pressure, among others.&#xD;
+&#xD;
+          4. Based on local practice, Participants that cannot consent may have Caregiver's consent&#xD;
+             provided by the Caregiver as, among others a) Power of Attorney, or b) is a spouse, or&#xD;
+             c) a sibling or d) a child or e) a close relation. The practice of accepting consent&#xD;
+             must be consistent with established practice at the site and jurisdiction.&#xD;
+&#xD;
+          5. Participants must consent to CYP450 and apolipoprotein E (ApoE) genotyping,&#xD;
+             Pharmacokinetics and storage of blood samples for future genetic testing.&#xD;
+&#xD;
+          6. Diagnosis of Alzheimer's by National Institute on Aging and Alzheimer's Association&#xD;
+             (NIA-AA) criteria.&#xD;
+&#xD;
+          7. Clinically significant Agitation assessed by:&#xD;
+&#xD;
+               1. Neuropsychiatric Inventory (NPI (Agitation) ≥ 4.&#xD;
+&#xD;
+               2. The presence of clinically significant, persistent Agitation based on the&#xD;
+                  International Psychogeriatric Association (IPA) definition rather than those with&#xD;
+                  recent onset and occasional symptoms, and&#xD;
+&#xD;
+               3. Agitation not attributable to another psychiatric disorder, suboptimal care&#xD;
+                  conditions, other underlining medical condition, or the physiological effects of&#xD;
+                  a substance.&#xD;
+&#xD;
+          8. Negative drug screen, except for benzodiazepines if Participant has been using them in&#xD;
+             stable doses for at least 3 months before screening.&#xD;
+&#xD;
+          9. All medications used for behavioral symptoms should be in stable doses for at least 3&#xD;
+             months before screening.&#xD;
+&#xD;
+         10. Women must be of no childbearing potential (postmenopausal, defined as cessation of&#xD;
+             menses for at least 12 months, without an alternative medical cause for amenorrhea) or&#xD;
+             surgically sterile (hysterectomy, bilateral oophorectomy, or bilateral tubal&#xD;
+             ligation)).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        An individual who meets any of the following criteria will be excluded from participation&#xD;
+        in this study:&#xD;
+&#xD;
+          1. Prior adverse reaction to cannabinoids or to any component of study drug (IGC-AD1 and&#xD;
+             placebo): Tetrahydrocannabinol (THC), melatonin, honey, curcumin, ethyl alcohol,&#xD;
+             vitamin-E tocopheryl polyethylene glycol succinate (TPGS), ascorbic acid, water,&#xD;
+             tween-80, and rutin.&#xD;
+&#xD;
+          2. Serious or unstable medical illness, including cardiovascular, hepatic, renal,&#xD;
+             respiratory, endocrine, neurologic, hematologic disease, which might confound&#xD;
+             assessment of safety outcomes.&#xD;
+&#xD;
+          3. History of seizures, schizophrenia, or bipolar disorder.&#xD;
+&#xD;
+          4. Has participated in an investigational drug or device study within 30 days prior to&#xD;
+             study start.&#xD;
+&#xD;
+          5. Urine drug screen positive for drug use, except for benzodiazepines if Participant was&#xD;
+             using them previously and their dose had remained stable for at least 3 months before&#xD;
+             screening.&#xD;
+&#xD;
+          6. History of Alcohol and Drug use, excluding marijuana, within one year prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+          7. Hypertension: Participants with a history of uncontrolled hypertension as determined&#xD;
+             by the PI and Participants with a hypertensive crisis in the six months prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+          8. Falls: Participants with a history of recurrent falls defined as more than two falls&#xD;
+             in the six-month period prior to enrollment and a history of falls resulting in&#xD;
+             injuries or associated with a new acute illness, loss of consciousness, fever, or&#xD;
+             abnormal blood pressure (the definition of recurrent falls is taken from American&#xD;
+             Family Physician (AFP).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Saadia Shahnawaz, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>IGC Pharma LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Evelyn Gutierrez, BE</last_name>
+    <phone>3013394270</phone>
+    <email>Egutierrez@igcinc.us</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ram Mukunda, MS</last_name>
+    <phone>3015294996</phone>
+    <email>ram@igcinc.us</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Instituto Sancoop</name>
+      <address>
+        <city>Bayamon</city>
+        <zip>00961</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natalia Hernandez, MBA</last_name>
+      <phone>7876256111</phone>
+      <phone_ext>1721</phone_ext>
+      <email>nhernandez@ccsb.coop</email>
+    </contact>
+    <investigator>
+      <last_name>Dr. Ismail Toro, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Cruz Behavioral</name>
+      <address>
+        <city>Bayamón</city>
+        <zip>00961</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ivelisse Rojas</last_name>
+      <phone>7877984592</phone>
+      <email>irojas@santacruzbehavioral.com</email>
+    </contact>
+    <investigator>
+      <last_name>Dr. William Julio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2022</study_first_posted>
+  <last_update_submitted>November 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 9, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cannabis</keyword>
+  <keyword>Tetrahydrocannabinol</keyword>
+  <keyword>THC</keyword>
+  <keyword>Melatonin</keyword>
+  <keyword>Alzheimer's</keyword>
+  <keyword>Marijuana</keyword>
+  <keyword>Hemp</keyword>
+  <keyword>Agitation</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Depression</keyword>
+  <keyword>Anxiety</keyword>
+  <keyword>Memory</keyword>
+  <keyword>NPI</keyword>
+  <keyword>CMAI</keyword>
+  <keyword>Dronabinol</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Psychomotor Agitation</mesh_term>
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Aggression</mesh_term>
+    <mesh_term>Stress Disorders, Traumatic, Acute</mesh_term>
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

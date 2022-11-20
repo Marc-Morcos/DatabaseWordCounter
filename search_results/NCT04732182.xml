@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="789">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04732182</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Telerehab AD Feasibility</org_study_id>
+    <secondary_id>R43AG065035</secondary_id>
+    <nct_id>NCT04732182</nct_id>
+  </id_info>
+  <brief_title>Telerehabilitation Alzheimer's Disease Feasibility (TADF)</brief_title>
+  <acronym>TADF</acronym>
+  <official_title>Telerehabilitation Combining Virtual Reality Adaptable Games and Drug Therapy for Early Alzheimer's Disease - Feasibility</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bright Cloud International Corp</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rutgers, The State University of New Jersey</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bright Cloud International Corp</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot RCT with equal arms: experimental arm and (wait list) control arm.&#xD;
+&#xD;
+      All participants will be in the early stage of Alzheimer's disease and on stable medication.&#xD;
+      They will all continue with this medication for their 6 months participation.&#xD;
+&#xD;
+      Experimental group will add weekly training on the experimental device, 5 days a week for 8&#xD;
+      weeks. Training will involve therapeutic games aimed primarily at the memory cognitive&#xD;
+      domain. All participants will receive weekly calls from clinical coordinator and report on&#xD;
+      medication and overall health. Caregivers will also be enrolled so they support the trials.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will be randomized equally into an experimental group and a wait list control&#xD;
+      group.&#xD;
+&#xD;
+      Experimental training will occur in the home, and will last 8 weeks, each week having 5&#xD;
+      sessions of therapeutic game play. Each session will start with vitals being measured and&#xD;
+      logged followed by motor and biosensor baselines. Subsequently, participants will play an&#xD;
+      increasing number of games, targeted at the major cognitive domains of memory (primarily),&#xD;
+      attention and executive functions. Since sessions will increase in length, researchers expect&#xD;
+      that more than 10 short games may eventually be played in each session.&#xD;
+&#xD;
+      This will be an ABAA protocol for the experimental group, and a AABA protocol for the&#xD;
+      wait-list control group. Data will be sampled at baseline (A), during each rehabilitation&#xD;
+      session (B), mid-way through the study (at 2 months from baseline) and at the end of the&#xD;
+      study, at 4 months from baseline (A).&#xD;
+&#xD;
+      At the end of every 4 weeks of BrightGo training, the participant and caregiver will each&#xD;
+      fill a custom subjective evaluation questionnaire.&#xD;
+&#xD;
+      Before crossover to the experimental protocol, participants in the wait-list group will&#xD;
+      continue with their daily routine and prescribed medication (which will be logged). After&#xD;
+      crossing over, they will add the BrightGo intervention to their daily routine.&#xD;
+&#xD;
+      Participants initially randomized to the experimental group will continue with daily routine&#xD;
+      and medication, and add the 5 sessions per week of experimental therapy. Once they cross over&#xD;
+      to the control arm after 8 weeks from start, they will continue with their daily routine and&#xD;
+      prescribed medication (which will again be logged) for another 8 weeks.&#xD;
+&#xD;
+      All participants will receive a weekly call from the Clinical Coordinator so to report on any&#xD;
+      health concerns and system issues, as well as medication use. Caregivers will also be&#xD;
+      enrolled so they support the trials.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 16, 2022</start_date>
+  <completion_date type="Anticipated">February 28, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Pilot RCT. Participants are randomized equally into the experimental group and a wait-list control group. Randomization will be based on a randomization table prepared by a contracted bio-statistician.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Outcomes Assessor will not be told which group the participant is part of, so not be biased in evaluations.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in visual attention as measured by Neuropsychological Assessment Battery</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Visual attention measured with the dots test of the Neuropsychological Assessment Battery (NAB). This is a delayed recognition span paradigm, in which an array of dots is exposed for a brief period, followed by a blank interference page, followed by a new array with one additional dot. The subject needs to point to the &quot;new&quot; dot. Test administered 3 times, minimum score 0 (none of the new dots found) to maximum 3 (all 3 new dots found). [Hartman 2006]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Controlled Oral Word Change in language and executive function as measured by the Association Test (CFL/PRW) of the Multilingual Aphasia Examination</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>measure of language and executive function [Benton &amp; Hamsher, 1994]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Cognitive executive function assessment score</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Trail Making Test B (TMT-B), NAB Executive Functioning Module. This is a timed test (seconds) with less time indicative of better executive function [Raitan 1958]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in verbal memory as measured by Hopkins Verbal Learning Test, Revised (HVLT-R)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Hopkins Verbal Learning Test, Revised (HVLT-R) is a measure of verbal memory. It provides a brief assessment of immediate recall, delayed recall and delayed recognition. Subject is read a series of nouns in several categories, and the asked t repeat these nouns by writing them on a piece of paper. The test is repeated three times, and each time the score is a count of how many nouns were remembered by the subject. The second phase of the test involves delayed recall, which is administered after about 20 minutes from the original test. subject needs to write down all the nouns they remembered and these are counted. There is a maximum of 12 correct responses during delayed recall, so max score is 12 [Brandt 1991]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in visuospatial memory as measured by Brief Visuospatial MemoryTest, Revised (BVMT-R)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>BVMT-R is a measure of visuospatial memory. In three Learning Trials, the subject views a stimulus page showing an geometric figure for 10 seconds, and there are 6 drawings presented. Then the subject is asked to draw as many of the figures as possible in their correct location on a page in the response booklet. A Delayed Recall Trial is administered after a 25-minute delay. Last, a Recognition Trial, in which the respondent is asked to identify which of 12 figures were included among the original geometric figures, is administered. Raw scores will be used, with higher numbers representing better outcomes [Benedict et al., 1996].</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Beck Depression Inventory II (BDI II) score, a measure of depression severity</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>participants' depression measure with higher scores indicating higher severity (worse mood). Score range is 0 to 63, with 0 indicating normal mood (no depression), 1-13 minimal depression, 14-19 mild depression, 20-28 for moderate and 29-63 severe depression.[Beck 1996]</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in the participant's quality of life as measured by the Quality of Life in Alzheimer's Disease Patient Version (QoL-AD)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Questionnaire measures Quality of life for AD individuals (QoL-AD) [Longsdon 1996] The questionnaire has 13 items, each with a 4 possible outcomes (poor 1 point to Excellent 4 points). The score trance is 13 (worst) to 52 points representing the best outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional Activities Questionnaire in Older Adults with Dementia</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Questionnaire for AD patient independence in daily activities [Mayo 2016] The questionnaire has 10 items, each with a 4 possible outcomes (normal 0 points to Dependent 3 points). The score trance is 0 (best outcome) to 30 points representing the worst outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Test of Premorbid Functioning (TOPF)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>The Advanced Clinical Solutions Test of Premorbid Functioning (TOPF) is a word reading test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Controlled Oral Word Association Test (CFL/PRW) of the Multilingual Aphasia Examination</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Test measures Language and executive function [Benton &amp; Hamsher, 1994] RANGE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Categorical verbal fluency (Animal Naming)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Test measures Language and executive function [Tombaugh et al., 1999] RANGE</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life in Alzheimers Disease (QoL-AD), Family Version</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>The Quality of Life in Alzheimers Disease (QoL-AD) is comprised of 13 items (physical health, energy, mood, living situation, memory, family, marriage, friends, self as a whole, ability to do chores, ability to do things for fun, money and life as a whole). Response options include 1(poor), 2(fair), 3(good) and 4 (excellent), for a total score of 13-52, with higher scores indicating better QoL.[Longsdon 1996]. Score range is 13 (worst outcome) to 52 (best outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Grasp strength (Jamar dynamometer)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Measure of sustained power grasping force. Three readings on a Jamar dynamometer are averaged. Higher values indicate more abbility to grasp forcefully (a better outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pinch strength (Jamar pinch meter)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Measure of sustained pinch force. Three readings on a Jamar pinch meter are averaged. Higher values indicate more abbility to pinch forcefully (a better outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Shoulder strength</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Measure of deltoid muscle strength, measured using wrist weights. Higher values indicate more shoulder strength (a better outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Arm range of motion (goniometer)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Measure of upper extremity range of motion, measured using a mechanical goniometer. Higher values indicate more arm reach (a better outcome).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Jebsen test of hand function</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Timed battery of 7 simulated ADLs. Each task is timed with a stop watch, with faster tack execution being a better outcome. Score range for each task is 1 second (best) to 180 seconds (worst - unable to execute task).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chedokee test or independence in bimanual activities (CAHAI-9)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>Test has 9 simulated bimanual activities. Each task is scored in the amount of assistance needed to execute it, with a score range for each task of 1 (worst) to 7 (best). Total score range is 9 (worst) to 63 (best).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>University of Pennsylvania Smell Identification Test (UPSIT)</measure>
+    <time_frame>at baseline, at 8 weeks from baseline (2 months),and at 16 weeks from baseline (4 months)</time_frame>
+    <description>This test is a standardized measure of olfactory identification accuracy, done by scratching odor generating special paper. is also a four choice multiple choice question on each page. The scents are released using a pencil. After each scent is released, the patient smells the level and detects the odor from the four choices. Higher score indicate better olfaction (better outcome). Minimum score is 0, Maximum score is 40</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective evaluation of BrightGo system and therapy</measure>
+    <time_frame>For experimental group test is at 4, and 8 weeks from baseline. For cross-over controlles test is at 12 and 16 weeks from baseline.</time_frame>
+    <description>Subjective evaluation on a 5-point Likert scale of system and perceived benefits by participant and by caregiver. The score range is 1 (worst outcome) to 5 (best outcome)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Cybersickness Susceptibility Questionnaire</measure>
+    <time_frame>at enrollment (20 minutes)</time_frame>
+    <description>Form used at screening post-consent to determine a participant's propensity for Determine propensity for simulation sickness [Freiwald et al 2020]. The questionnaire asks participants 13 general health and fitness questions (with yes/no answers) and to score 13 symptoms of cybersickness on a five point scale (0-4). Score range is 0 (best outcome - no likelihood of experiencing simulation sickness with the device) to 52 (worst outcome - certainty participant will experience severe simulation sickness).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Montreal Cognitive Assessment (MoCA) to measure level of cognitive impairment</measure>
+    <time_frame>at enrollment (20 minutes)</time_frame>
+    <description>Used at screening post-consent to determine level of cognitive impairment [Nasreddine et al 2005] for participants. The form has a score range from 0 (worst) to 30 (best) - no cognitive impairments. The form will confirm a participant is in the score range of 19-25 range for early Alzheimer's disease.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pulse</measure>
+    <time_frame>Before and after each of experimental session. For 3 months post-baseline for experimental group, or starting at 3 months from baseline for controll group. After cross over control group will take pulse for 3 months.</time_frame>
+    <description>Hart rate measured with medical meter</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood pressure</measure>
+    <time_frame>Before and after each of experimental session. For 3 months post-baseline for experimental group. For control group it starts at 3 months from baseline for 3 more months.</time_frame>
+    <description>Systolic and Diastolic Blood pressure, measured with medical meter</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Game score</measure>
+    <time_frame>During each experimental session. For 2 months post-baseline for experimental group. For control group it starts at 3 months from baseline for 3 more months.</time_frame>
+    <description>Score obtained by participant for each game played on the BrightGo system are converted to percent, with 0 percent being the worst outcome and 100 percent being the best outcome.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Head Movement</measure>
+    <time_frame>During each experimental session. For 2 months post-baseline for experimental group. For control group it starts at 3 months from baseline for 3 more months.</time_frame>
+    <description>Obtained by participant Head Mounted Display during the BrightGo sessions.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Biosensor measure (eye blink)</measure>
+    <time_frame>During each experimental session. For 2 months post-baseline for experimental group. For control group it starts at 3 months from baseline for 3 more months.</time_frame>
+    <description>Eye blink rates measured during game play.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Game difficulty</measure>
+    <time_frame>During each experimental session. For 2 months post-baseline for experimental group. For control group it starts at 3 months from baseline for 3 more months.</time_frame>
+    <description>For each game played in an experimental session the system stores its difficulty level. This has a range of 1 (lowest difficulty) to 16 (highest difficulty)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Biosensor measure (skin resistance)</measure>
+    <time_frame>During each experimental session. For 2 months post-baseline for experimental group. For control group it starts at 3 months from baseline for 3 more months.</time_frame>
+    <description>During an experimental session we store the skin resistance of the participant measured with a custom galvanic skin response system.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">14</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Healthy Aging</condition>
+  <arm_group>
+    <arm_group_label>Standard of care medication for early Alzheimer's disease and BrightGo device cognitive training</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the experimental group will have standard of care and 8 weeks of experimental computer-based therapy on the device. Then they will cross over in the control arm. Total participation 4 months during which they will be on Aricept 10 mg daily or Exelon 9.5 mg patch.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care medication for early Alzheimer's disease</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Wait list controls will have standard of care only, before they cross over into the experimental group for BrightGo therapy. Total participation 4 months during which they will be on Aricept 10 mg daily or Exelon 9.5 mg patch.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>BrightGo cognitive training</intervention_name>
+    <description>Training on the BrightGo experimental device in the home</description>
+    <arm_group_label>Standard of care medication for early Alzheimer's disease and BrightGo device cognitive training</arm_group_label>
+    <other_name>Gamification for cognitive therapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of Care medication for early Alzheimer's Disease</intervention_name>
+    <description>Participant takes 10 mg of Aricept daily or wears an Exelon 9.5 mg patch and is stable on one of these medications that were prescribed for diagnostic of early Alzheimer's Disease</description>
+    <arm_group_label>Standard of care medication for early Alzheimer's disease</arm_group_label>
+    <arm_group_label>Standard of care medication for early Alzheimer's disease and BrightGo device cognitive training</arm_group_label>
+    <other_name>Aricept 10 mg daily or Exelon 9.5 mg patch</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 65 to 85;&#xD;
+&#xD;
+          -  Diagnosis of early Alzheimer's (Montreal Cognitive Assessment [MoCA] score of 19-25)&#xD;
+             [Nasreddine et al 2005].&#xD;
+&#xD;
+          -  English speakers;&#xD;
+&#xD;
+          -  Ability to actively move UE and to flex/extend fingers;&#xD;
+&#xD;
+          -  Stable on Aricept 10 mg daily intake or Exelon 9.5 mg patch medication&#xD;
+&#xD;
+          -  Able to consent;&#xD;
+&#xD;
+          -  Living in the community in Central Jersey so to facilitate researchers travel to home&#xD;
+             for system installation and/or repairs,&#xD;
+&#xD;
+          -  Living with a caregiver willing to support trials and be present during sessions;&#xD;
+&#xD;
+          -  Good upper extremity motor function, close to full range of movement of arms and&#xD;
+             fingers.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Those younger than 65;&#xD;
+&#xD;
+          -  Participating in other research studies;&#xD;
+&#xD;
+          -  Severe visual impairments or legally blind;&#xD;
+&#xD;
+          -  Severe hearing loss or deafness;&#xD;
+&#xD;
+          -  Uncontrolled hypertension (&gt;190/100 mmHg);&#xD;
+&#xD;
+          -  Severe cognitive delay (MoCA &lt;19);&#xD;
+&#xD;
+          -  non-English speakers;&#xD;
+&#xD;
+          -  Those unable to provide consent;&#xD;
+&#xD;
+          -  Unable to move arms and fingers, or with severe arthritis;&#xD;
+&#xD;
+          -  Severe propensity to simulation sickness;&#xD;
+&#xD;
+          -  Those who are not cooperative with the evaluations pre-study ;&#xD;
+&#xD;
+          -  Those who cannot produce reliable scores on the neuropsychological pre-study&#xD;
+             assessment because they do not comprehend the test, or have severe speech impairment;&#xD;
+&#xD;
+          -  Those not living with a caregiver willing to support trials, and caregiver unwilling&#xD;
+             or unable to be present during sessions;&#xD;
+&#xD;
+          -  Those that are unwilling allow home inspections to ascertain internet conditions in&#xD;
+             the home, to determine best placement for the experimental system, to install and&#xD;
+             remove system, and to provide repairs if needed.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Grigore C. Burdea, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Bright Cloud International</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Grigore C Burdea, PhD</last_name>
+    <phone>9084069334</phone>
+    <email>diplomatru@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Edward A Berde, MS</last_name>
+    <phone>7326400400</phone>
+    <email>ed@brightcloud.health</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rutgers, The State University of New Jersey</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901-2066</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jasdeep S Hundal, PsyD</last_name>
+      <phone>732-235-6332</phone>
+      <email>jsh164@rwjms.rutgers.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daniel Valdivia, B.S.</last_name>
+      <phone>2013164424</phone>
+      <email>djv85@gsbs.rutgers.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jasdeep S Hundal, PsyD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bright Cloud Int'l Corp</name>
+      <address>
+        <city>North Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Grigore C Burdea, PhD</last_name>
+      <phone>908-406-9334</phone>
+      <email>diplomatru@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Edward A Berde, MS</last_name>
+      <phone>732-640-0400</phone>
+      <email>ed@brightcloud.health</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Grigore C Burdea, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>January 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 1, 2021</study_first_posted>
+  <last_update_submitted>April 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Virtual Reality</keyword>
+  <keyword>BrightGo</keyword>
+  <keyword>Caregiver</keyword>
+  <keyword>Elderly</keyword>
+  <keyword>Aricept</keyword>
+  <keyword>Exelon</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Donepezil</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>We will not share individual participant's data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="184">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05383183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DWB-CA400</org_study_id>
+    <nct_id>NCT05383183</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of ChOline ALfoscerate in Patient With Mild to Moderate Alzheimer's Disease</brief_title>
+  <acronym>COALA</acronym>
+  <official_title>A Multi-center, Randomized, Double-blind, Placebo-controlled, Phase IV Trial to Evaluate the Efficacy and Safety of Choline Alfoscerate in Patients With Mild to Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daewoong Bio Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Daewoong Bio Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether combination of donepezil, a cholinesterase&#xD;
+      inhibitor, with choline alfoscerate has a more favourable clinical profile than monotherapy&#xD;
+      with donepezil alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Aging population is a characteristic feature of demographic trends in developed countries.&#xD;
+      Hence, Alzheimer's disease is recognized as one of today's major healthcare challanges, and&#xD;
+      its significance will increase even more as the longevity of the population increases.&#xD;
+      Pre-clinical investigations have suggested that association between ChE-Is (cholinesterase&#xD;
+      inhibitors) and the cholinergic precursor choline alfoscerate enhances cholinergic&#xD;
+      neurotransmission more effectively than single compounds alone. This clinical trial is&#xD;
+      designed to assess if combination of the ChE-I donepezil with choline alfoscerate has a more&#xD;
+      favorable clinical proﬁle than monotherapy with donepezil alone.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 13, 2022</start_date>
+  <completion_date type="Anticipated">December 9, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in ADAS-Cog scores</measure>
+    <time_frame>48 weeks from baseline</time_frame>
+    <description>ADAS-cog change at 12 and 24 weeks from baseline&#xD;
+Changes in ADAS-Cog scores at 48 weeks from baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in ADAS-Cog scores</measure>
+    <time_frame>Time Frame: 12, 24 weeks from baseline</time_frame>
+    <description>Changes in ADAS-Cog scores at 12, 24 weeks from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in ADCOMS scores</measure>
+    <time_frame>12, 24, and 48 weeks from baseline</time_frame>
+    <description>Changes in ADCOMS scores at 12, 24 and 48 weeks from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in K-IADL scores</measure>
+    <time_frame>12, 24, and 48 weeks from baseline</time_frame>
+    <description>Changes in K-IADL scores at 12, 24 and 48 weeks from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in CDR-SB scores</measure>
+    <time_frame>12, 24, and 48 weeks from baseline</time_frame>
+    <description>Changes in CDR-SB scores at 12, 24 and 48 weeks from baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in K-MMSE-2 scores</measure>
+    <time_frame>12, 24, and 48 weeks from baseline</time_frame>
+    <description>Changes in K-MMSE-2 scores at 12, 24 and 48 weeks from baseline</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">630</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Choline Alfoscerate 1,200mg + Donepezil 5mg or 10mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Oral administration of choline alfoscerate 400mg TID, donepezil QD (evening) for 48 weeks, no dosage change during trial period</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo + Donepezil 5mg or 10mg</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Oral administration of placebo TID, donepezil QD (evening) for 48 weeks, no dosage change during trial period</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Choline Alfoscerate 400mg</intervention_name>
+    <description>Oral administration</description>
+    <arm_group_label>Choline Alfoscerate 1,200mg + Donepezil 5mg or 10mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Oral administration</description>
+    <arm_group_label>Placebo + Donepezil 5mg or 10mg</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        &lt;Screening Inclusion Criteria&gt;&#xD;
+&#xD;
+          1. 50 ≤ Age ≤ 85 at time of screening&#xD;
+&#xD;
+          2. Diagnosed as a probable Alzheimer Dementia patient according to the NINCDS-ADRDA&#xD;
+             (National Institute of Neurological and Communicative Disorders and Stroke and the&#xD;
+             Alzheimer's Disease and Related Disorders Association) criteria&#xD;
+&#xD;
+          3. 10 ≤ K-MMSE-2 score ≤ 26 at time of screening&#xD;
+&#xD;
+          4. 0.5 ≤ CDR score ≤ 2 at time of screening&#xD;
+&#xD;
+          5. Administration of donepezil 5 mg or 10 mg without dose change for at least 3 months at&#xD;
+             time of screening&#xD;
+&#xD;
+          6. Ability to walk or to move using a walking aid (i.e. senior walker, cane, or&#xD;
+             wheelchair)&#xD;
+&#xD;
+          7. Presence of a caregiver who regularly spends time with the patient and can accompany&#xD;
+             the patient to hospital visits&#xD;
+&#xD;
+             - The caregiver must spend at least 8 hours per week with the patient&#xD;
+&#xD;
+               -  The caregiver should be able to supervise trial compliance and report subject&#xD;
+                  status to the investigator&#xD;
+&#xD;
+          8. Sufficient visual acuity, hearing, language ability, motor function and comprehension,&#xD;
+             as judged by the investigator, to follow the examination procedure (auxiliary devices&#xD;
+             such as glasses and hearing aids are permitted)&#xD;
+&#xD;
+          9. Voluntarily decision to participate in this clinical trial from both the subject and&#xD;
+             the subject's legal representative&#xD;
+&#xD;
+        &lt;Randomization Inclusion Criteria&gt;&#xD;
+&#xD;
+          1. 10 ≤ K-MMSE-2 score ≤ 26 at time of randomization&#xD;
+&#xD;
+          2. Compliance with donepezil ≥ 80% during run-in&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        &lt;Screening Exclusion Criteria&gt;&#xD;
+&#xD;
+          1. Dementia due to other causes including:&#xD;
+&#xD;
+             - Probable vascular dementia according to NINDS-AIREN criteria&#xD;
+&#xD;
+               -  Infection of the central nervous system (eg HIV, syphilis, etc.)&#xD;
+&#xD;
+               -  Head trauma&#xD;
+&#xD;
+               -  Creutzfeld-Jacob disease&#xD;
+&#xD;
+               -  Pixie's disease&#xD;
+&#xD;
+               -  Huntington's disease&#xD;
+&#xD;
+               -  Parkinson's disease&#xD;
+&#xD;
+               -  Drug addiction and/or Alcoholism&#xD;
+&#xD;
+          2. Patients with other major structural brain diseases (strategic cerebral infarction,&#xD;
+             subdural hematoma, traffic hydrocephalus, brain tumor) and/or evidence (CT or MRI&#xD;
+             results performed within the past 12 months or at screening) as the cause of dementia&#xD;
+             (provided that (Excluding lacunar cerebral infarction with a diameter of less than 1&#xD;
+             cm in the area judged not to be related to cognitive function)&#xD;
+&#xD;
+          3. 3 ≤ New Rating Scale for ARWMC (Age-Related White Matter Changes) score within 12&#xD;
+             months of screening&#xD;
+&#xD;
+          4. Myocardial infarction, unstable angina pectoris, orthostatic hypotension or&#xD;
+             unexplained syncope within 12 months of screening, hospitalization for arrhythmia, or&#xD;
+             moderate to severe congestive heart failure (NYHA class III or IV), clinically&#xD;
+             Patients with significant structural heart disease (valvular disease, hypertrophic&#xD;
+             cardiomyopathy)&#xD;
+&#xD;
+          5. Serious mental disorders such as severe depression, schizophrenia, alcoholism, and&#xD;
+             drug dependence&#xD;
+&#xD;
+          6. History of malignant tumor within 5 years of screening. (However, enrollment is&#xD;
+             allowed if any of the following applies:)&#xD;
+&#xD;
+               -  More than 5 years since completion of treatment for tumor&#xD;
+&#xD;
+               -  Basal cell carcinoma, squamous cell carcinoma of the skin, or prostate cancer&#xD;
+&#xD;
+          7. Genetic problems such as galactose intolerance, lapp lactase deficiency or glucose&#xD;
+             galactose malabsorption&#xD;
+&#xD;
+          8. Gastrointestinal diseases (inflammatory bowel disease, etc.) that may affect the&#xD;
+             absorption of clinical investigational drugs&#xD;
+&#xD;
+          9. Administration of other dementia treatments (galantamine, rivastigmine, memantine)&#xD;
+             than donepezil within 3 months of screening&#xD;
+&#xD;
+         10. Administration of brain function improving drugs (citicoline, oxiracetam, piracetam,&#xD;
+             choline alfoscerate, Nicergoline, Nimodipine, ginko-biloba, acetyl-l carnitine, etc.)&#xD;
+             within 1 month of screening&#xD;
+&#xD;
+         11. Administration of dementia treatments, brain function improving agents, central&#xD;
+             nervous system stimulants, anticholinergics, tricyclic antidepressants, classic&#xD;
+             antipsychotics, and hypnotics (excluding short-acting hypnotics) other than&#xD;
+             experimental drugs during trial period&#xD;
+&#xD;
+         12. Administration of atypical antipsychotics, anxiolytics, antidepressants (except&#xD;
+             tricyclic antidepressants), thyroid hormones, short-acting hypnotics, hormone&#xD;
+             replacement therapy, vitamin E, vitamin B12 supplements, antiparkinsonian drugs, and&#xD;
+             cholinergic drugs during trial period (However, enrollment is allowed if all of the&#xD;
+             following apply:)&#xD;
+&#xD;
+             - Administration without any changes in dosage within 2 months of randomization&#xD;
+&#xD;
+             - Administration without any changes in dosage during trial period&#xD;
+&#xD;
+             - except for PRN drugs&#xD;
+&#xD;
+         13. Hypersensitivity to clinical investigational drugs (choline alfoscerate, donepezil),&#xD;
+             its components, or piperidine derivatives&#xD;
+&#xD;
+         14. Possibility of dementia due to abnormalities in vitamin B12, folic acid, and thyroid&#xD;
+             stimulating hormone (TSH) levels&#xD;
+&#xD;
+         15. Abnormalities in blood tests at screening:&#xD;
+&#xD;
+             - Liver dysfunction: AST or ALT ≥ 3 times the upper limit of normal range&#xD;
+&#xD;
+             - Renal dysfunction: Creatinine clearance* &lt; 25 mL/min/1.73 m2&#xD;
+&#xD;
+             *MDRD Formula Creatinine clearance (mL/min/1.73m2)= 175 × {serum Creatinine (mg/dL)}-&#xD;
+             1.154 × (Age)-0.203 × 0.742 (for female only)&#xD;
+&#xD;
+         16. Uncontrolled hypertension (SBP&gt;180 mmHg)&#xD;
+&#xD;
+         17. Illitera&#xD;
+&#xD;
+         18. Pregnancy and lactation&#xD;
+&#xD;
+         19. In case of a woman, a patient who does not fall under any of the following:&#xD;
+&#xD;
+               -  Menopause for at least 2 years at time of screening&#xD;
+&#xD;
+               -  Contraceptive through surgical methods&#xD;
+&#xD;
+         20. Deemed inappropriate for enrollment by the investigator for other reasons&#xD;
+             &lt;Randomization Exclusion Criteria&gt;&#xD;
+&#xD;
+        1) Abnormalities in blood tests at time of randomization&#xD;
+&#xD;
+          -  Liver dysfunction: AST or ALT ≥ 3 times the upper limit of normal range&#xD;
+&#xD;
+          -  Renal dysfunction: Creatinine clearance* &lt; 25 mL/min/1.73 m2 *MDRD Formula Creatinine&#xD;
+             clearance (mL/min/1.73m2)= 175 × {serum Creatinine (mg/dL)}- 1.154 × (Age)-0.203 ×&#xD;
+             0.742 (for female only) 2) Uncontrolled hypertension (SBP&gt;180 mmHg) at the time of&#xD;
+             randomization 3) Administration of other investigational drugs within the past 3&#xD;
+             months from the time of randomization 4) Deemed inappropriate for enrollment by the&#xD;
+             investigator for other reasons&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Yunjae Ahn</last_name>
+    <phone>+82-550-8191</phone>
+    <email>yjahn@daewoong-bio.co.kr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Changwon Fatima Hospital</name>
+      <address>
+        <city>Changwon</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jay-Cheol Kwon</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gachon University Gil Medical Center</name>
+      <address>
+        <city>Incheon</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ki Hyung Park</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHA Bundang Medical Center</name>
+      <address>
+        <city>Seongnam</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hyun Sook Kim</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Catholic University of Korea Seoul ST.MARY'S Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dong-Won Yang, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>December 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 20, 2022</study_first_posted>
+  <last_update_submitted>May 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 20, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Choline</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

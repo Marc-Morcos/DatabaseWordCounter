@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="946">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05189210</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GV1001-AD-CL2-007</org_study_id>
+    <nct_id>NCT05189210</nct_id>
+  </id_info>
+  <brief_title>GV1001 Subcutaneous(SC) for the Treatment of Mild to Moderate Alzheimer's Disease (AD)</brief_title>
+  <official_title>A Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Design, Prospective, 52-Week, Phase 2 Clinical Study to Evaluate the Safety and Efficacy of GV1001 Administered Subcutaneously for the Treatment of Mild to Moderate AD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GemVax &amp; Kael</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GemVax &amp; Kael</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current study is being conducted by the Sponsor to evaluate the efficacy and safety of&#xD;
+      GV1001 (0.56 mg and 1.12 mg) administered subcutaneously as a treatment for mild to moderate&#xD;
+      Alzheimer's disease (AD). Studies using in vivo and in vitro AD models have shown that GV1001&#xD;
+      inhibits neurotoxicity, apoptosis, and the production of reactive oxygen species induced by&#xD;
+      amyloid beta (Aβ) in neural stem cells by mimicking the extra-telomeric functions of human&#xD;
+      telomerase reverse transcriptase (hTERT). In nonclinical studies, using both mild (early&#xD;
+      stage) and severe (late stage) AD mouse models, GV1001 was shown to improve cognitive&#xD;
+      function and memory, as well as significantly reduce the amount of Aβ and tau proteins. The&#xD;
+      multifunctional effect of GV1001 makes it a promising therapeutic option for the treatment&#xD;
+      for AD. In a completed Phase 2 study conducted in Korea, GV1001 showed significant&#xD;
+      improvement in change from baseline of Severe Impairment Battery score at Week 24 and&#xD;
+      demonstrated a clinically acceptable safety profile in patients with moderate to severe AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multicenter, randomized, double-blind, placebo-controlled, parallel-group Phase 2&#xD;
+      study in participants with mild to moderate AD. The study will consist of a screening visit&#xD;
+      (up to 60 days prior to first dose), a 52-week double-blind treatment period, and an&#xD;
+      end-of-study (EOS) visit 2 weeks after the last dose of study drug. Eligible participants&#xD;
+      will be randomized in a 1:1:1 ratio to receive GV1001 0.56 mg, GV1001 1.12 mg, or placebo&#xD;
+      (normal saline) every week for 4 weeks beginning on Day 1 (of Week 1) followed by every 2&#xD;
+      weeks through Week 50.&#xD;
+&#xD;
+      Prior to randomization, eligibility of potential participants will be confirmed through an&#xD;
+      adjudication process in which screening data (eg, MMSE, magnetic resonance imaging/computed&#xD;
+      tomography [MRI/CT] scans) obtained to evaluate AD status are reviewed by a central&#xD;
+      independent adjudicator. The central independent adjudicator will review the scoring sheet&#xD;
+      completed by the Investigator prior to randomization and provide an independent assessment of&#xD;
+      the participant's eligibility and may request exclusion of a participant from entry into the&#xD;
+      study. A central independent reader will review MRI and/or CT scans to confirm eligibility.&#xD;
+      Investigators must not randomize a participant prior to receipt of this independent&#xD;
+      confirmation of the participant's eligibility. Results from Aβ positron emission tomography&#xD;
+      (PET) scan or cerebrospinal fluid (CSF) examination performed within the 2 years prior to&#xD;
+      screening will also be used to confirm eligibility. If no Aβ PET scan or CSF examination&#xD;
+      results are available, participants will undergo an Aβ PET scan at screening.&#xD;
+&#xD;
+      If a participant discontinues treatment prematurely, the participant will be asked to&#xD;
+      continue with the scheduled study visits until the EOS visit. If a participant discontinues&#xD;
+      the study prematurely (except for those who withdraw their consent), the participant will be&#xD;
+      asked to come for an early termination (ET) visit for efficacy scale and safety assessments.&#xD;
+      These assessments are the same as those scheduled at the primary endpoint (PE) visit at Week&#xD;
+      52. If the ET visit takes place within 4 weeks after a completed protocol scheduled visit&#xD;
+      with efficacy assessments, efficacy scale assessments are not required at the ET visit.&#xD;
+&#xD;
+      For an individual participant, the maximum duration of study participation is approximately&#xD;
+      14.5 months, including an up to 60-day screening period.&#xD;
+&#xD;
+      An independent Data and Safety Monitoring Board (DSMB) review to evaluate safety data will be&#xD;
+      performed when at least 90 participants (50%) have either completed Week 26 or have&#xD;
+      discontinued the study. The DSMB may recommend early stopping of the study for safety&#xD;
+      reasons.&#xD;
+&#xD;
+      Efficacy evaluations will be performed at baseline, Week 12, Week 26, Week 38, and Week 52&#xD;
+      using the cognitive subscale of the Alzheimer's Disease Assessment Scale [ADAS-cog11]),&#xD;
+      assessment of activities of daily living (ie, Amsterdam Instrumental Activities of Daily&#xD;
+      Living Questionnaire [A-IADL-Q]), and global ratings of dementia (ie, Clinical Dementia&#xD;
+      Rating-Sum of Boxes [CDR-SB], Neuropsychiatric Inventory [NPI], Mini-Mental State Examination&#xD;
+      [MMSE], Clinician's Interview-Based Impression of Change - Plus Family Input [CIBIC-Plus],&#xD;
+      and Quality of Life in Alzheimer's Disease [QoL-AD]). The ADAS-cog11 scale will be evaluated&#xD;
+      by a central independent reader for each visit. At the visits where several efficacy&#xD;
+      assessments are administered, every effort should be made to perform the efficacy evaluations&#xD;
+      in the same order at each visit (ADAS-cog11, A-IADL-Q, CDR-SB, NPI, MMSE, CIBIC-Plus, and&#xD;
+      QoL-AD).&#xD;
+&#xD;
+      Safety will be assessed throughout the study by monitoring for AEs, laboratory evaluations,&#xD;
+      electrocardiogram (ECG) findings, and vital signs measurements. Suicidal ideation and&#xD;
+      behavior will be assessed using the C-SSRS. Blood and CSF samples will be collected to&#xD;
+      evaluate the effect of GV1001 on analysis of biomarkers of AD. Blood&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">May 31, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in ADAS-Cog11 score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>The Alzheimer's Disease Assessment Scale (ADAS) consists of 2 parts, a cognitive subscale and a behavioral subscale. The 11-item cognitive subscale (ADAS-cog) of the ADAS instrument will be used in this study. The ADAS-cog11 is a widely accepted performance-based assessment of cognition used in clinical studies for the treatment of participants with AD.&#xD;
+The ADAS-cog11 (score range) consists of word recall (0-10) and word recognition memory tests (0-12), object and finger naming (0-5), commands (0-5), constructional praxis (0-5), ideational praxis (0-5), orientation (0-8), remembering test instructions (0-5), spoken language ability (0-5), comprehension of spoken language (0-5) and word finding difficulty (0-5). The maximum possible total score is 70, with a higher ADAS-cog11 score indicating worse cognitive function.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in A-IADL-Q score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>Assessment of cognitively complex &quot;instrumental activities of daily living&quot; (IADLs), such as managing personal finances, using mobile phones, or even doing grocery shopping, is related to quality of life, caregiver burden, and resource utilization and is a relevant area to assess in AD clinical trials. There are various well validated IADL scales, but some are outdated as they do not assess current daily tasks.&#xD;
+The Amsterdam IADL Questionnaire (A-IADL-Q) is an adaptive and computerized questionnaire designed to assess impairments IADL in patients with cognitive decline due to mild dementia. The questionnaire is completed by a caregiver and consists of 70 items in 7 categories (time needed 20-25 minutes).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in CDR-SB score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>The Clinical Dementia Rating (CDR) is a 5-point global rating scale used to characterize 6 domains of cognitive and functional performance applicable to AD and related dementias: memory, orientation, judgment &amp; problem solving, community affairs, home &amp; hobbies, and personal care. The information needed to make each rating is obtained through a semi-structured interview of the participant and a reliable informant or collateral source (eg, family member). The CDR rater should be trained to administer the semi-structured interview and should be blinded to results of other assessments.&#xD;
+For each domain, a rating is assigned to quantify the severity of impairment/dementia (0=no impairment; 0.5=very mild impairment; 1=mild impairment; 2=moderate impairment; and 3=severe impairment). The sum of the ratings for the 6 domains is the Clinical Dementia Rating-Sum of Boxes (CDR-SB) score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical worsening, defined as ≥4 points change from baseline in the ADAS-cog11 score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>The Alzheimer's Disease Assessment Scale (ADAS) consists of 2 parts, a cognitive subscale and a behavioral subscale. The 11-item cognitive subscale (ADAS-cog) of the ADAS instrument will be used in this study. The ADAS-cog11 is a widely accepted performance-based assessment of cognition used in clinical studies for the treatment of participants with AD.&#xD;
+The ADAS-cog11 (score range) consists of word recall (0-10) and word recognition memory tests (0-12), object and finger naming (0-5), commands (0-5), constructional praxis (0-5), ideational praxis (0-5), orientation (0-8), remembering test instructions (0-5), spoken language ability (0-5), comprehension of spoken language (0-5) and word finding difficulty (0-5). The maximum possible total score is 70, with a higher ADAS-cog11 score indicating worse cognitive function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in NPI score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>The NPI is a validated informant-based interview that assesses behavioral symptoms of dementia. It covers 12 domains.&#xD;
+The NPI is administered to the participant's caregiver and includes an integrated caregiver distress measure. For each domain, abnormal behavior is noted to be absent (score=0) or present. If present, the frequency (rarely=1, sometimes=2, often=3, and very often=4), severity (mild=1, moderate=2, and severe=3), and associated caregiver distress (0=not at all, 1=minimally, 2=mildly, 3=moderately, 4=severely, and 5=very severely or extremely) are to be rated.&#xD;
+The product of frequency and severity (maxi.=12) is calculated for each domain. A total NPI was the sum of the frequency and severity products (maxi. =144). A higher NPI score indicates a greater degree of behavioral disturbances.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in MMSE score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>The MMSE is a brief test of cognitive function, defined as the sum of 11 items: orientation in time and place, registration, attention and concentration, recall, naming 2 objects, repetition, 3-stage command, reading, writing and copying. Scores range from 0 to 30; higher scores indicate better cognitive function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in CIBIC-Plus score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>The CIBIC-Plus is used as a measure of global clinical status. It is an independent, semi-structured medical interview that is used to assess changes in the participant's condition during a clinical study. An independent, experienced, and properly trained rater will provide a global impression of the participant's condition based on separate interviews with the participant and caregiver.&#xD;
+The rater is not to elicit caregiver's opinion of the participant's condition but only factual information about the study participant's functioning.&#xD;
+The change from baseline in CIBIC-Plus is rated on a 7-point scale: 1=markedly improved, 2=moderately improved, 3 = minimally improved, 4=no change, 5=minimally worse, 6=moderately worse, and 7=markedly worse.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in QoL-AD score at Week 52</measure>
+    <time_frame>Baseline, Week 12, Week 26, Week 38, and Week 52</time_frame>
+    <description>The QoL-AD includes the participant's and caregiver's appraisal of the participant's physical condition, mood, interpersonal relationships, ability to participate in meaningful activities, financial situation, and an overall assessment of self as a whole and life quality as a whole. It seems to be reliable and valid for individuals with MMSE scores greater than 10. The measure has 13 items, rated on a 4-point scale (poor, fair, good, excellent), with &quot;l&quot; being poor and &quot;4&quot; being excellent. Total scores range from 13 to 52. Separate scores are calculated for participant and caregiver reports.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Mild to Moderate Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo SC injection administered once weekly for 4 weeks then every 2 weeks through Week 50</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GV1001 0.56 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GV1001 0.56 mg SC injection administered once weekly for 4 weeks then every 2 weeks through Week 50</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GV1001 1.12 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>GV1001 1.12 mg SC injection administered once weekly for 4 weeks then every 2 weeks through Week 50</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GV1001 Placebo</intervention_name>
+    <description>0.9% normal saline</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>Normal saline</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GV1001 0.56mg</intervention_name>
+    <description>Lyophilized peptide from hTERT</description>
+    <arm_group_label>GV1001 0.56 mg</arm_group_label>
+    <other_name>Tertomotide 0.84mg</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GV1001 1.12mg</intervention_name>
+    <description>Lyophilized peptide from hTERT</description>
+    <arm_group_label>GV1001 1.12 mg</arm_group_label>
+    <other_name>Tertomotide 1.68mg</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female participants 55 to 85 years of age (both inclusive) at the time of&#xD;
+             signing the informed consent.&#xD;
+&#xD;
+          2. Diagnosis of probable AD based on NINCDS-ADRDA criteria as determined by a&#xD;
+             neurologist, geriatrician, psychiatrist, or clinician approved by the Sponsor or&#xD;
+             designee.&#xD;
+&#xD;
+          3. Mild or moderate dementia as evidenced by MMSE score ≥13 to ≤24 at screening (Visit&#xD;
+             1).&#xD;
+&#xD;
+          4. Imaging studies (MRI or CT) within 2 years prior to screening that has findings&#xD;
+             consistent with AD and without any other disease that may cause dementia.&#xD;
+&#xD;
+          5. An Aβ PET scan or CSF examination performed within 2 years prior to screening with&#xD;
+             results consistent with the presence of amyloid pathology.&#xD;
+&#xD;
+          6. If receiving an approved medication for AD (ie, donepezil, galantamine, rivastigmine,&#xD;
+             memantine, or memantine/donepezil combination product), must be on the medication with&#xD;
+             a stable dose for at least 12 weeks before the screening visit (dosing should remain&#xD;
+             stable throughout the study).&#xD;
+&#xD;
+          7. If receiving an OTC supplement for cognition (eg, gingko biloba, omega-3&#xD;
+             polyunsaturated fatty acid, vitamin E, curcumin), must not be exceeding the&#xD;
+             recommended dose for at least 12 weeks prior to screening visit.&#xD;
+&#xD;
+          8. Able to visit the study center and undergo cognitive, functional, and other tests&#xD;
+             specified in the protocol.&#xD;
+&#xD;
+          9. Has a caregiver who:&#xD;
+&#xD;
+               -  Agrees to accompany the participant to all study visits and able to supervise the&#xD;
+                  participant's compliance with the study procedures and provide detailed&#xD;
+                  information about the participant.&#xD;
+&#xD;
+               -  Either lives with the participant or sees the participant on average for ≥1&#xD;
+                  hour/day ≥3 days/week, or in the Investigator's opinion, the extent of contact is&#xD;
+                  sufficient to provide meaningful assessment of changes in participant behavior&#xD;
+                  and function over time and provide information on safety and tolerability.&#xD;
+&#xD;
+               -  Is able to read, understand, and speak the designated language at the study&#xD;
+                  center.&#xD;
+&#xD;
+               -  Caregiver must be cognitively able to fulfill the requirements of the study.&#xD;
+&#xD;
+         10. A male participant must agree to use a highly effective contraception method as&#xD;
+             detailed in Protocol Appendix 3 during the treatment period and for at least 3 months&#xD;
+             after the last dose of study treatment and refrain from donating sperm during this&#xD;
+             period.&#xD;
+&#xD;
+         11. A female participant is eligible to participate if she is not pregnant, not&#xD;
+             breastfeeding, and at least one of the following conditions applies:&#xD;
+&#xD;
+               -  Not a woman of childbearing potential as defined in Protocol Appendix 3. OR&#xD;
+&#xD;
+               -  A WOCBP who agrees to use a highly effective contraception method as detailed in&#xD;
+                  Appendix 3 during the treatment period and for at least 3 months after the last&#xD;
+                  dose of study treatment.&#xD;
+&#xD;
+         12. A WOCBP must have a negative serum pregnancy test (beta-human chorionic gonadotropin&#xD;
+             [β-hCG]) at screening (Visit 1) and a negative urine pregnancy test at Visit 2 before&#xD;
+             randomization, and must use medically accepted means of contraception throughout the&#xD;
+             study.&#xD;
+&#xD;
+         13. Written informed consent provided by participant (or legal representative) and&#xD;
+             caregiver prior to any study-specific procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any other cause of dementia shown by MRI/CT findings within 2 years of screening and&#xD;
+             neurological examination at screening and Day 1.&#xD;
+&#xD;
+               -  Possible, probable, or definite vascular dementia according to the National&#xD;
+                  Institute of Neurological Disorders and Stroke and Association Internationale&#xD;
+                  pour la Recherché et l'Enseignement en Neurosciences (NINDS-AIREN) criteria.&#xD;
+&#xD;
+               -  Evidence of significant abnormality that would suggest another potential etiology&#xD;
+                  for dementia (eg, evidence of cerebral contusion, encephalomalacia, aneurysm,&#xD;
+                  vascular malformation, &gt;5 microhemorrhages, macrohemorrhage, single infarct &gt;1&#xD;
+                  cm3).&#xD;
+&#xD;
+               -  Other central nervous system diseases that may cause cognitive impairment (eg,&#xD;
+                  cerebrovascular disease including cerebrovascular dementia, Parkinsonism,&#xD;
+                  Huntington's disease, subdural hematoma, normal pressure hydrocephalus, brain&#xD;
+                  tumor, Creutzfeldt-Jakob disease).&#xD;
+&#xD;
+          2. Concurrent or history of clinically significant psychiatric conditions (eg,&#xD;
+             schizophrenia or bipolar affective disorder) that in the Investigator's opinion&#xD;
+             prevents the participant from participating, or is likely to confound interpretation&#xD;
+             of drug effect or affect cognitive assessments.&#xD;
+&#xD;
+          3. Vitamin B12, folic acid, syphilis serology, and thyroid stimulating hormone (TSH)&#xD;
+             results that are thought to contribute to the severity of dementia or cause dementia.&#xD;
+             Participants may be enrolled if in the Investigator's medical judgment, the abnormal&#xD;
+             laboratory values are not the cause of the cognitive symptoms.&#xD;
+&#xD;
+          4. History of known or suspected seizures including febrile seizures (excluding&#xD;
+             self-limited childhood febrile seizures), a history of significant head trauma with&#xD;
+             loss of consciousness or recent unconsciousness that is not explained.&#xD;
+&#xD;
+          5. Acute or unstable cardiovascular disease, active peptic ulcer, uncontrolled&#xD;
+             hypertension, uncontrolled diabetes or insulin dependent patients or any medical&#xD;
+             condition that may interfere with the completion of the clinical study.&#xD;
+&#xD;
+          6. Known allergies, hypersensitivity, or intolerance to GV1001 or similar products or&#xD;
+             excipients.&#xD;
+&#xD;
+          7. History of alcohol, substance abuse or dependence as per DSM-V criteria (except&#xD;
+             nicotine dependence) within the last 2 years.&#xD;
+&#xD;
+          8. Concurrent malignancies or invasive cancers diagnosed within the past 5 years except&#xD;
+             for non-metastatic basal cell carcinoma or squamous cell carcinoma of skin, in situ&#xD;
+             carcinoma of the uterine cervix or non-metastatic prostate cancer.&#xD;
+&#xD;
+          9. Sexually-active WOCBP or man capable of fathering a child who do not consent to using&#xD;
+             medicinally acceptable contraception (such as surgical sterilization, intrauterine&#xD;
+             contraceptive device, condom or diaphragm, an injectable or inserted contraceptive)&#xD;
+             during the study and for 3 months after the last dose of study treatment.&#xD;
+&#xD;
+         10. Pregnant, breast feeding, or planning a pregnancy or fathering a child while enrolled&#xD;
+             in the study or for 3 months after the last dose of study treatment.&#xD;
+&#xD;
+         11. Use of anxiolytics, narcotics, or sleep aids in a manner that would interfere with&#xD;
+             cognitive testing, in the opinion of the Investigator. Atypical antipsychotics may be&#xD;
+             used at the discretion of the Investigator. Tricyclic antidepressants and monoamine&#xD;
+             oxidase (MAO) inhibitors are prohibited&#xD;
+&#xD;
+         12. Previous treatment with GV1001.&#xD;
+&#xD;
+         13. Received an investigational product for AD within the last 6 months.&#xD;
+&#xD;
+         14. Participated in another clinical study within 4 weeks prior to this study.&#xD;
+&#xD;
+         15. Treated with aducanumab or participated in a clinical study with aducanumab.&#xD;
+&#xD;
+         16. Renal impairment (creatinine clearance [CrCL] &lt;30 mL/min).&#xD;
+&#xD;
+         17. Severe liver dysfunction (alanine aminotransferase [ALT] or aspartate aminotransferase&#xD;
+             [AST] &gt;2 times the upper limit of normal [ULN]).&#xD;
+&#xD;
+         18. Body weight ≤35 kg.&#xD;
+&#xD;
+         19. Resides in a moderate to high dependency continuous care facility (residence in low&#xD;
+             grade assisted living facility where there is sufficient autonomy to permit valid&#xD;
+             evaluation of activities of daily living is allowed).&#xD;
+&#xD;
+         20. Any other reason that in the opinion of the Investigator would make the participant&#xD;
+             ineligible to participate or to complete this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hyoung Gon Song</last_name>
+    <role>Study Director</role>
+    <affiliation>GemVax &amp; Kael</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mino Moon</last_name>
+    <phone>+82 70 8633 7102</phone>
+    <email>clinical@gemvax.com</email>
+  </overall_contact>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>December 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 12, 2022</study_first_posted>
+  <last_update_submitted>December 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>GV1001</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

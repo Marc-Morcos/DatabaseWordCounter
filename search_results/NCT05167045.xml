@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2745">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05167045</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTU BHSP-P</org_study_id>
+    <nct_id>NCT05167045</nct_id>
+  </id_info>
+  <brief_title>A Pilot Study for the Brain Health Support Program</brief_title>
+  <acronym>CTU BHSP-P</acronym>
+  <official_title>A Pilot Study for the Brain Health Support Program (BHSP) Intervention of the Canadian Therapeutic Platform Trial for Multidomain Interventions to Prevent Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baycrest</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Baycrest</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prior studies have shown that programs that focus on promoting brain health and managing&#xD;
+      lifestyle risks (such as poor diet, obesity, physical inactivity, sleep issues, loneliness)&#xD;
+      may help in preventing or lowering the risk of dementia. To address this, investigators have&#xD;
+      developed the CAN-THUMBS UP program to conduct studies that target lifestyle risk and focus&#xD;
+      on dementia prevention. An online Brain Health Support Program (BHSP) has been developed. The&#xD;
+      BHSP is an educational program designed to teach about dementia. Before the full BHSP is&#xD;
+      offered to a large group, we are conducting an initial pilot study to help assess the&#xD;
+      usability of the program.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">November 15, 2021</start_date>
+  <completion_date type="Actual">April 29, 2022</completion_date>
+  <primary_completion_date type="Actual">April 29, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Functionality of the BHSP</measure>
+    <time_frame>Nov 2021-Mar 2022</time_frame>
+    <description>Functionality of the web-based components of the BHSP measured in the pilot and qualitative focus group(s) questions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>User acceptance of the BHSP</measure>
+    <time_frame>Nov 2021-Mar 2022</time_frame>
+    <description>User adherence and engagement using the online program during the pilot including dates and times of use, duration of use and completion of program assessments</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Usability of the BHSP</measure>
+    <time_frame>Nov 2021-Mar 2022</time_frame>
+    <description>User satisfaction and evaluation of usability and acceptability of BHSP measured during the pilot and focus group(s)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To assess participant satisfaction with the organization, presentation and personalization of the BHSP content</measure>
+    <time_frame>Nov 2021-Mar 2022</time_frame>
+    <description>Qualitative evaluation of participant responses during the focus group discussion</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To evaluate the feasibility of remote data collection</measure>
+    <time_frame>Nov 2021-Mar 2022</time_frame>
+    <description>User data, feedback and adherence to remote measures, such as: Screening evaluation by tele/video-conference, Neuropsychological Test Battery, Burst cognitive testing with the MyCogHealth app, online version of the Cogstate Brief Battery, Assessments of lifestyle risk factors (sleep, diet, mood, cognition, physical activity, vascular health, social and psychological health, vision and hearing), Actigraphy and EEG wearables as measures of total daily physical activity and sleep fragmentation, and Saliva sample collection for genomics testing (Polygenic Hazard Score)</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">20</enrollment>
+  <condition>Dementia</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Subjective Cognitive Impairment</condition>
+  <condition>Pre-dementia</condition>
+  <condition>Dementia Prevention</condition>
+  <arm_group>
+    <arm_group_label>No Dementia</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Brain Health PRO</intervention_name>
+    <description>The BHSP is an educational program designed to teach about dementia. It aims to provide best available evidence for lifestyle changes that can help lower dementia risk, and to provide specific recommendations for positive lifestyle changes (e.g., physical exercises to try at home, healthy recipes). The program was developed as a collaborative effort by Canadian investigators who have expertise in the different areas of dementia prevention, along with input from older-adult citizen advisors.</description>
+    <arm_group_label>No Dementia</arm_group_label>
+    <other_name>Brain Health Support Program</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study will recruit it's cohort from various locations around Canada.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Meets criteria for No Dementia and one of the following (according to CCNA criteria):&#xD;
+&#xD;
+        Cognitively Intact (CI) Cognitively Intact plus Subjective Cognitive Impairment (CI + SCI)&#xD;
+        Mild Cognitive Impairment (MCI)&#xD;
+&#xD;
+        • AND Classified as being at increased risk of dementia based on at least one of the&#xD;
+        following: First-degree family history of dementia&#xD;
+&#xD;
+        Self-Reported or documented current and/or history at midlife (45-60) on any of the&#xD;
+        following risk factors:&#xD;
+&#xD;
+          -  Hypertension (documented Systolic Blood Pressure &gt; 140 mm Hg; OR physician diagnosis&#xD;
+             of hypertension; OR treatment for hypertension; OR other approaches to treatment (e.g.&#xD;
+             diet, exercise))&#xD;
+&#xD;
+          -  Hypercholesterolemia (documented total cholesterol &gt; 6.5 mmol/L; OR physician&#xD;
+             diagnosis of hypercholesterolemia; OR treatment for hypercholesterolemia; OR other&#xD;
+             approaches to treatment (e.g. diet, exercise))&#xD;
+&#xD;
+          -  Body Mass Index &gt; 30 kg/m2 (derived from NIH Metric BMI Calculator)&#xD;
+&#xD;
+          -  Physical Inactivity (active is defined as engaging in a minimum of 20- 30 min of&#xD;
+             physical activity causing sweating and breathlessness, at least 2 times a week)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of British Columbia</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6T 1Z4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Brunswick</name>
+      <address>
+        <city>Fredericton</city>
+        <state>New Brunswick</state>
+        <zip>E3B 5A3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Baycrest</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M6A 2E1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>November 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 22, 2021</study_first_posted>
+  <last_update_submitted>July 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Baycrest</investigator_affiliation>
+    <investigator_full_name>Howard Chertkow</investigator_full_name>
+    <investigator_title>Scientific Director, Canadian Consortium on Neurodegeneration in Aging</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

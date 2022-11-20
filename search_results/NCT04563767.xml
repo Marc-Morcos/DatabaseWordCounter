@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1147">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04563767</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A20-199</org_study_id>
+    <nct_id>NCT04563767</nct_id>
+  </id_info>
+  <brief_title>Feasibility - Infinitome</brief_title>
+  <official_title>Feasibility of Utilizing the Infinitome Program to Evaluate Abnormal Large Scale Brain Networks in Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>HealthPartners Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>HealthPartners Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Infinitome Program from Omniscient has the ability to identify abnormal brain networks or&#xD;
+      connectomes using resting state functional MRI (rs-fMRI). This technology, which visualizes&#xD;
+      brain networks in three dimensions, was originally developed to ensure neurosurgeons avoid&#xD;
+      inadvertently lesioning cognitively eloquent brain regions during surgical operations. The&#xD;
+      potential of Infinitome in identifying connectome dysfunction for neurodegenerative diseases&#xD;
+      such as Alzheimer's disease has yet to be explored. This diagnostic technique may play a&#xD;
+      critical role for identifying disease brain networks that may benefit from targeted&#xD;
+      interventions in clinical trials.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 15, 2020</start_date>
+  <completion_date type="Actual">October 13, 2020</completion_date>
+  <primary_completion_date type="Actual">October 13, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Completed Rs-fMRI</measure>
+    <time_frame>4 months</time_frame>
+    <description>Percent of subjects who complete the sequence of the fMRI protocol. Range: 0-100. Higher percentage indicates more completion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects Whose Images Completed Analysis</measure>
+    <time_frame>4 months</time_frame>
+    <description>Percent of subjects whose images were uploaded and analyzed by the Infinitome program. Range: 0-100. Higher percentage indicates more completion.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">4</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Infinitome</arm_group_label>
+    <description>All patients will be in the same cohort. No intervention will be administered. Patients will undergo a structural magnetic resonance imaging (MRI) as part of their standard of care. Added on will be the resting state fMRI (rs-fMRI). The rs-fMRI data will be analyzed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Infinitome</intervention_name>
+    <description>Added sequence of rs-fMRI.</description>
+    <arm_group_label>Infinitome</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        HealthPartners Neurology Clinic in Saint Paul, MN undergoing care for Alzheimer's disease.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients with a diagnosis of mild, moderate, or severe Alzheimer's disease&#xD;
+&#xD;
+          2. Age: 40 - 90 Years&#xD;
+&#xD;
+          3. Patients who are clinically indicated for an MRI&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. fMRI contraindicated (eg. Implantable device, pacemaker, metallic implants, etc.)&#xD;
+&#xD;
+          2. Subject unable to tolerate sitting for a one hour fMRI&#xD;
+&#xD;
+          3. Other concerns as determined by the investigator&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael H Rosenbloom, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>HealthPartners Neurology</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>HealthPartners Neuroscience Center</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 24, 2020</study_first_posted>
+  <results_first_submitted>January 22, 2021</results_first_submitted>
+  <results_first_submitted_qc>February 9, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 17, 2021</results_first_posted>
+  <last_update_submitted>February 9, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 17, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 11, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/67/NCT04563767/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Infinitome</title>
+          <description>All patients will be in the same cohort. No intervention will be administered. Patients will undergo a structural magnetic resonance imaging (MRI) as part of their standard of care. Added on will be the resting state fMRI (rs-fMRI). The rs-fMRI data will be analyzed.&#xD;
+Infinitome: Added sequence of rs-fMRI.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Infinitome</title>
+          <description>All patients will be in the same cohort. No intervention will be administered. Patients will undergo a structural magnetic resonance imaging (MRI) as part of their standard of care. Added on will be the resting state fMRI (rs-fMRI). The rs-fMRI data will be analyzed.&#xD;
+Infinitome: Added sequence of rs-fMRI.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="4"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="4"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Completed Rs-fMRI</title>
+        <description>Percent of subjects who complete the sequence of the fMRI protocol. Range: 0-100. Higher percentage indicates more completion.</description>
+        <time_frame>4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infinitome</title>
+            <description>All patients will be in the same cohort. No intervention will be administered. Patients will undergo a structural magnetic resonance imaging (MRI) as part of their standard of care. Added on will be the resting state fMRI (rs-fMRI). The rs-fMRI data will be analyzed.&#xD;
+Infinitome: Added sequence of rs-fMRI.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Completed Rs-fMRI</title>
+          <description>Percent of subjects who complete the sequence of the fMRI protocol. Range: 0-100. Higher percentage indicates more completion.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects Whose Images Completed Analysis</title>
+        <description>Percent of subjects whose images were uploaded and analyzed by the Infinitome program. Range: 0-100. Higher percentage indicates more completion.</description>
+        <time_frame>4 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Infinitome</title>
+            <description>All patients will be in the same cohort. No intervention will be administered. Patients will undergo a structural magnetic resonance imaging (MRI) as part of their standard of care. Added on will be the resting state fMRI (rs-fMRI). The rs-fMRI data will be analyzed.&#xD;
+Infinitome: Added sequence of rs-fMRI.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects Whose Images Completed Analysis</title>
+          <description>Percent of subjects whose images were uploaded and analyzed by the Infinitome program. Range: 0-100. Higher percentage indicates more completion.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="4"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Only observed during MRI.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Infinitome</title>
+          <description>All patients will be in the same cohort. No intervention will be administered. Patients will undergo a structural magnetic resonance imaging (MRI) as part of their standard of care. Added on will be the resting state fMRI (rs-fMRI). The rs-fMRI data will be analyzed.&#xD;
+Infinitome: Added sequence of rs-fMRI.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="4"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="4"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Michael Rosenbloom, MD</name_or_title>
+      <organization>HealthPartners Neurology</organization>
+      <phone>651-495-6363</phone>
+      <email>michael.h.rosenbloom@healthpartners.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

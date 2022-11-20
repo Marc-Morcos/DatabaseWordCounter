@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="140">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05015374</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KMUHIRB- F(II)-20180054</org_study_id>
+    <nct_id>NCT05015374</nct_id>
+  </id_info>
+  <brief_title>Effect of Astaxanthin on the Patients With Alzheimer Disease</brief_title>
+  <official_title>Effect of Astaxanthin on the Patients With Alzheimer Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kaohsiung Medical University Chung-Ho Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>China Medical University, China</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Kaohsiung Medical University Chung-Ho Memorial Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study adapts a randomized, double-blind, placebo-controlled trial, to exam the possible&#xD;
+      benefit of Astaxanthin on Alzheimer disease. The enrolled Alzheimer patients will take&#xD;
+      Astaxanthin or placebo for 1 year. We will follow up Mini-Mental State Examination, Cognitive&#xD;
+      Ability Screening Instrument, Clinical Dementia Rating, and Neuropsychiatric Inventory at the&#xD;
+      end of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aims to examine the benefit of Astaxanthin as adjuvant therapy for Alzheimer's&#xD;
+      disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 14, 2018</start_date>
+  <completion_date type="Anticipated">July 2024</completion_date>
+  <primary_completion_date type="Actual">August 1, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mini-Mental State Examination (MMSE)</measure>
+    <time_frame>3 years</time_frame>
+    <description>All participants receive MMSE when they are enrolled, and follow up annually for a total of 3 years.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Ability Screening Instrument (CASI)</measure>
+    <time_frame>3 years</time_frame>
+    <description>All participants receive CASI when they are enrolled, and follow up annually for a total of 3 years.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical Dementia Rating (CDR)</measure>
+    <time_frame>3 years</time_frame>
+    <description>All participants receive CDR when they are enrolled, and follow up annually for a total of 3 years.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>3 years</time_frame>
+    <description>All participants receive NPI when they are enrolled, and follow up annually for a total of 3 years.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent adverse events [safety and tolerability]</measure>
+    <time_frame>3 years</time_frame>
+    <description>Monitor possible adverse effects of Astaxanthin, namely bleeding, anemia, blood sugar, blood pressure, liver and renal functions.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>To Evaluate the Possible Benefit of Astaxanthin on Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Compared the difference of changes in psychometrics between Astaxanthin users and placebo group.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Astaxanthin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Compared the difference in adverse effects between Astaxanthin users and placebo group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Astaxanthin</intervention_name>
+    <description>350 mg/capsule (2mg Astaxanthin)</description>
+    <arm_group_label>Astaxanthin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 60 ≦ age ≦ 90&#xD;
+&#xD;
+          2. Clinical Dementia Rating Scale = 0.5 or 1&#xD;
+&#xD;
+          3. Under treatment with donepezil、rivastigmine or galantamine with good medical adherence&#xD;
+&#xD;
+          4. Get a signed informed consent from the patient or his/her family&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Not using or poor medical adherence to donepezil、rivastigmine or galantamine&#xD;
+&#xD;
+          2. Combined using memantine or other cerebral perfusion enhancing agent, such as&#xD;
+             Piracetam, Dihydroergotoxine, Nicergoline etc.&#xD;
+&#xD;
+          3. New cerebrovascular disease happens during 3-year follow up&#xD;
+&#xD;
+          4. Mixed type dementia&#xD;
+&#xD;
+          5. Major psychiatric disease (such as depression, bipolar disorder, schizophrenia) or&#xD;
+             substance abuser (such as alcohol, illegal drug, hypnotics)&#xD;
+&#xD;
+          6. Heart failure, end stage renal disease, liver cirrhosis, or other major organ failure&#xD;
+&#xD;
+          7. Severe hearing impairment results in incomplete survey of neuropsychatric evaluation&#xD;
+&#xD;
+          8. No informed consent or no regular follow up&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Kaohsiung Medical University Chung-Ho Memorial Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>80756</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>August 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 20, 2021</study_first_posted>
+  <last_update_submitted>August 15, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 15, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer disease</keyword>
+  <keyword>Astaxanthin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Will not share individual participant data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

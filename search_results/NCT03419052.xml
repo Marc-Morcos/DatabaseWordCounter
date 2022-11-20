@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2925">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03419052</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1703766063</org_study_id>
+    <secondary_id>R01AG052439</secondary_id>
+    <nct_id>NCT03419052</nct_id>
+  </id_info>
+  <brief_title>MINDSpeed Food and Brain Training RCT</brief_title>
+  <acronym>MINDSpeed</acronym>
+  <official_title>MINDSpeed Food and Brain Training RCT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to learn how foods high in polyphenols and brain training&#xD;
+      exercises affect older adults' cognitive performance&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Adults with low education who give informed consent will complete a baseline cognitive&#xD;
+      assessment and then be randomized to one of four arms: 1) MIND foods and cognitive training,&#xD;
+      2) MIND foods and control training, 3) control foods and cognitive training, or 4) control&#xD;
+      foods and control training.&#xD;
+&#xD;
+      All interventions are conducted through applications running on a tablet computer device that&#xD;
+      we will provide to all participants for the study duration. Cognitive training is delivered&#xD;
+      through the online BrainHQ program from Posit Science, Inc. The foods will be shown on the&#xD;
+      tablet device in an online shopping format. Selected foods will be prepared and delivered by&#xD;
+      the study team.&#xD;
+&#xD;
+      Active intervention will last for 12 weeks. After the 12-weeks, free food deliveries will&#xD;
+      cease but participants who were allocated to cognitive training will continue to have access&#xD;
+      to BrainHQ. Those in the MIND food arms will be encouraged to maintain MIND food consumption.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 10, 2019</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Executive Cognitive Function Composite Score</measure>
+    <time_frame>Immediately following the 12-week intervention (Immediate Post-Training)]</time_frame>
+    <description>Executive Cognitive Function Composite Score as Measured by Individually-Administered Tests of Verbal Fluency, Complex Sequencing, Response Inhibition, and List Learning. The scale score range is -20 to 20. Low scores represent worse function and higher scores represent better function.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Low Education</condition>
+  <condition>Cognition</condition>
+  <condition>Cognitive Training</condition>
+  <condition>Polyphenols</condition>
+  <arm_group>
+    <arm_group_label>MINDSpeed Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Consumption of foods high in polyphenols (i.e., MIND foods) AND speed of processing training</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MIND food and training control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Consumption of foods high in polyphenols (i.e., MIND foods) AND online (inert) games</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control foods and speed of processing training</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Consumption of low polyphenol foods AND speed of processing training</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Double Control</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Consumption of low polyphenol foods AND online (inert) games</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Speed of processing training</intervention_name>
+    <description>Speed of processing training is provided by the Internet-based BrainHQ program from Posit Science, Inc. BrainHQ contains five different speed training modules (Hawk Eye, Visual Sweeps, Fine Tuning, Eye for Detail, Sound Sweeps) which tap time-order judgment, visual discrimination, spatial-match, forward-span, instruction-following, and memory.</description>
+    <arm_group_label>Control foods and speed of processing training</arm_group_label>
+    <arm_group_label>MINDSpeed Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>MIND foods</intervention_name>
+    <description>The &quot;MIND&quot; diet (created by the Rush Aging &amp; Memory group) specifically emphasizes foods high in polyphenols such as berries, nuts, cocoa, black beans, olive oil, and green leafy vegetables. Participants select these foods from the digital study application and receive them through home delivery.</description>
+    <arm_group_label>MIND food and training control</arm_group_label>
+    <arm_group_label>MINDSpeed Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive training control</intervention_name>
+    <description>Control training is provided by the Internet-based BrainHQ program from Posit Science, Inc.These are inert games such as tic-tac-toe, connect 4, battleship, etc.</description>
+    <arm_group_label>Double Control</arm_group_label>
+    <arm_group_label>MIND food and training control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control foods</intervention_name>
+    <description>Foods contain low polyphenols. Participants select these foods from the digital study application and receive them through home delivery.</description>
+    <arm_group_label>Control foods and speed of processing training</arm_group_label>
+    <arm_group_label>Double Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  age 60 years or older,&#xD;
+&#xD;
+          -  ≤ 12 years of education,&#xD;
+&#xD;
+          -  English speaking,&#xD;
+&#xD;
+          -  Marion County (and immediately surrounding counties) resident, with steady/fixed&#xD;
+             residence to receive food deliveries&#xD;
+&#xD;
+          -  natural-born US citizen.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  living in nursing home&#xD;
+&#xD;
+          -  self-reported diagnosis of dementia, Alzheimer's disease (AD), cancer with short life&#xD;
+             expectancy, multiple sclerosis, epilepsy, schizophrenia, bipolar disorder, Parkinson&#xD;
+             disease; current chemotherapy or radiation therapy; history of brain tumor, brain&#xD;
+             surgery, brain infection; stroke or myocardial infarction within the past 12 months&#xD;
+&#xD;
+          -  current alcohol consumption ≥8 drinks per week for women or ≥15 drinks per week for&#xD;
+             men;&#xD;
+&#xD;
+          -  poor vision (self-reported difficulty reading a newspaper) or color blind;&#xD;
+&#xD;
+          -  low communicative ability (examiner rated) that would interfere with interventions and&#xD;
+             assessments;&#xD;
+&#xD;
+          -  prior involvement in similar cognitive training studies;&#xD;
+&#xD;
+          -  unable or unwilling to provide blood sample at Baseline&#xD;
+&#xD;
+          -  tumor, hemorrhage, aneurysm, hydrocephalus, or other significant clinical finding from&#xD;
+             Baseline brain MRI&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Daniel Clark, PHD</last_name>
+    <phone>317 274 9292</phone>
+    <email>daniclar@iu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lyndsi Moser, BA, CCRP</last_name>
+    <phone>317-963-7301</phone>
+    <email>lrhabegg@iupui.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Regenstrief Institute</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lyndsi Moser, BA, CCRP</last_name>
+      <phone>317-963-7301</phone>
+      <email>lrhabegg@iupui.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Clark, PHD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>January 26, 2018</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 1, 2018</study_first_posted>
+  <last_update_submitted>June 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Daniel Clark</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>randomized controlled trial</keyword>
+  <keyword>cognition</keyword>
+  <keyword>cognitive training</keyword>
+  <keyword>MIND diet</keyword>
+  <keyword>quality of life</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

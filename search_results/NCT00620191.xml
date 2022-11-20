@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2570">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00620191</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAC7231</org_study_id>
+    <secondary_id>R01AG026413</secondary_id>
+    <secondary_id>270901</secondary_id>
+    <nct_id>NCT00620191</nct_id>
+  </id_info>
+  <brief_title>Metformin in Amnestic Mild Cognitive Impairment</brief_title>
+  <acronym>MCI</acronym>
+  <official_title>Metformin in the Prevention of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institute for the Study of Aging (ISOA)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Hyperinsulinemia and type 2 diabetes (T2D) are important potential risk factors for cognitive&#xD;
+      decline and Alzheimer's disease (AD). Two thirds of the US adult population are at risk for&#xD;
+      hyperinsulinemia and T2D, and half of the population 85 years and older have AD. Peripheral&#xD;
+      hyperinsulinemia can impair the clearance of amyloid beta in the brain, the main culprit in&#xD;
+      AD. Thus, the investigators hypothesize that lowering peripheral insulin in overweight&#xD;
+      persons with amnestic mild cognitive impairment (AMCI), a transition state between normal&#xD;
+      cognition and AD, can decrease the risk of cognitive decline and progression to AD. The&#xD;
+      investigators propose to conduct a phase II double blinded placebo controlled randomized&#xD;
+      clinical trial of metformin, a safe and effective medication that prevents hyperinsulinemia&#xD;
+      and diabetes, to test this hypothesis among 80 overweight persons aged 55 to 90 years with&#xD;
+      AMCI. The main outcome of the study will be changes in performance in a memory test (total&#xD;
+      recall of the Selective Reminding Test) and the Score a test of general cognitive function&#xD;
+      used in clinical trials (the Alzheimer's Disease Assessment Scale-cognitive subscale&#xD;
+      (ADAS-Cog)). Another aim is to compare brain function in an area affected by Alzheimer's&#xD;
+      disease between the metformin and placebo group mean changes from beginning to end among 40&#xD;
+      participants using a PET scan.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The prevalence of Alzheimer's disease (AD) is expected to quadruple by the year 2047. There&#xD;
+      are no known curative or preventive measures for AD. Current treatment options for AD only&#xD;
+      address symptoms, and no treatments are available that focus on delaying the actual disease&#xD;
+      process. One of the currently accepted hypothesis of the pathogenesis of AD is that the main&#xD;
+      culprit is the accumulation of Aβ in the brain, and this process has become a target for&#xD;
+      treatments and preventive measures. Amnestic mild cognitive impairment (MCI) has been used to&#xD;
+      describe a transitional state between normal cognitive function and AD, and has thus been&#xD;
+      targeted for interventions. Persons with MCI progress to AD at the rate of nearly 10% to 15%&#xD;
+      per year. The criteria most commonly used for the definition of AD dementia from MCI. The&#xD;
+      investigators propose to use these criteria with slight modification to recruit persons for a&#xD;
+      pilot trail of AD prevention in persons with amnestic MCI.&#xD;
+&#xD;
+      Peripheral hyperinsulinemia (high insulin levels) potentially impair Aβ clearance, and in&#xD;
+      this study we are proposing to use metformin, an insulin lowering agent, to prevent AD by&#xD;
+      improving Aβ clearance in the brain. The insulin resistance syndrome and hyperinsulinemia are&#xD;
+      common in individuals with and without diabetes, and are related to increased risk of&#xD;
+      cardiovascular and cerebrovascular outcomes. Hyperinsulinemia predicts the development of&#xD;
+      diabetes; therefore, diabetes can be considered a consequence and a marker of past&#xD;
+      hyperinsulinemia. According to NHANES III data, more than 40% of the population over the age&#xD;
+      of 60 years has problems of glucose intolerance or diabetes, all related to insulin&#xD;
+      resistance and hyperinsulinemia. The investigators have found that the risk of AD in&#xD;
+      individuals without diabetes increases with increasing levels of fasting insulin, and that&#xD;
+      high insulin levels are related to a faster decline in memory scores. The high prevalence of&#xD;
+      hyperinsulinemia and diabetes (49% of the elderly in Northern Manhattan) and its biological&#xD;
+      plausibility as a risk factor for cognitive decline and AD has attracted increasing&#xD;
+      attention. In this application we are targeting hyperinsulinemia, the most important risk&#xD;
+      factor for AD identified in the elderly population of Northern Manhattan. The risk of AD&#xD;
+      attributable to hyperinsulinemia or diabetes in Northern Manhattan was 39%, and is higher in&#xD;
+      Hispanics and African-Americans, who have a higher prevalence of diabetes and insulin&#xD;
+      resistance, and will comprise the majority of our sample.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2008</start_date>
+  <completion_date type="Actual">February 2012</completion_date>
+  <primary_completion_date type="Actual">February 2012</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Total Recall Score in the Selective Reminding Test</measure>
+    <time_frame>12 months</time_frame>
+    <description>The Selective Reminding Test measures verbal learning and delayed recall through a multiple-trial list-learning paradigm. Patients are presented aurally with a list of 12 words for trial 1 and are asked to recall as many as possible. For trials 2-6, there is a selective presentation of only those words not recalled on the previous trial. Trial 7 is similar to the other trials but is assessed after an 11-minute delay. The score for the selective reminding test is the unweighted average of seven individual study results (min=0 and max=84) Higher scores indicate a better cognitive performance. The total recall score from the first visit was subtracted from that of the last visit to calculate the change in score (total words recalled).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Score of the Alzheimer's Disease Assessment Scale-cognitive Subscale (ADAS-cog)</measure>
+    <time_frame>12 months</time_frame>
+    <description>The ADAS-cog is an aggregate for several cognitive tests intended to provide a global cognitive score and consists of 11 tasks. The tasks (and corresponding score range)) are Word Recall (0-10), Naming (0-4), Commands (0-5), Constructional Praxis (0-5) Ideational Praxis (0-5), Orientation (0-8), Word Recognition (0-12), Language (0-5), Word Finding Difficulty (0-5), and Remembering Test Instructions (1-5). The range of aggregate scores (sum of scores) is 1 to 69, with higher scores meaning worse cognitive performance. The change was calculated subtracting the baseline score from the final visit score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Relative Glucose Uptake (rCMRg) in the Posterior Cingulate-precuneus.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Change in relative glucose uptake (rCMRgl) in the posterior cingulate-precuneus measured with subscale (ADAS-Cog) from brain [18]F-labeled 2-deoxy-2-fluoro-D-glucose (FDG) positron emission tomography (PET). The unit for rCMRgl is %. The results presented are absolute differences in rCMRgl, presented in % units; the change was calculated subtracting the baseline rCMRgl from the follow-up rCMRgl</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in Plasma Amyloid Beta-42</measure>
+    <time_frame>12 months</time_frame>
+    <description>Change in plasma Amyloid beta-42 from baseline to 12 months</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">80</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Matching Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo identical to metformin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Metformin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Metformin 1000 mg twice a day</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Metformin</intervention_name>
+    <description>Metformin 1000 mg twice a day titrated from 500 mg once a day</description>
+    <arm_group_label>Metformin</arm_group_label>
+    <other_name>Glucophage</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo identical to metformin 2 tablets twice a day titrated from one table once a day</description>
+    <arm_group_label>Matching Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Age range: 55 years to 90 years. The main rationale for this inclusion criteria is to&#xD;
+             follow the standard set by the Alzheimer's Disease Cooperative Study (ADCS).&#xD;
+&#xD;
+          -  Memory complaint expressed by the participant and recognized by the informant. The&#xD;
+             memory complaint must represent a change from previous functioning based on&#xD;
+             information provided by both subject and informant.&#xD;
+&#xD;
+          -  Fluent in English or Spanish.&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) equal or more than 20.&#xD;
+&#xD;
+          -  Subjects must fulfill criteria for amnestic mild cognitive impairment (MCI).&#xD;
+             Guidelines for the diagnosis of MCI: Subjects must score below a predetermined cut-off&#xD;
+             score on the logical memory II delayed paragraph recall sub-test of the Wechsler&#xD;
+             Memory Scale Revised (WMS-R) or the selective reminding test (SRT).&#xD;
+&#xD;
+          -  Global Clinical Dementia Rating (CDR) score must be 0.5 at screening.&#xD;
+&#xD;
+          -  Subjects without a known history of diabetes or diabetes that has never been treated&#xD;
+             with medications. If diabetes is diagnosed during screening or they have a history of&#xD;
+             diabetes not treated in the last 12 months they will be excluded if their Hemoglobin&#xD;
+             A1c (HbA1c) is &gt; 6.5. In addition, a diagnosis of diabetes can be made if the HbA1c is&#xD;
+             6.5% or more.&#xD;
+&#xD;
+          -  Overweight or obese by National Heart, Lung, and Blood Institute (NHLBI) criteria&#xD;
+             (Body Mass Index (BMI) of more or equal of 25 kg/ m2).&#xD;
+&#xD;
+          -  No contraindications to metformin treatment.&#xD;
+&#xD;
+          -  Hachinski score less or equal to 4.&#xD;
+&#xD;
+          -  Hamilton score less or equal to 12 on the 17 item scale.&#xD;
+&#xD;
+          -  General cognition and functional performance such that a diagnosis of dementia cannot&#xD;
+             be made at the time of screening based on DSM-IV criteria.&#xD;
+&#xD;
+          -  Vision and hearing must be sufficient for compliance with testing procedures.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Individuals with dementia&#xD;
+&#xD;
+          -  MMSE &lt; 20&#xD;
+&#xD;
+          -  Subjects with neurologic diseases associated to neurologic deficits.&#xD;
+&#xD;
+          -  Subjects with current psychiatric diagnoses such as depression, bipolar disorder or&#xD;
+             schizophrenia.&#xD;
+&#xD;
+          -  Subjects with uncontrolled hypertension (systolic blood pressure more than 160 mmHg or&#xD;
+             diastolic blood pressure more than 95 mmHg.&#xD;
+&#xD;
+          -  Subjects with a history of active cancer or cancer within last five years, with the&#xD;
+             exception of squamous or basal cell carcinoma of the skin.&#xD;
+&#xD;
+          -  Subjects who for any reason may not complete the study as judged by the study&#xD;
+             physician.&#xD;
+&#xD;
+          -  Subjects with a known history of diabetes treated with medications.&#xD;
+&#xD;
+          -  Subjects with a new or old diagnosis of diabetes, never treated, with a HbA1c of more&#xD;
+             than 6.5 .&#xD;
+&#xD;
+          -  Contraindications to metformin: Contraindications to metformin use include a&#xD;
+             creatinine of &gt; 1.5, liver disease by history or by elevated transaminases, congestive&#xD;
+             heart failure, and alcohol abuse.&#xD;
+&#xD;
+          -  Use of cholinesterase inhibitors.&#xD;
+&#xD;
+        Exclusion criteria for brain imaging study:&#xD;
+&#xD;
+          -  Presence of diabetes, even if the HbA1c is less or equal to 6.5.&#xD;
+&#xD;
+          -  Inability to lie down for any reason.&#xD;
+&#xD;
+          -  Presence of any metallic implant.&#xD;
+&#xD;
+          -  Claustrophobia.&#xD;
+&#xD;
+          -  Any contraindication to magnetic resonance imaging (MRI) or fluorodeoxyglucose (FDG)&#xD;
+             positron emission tomography (PET).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jose A Luchsinger, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Luchsinger JA, Perez T, Chang H, Mehta P, Steffener J, Pradabhan G, Ichise M, Manly J, Devanand DP, Bagiella E. Metformin in Amnestic Mild Cognitive Impairment: Results of a Pilot Randomized Placebo Controlled Clinical Trial. J Alzheimers Dis. 2016;51(2):501-14. doi: 10.3233/JAD-150493.</citation>
+    <PMID>26890736</PMID>
+  </results_reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>February 7, 2008</study_first_submitted>
+  <study_first_submitted_qc>February 19, 2008</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 21, 2008</study_first_posted>
+  <results_first_submitted>June 8, 2015</results_first_submitted>
+  <results_first_submitted_qc>September 30, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 23, 2020</results_first_posted>
+  <last_update_submitted>September 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>José A. Luchsinger</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine and Epidemiology at NYPH/CUMC</investigator_title>
+  </responsible_party>
+  <keyword>Metformin</keyword>
+  <keyword>Mild Cognitive Impairment (MCI)</keyword>
+  <keyword>Alzheimer's Disease (AD)</keyword>
+  <keyword>Overweight</keyword>
+  <keyword>Insulin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metformin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Recruitment was completed in 32 months (2.5 subjects a month) [38]; 1426 subjects were screened by telephone and 331 were screened in person.</recruitment_details>
+      <pre_assignment_details>1426 screened by telephone and 1095 excluded; 331 deemed eligible for in-person screen; 224 of those were excluded; 87 met eligibility criteria, 7 declined randomization, 80 were randomized</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo</title>
+          <description>placebo identical to metformin.&#xD;
+placebo: placebo identical to metformin 2 tablets twice a day titrated from one table once a day</description>
+        </group>
+        <group group_id="P2">
+          <title>Metformin</title>
+          <description>metformin 1000 mg twice a day&#xD;
+metformin: metformin 1000 mg twice a day titrated from 500 mg once a day</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="40"/>
+                <participants group_id="P2" count="40"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>3 Month Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="39"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>6 Month Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="38"/>
+                <participants group_id="P2" count="36"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>9 Month Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="37"/>
+                <participants group_id="P2" count="34"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="33">12 month follow-up</participants>
+                <participants group_id="P2" count="32">12 month follow-up</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="8"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo</title>
+          <description>placebo identical to metformin.&#xD;
+placebo: placebo identical to metformin 2 tablets twice a day titrated from one table once a day. Participants remained on the maximum number of tolerated tablets (0,1,2,3,4).</description>
+        </group>
+        <group group_id="B2">
+          <title>Metformin</title>
+          <description>metformin 1000 mg twice a day&#xD;
+metformin: metformin 1000 mg twice a day titrated from 500 mg once a day.Participants remained on the maximum number of tolerated tablets (0,1,2,3,4).</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="40"/>
+            <count group_id="B2" value="40"/>
+            <count group_id="B3" value="80"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="64.1" spread="7.9"/>
+                    <measurement group_id="B2" value="65.3" spread="7.0"/>
+                    <measurement group_id="B3" value="64.5" spread="7.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="42"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="38"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="40"/>
+                    <measurement group_id="B3" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>APOE Epsilon 4</title>
+          <description>homozygous or heterozygous for APOE Epsilon 4</description>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>ApoE Epsilon 4 positive</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>ApoE epsilon 4 negative</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Body Mass Index</title>
+          <units>kg/m⌃2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31.3" spread="4.7"/>
+                    <measurement group_id="B2" value="30.9" spread="4.1"/>
+                    <measurement group_id="B3" value="31.1" spread="4.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hemoglobin A1c</title>
+          <units>percent HbA1c</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6.1" spread="0.5"/>
+                    <measurement group_id="B2" value="6.1" spread="0.8"/>
+                    <measurement group_id="B3" value="6.1" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Fasting insulin</title>
+          <units>IU/dl</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13.4" spread="7.6"/>
+                    <measurement group_id="B2" value="16.3" spread="9.5"/>
+                    <measurement group_id="B3" value="14.7" spread="8.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Systolic blood pressure</title>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="132.1" spread="12.4"/>
+                    <measurement group_id="B2" value="130.8" spread="10.9"/>
+                    <measurement group_id="B3" value="131.4" spread="11.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Total Cholesterol</title>
+          <units>mg/dl</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="208.2" spread="46.7"/>
+                    <measurement group_id="B2" value="204.2" spread="43.6"/>
+                    <measurement group_id="B3" value="206.2" spread="44.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>High Density lipoprotein</title>
+          <units>mg/dl</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58.3" spread="17.7"/>
+                    <measurement group_id="B2" value="51.5" spread="14.1"/>
+                    <measurement group_id="B3" value="54.8" spread="16.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Score of the Alzheimer's Disease Assessment Scale-cognitive subscale (ADAS-cog)</title>
+          <description>The ADAS-cog is an aggregate for several cognitive tests intended to provide a global cognitive score and consists of 11 tasks. The tasks (and corresponding score range)) are Word Recall (0-10), Naming (0-4), Commands (0-5), Constructional Praxis (0-5) Ideational Praxis (0-5), Orientation (0-8), Word Recognition (0-12), Language (0-5), Word Finding Difficulty (0-5), and Remembering Test Instructions (1-5). The range of aggregate scores (sum of scores) is 1 to 69, with higher scores meaning worse cognitive performance.</description>
+          <units>score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14.6" spread="6.1"/>
+                    <measurement group_id="B2" value="12.0" spread="4.0"/>
+                    <measurement group_id="B3" value="13.3" spread="5.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Selective Reminding Test Total Recall score</title>
+          <description>The Selective Reminding Test measures verbal learning and delayed recall through a multiple-trial list-learning paradigm. Patients are presented aurally with a list of 12 words for trial 1 and are asked to recall as many as possible. For trials 2-6, there is a selective presentation of only those words not recalled on the previous trial. Trial 7 is similar to the other trials but is assessed after an 11-minute delay. The score for the selective reminding test is the unweighted average of seven individual study results (min=0 and max=84) Higher scores indicate a better cognitive performance.</description>
+          <units>score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="36.1" spread="9.5"/>
+                    <measurement group_id="B2" value="34.2" spread="7.9"/>
+                    <measurement group_id="B3" value="35.2" spread="8.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Education in Years</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13.1" spread="4.5"/>
+                    <measurement group_id="B2" value="13.8" spread="3.4"/>
+                    <measurement group_id="B3" value="13.4" spread="4.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Total Recall Score in the Selective Reminding Test</title>
+        <description>The Selective Reminding Test measures verbal learning and delayed recall through a multiple-trial list-learning paradigm. Patients are presented aurally with a list of 12 words for trial 1 and are asked to recall as many as possible. For trials 2-6, there is a selective presentation of only those words not recalled on the previous trial. Trial 7 is similar to the other trials but is assessed after an 11-minute delay. The score for the selective reminding test is the unweighted average of seven individual study results (min=0 and max=84) Higher scores indicate a better cognitive performance. The total recall score from the first visit was subtracted from that of the last visit to calculate the change in score (total words recalled).</description>
+        <time_frame>12 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Placebo identical to metformin.&#xD;
+placebo: placebo identical to metformin 2 tablets twice a day titrated from one tablet once a day. Participants remained on the highest tolerated dose (0,1,2,3,4 tablets).</description>
+          </group>
+          <group group_id="O2">
+            <title>Metformin</title>
+            <description>Metformin 1000 mg twice a day&#xD;
+metformin: metformin 1000 mg twice a day titrated from 500 mg once a day. Participants remained on the highest tolerated dose (0,1,2,3,4 tablets of 500 mg each).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Total Recall Score in the Selective Reminding Test</title>
+          <description>The Selective Reminding Test measures verbal learning and delayed recall through a multiple-trial list-learning paradigm. Patients are presented aurally with a list of 12 words for trial 1 and are asked to recall as many as possible. For trials 2-6, there is a selective presentation of only those words not recalled on the previous trial. Trial 7 is similar to the other trials but is assessed after an 11-minute delay. The score for the selective reminding test is the unweighted average of seven individual study results (min=0 and max=84) Higher scores indicate a better cognitive performance. The total recall score from the first visit was subtracted from that of the last visit to calculate the change in score (total words recalled).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="40"/>
+                <count group_id="O2" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.7" spread="8.7"/>
+                    <measurement group_id="O2" value="9.4" spread="8.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.05</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>3.7</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>1.92</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>The difference is the value for the metformin arm minus the value for the placebo arm.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.05</p_value>
+            <method>ANCOVA</method>
+            <method_desc>adjusted for baseline ADAS-Cog value</method_desc>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>4.1</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>1.36</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>The difference is the value for the metformin arm minus the value for the placebo arm.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Score of the Alzheimer's Disease Assessment Scale-cognitive Subscale (ADAS-cog)</title>
+        <description>The ADAS-cog is an aggregate for several cognitive tests intended to provide a global cognitive score and consists of 11 tasks. The tasks (and corresponding score range)) are Word Recall (0-10), Naming (0-4), Commands (0-5), Constructional Praxis (0-5) Ideational Praxis (0-5), Orientation (0-8), Word Recognition (0-12), Language (0-5), Word Finding Difficulty (0-5), and Remembering Test Instructions (1-5). The range of aggregate scores (sum of scores) is 1 to 69, with higher scores meaning worse cognitive performance. The change was calculated subtracting the baseline score from the final visit score.</description>
+        <time_frame>12 months</time_frame>
+        <population>Analyses used an intent to treat approach with last observation carried forward</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>placebo identical to metformin.&#xD;
+placebo: placebo identical to metformin 2 tablets twice a day titrated from one table once a day. Participants were maintained on the highest tolerated dose (0,1,2,3,4 tablets).</description>
+          </group>
+          <group group_id="O2">
+            <title>Metformin</title>
+            <description>metformin 1000 mg twice a day&#xD;
+metformin: metformin 1000 mg twice a day titrated from 500 mg once a day.Participants were maintained on the highest tolerated dose (0,1,2,3,4 tablets of 500 mg each).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Score of the Alzheimer's Disease Assessment Scale-cognitive Subscale (ADAS-cog)</title>
+          <description>The ADAS-cog is an aggregate for several cognitive tests intended to provide a global cognitive score and consists of 11 tasks. The tasks (and corresponding score range)) are Word Recall (0-10), Naming (0-4), Commands (0-5), Constructional Praxis (0-5) Ideational Praxis (0-5), Orientation (0-8), Word Recognition (0-12), Language (0-5), Word Finding Difficulty (0-5), and Remembering Test Instructions (1-5). The range of aggregate scores (sum of scores) is 1 to 69, with higher scores meaning worse cognitive performance. The change was calculated subtracting the baseline score from the final visit score.</description>
+          <population>Analyses used an intent to treat approach with last observation carried forward</population>
+          <units>score</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="40"/>
+                <count group_id="O2" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.98" spread="5.5"/>
+                    <measurement group_id="O2" value="0.0" spread="3.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.06</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>1.98</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>1.01</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>The difference is the value for the metformin arm minus the value for the placebo arm.</estimate_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.34</p_value>
+            <method>ANCOVA</method>
+            <method_desc>adjusted for baseline ADAS-Cog score.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.9</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>0.91</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>The difference is the value for the metformin arm minus the value for the placebo arm.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Relative Glucose Uptake (rCMRg) in the Posterior Cingulate-precuneus.</title>
+        <description>Change in relative glucose uptake (rCMRgl) in the posterior cingulate-precuneus measured with subscale (ADAS-Cog) from brain [18]F-labeled 2-deoxy-2-fluoro-D-glucose (FDG) positron emission tomography (PET). The unit for rCMRgl is %. The results presented are absolute differences in rCMRgl, presented in % units; the change was calculated subtracting the baseline rCMRgl from the follow-up rCMRgl</description>
+        <time_frame>12 months</time_frame>
+        <population>Out of 40 persons recruited in the imaging sub study, 33 underwent a 12 month scan (18 in the placebo group, 15 in the metformin group).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>Placebo identical to metformin.&#xD;
+placebo: placebo identical to metformin 2 tablets twice a day titrated from one table once a day. Participants remained on the highest tolerated dose (0,1,2,3,4 tablets).</description>
+          </group>
+          <group group_id="O2">
+            <title>Metformin</title>
+            <description>Metformin 1000 mg twice a day&#xD;
+metformin: metformin 1000 mg twice a day titrated from 500 mg once a day. Participants remained on the highest tolerated dose (0,1,2,3,4 tablets of 500 mg each).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Relative Glucose Uptake (rCMRg) in the Posterior Cingulate-precuneus.</title>
+          <description>Change in relative glucose uptake (rCMRgl) in the posterior cingulate-precuneus measured with subscale (ADAS-Cog) from brain [18]F-labeled 2-deoxy-2-fluoro-D-glucose (FDG) positron emission tomography (PET). The unit for rCMRgl is %. The results presented are absolute differences in rCMRgl, presented in % units; the change was calculated subtracting the baseline rCMRgl from the follow-up rCMRgl</description>
+          <population>Out of 40 persons recruited in the imaging sub study, 33 underwent a 12 month scan (18 in the placebo group, 15 in the metformin group).</population>
+          <units>percentage of rCMRgl</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="18"/>
+                <count group_id="O2" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.0" spread="6.0"/>
+                    <measurement group_id="O2" value="2.0" spread="6.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.36</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>2.0</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>2.14</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>The difference is the value for the metformin arm minus the value for the placebo arm.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Change in Plasma Amyloid Beta-42</title>
+        <description>Change in plasma Amyloid beta-42 from baseline to 12 months</description>
+        <time_frame>12 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo</title>
+            <description>placebo identical to metformin.&#xD;
+placebo: placebo identical to metformin 2 tablets twice a day titrated from one table once a day. Participants remained on the highest tolerated dose (0,1,2,3,4 tablets).</description>
+          </group>
+          <group group_id="O2">
+            <title>Metformin</title>
+            <description>metformin 1000 mg twice a day&#xD;
+metformin: metformin 1000 mg twice a day titrated from 500 mg once a day.Participants remained on the highest tolerated dose (0,1,2,3,4 tablets of 500 mg each).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Plasma Amyloid Beta-42</title>
+          <description>Change in plasma Amyloid beta-42 from baseline to 12 months</description>
+          <units>pg/ml</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="40"/>
+                <count group_id="O2" value="40"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-4.40" spread="23.51"/>
+                    <measurement group_id="O2" value="0.69" spread="18.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority or Other (legacy)</non_inferiority_type>
+            <p_value>0.34</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>5.09</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>4.73</dispersion_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <estimate_desc>The difference is the value for the metformin arm minus the value for the placebo arm.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>12 months</time_frame>
+      <desc>The adverse event data were collected during the 12 months of the duration of the trial</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo</title>
+          <description>Matching placebo&#xD;
+placebo: matching identical to metformin 2 tablets twice a day titrated from one table once a day</description>
+        </group>
+        <group group_id="E2">
+          <title>Metformin</title>
+          <description>metformin 1000 mg twice a day&#xD;
+metformin: metformin 1000 mg twice a day titrated from 500 mg once a day</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="40"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="40"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal symptoms</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="40"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="40"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The pilot study had a small sample size and relatively short duration, both for the whole sample, and the imaging sub-sample</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Jose Luchsinger</name_or_title>
+      <organization>Columbia University Medical Center</organization>
+      <phone>212-3054730</phone>
+      <email>jal94@cumc.columbia.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

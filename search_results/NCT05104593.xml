@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2718">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05104593</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CAREPATH</org_study_id>
+    <secondary_id>945169</secondary_id>
+    <nct_id>NCT05104593</nct_id>
+  </id_info>
+  <brief_title>An Integrated Solution for Sustainable Care for Multimorbid Elderly Patients With Dementia</brief_title>
+  <acronym>CAREPATH</acronym>
+  <official_title>An Integrated Solution for Sustainable Care for Multimorbid Elderly Patients With Mild Cognitive Impairment or Mild Dementia (CAREPATH)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Complejo Hospitalario Universitario de Albacete</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ECLEXYS SAGL</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG E.V.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Klinikum Bielefeld</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Warwick</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospitals Coventry and Warwickshire NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Castilla-La Mancha</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CENTRUL IT PENTRU STIINTA SI TEHNOLOGIE</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SRDC YAZILIM ARASTIRMA VE GELISTIRME VE DANISMANLIK TICARET ANONIM SIRKETI</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>OCTILIUM SAGL</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Complejo Hospitalario Universitario de Albacete</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The CAREPATH will conduct Technical Validation and Usability (TVU) study by involving ≥ 45&#xD;
+      target end users (16 patients with MCI or mild dementia with their informal caregivers and 16&#xD;
+      healthcare professionals from various disciplines) and Clinical Investigation (CI) study&#xD;
+      involving ≥ 200 patients (≥ 100 users to pilot the CAREPATH platform and ≥ 100 patients as&#xD;
+      reference cases). Both of these pilot studies will be coordinated in four European countries&#xD;
+      (Spain, Romania, Germany and UK) with diverse health and social care systems, ICT&#xD;
+      landscape/digital maturity of healthcare provision and dementia national programs, which will&#xD;
+      allow for strengthening the evidence base on health outcomes and efficiency gains.&#xD;
+&#xD;
+      The CAREPATH outcomes can be summarized as:&#xD;
+&#xD;
+        1. An Integrated Care Platform that jointly addresses multimorbidity, dementia and&#xD;
+           diminished intrinsic capacity and optimally manages healthcare interventions for its&#xD;
+           users (patients, informal caregiver, healthcare providers, etc).&#xD;
+&#xD;
+        2. Technical Validation and Usability (TVU) study involving over 45 users and Clinical&#xD;
+           Investigation (CI) involving over 200 patients that will be conducted in four European&#xD;
+           countries (Spain, Romania, Germany and UK) during two years and mobilizing the other&#xD;
+           necessary actors, such as caregivers and healthcare professionals, for the validation of&#xD;
+           healthcare interventions.&#xD;
+&#xD;
+        3. Dementia / Multimorbidity Guidelines that will be conceived for best healthcare&#xD;
+           delivery.&#xD;
+&#xD;
+        4. Health Economics Impact Assessment for healthcare cost effectiveness and care provision&#xD;
+           equalities. The incremental cost-effectiveness and the incremental cost-utility ratio&#xD;
+           would allow revealing the incremental cost (or the potential savings) per unit of&#xD;
+           benefit of switching from usual care to CAREPATH-an integrated patient-centred approach-&#xD;
+           in multimorbid elderly patients with dementia, and therefore, to determinate whether the&#xD;
+           CAREPATH approach would be considered as a cost-effective alternative.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study will have two parts:&#xD;
+&#xD;
+      A. Usability study In order to ensure that the CAREPATH system is well-usable by its main&#xD;
+      target user groups namely patients with Mild Cognitive Impairment (MCI) or mild dementia,&#xD;
+      their informal caregivers and health care professionals in charge of caring for this patient&#xD;
+      group, a usability evaluation of the platform will be conducted as part of the Technical&#xD;
+      Validation and Usability (TVU) study described in chapter 1.3.6 of the proposal (IEC TR&#xD;
+      62366-2: 2016-04 Medical devices - Part 2: Guidance on the application of usability&#xD;
+      engineering to medical devices). It will be carried out at the end of the main development&#xD;
+      phase to investigate usability issues and its results will serve as input for the (re-)design&#xD;
+      of the platform before the clinical investigation starts. Implementation of good usability of&#xD;
+      a medical device such as the CAREPATH platform is also enforced by the usability engineering&#xD;
+      process required now in the development of a medical devices by the new Medical Device&#xD;
+      Regulation (Regulation (EU) 2017/745) (Regulation (EU) 2017/745 of the European parliament&#xD;
+      and of the council of 5 April 2017 on medical devices, amending Directive 2001/83/EC,&#xD;
+      Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives&#xD;
+      90/385/EEC and 93/42/EEC) which originates in the concern that increasing complexity and&#xD;
+      interactivity of medical devices bears a high risk of errors in handling if poorly designed&#xD;
+      causing harm to patients. Therefore, usability and safety are seen as interrelated and in the&#xD;
+      CAREPATH usability study possible hazardous situations will also be taken into account.&#xD;
+&#xD;
+      B. Clinical Investigation with a Medical Device class IIa After finishing the TVU, a Clinical&#xD;
+      Investigation will be conducted in order to validate the technological system CAREPATH for&#xD;
+      multimorbid elderly patients with MCI up to mild dementia (see Work Package 5 of the complete&#xD;
+      proposal). This version of CAREPATH will include the modifications made by engineers in the&#xD;
+      system after the analysis of the TVU phase.&#xD;
+&#xD;
+      The main objective will be to analyze the reduction in healthcare appointments and the&#xD;
+      hypothesis is that CAREPATH will improve Quality of Life (QoL) of these patients through a&#xD;
+      multicomponent approach based on the 5 following principles:&#xD;
+&#xD;
+        1. Identification of purpose.&#xD;
+&#xD;
+        2. Establishment of disease and treatment burden, by considering how a person's health&#xD;
+           problems affect their day-to-day life, their mental health and their wellbeing.&#xD;
+&#xD;
+        3. Formulation of patient goals, values and priorities&#xD;
+&#xD;
+        4. Communicating to patients and caregivers the benefits, risks and costs of treatments and&#xD;
+           medications.&#xD;
+&#xD;
+        5. Provision of an individualised care plan.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2023</start_date>
+  <completion_date type="Anticipated">July 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomization will be performed centrally using a computerized system that uses stratified block randomization. After screening, patients who meet all eligibility criteria will be randomly assigned to 1 of 2 treatment groups (CAREPATH or control). Patients will be randomized in a CAREPATH to control ratio of 1:1. Randomization to intervention allocation will be stratified by sex, associated comorbidity and geographic region. Stratification factors will ensure balance of these factors across intervention arms and facilitate unbiased estimate of intervention effect in subgroups.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>The study is to be conducted in a simple-blind manner to minimize potential bias from investigators. It is not possible to conduct a double-blind study, because patients will know if they are using CAREPATH or not. In each site, two different investigators will be involved in the study. The first one will be responsible of initial assessments, randomization and management during follow-up. The investigator responsible of follow-up assessments for outcomes will be blinded to the assignment group in order to reduce the treatment effect bias.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in healthcare appointments</measure>
+    <time_frame>1 year</time_frame>
+    <description>The following healthcare appointments will be recorded, including if they are scheduled or unscheduled, date, reason, actions taken and relationship with CAREPATH.&#xD;
+Hospitalization Emergency visits Outpatient specialists visits at hospital or in polyclinics Primary care/General Practitioners medical visit Primary care nurse visit At-home medical visit At-home nurse visit Physiotherapist or occupational therapist visit Psychologist/Psychiatry visit Nutritionist/Dietist visit Radiology tests Lab analysis Other clinical tests</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life (QoL)</measure>
+    <time_frame>1 year</time_frame>
+    <description>QoL will be determined using the EuroQoL-5D test, validated for these populations (Balestroni G, Bertolotti G. EuroQol-5D (EQ-5D): an instrument for measuring quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in unplanned care</measure>
+    <time_frame>1 year</time_frame>
+    <description>Reduction in unplanned care: Unplanned care will be considered when the appointment to the service is not programmed at least 48 hours in anticipation, except for institutionalization or day centre admission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in inappropriate prescription</measure>
+    <time_frame>1 year</time_frame>
+    <description>Decrease in inappropriate prescription: STOPP/START criteria will be used to assess inappropriate prescription medicines (O´Mahony D, O´Sullivan D, Byrne S, et al. STOPP/START criteria for potentially inappropriate prescribing in older people: versión 2; Age Ageing 2015; 44: 213-18).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of participants with advanced directives</measure>
+    <time_frame>1 year</time_frame>
+    <description>Increased number of participants with advanced directives: Written document available for advanced decisions for healthcare. The document should be agreed upon patient, Primary Care Physician/ General Practitioner and main caregiver to be considered valid for outcomes assessment.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">204</enrollment>
+  <condition>Comorbidities and Coexisting Conditions</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Malnutrition</condition>
+  <condition>Frailty</condition>
+  <condition>Sarcopenia</condition>
+  <condition>Stroke</condition>
+  <condition>Asthma</condition>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <condition>Chronic Kidney Diseases</condition>
+  <condition>Heart Failure</condition>
+  <condition>Diabetes</condition>
+  <condition>Coronary Artery Disease</condition>
+  <condition>Hypertension</condition>
+  <condition>Behavioral Symptoms</condition>
+  <arm_group>
+    <arm_group_label>Intervention tested (CAREPATH)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention tested will be the CAREPATH system.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Control group, no intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Intervention tested (CAREPATH)</intervention_name>
+    <description>The intervention tested will be the CAREPATH system. CAREPATH consists of an integrated, patient-centred, flexible and modular system that will provide a viable solution for the improvement of the management of multimorbid elderly patients with Mild Cognitive Impairment or mild dementia, with the help of clinicians. CAREPATH will act on patients and their informal caregivers, and its main objective is to empower multimorbid patients with MCI or mild dementia to manage their health condition together with their informal caregiver by providing assistance and reinforcement to follow their individual care plans, so independence and quality of life will increase for both of them. The intervention will provide a personalized care plan and activities proposal (treatment, activities proposal, lifestyle changes, referrals etc.) to patients and caregivers, considering the various sources of patient data available through the CAREPATH platform, and with the help of clinicians.</description>
+    <arm_group_label>Intervention tested (CAREPATH)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Women and men aged ≥ 65 years old (randomization will warrant that at least 40% of&#xD;
+             each sex will be included in the study).&#xD;
+&#xD;
+          -  Meets NIAAA core clinical criteria for probable Alzheimer disease, dementia or Mild&#xD;
+             Cognitive Impairment due to Alzheimer´s Disease (consistent with the NIAAA diagnostic&#xD;
+             criteria and guidelines for MCI; Albert MS, DeKosky ST, Dickson B, et al. The&#xD;
+             diagnosis of mild cognitive impairment due to Alzheimer's disease: Recommendations&#xD;
+             from the National Institute on Aging Alzheimer's Association workgroups on diagnostic&#xD;
+             guidelines for Alzheimer's disease. Alzheimer's &amp; Dement 2011; 7: 270-9)&#xD;
+&#xD;
+          -  Mild symptomatology, as defined by a screening MMSE score of ≥ 22 points and CDR-GS of&#xD;
+             0.5 or 1.0.&#xD;
+&#xD;
+          -  Evidence of retrospective decline in cognitive functions.&#xD;
+&#xD;
+          -  Multimorbidity: Presence of at least one of the following chronic diseases: Diabetes&#xD;
+             mellitus needing pharmacologic treatment, hypertension needing pharmacologic&#xD;
+             treatment, heart failure NYHA class 2-4, atrial fibrillation with a CHA2DS2-Vasc,&#xD;
+             chronic obstructive pulmonary disease (COPD) GOLD staging B-D, asthma needing&#xD;
+             pharmacologic treatment or chronic kidney disease (CKD) stage III-V.&#xD;
+&#xD;
+          -  Living at home.&#xD;
+&#xD;
+          -  Independence for basic activities of daily living.&#xD;
+&#xD;
+          -  Availability of a person (referred to as the &quot;caregiver&quot; throughout this protocol) who&#xD;
+             in the investigator's judgment:&#xD;
+&#xD;
+               -  Has frequent and sufficient contact with the patient to be able to provide&#xD;
+                  accurate information regarding the patient's cognitive and functional abilities,&#xD;
+                  agrees to provide information at clinic visits (which require partner input for&#xD;
+                  scale completion), signs the necessary consent form, and has sufficient cognitive&#xD;
+                  capacity to accurately report upon the patient's behavior and cognitive and&#xD;
+                  functional abilities.&#xD;
+&#xD;
+               -  Is in sufficiently good general health to have a high likelihood of maintaining&#xD;
+                  the same level of interaction with the patient and participation in study&#xD;
+                  procedures throughout the study duration.&#xD;
+&#xD;
+               -  Note that every effort should be made to have same caregiver participate&#xD;
+                  throughout the duration of the study.&#xD;
+&#xD;
+          -  Fluency in the language used at the study site.&#xD;
+&#xD;
+          -  Willingness and ability to complete all aspects of the study; the patient should be&#xD;
+             capable of completing assessments either alone or with the help of the caregiver.&#xD;
+&#xD;
+          -  Adequate visual and auditory acuity, in the investigator's judgement, sufficient to&#xD;
+             perform the neuropsychological testing (eye glasses and hearing aids are permitted).&#xD;
+&#xD;
+          -  Patient must have completed at least 6 years of formal education after the age of 5&#xD;
+             years.&#xD;
+&#xD;
+          -  Able to provide written consent signed by the patient (co-signed by the patient's&#xD;
+             legally authorized representative, if required by the local regulations, guidelines,&#xD;
+             and independent ethics committee or institutional review board [IRB]).&#xD;
+&#xD;
+               -  Patients should be judged by the investigator to be lucid and oriented to person,&#xD;
+                  place, time, and situation when giving the informed consent.&#xD;
+&#xD;
+               -  In judging capacity, the investigator must confirm that the patient is able to&#xD;
+                  understand the information relevant to the decision to participate in the study,&#xD;
+                  appreciate the situation in terms of the treatment and research options and their&#xD;
+                  likely outcomes, and weigh the potential risks and benefits of participation in&#xD;
+                  order to come to a decision and communicate that decision.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any evidence of established dementia, including but not limited to, frontotemporal&#xD;
+             dementia, dementia with Lewy bodies, vascular dementia, Parkinson's disease,&#xD;
+             corticobasal degeneration, Creutzfeldt-Jakob disease, progressive supranuclear palsy,&#xD;
+             frontotemporal degeneration, Huntington's disease, normal pressure hydrocephalus,&#xD;
+             seizure disorder, or hypoxia. Presence of cerebral tumors, trauma, infections,&#xD;
+             autoimmune diseases or vitamin deficits (B12, folate…) affecting cognition.&#xD;
+&#xD;
+          -  At risk of suicide in the opinion of the investigator.&#xD;
+&#xD;
+          -  Inadequate home infrastructure to host the required technology.&#xD;
+&#xD;
+          -  Inability to understand how to use the CAREPATH system.&#xD;
+&#xD;
+          -  Illness that impedes carrying out the study:&#xD;
+&#xD;
+               -  Active cancer of any type except non-melanoma skin cancer.&#xD;
+&#xD;
+               -  Terminal disease (&lt;12 months of life expectancy).&#xD;
+&#xD;
+               -  Other pathologies involving clinical instability.&#xD;
+&#xD;
+          -  Psychiatric disorders or alcohol/drugs abuse.&#xD;
+&#xD;
+          -  Living with a participant.&#xD;
+&#xD;
+          -  Participation in other interventional clinical studies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Pedro Abizanda Soler, Dr</last_name>
+    <phone>+34636557437</phone>
+    <email>pabizanda@sescam.jccm.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Almudena Avendaño Céspedes, Dr</last_name>
+    <phone>+34967597684</phone>
+    <email>aavendanoc@sescam.jccm.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario Universitario de Albacete</name>
+      <address>
+        <city>Albacete</city>
+        <zip>02006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2021</study_first_posted>
+  <last_update_submitted>November 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Complejo Hospitalario Universitario de Albacete</investigator_affiliation>
+    <investigator_full_name>Pedro Abizanda</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Quality of Life</keyword>
+  <keyword>Multimorbidity</keyword>
+  <keyword>Health monitoring</keyword>
+  <keyword>Home monitoring</keyword>
+  <keyword>Telemedicine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Sarcopenia</mesh_term>
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Renal Insufficiency, Chronic</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Malnutrition</mesh_term>
+    <mesh_term>Frailty</mesh_term>
+    <mesh_term>Behavioral Symptoms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be shared on request. Study protocol, statistical analysis and clinical study report will be shared when data will be published in a Journal.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>At data Journal publication</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

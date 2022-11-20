@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="53">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04520698</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2005967061</org_study_id>
+    <secondary_id>R01AG066922</secondary_id>
+    <nct_id>NCT04520698</nct_id>
+  </id_info>
+  <brief_title>Utilizing Palliative Leaders In Facilities to Transform Care for Alzheimer's Disease</brief_title>
+  <acronym>UPLIFT-AD</acronym>
+  <official_title>Utilizing Palliative Leaders In Facilities to Transform Care for Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indiana University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Maryland, Baltimore</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indiana University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate a comprehensive model for integrating both primary&#xD;
+      and specialty Palliative Care for older adults with dementia into nursing facilities.&#xD;
+      Palliative Care is a supportive care approach that aims to improve the quality of life of&#xD;
+      patients and their families facing serious or life-threatening illnesses, through the&#xD;
+      prevention and relief of suffering through the treatment of pain and other problems, using&#xD;
+      physical, psychosocial and spiritual approaches. Palliative care is specialized medical care&#xD;
+      for people who are living with a serious illness. This type of care is focused on providing&#xD;
+      relief from the symptoms and from the stress of the illness. The goal is to improve quality&#xD;
+      of life for both patient and family.&#xD;
+&#xD;
+      The UPLIFT-AD model will include providing education on primary Palliative Care for residents&#xD;
+      with dementia to nursing facility staff, training nursing facility staff in providing primary&#xD;
+      Palliative Care, and providing access to specialty Palliative Care consultations for&#xD;
+      residents. To help understand the impact of these interventions, this study will also collect&#xD;
+      information about resident health, the care they receive, and perceptions of their quality of&#xD;
+      life according to both family members and nursing facility staff.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of this proposal is to evaluate the effectiveness of the UPLIFT-AD (Utilizing&#xD;
+      Palliative Leaders In Facilities to Transform care for Alzheimer's Disease) intervention and&#xD;
+      to assess the implementation context of the intervention using a hybrid 1 trial design. The&#xD;
+      UPLIFT-AD intervention includes 1) in-house PC champions trained to facilitate goals of care&#xD;
+      conversations with residents with Alzheimer's Disease and Related Dementias (ADRD) and their&#xD;
+      surrogate decision-makers, screen residents for symptoms and other PC needs, provide symptom&#xD;
+      management and serve as a liaison to external PC consultants; 2) specialty PC consultants who&#xD;
+      provide consults for complex residents and families; and 3) primary PC education for nursing&#xD;
+      home (NH) staff. The study will use a randomized, stepped wedge design involving 16 diverse&#xD;
+      NHs in Indiana and Maryland and 640 residents, 640 family members and/or surrogate&#xD;
+      decision-makers, and 320 nursing facility staff.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 8, 2021</start_date>
+  <completion_date type="Anticipated">November 2024</completion_date>
+  <primary_completion_date type="Anticipated">November 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>The study will use a stepped-wedge randomized trial design with 16 sites in two states (Indiana and Maryland). The study team will compare process and outcomes of the UPLIFT-AD intervention vs. usual care. The intervention will be implemented consecutively over 36 months, with staggered roll-out at 4 sites (2 per state) every 6 months.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in End-of-Life Dementia - Comfort Assessment In Dying scale (EOLD-CAD)</measure>
+    <time_frame>1, 6, 12, and 18 months</time_frame>
+    <description>The EOLD-CAD items assess the following 14 symptoms and conditions during the last 7 days of life: discomfort, pain, restlessness, shortness of breath, choking, gurgling, difficulty in swallowing, fear, anxiety, crying, moaning, serenity, peace, and calm. These signs are assessed on a scale ranging from 1 to 3 as follows: not at all, somewhat, and a lot. The last 3 items are reverse-coded because they are considered good conditions. The CAD-EOLD score is constructed by summing the value of each item, and the total score ranges from 14 to 42 with higher scores indicating better symptom control.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in End of Life Dementia - Satisfaction with Care (EOLD-SWC) scale</measure>
+    <time_frame>6, 12, and 18 months</time_frame>
+    <description>The EOLD-SWC assesses satisfaction with care during the prior 7 days. The EOLD-SWC has 10 items, each measured on a 4-point Likert scale ranging from 1 to 4 as follows: strongly disagree, disagree, agree, strongly agree. The questionnaire items address decision-making, communication with health care professionals, understanding the resident's condition, and the resident's medical and nursing care. The total EOLD-SWC score represents a summation of all 10 items (range, 10-40), with higher scores indicating more satisfaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Single item quality-of-life (QOL) measure</measure>
+    <time_frame>1, 6, 12, and 18 months</time_frame>
+    <description>The single item quality-of-life measure is a seven point scale describing overall quality of life. Lower scores indicate poorer quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in staff perceptions survey</measure>
+    <time_frame>6, 12, and 18 months</time_frame>
+    <description>Change in staff perceptions surrounding impact, adoption, and buy-in to the intervention will be assessed using a two-item survey that asks about the perceived helpfulness of interactions and materials provided to residents and families.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Palliative Care outcomes</measure>
+    <time_frame>1, 3, 6, 9, 12, 15, and 18 months</time_frame>
+    <description>Change in nursing home-level palliative care outcomes will be assessed using abstraction from the Minimum Data Set, and include measures of resident mood, pain and symptom management, hospice use, goals of care, and palliative care service use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in staff palliative care knowledge</measure>
+    <time_frame>5 and 7 months</time_frame>
+    <description>Change in staff palliative care knowledge will be measured by the Palliative Care survey (PCS). The PCS is a validated instrument, which includes subscales evaluating the frequency of key PC practice behaviors: family communication, provider coordination, planning/intervention, and bereavement. The total instrument score and each of the subscales are averaged to produce a range from 1 to 4, with higher scores indicating superior PC practices.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Dying in Long Term Care (QOD-LTC)</measure>
+    <time_frame>18 months</time_frame>
+    <description>The quality of dying-long-term care (QOD-LTC) was developed for cognitively impaired and intact residents in NHs and residential care/assisted living settings [21]. It assesses perspectives on quality of personhood, closure, and preparatory tasks. Higher mean scores reflect a higher quality of end-of-life in LTC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fidelity to intervention</measure>
+    <time_frame>1, 6, 12, and 18 months</time_frame>
+    <description>The UPLIFT fidelity checklist evaluates whether core components of UPLIFT have been sufficiently implemented at both the facility and resident level. Facility level components include: receipt of staff training; establishment of a facility tailored UPLIFT protocol manual; identification of at least two in-house champions; assigned external PC consultants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Family Distress in Advanced Dementia Scale.</measure>
+    <time_frame>6, 12, and 18 months</time_frame>
+    <description>The Family Distress in Advanced Dementia Scale was developed for use with family members of nursing home residents with advanced dementia. This 21-item scale consists of three domains of distress: emotional distress, dementia preparedness, and nursing home relations. Higher scores indicate higher distress.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in End of Life Dementia - Symptom Management Scale.</measure>
+    <time_frame>1, 6, 12, and 18 months</time_frame>
+    <description>This scale examines the frequency a resident experiences nine symptoms a during the previous 7 days: pain, shortness of breath, depression, fear, anxiety, agitation, calm, skin breakdown, and resistance to care. Frequency is assessed using a 6-point Likert scale ranging from 0 to 5: daily, several days a week, once a week, 2 or 3 days a month, once a month, never. The EOLD-SM score ranges from 0-45 with higher scores indicating better symptom control (comfort).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Nursing Home-level UPLIFT-AD intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The UPLIFT-AD intervention consists of three major components delivered at the level of the nursing home: 1) in-house PC champions trained to a) facilitate advance care planning conversations with residents with Alzheimer's Disease and Related Dementias and their surrogate decision-makers, b) screen and follow up on residents' Palliative Care needs and c) serve as a liaison to Palliative Care consultants; 2) specialty Palliative Care consultant support providing individual consults for residents with complex Palliative Care needs; and 3) education on primary Palliative Care offered to all clinical NH staff.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>UPLIFT-AD</intervention_name>
+    <description>Access to palliative care needs screening, advance care planning conversations, palliative care consultations</description>
+    <arm_group_label>Nursing Home-level UPLIFT-AD intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        NURSING HOME RESIDENTS:&#xD;
+&#xD;
+          -  Long-stay resident in an enrolled nursing home defined as not paying through Medicare&#xD;
+             Part A at the enrolled facility.&#xD;
+&#xD;
+          -  Has a diagnosis of moderate to severe ADRD, as measured on the Minimum Data Set (MDS)&#xD;
+&#xD;
+          -  Length of stay &gt;30 days&#xD;
+&#xD;
+        FAMILY MEMBERS/SURROGATE DECISION MAKERS:&#xD;
+&#xD;
+          -  Family member and/or surrogate decision maker for an eligible resident in an enrolled&#xD;
+             nursing home&#xD;
+&#xD;
+          -  English-speaking&#xD;
+&#xD;
+        NURSING HOME STAFF:&#xD;
+&#xD;
+          -  Staff, nurse, or nurse assistant in an enrolled nursing facility&#xD;
+&#xD;
+          -  English-speaking&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        NURSING HOME RESIDENTS:&#xD;
+&#xD;
+        • Short-stay resident, defined as paying through Medicare Part A at the enrolled facility&#xD;
+        and/or receiving respite care&#xD;
+&#xD;
+        FAMILY MEMBERS/SURROGATE DECISION MAKERS:&#xD;
+&#xD;
+        • Non-English-speaking&#xD;
+&#xD;
+        NURSING FACILITY STAFF:&#xD;
+&#xD;
+        • Non-English-speaking&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kathleen T Unroe, MD, MHA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Indiana University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John Cagle, PhD, MSW</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Maryland, Baltimore</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alex Floyd</last_name>
+    <phone>(317) 274-9164</phone>
+    <email>acfloyd@regenstrief.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>American Senior Communities</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alex C Floyd, BS</last_name>
+      <phone>317-274-9164</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 20, 2020</study_first_posted>
+  <last_update_submitted>March 8, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 8, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Indiana University</investigator_affiliation>
+    <investigator_full_name>Kathleen T. Unroe</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Palliative Care</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Nursing Home</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>A de-identified dataset will be created for the purposes of sharing with qualified users, along with data content, format, and organization, will be stored at Indiana University and be available through the Co-PIs. Deidentified data will be available to qualified users who execute Data Use Agreements (DUAs) with the research team and NH partners.</ipd_description>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>The final de-identified dataset will be available to qualified investigators who meet the above criteria upon the on-line publication date of the final results of the trial.</ipd_time_frame>
+    <ipd_access_criteria>Individuals requesting access to the data must provide the following: (1) Executed DUAs with all NH partners; (2) documentation of Institutional Review Board approval; (3) a written commitment that the data will be used only for scholarly research purposes; (4) a written commitment that the user will not attempt to identify any individual patient or NH; (5) confirmation that the data will be secured using appropriate computer technology; and (6) a written commitment that data will be destroyed or returned after analyses are completed.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

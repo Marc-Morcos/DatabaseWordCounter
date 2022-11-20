@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1341">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03412604</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2017P000648</org_study_id>
+    <nct_id>NCT03412604</nct_id>
+  </id_info>
+  <brief_title>Effect of Modulating Gamma Oscillations Using tACS</brief_title>
+  <official_title>Effect of Modulating Gamma Oscillations by Transcranial Alternating Current Stimulation on Brain Structure and Function in Humans</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Defense Advanced Research Projects Agency</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to implement an intervention based on multiple, individualized multifocal&#xD;
+      tACS stimulation sessions based on individual PET and MRI information in patients with&#xD;
+      amyloid-positive PET with the hope that this leads to microglia activation and decrease in&#xD;
+      cerebral amyloid and tau depositions in human patients with AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will leverage all this accumulated knowledge by implementing an intervention based&#xD;
+      on multiple, individualized multifocal tACS stimulation sessions based on individual PET and&#xD;
+      MRI information in patients with amyloid-positive PET with the hope that this leads to&#xD;
+      microglia activation and decrease in cerebral amyloid and tau depositions in human patients&#xD;
+      with AD.This would have immense translational impact, as gamma tACS is an intervention that&#xD;
+      is portable, does not require expensive hardware, can be widely applied to large numbers of&#xD;
+      patients with AD, as well as, given its favorable side effect profile, even to patients at&#xD;
+      earlier stages of the disease who have cerebral amyloid/tau without clinical symptoms.&#xD;
+&#xD;
+      The investigators aim to enroll 10 individuals with AD with evidence of increased cerebral&#xD;
+      amyloid burden on amyloid PET imaging. This would allow for a final sample size of 5-6 fully&#xD;
+      evaluable subjects. Each subject's participation in this study will consist of approximately&#xD;
+      31-35 visits: 1 day for consent and screening procedures, 5-7 days of baseline procedures&#xD;
+      (this includes the PET scans), 20 tACS study visits, and 5-7 days of follow-up assessments.&#xD;
+      Subjects will undergo baseline cognitive assessment, structural and functional MRI&#xD;
+      characterization, PET imaging to assess amyloid burden, tau deposition and level of microglia&#xD;
+      activation, and resting-state EEG measurement. Additionally, subjects will undergo a TMS-EEG&#xD;
+      and a tACS-EEG recording session to assess brain plasticity levels and identify markers of&#xD;
+      response to stimulation. All subjects will subsequently undergo 20 sessions of&#xD;
+      gamma-frequency (40 Hz) tACS. At the end of the 20 sessions, subjects will then repeat the&#xD;
+      baseline assessments over 5-7 visits, including repeat PET imaging to assess for changes in&#xD;
+      amyloid burden, tau deposition, and microglia activation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 2, 2018</start_date>
+  <completion_date type="Actual">September 15, 2019</completion_date>
+  <primary_completion_date type="Actual">May 7, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PET Amyloid Burden</measure>
+    <time_frame>baseline and up to 12 weeks</time_frame>
+    <description>Changes in the amyloid load observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is standardized uptake value ratio (SUVR), a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PET Tau Deposition</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Changes in the tau deposition observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is SUVR, a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR (dSUVR) for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PET Microglia Activation</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Changes in the microglia activation observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is SUVR, a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR (dSUVR) for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Brain Perfusion as Measured by Arterial Spin Labeling</measure>
+    <time_frame>6 weeks (pre-post tACS intervention)</time_frame>
+    <description>Patients underwent a comprehensive MRI exam before and after the tACS intervention, including measures of brain perfusion via Arterial Spin Labeling (ASL) sequences. The outcome measure represent the average change in perfusion (i.e. blood flow) recorded in regions targeted by tACS. Since Alzheimer's Disease is also characterized by a decrease of brain metabolism, an increased of blood flow after treatment would constitute a very promising sign of tACS efficacy in reducing Alzheimer's pathology in the brain.&#xD;
+We will report the change in blood flow (mean, standard deviation) after tACS treatment.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Alzheimer's Disease Assessment Scale -Cog Score</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Change in Adas-Cog score will be reported, to document a potential clinical benefit of tACS. The scale ranges from 0-70 with higher score indicating greater cognitive impairment.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">5</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>tACS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transcranial Alternating Current Stimulation (tACS)</intervention_name>
+    <description>tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+    <arm_group_label>tACS</arm_group_label>
+    <other_name>Non-invasive Brain Stimulation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Clinical Diagnosis of mild to moderate AD*&#xD;
+&#xD;
+          -  Mini Mental State Examination (MMSE) &gt; 18&#xD;
+&#xD;
+          -  Mild AD ≥ 21&#xD;
+&#xD;
+          -  Moderate AD 18-20&#xD;
+&#xD;
+          -  Demonstration or history of memory impairments.&#xD;
+&#xD;
+             * Confirmation of diagnosis will be made by the study MD based on a holistic&#xD;
+             consideration of the participant's cognitive evaluation and history.&#xD;
+&#xD;
+          -  Amyloid positive PET imaging&#xD;
+&#xD;
+          -  At least 45 years old&#xD;
+&#xD;
+          -  On a stable dose of medications for memory loss including cholinesterase inhibitors&#xD;
+             (e.g. donepezil, rivastigmine or memantine) as defined as 6 consecutive weeks of&#xD;
+             treatment at an unchanging dose&#xD;
+&#xD;
+          -  Minimum of completed 8th grade education&#xD;
+&#xD;
+          -  IQ&gt; 85 as determined by the WTAR and no history of intellectual disability&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current history of poorly controlled migraines including chronic medication for&#xD;
+             migraine prevention&#xD;
+&#xD;
+          -  Current or past history of any neurological disorder other than dementia, such as&#xD;
+             epilepsy, stroke, progressive neurologic disease (e.g. multiple sclerosis) or&#xD;
+             intracranial brain lesions; and history of previous neurosurgery or head trauma that&#xD;
+             resulted in residual neurologic impairment.&#xD;
+&#xD;
+          -  Past or current history of major depression, bipolar disorder or psychotic disorders,&#xD;
+             or any other major psychiatric condition.&#xD;
+&#xD;
+          -  Contraindication for undergoing MRI or receiving TMS or tACS,&#xD;
+&#xD;
+          -  &gt;50 mSv of radiation exposure for research within the past year (PET imaging&#xD;
+             exclusion)&#xD;
+&#xD;
+          -  Presence of the Thr/Thr polymorphism in the TSPO gene (rs6971) due to low affinity&#xD;
+             binding for the PBR 28 (microlgia) PET scan&#xD;
+&#xD;
+          -  History of fainting spells of unknown or undetermined etiology that might constitute&#xD;
+             seizures.&#xD;
+&#xD;
+          -  History of seizures, diagnosis of epilepsy, history of abnormal (epileptiform) EEG or&#xD;
+             immediate (1st degree relative) family history of epilepsy; with the exception of a&#xD;
+             single seizure of benign etiology (e.g. febrile seizure) in the judgment of the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  Chronic (particularly) uncontrolled medical conditions that may cause a medical&#xD;
+             emergency in case of a provoked seizure (cardiac malformation, cardiac dysrhythmia,&#xD;
+             asthma, etc.).&#xD;
+&#xD;
+          -  Metal implants (excluding dental fillings) or devices such as pacemaker, medication&#xD;
+             pump, nerve stimulator, TENS unit, ventriculo-peritoneal shunt, cochlear implant,&#xD;
+             unless cleared by the study MD.&#xD;
+&#xD;
+          -  Substance abuse or dependence within the past six months.&#xD;
+&#xD;
+          -  Medications will be reviewed by the responsible MD and a decision about inclusion will&#xD;
+             be made based on the following: The patient's past medical history, drug dose, history&#xD;
+             of recent medication changes or duration of treatment, and combination of CNS active&#xD;
+             drugs.&#xD;
+&#xD;
+          -  All female participants that are pre-menopausal will be required to have a pregnancy&#xD;
+             test; any participant who is pregnant or breastfeeding will not be enrolled in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Subjects who, in the investigator's opinion, might not be suitable for the study&#xD;
+&#xD;
+          -  A hair style or head dress that prevents electrode contact with the scalp or would&#xD;
+             interfere with the stimulation (for example: thick braids, hair weave, afro, wig)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Emiliano Santarnecchi, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>January 22, 2018</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2018</study_first_posted>
+  <results_first_submitted>July 10, 2020</results_first_submitted>
+  <results_first_submitted_qc>May 18, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 21, 2021</results_first_posted>
+  <last_update_submitted>August 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Emiliano Santarnecchi</investigator_full_name>
+    <investigator_title>Associate Professor of Radiology</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 10, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/04/NCT03412604/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>5 participants were enrolled in the study. 4 out of 5 participants completed the study. 1 study subject did not complete the follow-up amyloid and tau PET scans.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>tACS</title>
+          <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>tACS</title>
+          <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="5"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>56</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>64</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>73</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>84</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>PET Amyloid Burden</title>
+        <description>Changes in the amyloid load observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is standardized uptake value ratio (SUVR), a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+        <time_frame>baseline and up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>tACS</title>
+            <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PET Amyloid Burden</title>
+          <description>Changes in the amyloid load observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is standardized uptake value ratio (SUVR), a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+          <units>SUVR</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.11" spread="0.76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>PET Tau Deposition</title>
+        <description>Changes in the tau deposition observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is SUVR, a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR (dSUVR) for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>tACS</title>
+            <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PET Tau Deposition</title>
+          <description>Changes in the tau deposition observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is SUVR, a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR (dSUVR) for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+          <units>SUVR</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-2.85" spread="1.20"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>PET Microglia Activation</title>
+        <description>Changes in the microglia activation observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is SUVR, a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR (dSUVR) for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>tACS</title>
+            <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PET Microglia Activation</title>
+          <description>Changes in the microglia activation observed via PET imaging will be evaluated by comparing PET data acquired before and after the 20 tACS sessions. The metric used is SUVR, a measure of the amount of proteins in the brain identified at the PET exam. We will calculate the difference between pre and post tACS SUVR (dSUVR) for the entire brain and report the average value (and standard deviation) for the entire group of patients. A negative value express a decrease in the amount of proteins in the brain post tACS intervention.</description>
+          <units>SUVR</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.56" spread="1.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Brain Perfusion as Measured by Arterial Spin Labeling</title>
+        <description>Patients underwent a comprehensive MRI exam before and after the tACS intervention, including measures of brain perfusion via Arterial Spin Labeling (ASL) sequences. The outcome measure represent the average change in perfusion (i.e. blood flow) recorded in regions targeted by tACS. Since Alzheimer's Disease is also characterized by a decrease of brain metabolism, an increased of blood flow after treatment would constitute a very promising sign of tACS efficacy in reducing Alzheimer's pathology in the brain.&#xD;
+We will report the change in blood flow (mean, standard deviation) after tACS treatment.</description>
+        <time_frame>6 weeks (pre-post tACS intervention)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>tACS</title>
+            <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Brain Perfusion as Measured by Arterial Spin Labeling</title>
+          <description>Patients underwent a comprehensive MRI exam before and after the tACS intervention, including measures of brain perfusion via Arterial Spin Labeling (ASL) sequences. The outcome measure represent the average change in perfusion (i.e. blood flow) recorded in regions targeted by tACS. Since Alzheimer's Disease is also characterized by a decrease of brain metabolism, an increased of blood flow after treatment would constitute a very promising sign of tACS efficacy in reducing Alzheimer's pathology in the brain.&#xD;
+We will report the change in blood flow (mean, standard deviation) after tACS treatment.</description>
+          <units>mg/min/100gr</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.2" spread="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Alzheimer's Disease Assessment Scale -Cog Score</title>
+        <description>Change in Adas-Cog score will be reported, to document a potential clinical benefit of tACS. The scale ranges from 0-70 with higher score indicating greater cognitive impairment.</description>
+        <time_frame>up to 12 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>tACS</title>
+            <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Alzheimer's Disease Assessment Scale -Cog Score</title>
+          <description>Change in Adas-Cog score will be reported, to document a potential clinical benefit of tACS. The scale ranges from 0-70 with higher score indicating greater cognitive impairment.</description>
+          <units>Scores on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.5" spread="2.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>tACS</title>
+          <description>Transcranial alternating current stimulation (tACS) tuned at the frequency of 40Hz (gamma frequency) will be applied for 1 hour in 20 sessions on consecutive weekdays. The tACS intervention (20 sessions) will be preceded and followed by amyloid, microglia and tau PET imaging as well as a clinical/cognitive evaluation. The assessment of the effect of stimulation on microglia activation, amyloid deposition and tau deposition will constitute a primary outcome measure. Assessment of adverse effects will be also evaluated as a secondary outcome. The effect of brain stimulation on brain connectivity will be assessed by EEG and MRI and cognitive function.&#xD;
+Transcranial Alternating Current Stimulation (tACS): tACS will be applied at a frequency of 40Hz and targeting the area of maximal tracer uptake on amyloid PET imaging using an individualized multielectrode design to maximize the induced electrical current to the target region.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sensation Under Electrodes</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Scalp Pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Neck Pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Skin Irritation</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Sensations Under Electrodes</sub_title>
+                <description>tingling, itching, burning</description>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Visual Changes</sub_title>
+                <description>flashing lights in peripheral vision</description>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="5"/>
+              </event>
+              <event>
+                <sub_title>Mood Change</sub_title>
+                <description>positive mood change</description>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="5"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Emiliano Santarnecchi</name_or_title>
+      <organization>Massachusetts General Hospital</organization>
+      <phone>617-667-0326</phone>
+      <email>esantarnecchi@mgh.harvard.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

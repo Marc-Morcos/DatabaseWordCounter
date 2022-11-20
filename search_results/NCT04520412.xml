@@ -1,0 +1,2738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="298">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04520412</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GV971-007</org_study_id>
+    <nct_id>NCT04520412</nct_id>
+  </id_info>
+  <brief_title>A Study of Sodium Oligomannate (GV-971) in Participants With Mild to Moderate Alzheimer's Disease</brief_title>
+  <acronym>GREEN MEMORY</acronym>
+  <official_title>A Phase 3, Multi-center, Randomized, Double-blind, Parallel-group, Placebo-controlled Clinical Trial to Evaluate the Efficacy and Safety of Sodium Oligomannate (GV-971) in Treatment of Mild to Moderate Alzheimer's Disease (GREEN MEMORY: GREen Valley 971 EvaluatioN Memory)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Green Valley (Shanghai) Pharmaceuticals Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Green Valley (Shanghai) Pharmaceuticals Co., Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety, tolerability and efficacy of GV-971 in&#xD;
+      mild to moderate Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 27, 2020</start_date>
+  <completion_date type="Anticipated">October 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 2025</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in the ADAS-cog/11 score</measure>
+    <time_frame>Baseline, 48 weeks and 52 weeks</time_frame>
+    <description>Change from baseline in Alzheimer's Disease Assessments Scale - cognitive (ADAS-cog/11) scale total score. The total score of ADAS-cog/11 is 0-70, with higher scores mean a worse outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change from baseline in the ADCS-CGIC score</measure>
+    <time_frame>Baseline, 48 weeks and 52 weeks</time_frame>
+    <description>Change from baseline on Alzheimer's Disease Cooperative Study - Clinical Global Impression of Change (ADCS-CGIC) scale total score. The total score of ADCS-CGIC is 1-7, with higher scores mean a worse outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in NPI score</measure>
+    <time_frame>Baseline, 36 Weeks, 52 Weeks</time_frame>
+    <description>Change from baseline in Neuropsychiatric Inventory (NPI) score. The total score of NPI is 0-144, with higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in MMSE score</measure>
+    <time_frame>Baseline, 52 Weeks</time_frame>
+    <description>Change from baseline in Mini Mental State Examination (MMSE) score. The total score of MMSE is 0-30, with higher scores mean a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ADCS-ADL23 score</measure>
+    <time_frame>Baseline, 36 Weeks, 52 Weeks</time_frame>
+    <description>Change from baseline in Alzheimer's Disease Cooperative Study - Activities of Daily Living; 23-item Scale (ADCS-ADL23) score. The total score of ADCS-ADL23 is 0-78, with higher scores mean a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in NPI caregiver items</measure>
+    <time_frame>Baseline, 52 Weeks</time_frame>
+    <description>Change from baseline in Neuropsychiatric Inventory (NPI) caregiver items . The total score of NPI caregiver items is 0-60, with higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in ZBI score</measure>
+    <time_frame>Baseline, 52 Weeks</time_frame>
+    <description>Change from baseline in Zarit Burden Interview (ZBI) score. The total score of ZBI is 0-88, with higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the efficacy of GV-971 throughout the OLE period</measure>
+    <time_frame>Baseline, 52 Weeks, 78 Weeks</time_frame>
+    <description>Change from baseline in Alzheimer's Disease Assessments Scale - cognitive (ADAS-cog/11) scale total score. The total score of ADAS-cog/11 is 0-70, with higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the efficacy of GV-971 throughout the OLE period</measure>
+    <time_frame>Baseline, 52 Weeks, 78 Weeks</time_frame>
+    <description>Change from baseline on Alzheimer's Disease Cooperative Study - Clinical Global Impression of Change (ADCS-CGIC) scale total score. The total score of ADCS-CGIC is 1-7, with higher scores mean a worse outcome.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Evaluate the population PK</measure>
+    <time_frame>Baseline, 12 Weeks, 24 Weeks, 52 Weeks</time_frame>
+    <description>Determine serum levels of GV-971 in population PK</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Evaluate the effect of GV-971 on brain structure neurodegeneration</measure>
+    <time_frame>Baseline, 52 Weeks</time_frame>
+    <description>Changes from baseline in volumetric magnetic resonance imaging (MRI)</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2046</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>GV-971</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>GV-971</intervention_name>
+    <description>Administered PO</description>
+    <arm_group_label>GV-971</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered PO</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Mild to moderate AD per NIA-AA.&#xD;
+&#xD;
+          -  History of cognitive and functional decline over at least 1 year.&#xD;
+&#xD;
+          -  MMSE scores between 11 and 24 (inclusive) at baseline.&#xD;
+&#xD;
+          -  Brain MRI scan show the highest possibility of AD.&#xD;
+&#xD;
+          -  Have a study partner/caregiver.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of a dementia-related central nervous system disease other than AD.&#xD;
+&#xD;
+          -  Major structural brain disease as judged by MRI.&#xD;
+&#xD;
+          -  A resting heart rate of &lt; 50 beats per minute (bpm) after 5 minutes of rest in sitting&#xD;
+             or supine position.&#xD;
+&#xD;
+          -  Major medical illness or unstable medical condition within 6 months of screening.&#xD;
+&#xD;
+          -  Concomitant use of AChEIs and/or memantine within 30 days before first MMSE score, and&#xD;
+             during the study.&#xD;
+&#xD;
+          -  Inadequate hepatic function.&#xD;
+&#xD;
+          -  Inadequate organ and marrow function.&#xD;
+&#xD;
+          -  ECG clinically significant abnormalities.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director, Ph D</last_name>
+    <role>Study Director</role>
+    <affiliation>Green Valley (Shanghai) Pharmaceuticals Co., Ltd.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Medical Director, Ph D</last_name>
+    <phone>+1-8478993587</phone>
+    <email>greenmemory@shgvp.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Operations Manager</last_name>
+    <phone>+1-8052176123</phone>
+    <email>greenmemory@shgvp.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cognitive Clinical Trials, LLC</name>
+      <address>
+        <city>Gilbert</city>
+        <state>Arizona</state>
+        <zip>85297</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Hodgson</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Weidman</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Hospital and Medical Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yonas E. Geda</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Sun Health Research Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marina Reade</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Weidman</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Irvine Clinical Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elly Lee</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sunwise Clinical Research</name>
+      <address>
+        <city>Lafayette</city>
+        <state>California</state>
+        <zip>94549</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ira Gilck</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmacology Research Institute</name>
+      <address>
+        <city>Los Alamitos</city>
+        <state>California</state>
+        <zip>90720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Rosenberg</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network, Inc</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen Thein</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen Thein</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Syrentis Clinical Research</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Duffy</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Schuster Med Research Institute</name>
+      <address>
+        <city>Sherman Oaks</city>
+        <state>California</state>
+        <zip>91403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose MI Schuster</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research LLC</name>
+      <address>
+        <city>Atlantis</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Goldstein</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Brody</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Finlay Medical Research Corp</name>
+      <address>
+        <city>Greenacres City</city>
+        <state>Florida</state>
+        <zip>33467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Cevallos</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Beth Safirstein</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jacksonville Center for Clinical Research</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven Toenjes</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research, LLC</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Smirnoff</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Innovative Clinical Research, Inc.</name>
+      <address>
+        <city>Lauderhill</city>
+        <state>Florida</state>
+        <zip>33319</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Theodore Treese</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud, LLC</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Esteban Olivera</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Merritt Island Medical Research, LLC</name>
+      <address>
+        <city>Merritt Island</city>
+        <state>Florida</state>
+        <zip>32952</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory Kirk</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Collier Neurologic Specialists</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William Justiz</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Suncoast Clinical Research Inc.</name>
+      <address>
+        <city>New Port Richey</city>
+        <state>Florida</state>
+        <zip>34652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vikram Atit</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc.</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Molpus</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith White</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Associates of Ormond Beach</name>
+      <address>
+        <city>Ormond Beach</city>
+        <state>Florida</state>
+        <zip>32174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mandeep Garewal</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Quantum Lab CNS Clinical Research</name>
+      <address>
+        <city>Pompano Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose DL Gandara</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander White</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Intercoastal Medical Group</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mauricio Concha</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Stedman Clinical Trials, LLC</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Stedman</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33634</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deborah Burke</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus The Villages</name>
+      <address>
+        <city>The Villages</city>
+        <state>Florida</state>
+        <zip>32162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ayesha Lall</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NeuroStudies.net, LLC</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marshall L. Nash</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Ross</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jared Brosch</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance Multispecialty Research</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Klein</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Activmed Practices&amp;Research</name>
+      <address>
+        <city>Lawrence</city>
+        <state>Massachusetts</state>
+        <zip>01843</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Schoeck</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Quest Research Institute</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aaron Ellenbogen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes-Jewish Hospital IDS</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Carr</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center-Hematology/Oncology Section</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Murman</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cognitive Clinical Trials, LLC</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Puente</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Altea Research Institute, Las Vegas</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jelena Kunovac</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Global Medical Institutes, LLC</name>
+      <address>
+        <city>Princeton</city>
+        <state>New Jersey</state>
+        <zip>08540</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sanjay Varma</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Cognitive Research Center of New Jersey</name>
+      <address>
+        <city>Springfield</city>
+        <state>New Jersey</state>
+        <zip>07081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Papka</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Memory Research Institute of NJ, PC</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sanjiv Sharma</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Integrative Clinical Trials LLC</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>UBMD Neurology</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kinga Szigeti</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clarity Clinical Research</name>
+      <address>
+        <city>East Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Cupelo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Richmond Behavioral Associates</name>
+      <address>
+        <city>Staten Island</city>
+        <state>New York</state>
+        <zip>10312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark DiBuono</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Behavioral Health Research Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28211</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>AMC Research, LLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28270</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohammad R Bolouri</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Guilford Neurologic Associate</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Insight Clinical Trials LLC</name>
+      <address>
+        <city>Beachwood</city>
+        <state>Ohio</state>
+        <zip>44122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Stillman</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New Horizons Clinical Research</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Powell</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Babak Tousi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus Neuroscience, LLC</name>
+      <address>
+        <city>Westerville</city>
+        <state>Ohio</state>
+        <zip>43082</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>DeRen Huang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Summit Research Network(Oregon)Inc.</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Scott Losk</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health&amp;Science Universty</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Neurology Associates</name>
+      <address>
+        <city>Springfield</city>
+        <state>Oregon</state>
+        <zip>97477</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raymond Englander</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Neurological Associates, LTD</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Weisman</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SCarolina Institute Brain Health</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olga Brawman-Mintzer</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kerwin Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diana Kerwin</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Huston Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph Masdeu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas; Inc</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Weiss</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Clinical Research</name>
+      <address>
+        <city>West Jordan</city>
+        <state>Utah</state>
+        <zip>84088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barbara Rizzardi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cognition Health</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raymond S Turner</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Washington MedCentre</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104-2499</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles Bernick</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hornsby Ku-ring-gai Hospital</name>
+      <address>
+        <city>Hornsby</city>
+        <state>New South Wales</state>
+        <zip>2077</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Kurrle</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>KaRa MINDS</name>
+      <address>
+        <city>Macquarie Park</city>
+        <state>New South Wales</state>
+        <zip>2113</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rosalyn Lai</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health - Heidelberg Repatriation Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3081</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henry Zeimer</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Research Foundation</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roger Clarnette</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Heritage Medical Research Clinic</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4Z6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Smith</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Arts Health Research Group</name>
+      <address>
+        <city>Kamloops</city>
+        <state>British Columbia</state>
+        <zip>V2C 5T1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen Hutchison</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Okanagan Clinical Trials</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1Y 1Z9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eugene Okorie</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MedicalArtsHealth Research Grp</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1Y 4N7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Williams</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MedicalArtsHealth Research Grp</name>
+      <address>
+        <city>Penticton</city>
+        <state>British Columbia</state>
+        <zip>V2A 5L5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johan De Kock</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver Island Health Authority</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8R1J8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandre Henri-Bhargava</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Arts Health Research Grp</name>
+      <address>
+        <city>West Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V7T 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kevin Kjernisted</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research Inc</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3M 1N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rodney Brittain</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research</name>
+      <address>
+        <city>New Minas</city>
+        <state>Nova Scotia</state>
+        <zip>B4N 3R7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Allan</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Recherches Neuro-Hippocampe Inc., d/b/a Ottawa Memory Clinic</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1Z 1G3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Bergeron</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Memory Program</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B 2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharon Cohen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Western Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5T 2S8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria C Tartaglia</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Memoire Outaouais</name>
+      <address>
+        <city>Gatineau</city>
+        <state>Quebec</state>
+        <zip>J8T 8J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Bergeron</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Q &amp; T Research Sherbrooke Inc</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1J 2G2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paule Royer</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Diex Recherche Sherbrooke</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1L0H8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marcel Germain</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Douglas Hospital Research Centre</name>
+      <address>
+        <city>Verdun</city>
+        <state>Quebec</state>
+        <zip>H4H 1R3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vasavan Nair</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ALPHA Recherche Clinique</name>
+      <address>
+        <city>Quebec</city>
+        <zip>Qc G3K 2P8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claude Patry</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Anhui MU</name>
+      <address>
+        <city>Hefei</city>
+        <state>Anhui</state>
+        <zip>230022</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kai Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Peking Union Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jing Gao</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Peking University 1st Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100034</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Yining Huang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Xuanwu Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100053</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jianping Jia</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Tiantan Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100070</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Wei Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Anding Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100088</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qing'e Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haibo Chen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beijing Tong Ren Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100730</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jiawei Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Chongqing MU</name>
+      <address>
+        <city>Chongqing</city>
+        <state>Chongqing</state>
+        <zip>400016</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yang Lv</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fujian Union Hospital</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <zip>350001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Qinyong Ye</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Fujian MU</name>
+      <address>
+        <city>Fuzhou</city>
+        <state>Fujian</state>
+        <zip>350005</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ning Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhongshan Hospital Xiamen U</name>
+      <address>
+        <city>Xiamen</city>
+        <state>Fujian</state>
+        <zip>361004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaorong Zhuang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Guangzhou MU</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510120</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Qin Liu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Guangzhou 1st People's Hospital</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510180</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiaoping Pan</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>2nd Hospital of Guangzhou MU</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510260</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yanping Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>2nd Hospital Zhongshan University</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510260</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ying Peng</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kangning Hospital of Shenzhen</name>
+      <address>
+        <city>Shenzhen</city>
+        <state>Guangdong</state>
+        <zip>518118</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yongjun Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Hebei MU</name>
+      <address>
+        <city>Shijiazhuang</city>
+        <state>Hebei</state>
+        <zip>50030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mingwei Wang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tangshan Gongren Hospital</name>
+      <address>
+        <city>Tangshan</city>
+        <state>Hebei</state>
+        <zip>63000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Yongqiu Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Xiangya Hospital</name>
+      <address>
+        <city>Changsha</city>
+        <state>Hunan</state>
+        <zip>410008</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lu Shen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Yueyang 1st People's Hospital</name>
+      <address>
+        <city>Yueyang</city>
+        <state>Hunan</state>
+        <zip>414000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Luoqing Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nanjing Drum Tower Hospital</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yun Xu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhong Da Hospital</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chunming Xie</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>2nd Hospital Soochow University</name>
+      <address>
+        <city>Suzhou</city>
+        <state>Jiangsu</state>
+        <zip>215004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Chunfeng Liu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jiangxi Provincial Hospital</name>
+      <address>
+        <city>Nanchang</city>
+        <state>Jiangxi</state>
+        <zip>330006</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Renxu Xu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital Jilin University</name>
+      <address>
+        <city>Changchun</city>
+        <state>Jilin</state>
+        <zip>130021</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Li Sun</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>General Hospital of Ningxia MU</name>
+      <address>
+        <city>Yinchuan</city>
+        <state>Ningxia Hui Autonomous Region</state>
+        <zip>750004</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Qing Zhang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tang Du Hospital</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <zip>710038</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhang Wei</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Xi'an Mental Health Cente</name>
+      <address>
+        <city>Xi'an</city>
+        <state>Shaanxi</state>
+        <zip>710061</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bin Wu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Qilu Hospital</name>
+      <address>
+        <city>Jinan</city>
+        <state>Shandong</state>
+        <zip>250012</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yiming Liu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shandong Provincial Hospital</name>
+      <address>
+        <city>Jinan</city>
+        <state>Shandong</state>
+        <zip>250021</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yifeng Du</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Qingdao Municipal Hospital</name>
+      <address>
+        <city>Qingdao</city>
+        <state>Shandong</state>
+        <zip>266071</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lan Tan</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ruijin Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200020</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shengdi Chen</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai Mental Health Center</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200030</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shifu Xiao</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Huashan Hospital; Fudan U</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200040</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jintai Yu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shanghai General Hospital</name>
+      <address>
+        <city>Shanghai</city>
+        <state>Shanghai</state>
+        <zip>200080</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Yuncheng Wu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Shanxi MU</name>
+      <address>
+        <city>Taiyuan</city>
+        <state>Shanxi</state>
+        <zip>30001</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yang Li</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>West China Hospital</name>
+      <address>
+        <city>Chengdu</city>
+        <state>Sichuan</state>
+        <zip>610041</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Weihong Kuang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tianjin MU General Hospital</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300052</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fudong Shi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tianjin Huanhu Hospital</name>
+      <address>
+        <city>Tianjin</city>
+        <state>Tianjin</state>
+        <zip>300060</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Yuying Zhou</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Kunming MU</name>
+      <address>
+        <city>Kunming</city>
+        <state>Yunnan</state>
+        <zip>650032</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Xiufeng Xu</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zhejiang Provincial Hospital</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heng Su</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital Zhejiang University</name>
+      <address>
+        <city>Hangzhou</city>
+        <state>Zhejiang</state>
+        <zip>310003</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benyan Luo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Hospital of Wenzhou MU</name>
+      <address>
+        <city>Wenzhou</city>
+        <state>Zhejiang</state>
+        <zip>325000</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jincai He</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NeuropsychiatrieHK s.r.o.</name>
+      <address>
+        <city>Hradec Králové</city>
+        <zip>50341</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jiri Masopust</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>BRAIN-SOULTHERAPY s.r.o.</name>
+      <address>
+        <city>Kladno</city>
+        <zip>27204</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Klaudia V Borzova</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neuroterapie KH s.r.o.</name>
+      <address>
+        <city>Kutná Hora</city>
+        <zip>28401</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Slavomir Pietrucha</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clintrial s.r.o.</name>
+      <address>
+        <city>Praha 10</city>
+        <zip>10100</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zdenek Solle</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>FORBELI s.r.o.</name>
+      <address>
+        <city>Praha</city>
+        <zip>16000</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michal Bajacek</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropsychiatrie s.r.o.</name>
+      <address>
+        <city>Praha</city>
+        <zip>16100</zip>
+        <country>Czechia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jakub Hort</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centred Investigation Clinique</name>
+      <address>
+        <city>Strasbourg</city>
+        <state>Bas Rhin</state>
+        <zip>67098</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frederic Blanc</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHUTimone Adultes Service</name>
+      <address>
+        <city>Marseille</city>
+        <state>Bouches-du-Rhône</state>
+        <zip>13005</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mathieu Ceccaldi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>HOPITAL Gui de CHAULIAC</name>
+      <address>
+        <city>Montpellier</city>
+        <state>Cedex 5</state>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karim BENNYS</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Memoire Ressources</name>
+      <address>
+        <city>Dijon</city>
+        <state>De Lattre De Tassigny</state>
+        <zip>21000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benoit DELPONT</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Pellegrin</name>
+      <address>
+        <city>Bordeaux</city>
+        <state>Gironde</state>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie AURIACOMBE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopitaux Civils de Colmar</name>
+      <address>
+        <city>Colmar</city>
+        <state>Grand Est</state>
+        <zip>68024</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre ANTHONY</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Recherche Clinique Gerontopole</name>
+      <address>
+        <city>Toulouse</city>
+        <state>Haute Garonne</state>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre J OUSSET</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmacie CHU de Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <state>Ille Et Vilaine</state>
+        <zip>35033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>HANTA Cezara-Roxana</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Tours-Hopital Bretonneau</name>
+      <address>
+        <city>Tonnerre</city>
+        <state>Indre Et Loire</state>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Thomas DESMIDT</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Nantes-Hopital Nord Laennec</name>
+      <address>
+        <city>Nantes</city>
+        <state>Loire Atlantique</state>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claire BOUTOLEAU-BRETONNIERE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Reims-Hopital Maison Blanche</name>
+      <address>
+        <city>Reims</city>
+        <state>Marne</state>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean L NOVELLA</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neurologique Pierre Wertheimer</name>
+      <address>
+        <city>Bron</city>
+        <state>Rhone</state>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helene Mollion</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital des Charpennes</name>
+      <address>
+        <city>Villeurbanne</city>
+        <state>Rhone</state>
+        <zip>69100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jing XIE</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CMRR Paris Nord</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>HOURREGUE Claire</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Shatin</city>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent Chung Tong MOK</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VUmc Goederenontvangst</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>Van Der Boechorststraat 6</state>
+        <zip>1081 GN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jort Vijverberg</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Amphia Hospital Breda</name>
+      <address>
+        <city>Breda</city>
+        <zip>4818 C.K</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Remmers Michel</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmacy Jeroen Bosch Ziekenhuis</name>
+      <address>
+        <city>Herzogenbusch</city>
+        <zip>5223 LA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul Dautzenberg</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinische Farmacie</name>
+      <address>
+        <city>Zwolle</city>
+        <zip>8025 AB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Niels Prins</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Podlaskie Centrum Psychogeriatri</name>
+      <address>
+        <city>Bialystok</city>
+        <zip>15-756</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacek Dobryniewski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ Vitamed</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-079</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pawel Lisewski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wielospec. Poradnia Lekarska</name>
+      <address>
+        <city>Katowice</city>
+        <zip>40-123</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marek Smilowski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nzoz Novo Med</name>
+      <address>
+        <city>Katowice</city>
+        <zip>40-650</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tomasz Zielinski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Specjalistyczne Gabinety Sp.zo.o</name>
+      <address>
+        <city>Kraków</city>
+        <zip>30-539</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marta Banach</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ Neuromed MiMNastajSpp</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-064</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marcin Nastaj</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medicome Sp z o o</name>
+      <address>
+        <city>Oświęcim</city>
+        <zip>32-600</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jerzy Machowski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Solumed Centrum Medyczne</name>
+      <address>
+        <city>Poznań</city>
+        <zip>60-529</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olgierd Stefanski</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro Protect</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01-684</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maciej Czarnecki</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wrclawskie Cntrm Alzheimerowskie</name>
+      <address>
+        <city>Wrocław</city>
+        <zip>53659</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marzena Zboch</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wielospecjalistyczne Centrm Med</name>
+      <address>
+        <city>Zabrze</city>
+        <zip>41-800</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Monika A Sowa</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan UniversityHosp</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10048</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tzung-Jeng Hwang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tri Service General Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11490</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fu-Chi Yang</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chang GungMemorial Hosp Linkou</name>
+      <address>
+        <city>Taoyuan</city>
+        <zip>333</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chin-Chang Huang</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>China</country>
+    <country>Czechia</country>
+    <country>France</country>
+    <country>Hong Kong</country>
+    <country>Netherlands</country>
+    <country>Poland</country>
+    <country>Taiwan</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>August 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 20, 2020</study_first_posted>
+  <last_update_submitted>December 10, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 30, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

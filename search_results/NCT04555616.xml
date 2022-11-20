@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1840">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04555616</url>
+  </required_header>
+  <id_info>
+    <org_study_id>61291</org_study_id>
+    <secondary_id>T32AG057461</secondary_id>
+    <nct_id>NCT04555616</nct_id>
+  </id_info>
+  <brief_title>Environmental Design for Behavioral Regulation in People With Dementia</brief_title>
+  <official_title>Environmental Design for Behavioral Regulation in People With Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Elizabeth K Rhodus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kentucky</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Individuals with dementia present with changes in behaviors throughout the continuum of&#xD;
+      cognitive decline. Environmental features may be influential in behavioral regulation. The&#xD;
+      purpose of this study is to assess the feasibility of environmental design protocols in older&#xD;
+      adults with dementia and their caregivers. Thirty subjects with moderate to severe&#xD;
+      Alzheimer's disease as primary dementia type, and their caregivers, will be randomly assigned&#xD;
+      to one of three arms: standard care; standard environmental design protocol; or personalized&#xD;
+      environmental design protocol.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 25, 2021</start_date>
+  <completion_date type="Actual">October 13, 2021</completion_date>
+  <primary_completion_date type="Actual">October 13, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adherence</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>Percentage of participants who had 75% adherence to the protocol based on visits and journals.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Occupational Performance</measure>
+    <time_frame>10 weeks (at baseline, 6 weeks and the 4 week follow up)</time_frame>
+    <description>Occupational performance will be measured using the Canadian Occupational Performance Measure (COPM) at baseline, post-intervention and the 4-week follow up. Scores range from 0-10; higher scores indicate (increased) occupational performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Behavior</measure>
+    <time_frame>10 weeks (at baseline, 6 weeks and the 4 week follow up)</time_frame>
+    <description>Behavior will be measured using the Neuropsychiatric Inventory (NPI-Q) at baseline, post-intervention and the 4-week follow up. Scores range from 1-36; higher scores indicate higher behavior severity.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">56</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Alzheimer's disease patients and caregivers.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Environmental Design</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alzheimer's disease patients and caregivers.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Individualized Environmental Design Protocol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alzheimer's disease patients and caregivers.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Standard Environmental Design</intervention_name>
+    <description>Participants' caregivers will receive set script of physical environmental modifications (i.e., declutter living space, reduce background noise, increase natural light), and social environment training script will include caregiving techniques: training for calming demeanor (emotional contagion), needs-driven care to decrease behavioral disruption, and accepting and accommodating approach to behavioral disruption. A pre-selected sensory stimulation kit will be provided to each participants' caregiver for administration throughout the day.</description>
+    <arm_group_label>Standard Environmental Design</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Individual Environmental Design</intervention_name>
+    <description>Participants' caregivers will receive set script of physical environmental modifications and social environment training script in a standard protocol. Following initial assessments, individualized sensory stimulation kits will be developed using subjects' preferred sensory stimuli (as determined by the Adult Sensory Profile assessment and informant report) and will be provided via caregiver administration throughout the day to promote maintained behavioral regulation.</description>
+    <arm_group_label>Individualized Environmental Design Protocol</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants' caregivers will receive a set script of placebo modifications.</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men or women aged 21-90, inclusive.&#xD;
+&#xD;
+          -  Living at home in the community with one primary caregiver.&#xD;
+&#xD;
+          -  Diagnosis of Alzheimer's disease as primary dementia type of moderate to severe stages&#xD;
+&#xD;
+          -  Stable medical condition for one month prior to screening visit&#xD;
+&#xD;
+          -  Stable medications for 4 weeks prior to screening visit&#xD;
+&#xD;
+          -  Caregiver report of challenges related to behaviors within 4 weeks of study enrollment&#xD;
+&#xD;
+          -  Caregiver willing to participant throughout duration of study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unstable medical conditions for 3 months prior to screening&#xD;
+&#xD;
+          -  Wheelchair or bed bound.&#xD;
+&#xD;
+          -  Residence in skilled nursing facility or facility-based care.&#xD;
+&#xD;
+          -  Skin lesions or skin abnormalities throughout upper extremities.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gregory Jicha, MD-PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University of Kentucky</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Kentcuky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>September 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2020</study_first_posted>
+  <last_update_submitted>October 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kentucky</investigator_affiliation>
+    <investigator_full_name>Elizabeth K Rhodus</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>environment</keyword>
+  <keyword>Occupational therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 18, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/16/NCT04555616/ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

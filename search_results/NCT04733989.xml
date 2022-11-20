@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1854">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04733989</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BIO-HERMES-001</org_study_id>
+    <nct_id>NCT04733989</nct_id>
+  </id_info>
+  <brief_title>A Biomarker Database to Investigate Blood-Based and Digital Biomarkers in Participants Screened for Alzheimer's Disease (Bio-Hermes)</brief_title>
+  <official_title>Development of a Biomarker Database to Investigate Aß, P-tau, and NfL Blood-Based Biomarkers and Digital Biomarkers in Older Participants Screened for Preclinical Alzheimer's Disease (AD), Prodromal AD, or Mild AD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GAP Innovations, PBC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GAP Innovations, PBC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study (Bio-Hermes) is to develop a blood, digital, and brain amyloid PET&#xD;
+      scan biomarker database that can be used to determine whether a meaningful relationship&#xD;
+      exists between digital tests, blood amyloid-beta, p-tau, and neurofilament biomarker levels&#xD;
+      and amyloid-beta levels identified through brain amyloid PET images. Blood collected will&#xD;
+      also be genetically sequenced to gain insights about genes and brain amyloid. The Bio-Hermes&#xD;
+      study will include 1,000 volunteers over the age of 60 screened for Preclinical Alzheimer's&#xD;
+      Disease, Prodromal AD, or Mild Dementia AD, and includes an endpoint enrollment requirement&#xD;
+      of 200 participants from underrepresented minority populations.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 21, 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measurement of each participant's blood-based biomarker (Beta-Amyloid, Phospho-Tau, Neurofilament Light Chain) levels will be collected through blood sampling.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measurement of each participant's amyloid levels in the brain will be collected through amyloid PET brain scan imaging.</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+  </primary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Alzheimer Disease, Early Onset</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Memory Loss</condition>
+  <condition>Memory Disorders</condition>
+  <condition>Memory Impairment</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Biomarker Data Collection</intervention_name>
+    <description>During this study, a sample of your blood will be collected and you will have a PET scan taken of your brain. Blood sample results will be compared to PET scan pictures to understand how well the markers in the blood predict whether there is amyloid in the brain. Blood samples will also be collected that contain your genes. These genetic samples will also be compared to PET scans to help researchers understand how different people react to medicines and to understand the genetic causes of Alzheimer's disease. Some of the samples will be stored for future analysis.</description>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Beta-Amyloid, Phospho-Tau, Neurofilament Light Chain, DNA, RNA&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Approximately 1,000 participants&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Participants must meet all the following criteria for entry into the study:&#xD;
+&#xD;
+          1. Participants must provide written consent in the IRB-approved informed consent form or&#xD;
+             have a Legally Authorized Representative (LAR) provide written consent in the&#xD;
+             IRB-approved consent form on the participant's behalf;&#xD;
+&#xD;
+          2. Male or female 60 to 85 years of age (inclusive) at the time of consent;&#xD;
+&#xD;
+          3. Participants must be willing to undergo an amyloid PET scan within 60 days of signing&#xD;
+             informed consent; or for sites that do not have access to PET imaging, the participant&#xD;
+             must be willing to undergo a lumbar puncture for cerebrospinal fluid (CSF) collection&#xD;
+             within 30 days of the coagulation panel;&#xD;
+&#xD;
+          4. Participants must have a study partner who, in the investigator's judgement, has&#xD;
+             sufficient and frequent contact (defined as at least 8 hours of contact a week) with&#xD;
+             the participant and is able to provide accurate information regarding the&#xD;
+             participant's cognitive and functional abilities;&#xD;
+&#xD;
+          5. Participants must be willing to comply with all study procedures as outlined in the&#xD;
+             informed consent, including blood sampling;&#xD;
+&#xD;
+          6. Fluency in the language of the tests used at the study site;&#xD;
+&#xD;
+          7. Participants must be willing to be contacted for possible participation in clinical&#xD;
+             research trials once their participation in this study ends; and&#xD;
+&#xD;
+          8. Participants must have a Mini-Mental State Exam (MMSE) score of 17 to 30 inclusive at&#xD;
+             screening; those with a score of 17-19 must have a diagnosis of Probable AD.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Participants who meet any of the following criteria will not be eligible for entry into the&#xD;
+        study:&#xD;
+&#xD;
+          1. Participants who, in the opinion of the Site Principal Investigator, have serious or&#xD;
+             unstable medical conditions that would prohibit their completion of all study&#xD;
+             procedures and data collection;&#xD;
+&#xD;
+          2. Participants who have serious or unstable medical conditions that would likely&#xD;
+             preclude their participation in an interventional research trial;&#xD;
+&#xD;
+          3. Participants who are unable to undergo amyloid PET due to self-reported pregnancy,&#xD;
+             sensitivity of ligands being used, poor venous access, contraindication to PET, or&#xD;
+             planned or recent exposure to ionizing radiation that in combination with the planned&#xD;
+             administration of amyloid radioligand would result in a cumulative exposure that&#xD;
+             exceeds recommended local guidelines;&#xD;
+&#xD;
+          4. Participants who have reported or have a known negative amyloid PET scan in past 12&#xD;
+             months;&#xD;
+&#xD;
+          5. Participants with self-reported, untreated conditions such as vitamin B12 or folate&#xD;
+             deficiency or bladder infections that in the opinion of the Site Principal&#xD;
+             Investigator could contribute to cognitive impairment;&#xD;
+&#xD;
+          6. Participants with history of stroke or seizures within 1 year of the Visit 1&#xD;
+             (Screening);&#xD;
+&#xD;
+          7. Participants with history of cancer within the past 5 years with the exception of&#xD;
+             non-melanoma skin cancer or prostate cancer in situ;&#xD;
+&#xD;
+          8. Participants with known or suspected alcohol or drug abuse or dependence within 1 year&#xD;
+             of the Visit 1 (Screening);&#xD;
+&#xD;
+          9. Participants who report any current unstable psychiatric symptoms that could interfere&#xD;
+             with study procedures or impact study data (e.g., uncontrolled depression);&#xD;
+&#xD;
+         10. Participants who have participated in a clinical trial of any potential disease&#xD;
+             modifying AD treatment and received active drug within 6 months prior to Visit 1&#xD;
+             (Screening);&#xD;
+&#xD;
+         11. Participants who have completed clinical or observational study procedures (e.g.,&#xD;
+             imaging, cognitive testing) within 3 months of Visit 1 (Screening);&#xD;
+&#xD;
+         12. Participants who have any neurological disorder affecting the central nervous system,&#xD;
+             other than AD, that may be contributing to cognitive impairment (e.g., Parkinson's&#xD;
+             disease, other dementias, multiple concussions or seizures) as deemed significant by&#xD;
+             the Site Principal Investigator;&#xD;
+&#xD;
+         13. Participants with a Geriatric Depression Scale (GDS) score greater than or equal to 8&#xD;
+             at Visit 1 (Screening);&#xD;
+&#xD;
+         14. Participants with a RAVLT-Delayed Recall Score of 1.5 standard deviation above the&#xD;
+             age-adjusted mean;&#xD;
+&#xD;
+         15. Participants with known history or self-report to be Human Immunodeficiency Virus&#xD;
+             (HIV) Positive;&#xD;
+&#xD;
+         16. Participants weighing less than 110 pounds;&#xD;
+&#xD;
+         17. Participants that have previously been consented to this study unless prior approval&#xD;
+             was granted by the Sponsor on a case-by-case basis;&#xD;
+&#xD;
+         18. Participants who are direct employees or family members of direct employees of the&#xD;
+             participating investigators' sites;&#xD;
+&#xD;
+         19. Participants who are direct employees of the Sponsor;&#xD;
+&#xD;
+         20. Participants who, in the opinion of the investigator, are unable to complete cognitive&#xD;
+             testing due to inadequate visual or auditory acuity;&#xD;
+&#xD;
+         21. For participants of the RetiSpec retinal substudy only: Those with a known history of&#xD;
+             ocular diseases (such as retinopathy, age-related macular degeneration, and glaucoma),&#xD;
+             with the exception of mild to moderate cataracts, and/or vision correction with&#xD;
+             glasses/contact lenses;&#xD;
+&#xD;
+         22. For participants undergoing LP: contraindication to lumbar puncture, including&#xD;
+             coagulopathy, concomitant anticoagulation (except for a platelet inhibitor such as&#xD;
+             aspirin or clopidogrel), thrombocytopenia, prior lumbar spinal surgery, significant&#xD;
+             deformity of the lumbosacral region, INR results &gt; 1.3, or other factor that precludes&#xD;
+             safe LP in the opinion of the Site Principal Investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sarah Hollingshead</last_name>
+    <phone>352-247-1982</phone>
+    <email>shollingshead@globalalzplatform.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jennifer Gaudioso</last_name>
+    <email>jgaudioso@globalalzplatform.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Visionary Investigators Network - Aventura</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Macias</last_name>
+      <phone>833-732-2484</phone>
+      <email>JMacias@VINTrials.com</email>
+    </contact>
+    <investigator>
+      <last_name>Julie Schwartzbard, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Visionary Investigators Network - Coral Gables</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33133</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Macias</last_name>
+      <phone>833-732-2484</phone>
+      <email>jmacias@VINTrials.com</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Lerman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research - Lady Lake</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brittany Ortiz</last_name>
+      <phone>352-775-1000</phone>
+      <email>brittany.ortiz@charterresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey Norton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>JEM</name>
+      <address>
+        <city>Lake Worth</city>
+        <state>Florida</state>
+        <zip>33462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janette Bossaers</last_name>
+      <phone>561-968-2933</phone>
+      <email>jbossaers@jemri.net</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Goldstein, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Visionary Investigators Network - South Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Macias</last_name>
+      <phone>833-732-2484</phone>
+      <email>jmacias@VINTrials.com</email>
+    </contact>
+    <investigator>
+      <last_name>Victor Faradji, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>K2</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandi Sundstrom, RN</last_name>
+      <phone>407-500-5252</phone>
+      <email>sandi.sundstrom@k2med.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sheila Baez-Torres, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Visionary Investigators Network - Pembroke Pines</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Macias</last_name>
+      <phone>833-732-2484</phone>
+      <email>JMacias@VINTrials.com</email>
+    </contact>
+    <investigator>
+      <last_name>Margarita Almeida El-Ramey, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Basil White</last_name>
+      <phone>386-304-7070</phone>
+      <email>basilw@progressivemedicalresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alexander White, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Axiom Clinical Research of Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research - Winter Park</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tina Blair</last_name>
+      <phone>407-337-1000</phone>
+      <email>tina.blair@charterresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Edgardo Rivera, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ben Rakestraw</last_name>
+      <phone>773-275-3500</phone>
+      <email>brakestraw@flourishresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey Ross, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas University Alzheimer's Disease Center (KUADC)</name>
+      <address>
+        <city>Fairway</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandria Montero</last_name>
+      <phone>913-588-0555</phone>
+      <email>amontero@kumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Samantha Fikru, MSN, FNP-C</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Syracuse</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robyn Dann</last_name>
+      <phone>315-760-5905</phone>
+      <email>info@velocityclinical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Cupelo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kerwin Research Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Megha Chadha</last_name>
+      <phone>972-433-9100</phone>
+      <email>mchadha@kerwinmedical.com</email>
+    </contact>
+    <investigator>
+      <last_name>Diana Kerwin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>El Faro Health and Therapeutics</name>
+      <address>
+        <city>Rio Grande City</city>
+        <state>Texas</state>
+        <zip>78582</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dora Griffith</last_name>
+      <phone>956-586-5430</phone>
+      <email>dgriffith@elfarohealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>James Falcon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antonio Falcon, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Baek MJ, Kim K, Park YH, Kim S. The Validity and Reliability of the Mini-Mental State Examination-2 for Detecting Mild Cognitive Impairment and Alzheimer's Disease in a Korean Population. PLoS One. 2016 Sep 26;11(9):e0163792. doi: 10.1371/journal.pone.0163792. eCollection 2016.</citation>
+    <PMID>27668883</PMID>
+  </reference>
+  <reference>
+    <citation>Berry CC. A tutorial on confidence intervals for proportions in diagnostic radiology. AJR Am J Roentgenol. 1990 Mar;154(3):477-80. Review.</citation>
+    <PMID>2106207</PMID>
+  </reference>
+  <reference>
+    <citation>Cahn-Hidalgo D, Estes PW, Benabou R. Validity, reliability, and psychometric properties of a computerized, cognitive assessment test (Cognivue(®)). World J Psychiatry. 2020 Jan 19;10(1):1-11. doi: 10.5498/wjp.v10.i1.1. eCollection 2020 Jan 19.</citation>
+    <PMID>31956523</PMID>
+  </reference>
+  <reference>
+    <citation>Chételat G, La Joie R, Villain N, Perrotin A, de La Sayette V, Eustache F, Vandenberghe R. Amyloid imaging in cognitively normal individuals, at-risk populations and preclinical Alzheimer's disease. Neuroimage Clin. 2013 Mar 5;2:356-65. doi: 10.1016/j.nicl.2013.02.006. eCollection 2013. Review.</citation>
+    <PMID>24179789</PMID>
+  </reference>
+  <reference>
+    <citation>Giri M, Zhang M, Lü Y. Genes associated with Alzheimer's disease: an overview and current status. Clin Interv Aging. 2016 May 17;11:665-81. doi: 10.2147/CIA.S105769. eCollection 2016. Review.</citation>
+    <PMID>27274215</PMID>
+  </reference>
+  <reference>
+    <citation>Howell JC, Watts KD, Parker MW, Wu J, Kollhoff A, Wingo TS, Dorbin CD, Qiu D, Hu WT. Race modifies the relationship between cognition and Alzheimer's disease cerebrospinal fluid biomarkers. Alzheimers Res Ther. 2017 Nov 2;9(1):88. doi: 10.1186/s13195-017-0315-1.</citation>
+    <PMID>29096697</PMID>
+  </reference>
+  <reference>
+    <citation>Ingelfinger, JA, Mosteller, R, Thibodeau, LA, Ware, JA. Biostatistics in Clinical Medicine. 3rd ed. New York, N.Y.: McGraw-Hill, New York; 1994.</citation>
+  </reference>
+  <reference>
+    <citation>Jack CR Jr, Bennett DA, Blennow K, Carrillo MC, Dunn B, Haeberlein SB, Holtzman DM, Jagust W, Jessen F, Karlawish J, Liu E, Molinuevo JL, Montine T, Phelps C, Rankin KP, Rowe CC, Scheltens P, Siemers E, Snyder HM, Sperling R; Contributors. NIA-AA Research Framework: Toward a biological definition of Alzheimer's disease. Alzheimers Dement. 2018 Apr;14(4):535-562. doi: 10.1016/j.jalz.2018.02.018. Review.</citation>
+    <PMID>29653606</PMID>
+  </reference>
+  <reference>
+    <citation>Kantarci K. Molecular imaging of Alzheimer disease pathology. AJNR Am J Neuroradiol. 2014 Jun;35(6 Suppl):S12-7. doi: 10.3174/ajnr.A3847. Epub 2014 Feb 6. Review.</citation>
+    <PMID>24503555</PMID>
+  </reference>
+  <reference>
+    <citation>Malzbender K, Lavin-Mena L, Hughes L, Bose N, Goldman D, Patel D. White Paper on Key Barriers to Clinical Trials for Alzheimer's Disease. USC Schaeffer Center for Health Policy &amp; Economics and Gates Ventures. August 2020. https://healthpolicy.usc.edu/wp-content/uploads/2020/08/Key-Barriers-to-Clinical-Trials-for-Alzheimer%E2%80%99s-Disease_FINAL.pdf. Accessed December 01, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Morris JC, Schindler SE, McCue LM, Moulder KL, Benzinger TLS, Cruchaga C, Fagan AM, Grant E, Gordon BA, Holtzman DM, Xiong C. Assessment of Racial Disparities in Biomarkers for Alzheimer Disease. JAMA Neurol. 2019 Mar 1;76(3):264-273. doi: 10.1001/jamaneurol.2018.4249.</citation>
+    <PMID>30615028</PMID>
+  </reference>
+  <reference>
+    <citation>Niemantsverdriet E, Valckx S, Bjerke M, Engelborghs S. Alzheimer's disease CSF biomarkers: clinical indications and rational use. Acta Neurol Belg. 2017 Sep;117(3):591-602. doi: 10.1007/s13760-017-0816-5. Epub 2017 Jul 27. Review.</citation>
+    <PMID>28752420</PMID>
+  </reference>
+  <reference>
+    <citation>O'Bryant SE, Humphreys JD, Smith GE, Ivnik RJ, Graff-Radford NR, Petersen RC, Lucas JA. Detecting dementia with the mini-mental state examination in highly educated individuals. Arch Neurol. 2008 Jul;65(7):963-7. doi: 10.1001/archneur.65.7.963.</citation>
+    <PMID>18625866</PMID>
+  </reference>
+  <reference>
+    <citation>US Food and Drug Administration. De Novo Classification Request For Cognivue. De Novo Summary (DEN130033). www.accessdata.fda.gov/cdrh_docs/reviews/DEN130033.pdf. Accessed December 7, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Weiner MW, Veitch DP, Aisen PS, Beckett LA, Cairns NJ, Green RC, Harvey D, Jack CR Jr, Jagust W, Morris JC, Petersen RC, Saykin AJ, Shaw LM, Toga AW, Trojanowski JQ; Alzheimer's Disease Neuroimaging Initiative. Recent publications from the Alzheimer's Disease Neuroimaging Initiative: Reviewing progress toward improved AD clinical trials. Alzheimers Dement. 2017 Apr;13(4):e1-e85. doi: 10.1016/j.jalz.2016.11.007. Epub 2017 Mar 22. Review.</citation>
+    <PMID>28342697</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang J, Zhou W, Cassidy RM, Su H, Su Y, Zhang X; Alzheimer's Disease Neuroimaging Initiative. Risk factors for amyloid positivity in older people reporting significant memory concern. Compr Psychiatry. 2018 Jan;80:126-131. doi: 10.1016/j.comppsych.2017.09.015. Epub 2017 Oct 6.</citation>
+    <PMID>29091778</PMID>
+  </reference>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>December 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 2, 2021</study_first_posted>
+  <last_update_submitted>September 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>Alzheimer Disease, Early Onset</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Memory Loss</keyword>
+  <keyword>Memory Disorders</keyword>
+  <keyword>Memory Impairment</keyword>
+  <keyword>Older Volunteers</keyword>
+  <keyword>Healthy Volunteers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Memory Disorders</mesh_term>
+    <mesh_term>Amnesia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

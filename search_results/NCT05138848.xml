@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1845">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05138848</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY20110278</org_study_id>
+    <secondary_id>R01AG068001</secondary_id>
+    <nct_id>NCT05138848</nct_id>
+  </id_info>
+  <brief_title>Time-in-bed Restriction in Older Adults With Sleep Difficulties With and Without Risk for Alzheimer's Disease</brief_title>
+  <acronym>ALPS</acronym>
+  <official_title>Slow-wave Sleep Enhancement in Those at Risk for Alzheimer's Disease: Links With Memory, Excitotoxicity, and Plasma A-beta</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pittsburgh</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pittsburgh</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Dementia caused by Alzheimer's disease affects approximately 5.6 million adults over age 65,&#xD;
+      with costs expected to rise from $307 billion to $1.5 trillion over the next 30 years.&#xD;
+      Behavioral interventions have shown promise for mitigating neurodegeneration and cognitive&#xD;
+      impairments. Sleep is a modifiable health behavior that is critical for cognition and&#xD;
+      deteriorates with advancing age and Alzheimer's disease. Thus, it is a priority to examine&#xD;
+      whether improving sleep modifies Alzheimer's disease pathophysiology and cognitive function.&#xD;
+      Extant research suggests that deeper, more consolidated sleep is positively associated with&#xD;
+      memory and executive functions and networks that underlie these processes. Preliminary&#xD;
+      studies confirm that time-in-bed restriction interventions increase sleep efficiency and&#xD;
+      non-rapid eye movement slow-wave activity (SWA) and suggest that increases in SWA are&#xD;
+      associated with improved cognitive function. SWA reflects synaptic downscaling predominantly&#xD;
+      among prefrontal connections. Downscaling of prefrontal connections with the hippocampus&#xD;
+      during sleep may help to preserve the long-range connections that support memory and&#xD;
+      cognitive function. In pre-clinical Alzheimer's disease, hyperactivation of the hippocampus&#xD;
+      is thought to be excitotoxic and is shown to leave neurons vulnerable to further amyloid&#xD;
+      deposition. Synaptic downscaling through SWA may mitigate the progression of Alzheimer's&#xD;
+      disease through these pathways. The proposed study will behaviorally increase sleep depth&#xD;
+      (SWA) through four weeks of time-in-bed restriction in older adults characterized on amyloid&#xD;
+      deposition and multiple factors associated with Alzheimer's disease risk. This study will&#xD;
+      examine whether behaviorally enhanced SWA reduces hippocampal hyperactivation, leading to&#xD;
+      improved task-related prefrontal-hippocampal connectivity, plasma amyloid levels, and&#xD;
+      cognitive function. This research addresses whether a simple, feasible, and scalable&#xD;
+      behavioral sleep intervention improves functional neuroimaging indices of excitotoxicity,&#xD;
+      Alzheimer's pathophysiology, and cognitive performance.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 3, 2022</start_date>
+  <completion_date type="Anticipated">May 31, 2026</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to one of two intervention groups. The active group will limit their time in bed for 4 weeks by following a consistent sleep schedule with 85% time in bed compared to their baseline time in bed. The control group will not limit their time in bed, but will be asked to maintain their typical sleep schedule consistent with their baseline time in bed.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Data collection and data reduction will be performed by sleep technicians and staff who are blind to study hypotheses and the randomization assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean change in slow-oscillation activity assessed with electroencephalography</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Slow oscillation electroencephalographic power (0.5-1 Hz) during non-rapid eye movement sleep</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mean change in Hippocampal Activation</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Change in mean percent signal change of the hippocampus during memory encoding assessed with functional magnetic resonance imaging</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Medial prefrontal-Hippocampal Connectivity</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Change in the correlation between medial prefrontal activity and hippocampal activity during memory encoding assessed with functional magnetic resonance imaging during awake rest</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in mean Plasma amyloid-beta 1-42</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Change in mean amyloid-beta detected in the plasma in the morning</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overnight memory retention on the AB paired associate task, preclinical Alzheimer's cognitive composite score</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Mean change in percent correct memory and cognitive performance and cognitive composite score</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Amyloid positivity status</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Amyloid positivity above or below established cutoffs assessed with Pittsburgh Compound B positron emission tomography</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in delta activity during sleep</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Mean change in delta electroencephalographic power (1-4 Hz) during non-rapid eye movement sleep</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in Sleep Efficiency</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Mean change in the proportion of time in bed spent sleeping</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean percent signal change in medial prefrontal activation</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Mean percent signal change in medial prefrontal cortex activation during a memory encoding task</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in medial temporal-Hippocampal Connectivity</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Mean change in</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mean change in plasma amyloid-beta composite score</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>mean change in amyloid-beta levels in plasma</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in response time on executive function tasks</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Computerized executive function task mean response time in milliseconds</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in accuracy on executive function tasks</measure>
+    <time_frame>Baseline and 4 weeks</time_frame>
+    <description>Computerized executive function task mean percent accuracy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apolipoprotein (ApoE) e4 allele carrier status</measure>
+    <time_frame>Baseline</time_frame>
+    <description>presence of the e4 apolipoprotein based on genetic testing</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive status based on neuropsychological adjudication</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Cognitive status of healthy control or mild cognitive impairment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical insomnia status</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Diagnosis of insomnia based on clinical cutoffs with self-reported sleep questionnaires</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">116</enrollment>
+  <condition>Alzheimer Disease, Late Onset</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Sleep</condition>
+  <condition>Cognitive Change</condition>
+  <condition>Amyloid</condition>
+  <arm_group>
+    <arm_group_label>Time in Bed Restriction</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Time in Bed (TIB) restriction of 85% of habitual TIB.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will follow their typical sleep schedule consistent with measured average sleep and wake times.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Time in Bed Restriction</intervention_name>
+    <description>Participants will undergo a 4-week sleep intervention that includes specified in- and out-of-bed times as well as a restriction to their habitual time in bed (average sleep opportunity including naps). This will be truncated equally at the beginning and end of the night.</description>
+    <arm_group_label>Time in Bed Restriction</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Sleep Schedule</intervention_name>
+    <description>Participants will maintain their typical sleep schedule for 4-weeks.</description>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Time in Bed Restriction</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 65-85.&#xD;
+&#xD;
+          2. Self-report mean sleep efficiency (the time in bed spent asleep within the time of&#xD;
+             lights out to final awakening) &lt; 90% based on diary and actigraphy estimates and wake&#xD;
+             time after sleep onset &gt; 20 minutes based on diary and actigraphy estimates.&#xD;
+&#xD;
+          3. Self-reported normal or corrected-to-normal visual and auditory acuity.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Shift work involving night shift or regular work within the hours of 12am and 6am.&#xD;
+&#xD;
+          2. Presence of a chronic condition that significantly affects sleep.&#xD;
+&#xD;
+          3. Severe psychiatric condition including major depressive disorder, panic disorder,&#xD;
+             substance use disorders, and alcohol abuse/dependence within the past 6 months, or a&#xD;
+             lifetime history of a psychotic disorder or bipolar I disorder, based on initial&#xD;
+             online/phone self-report diagnoses, and subsequently based on the M.I.N.I&#xD;
+             International Neuropsychiatric Interview.&#xD;
+&#xD;
+          4. Current use of medications affecting sleep such as antidepressants, antipsychotic&#xD;
+             medications, anticonvulsants, and steroids.&#xD;
+&#xD;
+          5. Current use of sedating drugs used at bedtime.&#xD;
+&#xD;
+          6. Consumption of &gt; 14 alcohol drinks per week or &gt; 6 drinks at a single sitting.&#xD;
+&#xD;
+          7. Consumption of &gt; 3 caffeine drinks per day.&#xD;
+&#xD;
+          8. Prior diagnosis of a Central nervous system (CNS) disease, such as multiple sclerosis,&#xD;
+             stroke, Parkinson's disease, Alzheimer's disease, seizure disorder, delirium or&#xD;
+             dementia, a loss of consciousness &gt; 24 hours, or traumatic brain injury as identified&#xD;
+             by the Cumulative Illness Rating Scale for Geriatrics (CIRS). Participants who are&#xD;
+             diagnosed with Alzheimer's disease based on neuropsychological testing will be&#xD;
+             excluded.&#xD;
+&#xD;
+          9. Sleep efficiency &gt; 90% and wake time after sleep onset &lt; 20 minutes consistent with&#xD;
+             the rationale of the inclusion criteria described above.&#xD;
+&#xD;
+         10. Apnea/hypopnea index greater than 15 as determined by one night of Apnea Link Plus&#xD;
+             screening.&#xD;
+&#xD;
+         11. Metal in the body. Rationale: Due to the nature of magnetic resonance imaging (MRI),&#xD;
+             participants cannot have any metal implants in their bodies, cannot have worked in a&#xD;
+             metal shop or been exposed to metal fragments during combat. Metal dental work (e.g.&#xD;
+             fillings crowns) may be allowed if compatible with the fMRI scanner.&#xD;
+&#xD;
+         12. Claustrophobia. Rationale: Could prevent the participant from completing the MRI&#xD;
+             scans.&#xD;
+&#xD;
+         13. Severe obesity. BMI &gt; 40. Rationale: Could prevent the participant from completing the&#xD;
+             MRI scan.&#xD;
+&#xD;
+         14. Near-miss or prior automobile accident &quot;due to sleepiness&quot; within the past 12 months.&#xD;
+             Rationale: reduces the risk of sleepiness-related accidents.&#xD;
+&#xD;
+         15. Employed as a commercial driver during the study (for example, bus drivers, train&#xD;
+             engineers, airplane pilots). Rationale: reduces the risk of sleepiness-related&#xD;
+             accidents.&#xD;
+&#xD;
+         16. A score below 23 on the Telephone Interview for Cognitive Status. Rationale: This&#xD;
+             cut-off has been demonstrated to differentiate well between individuals with mild&#xD;
+             cognitive impairment from individuals with dementia who would have decision making&#xD;
+             impairments (Seo et al. 2011, Archives of Gerontology and Geriatrics). This ensures&#xD;
+             that decision making abilities are intact.&#xD;
+&#xD;
+         17. An Epworth sleepiness score greater than 10. Rationale: ensures that sleepiness is not&#xD;
+             excessive before starting the intervention that could further increase sleepiness.&#xD;
+             (Mazzotti, Diego R., et al. &quot;Is the Epworth Sleepiness Scale sufficient to identify&#xD;
+             the excessively sleepy subtype of OSA?.&quot; Chest 161.2 (2022): 557-561; Aurora, R.&#xD;
+             Nisha, et al. &quot;Correlating subjective and objective sleepiness: revisiting the&#xD;
+             association using survival analysis.&quot; Sleep 34.12 (2011): 1707-1714.)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Kristine Wilckens, PhD.</last_name>
+    <phone>(412) 586-9434</phone>
+    <email>wilckenska@upmc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UPMC Western Psychiatric Hospital</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kristine Wilckens, PhD.</last_name>
+      <phone>412-586-9434</phone>
+      <email>wilckenska@upmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Buysse, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Howard Aizenstein, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Meryl Butters, PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ann Cohen, PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marie Anne Gebara, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brian Lopresti, M.C.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>James Mountz, M.D./PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>M. Ilyas Kamboh, PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Meredith Wallace, PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nathan Yates, PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kristine Wilckens, PhD.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrea Weinstein, PhD.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>November 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2021</study_first_posted>
+  <last_update_submitted>October 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pittsburgh</investigator_affiliation>
+    <investigator_full_name>Kristine Wilckens</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Late Onset Disorders</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The investigators will prepare de-identified data sets comprising all of the data collected for this project and make those available to other investigators through NIH data repositories</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Data will be made available upon publication of the primary aims within 2 years of study completion.</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

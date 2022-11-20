@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="143">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05220150</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2-031-16</org_study_id>
+    <nct_id>NCT05220150</nct_id>
+  </id_info>
+  <brief_title>Discovering FFC-MRI Biomarkers of Alzheimer Disease</brief_title>
+  <official_title>Non-invasive In-vivo Characterisation of Alzheimer's Disease Using Fast-field Cycling Magnetic Resonance Imaging (FFC MRI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Aberdeen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Aberdeen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Fast Field-Cycling MRI (FFC MRI) is a new scanning technology being developed at the&#xD;
+      University of Aberdeen. Previous pilot studies by the team on osteoarthritis, breast cancer,&#xD;
+      musculoskeletal cancer, liver fibrosis, thrombosis and muscle damage have demonstrated that&#xD;
+      FFC MRI provides useful information for clinical diagnostics in a variety of pathologies.&#xD;
+&#xD;
+      The aim of this study is to ascertain if brain imaging with FFC MRI yields any useful&#xD;
+      information in the diagnosis and evaluation of Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease (AD) patients and appropriate controls will be identified by consultants&#xD;
+      working with the patient group.&#xD;
+&#xD;
+      Potential participants will be approached by letter by their clinician. The purpose of this&#xD;
+      study will be explained to them and they will be asked for signed informed consent.&#xD;
+&#xD;
+      Communication between the clinical team and FFC-MRI research team will ensure that any&#xD;
+      appointment for FFC-MRI is made at a time that is convenient for the patient and clinical&#xD;
+      team.&#xD;
+&#xD;
+      The aim is to recruit 25 individuals with AD and 25 age matched controls.&#xD;
+&#xD;
+      FFC-MRI images will be acquired on dedicated equipment specifically built for the purpose of&#xD;
+      imaging human volunteers and patients. Where clinically appropriate patents will undergo&#xD;
+      other imaging procedures as part of their normal NHS care.&#xD;
+&#xD;
+      FFC-MRI will be compared standard clinical care data to identify regions of interest for&#xD;
+      quantitative analysis of FFC MRI data.&#xD;
+&#xD;
+      Anonymous personal information will be collected from the NHS patient records for&#xD;
+      stratification of the results (such as age, sex or relevant examination results)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Poor recruitment and poor scan image quality&#xD;
+  </why_stopped>
+  <start_date type="Actual">October 17, 2017</start_date>
+  <completion_date type="Actual">September 1, 2021</completion_date>
+  <primary_completion_date type="Actual">September 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open labelled feasibility study with a control group.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Outcome</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>The FFC-MRI T1 maps of patients and controls, with SPECT findings for validation. The outcome used for the primary research question will be the statistical significance in the difference of image contrast between the control group and the patient group. The presence of AD in the patient group will be estimated using the current clinical standard, cognitive testing with MoCA) or MMSE and blood flow SPECT CT imaging. If the participant has recently had an MRI scan using 3T MRI, we will ask for permission from the participant to access these images and use them for comparison.&#xD;
+The level of significance of the differences will be derived using the statistical test most adapted to the contrast, depending on the distribution profile across the samples. No previous data exist to guide our choice.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary Outcome</measure>
+    <time_frame>12 weeks</time_frame>
+    <description>Variations in the FFC-MRI biomarkers obtained for the T1 maps. The outcome of interest to fulfil our secondary objective is the estimation of the distribution of the contrast identified as potential biomarkers. This will allow us to estimate the sample size for further validation studies.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">5</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Alzheimer's patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patient diagnosed with early onset Alzheimer's disease.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Healthy volunteers that do not have Alzheimer's disease.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>FFC-MRI scan</intervention_name>
+    <description>Undergo one FFC-MRI scan.</description>
+    <arm_group_label>Alzheimer's patients</arm_group_label>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with probable Alzheimer's disease, based upon cognitive testing (MMSE) and&#xD;
+             SPECT imaging.&#xD;
+&#xD;
+          -  Controls will be participants without known cognitive impairment or Alzheimer's&#xD;
+             disease.&#xD;
+&#xD;
+          -  Subjects capable of giving informed consent.&#xD;
+&#xD;
+          -  Age 21 and above&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  MRI-incompatible condition detected in the MR screening sheet such as some metallic&#xD;
+             implanted devices (see MR screening sheet in the project files).&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+&#xD;
+          -  Waist circumference larger than 102 cm, due to the limited bore size of the scanner.&#xD;
+&#xD;
+          -  Restrictions to mobility such that patients are unable to be positioned in scanner by&#xD;
+             trained research radiographer e.g. severe kyphosis&#xD;
+&#xD;
+          -  Cognitive impairment of sufficient severity that the participant does not have&#xD;
+             capacity to give informed consent&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Persons who might not adequately understand verbal explanations or written information&#xD;
+             given in English, or who have special communication needs&#xD;
+&#xD;
+          -  Dementia of sufficient severity that the participant cannot give informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Biomedical Physics Building, Foresterhill Health Campus</name>
+      <address>
+        <city>Aberdeen</city>
+        <state>Scotland</state>
+        <zip>AB25 2ZN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>February 1, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 2, 2022</study_first_posted>
+  <last_update_submitted>February 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

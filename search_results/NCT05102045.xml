@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="94">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05102045</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Alzheimer.rTMS.fMRI</org_study_id>
+    <nct_id>NCT05102045</nct_id>
+  </id_info>
+  <brief_title>The Effects of Repetitive Transcranial Magnetic Stimulation in Patients With Alzheimer's Disease</brief_title>
+  <official_title>The Effects of Repetitive Transcranial Magnetic Stimulation and Aerobic Exercise on Cognition, Balance and Functional Brain Networks in Patients With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istanbul Medipol University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istanbul Medipol University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Objectives: The purpose of this study was to investigate the effects of high-frequency&#xD;
+      repetitive Transcranial Magnetic Stimulation (rTMS) in Alzheimer's Disease (AD).&#xD;
+&#xD;
+      Methods: Twenty-seven AD patients aged ≥60 years were included in the study and divided into&#xD;
+      3 groups (rTMS, Aerobic Exercise (AE) and control). All groups received pharmacological&#xD;
+      treatment. rTMS group (n=10) received 20 Hz rTMS treatment on bilateral dorsolateral&#xD;
+      prefrontal cortex, 5 days a week over 2 weeks, and AE group (n=10) received the&#xD;
+      moderate-intensity aerobic exercise for 50 min sessions, 5 days a week over 2 weeks. Control&#xD;
+      group (n=10) was only treated pharmacologically. Neuropsychiatric and behavioral status,&#xD;
+      cognition, balance, functional mobility, and quality of life, and functional brain changes&#xD;
+      were evaluated before and after the treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 1, 2016</start_date>
+  <completion_date type="Actual">June 1, 2017</completion_date>
+  <primary_completion_date type="Actual">May 1, 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Functional Magnetic Resonance Imaging</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>Resting state networks and activation areas in the brain were evaluating with Functional Magnetic Resonance Imaging</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychometric test battery</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>Neuropsychometric status was evaluated with Neuropsychometric test battery. Higher score means better result.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini Mental State Examination Test</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>General cognition was evaluated with Mini Mental State Examination Test. The functions of the individual, which are gathered under five basic headings as orientation, recording memory, attention, calculation, recall and language, are evaluated over 30 points. Higher score means better result.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Inventory Questionnaire</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>Neuropsychiatric status was evaluated with The Neuropsychiatric Inventory Questionnaire.&#xD;
+A total of 12 behavioral domain screening questions, including delusions, hallucinations, agitation/aggression, depression/dysphoria, anxiety, elation/euphoria, apathy/apathy, disinhibition, irritability/lability, abnormal motor behavior, sleep/night behaviors, appetite and eating changes. questioned according to the presence of symptoms. Otherwise, the next area is passed, and if there is, it is detailed with more specific questions related to that area. Multiplying the scores of the frequency and severity of the symptom creates the total score of that item. Higher score means worse result.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Berg Balance Scale</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>Balance was evaluated with Berg Balance Scale. It consists of 14 questions that evaluate whether the tasks related to balance can be fulfilled in a spectrum ranging from sitting position to standing up and standing on one leg. It is scored as 0: unable to do, 4: doing independently. The total score is 56. A fall risk of 0-20 is considered high, a fall risk of 21-40 is considered moderate, and a fall risk of 41-56 is low. Changes of 8 points or more are considered significant in terms of addiction status.Higher score means better result.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Timed Up and Go Test</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>Functional mobility was evaluated with Timed Up and Go Test. Time is started as soon as the person gets up from the chair and ends when he/she sits on the chair after walking 3 meters and turning. The fact that the person's walking speed is higher than the upper limit of the value range determined for the age group is associated with impaired performance. Higher score means better result.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life in Alzheimer's Disease Scale</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>Quality of life was evaluated with Quality of Life in Alzheimer's Disease Measure.&#xD;
+Each of the 13 items in the scale is scored on a four-point scale ranging from 1 (very poor) to 4 (excellent). The total score is between 13-52. Higher score means better result.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frontal Behavioral Inventory</measure>
+    <time_frame>4 weeks after baseline</time_frame>
+    <description>Behavioral status was evaluated with The Frontal Behavioral Inventory. It consists of 24 items including behavior and personality traits. Scoring of the scale; 0 = absent, 1 = mild / rare, 2 = moderate, 3 = severe / most of the time. The total score ranges from 0 to 72. Higher score means worse result.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">27</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>TMS group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the TMS group (n=10) rTMS was applied to the bilateral dorsolateral prefrontal cortex (DLPFC) at 20 Hz, for 5 consecutive days per week for over 2 weeks (totally 10 sessions) in addition to the pharmacological treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AE group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AE group (n=9) received a moderate- intensity aerobic exercise program lasting 50 minutes per session, 5 consecutive days per week for over 2 weeks (totally 10 sessions) in addition to the pharmacological treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>No additional intervention was given to the patients in the control group (n=8) and participants were only treated pharmacologically.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Repetitive Transcranial Magnetic Stimulation</intervention_name>
+    <description>TMS is a non-invasive application that induces changes in neuronal polarization and activity by causing the induction of weak electric currents in a rapidly changing magnetic field. Repetitive TMS (rTMS) refers to the application of regular TMS pulses at fixed intervals.</description>
+    <arm_group_label>TMS group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Aerobic Exercise</intervention_name>
+    <description>Brisk exercise that promotes the circulation of oxygen through the blood and is associated with an increased rate of breathing.</description>
+    <arm_group_label>AE group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Acetylcholinesterase Inhibitors</intervention_name>
+    <description>Donepezil, Rivastigmine, Galantamine were given in combination for Alzheimer's disease.</description>
+    <arm_group_label>AE group</arm_group_label>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>TMS group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Memantine</intervention_name>
+    <description>Memantine were given for Alzheimer's disease. .</description>
+    <arm_group_label>AE group</arm_group_label>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>TMS group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  having clinical AD diagnosis according to the NINCDS-ADRDA (National Institute of&#xD;
+             Neurological and Communicative Diseases and Stroke/Alzheimer's Disease and Related&#xD;
+             Disorders Association) criteria&#xD;
+&#xD;
+          -  being 60 years and older&#xD;
+&#xD;
+          -  having Clinical Dementia Rating Scale (CDR) scores 1 or 2&#xD;
+&#xD;
+          -  living independently&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  not being able to walk independently,&#xD;
+&#xD;
+          -  having physical disabilities,&#xD;
+&#xD;
+          -  having a history of alcohol / substance abuse,&#xD;
+&#xD;
+          -  having head trauma&#xD;
+&#xD;
+          -  having epileptic seizures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Istanbul Medipol University</name>
+      <address>
+        <city>İstanbul</city>
+        <state>Beykoz</state>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>August 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 1, 2021</study_first_posted>
+  <last_update_submitted>October 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Istanbul Medipol University Hospital</investigator_affiliation>
+    <investigator_full_name>Miray Budak</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Repetitive Transcranial Magnetic Stimulation</keyword>
+  <keyword>Cognitive Function</keyword>
+  <keyword>Aerobic Exercise</keyword>
+  <keyword>Functional MRI</keyword>
+  <keyword>Resting State Networks</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Memantine</mesh_term>
+    <mesh_term>Cholinesterase Inhibitors</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

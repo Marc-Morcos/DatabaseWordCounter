@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2489">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05200897</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VC21DNSI0029</org_study_id>
+    <nct_id>NCT05200897</nct_id>
+  </id_info>
+  <brief_title>Transdermal Trigeminal Electrical Neuromodulation on Mild Cognitive Impairment With Insomnia</brief_title>
+  <official_title>Safety and Effects of Cefaly on Mild Cognitive Impairment With Insomnia and Exploration of Structural and Functional Connectivity Changes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Saint Vincent's Hospital, Korea</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Saint Vincent's Hospital, Korea</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to validate the safety and impact of transdermal trigeminal electrical&#xD;
+      neuromodulation(Cefaly) on mild cognitive impairment patients with insomnia on brain&#xD;
+      functional and structural connectivity as well as sleep parameters evidenced by&#xD;
+      polysomnography and sleep surveys, with consideration for amyloid positivity and&#xD;
+      brain-derived neurotrophic factor .&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aims to validate the safety and impact of transdermal trigeminal electrical&#xD;
+      neuromodulation(Cefaly) on mild cognitive impairment patients with insomnia on brain&#xD;
+      functional and structural connectivity as well as sleep parameters evidenced by&#xD;
+      polysomnography and sleep surveys, with consideration for amyloid positivity and&#xD;
+      brain-derived neurotrophic factor . A 3-month intervention with transdermal trigeminal&#xD;
+      electrical neuromodulation will be implemented and sleep surveys, polysomnography and brain&#xD;
+      MRI will be attained both at baseline and post-intervention.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 3, 2021</start_date>
+  <completion_date type="Anticipated">May 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes from Baseline Pittsburgh sleep quality index(PSQI) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>PSQI global score of more than 5 signifies major sleep disturbance, higher scores suggesting greater sleep disturbance</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Insomnia severity index(ISI) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>ISI is a brief, self-rated scale that is widely used to measure insomnia severity. With seven items scored on a 0-4 scale, it only takes about 5 minutes to complete and scores of 15 or more indicates insomnia of moderate to severe severity</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Epworth sleepiness scale(ESS) at 3 months</measure>
+    <time_frame>Post-3 month intervention</time_frame>
+    <description>ESS is a self-administered scale with eight questionnaires measuring sleepiness in daily life. Score of more than 10 signifies clinically meaningful daytime sleepiness, with higher scores indicating more severe sleepiness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Total time in bed(TIB) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Total sleep time(TST) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Sleep efficiency(SE) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Proportion of stage 1 sleep(N1, %) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Proportion of stage 2 sleep(N2, %) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Proportion of stage 3 sleep(N3, %) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Proportion of REM sleep(R, %) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline REM sleep latency(REML) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Sleep latency(SL) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Apnea-hypopnea index(AHI) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Limb movement index(LMI) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Periodic limb movement index(PLMI) at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of polysomnography measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Cortical thickness changes at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of neuroimaging measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Functional connectivity measure at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of neuroimaging measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Fractional anisotropy at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of neuroimaging measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Mean diffusivity at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of neuroimaging measures</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Verbal fluency at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of cognitive measures(subtest of CERAD-K)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Boston naming test at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of cognitive measures(subtest of CERAD-K)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Mini-mental status examination at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of cognitive measures(subtest of CERAD-K)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Word list recall at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of cognitive measures(subtest of CERAD-K)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Word list recognition at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of cognitive measures(subtest of CERAD-K)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes from Baseline Constructional recall at 3 months</measure>
+    <time_frame>Post 3-month intervention</time_frame>
+    <description>One of cognitive measures(subtest of CERAD-K)</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Insomnia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Amyloid</condition>
+  <arm_group>
+    <arm_group_label>Amyloid positive mild cognitive impairment+ BDNF met carrier</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transdermal trigeminal electrical modulation for 3 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amyloid positive mild cognitive impairment+ BDNF Val/Val</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transdermal trigeminal electrical modulation for 3 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amyloid negative mild cognitive impairment+ BDNF met carrier</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transdermal trigeminal electrical modulation for 3 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amyloid negative mild cognitive impairment+ BDNF Val/Val</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Transdermal trigeminal electrical modulation for 3 months</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transdermal trigeminal electrical neuromodulation(Cefaly)</intervention_name>
+    <description>The Cefaly device delivers electrical micro-impulses through a self-adhesive electrode which is placed over the participant's forehead, where the supratrochlear and supraorbital branches of the ophthalmic division of the trigeminal nerve are located. Rectangular, biphasic impulses with an electrical mean equal to zero are transmitted. The impulse width is 250μs, frequency is 60Hz, and the maximum intensity of 16mA is over 14 minutes</description>
+    <arm_group_label>Amyloid negative mild cognitive impairment+ BDNF Val/Val</arm_group_label>
+    <arm_group_label>Amyloid negative mild cognitive impairment+ BDNF met carrier</arm_group_label>
+    <arm_group_label>Amyloid positive mild cognitive impairment+ BDNF Val/Val</arm_group_label>
+    <arm_group_label>Amyloid positive mild cognitive impairment+ BDNF met carrier</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed with mild cognitive impairment by modified Peterson's criteria&#xD;
+&#xD;
+          -  Identified as amyloid positive by amyloid PET result&#xD;
+&#xD;
+          -  Insomnia severity index of more than 15 or diagnosed with insomnia disorder by&#xD;
+             Diagnostic Statistical Manual-5&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects with active psychiatric or neurological disorders&#xD;
+&#xD;
+          -  Unstable medical conditions (Myocardial infarction, cerebral infarction, congestive&#xD;
+             heart failures etc.)&#xD;
+&#xD;
+          -  Moderate to severe obstructive sleep apnea (apnea hypopnea index of more than 15),&#xD;
+             rapid eye movement disorder, narcolepsy&#xD;
+&#xD;
+          -  On regular hypnotic medication (can enroll if there was 2-week wash out period)&#xD;
+&#xD;
+          -  Currently receiving or having a past history of cognitive behavioral therapy for&#xD;
+             insomnia&#xD;
+&#xD;
+          -  Patients who received transcranial magnetic stimulation (TMS), transcranial direct&#xD;
+             current stimulation, within 2 weeks before enrollment&#xD;
+&#xD;
+          -  Who are on cognitive enhancers (choline alfoscerate, acetylcarnitine,&#xD;
+             acetylcholinesterase inhibitors, NMDA receptor antagonist)&#xD;
+&#xD;
+          -  History of cerebral infarction or Parkinson's disease&#xD;
+&#xD;
+          -  History of facial or brain trauma&#xD;
+&#xD;
+          -  A subject with allergy to acrylic acid&#xD;
+&#xD;
+          -  A subject who is sensitive to electrical devices&#xD;
+&#xD;
+          -  A subject who are uncooperative to MRI process&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yoo Hyun Um</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St.Vincent's Hospital, College of Medicine, Catholic University of Korea</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yoo Hyun Um</last_name>
+    <phone>+821063759332</phone>
+    <email>cherubic712@naver.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St.Vincent's Hospital, the Catholic University of Korea</name>
+      <address>
+        <city>Suwon</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Se-Min Choung</last_name>
+      <phone>82-31-249-8459</phone>
+      <email>semin9137@cmcnu.or.kr</email>
+    </contact>
+    <investigator>
+      <last_name>Yoo Hyun Um, MD, PHD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>December 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 21, 2022</study_first_posted>
+  <last_update_submitted>January 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Saint Vincent's Hospital, Korea</investigator_affiliation>
+    <investigator_full_name>Yoo Hyun Um</investigator_full_name>
+    <investigator_title>Clinical Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Sleep Initiation and Maintenance Disorders</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

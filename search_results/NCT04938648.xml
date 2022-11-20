@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2093">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04938648</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00286353</org_study_id>
+    <secondary_id>5U54AG063546-02</secondary_id>
+    <nct_id>NCT04938648</nct_id>
+  </id_info>
+  <brief_title>Aligning Medications With What Matters Most</brief_title>
+  <acronym>ALIGN</acronym>
+  <official_title>Align: Aligning Medications With What Matters Most</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Kaiser Permanente</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Aligning Medications with What Matters Most (ALIGN) study will assess the feasibility and&#xD;
+      preliminary efficacy of a deprescribing intervention to reduce medication regimen complexity&#xD;
+      and treatment burden for people living with dementia (PLWD) and their care partners.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      People living with dementia (PLWD) use more medications and have more complex medication&#xD;
+      regimens than people without dementia. Medication regimen complexity is a major source of&#xD;
+      burden for family caregivers of PLWD and has been associated with numerous adverse outcomes.&#xD;
+      Therefore, the investigators propose a novel intervention, ALIGN: Aligning Medications with&#xD;
+      What Matters Most, to optimize prescribing and reduce medication regimen complexity by&#xD;
+      focusing on what matters most to the patient and caregiver, beyond rigid adherence to&#xD;
+      clinical practice guidelines. ALIGN is informed by learnings from OPTIMIZE, the investigator&#xD;
+      team's patient-centered, pragmatic deprescribing intervention for PLWD in primary care that&#xD;
+      is currently being prospectively evaluated. OPTIMIZE consists of a patient-level intervention&#xD;
+      comprised of a deprescribing educational brochure, and a clinician-level intervention&#xD;
+      comprised of a deprescribing educational session for primary care providers (PCPs),&#xD;
+      deprescribing &quot;tip sheets&quot; and clinic-level feedback on rates of potentially inappropriate&#xD;
+      medication prescribing in PLWD. ALIGN builds on OPTIMIZE by more explicitly addressing the&#xD;
+      informational and decisional needs of caregivers through a shared decision making process&#xD;
+      facilitated by clinical pharmacists. The investigators propose a pilot study to assess the&#xD;
+      feasibility and acceptability of ALIGN in two different health care systems, and to identify&#xD;
+      the most appropriate primary outcome measure for a subsequent embedded pragmatic trial&#xD;
+      (ePCT). Target enrollment is 60 patient-care partner dyads. Patients will be aged ≥65 years&#xD;
+      with dementia and &gt;5 chronic medications. Primary outcomes are intervention feasibility and&#xD;
+      acceptability among patients, care partners and PCPs; and feasibility of the patient-level&#xD;
+      Medication Regimen Complexity Index and Family Caregiver Medication Administration Hassles&#xD;
+      Scale at baseline and 3 months. Findings from this pilot study will guide the design,&#xD;
+      implementation and subsequent evaluation of ALIGN in an ePCT, laying the groundwork to reduce&#xD;
+      medication regimen complexity and burden for PLWD and their caregivers in diverse primary&#xD;
+      care settings.&#xD;
+&#xD;
+      This proposed pragmatic intervention has the following aims:&#xD;
+&#xD;
+      Specific Aim 1: To assess the feasibility and acceptability of ALIGN in two different health&#xD;
+      care systems, to guide the subsequent evaluation of the effectiveness of the intervention in&#xD;
+      an embedded pragmatic trial (ePCT).&#xD;
+&#xD;
+      Specific Aim 2: To determine the feasibility of the primary and secondary outcome measures&#xD;
+      for the subsequent ePCT.&#xD;
+&#xD;
+        1. To determine the feasibility of measuring the primary outcome, the patient-level&#xD;
+           Medication Regimen Complexity Index (pMRCI), within the existing electronic health&#xD;
+           record (EHR) systems, and to compare it with a more pragmatic measure, chronic&#xD;
+           medication count, as the primary outcome measure for the ePCT.&#xD;
+&#xD;
+        2. To determine the feasibility of measuring the secondary outcome, the Family Caregiver&#xD;
+           Medication Administration Hassles Scale (FCMAHS), a caregiver-reported outcome measure.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 3, 2021</start_date>
+  <completion_date type="Actual">May 2, 2022</completion_date>
+  <primary_completion_date type="Actual">May 2, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patient and care partner dyads are randomly assigned to receive the pharmacist-led intervention immediately after an educational mailing or to a delayed intervention control group that will receive the pharmacist-led component 3 months after the mailing.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility as assessed by proportion of dyads that opt out of the intervention</measure>
+    <time_frame>At study completion, an average of 1 year</time_frame>
+    <description>Dyads are comprised of the person living with dementia and their care partner. We will measure the proportion of dyads that opt out of the intervention versus the dyads that agree to participate.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as assessed by the proportion of pharmacist messages to the Primary Care Provider (PCP) that receive an acknowledgment or response</measure>
+    <time_frame>3 months after enrollment</time_frame>
+    <description>We will measure the proportion of pharmacists messages that receive an acknowledgement or response from the PCP based on Electronic Medical Record (EMR) review</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as assessed by the number of contacts between pharmacist and PCP</measure>
+    <time_frame>3 months after enrollment</time_frame>
+    <description>We will measure the number of contacts between pharmacist and PCP based on Electronic Medical Record (EMR) review</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as assessed by the number of contacts between pharmacist and dyad</measure>
+    <time_frame>3 months after enrollment</time_frame>
+    <description>We will measure the number of contacts between pharmacist and PCP and dyad based on Electronic Medical Record (EMR) review</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as assessed by the time required by the pharmacist to complete the intervention</measure>
+    <time_frame>3 months after enrollment</time_frame>
+    <description>We will measure the amount of time that it takes the pharmacist to complete all intervention processes. We will access from pharmacist's documentation in the Electronic Medical Record (EMR)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility as assessed by proportion of dyads who complete 2 of 2 pharmacist phone calls based on documented status reports</measure>
+    <time_frame>Baseline and 3 months after enrollment</time_frame>
+    <description>Dyads are comprised of the person living with dementia and their care partner. We will measure the proportion of dyads who complete 2 of 2 pharmacist phone calls based on documented status reports</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Acceptability will be assessed by the acceptance rates for the pharmacist's recommendations</measure>
+    <time_frame>3 months after enrollment</time_frame>
+    <description>We will measure the acceptance rates for the pharmacist's recommendations as documented in the Electronic Medical Record (EMR)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility of measuring patient-level Medication Regimen Complexity Index (pMRCI), within the existing EMR systems</measure>
+    <time_frame>Baseline and 3 months after enrollment</time_frame>
+    <description>Proportion of participants with data elements available to calculate the Medication Regimen Complexity Index (pMRCI), within the existing electronic medical record systems&#xD;
+Feasibility will be measured as follows:&#xD;
+Proportion of participants with data elements available vs. unavailable to calculate the pMRCI.&#xD;
+This study will assess the feasibility of measuring the pMRCI and not actually determining the pMRCI.&#xD;
+The pMRCI is a validated, widely-used tool that measures medication regimen complexity to identify patients with expected difficulty managing their regimens. Scores are derived from weighted values of regimen components (eg, dosage formulations, frequencies, and specific instructions for use). Higher scores indicate greater medication regimen complexity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate for the Family Caregiver Medication Administration Hassles Scale (FCMAHS)</measure>
+    <time_frame>Baseline and 3 months after enrollment</time_frame>
+    <description>We will measure the response rate from care partners to complete the FCMAHS over the phone or electronically.&#xD;
+The FCMAHS is a validated caregiver-reported outcome measure that assesses burden associated with medication administration. The instrument consists of 24 items and four subscales: Information Seeking/Information Sharing (9 items), Safety Issues (5 items), Scheduling Logistics (7 items) and Polypharmacy (3 items). The total score range is 0-120 with higher scores indicating greater perceived hassle associated with managing some or all aspects of another person's medication regimen.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to complete the Family Caregiver Medication Administration Hassles Scale (FCMAHS)</measure>
+    <time_frame>Baseline and 3 months after enrollment</time_frame>
+    <description>We will measure the time it takes the care partner to complete the FCMAHS over the phone or electronically.&#xD;
+The FCMAHS is a validated caregiver-reported outcome measure that assesses burden associated with medication administration. The instrument consists of 24 items and four subscales: Information Seeking/Information Sharing (9 items), Safety Issues (5 items), Scheduling Logistics (7 items) and Polypharmacy (3 items). The total score range is 0-120 with higher scores indicating greater perceived hassle associated with managing some or all aspects of another person's medication regimen.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Family Caregiver Medication Administration Hassles Scale (FCMAHS)</measure>
+    <time_frame>Baseline and 3 months after enrollment</time_frame>
+    <description>The FCMAHS is a validated caregiver-reported outcome measure that assesses burden associated with medication administration. The instrument consists of 24 items and four subscales: Information Seeking/Information Sharing (9 items), Safety Issues (5 items), Scheduling Logistics (7 items) and Polypharmacy (3 items). The total score range is 0-120 with higher scores indicating greater perceived hassle associated with managing some or all aspects of another person's medication regimen.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">138</enrollment>
+  <condition>Polypharmacy</condition>
+  <condition>Alzheimer Disease and Related Dementias</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention consists of the following:&#xD;
+mailing deprescribing educational materials to care partners and people living with dementia (PLWD);&#xD;
+dyads will receive a telehealth visit with a clinical pharmacist to discuss the benefits and harms of the patient's medications with the patient and care partner in the context of their goals and preferences;&#xD;
+pharmacist- primary care provider (PCP) communication in which the pharmacist provides tailored deprescribing recommendations to the PCP.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Delayed Intervention (wait list control)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The delayed intervention consists of the following:&#xD;
+mailing deprescribing educational materials to care partners and people living with dementia (PLWD);&#xD;
+three months after mailing the deprescribing educational materials, dyads will receive a telehealth visit with a clinical pharmacist to discuss the benefits and harms of the patient's medications with the patient and care partner in the context of their goals and preferences.&#xD;
+pharmacist- primary care provider (PCP) communication in which the pharmacist provides tailored deprescribing recommendations to the PCP.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Pharmacist-led deprescribing intervention</intervention_name>
+    <description>1) direct-to-consumer deprescribing educational materials designed to activate the care partner and people living with dementia PLWD; 2) a telehealth visit in which a clinical pharmacist discusses benefits and harms of the patient's medications with the patient and care partner in the context of their goals and preferences; and 3) pharmacist-PCP communication in which the pharmacist provides tailored deprescribing recommendations designed to be useful and actionable for the PCP</description>
+    <arm_group_label>Delayed Intervention (wait list control)</arm_group_label>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 65 or greater&#xD;
+&#xD;
+          -  Diagnosis of dementia from International Classification of Diseases (ICD) -9 or ICD-10&#xD;
+             codes&#xD;
+&#xD;
+          -  At least one other chronic condition&#xD;
+&#xD;
+          -  Five or more chronic medications (to include all prescription and over-the-counter&#xD;
+             medications, both scheduled and as needed)&#xD;
+&#xD;
+          -  Have a primary care physician at the pilot clinic who has enrolled in the study; this&#xD;
+             will be defined as having had at least 1 previous visit with that physician&#xD;
+&#xD;
+        Care partners:&#xD;
+&#xD;
+        - Family or other companions age 21 years or greater who regularly help the patient with&#xD;
+        managing medications&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  As both the pilot and the planned pragmatic trial will be based in primary care,&#xD;
+             individuals residing in long term care facilities or enrolled in hospice will be&#xD;
+             excluded.&#xD;
+&#xD;
+          -  Individuals who cannot converse comfortably in English will be excluded because the&#xD;
+             FCMAHS has not been validated in other languages.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ariel Green, MD, MPH, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Kaiser Permanente</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Bayview Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Boyd CM, Darer J, Boult C, Fried LP, Boult L, Wu AW. Clinical practice guidelines and quality of care for older patients with multiple comorbid diseases: implications for pay for performance. JAMA. 2005 Aug 10;294(6):716-24.</citation>
+    <PMID>16091574</PMID>
+  </reference>
+  <reference>
+    <citation>Alzheimer's Association. 2016 Alzheimer's disease facts and figures. Alzheimers Dement. 2016 Apr;12(4):459-509.</citation>
+    <PMID>27570871</PMID>
+  </reference>
+  <reference>
+    <citation>Lin PJ, Fillit HM, Cohen JT, Neumann PJ. Potentially avoidable hospitalizations among Medicare beneficiaries with Alzheimer's disease and related disorders. Alzheimers Dement. 2013 Jan;9(1):30-8. doi: 10.1016/j.jalz.2012.11.002.</citation>
+    <PMID>23305822</PMID>
+  </reference>
+  <reference>
+    <citation>Kelley AS, McGarry K, Gorges R, Skinner JS. The burden of health care costs for patients with dementia in the last 5 years of life. Ann Intern Med. 2015 Nov 17;163(10):729-36. doi: 10.7326/M15-0381. Epub 2015 Oct 27.</citation>
+    <PMID>26502320</PMID>
+  </reference>
+  <reference>
+    <citation>Willson MN, Greer CL, Weeks DL. Medication regimen complexity and hospital readmission for an adverse drug event. Ann Pharmacother. 2014 Jan;48(1):26-32. doi: 10.1177/1060028013510898. Epub 2013 Nov 5.</citation>
+    <PMID>24259639</PMID>
+  </reference>
+  <reference>
+    <citation>Bayliss EA, Shetterly SM, Drace ML, Norton J, Green AR, Reeve E, Weffald LA, Wright L, Maciejewski ML, Sheehan OC, Wolff JL, Gleason KS, Kraus C, Maiyani M, Du Vall M, Boyd CM. The OPTIMIZE patient- and family-centered, primary care-based deprescribing intervention for older adults with dementia or mild cognitive impairment and multiple chronic conditions: study protocol for a pragmatic cluster randomized controlled trial. Trials. 2020 Jun 18;21(1):542. doi: 10.1186/s13063-020-04482-0.</citation>
+    <PMID>32552857</PMID>
+  </reference>
+  <reference>
+    <citation>Group Health Research Institute. The Chronic Care Model. Available at http://www.improvingchroniccare.org/index.php?p=CCM_Gallery&amp;s=149. Accessed August 21, 2020</citation>
+  </reference>
+  <reference>
+    <citation>George J, Phun YT, Bailey MJ, Kong DC, Stewart K. Development and validation of the medication regimen complexity index. Ann Pharmacother. 2004 Sep;38(9):1369-76. Epub 2004 Jul 20.</citation>
+    <PMID>15266038</PMID>
+  </reference>
+  <reference>
+    <citation>Travis SS, Bernard MA, McAuley WJ, Thornton M, Kole T. Development of the family caregiver medication administration hassles scale. Gerontologist. 2003 Jun;43(3):360-8.</citation>
+    <PMID>12810899</PMID>
+  </reference>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>June 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>June 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 24, 2021</study_first_posted>
+  <last_update_submitted>June 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 21, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Deprescribing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

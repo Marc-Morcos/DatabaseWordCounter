@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="18">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05602727</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1942-008</org_study_id>
+    <secondary_id>MK-1942-008</secondary_id>
+    <secondary_id>2021-006336-94</secondary_id>
+    <nct_id>NCT05602727</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of MK-1942 as an Adjunct Therapy in Participants With Mild to Moderate Alzheimer's Disease Dementia (MK-1942-008)</brief_title>
+  <official_title>A Phase 2a/2b Randomized, Placebo-Controlled Clinical Study To Evaluate The Safety And Efficacy Of MK-1942 As Adjunctive Therapy In Participants With Mild To Moderate Alzheimer's Disease Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main purpose of this study is to assess is to evaluate the safety and efficacy of MK-1942&#xD;
+      as adjunctive therapy in participants with mild to moderate Alzheimer's Disease (AD)&#xD;
+      dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 28, 2022</start_date>
+  <completion_date type="Anticipated">May 12, 2026</completion_date>
+  <primary_completion_date type="Anticipated">May 12, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mean Change From Baseline in the Alzheimer's Disease Assessment Scale-11-item Cognitive Subscale (ADAS-Cog11) Score at Week 12</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <description>Mean change from baseline at week 12 is assessed for ADAS-Cog11 score. The ADAS-Cog11 is a structured scale that evaluates memory, orientation, attention, reasoning, language, and constructional praxis. ADAS-Cog11 measures cognition by assessing 11 metrics impaired in AD: word recall; commands; constructional praxis; naming objects and fingers; ideational praxis; orientation; word recognition; remembering test instructions; spoken language ability; word-finding difficulty; and comprehension of spoken language. Higher scores indicate greater impairment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Experiencing an Adverse Event (AE)</measure>
+    <time_frame>Up to ~ 14 Weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Discontinuing Study Medication due to an Adverse Event</measure>
+    <time_frame>Up to ~ 12 Weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention. An AE can therefore be any unfavorable and unintended sign (including an abnormal laboratory finding), symptom, or disease (new or exacerbated) temporally associated with the use of a study intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study Clinical Global Impression of Change (ADCS-CGIC) Overall Score at Week 12</measure>
+    <time_frame>Week 12</time_frame>
+    <description>ADCS-CGIC scores are assessed at week 12. The ADCS-CGIC is a global scale assessing cognition and function based on structured interviews of both the participant and study partner. The ADCS-CGIC focuses on clinicians' observations of change in the patient's cognitive, functional, and behavioral performance since the beginning of the study. Improvement in the ADCS-CGIC overall score, with a score of 1, 2, or 3 indicates improvement. The ADCS-CGIC is a clinician-rated measure of: global severity at baseline scored from 1 (normal, not at all ill) to 7 (among the most extremely ill patients); and global change at follow-up scored from 1 (marked improvement) to 7 (marked worsening), where 4 indicates no change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean Change From Baseline in The Alzheimer's Disease Cooperative Study Activities of Daily Living (ADCS-ADL) Total Score at Week 12</measure>
+    <time_frame>Baseline and Week 12</time_frame>
+    <description>Mean change from baseline at week 12 is assessed for ADCS-ADL score. The ADCS-ADL is an informant-based measure of the patient's functional ability in activities of daily living (ADL). The ADCS-ADL assesses the competence of participants with AD dementia in basic and instrumental ADLs. The ADCS-ADL is a 23 item scale that includes 6 basic ADL tems and 17 instrumental ADL items that provide a total score from 0-78, with a lower score indicating greater severity.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">408</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>MK-1942 5 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single 5 mg MK-1942 capsule twice daily (BID), taken orally for 12 weeks. A mock titration will be done to maintain the study blind despite no changes in dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>MK-1942 15 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single 8 mg MK-1942 capsule twice daily (BID), taken orally for one week. Then the dose is titrated up to 15 mg MK-1942 capsule twice daily (BID), taken orally for up to 11 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a placebo capsule twice daily (BID), taken orally for 12 weeks. A mock titration will be done to maintain the study blind despite no changes in dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>MK-1942</intervention_name>
+    <description>MK-1942 oral capsule</description>
+    <arm_group_label>MK-1942 15 mg</arm_group_label>
+    <arm_group_label>MK-1942 5 mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo oral capsule</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has mild to moderate AD dementia based on the national institute of neurological and&#xD;
+             communicative diseases and stroke/Alzheimer's Disease and related disorders&#xD;
+             association (NINCDS-ADRDA) criteria.&#xD;
+&#xD;
+          -  Has mini-mental state examination (MMSE) score between 12-22 (inclusive) at screening.&#xD;
+&#xD;
+          -  Is using acetylcholinesterase inhibitors (AChEI) therapy for management of AD dementia&#xD;
+             at Screening and during the study. These medications must be at stable approved dose&#xD;
+             levels ≥3 months before the first dose of study intervention and the regimens must&#xD;
+             remain constant throughout the study to the extent that is clinically appropriate.&#xD;
+&#xD;
+          -  Has a designated study partner who can fulfill the requirements of this study. The&#xD;
+             study partner will need to spend sufficient time with the participant to be familiar&#xD;
+             with their overall function and behavior and be able to provide adequate information&#xD;
+             about the participant needed for the study including, knowledge of functional and&#xD;
+             basic activities of daily life, work/educational history, cognitive performance,&#xD;
+             emotional/psychological state, and general health status.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has a known history of stroke or cerebrovascular disease that is clinically important&#xD;
+             in the investigator's opinion.&#xD;
+&#xD;
+          -  Has diagnosis of a clinically relevant central nervous system (CNS) disease other than&#xD;
+             AD dementia (with protocol-specified exceptions).&#xD;
+&#xD;
+          -  Has a history of seizures or epilepsy within the 10 years preceding Screening.&#xD;
+&#xD;
+          -  Has any other major CNS trauma, or infections that affect brain function.&#xD;
+&#xD;
+          -  Has evidence of a clinically relevant or unstable psychiatric disorder, based on&#xD;
+             criteria from the diagnostic and statistical manual of mental disorders (fifth&#xD;
+             edition), including schizophrenia or other psychotic disorder, bipolar disorder, major&#xD;
+             depression, or delirium. Major depression in remission is not exclusionary.&#xD;
+&#xD;
+          -  Has a severe, acute, or chronic medical or psychiatric condition or laboratory&#xD;
+             abnormality that may increase the risk associated with study participation or&#xD;
+             administration intervention.&#xD;
+&#xD;
+          -  Has a history of malignancy occurring within the 5 years immediately before Screening,&#xD;
+             except for a participant who has been adequately treated for 1 or more of the&#xD;
+             following: basal cell or squamous cell skin cancer; in situ cervical cancer; localized&#xD;
+             prostate carcinoma; who has undergone potentially curative therapy with no evidence of&#xD;
+             recurrence for ≥3 years post-therapy, and who is deemed to be at low risk for&#xD;
+             recurrence.&#xD;
+&#xD;
+          -  Has a risk factor for QTc prolongation.&#xD;
+&#xD;
+          -  Has a history of alcoholism or drug dependency/abuse within the 5 years preceding&#xD;
+             screening.&#xD;
+&#xD;
+          -  Has a known allergy or intolerance to the active or inert ingredients in MK-1942.&#xD;
+&#xD;
+          -  Has received any anti-amyloid agents or antibodies, or any of the following&#xD;
+             medications: CNS-penetrant anticholinergics, neuroleptics, anticonvulsants, narcotics,&#xD;
+             glutamatergic agents, agents with possible psychotropic effects, and experimental&#xD;
+             acute respiratory syndrome coronavirus 2 (COVID-19) therapies.&#xD;
+&#xD;
+          -  Has liver disease, including but not limited to chronic viral hepatitis, non viral&#xD;
+             hepatitis, cirrhosis, malignancies, autoimmune liver diseases.&#xD;
+&#xD;
+          -  Has an abnormal thyroid-stimulating hormone (TSH) value if confirmed by abnormal T4&#xD;
+             value.&#xD;
+&#xD;
+          -  Resides in a nursing home or assisted care facility with need for direct continuous&#xD;
+             medical care and nursing supervision. Participant may reside in such facilities&#xD;
+             provided continuous direct medical care is not required and a qualified study partner&#xD;
+             is available for coparticipation and the participant is physically able to attend all&#xD;
+             required study visits.&#xD;
+&#xD;
+          -  Had major surgical procedure or donated or lost &gt;1 unit of blood (approximately 500&#xD;
+             mL) within the 4 weeks before screening.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <email>Trialsites@merck.com</email>
+  </overall_contact>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 2, 2022</study_first_posted>
+  <last_update_submitted>October 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

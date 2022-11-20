@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2626">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05596760</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00015800</org_study_id>
+    <secondary_id>R01AG078169</secondary_id>
+    <nct_id>NCT05596760</nct_id>
+  </id_info>
+  <brief_title>Promoting Goals-of-Care Discussions for Patients With Memory Problems and Their Caregivers</brief_title>
+  <acronym>PICSI-M</acronym>
+  <official_title>Hybrid Efficacy-effectiveness Trial to Promote Goals-of-care Discussions for Patients With Alzheimer's Disease and Related Dementias and Their Family Caregivers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Washington</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical trial is to improve communication among clinicians, patients with&#xD;
+      memory problems, and their family members. We are testing a way to help clinicians have&#xD;
+      better conversations to address patients' goals for their healthcare. To do this, we created&#xD;
+      a simple, short guide called the &quot;Jumpstart Guide.&quot; The goal of this research study is to&#xD;
+      show that using this kind of guide is possible and can be helpful for patients and their&#xD;
+      families. Patients' clinicians may receive a Jumpstart Guide before the patient's clinic&#xD;
+      visit. Researchers will compare patients whose clinician received a Jumpstart Guide to&#xD;
+      patients whose clinician did not receive a guide to see if more patients in the Jumpstart&#xD;
+      Guide group had conversations about the patient's goals for their healthcare. Patients and&#xD;
+      their family members will also be asked to complete surveys after the visit with their&#xD;
+      clinician.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an NIH Stage III hybrid efficacy-effectiveness trial that also capitalizes on&#xD;
+      insights from the hybrid effectiveness-implementation design. This is a parallel group&#xD;
+      randomized trial randomizing patients with ADRD to Jumpstart or usual care. Jumpstart is&#xD;
+      designed to promote and guide goals-of-care discussions for patients with serious illness&#xD;
+      through suggestions and &quot;tips&quot; on the Jumpstart Guide. The guide also includes&#xD;
+      patient-specific information gathered from the EHR on the presence of advance directives and&#xD;
+      POLST forms. This trial is also pragmatic because we will enroll all eligible patients;&#xD;
+      Jumpstart guides will be delivered to clinicians caring for all patients in the intervention&#xD;
+      arm. Patient-reported outcomes will only be collected from patients and families willing to&#xD;
+      complete surveys. The primary outcome, EHR documentation of goals-of-care discussions, will&#xD;
+      be collected for all patients.&#xD;
+&#xD;
+      The study includes 4 steps:&#xD;
+&#xD;
+      Step 1. Patient Identification and randomization. Patients are randomized at the time of&#xD;
+      confirmation of eligibility to one of two study arms: the Jumpstart intervention or usual&#xD;
+      care.&#xD;
+&#xD;
+      Jumpstart is a communication-priming intervention for clinicians, patients and their families&#xD;
+      in the outpatient setting. The intervention's goal is to prompt clinicians to provide, during&#xD;
+      a scheduled (non-urgent) clinic visit, standard of care which includes a discussion with&#xD;
+      patients (and/or their LNOKs) about their goals of care. It is designed to promote and guide&#xD;
+      these discussions for older adults with ADRD through suggestions and tips on the Jumpstart&#xD;
+      guide.&#xD;
+&#xD;
+      Step 2. Creation of EHR-based Jumpstart Guide. For patients randomized to intervention, a&#xD;
+      &quot;clinician-facing&quot; Jumpstart guide is created. The Jumpstart guide is developed from EHR&#xD;
+      data, using automated retrieval routines to summarize the presence or absence of Physician&#xD;
+      Orders for Life Sustaining Treatment (POLST), advance directives, and durable power of&#xD;
+      attorney (DPOA) for health care documentation. This information is used to populate the&#xD;
+      Jumpstart guide with tailored recommendations to clinicians for initiating or continuing&#xD;
+      goals of care discussions at the patient's upcoming &quot;target visit&quot; appointment. No Jumpstart&#xD;
+      guides are created for patients in the comparator arm.&#xD;
+&#xD;
+      Step 3. Delivery of Jumpstart Guide to Clinician. Jumpstart guides are delivered within 1-2&#xD;
+      days prior to the patient's targeted appointment via secure email or in person to the&#xD;
+      clinician who is caring for the study patient in the outpatient setting. Study staff monitors&#xD;
+      the EHR via EPIC to confirm appointment attendance, or to revise the target visit date if the&#xD;
+      appointment is rescheduled. The study does not contact clinicians for patients in the&#xD;
+      comparator arm; however, the target visit is tracked and logged in order to collect outcome&#xD;
+      data.&#xD;
+&#xD;
+      Step 4. Recruitment of Patients and Family Members for Surveys. At approximately 2 weeks&#xD;
+      after the target visit, patients are contacted to participate in survey activities.&#xD;
+      Recruitment is as noted above. Surveys are distributed to patients and family members in both&#xD;
+      study arms at 1-, 3-, and 12-months after a target visit. These time points are designed to&#xD;
+      maximize subjects' ability to recall occurrence of a goals-of-care discussion (1-month) while&#xD;
+      also allowing time for the communication intervention to impact care plans and other&#xD;
+      patient-centered outcomes (3- and 12-months). Surveys assess patient outcomes, including&#xD;
+      palliative care needs, healthcare utilization and intensity of care, and psychological&#xD;
+      symptoms. Family surveys include items that allow the family to assess the patient outcomes&#xD;
+      from the caregiver's perspective as well as caregiver outcomes. Surveys may be completed&#xD;
+      in-person, online (REDCap), or by phone, based on subjects' preferences.&#xD;
+&#xD;
+      A legal next of kin is identified for all patients in case patients are unable to complete&#xD;
+      surveys at any time during their 12-month period of study participation. We use the same&#xD;
+      procedures for them at later time points that are used at initial recruitment and enrollment.&#xD;
+&#xD;
+      Qualitative Interviews. At the end of the participants' follow-up period, intervention&#xD;
+      patients and family members are invited to take part in a short, semi-structured interviews&#xD;
+      to evaluate the intervention. The interviews will last about 20-30 minutes. This subset of&#xD;
+      subjects is contacted by the study team by mail, email, telephone or in-person, based on&#xD;
+      their preference determined at enrollment. We use purposive sampling to select individuals&#xD;
+      representing diverse demographics (i.e., age, gender, race, ethnicity, dementia severity) and&#xD;
+      various levels of participation in the intervention.&#xD;
+&#xD;
+      Clinicians are identified by the study team using purposive sampling to identify those who&#xD;
+      participated fully in the intervention component and those who were sent the Jumpstart guide&#xD;
+      but did not document a goals-of-care discussion. They are also selected using purposive&#xD;
+      sampling to ensure a diverse group based on race/ethnicity, age, gender, specialty, and years&#xD;
+      of training.&#xD;
+&#xD;
+      Interviews explore feedback on the intervention and ways to improve intervention delivery and&#xD;
+      implementation, including three key implementation outcomes (acceptability, fidelity,&#xD;
+      penetration) that will guide future dissemination of the intervention. They are conducted in&#xD;
+      person, by video conference, or by phone, depending on the participant's preference.&#xD;
+      Interviews are audio recorded, transcribed, and analyzed using thematic analysis. To ensure&#xD;
+      trustworthiness and accuracy, interviewers (research coordinators) may perform a &quot;member&#xD;
+      check&quot; of the results with participants selected.&#xD;
+&#xD;
+      Additional Data Collection: We use EHR-based quality metrics program to obtain data about&#xD;
+      patients from the EHR, including those data required for screening and for primary and&#xD;
+      secondary outcomes. (See below.) We collect these data using our automated and validated&#xD;
+      methods within UW Medicine from the EHR using UW Medicine's Enterprise Data Warehouse (EDW),&#xD;
+      a repository of data from multiple sources including clinical, supply chain, billing, and&#xD;
+      human resources. We collect healthcare utilization outside of UW Medicine through participant&#xD;
+      surveys, along with occurrence and place of death (if death occurs within 24 months from&#xD;
+      patient enrollment) from the EHR and Washington State death certificate data.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2022</start_date>
+  <completion_date type="Anticipated">March 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>EHR documentation of Goals of Care discussions</measure>
+    <time_frame>90 days following randomization</time_frame>
+    <description>The primary outcome is the proportion of patients who have a goals-of-care discussion that has been documented in the EHR in the period by 90 days following randomization. The proportion is the number of patients with GOC documentation over the number of patients in each study arm.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety and depression (HADS)</measure>
+    <time_frame>30 days following randomization.</time_frame>
+    <description>Symptoms of depression and anxiety assessed with the Hospital Anxiety and Depression Scale (HADS). The HADS is a reliable, valid 14-item, 2-domain (anxiety and depression) tool used to assess symptoms of psychological distress. Seven items evaluate anxiety and seven evaluate depression. Each item is scored on a 4-point scale (ranging from 0-3) with scores for each subscale (anxiety and depression) ranging from 0-21.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>Dementia</condition>
+  <condition>Chronic Disease</condition>
+  <condition>Neoplasm Metastasis</condition>
+  <condition>Lung Neoplasm</condition>
+  <condition>Pulmonary Disease, Chronic Obstructive</condition>
+  <condition>Heart Failure，Congestive</condition>
+  <condition>Liver Cirrhosis</condition>
+  <condition>Kidney Failure, Chronic</condition>
+  <condition>Lung Diseases, Interstitial</condition>
+  <condition>Peripheral Vascular Diseases</condition>
+  <condition>Diabetes With End Organ Damage</condition>
+  <condition>Palliative Care, Patient Care</condition>
+  <condition>Health Care Quality, Access, and Evaluation</condition>
+  <condition>Patient Care</condition>
+  <condition>Health Communication</condition>
+  <condition>Patient Care Planning</condition>
+  <condition>Quality of Life</condition>
+  <arm_group>
+    <arm_group_label>Jumpstart Guide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The Jumpstart Guide is developed using automated methods. It summarizes the presence/absence of POLST, advance directives and DPOA documentation. The Jumpstart Guide also provides tips for conducting discussion about goals of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Clinicians of patients in the Usual Care arm will not receive a Jumpstart Guide.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Jumpstart Guide</intervention_name>
+    <description>The Jumpstart Guide is a communication-priming intervention for clinicians, patients and their families in the outpatient setting. The intervention's goal is to prompt clinicians to provide, during a scheduled (non-urgent) clinic visit, standard of care which includes a discussion with patients (and/or their LNOKs) about their goals of care. It is designed to promote and guide these discussions for older adults with memory problems through suggestions and tips on the Jumpstart Guide.</description>
+    <arm_group_label>Jumpstart Guide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        PATIENTS&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be cared for as an outpatient at a UW Medicine clinic&#xD;
+&#xD;
+          -  55 years of age or older&#xD;
+&#xD;
+          -  Have an ICD-10 code for ADRD documented in the EHR within the prior two years&#xD;
+&#xD;
+        If patients are cared for in a primary care setting within UW Medicine or by a geriatrician&#xD;
+        or neurologist, only a diagnosis of ADRD is required for eligibility.&#xD;
+&#xD;
+        If patients have ADRD and are not followed by a primary care clinician at UW Medicine but&#xD;
+        are followed by a subspecialist, eligible patients must also have an ICD-10 code for one or&#xD;
+        more of seven chronic conditions used by the Dartmouth Atlas, relevant for the specialist&#xD;
+        they see, to ensure that goals-of care discussions are applicable for these specialists in&#xD;
+        the care of the enrolled patient. These conditions by specialist are: malignant&#xD;
+        cancer/leukemia (oncologist), chronic pulmonary disease (pulmonologist), coronary artery&#xD;
+        disease or heart failure (cardiologist), chronic liver disease (hepatologist), chronic&#xD;
+        renal disease (nephrologist), and diabetes with end-organ damage (endocrinologist).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  restricted status, legal or risk management concerns&#xD;
+&#xD;
+          -  without capacity to complete informed consent procedures and without a legal surrogate&#xD;
+             to enroll them (for the survey component or qualitative interviews)&#xD;
+&#xD;
+          -  non-English speaking (for the survey component or qualitative interviews)&#xD;
+&#xD;
+        FAMILY MEMBERS&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Identified (via the patient or the EHR) as the person most involved in care for an&#xD;
+             eligible patient in the trial&#xD;
+&#xD;
+          -  18 years of age or older&#xD;
+&#xD;
+          -  English language proficiency&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  legal or risk management concerns&#xD;
+&#xD;
+          -  psychological illness or morbidity preventing completion of study materials&#xD;
+&#xD;
+          -  physical or mental limitations preventing completion of study materials&#xD;
+&#xD;
+          -  non-English speaking&#xD;
+&#xD;
+        Not all patients will have an eligible family member to enroll.&#xD;
+&#xD;
+        CLINICIANS&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Physician or advance practice provider caring for older adults within UW Medicine&#xD;
+             clinics&#xD;
+&#xD;
+          -  18 years of age or older&#xD;
+&#xD;
+          -  English language proficiency&#xD;
+&#xD;
+          -  (Interviews) Identified as clinician of record for an enrolled patient in the trial&#xD;
+             and received a Jumpstart guide&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  legal or risk management concerns&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Erin Kross, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Washington</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elizabeth Nielsen</last_name>
+    <phone>206 744-9516</phone>
+    <email>eniels9@u.washington.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Janaki M Torrence, MS</last_name>
+    <phone>206 402 7357</phone>
+    <email>jtorrenc@uw.edu</email>
+  </overall_contact_backup>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2022</study_first_posted>
+  <last_update_submitted>October 24, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Washington</investigator_affiliation>
+    <investigator_full_name>Erin Kross</investigator_full_name>
+    <investigator_title>Associate Professor: School of Medicine, Pulmonary, Critical Care and Sleep Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+    <mesh_term>Lung Diseases, Interstitial</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Renal Insufficiency</mesh_term>
+    <mesh_term>Kidney Failure, Chronic</mesh_term>
+    <mesh_term>Heart Failure</mesh_term>
+    <mesh_term>Vascular Diseases</mesh_term>
+    <mesh_term>Peripheral Vascular Diseases</mesh_term>
+    <mesh_term>Peripheral Arterial Disease</mesh_term>
+    <mesh_term>Chronic Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

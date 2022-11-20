@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="589">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04566003</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GN42801</org_study_id>
+    <nct_id>NCT04566003</nct_id>
+  </id_info>
+  <brief_title>Evaluation Comparing Tau PET Radiotracers, [18F]GTP1 and [18F]PI-2620 or [18F]MK-6240 in Subjects With Normal Cognition or Prodromal to Moderate Alzheimer's Disease</brief_title>
+  <official_title>Phase 1 Evaluation Comparing Tau PET Radiotracers, [18F]GTP1 and [18F]PI-2620 or [18F]MK-6240 in Subjects With Normal Cognition or Prodromal to Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Genentech, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aims to compare tau targeted radiotracers [18F]GTP1 and [18F]PI-2620 or&#xD;
+      [18F]MK-6240 in subjects with normal cognition or prodromal to moderate Alzheimer's disease&#xD;
+      (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 26, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants with Adverse Events (AEs)</measure>
+    <time_frame>Up to approximately 4 days after administration of each radiotracer</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain tau burden as measured by [18F]PI-2620 - PET</measure>
+    <time_frame>Approximately 1 hour after injection of [18F]PI-2620</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain tau burden as measured by [18F]GTP1 - PET</measure>
+    <time_frame>Approximately 1 hour after injection of [18F]PI-2620</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brain tau burden as measured by [18F]MK-6240 - PET</measure>
+    <time_frame>Approximately 1 hour after injection of [18F]MK-6240</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Alzheimer Disease (AD)</condition>
+  <arm_group>
+    <arm_group_label>[18F]PI-2620 PET, then [18F]GTP1 PET</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will undergo one [18F]PI-2620 PET imaging session, then one [18F]GTP1 PET imaging session. Prior to each session, participants will be administered a bolus intravenous injection of approximately 5 millicurie (mCi) of [18F]PI-2620 or 7mCi of [18F]GTP1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>[18F]GTP1 PET, then [18F]MK-6240</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will undergo one [18F]GTP1 PET imaging session, then one [18F]MK-6240 PET imaging session. Prior to each session, participants will be administered a bolus intravenous injection of approximately 5 millicurie (mCi) of [18 F]MK-6240 or 7mCi of [18F]GTP1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]GTP1</intervention_name>
+    <description>Participants will receive a bolus IV of approximately 7mCi of [18F]GTP1 radiotracer.</description>
+    <arm_group_label>[18F]GTP1 PET, then [18F]MK-6240</arm_group_label>
+    <arm_group_label>[18F]PI-2620 PET, then [18F]GTP1 PET</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]PI-2620</intervention_name>
+    <description>Participants will receive a bolus IV of approximately 5mCi of [18F]PI-2620 radiotracer.</description>
+    <arm_group_label>[18F]PI-2620 PET, then [18F]GTP1 PET</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]MK-6240</intervention_name>
+    <description>Participants will receive a bolus IV of approximately 5mCi of [18F]MK-6240 radiotracer.</description>
+    <arm_group_label>[18F]GTP1 PET, then [18F]MK-6240</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Cognitively normal subjects aged 65 to 90 years and prodromal to mild AD subjects aged&#xD;
+             50 to 90 years, inclusive at the time of screening.&#xD;
+&#xD;
+          -  Prodromal to moderate AD subjects: Meet the National Institute on Aging - Alzheimer's&#xD;
+             Association (NIA-AA) core clinical criteria for mild cognitive impairment (MCI) due to&#xD;
+             AD, probable AD dementia or AD dementia&#xD;
+&#xD;
+          -  Have a Clinical Dementia Rating (CDR) score of 0 (cognitively normal) or 0.5&#xD;
+             (prodromal to moderate AD) at screening&#xD;
+&#xD;
+          -  Have an Mini-Mental State Examination (MMSE) score 10-30 inclusive&#xD;
+&#xD;
+          -  Have Aβ PET imaging demonstrating Aβ binding based on qualitative visual read at&#xD;
+             screening or using an acceptable historical PET scan (cognitively normal subjects will&#xD;
+             be assessed with Aβ PET at screening but will not be required to demonstrate Aβ&#xD;
+             binding).&#xD;
+&#xD;
+          -  A brain MRI consistent with normal cognition or that supports a diagnosis of prodromal&#xD;
+             to moderate AD, with no evidence of other significant neurologic pathology. A&#xD;
+             previously acquired research MRI within the last 12 months may be used if deemed&#xD;
+             acceptable by the investigator and no significant clinically relevant changes have&#xD;
+             occurred since the prior MRI was obtained&#xD;
+&#xD;
+          -  The subject has an appropriate study partner capable of participating in CDR&#xD;
+             assessment and, if necessary, of accompanying the subject&#xD;
+&#xD;
+          -  For cognitively normal subjects only: History of at least one first degree relative&#xD;
+             with diagnosis of Alzheimer's disease (self-reported by the potential subject and/or&#xD;
+             confirmed by the study partner).&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Current or prior history of any alcohol or drug abuse within the last 2 years&#xD;
+&#xD;
+          -  Prior participation in other research protocols or clinical care in the last year in&#xD;
+             addition to the radiation exposure expected from participation in this clinical study,&#xD;
+             such that radiation exposure exceeds the effective dose of 50 millisievert (mSv),&#xD;
+             which would be above the acceptable annual limit established by the US Federal&#xD;
+             Guidelines&#xD;
+&#xD;
+          -  Evidence of clinically significant gastrointestinal, cardiovascular, hepatic, renal,&#xD;
+             hematological, neoplastic, endocrine, alternative neurological, immunodeficiency,&#xD;
+             pulmonary, or other disorder or disease&#xD;
+&#xD;
+          -  MRI evidence of cerebrovascular disease, infectious disease, space-occupying lesions,&#xD;
+             normal pressure hydrocephalus, or other central nervous system (CNS) disease&#xD;
+&#xD;
+          -  Implants that have not been certified for MRI or history of claustrophobia in MRI,&#xD;
+             unless an acceptable previously acquired research MRI is available&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Genentech, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Reference Study ID Number: GN42801 https://forpatients.roche.com/</last_name>
+    <phone>888-662-6728</phone>
+    <email>global-roche-genentech-trials@gene.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Invicro, a Konica Minolta company</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>September 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2020</study_first_posted>
+  <last_update_submitted>November 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm).</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

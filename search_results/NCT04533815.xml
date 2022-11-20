@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2561">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04533815</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1R61AG065619-01</org_study_id>
+    <nct_id>NCT04533815</nct_id>
+  </id_info>
+  <brief_title>Enhancing Sleep Quality for Nursing Home Residents With Dementia</brief_title>
+  <acronym>40Winks</acronym>
+  <official_title>Enhancing Sleep Quality for Nursing Home Residents With Dementia: Pragmatic Trial of an Evidence-Based Frontline Huddling Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama, Tuscaloosa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Massachusetts, Lowell</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Texas at Austin</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Brown University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alabama, Tuscaloosa</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will improve clinical outcomes for an important, growing, and vulnerable&#xD;
+      population-nursing home (NH) residents with Alzheimer's disease or related dementias&#xD;
+      (ADRDs)-by implementing an evidence-based intervention (LOCK) to improve these residents'&#xD;
+      sleep. It will also significantly increase our understanding of how to implement and sustain&#xD;
+      nursing home interventions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In community (non-VA) NHs [one from each of 3 NH corporations, still to be recruited], our&#xD;
+      multi-disciplinary team proposes to (1) refine the LOCK sleep program to focus on sleep for&#xD;
+      residents with ADRD during this pilot (R61) phase, (2) which will prepare the team for the&#xD;
+      next phase of this NIH-funded grant (the R33 phase) to test the impact and sustainability of&#xD;
+      this intervention for NH residents with ADRD in an incomplete stepped-wedge randomized&#xD;
+      controlled trial.&#xD;
+&#xD;
+      THIS CURRENT PILOT STUDY R61 PHASE (1 YEAR; N = 3 NHS; 1 NH PER CORPORATION) HAS THE&#xD;
+      FOLLOWING SPECIFIC AIMS:&#xD;
+&#xD;
+        1. Refine the LOCK sleep program train-the-trainer protocol by implementing and&#xD;
+           pilot-testing in three NHs.&#xD;
+&#xD;
+        2. Test and refine the research methods to: effectively identify eligible NHs and&#xD;
+           residents; obtain consent; collect primary data from residents and staff (sleep time via&#xD;
+           actigraph); explore staff impressions of additional sleep measurement devices (Fitbits);&#xD;
+           transfer primary and secondary data to our data center; and merge all data.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 5, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>pilot study in 3 nursing homes. The pilot phase will inform the next phase, a clinical trial using an incomplete, stepped, wedge cluster randomized controlled trial (RCT) design with 24 nursing homes. Each nursing home will act as its own control (6 staggered steps, with 4 nursing homes per step).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sleep (actigraph measurement)</measure>
+    <time_frame>6 week sleep intervention period</time_frame>
+    <description>Total sleep time (total minutes asleep each nighttime period - 10pm to 6am)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Psychotropic medication use (change from baseline - decrease, increase, same)</measure>
+    <time_frame>6 week sleep intervention period</time_frame>
+    <description>As recorded in the Minimum Data Set's Medications received subscale, Antipsychotic medication question, and Psychotropic Drug Care Area Trigger Code. The Medications received subscale asks if the resident has received any antipsychotic, antianxiety or antidepressant medication in the past seven days or since admission/reentry if less than seven days. The Antipsychotic medication, similar to in the previous subscale, asks whether the resident received antipsychotic medications since admission/entry or reentry or the prior OBRA assessment, whichever is more recent. Finally, the Psychotropic Drug Trigger Code asks whether the Psychotropic Drug Use Care Area was triggered. These are MDS items N0410A-C, N0450A, and V0200A17A, respectively. These data will be consolidated into a trichotomous indicator of change from baseline (decrease, increase, same).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain treatment received (change from baseline - decrease, increase, same)</measure>
+    <time_frame>6 week sleep intervention period</time_frame>
+    <description>Based on the Pain Management items as recorded in the Minimum Data Set. The Pain Management sub scale asks, using yes or no questions, if the resident has been on a scheduled pain medication regimen, received PRN pain medication or was offered and declined, and, has received non-medication intervention for pain in the past five days. These data will be consolidated into a trichotomous indicator of change from baseline (decrease, increase, same).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain - Resident Report (change from baseline - decrease, increase, same)</measure>
+    <time_frame>6 week sleep intervention period</time_frame>
+    <description>Based on the Pain Assessment items as recorded in the Minimum Data Set. The Pain Assessment sub scale asks if the resident has had pain or hurting (yes, no), the frequency of pain or hurting (almost constantly, frequently, occasionally, rarely), if the resident had difficulty sleeping because of pain or hurting (yes, no), if the residents day-to-day activities were limited because of pain or hurting (yes, no) over the past five days. The Pain Intensity sub scale asks the residents numeric pain rating value (0-10 scale) and intensity of worst pain experienced (mild, moderate, severe, very severe or horrible) in the past five days. These data will be consolidated into a trichotomous indicator of change from baseline (decrease, increase, same).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain - Staff Report (change from baseline - decrease, increase, same)</measure>
+    <time_frame>6 week sleep intervention period</time_frame>
+    <description>As recorded in the Minimum Data Set, the Staff Assessment sub scale asks staff members, all yes, no responses, if the resident had non-verbal sounds, verbal complaints, facial expressions, protective body movements or postures, or no signs that may be an indicator of possible pain in the last five days. These data will be consolidated into a trichotomous indicator of change from baseline (decrease, increase, same).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activities of daily living decline (change from baseline - decrease, increase, same)</measure>
+    <time_frame>6 week sleep intervention period</time_frame>
+    <description>Has activities of daily living functional ability declined from baseline. Based on Minimum Data Set items assessing decline in activities of daily living (MDS; G0110A-J &amp; G0120A-B; QM N028.01), these data will be consolidated into a trichotomous indicator of change from baseline (decrease, increase, same)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">57</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Sleep Disorder</condition>
+  <condition>Sleep Disturbance</condition>
+  <arm_group>
+    <arm_group_label>LOCK sleep intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Nursing home staff receive the LOCK sleep intervention training and thus provide to nursing home residents with dementia the LOCK sleep intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>LOCK sleep intervention</intervention_name>
+    <description>Nursing home staff are trained to use a collaborative problem-solving approach to sleep quality improvement using front-line huddling</description>
+    <arm_group_label>LOCK sleep intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Nursing home residents aged &gt;=50 years with an Alzheimer disease or related dementia&#xD;
+             (ADRD) diagnosis, identified by nursing home staff participating in frontline LOCK&#xD;
+             sleep huddles as having sleep problems&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  residents with a high risk of OSA who are not being treated for OSA because actigraph&#xD;
+             measurements are inaccurate in that population.&#xD;
+&#xD;
+          -  residents who have a persistent bilateral resting tremor or paralysis in both arms (a&#xD;
+             subset of persons with Parkinson's disease and related significant tremor-causing&#xD;
+             diagnoses), due to actigraph measurement inaccuracies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lynn Snow, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Alabama</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lynn Snow, PhD</last_name>
+    <phone>205-348-8648</phone>
+    <email>lsnow@ua.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Brian Cox, BS</last_name>
+    <phone>2053483941</phone>
+    <email>Brian.cox@ua.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Alabama</name>
+      <address>
+        <city>Tuscaloosa</city>
+        <state>Alabama</state>
+        <zip>35487-0348</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian Cox, BS</last_name>
+      <phone>205-348-3941</phone>
+      <email>Brian.cox@ua.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2022</verification_date>
+  <study_first_submitted>August 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 1, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama, Tuscaloosa</investigator_affiliation>
+    <investigator_full_name>A. Lynn Snow</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+    <mesh_term>Parasomnias</mesh_term>
+    <mesh_term>Dyssomnias</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

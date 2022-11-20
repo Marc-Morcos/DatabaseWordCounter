@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1361">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04678453</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SNK01-MX04</org_study_id>
+    <nct_id>NCT04678453</nct_id>
+  </id_info>
+  <brief_title>Safety of SNK01 in Subjects With Alzheimer's Disease (ASK-AD)</brief_title>
+  <acronym>ASK-AD</acronym>
+  <official_title>Single Center, Open Label, Phase 1 Study to Evaluate the Safety, Tolerability and Exploratory Efficacy of SNK01 in Subjects With Alzheimer's Disease (AD)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NKGen Biotech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NKGen Biotech, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety, tolerability, and preliminary efficacy&#xD;
+      of SNK01 (autologous natural killer cell), as a single agent, for the treatment of subjects&#xD;
+      with mild cognitive impairment (MCI) or Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 6, 2021</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To determine the safety profile of SNK01 monotherapy in patients with mild cognitive impairment (MCI) or Alzheimer's Disease by monitoring for adverse events.</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>Evaluated by the number of treatment emergent adverse event (TEAE) Grade 3 or higher considered to be related to SNK01, adverse events (AEs) of Grade 3 or higher using the National Cancer Institute's Common Terminology Criteria for Adverse Events (CTCAE) v5.0, measurements of vital signs, clinical laboratory tests and physical examination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the tolerability of SNK01 monotherapy in patients with mild cognitive impairment (MCI) or Alzheimer's Disease by monitoring for adverse events.</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>Evaluated by the number of treatment emergent adverse event (TEAE) Grade 3 or higher considered to be related to SNK01, adverse events (AEs) of Grade 3 or higher using the National Cancer Institute's Common Terminology Criteria for Adverse Events (CTCAE) v5.0, measurements of vital signs, clinical laboratory tests and physical examination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To determine the maximum tolerated dose (MTD)/recommended Phase 2 dose (RP2D) of SNK01 monotherapy.</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <description>Assessed by the incidence of dose-limiting toxicities, defined by treatment emergent adverse event (TEAE) Grade 3 or higher considered to be related to SNK01, in each dose level.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary efficacy of SNK01 measured by Alzheimer's Disease Assessment Scale Cognitive subscale (ADAS-Cog).</measure>
+    <time_frame>Baseline, Week 11, End of Study (Week 22)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary efficacy of SNK01 measured by Mini-Mental Status Exam (MMSE).</measure>
+    <time_frame>Baseline, Week 11, End of Study (Week 22)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary efficacy of SNK01 measured by Clinical Dementia Rating Scale: Sum of Boxes (CDR-SB).</measure>
+    <time_frame>Baseline, Week 11, End of Study (Week 22)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary efficacy of SNK01 measured by Alzheimer's Disease Composite Score (ADCOMS).</measure>
+    <time_frame>Baseline, Week 11, End of Study (Week 22)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess preliminary efficacy of SNK01 measured by cerebrospinal fluid (CSF) biomarkers: amyloid beta 42, T-tau and P-tau.</measure>
+    <time_frame>Baseline, Week 11, End of Study (Week 22)</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Neuro-Degenerative Disease</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 - Low dose SNK01</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SNK01 (low dose) administered once every three weeks (Q3W) for four cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 - Medium dose SNK01</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SNK01 (medium dose) administered Q3W for four cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3 - High dose SNK01</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SNK01 (high dose) administered Q3W for four cycles.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4 - SNK01 at Maximum Tolerated Dose (MTD) / Recommended Phase 2 Dose (RP2D)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SNK01 (at MTD/RP2D) administered Q3W for four cycles.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SNK01</intervention_name>
+    <description>Patient-specific ex vivo expanded autologous natural killer cells</description>
+    <arm_group_label>Cohort 1 - Low dose SNK01</arm_group_label>
+    <arm_group_label>Cohort 2 - Medium dose SNK01</arm_group_label>
+    <arm_group_label>Cohort 3 - High dose SNK01</arm_group_label>
+    <arm_group_label>Cohort 4 - SNK01 at Maximum Tolerated Dose (MTD) / Recommended Phase 2 Dose (RP2D)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Capable of giving signed informed consent which includes compliance with the&#xD;
+             requirements and restrictions listed in the informed consent form and protocol. If the&#xD;
+             subject is incapable of giving or signing informed consent, the subject must have a&#xD;
+             legally authorized representative willing to consent on their behalf.&#xD;
+&#xD;
+          -  Subject must be ≥ 55 to 85 years old at the time of consent.&#xD;
+&#xD;
+          -  Magnetic resonance imaging (MRI) scans of the brain within the past six months reveal&#xD;
+             evidence and findings consistent with Alzheimer's disease, including hippocampal&#xD;
+             volume loss and/or overall cerebral atrophy (cerebral volume loss).&#xD;
+&#xD;
+          -  Fluorodeoxyglucose-positron emission tomography (FDG-PET) scans of the brain within&#xD;
+             the past six months reveal evidence and findings consistent with mild cognitive&#xD;
+             impairment or Alzheimer's disease.&#xD;
+&#xD;
+          -  Subject presenting, during evaluation by the study Investigator, to have spontaneous&#xD;
+             memory loss or presenting abnormal memory function in early screening.&#xD;
+&#xD;
+          -  Subject must be in good health with adequate hearing and vision.&#xD;
+&#xD;
+          -  Subject must have a reliable caregiver.&#xD;
+&#xD;
+          -  Women of childbearing potential who are not abstinent and intend to be sexually active&#xD;
+             with a nonsterilized male partner must be willing to use an adequate method of&#xD;
+             contraception throughout the study and for one month following the last day of the&#xD;
+             last administration of final study drug dose. Acceptable methods include hormonal&#xD;
+             contraception (oral contraceptives [taken 90 days prior to administration of study&#xD;
+             drug], intrauterine devices (IUD), or double barrier methods (e.g., vaginal&#xD;
+             diaphragm/vaginal sponge plus condoms, or condom plus spermicidal jelly), sexual&#xD;
+             abstinence, or a vasectomized partner.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any medical or neurological conditions, other than Alzheimer's disease, that could&#xD;
+             contribute to the cause of cognitive impairment in the subject. Examples include, but&#xD;
+             are not limited to, frontotemporal dementia (FTD), Lewy body dementia, vascular&#xD;
+             dementia, Parkinson's disease, corticobasal degeneration, Creutzfeldt-Jakob disease,&#xD;
+             progressive supranuclear palsy, Huntington's disease, normal pressure hydrocephalus,&#xD;
+             seizure disorders or cerebral hypoxia, post-traumatic stress disorder (PTSD), or&#xD;
+             alcohol or medication use or abuse.&#xD;
+&#xD;
+          -  Subject does not present with signs of mild cognitive impairment or Alzheimer's&#xD;
+             disease at screening, or during evaluation by the study Investigator.&#xD;
+&#xD;
+          -  Subject presents with significant brain disease including hemorrhage or infarction.&#xD;
+&#xD;
+          -  Subject has a history of cerebrovascular accident or transient ischemic attack (TIA),&#xD;
+             or unexplainable loss of consciousness during the past year.&#xD;
+&#xD;
+          -  Subject has a history of schizophrenia, schizoaffective disorder, major depressive&#xD;
+             disorder (MDD), bipolar disorder, or any other clinically relevant psychiatric&#xD;
+             disease.&#xD;
+&#xD;
+          -  Subject has a history of seizure episodes within the past three years.&#xD;
+&#xD;
+          -  Subject has uncontrolled diabetes mellitus.&#xD;
+&#xD;
+          -  Subject has a history of unstable angina, myocardial infarction, chronic heart&#xD;
+             failure, or clinically relevant conduction abnormalities within the year prior to&#xD;
+             screening.&#xD;
+&#xD;
+          -  Subject suffers from renal or hepatic failure.&#xD;
+&#xD;
+          -  Subject is infected with the human immunodeficiency virus (HIV), Hepatitis B (Hep B),&#xD;
+             Hepatitis C (Hep C), or any other infection or active systemic disease.&#xD;
+&#xD;
+          -  Subject is using anticoagulants (except aspirin at or below a prophylactic dose).&#xD;
+&#xD;
+          -  Subject is currently exceeding the normal recommended dosage for any drug used to&#xD;
+             treat Alzheimer's disease (e.g., memantine or acetylcholinesterase inhibitors&#xD;
+             [AChEI]).&#xD;
+&#xD;
+          -  Subject has contraindication to MRI scans, FDG-PET scans, or lumbar spinal taps.&#xD;
+&#xD;
+          -  Subject whose safety is considered to be at risk from trial's intervention, as&#xD;
+             determined by the study Investigator.&#xD;
+&#xD;
+          -  Pregnant or lactating female subjects.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clemente Humberto Zúñiga Gil, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital Angeles Tijuana</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>NKGen Biotech, Inc.</last_name>
+    <phone>949-396-6830</phone>
+    <email>trials@nkgenbiotech.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Angeles Tijuana</name>
+      <address>
+        <city>Tijuana</city>
+        <state>Baja California</state>
+        <zip>22010</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clemente Humberto Zúñiga Gil, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>December 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 22, 2020</study_first_posted>
+  <last_update_submitted>September 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Natural killer cell</keyword>
+  <keyword>NK cell</keyword>
+  <keyword>Expanded natural killer cell</keyword>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Neurodegenerative diseases</keyword>
+  <keyword>Neurocognitive disorders</keyword>
+  <keyword>Brain diseases</keyword>
+  <keyword>Autologous natural killer cell</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

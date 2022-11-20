@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1405">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05267028</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EYE-TAR(AD+)</org_study_id>
+    <nct_id>NCT05267028</nct_id>
+  </id_info>
+  <brief_title>Rehabilitation of Facial Emotion Recognition in Alzheimer's Disease</brief_title>
+  <official_title>Rehabilitation of Facial Emotion Recognition in Alzheimer's Disease and Study of the Consequences on Gaze Strategy, Behavior Disorders and Family Caregivers' Burden</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Association de Recherche Bibliographique pour les Neurosciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centre Hospitalier Princesse Grace</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universite Cote d'Azur</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Association de Recherche Bibliographique pour les Neurosciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      EYE-TAR(AD+) is an observational study based on the same design as the princeps EYE-TAR(MA)&#xD;
+      study, but with a larger number of patients and including an additional evaluation of Facial&#xD;
+      emotion recognition (based on a more ecological material), in order to reinforce conclusions&#xD;
+      of the study EYE-TAR(MA) https://doi.org/10.1016/j.npg.2020.08.003.&#xD;
+&#xD;
+      The main objective is to confirm that facial emotion recognition can be improved in AD using&#xD;
+      the &quot;Training of Affect Recognition program&quot; (TAR).&#xD;
+&#xD;
+      The Secondary Objectives are to:&#xD;
+&#xD;
+      Evaluate the impact of the &quot;Training of Affect Recognition program&quot; (TAR) on oculomotor&#xD;
+      behavior in a situation of social cognition, on behavioral disorders and on caregiver burden.&#xD;
+&#xD;
+      Confirm that improvement in facial emotion recognition is related to modification of&#xD;
+      observation strategies.&#xD;
+&#xD;
+      Confirm the link between improved recognition of facial emotions, reduced behavioral&#xD;
+      disorders and caregiver burden.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 10, 2022</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Facial emotion recognition (FER) performances</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison of FER performance between AD-TAR group and AD-Cognitive Stimulation group.&#xD;
+Evaluation criteria: Scores to Ekman Faces task (1976). FER was assessed using pictures from the Ekman Faces task (1976), to test the recognition of the six facial basic emotions and neutral faces. There were four pictures per emotion, for a total of 28. For each picture, participants were asked to select one of the seven labels (anger, disgust, fear, sadness, happiness, surprise and neutral), with a maximum of 8 seconds of response time per picture.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Facial emotion recognition (FER) performances (dynamic set)</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison of FER performance between AD-TAR group and AD-Cognitive Stimulation group.&#xD;
+Evaluation criteria: Scores to the Amsterdam Dynamic Facial Expression Set (ADFES).&#xD;
+FER was assessed using pictures from the Amsterdam Dynamic Facial Expression Set (ADFES/ Van Der Schalk J, Hawk ST, Fischer AH, Doosje B. Moving faces, looking places: validation of the Amsterdam Dynamic Facial Expression Set (ADFES). Emotion. 2011;11(4):907-20.), to test the recognition of the six facial basic emotions and neutral faces. There were four pictures per emotion, for a total of 28. For each picture, participants were asked to select one of the seven labels (anger, disgust, fear, sadness, happiness, surprise and neutral), with a maximum of 8 seconds of response time per picture.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Facial emotion recognition (FER) performances - Response times</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison of FER performance between AD-TAR group and AD-Cognitive Stimulation group.&#xD;
+Evaluation criteria: Response times to identify pictures from the Ekman Faces task (1976).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Facial emotion recognition (FER) performances - Response times (dynamic set)</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison of FER performance between AD-TAR group and AD-Cognitive Stimulation group.&#xD;
+Evaluation criteria: Response time to identify dynamic expressions from the Amsterdam Dynamic Facial Expression Set (ADFES).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eye movements behaviors during Facial emotion recognition (FER)</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison of gaze patterns between AD-TAR group and AD-Cognitive Stimulation group, during Facial emotion recognition tasks.&#xD;
+Evaluation criteria: Eye movements (number of fixations on areas of interest) recorded with an eye-tracking device. FER was assessed using some pictures from the Ekman Faces task (1976).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eye-Tracking Measurements during Facial emotion recognition (FER)</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison of gaze patterns between AD-TAR group and AD-Cognitive Stimulation group, during Facial emotion recognition tasks.&#xD;
+Evaluation criteria: Eye movements (duration of fixations on areas of interest) recorded with an eye-tracking device. FER was assessed using some pictures from the Ekman Faces task (1976).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eye gaze strategies during Facial emotion recognition (FER) (dynamic set)</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison of gaze patterns between AD-TAR group and AD-Cognitive Stimulation group, during Facial emotion recognition tasks.&#xD;
+Evaluation criteria: Eye movements (timeline of eye fixations on areas of interest) recorded with a gaze recording device Tobii. FER was assessed using some pictures from the Amsterdam Dynamic Facial Expression Set (ADFES - 2011).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Behavioral disorders</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison between AD-TAR group and AD-Cognitive Stimulation group, Evaluation criteria: Neuropsychiatric Inventory (NPI), a scale that includes ten behavioral items (delusions, hallucinations, agitation, depression, anxiety, euphoria, apathy, disinhibition, irritability and aberrant motor behaviors) and two neurovegetative symptoms (sleep and appetite disorders). The evaluation was based on an interview with patients' primary caregivers. Both the frequency (/5) and the severity (/3) of each behavior were determined and a score was calculated by multiplying the frequency and the severity of each behavior observed during the last month.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Family caregiver's burden</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison between AD-TAR group and AD-Cognitive Stimulation group, Evaluation criteria: The burden of the family caregiver was measured with the Zarit scale (completed by the caregiver). Composed of 22 questions on the physical, emotional and financial load felt. Total score /88.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global cognitive performance</measure>
+    <time_frame>Baseline; Week 6; 1 month post intervention</time_frame>
+    <description>Change from Baseline and Comparison between AD-TAR group and AD-Cognitive Stimulation group, Evaluation criteria: MMSE (MINI MENTAL STATE EXAMINATION). 30-question general cognitive function assessment. The maximum score is 30.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Alzheimer's Dementia (AD)</condition>
+  <condition>Family Caregivers</condition>
+  <arm_group>
+    <arm_group_label>AD-TAR</arm_group_label>
+    <description>AD subjects who take part to Facial Emotion Recognition rehabilitation (TAR)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AD-Cognitive Stimulation</arm_group_label>
+    <description>AD subjects who take part to cognitive stimulation session (12 sessions during 4 weeks)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>AD-TAR</intervention_name>
+    <description>12 sessions in groups of 4 subject, over 6 weeks (2 sessions per week), using a rehabilitation program named Training of Affect Recognition (TAR).</description>
+    <arm_group_label>AD-TAR</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>AD-Cognitive Stimulation</intervention_name>
+    <description>12 sessions in groups of 4 subject, over 6 weeks (2 sessions per week), using classic cognitive stimulation workshops.</description>
+    <arm_group_label>AD-Cognitive Stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients followed at the Memory Center of the Rainier III Center, presenting a&#xD;
+        neurodegenerative pathology of the AD type, for whom participation in workshops&#xD;
+        (remediation of the recognition of facial emotions and cognitive stimulation) led by a&#xD;
+        neuropsychologist, is recommended.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or Female.&#xD;
+&#xD;
+          -  AD diagnosed according to l'IWG-2 (Dubois &amp; al. 2014) criteria,&#xD;
+&#xD;
+          -  Mini-Mental State (MMS-E) ≥15&#xD;
+&#xD;
+          -  Subject accompanied by a family caregiver and whose participation in a cognitive&#xD;
+             stimulation workshop was recommended in Memory Centre of the RAINIER Centre&#xD;
+             (Princesses Grace Hospital - Monaco)&#xD;
+&#xD;
+          -  Written informed consent signed by patient and family caregiver.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  General anaesthesia within 3 months.&#xD;
+&#xD;
+          -  History of psychiatric and/or neurological disorder (other than the diagnosed&#xD;
+             neurodegenerative pathology);&#xD;
+&#xD;
+          -  History of alcoholism or drug addiction&#xD;
+&#xD;
+          -  Ophthalmological or neurological problems preventing a video-oculography examination.&#xD;
+&#xD;
+          -  Oculomotor disorders such as &quot;fixation disorders&quot; or &quot;ocular tracking disorders&quot;.&#xD;
+&#xD;
+          -  Cognitive disorders of the neurovisual type (visual agnosia, prosopagnosia,&#xD;
+             visuo-spatial disorder or visuo-perceptual disorder) or aphasia.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sandrine LOUCHART DE LA CHAPELLE, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Centre Mémoire, Centre de Gérontologie Clinique RAINIER III, Princess Grace Hospital, Monaco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Solange HESSE</last_name>
+    <phone>99995599</phone>
+    <phone_ext>+377</phone_ext>
+    <email>solange.hesse@chpg.mc</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kévin POLET, PhD</last_name>
+    <phone>99995599</phone>
+    <phone_ext>+377</phone_ext>
+    <email>kevin.polet@chpg.mc</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Centre Mémoire / Centre de Gérontologie Clinique Rainier III / Princess Grace Hospital</name>
+      <address>
+        <city>Monaco</city>
+        <zip>98000</zip>
+        <country>Monaco</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Solange HESSE</last_name>
+      <phone>99995599</phone>
+      <phone_ext>+377</phone_ext>
+      <email>solange.hesse@chpg.mc</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kévin POLET, PhD</last_name>
+      <phone>99995599</phone>
+      <phone_ext>+377</phone_ext>
+      <email>kevin.polet@chpg.mc</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sandrine LOUCHART DE LA CHAPELLE, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Monaco</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>February 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>February 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 4, 2022</study_first_posted>
+  <last_update_submitted>February 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Facial emotion recognition</keyword>
+  <keyword>Training of Affect Recognition</keyword>
+  <keyword>Behavioral disorders</keyword>
+  <keyword>Caregiver's burden</keyword>
+  <keyword>Alzheimer's Dementia</keyword>
+  <keyword>Gaze strategies</keyword>
+  <keyword>Eye-Tracking</keyword>
+  <keyword>Oculomotor behaviors</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

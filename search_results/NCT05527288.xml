@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1949">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05527288</url>
+  </required_header>
+  <id_info>
+    <org_study_id>YZGK-XT001</org_study_id>
+    <nct_id>NCT05527288</nct_id>
+  </id_info>
+  <brief_title>A Bridging Study on Efficacy and Safety of [18F]Florbetaben PET for Diagnosis of Alzheimer Disease Subjects in Chinese Population</brief_title>
+  <official_title>Single-arm, Single-center, Non-randomized, Open-label Study on the Application of Amyloid Imaging Agent [18F]Florbetaben（18FBB） PET/CT Imaging to Distinguish Non-cognitively Impaired Subjects and Mild to Moderate Alzheimer Disease Subjects in Chinese Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sinotau Pharmaceutical Group</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sinotau Pharmaceutical Group</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a bridging study to visually and quantitatively assess PET images obtained after&#xD;
+      single application of 300 MBq [18F]florbetaben and PET scanning of patients with Alzheimer&#xD;
+      disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a bridging study to visually and quantitatively assess PET images obtained after&#xD;
+      single application of 300 MBq [18F]florbetaben and PET scanning of patients with healthy&#xD;
+      subjects and non-cognitively impaired subjects or mild to moderate Alzheimer disease&#xD;
+      subjects. The diagnostic efficacy of the visual and quantitative assessments of 18FBB PET&#xD;
+      images for diagnosis of Alzheimer disease will be determined by comparison to the standard of&#xD;
+      truth (SoT) obtained through standard of care clinical diagnosis. Imaging results were&#xD;
+      compared with reference standards to assess the ability of 18FBB PET imaging to differentiate&#xD;
+      non-cognitively impaired subjects from mild to moderate AD subjects. To investigate the&#xD;
+      pharmacokinetic characteristics of healthy subjects after single intravenous administration&#xD;
+      of 18FBB in Chinese population. Verify the safety of subjects after a single intravenous&#xD;
+      administration of 18FBB in Chinese population.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 28, 2021</start_date>
+  <completion_date type="Actual">September 12, 2021</completion_date>
+  <primary_completion_date type="Actual">September 12, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>All eligible patients will receive a single administration of the imaging agent [18F]florbetaben at a radioactive dose of 300 MBq.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Verify the safety of subjects after a single intravenous administration of 18FBB in Chinese population.</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Safety will be evaluated by collection of Adverse Events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of the ability of qualitative readings of PET imaging to distinguish non-cognitively impaired subjects from mild to moderate AD subjects after a single intravenous administration of 18FBB in Chinese population.</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Sensitivity and specificity of18FBB PET images for diagnosis of Alzheimer disease will be measured by comparison to the standard of truth (SoT) obtained through standard of care clinical diagnosis.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the ability of quantitative analysis of PET imaging to distinguish non-cognitively impaired subjects from mild to moderate AD subjects after a single intravenous administration of 18FBB in Chinese population.</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Sensitivity and specificity of 18FBB PET images for diagnosis of Alzheimer disease will be measured by comparison to the standard of truth (SoT) obtained through standard of care clinical diagnosis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of the Maximum Plasma Concentration (Cmax) of healthy subjects after single intravenous administration of 18FBB in Chinese population.</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Pharmacokinetic characteristics is described by Cmax.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of the Peak Plasma Time (Tmax) of healthy subjects after single intravenous administration of 18FBB in Chinese population.</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Pharmacokinetic characteristics is described by Tmax.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of Area Under the Curve （AUC）for plasma concentration of healthy subjects after single intravenous administration of 18FBB in Chinese population.</measure>
+    <time_frame>Up to 4 weeks</time_frame>
+    <description>Pharmacokinetic characteristics is described by AUC.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">50</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Brain Diseases</condition>
+  <condition>Central Nervous System Diseases</condition>
+  <condition>Nervous System Diseases</condition>
+  <condition>Tauopathies</condition>
+  <condition>Neurodegenerative Diseases</condition>
+  <condition>Neurocognitive Disorders</condition>
+  <condition>Mental Disorders</condition>
+  <arm_group>
+    <arm_group_label>Non-cognitively impaired subjects or mild to moderate Alzheimer disease subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Visually and quantitatively assess PET images obtained after single application of 300 MBq [18F]florbetaben and PET scanning of patients with healthy subjects and non-cognitively impaired subjects or mild to moderate Alzheimer disease subjects.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Drug: [18F]florbetaben</intervention_name>
+    <description>All eligible patients will receive a single administration of the imaging agent [18F]florbetaben at a radioactive dose of 300 MBq.</description>
+    <arm_group_label>Non-cognitively impaired subjects or mild to moderate Alzheimer disease subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        1. Inclusion criteria for non-cognitively impaired subjects:&#xD;
+&#xD;
+          1. Male or female aged between 55 and 85 years old (including 55 and 85 years old);&#xD;
+&#xD;
+          2. The education level of primary school or above, and can cooperate with the tests&#xD;
+             required for research including neuropsychological tests (cognitive ability, language&#xD;
+             ability, visual and auditory acuity can meet the requirements of the test);&#xD;
+&#xD;
+          3. Be able to understand the purpose and experimental protocol of clinical research;&#xD;
+&#xD;
+          4. The researcher judges that the subjects are in good health, and there is no abnormal&#xD;
+             or abnormality in the comprehensive physical examination, vital sign examination and&#xD;
+             laboratory examination, but they can participate in this bridging clinical trial&#xD;
+             according to the judgment of the clinician;&#xD;
+&#xD;
+          5. Clinical dementia score (CDR) of 0, and the Mini-Mental State Examination Scale (MMSE&#xD;
+             score) of ≥28;&#xD;
+&#xD;
+          6. For women of potential fertility (not yet or within 2 years of menopause), effective&#xD;
+             contraceptive measures must be used during the study period and within 6 months after&#xD;
+             the end of the study (effective contraceptive measures refer to sterilization,&#xD;
+             intrauterine hormonal devices, contraception condoms, contraceptives/dose, abstinence&#xD;
+             or partner removal of the vas deferens, etc.); male subjects should agree to use&#xD;
+             contraceptives during the study period and within 6 months after the end of the study&#xD;
+             period;&#xD;
+&#xD;
+          7. Able to sign the informed consent form.&#xD;
+&#xD;
+        2. Inclusion criteria for subjects with mild to moderate AD:&#xD;
+&#xD;
+          1. Male or female aged between 55 and 85 years old (including 55 and 85 years old);&#xD;
+&#xD;
+          2. The education level of primary school or above, and the ability to complete the&#xD;
+             cognitive ability test and other tests stipulated in the program;&#xD;
+&#xD;
+          3. Diagnosed as probable AD according to NINCDS-ADRDA criteria;&#xD;
+&#xD;
+          4. 18≤MMSE score≤26;&#xD;
+&#xD;
+          5. CDR score of 0.5, 1 or 2;&#xD;
+&#xD;
+          6. The investigator judges that the subject's &quot;caregiver&quot; can provide accurate&#xD;
+             information and report on the patient's cognitive and functional abilities;&#xD;
+&#xD;
+          7. For women of potential fertility (not yet menopause or within 2 years of menopause),&#xD;
+             effective contraceptive measures must be used during the study period and within 6&#xD;
+             months after the end of the study (effective contraceptive measures refer to&#xD;
+             sterilization, intrauterine hormonal devices, contraception condoms,&#xD;
+             contraceptives/dose, abstinence or partner removal of the vas deferens, etc.); male&#xD;
+             subjects should agree to use contraceptives during the study period and within 6&#xD;
+             months after the end of the study period;&#xD;
+&#xD;
+          8. Able to sign the informed consent form.&#xD;
+&#xD;
+        3. Inclusion criteria for healthy subjects:&#xD;
+&#xD;
+          1. Male or female aged 18 to 40 years old (including 18 years old and 40 years old);&#xD;
+&#xD;
+          2. Good health or no major diseases, as judged by the investigator based on the following&#xD;
+             evaluations: medical history, vital signs, physical examination, electrocardiogram and&#xD;
+             results of clinical laboratory tests;&#xD;
+&#xD;
+          3. Not using any drugs;&#xD;
+&#xD;
+          4. EEG examination, judged as &quot;normal&quot;;&#xD;
+&#xD;
+          5. Screening blood routine, blood biochemistry and urine routine are normal, or the&#xD;
+             abnormality has no clinical significance;&#xD;
+&#xD;
+          6. Women must use effective contraceptive measures during the study period and within 6&#xD;
+             months after the end of the study (effective contraceptive measures refer to&#xD;
+             sterilization, intrauterine hormone devices, condoms, contraceptives/agents,&#xD;
+             abstinence or partner removal of the vas deferens, etc.) ; male subjects should agree&#xD;
+             to use contraception during the study period and within 6 months after the end of the&#xD;
+             study period;&#xD;
+&#xD;
+          7. Able to sign the informed consent form.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Exclusion criteria for non-cognitively impaired subjects:&#xD;
+&#xD;
+          1. History of various mental illnesses such as anxiety disorders, affective disorders,&#xD;
+             and schizophrenia;&#xD;
+&#xD;
+          2. Depression Screening Scale (PHQ-9) of ≥ 5 points;&#xD;
+&#xD;
+          3. Anxiety Disorder Screening Scale (GAD-7) of ≥ 5 points;&#xD;
+&#xD;
+          4. Severe neurological diseases, such as cerebrovascular diseases, inflammatory or&#xD;
+             infectious diseases, or any metabolic encephalopathy, neurodegenerative diseases,&#xD;
+             including Parkinson's disease history or physical or imaging manifestations;&#xD;
+&#xD;
+          5. History of severe craniocerebral injury, craniocerebral surgery or intracranial&#xD;
+             hematoma with permanent brain injury;&#xD;
+&#xD;
+          6. The results of cranial magnetic resonance imaging (MRI) also meet the following&#xD;
+             imaging findings: ①There are two or more infarcts outside the brain stem (diameter&#xD;
+             greater than 2 cm); ②Key parts such as thalamus, hippocampus, entorhinal cortex and&#xD;
+             angular gyrus Lacunar infarction; ③Fazekas score of high white matter damage ≥3;&#xD;
+&#xD;
+          7. Brain MRI examination showed enlarged perivascular space with subcortical diameter&#xD;
+             &gt;3mm in short axis;&#xD;
+&#xD;
+          8. SWI (susceptibility-weighted imaging) prompts: cerebral microbleeds ≥5 locations;&#xD;
+&#xD;
+          9. History of alcohol or drug abuse/dependence;&#xD;
+&#xD;
+         10. Contraindications of MRI examination: such as heart pacemaker or nerve stimulator or&#xD;
+             metal foreign body, high fever, etc.;&#xD;
+&#xD;
+         11. Invasive surgery is planned within one week after administration of the study drug;&#xD;
+&#xD;
+         12. Allergy to the investigational drug or any of its components and/or a history of&#xD;
+             severe allergic reaction to the drug or allergens (such as allergic asthma);&#xD;
+&#xD;
+         13. Any major disease or unstable disease state (such as unstable angina pectoris,&#xD;
+             myocardial infarction or coronary revascularization, heart failure, acute and chronic&#xD;
+             renal failure, chronic liver disease, severe lung disease, blood disease, poor blood&#xD;
+             sugar control, chronic infection in the past 2 years, received surgical treatment 7&#xD;
+             days ago, advanced cardiac insufficiency (New York Heart Association (NYHA stage IV),&#xD;
+             etc.);&#xD;
+&#xD;
+         14. History of tumor within 5 years (except cervical carcinoma in situ, prostate carcinoma&#xD;
+             in situ or local skin cancer after surgery);&#xD;
+&#xD;
+         15. Human immunodeficiency virus (HIV), hepatitis C or Treponema pallidum antibody test&#xD;
+             positive, hepatitis B surface antigen positive (except hepatitis B carriers);&#xD;
+&#xD;
+         16. Received drug therapy or other treatments (such as chemotherapy) that cause large&#xD;
+             fluctuations in hematological or biochemical indicators or serious side effects within&#xD;
+             two weeks before the screening examination;&#xD;
+&#xD;
+         17. Receive any contrast agent or radiopharmaceutical within 48 hours before application&#xD;
+             of test drug, or will use contrast agent within 24 hours after administration of study&#xD;
+             drug;&#xD;
+&#xD;
+         18. Participated in clinical research of other drugs within 30 days before enrollment or&#xD;
+             within 5 half-lives of the study drug (whichever is longer), and/or used any&#xD;
+             radiopharmaceuticals before the administration of the study drug, and not more than 10&#xD;
+             radioactive half-lives apart;&#xD;
+&#xD;
+         19. History of epilepsy;&#xD;
+&#xD;
+         20. History of electroconvulsive therapy;&#xD;
+&#xD;
+         21. Received medications that may affect cognition, such as anxiolytics, within 2 weeks&#xD;
+             prior to the screening exam, and a history of receiving antidepressants and/or&#xD;
+             antipsychotics;&#xD;
+&#xD;
+         22. History of delirium (e.g. after surgery);&#xD;
+&#xD;
+         23. Other investigators deem it inappropriate to participate in the trial.&#xD;
+&#xD;
+        2. Exclusion criteria for subjects with mild to moderate AD:&#xD;
+&#xD;
+          1. History of various serious mental illnesses (such as severe depression, anxiety,&#xD;
+             affective disorders, schizophrenia or schizoaffective disorder) with PHQ-9 ≥ 10 points&#xD;
+             or GAD-7 ≥ 10 points;&#xD;
+&#xD;
+          2. Epilepsy episode occurred within the past 1 year;&#xD;
+&#xD;
+          3. Dementia caused by other reasons or cognitive dysfunction caused by other reasons:&#xD;
+             such as vascular dementia, Parkinson's disease dementia, Lewy body dementia, normal&#xD;
+             intracranial pressure hydrocephalus, intracranial mass, central nervous system&#xD;
+             infection (Such as HIV, syphilis, etc.), metabolic encephalopathy, etc.;&#xD;
+&#xD;
+          4. The results of cranial MRI also meet the following imaging findings: ①There are more&#xD;
+             than two infarcts outside the brain stem (diameter greater than 2 cm); ②Lacunar&#xD;
+             infarction in key parts such as the thalamus, hippocampus, entorhinal cortex and&#xD;
+             angular gyrus ③The Fazekas score of high white matter damage ≥ 3;&#xD;
+&#xD;
+          5. Brain MRI examination showed enlarged perivascular space with subcortical diameter&#xD;
+             &gt;3mm in short axis;&#xD;
+&#xD;
+          6. SWI prompt: cerebral microbleeds ≥5 locations;&#xD;
+&#xD;
+          7. History of alcohol or drug abuse/dependence;&#xD;
+&#xD;
+          8. Contraindications of MRI examination: such as heart pacemaker or nerve stimulator or&#xD;
+             metal foreign body, high fever, etc.;&#xD;
+&#xD;
+          9. Subjects who plan to undergo surgery and/or other invasive surgery within 24 hours&#xD;
+             after the application of the trial drug;&#xD;
+&#xD;
+         10. Allergy to the investigational drug or any of its components and/or history of severe&#xD;
+             allergic reaction to the drug or allergens (such as allergic asthma);&#xD;
+&#xD;
+         11. Any major disease or unstable disease state (such as unstable angina pectoris,&#xD;
+             myocardial infarction or coronary revascularization, heart failure, acute and chronic&#xD;
+             renal failure, chronic liver disease, severe lung disease, blood Diabetic patients&#xD;
+             with disease, poor blood sugar control, chronic infection in the past 2 years,&#xD;
+             received surgical treatment 7 days ago, advanced cardiac insufficiency (NYHA stage&#xD;
+             IV), major depressive episode, etc.);&#xD;
+&#xD;
+         12. History of tumor within 5 years (except cervical carcinoma in situ, prostate carcinoma&#xD;
+             in situ or local skin cancer after surgery);&#xD;
+&#xD;
+         13. HIV, hepatitis C or Treponema pallidum antibody test positive, hepatitis B surface&#xD;
+             antigen positive (except hepatitis B carriers);&#xD;
+&#xD;
+         14. History of physical examination or imaging examination of neurological diseases (such&#xD;
+             as severe cerebrovascular disease, inflammation, infectious diseases and degenerative&#xD;
+             diseases, etc.);&#xD;
+&#xD;
+         15. History of severe craniocerebral injury, craniocerebral surgery or intracranial&#xD;
+             hematoma with permanent brain injury;&#xD;
+&#xD;
+         16. Received drug therapy or other treatments (such as chemotherapy) that cause large&#xD;
+             fluctuations in hematological or biochemical indicators or serious side effects within&#xD;
+             two weeks before the screening examination;&#xD;
+&#xD;
+         17. Receive any contrast agent or radiopharmaceutical within 48 hours before application&#xD;
+             of test drug, or will use contrast agent within 24 hours after administration of test&#xD;
+             drug;&#xD;
+&#xD;
+         18. Participated in clinical research of other drugs within 30 days before enrollment or&#xD;
+             within 5 half-lives of the study drug (whichever is longer), and/or used any&#xD;
+             radiopharmaceuticals before the administration of the study drug, and not more than 10&#xD;
+             radioactive half-lives apart;&#xD;
+&#xD;
+         19. Other investigators deem it inappropriate to participate in the trial.&#xD;
+&#xD;
+        3. Exclusion criteria for healthy subjects:&#xD;
+&#xD;
+          1. Any previous brain disease, such as cerebrovascular disease, inflammatory or&#xD;
+             infectious disease, or any neurodegenerative disease, including Parkinson's disease&#xD;
+             history or physical or imaging manifestations; history of traumatic brain injury or&#xD;
+             brain surgery or cranial Internal hematoma with a history of permanent brain injury;&#xD;
+&#xD;
+          2. Any previous major disease or unstable condition (such as unstable angina pectoris,&#xD;
+             dilated or hypertrophic cardiomyopathy, valvular heart disease, congenital heart&#xD;
+             disease, myocardial infarction or coronary revascularization, heart failure, chronic&#xD;
+             renal failure, Chronic liver disease, severe lung disease, blood disease, diabetes,&#xD;
+             chronic infection, epilepsy, history of mental illness);&#xD;
+&#xD;
+          3. Have used drugs in the past week;&#xD;
+&#xD;
+          4. HIV, hepatitis C or Treponema pallidum antibody test positive, hepatitis B surface&#xD;
+             antigen positive;&#xD;
+&#xD;
+          5. History of coagulation or coagulation disorder;&#xD;
+&#xD;
+          6. History of liver or gastrointestinal diseases or other conditions that interfere with&#xD;
+             drug absorption, distribution, excretion or metabolism determined by the investigator;&#xD;
+&#xD;
+          7. Past tumor history;&#xD;
+&#xD;
+          8. High risk of drug allergy (such as allergic asthma patients) or history of severe&#xD;
+             allergic reactions to allergens;&#xD;
+&#xD;
+          9. History of alcohol or drug abuse/dependence;&#xD;
+&#xD;
+         10. Significant occupational exposure to ionizing radiation (e.g. more than 50 mSv/year)&#xD;
+             or exposure to radioactive substances or ionizing radiation for therapeutic or&#xD;
+             research purposes within the past 10 years;&#xD;
+&#xD;
+         11. Received any drugs and treatments that may interfere with the test data or may cause&#xD;
+             serious side effects and are not completely washed out before enrollment, as judged by&#xD;
+             the investigator;&#xD;
+&#xD;
+         12. Pregnant or lactating women;&#xD;
+&#xD;
+         13. Hospitalization due to illness during the screening period;&#xD;
+&#xD;
+         14. Other investigators deem it inappropriate to participate in the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Chinese PLA General Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100039</zip>
+        <country>China</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>August 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 1, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2022</study_first_posted>
+  <last_update_submitted>September 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Florbetaben</keyword>
+  <keyword>Amyloid beta-protein</keyword>
+  <keyword>Alzheimer disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Central Nervous System Diseases</mesh_term>
+    <mesh_term>Tauopathies</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

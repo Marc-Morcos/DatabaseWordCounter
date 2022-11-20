@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2033">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05544201</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RGC14111021</org_study_id>
+    <nct_id>NCT05544201</nct_id>
+  </id_info>
+  <brief_title>Transcranial Alternating Current Stimulation for Sleep Disturbances in Neurocognitive Disorders Due to Alzheimer's Disease</brief_title>
+  <official_title>Gamma-band High-definition Transcranial Alternating Current Stimulation (HD-tACS) for Sleep Disturbances in Mild Neurocognitive Disorders Due to Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: Sleep disturbances are highly prevalent in ageing population and patients with&#xD;
+      age-related neurodegenerative diseases, which severely affect cognition and even lead to&#xD;
+      accumulated amyloid-β (Aβ). At present, non-pharmacological interventions for sleep&#xD;
+      disturbances in dementia patients are accepted as first line of treatment, of which the&#xD;
+      evidence from clinical trials is very limited. Encouraging results from recent studies on&#xD;
+      transcranial direct current stimulation (tDCS) showed moderate positive effects on sleep&#xD;
+      quality in preclinical Alzheimer's disease (AD). Compared to tDCS, high-definition&#xD;
+      transcranial alternating current stimulation (HD-tACS) enables the entrainment of neuronal&#xD;
+      activities with optimized focality through injecting small electric current with a specific&#xD;
+      frequency and has significant enhancement effects on slow wave activities.&#xD;
+&#xD;
+      Objectives: The investigators aim to 1) investigate and compare the safety, efficacy and&#xD;
+      sustainability of 40 Hz HD-tACS and HD-tDCS over left dorsolateral prefrontal cortex (DLPFC)&#xD;
+      in mild neurocognitive disorder due to AD (NCD-AD) patients with sleep disturbances; 2)&#xD;
+      examine the relationship between the changes in sleep quality, cognitive function and saliva&#xD;
+      Aβ levels.&#xD;
+&#xD;
+      Methods: Chinese right-handed mild NCD-AD patients with sleep disturbances (aged from 60 to&#xD;
+      90 years) will be randomly assigned to a 4-week intervention of either HD-tACS, HD-tDCS, or&#xD;
+      sham HD-tCS, with 33 participants per arm. Before intervention, structural magnetic resonance&#xD;
+      imaging (MRI) data is used to construct individual realistic head model. Comprehensive&#xD;
+      assessments, including sleep quality, cognitive performance and saliva Aβ levels will be&#xD;
+      conducted at baseline, 4th week, 8th week, 12th week and 24th week. Program adherence and&#xD;
+      adverse effects will be monitored throughout intervention.&#xD;
+&#xD;
+      Data analysis: The primary outcomes will be the changes in sleep quality and memory&#xD;
+      performance with modality-driven paradigms (HD-tACS, HD-tDCS, sham HD-tCS), and comparisons&#xD;
+      of group differences across different time points. Secondary outcomes will be the changes&#xD;
+      objective sleep pattern, global cognition, saliva Aβ levels and quality of life.&#xD;
+      Intention-to-treat analysis will be carried out. Changes of efficacy indicators from baseline&#xD;
+      to each follow up point will be tested with mixed effect model.&#xD;
+&#xD;
+      Significance: This study aims to investigate the feasibility, safety and efficacy of HD-tACS&#xD;
+      and HD-tDCS over left DLPFC for sleep disturbances and cognitive dysfunction in mild NCD-AD&#xD;
+      patients. It wills also test the program adherence, tolerability and adverse effects of this&#xD;
+      innovative neurotechonology. Information will be helpful for in-depth understanding the&#xD;
+      relationship of &quot;sleep disturbances-amyloid deposition&quot; and guiding the further studies of&#xD;
+      sleep medicine and neurodegenerative diseases.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2022</start_date>
+  <completion_date type="Anticipated">March 31, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pittsburg Sleep Quality Index (PSQI)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>The PSQI is a 19-item questionnaire that includes seven areas of subjective sleep quality and patterns in adults over the last month including the following components: subjective sleep quality, sleep latency, sleep duration, habitual sleep efficiency, SDs, use of sleeping medications, and daytime dysfunction (Buysse et al., 1988). Each item in the scale is scored from 0 to 3 scale (0 = no difficulty; 3 = severe difficulty). The scores are added to yield a global score ranging from 0 to 21 (0 = no difficulty; 21 = severe difficulties in all areas). This scale has good reliability and validity psychometrics and is widely used in research: Cronbach's alpha (0.77 to 0.83), sensitivity (89.6%), specificity (86.5%)(Buysse et al., 1988). Greater score of PSQI indicates worse sleep quality.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Delayed recall of words</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Word-list learning test (WLLT), consisting of sixteen semantically non-associated words, is presented consecutively over three free trials of immediate recall, a 20-min delayed recall (to prevent recency effects) (Lu et al., 2018). The raw numbers of words recalled are used to assess the memory function.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy evaluated by attention function performance</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Attention network function measured by computerized attention network test (ANT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy evaluated by executive function performance</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Executive function is measured by category verbal fluency test (CVFT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy evaluated by saliva Aβ40 and Aβ42 levels</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>The levels of Aβ40 and Aβ42 in the saliva samples will be quantified by enzyme-linked immunosorbent assay (ELISA)-type assays (Aurin Biotech, Inc.).</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">99</enrollment>
+  <condition>Brain Stimulation</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>tACS</condition>
+  <condition>Sleep Disturbance</condition>
+  <condition>Aging</condition>
+  <condition>Cognitive Impairment, Mild</condition>
+  <arm_group>
+    <arm_group_label>40 Hz HD-tACS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The stimulation parameters of HD-tACS include: 20 minutes at 40 Hz, 2 milliamps.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HD-tDCS</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The stimulation parameters of HD-tDCS include: 20 minutes at 2 milliamps, 20 seconds fade-in and 20 seconds fade-out.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham HD-tCS</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>In sham condition, the stimulation only last for 30 seconds with the electrodes left in place for a further 20 minutes. This procedure mimics the transient skin sensation of tingling induced by active HD-tACS and HD-tDCS without producing any sustainable effects.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>High-definition transcranial current stimulation</intervention_name>
+    <description>High-definition transcranial current stimulation (HD-tCS) is delivered by a battery driven direct current stimulator (DC-Stimulator Plus, NeuroConn, Ilmenau, Germany) through a central anodal electrode surrounded by four return cathodal electrodes.</description>
+    <arm_group_label>40 Hz HD-tACS</arm_group_label>
+    <arm_group_label>HD-tDCS</arm_group_label>
+    <arm_group_label>Sham HD-tCS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Chinese, aged from 60 to 90 years.&#xD;
+&#xD;
+          -  Mild neurocognitive disorder due to Alzheimer's disease (NCD-AD) is diagnosed&#xD;
+             according to the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition&#xD;
+             (DSM-5). NCD-AD patients are deﬁned by the following criteria: (1) evidence of modest&#xD;
+             cognitive decline in at least one of six domains of cognition (memory, perceptual-&#xD;
+             motor, complex attention, language, executive function and social cognition), and with&#xD;
+             clinical features indicative of AD, identiﬁed with the Montreal Cognitive Assessment&#xD;
+             (MoCA) score range from 22 to 26; (2) no interference with independence in everyday&#xD;
+             activities; (3) and no better explanation by other psychiatric disorders. NCD-AD&#xD;
+             patients fulﬁll the criteria of NCD and have impaired episodic memory assessed by&#xD;
+             delayed recall.&#xD;
+&#xD;
+          -  Sleep disturbances are defined as a Pittsburgh Sleep Quality Index (PSQI) total score&#xD;
+             above 5.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous diagnosis of other major neurocognitive disorders;&#xD;
+&#xD;
+          -  Past history of bipolar disorders or psychosis;&#xD;
+&#xD;
+          -  Physically frail affecting attendance to training sessions;&#xD;
+&#xD;
+          -  Already attending regular training, such as cognitive behavioral therapy;&#xD;
+&#xD;
+          -  Taking a psychotropic or other medication known to affect cognition (e.g.&#xD;
+             anti-dementia medication);&#xD;
+&#xD;
+          -  Significant communicative impairments.&#xD;
+&#xD;
+          -  History of major neurological deficit including stroke, transient ischemic attack or&#xD;
+             brain tumor.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hanna LU, PhD</last_name>
+    <phone>85228314305</phone>
+    <email>hannalu@cuhk.edu.hk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Chinese University of Hong Kong</name>
+      <address>
+        <city>Hong Kong</city>
+        <zip>100000</zip>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hanna LU, PhD</last_name>
+      <phone>28314305</phone>
+      <email>hannalu@cuhk.edu.hk</email>
+    </contact>
+    <contact_backup>
+      <phone_ext>LU</phone_ext>
+      <email>hannalu@cuhk.edu.hk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hanna LU, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>September 14, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 14, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2022</study_first_posted>
+  <last_update_submitted>October 18, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 18, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>LU Hanna</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dyssomnias</mesh_term>
+    <mesh_term>Parasomnias</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

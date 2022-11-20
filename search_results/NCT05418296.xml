@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2359">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05418296</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R43AG071102</org_study_id>
+    <secondary_id>1R43AG071102-01A1</secondary_id>
+    <nct_id>NCT05418296</nct_id>
+  </id_info>
+  <brief_title>Assessing a Novel Virtual Environment That Assists With Activities of Daily Living</brief_title>
+  <official_title>Assessing a Novel Virtual Environment That Primes Individuals Living With AD/ADRD to Accomplish Activities of Daily Living</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mentia DTx</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mentia DTx</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 1 study looks at how a new videogame-based program can help residents and care&#xD;
+      partners prepare for ADLs in a fun way with minimal risk, potentially reducing escalating&#xD;
+      problems associated with ADL completions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Central themes in person-centered care are dignity/respect/choice for the care recipient.&#xD;
+&#xD;
+      This Phase l clinical study is a minimal risk study that focuses on how the new technology&#xD;
+      can support and amplify these principles, while assisting care staff.&#xD;
+&#xD;
+      The investigators will use a novel digital health device developed with user-centered design&#xD;
+      principles, mirroring a range of evidence-based non-pharmacological interventions for people&#xD;
+      living with Alzheimer's disease and its related dementias (AD/ADRD). This is a purpose-built&#xD;
+      virtual world depicting activities of daily living (ADLs). It contains interactive engagement&#xD;
+      stimuli, including customized digital artifacts that hold meaning to the person.&#xD;
+&#xD;
+      The investigators hypothesize that undertaking ADL-related virtual activities will support&#xD;
+      completions of actual ADLs, thereby increasing effectiveness and improving care outcomes.&#xD;
+&#xD;
+      Aim 1: Feasibility Successful outcomes are &gt;55% participation rate and a statistically&#xD;
+      significant difference between assessments of participation and non-participation, indicating&#xD;
+      tolerability and acceptability of routine interventions.&#xD;
+&#xD;
+      Aim 2: Effectiveness&#xD;
+&#xD;
+      Successful outcomes are:&#xD;
+&#xD;
+        -  a reduction in ADL-related care challenges compared to baseline&#xD;
+&#xD;
+        -  reduced time spent on the evening ADLs compared to baseline&#xD;
+&#xD;
+        -  a reduction in negative response behaviors associated with the ADL&#xD;
+&#xD;
+        -  greater interest in the ADL&#xD;
+&#xD;
+        -  a positive shift in care staff attitudes&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">June 9, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study Activities of Daily Living (ADCS-ADL- severe)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The ADCS-ADL assesses the competence of patients with Alzheimer's Disease (AD) in basic and instrumental activities of daily living (ADLs). It can be completed by a caregiver in questionnaire format, or administered by a clinician/researcher as a structured interview with a caregiver.&#xD;
+There are 19 questions. The minimum and maximum values are 0 - 54. A higher score means a better outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dementia Quality of Life - Care Home (DemQol-CH)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>A two-factor structure of 'functioning' and 'emotion' organized over three sections that ask about Subjects' feelings, memory and everyday life.&#xD;
+There are 31 questions. The minimum and maximum values are 1-4 A higher score means a better health-related-quality-of-life (HRQL) outcome.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The Neuropsychiatric Inventory - Nursing Home Version (NPI-NH) The minimum and maximum values are A higher score means a better or worse outcome.</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The NPI-NH The NPI-NH has been used to characterize the psychopathology of patients in nursing homes as well as to measure the impact of anti dementia and psychotropic drugs and behavioral changes in dementia patients dwelling in nursing homes.&#xD;
+There are questions. The minimum and maximum values are 12 - 120 A lower score means a better outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Approaches to Dementia Questionnaire (ADQ)</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The ADQ is a validated questionnaire that aims to assess participants' attitudes towards dementia, and has been shown to be reliable, easy to administer and to score. The ADQ is a 19-item survey that assesses attitudes towards people living with dementia using a five-point Likert scale ranging from 'strongly agree' to 'strongly disagree'.&#xD;
+The total ADQ score ranges from 19 to 95, with higher scores reflecting more positive attitudes towards people living with dementia.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sense of Competence in Dementia Care Staff (SCIDS) scale</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>The SCIDS scale provides a useful and user-friendly means of measuring sense of competence in care staff.&#xD;
+There are questions. The minimum and maximum values are 17 - 68 A higher score means a better outcome.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Dementia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Neurodegenerative Diseases</condition>
+  <arm_group>
+    <arm_group_label>Persons residing in long-term care homes</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects' ADLs are studied with intervention compared to baseline (without intervention).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>A novel digital health device</intervention_name>
+    <description>A videogame-generated virtual world designed for the AD/ADRD care dyad.</description>
+    <arm_group_label>Persons residing in long-term care homes</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        The subject will have a diagnosis of AD/ADRD, or symptoms of an undiagnosed AD/ADRD as&#xD;
+        observed by professional care staff and confirmed by the head of clinical care. The&#xD;
+        investigators will neither include nor exclude participation based on cognitive test&#xD;
+        scores. The subject will have had challenge(s) completing one or more ADLs in the previous&#xD;
+        month, as discussed at staff meetings, referenced in care plans, or observed/experienced by&#xD;
+        direct care staff.&#xD;
+&#xD;
+        Other specifications:&#xD;
+&#xD;
+          -  Understand English or Russian.&#xD;
+&#xD;
+          -  Can sit comfortably for at least 15 minutes in a chair/wheelchair at a table or&#xD;
+             propped up in bed or princess chair with a tray table&#xD;
+&#xD;
+          -  Are not known to be in pain&#xD;
+&#xD;
+          -  Have good vision, or good corrected vision (i.e., glasses)&#xD;
+&#xD;
+          -  Have good hearing, or good corrected hearing (i.e., aids)&#xD;
+&#xD;
+          -  May sometimes have anxiety or agitation when undertaking ADLs.&#xD;
+&#xD;
+        Exclusion:&#xD;
+&#xD;
+        Ineligible subjects are those with significant non-AD/ADRD neurological, psychiatric, or&#xD;
+        physical impairment or those who are totally dependent upon others for ADLs.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>110 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mandy Salomon, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mentia DTx</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Elder Ashram</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northbrook Inn</name>
+      <address>
+        <city>Northbrook</city>
+        <state>Illinois</state>
+        <zip>60062</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://bpc.caregiver.org/</url>
+    <description>Database of best dementia care resources</description>
+  </link>
+  <reference>
+    <citation>Quail Z, Bolton L, Massey K. Digital delivery of non-pharmacological intervention programmes for people living with dementia during the COVID-19 pandemic. BMJ Case Rep. 2021 Jun 17;14(6). pii: e242550. doi: 10.1136/bcr-2021-242550.</citation>
+    <PMID>34140328</PMID>
+  </reference>
+  <reference>
+    <citation>Kahle-Wrobleski K, Coley N, Lepage B, Cantet C, Vellas B, Andrieu S; Plasa DSA Group. Understanding the complexities of functional ability in Alzheimer's disease: more than just basic and instrumental factors. Curr Alzheimer Res. 2014 May;11(4):357-66.</citation>
+    <PMID>24635843</PMID>
+  </reference>
+  <reference>
+    <citation>Bourgeois J, Laye M, Lemaire J, Leone E, Deudon A, Darmon N, Giaume C, Lafont V, Brinck-Jensen S, Dechamps A, König A, Robert P. Relearning of Activities of Daily Living: A Comparison of the Effectiveness of Three Learning Methods in Patients with Dementia of the Alzheimer Type. J Nutr Health Aging. 2016 Jan;20(1):48-55. doi: 10.1007/s12603-015-0597-6.</citation>
+    <PMID>26728933</PMID>
+  </reference>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>May 31, 2022</study_first_submitted>
+  <study_first_submitted_qc>June 10, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 14, 2022</study_first_posted>
+  <last_update_submitted>September 10, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mentia DTx</investigator_affiliation>
+    <investigator_full_name>mandy</investigator_full_name>
+    <investigator_title>CEO</investigator_title>
+  </responsible_party>
+  <keyword>technology</keyword>
+  <keyword>dementia</keyword>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>virtual</keyword>
+  <keyword>behavioral</keyword>
+  <keyword>cognitive</keyword>
+  <keyword>immersive</keyword>
+  <keyword>caregiver</keyword>
+  <keyword>digital health</keyword>
+  <keyword>videogame</keyword>
+  <keyword>memory</keyword>
+  <keyword>non-pharmacological</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

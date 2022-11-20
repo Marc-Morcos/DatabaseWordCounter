@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="142">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05326009</url>
+  </required_header>
+  <id_info>
+    <org_study_id>104</org_study_id>
+    <nct_id>NCT05326009</nct_id>
+  </id_info>
+  <brief_title>A Direct Comparative Study of Tau Tracer in Patients With Alzheimer's Disease</brief_title>
+  <acronym>HTH</acronym>
+  <official_title>A Direct Comparative Study of Tau Tracer in Patients With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Xuanwu Hospital, Beijing</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>H. Lundbeck A/S</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Life Molecular Imaging SA</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>APRINOIA Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>XINGIMAGING LLC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hangzhou G-Bio Biotechnology Co., Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Xuanwu Hospital, Beijing</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, a total of 60 AD patients with Aβ deposition will beenrolled.Qualified&#xD;
+      subjects will complete PET imaging scan of Tau imaging agent inXuanwuHospital, and each&#xD;
+      subject will receive three of the following five imaging agents: PI-2620, APN1607, AV1451,&#xD;
+      RO948 or GTP1.The imaging time interval between the two tracers should be at least 4 days but&#xD;
+      less than 4 weeks. All PET scans of each subject were completed within 3 months.To compare&#xD;
+      the different Tau tracers' binding ability (SUVR or Tau distribution change) of the same&#xD;
+      subject in AD population. Obtain the safety data of each tracer after injection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with AD in prodromal stage, mild or moderate degree, who have stable medical&#xD;
+      condition and meet the inclusion criteria, do not meet any exclusion criteria, will be&#xD;
+      eligible for inclusion in this study.&#xD;
+&#xD;
+      [18F] florbetapir PET imaging will be used to evaluate amyloid deposition during the&#xD;
+      screening period. If [18F] florbetapir imaging confirmed amyloid deposition based on positive&#xD;
+      visual reading and SUVR &gt; 1.1, the patient was considered to be amyloid deposition&#xD;
+      positive.After the subjects enter the group, the comprehensive collection of clinical&#xD;
+      information, the assessment of cognitive related scale and the collection and detection of&#xD;
+      biological samples are carried out. Qualified subjects will complete PET imaging scan of Tau&#xD;
+      imaging agent in Xuanwu Hospital, and each subject will receive three of the following five&#xD;
+      imaging agents: PI-2620, APN1607, AV1451, RO948 or GTP1. All subjects will sign the tracer&#xD;
+      related informed consent before PET tracer injection. Imaging will be carried out as detailed&#xD;
+      in the technical operation manual. PET center staff will closely observe and evaluate adverse&#xD;
+      events of subjects throughout the process, and allow them to leave the hospital after&#xD;
+      confirming medical stability. After 48 hours of scanning, the staff will follow up the&#xD;
+      subjects by telephone to confirm the health status of the subjects and record the information&#xD;
+      related to adverse events. The imaging time interval between the two tracers should be at&#xD;
+      least 4 days but less than 4 weeks. All PET scans of each subject were completed within 3&#xD;
+      months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 20, 2021</start_date>
+  <completion_date type="Anticipated">May 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To compare the different Tau tracers' binding ability of the same subject in AD population.</measure>
+    <time_frame>August 2021 to May 2023</time_frame>
+    <description>SUVR value was used to compare AD population different Tau targeting tracers, evaluate the tau binding capacity of different Tau tracers in AD population,</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Assessing the potential value of tracers in AD diagnosis</measure>
+    <time_frame>August 2021 to May 2023</time_frame>
+    <description>Comparison of specific regions bound to specific tau tracers in the same subject AD population at each visit</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To compare the different Tau tracers' binding ability of the same subject in AD</measure>
+    <time_frame>August 2021 to May 2023</time_frame>
+    <description>Tau distribution changewas used to compare AD population different Tau targeting tracers, evaluate the tau binding capacity of different Tau tracers in AD population</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Obtain the safety data of each tracer after injection.</measure>
+    <time_frame>August 2021 to May 2023</time_frame>
+    <description>Number of adverse events recorded from baseline to follow-up by CTCAE v4.0</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      venous blood collected with EDTA anticoagulant CSF&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        In this study, a total of 60 AD patients with Aβ deposition will be enrolled.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 55-80, male or female.&#xD;
+&#xD;
+          -  The legal authorizer or caregiver of the subject (if applicable) needs to sign the&#xD;
+             informed consent before any assessment.&#xD;
+&#xD;
+          -  Based on the NINCDS / ADRDA and DSM-IV standards, it is likely to have AD dementia,&#xD;
+             with mild severe amnesia.&#xD;
+&#xD;
+          -  Screening CDR score = 0.5, and MMSE score is between 24-26 (AD patients in prodromal&#xD;
+             stage).&#xD;
+&#xD;
+          -  Or,&#xD;
+&#xD;
+          -  CDR score = 0.5 or 1, and MMSE score is between 20-23 (mild AD patients) -Or,&#xD;
+&#xD;
+          -  CDR score = 2, and MMSE score is between 15-21 (for moderate AD patients).&#xD;
+&#xD;
+          -  It has received PET imaging examination of amyloid protein or [18F] florbetapir&#xD;
+             imaging examination within 12 months before screening, and it is confirmed that there&#xD;
+             is amyloid binding based on qualitative analysis (visual read) and quantitative&#xD;
+             analysis. The results of amyloid PET imaging will be shared with participants, and the&#xD;
+             scanning results may be used by participants for future research.&#xD;
+&#xD;
+          -  There is no obvious evidence of other neuropathology in brain MRI supporting AD&#xD;
+             diagnosis.&#xD;
+&#xD;
+          -  Before the screening visit date, patients taking symptomatic treatment drugs must&#xD;
+             maintain a stable maintenance dose for at least 30 days.&#xD;
+&#xD;
+          -  Female subjects must have medical records or doctor's records for surgical infertility&#xD;
+             (through hysterectomy, bilateral ovariectomy or tubal ligation) or at least 1 year&#xD;
+             after menopause, otherwise, pregnancy test is required in screening period and every&#xD;
+             scanning visit and should be negative. Male subjects and their fertile partners must&#xD;
+             promise to use two methods of contraception during the study period, and one of them&#xD;
+             is barrier contraception for male subjects.&#xD;
+&#xD;
+          -  Male subjects are not allowed to donate sperm during the study and within 90 days&#xD;
+             after the completion of the study.&#xD;
+&#xD;
+          -  Willing and able to cooperate with the research process.&#xD;
+&#xD;
+          -  A qualified subject's Research Companion needs regular and sufficient contact between&#xD;
+             the research companion and the subject (weekly time ≥ 10 hours), can provide accurate&#xD;
+             information about the subject's cognition and function, and agrees to accompany the&#xD;
+             subject and provide relevant information during the visit. The study companion must&#xD;
+             have sufficient cognitive ability to accurately report the behavior, cognition and&#xD;
+             function of the subjects. The same study companion should be able to accompany the&#xD;
+             subjects to participate in the whole study process.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any existing or 3-year history of alcohol or drug abuse (self statement)&#xD;
+&#xD;
+          -  Laboratory examination or ECG indicates significant clinical abnormalities and / or&#xD;
+             important unstable clinical diseases.&#xD;
+&#xD;
+          -  In the past year, the amount of radiation received by participating or clinical&#xD;
+             clinics in combination with this research institute has exceeded 50mSV (the annual&#xD;
+             limit allowed by FDA for research volunteers).&#xD;
+&#xD;
+          -  Serious gastrointestinal, cardiovascular, liver and kidney, blood, tumor, endocrine,&#xD;
+             potential nervous system, immune deficiency (including HIV positive), pneumonia and&#xD;
+             other diseases. Stable, treated chronic disease conditions such as high blood&#xD;
+             pressure, hyperlipidemia, diabetes, non metastatic skin cancer or prostate cancer,&#xD;
+             which researchers believe will not cause cognitive impairment or restrict&#xD;
+             participation in the study, are acceptable.&#xD;
+&#xD;
+          -  In addition to AD, the history or current status of neurological diseases that may&#xD;
+             affect cognition, including but not limited to Parkinson's disease, cortical basal&#xD;
+             ganglia degeneration, dementia of Lewy body, CJD, Huntington's disease, normal&#xD;
+             intracranial pressure hydrocephalus, tic disease, hypoxia, or other serious CNS trauma&#xD;
+             with significant clinical significance.&#xD;
+&#xD;
+          -  Other diseases or causes may cause the subjects to fail to complete the whole study.&#xD;
+&#xD;
+          -  MRI exclusion criteria include: evidence that may affect cognition, such as&#xD;
+             significant evidence of cerebrovascular disease (more than two lacunar infarcts, any&#xD;
+             infarct larger than 1cm3, or deep white matter abnormality, equivalent to Fazekas&#xD;
+             score level 3, at least one fusion high signal lesion on FLAIR sequence, i.e. ≥20mm in&#xD;
+             any dimension), infectious diseases, space occupying lesions, normal pressure&#xD;
+             hydrocephalus, central nervous system injury or any other structural abnormality that&#xD;
+             may affect cognition.&#xD;
+&#xD;
+          -  Internal implants such as cardiac pacemaker or defibrillator, insulin pump, cochlear&#xD;
+             implant, metal eye foreign body, implanted nerve stimulator, central nervous system&#xD;
+             aneurysm clip and other medical implants that can not receive MRI, or MRI examination&#xD;
+             has a history of claustrophobia.&#xD;
+&#xD;
+          -  Daily use of anticholinergic antidepressants, typical antipsychotics or barbiturates.&#xD;
+             Infrequent use of typical antipsychotics for vomiting or barbiturates for migraine&#xD;
+             treatment is permitted, provided that no dose is taken during the 5 half lives prior&#xD;
+             to screening or any neurocognitive assessment.&#xD;
+&#xD;
+          -  Daily use of benzodiazepines, opioids or opioids. However, intermittent short-term&#xD;
+             treatment is permitted, except for use in the 5 half-lives prior to screening or any&#xD;
+             neurocognitive assessment.&#xD;
+&#xD;
+          -  Use hypnotics, stimulants, atypical antipsychotics, central anticholinergic&#xD;
+             antihistamines, or anticholinergic antispasmodics with central effect, unless (a) they&#xD;
+             are administered daily, so that they will not start or stop treatment or dose change&#xD;
+             within the first five half lives of screening or at any time during the study period,&#xD;
+             or (b) they are administered intermittently and in a short period, while in screening&#xD;
+             or neurocognition Not used in the first 5 half lives of the assessment.&#xD;
+&#xD;
+          -  In the 12 months before screening, use any therapeutic molecule or treatment method&#xD;
+             targeting Aβ, or use the treatment targeting tau in the 24 months before screening&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Biao Chen, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Xuanwu Hospital, Beijing</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Xiaohui Sun, Nurse</last_name>
+    <phone>13466660933</phone>
+    <email>xsun@xingimaging.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Xuanwu Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100053</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Biao Chen, MD</last_name>
+      <phone>13501086287</phone>
+      <email>pbchan@hotmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>February 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2022</study_first_posted>
+  <last_update_submitted>April 6, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 6, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 13, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Xuanwu Hospital, Beijing</investigator_affiliation>
+    <investigator_full_name>Piu Chan</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Alzheier Disease</keyword>
+  <keyword>PET imaging</keyword>
+  <keyword>AV45</keyword>
+  <keyword>AV1451</keyword>
+  <keyword>Tau</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

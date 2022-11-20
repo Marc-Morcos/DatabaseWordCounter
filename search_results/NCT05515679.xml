@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2496">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05515679</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1R43AG071105-01A1</org_study_id>
+    <nct_id>NCT05515679</nct_id>
+  </id_info>
+  <brief_title>The BRAIN App: Building Relationships Using Artificial Intelligence and Nostalgia</brief_title>
+  <acronym>BRAIN</acronym>
+  <official_title>The BRAIN App: Building Relationships Using Artificial Intelligence and Nostalgia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Hearthstone Institute, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>The Hearthstone Institute, LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will involve testing of an Alpha version of an app called &quot;Building Relationships&#xD;
+      using Artificial Intelligence and Nostalgia&quot; or BRAIN. The BRAIN App will be the first -ever&#xD;
+      artificial intelligence infused CST app for PWD. The app has two main goals: (1) to foster&#xD;
+      positive relationships between the care triad, and (2) to promote QoL while reducing&#xD;
+      responsive behaviors in PWD. Testing will examine the app's impact on engagement/affect for&#xD;
+      both PWD and professional Care Partners.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A quasi-experimental pretest / posttest design will be used. During a four-week baseline&#xD;
+      period, researchers will collect data on engagement, quality of life, neuropsychiatric&#xD;
+      symptoms, and quality of the care-patient relationship. Participants will then use the BRAIN&#xD;
+      app for four weeks, during which engagement data will be collect. After the intervention&#xD;
+      period, researchers will collect data again on quality of life, neuropsychiatric symptoms,&#xD;
+      and quality of the carer-patient relationship.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">July 13, 2022</start_date>
+  <completion_date type="Anticipated">January 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>All participants will receive the intervention</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Menorah Park Engagement Scale (MPES)</measure>
+    <time_frame>Baseline--that is, week 1 thru week 4</time_frame>
+    <description>The MPES is an observational scale that measures four types of engagement: Constructive Engagement, Passive Engagement, Distracted Engagement, and Non-Engagement / Apathy The MPES also measures Pleasure, defined as clearly observable smiling or laughing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Menorah Park Engagement Scale (MPES)</measure>
+    <time_frame>Treatment--that is, week 5 thru week 8</time_frame>
+    <description>The MPES is an observational scale that measures four types of engagement: Constructive Engagement, Passive Engagement, Distracted Engagement, and Non-Engagement / Apathy The MPES also measures Pleasure, defined as clearly observable smiling or laughing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Engagement for Persons with Dementia Scale (EPWDS)</measure>
+    <time_frame>Baseline--that is, week 1 thru week 4</time_frame>
+    <description>This scale measures the engagement in 5 domains: affective, visual, verbal, behavioral and social.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Engagement for Persons with Dementia Scale (EPWDS)</measure>
+    <time_frame>Treatment--that is, week 5 thru week 8</time_frame>
+    <description>This scale measures the engagement in 5 domains: affective, visual, verbal, behavioral and social.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Dementia Related Quality of Life (DEMQOL)</measure>
+    <time_frame>Baseline--that is, week 1 thru week 4</time_frame>
+    <description>The DEMQOL measures quality of life, composed of 28 items. It also has a proxy version</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dementia Related Quality of Life (DEMQOL)</measure>
+    <time_frame>Post-Treatment--that is week 5 thru 6</time_frame>
+    <description>The DEMQOL measures quality of life, composed of 28 items. It also has a proxy version</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Inventory--Nursing Home (NPI-NH)</measure>
+    <time_frame>Baseline--that is, week 1 thru week 4</time_frame>
+    <description>The NPI-NH measures 12 types of neuropsychiatric symptoms, including their severity and frequency.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Inventory--Nursing Home (NPI-NH)</measure>
+    <time_frame>Post-Treatment--that is week 5 thru 6</time_frame>
+    <description>The NPI-NH measures 12 types of neuropsychiatric symptoms, including their severity and frequency.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Carer-Patient Relationship (QCPR)</measure>
+    <time_frame>Baseline--that is, week 1 thru week 4</time_frame>
+    <description>This 14-item scale measures warmth and/or absence of conflict or critique on a 5-point scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Carer-Patient Relationship (QCPR)</measure>
+    <time_frame>Post-Treatment--that is week 5 thru 6</time_frame>
+    <description>This 14-item scale measures warmth and/or absence of conflict or critique on a 5-point scale</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">68</enrollment>
+  <condition>Dementia</condition>
+  <condition>Dementia, Vascular</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia, Mixed</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BRAIN Intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>The BRAIN App</intervention_name>
+    <description>The BRAIN App will be the first-ever artificial intelligence enabled cognitive stimulation therapy app, specifically designed for PWD. The goal of the app is to foster positive relationships between the care triad.</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        PWD Inclusion Criteria:&#xD;
+&#xD;
+          -  diagnosed with dementia (any type)&#xD;
+&#xD;
+          -  resident in ALF or NH&#xD;
+&#xD;
+          -  65+ years old&#xD;
+&#xD;
+          -  read and speak English&#xD;
+&#xD;
+          -  exhibit at least one responsive behavior on the NPI-NH or score below maximum score on&#xD;
+             the DEMQOL&#xD;
+&#xD;
+        PWD Exclusion Criteria:&#xD;
+&#xD;
+          -  bed-confined&#xD;
+&#xD;
+          -  completely unable to communicate verbally&#xD;
+&#xD;
+          -  have serious visual or hearing impairments&#xD;
+&#xD;
+          -  show signs of rapid decline or over the last six months&#xD;
+&#xD;
+        Staff and Family Member Inclusion Criteria&#xD;
+&#xD;
+          -  18+ years old&#xD;
+&#xD;
+          -  speak and read English&#xD;
+&#xD;
+        Staff and Family Member Exclusion Criteria&#xD;
+&#xD;
+        -n/a&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael Skrajner, MA</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Hearthstone Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>The Hearthstone Institute</name>
+      <address>
+        <city>Winchester</city>
+        <state>Massachusetts</state>
+        <zip>01890</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2022</verification_date>
+  <study_first_submitted>August 10, 2022</study_first_submitted>
+  <study_first_submitted_qc>August 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 25, 2022</study_first_posted>
+  <last_update_submitted>August 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>August 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>psychosocial</keyword>
+  <keyword>non-pharmacological</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Dementia, Vascular</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1579">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04805983</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2000028864</org_study_id>
+    <secondary_id>1U01AG058608-01A1</secondary_id>
+    <nct_id>NCT04805983</nct_id>
+  </id_info>
+  <brief_title>Evaluating the Safety, Tolerability, Pharmacokinetics and Receptor Occupancy of BMS-984923</brief_title>
+  <official_title>An Open-Label, Single-Ascending Dose Study to Evaluate the Safety, Tolerability, Pharmacokinetics and Receptor Occupancy of BMS-984923</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project seeks to develop a novel disease-modifying compound for Alzheimer's disease&#xD;
+      (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objective of this study is to evaluate the safety, tolerability, and&#xD;
+      pharmacokinetics of BMS-984923 in healthy participants. A secondary objective of this study&#xD;
+      is to conduct a receptor occupancy sub-study aimed at determining drug receptor occupancy at&#xD;
+      each dose using [18F]FPEB Positron Emission Tomography.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 25, 2021</start_date>
+  <completion_date type="Actual">April 24, 2022</completion_date>
+  <primary_completion_date type="Actual">April 24, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study will enroll four cohorts of 6 participants each. Study drug will be administered in sequentially increasing dose groups. For all 6 participants at a dose cohort, a safety assessment review will be completed prior to advancing the next higher dose level.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Treatment Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Up to 7 days after last dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of lab abnormalities</measure>
+    <time_frame>Up to 7 days after last dose</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of clinically significant changes in safety assessments</measure>
+    <time_frame>Up to 7 days after last dose</time_frame>
+    <description>Vital Signs, Physical Exam, Electrocardiogram, Neuropsychiatric Inventory - Q, Geriatric Depression Scale, Glasgow Coma Scale, Montreal Cognitive Assessment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Plasma Concentration (Cmax)</measure>
+    <time_frame>Up to 7 days after last dose</time_frame>
+    <description>Maximum plasma concentration as determined by pharmacokinetic modeling</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time of Cmax (Tmax)</measure>
+    <time_frame>Up to 7 days after last dose</time_frame>
+    <description>Time of Cmax as determined by pharmacokinetic modeling</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area Under the Curve from 0 to 24h (AUC 24h)</measure>
+    <time_frame>Up to 7 days after last dose</time_frame>
+    <description>Plasma drug exposure as determined by pharmacokinetic modeling</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Receptor Occupancy</measure>
+    <time_frame>Up to 24 hours after last dose</time_frame>
+    <description>1. Metabotropic glutamate receptor subtype 5 (mGluR5) occupancy using [18F]FPEB Positron Emission Tomography</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">36</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>10 mg BMS-984923</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>40 mg BMS-984923</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>70 mg BMS-984923</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>100 mg BMS-984923</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BMS-984923</intervention_name>
+    <description>Day 1: Admission, administration of study drug, and 2 night in-patient stay; Day 3: Discharge following the completion of all scheduled procedures.</description>
+    <arm_group_label>10 mg BMS-984923</arm_group_label>
+    <arm_group_label>100 mg BMS-984923</arm_group_label>
+    <arm_group_label>40 mg BMS-984923</arm_group_label>
+    <arm_group_label>70 mg BMS-984923</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  No history of cognitive impairment&#xD;
+&#xD;
+          -  Capable of providing written informed consent and willing to comply with all study&#xD;
+             requirements and procedures&#xD;
+&#xD;
+          -  Participant is not pregnant, lactating, or of childbearing potential&#xD;
+&#xD;
+               1. Non-childbearing potential for women is defined as postmenopausal (last natural&#xD;
+                  menses greater than 24 months; menopausal status will be documented with serum&#xD;
+                  follicle stimulating hormone (FSH) or documentation of bilateral tubal ligation&#xD;
+                  or hysterectomy&#xD;
+&#xD;
+               2. Male participants who are sexually active with a woman of child-bearing potential&#xD;
+                  must agree to use condoms during the trial and for 3 months after the last dose&#xD;
+                  unless the woman is using an acceptable means of birth control. Acceptable forms&#xD;
+                  of birth control include abstinence, birth control pills, or any double&#xD;
+                  combination of: intrauterine device (IUD), male or female condom, diaphragm,&#xD;
+                  sponge, and cervical cap.&#xD;
+&#xD;
+               3. Male participants must also agree not to donate sperm for 90 days after the last&#xD;
+                  dose. -&#xD;
+&#xD;
+          -  Glasgow Coma Scale Score of 15 (97)&#xD;
+&#xD;
+          -  Clinical Dementia Rating Score of 0 (93)&#xD;
+&#xD;
+          -  Has a reliable study partner who has frequent contact with the participant (e.g.,&#xD;
+             average of 10 hours per week or more), who can be available for study partner&#xD;
+             assessments, who can accompany the participant for 48 hours, without absence, after&#xD;
+             discharge from Visit 2.&#xD;
+&#xD;
+        Score on the Mini Mental Status Exam &gt; 26 (95)&#xD;
+&#xD;
+          -  Objective memory scores within normal range for age evidenced by a score no more than&#xD;
+             1.5 standard deviations below the education adjusted cutoff on the Logical Memory II&#xD;
+             subscale (Delayed Paragraph Recall) from the Wechsler Memory Scale - Revised (the&#xD;
+             maximum score is 25).&#xD;
+&#xD;
+               1. &gt;8 for 16 or more years of education&#xD;
+&#xD;
+               2. &gt;4 for 8-15 years of education&#xD;
+&#xD;
+               3. &gt;2 for 0-7 years of education&#xD;
+&#xD;
+        Receptor Occupancy Substudy Eligibility Criteria&#xD;
+&#xD;
+          -  Eligibility for and enrollment in Main Study&#xD;
+&#xD;
+          -  Participant consent to the optional substudy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Body mass index (BMI) ≥ 35 kg/m2 or body weight &lt; 50 kg.&#xD;
+&#xD;
+          -  Significant cerebrovascular disease: Modified Hachinski score &gt; 4.&#xD;
+&#xD;
+          -  Any significant neurologic disease, such as AD, Parkinson's disease, multi-infarct&#xD;
+             dementia, Huntington's disease, normal pressure hydrocephalus, brain tumor,&#xD;
+             progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple&#xD;
+             sclerosis, or history of significant head trauma followed by persistent neurologic&#xD;
+             defaults or known structural brain abnormalities.&#xD;
+&#xD;
+          -  Major depression, bipolar disorder as described in DSM-IV within the past 1 year.&#xD;
+&#xD;
+          -  Psychotic features, agitation or behavioral problems within 3 months, which could lead&#xD;
+             to difficulty complying with the protocol.&#xD;
+&#xD;
+          -  History of schizophrenia (DSM IV criteria).&#xD;
+&#xD;
+          -  History of alcohol or substance abuse or dependence within the past 2 years (DSM IV&#xD;
+             criteria).&#xD;
+&#xD;
+          -  Clinically significant or unstable medical condition, including uncontrolled&#xD;
+             hypertension, uncontrolled diabetes, or significant cardiac, pulmonary, renal,&#xD;
+             hepatic, endocrine, or other systemic disease in the opinion of the PI, may either put&#xD;
+             the patient at risk because of participation in the study, or influence the results,&#xD;
+             or the patient's ability to participate in the study.&#xD;
+&#xD;
+          -  Clinically significant abnormalities in B12 or Thyroid Function Tests that might&#xD;
+             interfere with the study.&#xD;
+&#xD;
+        Use of psychoactive medications (typical neuroleptics, narcotic analgesics,&#xD;
+        antiparkinsonian medications, systemic corticosteroids, or medications with significant&#xD;
+        central anticholinergic activity) within 2 weeks or 5 half-lives (whichever is greater)&#xD;
+        prior to study drug administration and for the duration of the trial.&#xD;
+&#xD;
+          -  Use of medications with significant CYP1A2, 2D6, or 3A4 inhibitor or inducer activity&#xD;
+             (See appendix for a list of these medications) within 2 weeks or 5 half-lives&#xD;
+             (whichever is greater) prior to study drug administration and for the duration of the&#xD;
+             trial.&#xD;
+&#xD;
+          -  Use of anticoagulants within 30 days or 5 half-lives (whichever is greater) prior to&#xD;
+             study drug administration and for the duration of the trial.&#xD;
+&#xD;
+          -  Use of investigational amyloid lowering therapies within 2 months prior to study drug&#xD;
+             administration and for the duration of the trial.&#xD;
+&#xD;
+          -  Use of another investigational agent within 30 days or 5 half-lives (whichever is&#xD;
+             greater) prior to screening and for the duration of the trial.&#xD;
+&#xD;
+          -  Neutropenia defined as absolute neutrophils count of &lt; 1,500/microliter.&#xD;
+&#xD;
+          -  Thrombocytopenia defined as platelet count &lt; 100,000/microliter.&#xD;
+&#xD;
+          -  Clinically significant abnormalities in screening laboratories, including Aspartate&#xD;
+             aminotransferase (AST) &gt;1.5 times upper limit of normal (ULN); Alanine&#xD;
+             aminotransferase (ALT) &gt;1.5 times ULN; Total bilirubin &gt;1.5 times ULN; Serum&#xD;
+             creatinine &gt;2.0 times ULN.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Adam Mecca, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistant Professor of Psychiatry; Associate Director, Alzheimer's Disease Research Unit; Faculty, Alzheimer's Disease Research Center (ADRC)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>March 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 18, 2021</study_first_posted>
+  <last_update_submitted>October 4, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 4, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 5, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Yale University</investigator_affiliation>
+    <investigator_full_name>Adam Mecca</investigator_full_name>
+    <investigator_title>Assistant Professor of Psychiatry; Associate Director, Alzheimer's Disease Research Unit; Faculty, Alzheimer's Disease Research Center (ADRC)</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

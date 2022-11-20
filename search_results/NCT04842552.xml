@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="35">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04842552</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRCT20200711048075N1</org_study_id>
+    <nct_id>NCT04842552</nct_id>
+  </id_info>
+  <brief_title>Effect of Hydralazine on Alzheimer's Disease</brief_title>
+  <acronym>EHSAN</acronym>
+  <official_title>The Effect of Hydralazine on the Early Stage of Alzheimer's Disease: A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shahid Sadoughi University of Medical Sciences and Health Services</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute for Medical Research Development (NIMAD)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shahid Sadoughi University of Medical Sciences and Health Services</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It has been recently discovered that the FDA-approved drug, hydralazine, has&#xD;
+      anti-neurodegenerative efficacy based on three intriguing observations. hydralazine; 1)&#xD;
+      activates the Nrf2 pathway that controls more than 200 antioxidant proteins, 2) rejuvenates&#xD;
+      mitochondria and increases their respiration capacity and adenosine triphosphate production,&#xD;
+      3) activates autophagy which has pathophysiological roles such as intracellular aggregate&#xD;
+      clearance. There is an emerging agreement that autophagy-lysosome defects occur early in the&#xD;
+      pathogenesis of Alzheimer's disease (AD). Nrf2 is another pathway known to be impaired in the&#xD;
+      hippocampus of AD patients who need antioxidant protection the most. Rejuvenation of&#xD;
+      mitochondria is crucial for fighting AD, as neuronal cells need more energy to afford&#xD;
+      activation of pathways such as autophagy and Nrf2. The prime objective of this application is&#xD;
+      to conduct a randomized clinical trial to assess the efficacy of hydralazine in early-stage&#xD;
+      AD patients who take one of the acetylcholinesterase inhibitor (AChEI) donepezil,&#xD;
+      rivastigmine, or galantamine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study aim:&#xD;
+&#xD;
+        1. Determination and comparison of the effect of 75mg (25mg TDS) hydralazine vs. placebo in&#xD;
+           patients with mild to moderate Alzheimer's disease.&#xD;
+&#xD;
+        2. Development of an electronic Case Report Form (CRF) and push notification system to&#xD;
+           remind patients (and/or caregivers) of drug intake to improve drug intake adherence and&#xD;
+           reduce follow-up losses.&#xD;
+&#xD;
+        3. Evaluation of the prognostic accuracy of olfactory tests to predict the changes in&#xD;
+           cognition and performance of patients with mild to moderate Alzheimer's disease.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      This is a phase III, triple-blind, parallel double-armed randomized clinical trial with an&#xD;
+      allocation ratio of 1-1 to the intervention and placebo arms. This trial will be conducted on&#xD;
+      424 randomly selected patients using random permuted blocks.&#xD;
+&#xD;
+      Settings and conduct:&#xD;
+&#xD;
+      All patients who are identified as potentially eligible by the supporting neurologists and&#xD;
+      psychiatrists will be referred to Adineh Clinic to evaluate their cognitive function, assess&#xD;
+      for inclusion and exclusion criteria and obtain informed consent. The two arms of the study&#xD;
+      are hydralazine 75mg (25mg three times per day) or hydralazine placebo. A follow-up&#xD;
+      evaluation will continue for one year after drug administration. The participants, outcome&#xD;
+      assessors, researchers, and data analyzers will be blinded to the study arms.&#xD;
+&#xD;
+      Participants/Inclusion and exclusion criteria:&#xD;
+&#xD;
+      patients over the age of 49 and over who are diagnosed with mild to moderate AD will be&#xD;
+      included in this study; dementia patients with etiologies other than AD (i.e. vascular&#xD;
+      dementia) will not be included.&#xD;
+&#xD;
+      Intervention groups:&#xD;
+&#xD;
+      The two arms of the study are Hydralazine 75mg (25mg three times per day) or Hydralazine&#xD;
+      placebo.&#xD;
+&#xD;
+      Main outcome variables:&#xD;
+&#xD;
+      Various cognitive and function tests for patients and caregivers, olfactory tests,&#xD;
+      biochemistry as well as drug side effects will be assessed regularly over the period of&#xD;
+      follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 2, 2021</start_date>
+  <completion_date type="Anticipated">December 20, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2023</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two arms will be randomly allocated to either hydralazine hydrochloride 25mg TDS or placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Hydralazine hydrochloride was imported directly from a global supplier, packed in 90 tablet bottles with a specific batch number for drug and placebo not revealed to any of the above parties.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The progression of of Alzheimer's disease</measure>
+    <time_frame>Three months after recruitment.</time_frame>
+    <description>The progression of of Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using the Alzheimer's Disease Assessment Scale-Cognitive Sub-scale inventory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The progression of of Alzheimer's disease</measure>
+    <time_frame>Six months after recruitment.</time_frame>
+    <description>The progression of of Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using the Alzheimer's Disease Assessment Scale-Cognitive Sub-scale inventory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The progression of of Alzheimer's disease</measure>
+    <time_frame>Nine months after recruitment.</time_frame>
+    <description>The progression of of Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using the Alzheimer's Disease Assessment Scale-Cognitive Sub-scale inventory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The progression of of Alzheimer's disease</measure>
+    <time_frame>Twelve months after recruitment.</time_frame>
+    <description>The progression of of Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using the Alzheimer's Disease Assessment Scale-Cognitive Sub-scale inventory</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Function of patients with Alzheimer's disease</measure>
+    <time_frame>Three months after recruitment</time_frame>
+    <description>Changes in the function of patients with Alzheimer's disease in the hydralazine-treated group compared to placebo- treated using Lawton Activity of Daily Living Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Function of patients with Alzheimer's disease</measure>
+    <time_frame>Six months after recruitment</time_frame>
+    <description>Changes in the function of patients with Alzheimer's disease in the hydralazine-treated group compared to placebo- treated using Lawton Activity of Daily Living Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Function of patients with Alzheimer's disease</measure>
+    <time_frame>Nine months after recruitment</time_frame>
+    <description>Changes in the function of patients with Alzheimer's disease in the hydralazine-treated group compared to placebo- treated using Lawton Activity of Daily Living Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Function of patients with Alzheimer's disease</measure>
+    <time_frame>Twelve months after recruitment</time_frame>
+    <description>Changes in the function of patients with Alzheimer's disease in the hydralazine-treated group compared to placebo- treated using Lawton Activity of Daily Living Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognition of patients with Alzheimer's disease</measure>
+    <time_frame>Three months after recruitment</time_frame>
+    <description>Changes in the cognition of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Mini Mental State Examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognition of patients with Alzheimer's disease</measure>
+    <time_frame>Six months after recruitment</time_frame>
+    <description>Changes in the cognition of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Mini Mental State Examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognition of patients with Alzheimer's disease</measure>
+    <time_frame>Nine months after recruitment</time_frame>
+    <description>Changes in the cognition of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Mini Mental State Examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognition of patients with Alzheimer's disease</measure>
+    <time_frame>Twelve months after recruitment</time_frame>
+    <description>Changes in the cognition of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Mini Mental State Examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Behavior of patients with Alzheimer's disease</measure>
+    <time_frame>Three months after recruitment</time_frame>
+    <description>Changes in the behaviour of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Nero-Psychiatry Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Behavior of patients with Alzheimer's disease</measure>
+    <time_frame>Six months after recruitment</time_frame>
+    <description>Changes in the behaviour of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Nero-Psychiatry Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Behavior of patients with Alzheimer's disease</measure>
+    <time_frame>Nine months after recruitment</time_frame>
+    <description>Changes in the behaviour of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Nero-Psychiatry Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Behavior of patients with Alzheimer's disease</measure>
+    <time_frame>Twelve months after recruitment</time_frame>
+    <description>Changes in the behaviour of the patients with Alzheimer's disease in the hydralazine-treated group compared to placebo-treated using Nero-Psychiatry Inventory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver's spent time</measure>
+    <time_frame>Three months after recruitment</time_frame>
+    <description>Changes in caregiver's spent time for the patients in the hydralazine-treated group compare to placebo using Caregiver Activity Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver's spent time</measure>
+    <time_frame>Six months after recruitment</time_frame>
+    <description>Changes in caregiver's spent time for the patients in the hydralazine-treated group compare to placebo using Caregiver Activity Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver's spent time</measure>
+    <time_frame>Nine months after recruitment</time_frame>
+    <description>Changes in caregiver's spent time for the patients in the hydralazine-treated group compare to placebo using Caregiver Activity Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver's spent time</measure>
+    <time_frame>Twelve months after recruitment</time_frame>
+    <description>Changes in caregiver's spent time for the patients in the hydralazine-treated group compare to placebo using Caregiver Activity Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Olfactory sense</measure>
+    <time_frame>Three months after recruitment</time_frame>
+    <description>the changes in the olfactory sense in the hydralazine-treated group compare to placebo using 'peanut butter smelling test'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Olfactory sense</measure>
+    <time_frame>Six months after recruitment</time_frame>
+    <description>the changes in the olfactory sense in the hydralazine-treated group compare to placebo using 'peanut butter smelling test'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Olfactory sense</measure>
+    <time_frame>Nine months after recruitment</time_frame>
+    <description>the changes in the olfactory sense in the hydralazine-treated group compare to placebo using 'peanut butter smelling test'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Olfactory sense</measure>
+    <time_frame>Twelve months after recruitment</time_frame>
+    <description>the changes in the olfactory sense in the hydralazine-treated group compare to placebo using 'peanut butter smelling test'</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug side effects</measure>
+    <time_frame>Daily records in the provided notebook and reported three month after recruitment. Urgent matter can be reported any time to the provided hotline.</time_frame>
+    <description>The side effects of hydralazine-treated group compare to placebo-treated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug side effects</measure>
+    <time_frame>Daily records in the provided notebook and reported six month after recruitment. Urgent matter can be reported any time to the provided hotline.</time_frame>
+    <description>The side effects of hydralazine-treated group compare to placebo-treated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug side effects</measure>
+    <time_frame>Daily records in the provided notebook and reported nine month after recruitment. Urgent matter can be reported any time to the provided hotline.</time_frame>
+    <description>The side effects of hydralazine-treated group compare to placebo-treated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug side effects</measure>
+    <time_frame>Daily records in the provided notebook and reported twelve month after recruitment. Urgent matter can be reported any time to the provided hotline.</time_frame>
+    <description>The side effects of hydralazine-treated group compare to placebo-treated</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">424</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Hydralazine hydrochloride 25mg</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Hydralazine hydrochloride (25mg tablets) every eight hours (TDS)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo tablets (identical in shape to the active comparator) every eight hours (TDS)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydralazine hydrochloride 25mg tablets</intervention_name>
+    <description>Hydralazine hydrochloride 25mg tablets three time daily for 365 days (one year)</description>
+    <arm_group_label>Hydralazine hydrochloride 25mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnoses of Alzheimer's disease according to the National Institute of Neurological&#xD;
+             and Communicative Disorders and Stroke and the Alzheimer's Disease and Related&#xD;
+             Disorders Association (NINCDS-ADRDA) criteria.&#xD;
+&#xD;
+          -  Presence of a caregiver (friend or relative) who can assume responsibility for&#xD;
+             medication administrations, accompany the patient to all visits, and rate patient's&#xD;
+             condition.&#xD;
+&#xD;
+          -  Written informed consent form from both the patient (or surrogate) and caregiver.&#xD;
+&#xD;
+          -  A Mini-Mental State Examination score between 12 and 26 inclusive.&#xD;
+&#xD;
+          -  Prescription of donepezil (5-10mg/d), rivastigmine (3-6mg/d), galantamine or&#xD;
+             galantamine ER (8-16mg/d) for a minimum of 4 weeks prior to randomization.&#xD;
+&#xD;
+          -  Agreement not to take hydralazine.&#xD;
+&#xD;
+          -  Age 49 and over.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Non-Alzheimer primary dementia diagnosis (e.g., vascular dementia, Lewy body dementia,&#xD;
+             frontotemporal dementia, vitamin B-12 deficiency, hypothyroidism).&#xD;
+&#xD;
+          -  Diagnosis of any of the following conditions; major depression, delirium, alcohol or&#xD;
+             psychoactive substance abuse or dependency, schizophrenia, or delusional disorder as&#xD;
+             defined by Diagnostic and Statistical Manual (DSM)-IV.&#xD;
+&#xD;
+          -  Diagnosis of systemic illnesses that would interfere with participation in the study&#xD;
+             or decrease the life expectancy to less than one year.&#xD;
+&#xD;
+          -  Currently being treated with hydralazine or a history of intolerance to oral therapy&#xD;
+             with hydralazine&#xD;
+&#xD;
+          -  Any intravenous treatment for heart failure, except IV furosemide (e.g. IV inotropes,&#xD;
+             pressors, nitrates or nesiritide) at the time of screening.&#xD;
+&#xD;
+          -  Systolic blood pressure &lt;100 mmHg, reversible etiology of acute heart failure such as&#xD;
+             myocarditis, acute myocardial infarction-over the past 4 weeks, arrhythmia and&#xD;
+             existence of pacing device (Acute myocardial infarction is defined as symptoms and&#xD;
+             major electrocardiogram (ECG) changes (i.e., ST segment elevations), and arrhythmia&#xD;
+             includes unstable heart rates above 120/min or below 50/min).&#xD;
+&#xD;
+          -  Existence of severe congenital heart disease (such as uncorrected tetralogy of fallot&#xD;
+             or transposition of the aorta) and severe aortic or mitral stenosis or severe&#xD;
+             rheumatic mitral regurgitation.&#xD;
+&#xD;
+          -  Concurrent use of phosphodiesterase type 5 (PDE5) inhibitors (e.g. Viagra, Etc.)&#xD;
+&#xD;
+          -  Cardiac revascularization within the last 3 months or likelihood of requiring coronary&#xD;
+             revascularization within the study period. eGFR (Glomerular Filtration Rate) &lt;&#xD;
+             15ml/min/1.73m2, or on regular dialysis, or planned dialysis within the study period.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>49 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hamid Mirzaei, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Shahid Sadoughi University of Medical Sciences</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Masoud Mirzaei, MD, PhD</last_name>
+    <phone>+98-913-4509917</phone>
+    <email>mmirzaei@ssu.ac.ir</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nastaran- Ahmadi, PhD</last_name>
+    <phone>+98-913-3514827</phone>
+    <email>ahmadi.psy@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Adineh Health Centre</name>
+      <address>
+        <city>Yazd</city>
+        <zip>8916713151</zip>
+        <country>Iran, Islamic Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Behnam Bagheri, MSc.</last_name>
+      <phone>+98-35-38275414</phone>
+      <email>behnambagheri222@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nastaran Ahmadi, PhD</last_name>
+      <phone>+98-35-38275414</phone>
+      <email>ahmadi.psy@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Iran, Islamic Republic of</country>
+  </location_countries>
+  <link>
+    <url>http://ehsan-study.com</url>
+    <description>The EHSAN study website</description>
+  </link>
+  <link>
+    <url>https://ethics.research.ac.ir/ProposalCertificateEn.php?id=122413&amp;Print=true&amp;NoPrintHeader=true&amp;NoPrintFooter=true&amp;NoPrintPageBorder=true&amp;LetterPrint=true</url>
+    <description>The study ethics approval.</description>
+  </link>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>April 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 13, 2021</study_first_posted>
+  <last_update_submitted>December 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Shahid Sadoughi University of Medical Sciences and Health Services</investigator_affiliation>
+    <investigator_full_name>Masoud Mirzaei</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Hydralazine</keyword>
+  <keyword>Early stage</keyword>
+  <keyword>Olfactory sense</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydralazine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual patient data (IPD) sharing plan will be decided according to the upcoming requests and the ethics committee approval.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Informed consent form will be shared after recruitment started. CSR and SAP will be shared after recruitment phase was concluded. Study Protocol will be shared after publication.</ipd_time_frame>
+    <ipd_access_criteria>All requests should be forwarded to the study email address and agreed by the investigators' committee subject to the ethics committee approval.</ipd_access_criteria>
+    <ipd_url>http://ehsan-study.com</ipd_url>
+  </patient_data>
+  <study_docs>
+    <study_doc>
+      <doc_type>Informed Consent Form</doc_type>
+      <doc_url>http://ehsan-study.com</doc_url>
+      <doc_comment>All requests should be submitted to the contact us/about at the study website or study.ehsan@gmail.com</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_type>Clinical Study Report</doc_type>
+      <doc_url>http://ehsan-study.com</doc_url>
+      <doc_comment>All requests should be submitted to the contact us/about at the study website or study.ehsan@gmail.com</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_type>Study Protocol</doc_type>
+      <doc_url>http://ehsan-study.com</doc_url>
+      <doc_comment>All requests should be submitted to the contact us/about at the study website or study.ehsan@gmail.com</doc_comment>
+    </study_doc>
+    <study_doc>
+      <doc_type>Statistical Analysis Plan</doc_type>
+      <doc_url>http://ehsan-study.com</doc_url>
+      <doc_comment>All requests should be submitted to the contact us/about at the study website or study.ehsan@gmail.com</doc_comment>
+    </study_doc>
+  </study_docs>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

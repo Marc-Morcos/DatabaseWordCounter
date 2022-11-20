@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2487">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05326750</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KUH5772859</org_study_id>
+    <nct_id>NCT05326750</nct_id>
+  </id_info>
+  <brief_title>Non-invasive Neurostimulation as a Tool for Diagnostics and Management for Neurodegenerative Diseases</brief_title>
+  <official_title>Non-invasive Neurostimulation as a Tool for Diagnostics and Management for Neurodegenerative Diseases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Kuopio University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Kuopio University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Double blinded, sham-controlled, randomized trial on repeated transcranial alternating&#xD;
+      current brain stimulation (tACS) in neurodegenerative diseases. The investigators will&#xD;
+      evaluate whether a 4-times daily repeated stimulation with gamma tACS on the posterior&#xD;
+      parietal cortex can improve symptoms in patients with neurodegenerative diseases, including&#xD;
+      dementia with Lewy Bodies, Alzheimer's disease, idiopathic normal pressure hydrocephalus and&#xD;
+      Frontotemporal dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Double blinded, sham-controlled, randomized trial on repeated transcranial alternating&#xD;
+      current brain stimulation (tACS) in neurodegenerative diseases. The investigators will&#xD;
+      evaluate whether a 4-times daily repeated stimulation with gamma tACS on the posterior&#xD;
+      parietal cortex can improve symptoms in patients with neurodegenerative diseases, including&#xD;
+      dementia with Lewy Bodies, Alzheimer's disease, idiopathic normal pressure hydrocephalus and&#xD;
+      Frontotemporal dementia.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 2022</start_date>
+  <completion_date type="Anticipated">July 2032</completion_date>
+  <primary_completion_date type="Anticipated">July 2032</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in Rey Auditory Verbal Learning Test score</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the first intervention, immediately after the 4th intervention, 4 weeks after the last intervention</time_frame>
+    <description>Participants are given a list of 15 unrelated words repeated over five different trials and are asked to repeat. Another list of 15 unrelated words are given and the patient must again repeat the original list of 15 words and then again after 30 minutes.&#xD;
+The examiner reads aloud 15 unrelated words and the participant is asked to recall the words after each of the five trials. After a 15 minute delay, the participant is asked again to recall the words. The score ranges from 0 (worst performance) to 75 (best performance).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Rey Auditory Verbal Learning Test, recognition</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the first intervention, immediately after the 4th intervention, 4 weeks after the last intervention</time_frame>
+    <description>Participants are given a list of 15 unrelated words repeated over five different trials and are asked to repeat.&#xD;
+After a 15 minute delay, the participant is asked to recognise the original 15 words intermixed with 31 distractor words. The score of the recognition part ranges from 0 (worst performance) to 46 (best performance).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in orientation to time and place (MMSE questions 1-10)</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the last intervention, 4 weeks after the last intervention</time_frame>
+    <description>10 questions about the orientation. The score ranges from 0 (worse performance) to 10 (best performance).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Trail Making A &amp; B tests</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the 4th intervention, 4 weeks after the last intervention</time_frame>
+    <description>TMT A &amp; B tests. Time to perform set is recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in INECO Frontal Screening test</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the 4th intervention, 4 weeks after the last intervention</time_frame>
+    <description>Test battery assessing frontal lobe functions. The score ranges from 0 (worse performance) to 30 (best performance)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in phonemic fluency</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the first intervention, immediately after the 4th intervention, 4 weeks after the last intervention</time_frame>
+    <description>Person is requested to provide as many words as possible starting with certain letter. The score is the sum of all acceptable words produced in one minute.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in SAI measurements</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the last intervention</time_frame>
+    <description>By using transcranial magnetic stimulation (TMS), the investigators will evaluate the effects of gamma tACS on short latency afferent inhibition (SAI), which is a marker of cholinergic neurotransmission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SICI measurements</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the last intervention</time_frame>
+    <description>By using transcranial magnetic stimulation (TMS), the investigators will evaluate the effects of gamma tACS on short interval intracortical inhibition (SICI), which is a marker of gabaergic neurotransmission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in ICF measurements</measure>
+    <time_frame>Baseline (immediately before the intervention), immediately after the last intervention</time_frame>
+    <description>By using transcranial magnetic stimulation (TMS), the investigators will evaluate the effects of gamma tACS on intracortical facilitation (ICF), which is a marker of glutamatergic neurotransmission.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Frontotemporal Dementia</condition>
+  <condition>Dementia With Lewy Bodies</condition>
+  <arm_group>
+    <arm_group_label>Real tACS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Four sessions (once a day, during four consecutive days) of gamma tACS (40 Hz) at 3 mA over the superior parietal cortex (Precuneus)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham tACS</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Four sessions of sham tACS (once a day, during four consecutive days) over the superior parietal cortex (Precuneus)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Gamma tACS (40 Hz) over the superior parietal cortex</intervention_name>
+    <description>Single session of gamma tACS (40 Hz) over the superior parietal cortex</description>
+    <arm_group_label>Real tACS</arm_group_label>
+    <arm_group_label>Sham tACS</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Mild Cognitive Impairment due to Alzheimer's disease&#xD;
+&#xD;
+          -  Dementia with Lewy Bodies&#xD;
+&#xD;
+          -  Frontotemporal dementia&#xD;
+&#xD;
+          -  Idiopathic normal pressure hydrocephalus (iNPH)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of seizures&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Metal implants in the head (except dental fillings)&#xD;
+&#xD;
+          -  Electronic implants (i.e. pace-maker, implanted medical pump)&#xD;
+&#xD;
+          -  Age &lt;18 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eino Solje, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Kuopio University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eino Solje, MD, PhD</last_name>
+    <phone>+358 17 713 311</phone>
+    <email>eino.solje@uef.fi</email>
+  </overall_contact>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>March 23, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 14, 2022</study_first_posted>
+  <last_update_submitted>April 11, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 11, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Kuopio University Hospital</investigator_affiliation>
+    <investigator_full_name>Eino Solje</investigator_full_name>
+    <investigator_title>MD PhD adj. prof.</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pseudonymized data upon request, according to Finnish national and EU GDPR regulations</ipd_description>
+    <ipd_time_frame>Data will be shared after the study completion indefinitely.</ipd_time_frame>
+    <ipd_access_criteria>Reasonable request</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

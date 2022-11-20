@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1555">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05383833</url>
+  </required_header>
+  <id_info>
+    <org_study_id>146588</org_study_id>
+    <nct_id>NCT05383833</nct_id>
+  </id_info>
+  <brief_title>Creatine to Augment Bioenergetics in Alzheimer's</brief_title>
+  <acronym>CABA</acronym>
+  <official_title>Creatine to Augment Bioenergetics in Alzheimer's</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Kansas Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Alzheimer's Association</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kansas Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      By doing this study, researchers hope to see if creatine monohydrate is a helpful treatment&#xD;
+      for people with Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease is a progressive brain disorder that causes memory and thinking problems.&#xD;
+      Current medications may temporarily help with symptoms but cannot stop the disease from&#xD;
+      getting worse. As such, new treatments that slow or stop the disease from progressing are&#xD;
+      needed.&#xD;
+&#xD;
+      There is some evidence from animal studies that taking creatine monohydrate may improve&#xD;
+      thinking in Alzheimer's disease and be good for brain health. However, no studies have looked&#xD;
+      at creatine monohydrate supplementation in humans with Alzheimer's.&#xD;
+&#xD;
+      Creatine monohydrate is a dietary supplement regulated by the FDA. This is a study that will&#xD;
+      test if taking creatine monohydrate may be a helpful treatment for people with Alzheimer's&#xD;
+      disease. In this study, investigators will will evaluate:&#xD;
+&#xD;
+        1. Whether persons with Alzheimer's disease are able to easily take creatine monohydrate&#xD;
+           for 8 weeks.&#xD;
+&#xD;
+        2. Whether creatine monohydrate affects thinking function in people with Alzheimer's&#xD;
+           Disease.&#xD;
+&#xD;
+        3. Whether creatine monohydrate affects certain biochemicals in the brain and body.&#xD;
+&#xD;
+        4. Whether creatine monohydrate improves muscle size and strength.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 30, 2022</start_date>
+  <completion_date type="Anticipated">June 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adherence to Creatine Monohydrate Intervention</measure>
+    <time_frame>8 weeks</time_frame>
+    <description>Participants will keep a daily supplement tracker (with the help of a consenting study partner). They will also bring unconsumed creatine monohydrate powder to study visits where study personnel will measure and validate against expected intake.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Blood Creatine</measure>
+    <time_frame>Baseline, 4 weeks, and 8 weeks</time_frame>
+    <description>Measure of serum creatine levels at baseline, 4 weeks, and 8 weeks.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Brain Creatine Status</measure>
+    <time_frame>Baseline and 8 weeks</time_frame>
+    <description>Brain total creatine levels are measured in the brain using magnetic resonance spectroscopy in a 3 T clinical scanner.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Cognition</measure>
+    <time_frame>Baseline and 8 weeks</time_frame>
+    <description>NIH Toolbox (NIH-TB) Cognition Battery will be used to assess changes in a composite global cognition score at baseline and 8 weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Peripheral Mitochondrial Respiration</measure>
+    <time_frame>Baseline and 8 weeks</time_frame>
+    <description>Blood platelet and leukocyte mitochondrial respiration (oxygen consumption) will be determined using the Oroboros Oxygraph-2K system.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Muscle Strength</measure>
+    <time_frame>Baseline and 8 weeks</time_frame>
+    <description>Muscle strength will be tested on the right quadriceps femoris (upper leg) using an isokinetic dynamometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Muscle Size</measure>
+    <time_frame>Baseline and 8 Weeks</time_frame>
+    <description>Muscle size of the right quadriceps femoris (upper leg) will be determined using ultrasonography (ultrasound).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Creatine Monohydrate Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This study a single arm intervention. All participants will receive 20 grams of creatine monohydrate daily for the whole intervention (8 weeks).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Creatine Monohydrate</intervention_name>
+    <description>Participants will take 20 grams of creatine monohydrate daily for 8 weeks.The 20 grams will be divided into two equal 10 gram doses that will be stirred into a beverage. One 10 gram dose will be taken in the morning and the other 10 gram dose in evening.</description>
+    <arm_group_label>Creatine Monohydrate Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed cognitive impairment due to Alzheimer's disease&#xD;
+&#xD;
+          -  Agreed cooperation from a study partner&#xD;
+&#xD;
+          -  Speaks English as primary language&#xD;
+&#xD;
+          -  Age 60 to 90&#xD;
+&#xD;
+          -  Stable medication for ≥30 days&#xD;
+&#xD;
+          -  BMI ≥ 20.0kg/m2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Insulin-requiring diabetes, cancer requiring chemotherapy or radiation within the past&#xD;
+             5 years, or recent cardiac event (i.e., heart attack, etc.)&#xD;
+&#xD;
+          -  Other neurodegenerative disease&#xD;
+&#xD;
+          -  Ongoing renal disorder or abnormal renal or liver function&#xD;
+&#xD;
+          -  Unable to undergo MRI&#xD;
+&#xD;
+          -  Clinical trial or investigational drug or therapy participation within 30 days of the&#xD;
+             screening visit&#xD;
+&#xD;
+          -  Non-English speakers&#xD;
+&#xD;
+          -  Inability to perform strength testing&#xD;
+&#xD;
+          -  Weight &gt; 350 lbs.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew Taylor, PhD, RD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Kansas Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aaron N Smith, MS, RD</last_name>
+    <phone>913-229-5935</phone>
+    <email>asmith71@kumc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aaron Smith, MS</last_name>
+      <phone>913-229-5935</phone>
+      <email>asmith71@kumc.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>April 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 16, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 20, 2022</study_first_posted>
+  <last_update_submitted>November 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Kansas Medical Center</investigator_affiliation>
+    <investigator_full_name>Matthew Taylor</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1263">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02016560</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18F-AV-1451-A05</org_study_id>
+    <nct_id>NCT02016560</nct_id>
+  </id_info>
+  <brief_title>Analysis of 18F-AV-1451 PET Imaging in Cognitively Healthy, MCI, and AD Subjects</brief_title>
+  <acronym>MCI</acronym>
+  <official_title>An Open Label, Multicenter Study, Evaluating the Safety and Imaging Characteristics of 18F-AV-1451 in Cognitively Healthy Volunteers, Subjects With Mild Cognitive Impairment, and Subjects With Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Avid Radiopharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Avid Radiopharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Phase 2/3 cross-sectional and longitudinal observational study evaluating imaging&#xD;
+      characteristics of flortaucipir in control subjects and patients with clinically defined MCI&#xD;
+      and AD dementia (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study was conducted in 2 phases: a Phase 2 Exploratory Phase and a Phase 3 Confirmatory&#xD;
+      Phase. An overarching goal of the Exploratory Phase of this protocol was to further&#xD;
+      investigate the pattern of flortaucipir PET imaging across the disease course, in cognitively&#xD;
+      healthy subjects through patients with cognitive decline. To accomplish this goal, the&#xD;
+      protocol investigated flortaucipir results in younger and older cognitively healthy normal&#xD;
+      volunteers and patients with clinical diagnoses for cognitive complaints, ranging from MCI to&#xD;
+      mild and moderate AD dementia. Additionally, the Exploratory Phase of this protocol&#xD;
+      investigated relationships between flortaucipir PET signal and cognitive decline over the&#xD;
+      18-month study period.&#xD;
+&#xD;
+      The second, Confirmatory Phase of the study was designed to provide independent validation of&#xD;
+      the relationships observed in the exploratory analyses of the first phase. In particular, the&#xD;
+      goal of the second phase was to confirm the relationship between flortaucipir uptake in the&#xD;
+      brain as measured by PET signals at baseline and the subsequent rate of cognitive decline&#xD;
+      observed over the 18-month longitudinal follow up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">December 2013</start_date>
+  <completion_date type="Actual">July 28, 2017</completion_date>
+  <primary_completion_date type="Actual">July 28, 2017</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>All subjects in both the exploratory and confirmatory phases of the study, receive both florbetapir and florbetapir scans, regardless of subgroup assignment.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Applies only to confirmatory phase: the independent readers are blinded to all clinical information.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Confirmatory Phase: Relationship Between Neocortical Flortaucipir Uptake and the Subsequent Rate of Cognitive Decline</measure>
+    <time_frame>between baseline and 18 months</time_frame>
+    <description>Confirm the relationship between neocortical flortaucipir uptake and the subsequent rate of cognitive decline at longitudinal follow up that was observed in the Exploratory Phase of the study. Patients were assigned to groups by majority classification of the flortaucipir positron emission tomography (PET) scan by five independent imaging physicians. Clinically meaningful cognitive and functional deterioration was defined as a 1 point or greater worsening on clinical dementia rating - sum of boxes (CDR-SB) score over the follow-up period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Exploratory Phase: Cross-sectional Flortaucipir Imaging Results</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Exploratory Phase: Longitudinal Change in Tau Deposition Over Time, by Amyloid Status</measure>
+    <time_frame>baseline and 18 months</time_frame>
+    <description>Assess the rate of change of tau deposition as measured by flortaucipir uptake (SUVr) over time. Change = 18 months SUVr - baseline SUVr.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Confirmatory Phase: Diagnostic Performance of Flortaucipir Visual Read</measure>
+    <time_frame>baseline and 18 months</time_frame>
+    <description>This analysis used dichotomized CDR-SB change as a truth standard (1 point or more worsening = true positive vs. less than 1 point worsening = true negative) to assess the diagnostic performance of baseline Advanced AD tau status (τAD++) as determined by flortaucipir scan interpretation. Sensitivity and Specificity were calculated for each of the 5 independent imaging readers. Sensitivity is the percentage of true positive cases correctly identified by an Advanced AD pattern scan. Specificity is the percentage of true negative cases correctly identified by scans that were not classified as Advanced AD pattern.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Phase: Correlation Between Flortaucipir SUVr and Age</measure>
+    <time_frame>baseline scan</time_frame>
+    <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">383</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Exploratory Cognitively Healthy Subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive an IV injection, 370 megabecquerel (MBq) (10 millicurie [mCi]), single dose of florbetapir F 18 at baseline. Subjects will receive an IV injection, 370 MBq (10 mCi), single dose of flortaucipir at baseline.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Exploratory MCI Subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive an IV injection, 370 MBq (10 mCi), single dose of florbetapir F 18 at baseline. Subjects will receive an IV injection, 370 MBq (10 mCi), single dose of flortaucipir at baseline, 9 months and 18 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Exploratory AD Subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive an IV injection, 370 MBq (10 mCi), single dose of florbetapir F 18 at baseline. Subjects will receive an IV injection, 370 MBq (10 mCi), single dose of flortaucipir at baseline, 9 months and 18 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Confirmatory Subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects will receive an IV injection, 370 MBq (10 mCi), single dose of florbetapir F 18 and flortaucipir at baseline.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>florbetapir F 18</intervention_name>
+    <arm_group_label>Confirmatory Subjects</arm_group_label>
+    <arm_group_label>Exploratory AD Subjects</arm_group_label>
+    <arm_group_label>Exploratory Cognitively Healthy Subjects</arm_group_label>
+    <arm_group_label>Exploratory MCI Subjects</arm_group_label>
+    <other_name>Amyvid</other_name>
+    <other_name>18F-AV-45</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flortaucipir F18</intervention_name>
+    <arm_group_label>Confirmatory Subjects</arm_group_label>
+    <arm_group_label>Exploratory AD Subjects</arm_group_label>
+    <arm_group_label>Exploratory Cognitively Healthy Subjects</arm_group_label>
+    <arm_group_label>Exploratory MCI Subjects</arm_group_label>
+    <other_name>T807</other_name>
+    <other_name>18F-AV-1451</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Brain PET Scan</intervention_name>
+    <description>positron emission tomography (PET) scan of the brain</description>
+    <arm_group_label>Confirmatory Subjects</arm_group_label>
+    <arm_group_label>Exploratory AD Subjects</arm_group_label>
+    <arm_group_label>Exploratory Cognitively Healthy Subjects</arm_group_label>
+    <arm_group_label>Exploratory MCI Subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Exploratory Cognitively Healthy Subjects&#xD;
+&#xD;
+          -  ≥ 20 to ≤ 40 years of age OR ≥ 50 years of age&#xD;
+&#xD;
+          -  Mini-mental state examination (MMSE) ≥ 29&#xD;
+&#xD;
+          -  No significant history of cognitive impairment&#xD;
+&#xD;
+        Exploratory MCI Subjects&#xD;
+&#xD;
+          -  ≥ 50 years of age&#xD;
+&#xD;
+          -  MMSE ≥ 24&#xD;
+&#xD;
+          -  Have MCI consistent with National Institute on Aging-Alzheimer's Association (NIA-AA)&#xD;
+             working group's diagnostic guidelines for AD&#xD;
+&#xD;
+          -  Have a study partner that can report on subject's activities of daily living&#xD;
+&#xD;
+        Exploratory AD Subjects&#xD;
+&#xD;
+          -  ≥ 50 years of age&#xD;
+&#xD;
+          -  MMSE &gt; 10&#xD;
+&#xD;
+          -  Have possible or probable AD based on the NIA-AA working group's diagnostic guidelines&#xD;
+             for AD&#xD;
+&#xD;
+          -  Have a study partner that can report on subject's activities of daily living&#xD;
+&#xD;
+        Confirmatory Subjects&#xD;
+&#xD;
+          -  ≥ 50 years of age&#xD;
+&#xD;
+          -  MMSE ≥ 20 and ≤ 27&#xD;
+&#xD;
+          -  Cognitively impaired subjects with either MCI or dementia with a suspected&#xD;
+             neurodegenerative cause&#xD;
+&#xD;
+          -  Have a study partner that can report on subject's activities of daily living&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Current clinically significant psychiatric disease&#xD;
+&#xD;
+          -  Evidence of structural brain abnormalities&#xD;
+&#xD;
+          -  History of moderate or severe traumatic brain injury&#xD;
+&#xD;
+          -  Current clinically significant cardiovascular disease or ECG abnormalities, or&#xD;
+             additional risk factors for Torsades de Pointes&#xD;
+&#xD;
+          -  Current clinically significant infectious disease, endocrine or metabolic disease,&#xD;
+             pulmonary, renal or hepatic impairment, or cancer&#xD;
+&#xD;
+          -  History of alcohol or substance abuse or dependence&#xD;
+&#xD;
+          -  Females of childbearing potential who are not surgically sterile, not refraining from&#xD;
+             sexual activity or not using reliable methods of contraception&#xD;
+&#xD;
+          -  Have received or participated in a trial with investigational medications in the past&#xD;
+             30 days&#xD;
+&#xD;
+          -  Have had a non-study related radiopharmaceutical imaging or treatment procedure within&#xD;
+             7 days prior to the study imaging session.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Four Peaks Neurology</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Sun Health Research Institute</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC Irvine</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92697</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hoag Memorial</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Norther California PET Imaging Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94158</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Research Institute</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Molecular NeuroImaging</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Quantum Laboratories</name>
+      <address>
+        <city>Deerfield Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>21st Century Oncology</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sandlake Imaging</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridien Research</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33709</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>USF Health Byrd Alzheimer's Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Independent Imaging</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston University</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Disease Center</name>
+      <address>
+        <city>Quincy</city>
+        <state>Massachusetts</state>
+        <zip>02169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Clinical Imaging Research</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Las Vegas Radiology</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89147</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Brain Health - NYU Langone Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>December 16, 2013</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 20, 2013</study_first_posted>
+  <results_first_submitted>June 27, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 7, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 24, 2020</results_first_posted>
+  <disposition_first_submitted>July 20, 2018</disposition_first_submitted>
+  <disposition_first_submitted_qc>July 20, 2018</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">July 24, 2018</disposition_first_posted>
+  <last_update_submitted>September 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>August 7, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT02016560/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan: Confirmatory Phase SAP</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 5, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT02016560/SAP_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan: Confirmatory Phase Addendum SAP</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 5, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT02016560/SAP_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan: Exploratory Phase SAP</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 27, 2017</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/60/NCT02016560/SAP_003.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Exploratory cohort subjects were enrolled starting in Dec 2013. Confirmatory cohort subjects were enrolled Dec 2014-July 2017. Exploratory cohort subjects were not eligible for the confirmatory phase.</recruitment_details>
+      <pre_assignment_details>To ensure a distribution of disease severity in the confirmatory phase, a target was set to recruit at least one-third of the enrolled subjects with dementia</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Exploratory Young Cognitively Healthy Subjects</title>
+          <description>Male or female subjects ≥20 to ≤40 years of age with mini-mental status exam (MMSE) score ≥29</description>
+        </group>
+        <group group_id="P2">
+          <title>Exploratory Older Cognitively Healthy Subjects</title>
+          <description>Male or female subjects ≥50 years of age with MMSE Score ≥29</description>
+        </group>
+        <group group_id="P3">
+          <title>Exploratory MCI Subjects</title>
+          <description>Subjects with mild cognitive impairment consistent with National Institute of Aging (NIA)-Alzheimer's Association working group's diagnostic guidelines for AD (Albert et al. 2011) and MMSE Score ≥24</description>
+        </group>
+        <group group_id="P4">
+          <title>Exploratory AD Subjects</title>
+          <description>Subjects with possible or probable AD dementia based on the NIA-Alzheimer's Association working group's diagnostic guidelines for AD (McKhann et al. 2011) and MMSE Score &gt;10</description>
+        </group>
+        <group group_id="P5">
+          <title>Confirmatory Subjects MCI</title>
+          <description>Clinically diagnosed mild cognitive impairment with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+        <group group_id="P6">
+          <title>Confirmatory Subjects AD</title>
+          <description>Clinically diagnosed dementia with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Exploratory Phase</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="58"/>
+                <participants group_id="P3" count="98"/>
+                <participants group_id="P4" count="51"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="54"/>
+                <participants group_id="P3" count="62"/>
+                <participants group_id="P4" count="35"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="36"/>
+                <participants group_id="P4" count="16"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Confirmatory Phase</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="98"/>
+                <participants group_id="P6" count="62"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="76"/>
+                <participants group_id="P6" count="35"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="22"/>
+                <participants group_id="P6" count="27"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Exploratory Young Cognitively Healthy Subjects</title>
+          <description>Male or female subjects ≥20 to ≤40 years of age with MMSE ≥29</description>
+        </group>
+        <group group_id="B2">
+          <title>Exploratory Older Cognitively Healthy Subjects</title>
+          <description>Male or female subjects ≥50 years of age with MMSE ≥29</description>
+        </group>
+        <group group_id="B3">
+          <title>Exploratory MCI Subjects</title>
+          <description>Subjects with mild cognitive impairment consistent with National Institute of Aging (NIA)-Alzheimer's Association working group's diagnostic guidelines for AD (Albert et al. 2011) and MMSE ≥24</description>
+        </group>
+        <group group_id="B4">
+          <title>Exploratory AD Subjects</title>
+          <description>Subjects with possible or probable AD dementia based on the NIA-Alzheimer's Association working group's diagnostic guidelines for AD (McKhann et al. 2011) and MMSE &gt;10</description>
+        </group>
+        <group group_id="B5">
+          <title>Confirmatory Subjects MCI</title>
+          <description>Clinically diagnosed mild cognitive impairment with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+        <group group_id="B6">
+          <title>Confirmatory Subjects AD</title>
+          <description>Clinically diagnosed dementia with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+        <group group_id="B7">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="16"/>
+            <count group_id="B2" value="58"/>
+            <count group_id="B3" value="98"/>
+            <count group_id="B4" value="51"/>
+            <count group_id="B5" value="98"/>
+            <count group_id="B6" value="62"/>
+            <count group_id="B7" value="383"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <population>Age, Continuous for Exploratory Cohort only</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="0"/>
+                    <count group_id="B6" value="0"/>
+                    <count group_id="B7" value="223"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28.9" spread="4.88"/>
+                    <measurement group_id="B2" value="68.5" spread="10.29"/>
+                    <measurement group_id="B3" value="70.8" spread="9.3"/>
+                    <measurement group_id="B4" value="73.9" spread="9.01"/>
+                    <measurement group_id="B7" value="67.9" spread="14.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <population>Age, Continuous for Confirmatory Cohort only</population>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="0"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="160"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B5" value="72.5" spread="9.69"/>
+                    <measurement group_id="B6" value="73.6" spread="9.53"/>
+                    <measurement group_id="B7" value="72.9" spread="9.61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <description>Exploratory Cohort - Sex: Female, Male</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="49"/>
+                    <measurement group_id="B4" value="28"/>
+                    <measurement group_id="B5" value="44"/>
+                    <measurement group_id="B6" value="30"/>
+                    <measurement group_id="B7" value="184"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="49"/>
+                    <measurement group_id="B4" value="23"/>
+                    <measurement group_id="B5" value="54"/>
+                    <measurement group_id="B6" value="32"/>
+                    <measurement group_id="B7" value="199"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="5"/>
+                    <measurement group_id="B6" value="4"/>
+                    <measurement group_id="B7" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="57"/>
+                    <measurement group_id="B3" value="94"/>
+                    <measurement group_id="B4" value="51"/>
+                    <measurement group_id="B5" value="93"/>
+                    <measurement group_id="B6" value="58"/>
+                    <measurement group_id="B7" value="368"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Asian</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="1"/>
+                    <measurement group_id="B7" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Black or African American</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="7"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>White</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="89"/>
+                    <measurement group_id="B4" value="47"/>
+                    <measurement group_id="B5" value="94"/>
+                    <measurement group_id="B6" value="61"/>
+                    <measurement group_id="B7" value="349"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>American Indian or Alaska Native</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or Other Pacific Islander</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="16"/>
+                    <count group_id="B2" value="58"/>
+                    <count group_id="B3" value="98"/>
+                    <count group_id="B4" value="51"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="62"/>
+                    <count group_id="B7" value="383"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Clinical Dementia Rating - Sum of Boxes (CDR-SB)</title>
+          <description>The CDR scale (Berg 1988) examines 6 cognitive functioning domains individually on a scale of 0 to 3. CDR Sum of Boxes is generated by summing the total score across domains. Scores range from 0 to 18, with higher scores indicating higher levels of cognitive impairment.</description>
+          <population>Recorded at baseline only for confirmatory phase subjects</population>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="0"/>
+                    <count group_id="B5" value="98"/>
+                    <count group_id="B6" value="61"/>
+                    <count group_id="B7" value="159"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B5" value="2.8" spread="1.73"/>
+                    <measurement group_id="B6" value="4.3" spread="1.69"/>
+                    <measurement group_id="B7" value="3.4" spread="1.88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Confirmatory Phase: Relationship Between Neocortical Flortaucipir Uptake and the Subsequent Rate of Cognitive Decline</title>
+        <description>Confirm the relationship between neocortical flortaucipir uptake and the subsequent rate of cognitive decline at longitudinal follow up that was observed in the Exploratory Phase of the study. Patients were assigned to groups by majority classification of the flortaucipir positron emission tomography (PET) scan by five independent imaging physicians. Clinically meaningful cognitive and functional deterioration was defined as a 1 point or greater worsening on clinical dementia rating - sum of boxes (CDR-SB) score over the follow-up period.</description>
+        <time_frame>between baseline and 18 months</time_frame>
+        <population>Subjects from the confirmatory phase with valid flortaucipir visual read and 9 or 18 month clinical follow-up.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Predicted to Progress</title>
+            <description>Subjects with an Advanced AD Scan Pattern (τAD++). In either hemisphere, increased neocortical activity in the parietal/precuneus region(s), or frontal region(s) with increased uptake in the PLT, parietal, or occipital region(s).</description>
+          </group>
+          <group group_id="O2">
+            <title>Not Predicted to Progress</title>
+            <description>Subjects with a Moderate AD Scan Pattern (τAD+) or Not AD Scan Pattern (τAD-). Moderate scans were defined as in either hemisphere, increased neocortical activity limited to the posterolateral temporal (PLT) or occipital region(s). Not AD scans were defined as no increased neocortical activity, or increased neocortical activity isolated to the mesial temporal, anterolateral temporal, and/or frontal regions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Confirmatory Phase: Relationship Between Neocortical Flortaucipir Uptake and the Subsequent Rate of Cognitive Decline</title>
+          <description>Confirm the relationship between neocortical flortaucipir uptake and the subsequent rate of cognitive decline at longitudinal follow up that was observed in the Exploratory Phase of the study. Patients were assigned to groups by majority classification of the flortaucipir positron emission tomography (PET) scan by five independent imaging physicians. Clinically meaningful cognitive and functional deterioration was defined as a 1 point or greater worsening on clinical dementia rating - sum of boxes (CDR-SB) score over the follow-up period.</description>
+          <population>Subjects from the confirmatory phase with valid flortaucipir visual read and 9 or 18 month clinical follow-up.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="63"/>
+                <count group_id="O2" value="68"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Clinically meaningful progression</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="36"/>
+                    <measurement group_id="O2" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Did Not Progress</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27"/>
+                    <measurement group_id="O2" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The specific hypothesis tested was that the hazard of progressing to the clinically meaningful event (defined as CDR-SB value change of at least 1 within 18 months) will be significantly greater for subjects with flortaucipir scans rated by majority interpretation as predicted to progress (Advanced AD scan pattern), as compared to subjects with scans rated as not predicted to progress (Moderate or Not AD scan pattern).</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.067</p_value>
+            <p_value_desc>A p-value of &lt;0.05 was the a priori threshold for statistical significance.</p_value_desc>
+            <method>Cox proportional hazards</method>
+            <method_desc>The Cox proportional hazard model was adjusted for baseline age, American National Adult Reading Test (ANART) score, and baseline CDR-SB score.</method_desc>
+            <param_type>Cox Proportional Hazard</param_type>
+            <param_value>1.581</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.968</ci_lower_limit>
+            <ci_upper_limit>2.581</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Exploratory Phase: Cross-sectional Flortaucipir Imaging Results</title>
+        <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+        <time_frame>baseline scan</time_frame>
+        <population>Analysis included all subjects who received an injection of flortaucipir, had valid quantifiable flortaucipir imaging data available, and valid quantifiable florbetapir PET data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exploratory AD Subjects</title>
+            <description>Subjects with possible or probable AD dementia based on the NIA-Alzheimer's Association working group's diagnostic guidelines for AD (McKhann et al. 2011) and MMSE &gt;10</description>
+          </group>
+          <group group_id="O2">
+            <title>Exploratory MCI Subjects</title>
+            <description>Subjects with mild cognitive impairment consistent with National Institute of Aging (NIA)-Alzheimer's Association working group's diagnostic guidelines for AD (Albert et al. 2011) and MMSE ≥24</description>
+          </group>
+          <group group_id="O3">
+            <title>Exploratory Older Cognitively Healthy Subjects</title>
+            <description>Male or female subjects ≥50 years of age with MMSE ≥29</description>
+          </group>
+          <group group_id="O4">
+            <title>Exploratory Young Cognitively Healthy Subjects</title>
+            <description>Male or female subjects ≥20 to ≤40 years of age with MMSE ≥29</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Exploratory Phase: Cross-sectional Flortaucipir Imaging Results</title>
+          <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+          <population>Analysis included all subjects who received an injection of flortaucipir, had valid quantifiable flortaucipir imaging data available, and valid quantifiable florbetapir PET data.</population>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="48"/>
+                <count group_id="O2" value="97"/>
+                <count group_id="O3" value="57"/>
+                <count group_id="O4" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Aβ+ SUVr</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="32"/>
+                    <count group_id="O2" value="47"/>
+                    <count group_id="O3" value="5"/>
+                    <count group_id="O4" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.53" spread="0.037"/>
+                    <measurement group_id="O2" value="1.26" spread="0.030"/>
+                    <measurement group_id="O3" value="1.08" spread="0.093"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Aβ- SUVr</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="16"/>
+                    <count group_id="O2" value="50"/>
+                    <count group_id="O3" value="52"/>
+                    <count group_id="O4" value="16"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.03" spread="0.051"/>
+                    <measurement group_id="O2" value="0.99" spread="0.029"/>
+                    <measurement group_id="O3" value="0.98" spread="0.029"/>
+                    <measurement group_id="O4" value="1.01" spread="0.039"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>ANCOVA model comparing the mean SUVr between AD and Older Cognitively Healthy within amyloid positive group.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustment for multiple comparisons. No a priori threshold was set.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjusted for age</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>ANCOVA model comparing the mean SUVr between MCI and Older Cognitively Healthy within the amyloid positive group.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.0622</p_value>
+            <p_value_desc>No adjustment for multiple comparisons. No a priori threshold was set.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjusted for age</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>ANCOVA model comparing the mean SUVr between AD and MCI within the amyloid positive group.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <p_value_desc>No adjustment for multiple comparisons. No a priori threshold was set.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Adjusted for age</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Exploratory Phase: Longitudinal Change in Tau Deposition Over Time, by Amyloid Status</title>
+        <description>Assess the rate of change of tau deposition as measured by flortaucipir uptake (SUVr) over time. Change = 18 months SUVr - baseline SUVr.</description>
+        <time_frame>baseline and 18 months</time_frame>
+        <population>Analysis of flortaucipir SUVr Change Over Time by Amyloid Status, Exploratory Phase Efficacy Population (AD and MCI subjects only)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exploratory AB+ (Amyloid Beta Positive)</title>
+            <description>Exploratory MCI or AD subjects with a positive florbetapir PET scan for amyloid</description>
+          </group>
+          <group group_id="O2">
+            <title>Exploratory AB- (Amyloid Beta Negative)</title>
+            <description>Exploratory MCI or AD subjects with a negative florbetapir PET scan for amyloid</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Exploratory Phase: Longitudinal Change in Tau Deposition Over Time, by Amyloid Status</title>
+          <description>Assess the rate of change of tau deposition as measured by flortaucipir uptake (SUVr) over time. Change = 18 months SUVr - baseline SUVr.</description>
+          <population>Analysis of flortaucipir SUVr Change Over Time by Amyloid Status, Exploratory Phase Efficacy Population (AD and MCI subjects only)</population>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Least Squares Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="55"/>
+                <count group_id="O2" value="90"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.052359" spread="0.008536"/>
+                    <measurement group_id="O2" value="0.000655" spread="0.002394"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <groups_desc>SUVr change from baseline as dependent variable, baseline SUVr, age, and visit as independent variables, using an unstructured covariance structure for amyloid positive subjects only.</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Test of whether the least squares mean change is significantly different than zero</non_inferiority_desc>
+            <p_value>&lt;0.0001</p_value>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>SUVr change from baseline as dependent variable, baseline SUVr, age, and visit as independent variables, using an unstructured covariance structure for amyloid negative subjects only.</groups_desc>
+            <non_inferiority_type>Equivalence</non_inferiority_type>
+            <non_inferiority_desc>Test of whether the least squares mean change is significantly different than zero</non_inferiority_desc>
+            <p_value>0.7851</p_value>
+            <method>Mixed Models Analysis</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Confirmatory Phase: Diagnostic Performance of Flortaucipir Visual Read</title>
+        <description>This analysis used dichotomized CDR-SB change as a truth standard (1 point or more worsening = true positive vs. less than 1 point worsening = true negative) to assess the diagnostic performance of baseline Advanced AD tau status (τAD++) as determined by flortaucipir scan interpretation. Sensitivity and Specificity were calculated for each of the 5 independent imaging readers. Sensitivity is the percentage of true positive cases correctly identified by an Advanced AD pattern scan. Specificity is the percentage of true negative cases correctly identified by scans that were not classified as Advanced AD pattern.</description>
+        <time_frame>baseline and 18 months</time_frame>
+        <population>All confirmatory phase subjects who completed 18 months of follow-up for the cognitive endpoint were read by each reader</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Independent Readers</title>
+            <description>Scans were interpreted by 5 imaging physicians, blind to clinical data, after training by an Avid expert.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Confirmatory Phase: Diagnostic Performance of Flortaucipir Visual Read</title>
+          <description>This analysis used dichotomized CDR-SB change as a truth standard (1 point or more worsening = true positive vs. less than 1 point worsening = true negative) to assess the diagnostic performance of baseline Advanced AD tau status (τAD++) as determined by flortaucipir scan interpretation. Sensitivity and Specificity were calculated for each of the 5 independent imaging readers. Sensitivity is the percentage of true positive cases correctly identified by an Advanced AD pattern scan. Specificity is the percentage of true negative cases correctly identified by scans that were not classified as Advanced AD pattern.</description>
+          <population>All confirmatory phase subjects who completed 18 months of follow-up for the cognitive endpoint were read by each reader</population>
+          <units>percentage of cases correctly identified</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="110"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Reader 1 Sensitivity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="59.6" lower_limit="46.1" upper_limit="71.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 1 Specificity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="58"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.5" lower_limit="52.7" upper_limit="76.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 2 Sensitivity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="53.8" lower_limit="40.5" upper_limit="66.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 2 Specificity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="58"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.5" lower_limit="52.7" upper_limit="76.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 3 Sensitivity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55.8" lower_limit="42.3" upper_limit="68.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 3 Specificity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="58"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.5" lower_limit="52.7" upper_limit="76.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 4 Sensitivity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="59.6" lower_limit="46.1" upper_limit="71.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 4 Specificity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="58"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.5" lower_limit="52.7" upper_limit="76.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 5 Sensitivity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="52"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="50.0" lower_limit="36.9" upper_limit="63.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reader 5 Specificity</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="58"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65.5" lower_limit="52.7" upper_limit="76.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <other_analysis_desc>The hypothesis tested was that, of the 5 independent imaging physicians, at least 3 will have the lower bounds of 2-sided 95% confidence intervals ≥50%, for both sensitivity and specificity.</other_analysis_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Exploratory Phase: Correlation Between Flortaucipir SUVr and Age</title>
+        <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+        <time_frame>baseline scan</time_frame>
+        <population>Exploratory Young and Old healthy control subjects with a valid flortaucipir PET scan</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Exploratory Young Cognitively Healthy Subjects</title>
+            <description>Male or female subjects ≥20 to ≤40 years of age with MMSE ≥29</description>
+          </group>
+          <group group_id="O2">
+            <title>Exploratory Older Cognitively Healthy Subjects 50-59</title>
+            <description>Male or female subjects 50-59 years of age with MMSE ≥29</description>
+          </group>
+          <group group_id="O3">
+            <title>Exploratory Older Cognitively Healthy Subjects 60-69</title>
+            <description>Male or female subjects 60-69 years of age with MMSE ≥29</description>
+          </group>
+          <group group_id="O4">
+            <title>Exploratory Older Cognitively Healthy Subjects 70-79</title>
+            <description>Male or female subjects 70-79 years of age with MMSE ≥29</description>
+          </group>
+          <group group_id="O5">
+            <title>Exploratory Older Cognitively Healthy Subjects &gt;=80</title>
+            <description>Male or female subjects 80 years of age or older with MMSE ≥29</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Exploratory Phase: Correlation Between Flortaucipir SUVr and Age</title>
+          <description>Flortaucipir standardized uptake value ratio (SUVr). A value of 1 signifies no flortaucipir activity above background, values greater than 1 signify increasing flortaucipir activity in the brain.</description>
+          <population>Exploratory Young and Old healthy control subjects with a valid flortaucipir PET scan</population>
+          <units>standardized uptake value ratio (SUVr)</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="16"/>
+                <count group_id="O2" value="15"/>
+                <count group_id="O3" value="15"/>
+                <count group_id="O4" value="16"/>
+                <count group_id="O5" value="11"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.0083" spread="0.03905"/>
+                    <measurement group_id="O2" value="1.0203" spread="0.03693"/>
+                    <measurement group_id="O3" value="1.0110" spread="0.04149"/>
+                    <measurement group_id="O4" value="1.0010" spread="0.02604"/>
+                    <measurement group_id="O5" value="1.0048" spread="0.03978"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Pearson's correlation coefficient</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.4361</p_value>
+            <method>Pearson</method>
+            <param_type>Pearson's correlation coefficient</param_type>
+            <param_value>-0.0925</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events (AEs) were collected at scan visits, regardless of attribution to study drug. End of study for AE reporting was 48 hours after the last study drug administration. AEs occurring after study drug administration, but outside that window were not recorded, unless considered attributable to either drug.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Exploratory Younger Cognitively Healthy Subjects</title>
+          <description>Male or female subjects ≥20 to ≤40 years of age with MMSE ≥29</description>
+        </group>
+        <group group_id="E2">
+          <title>Exploratory Older Cognitively Healthy Subjects</title>
+          <description>Male or female subjects ≥50 years of age with MMSE ≥29</description>
+        </group>
+        <group group_id="E3">
+          <title>Exploratory MCI Subjects</title>
+          <description>Subjects with mild cognitive impairment consistent with National Institute of Aging (NIA)-Alzheimer's Association working group's diagnostic guidelines for AD (Albert et al. 2011) and MMSE ≥24</description>
+        </group>
+        <group group_id="E4">
+          <title>Exploratory AD Subjects</title>
+          <description>Subjects with possible or probable AD dementia based on the NIA-Alzheimer's Association working group's diagnostic guidelines for AD (McKhann et al. 2011) and MMSE &gt;10</description>
+        </group>
+        <group group_id="E5">
+          <title>Confirmatory Subjects MCI</title>
+          <description>Clinically diagnosed mild cognitive impairment with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+        <group group_id="E6">
+          <title>Confirmatory Subjects AD</title>
+          <description>Clinically diagnosed dementia with a suspected neurodegenerative cause with an MMSE score ≥20 and ≤27</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (20.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>angina pectoris</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0.5</frequency_threshold>
+        <default_vocab>MedDRA (20.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="21" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="13" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="13" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Angina pectoris</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Bradycardia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Supraventricular extrasystoles</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ocular hyperaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Cyanopsia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Eye irritation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Flatulence</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Frequent bowel movements</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Injection site pain</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="8" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="2" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="6" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Injection site extravasation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Application site irritation</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Application site laceration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Feeling abnormal</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Therapeutic response unexpected</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Blood pressure increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Blood pressure systolic increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Platelet count decreased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Heart rate increased</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Muscle spasms</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Pain in extremity</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="4" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Paraesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Amnesia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Disturbance in attention</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="2" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Head discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Hypoaesthesia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Memory impairment</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Somnolence</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title vocab="MedDRA (16.1)">Panic attack</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary incontinence</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dermatitis contact</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Rash papular</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title vocab="MedDRA (16.1)">Erythema</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="2" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+              <event>
+                <sub_title>Hot flush</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="16"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="58"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="98"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="98"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="62"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days. The sponsor cannot require changes to the communication and cannot extend the embargo.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Medical Director</name_or_title>
+      <organization>Avid Radiopharmaceuticals, Inc.</organization>
+      <phone>215-298-0700</phone>
+      <email>clinicaloperations@avidrp.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

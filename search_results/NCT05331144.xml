@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2919">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05331144</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STU-2021-1210</org_study_id>
+    <nct_id>NCT05331144</nct_id>
+  </id_info>
+  <brief_title>Impact of Intensive Treatment of SBP on Brain Perfusion, Amyloid, and Tau (IPAT Study)</brief_title>
+  <acronym>IPAT</acronym>
+  <official_title>Impact of Intensive Treatment of Systolic Blood Pressure on Brain Perfusion, Amyloid, and Tau in Older Adults (IPAT Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rong Zhang</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Texas Health Resources</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Michigan State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Texas Southwestern Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if intensive lowering of systolic blood pressure&#xD;
+      (SBP), using FDA approved medications (antihypertensive), reduces Alzheimer's Disease&#xD;
+      pathology (i.e., excessive brain amyloid and tau protein deposition) in older adults at high&#xD;
+      risk for memory decline or dementia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The IPAT study is a 2-arm open-label randomized controlled trial to assess the effects of&#xD;
+      intensive pharmacological reduction of high blood pressure (SBP) on brain amyloid and tau&#xD;
+      protein deposition (Alzheimer's Disease pathology) in older adults who are at high risk for&#xD;
+      AD and related dementias, that is, those who have high blood pressure, family history of&#xD;
+      dementia, or subjective memory complaints. Furthermore, IPAT will examine effects of&#xD;
+      intensive blood pressure lowering on brain volume, perfusion, and neural network connectivity&#xD;
+      using magnetic resonance imaging (MRI) and cognitive performance.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">June 1, 2027</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2027</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Brain Fibrillar Beta-Amyloid Protein (Aβ)</measure>
+    <time_frame>Baseline, 24 months</time_frame>
+    <description>Brain Aβ will be measured by annual change of amyloid mean cortical standardized uptake value ratio (SUVR) with positron emission tomography (PET).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Brain Tau Deposition</measure>
+    <time_frame>Baseline, 24 months</time_frame>
+    <description>Brain Tau Deposition will be measured by tau temporal meta-ROI composite with positron emission tomography (PET).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in regional Cerebral Blood Flow (CBF)</measure>
+    <time_frame>Baseline, 12 months, 24 months</time_frame>
+    <description>Regional CBF will be measured by MRI using arterial spin labeling.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in global Cerebral Blood Flow (CBF)</measure>
+    <time_frame>Baseline, 12 months, 24 months</time_frame>
+    <description>Global CBF will be measured by PC-MRI and 2D color-coded duplex ultrasonography.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Arterial Stiffness</measure>
+    <time_frame>Baseline, 12months, 4 months</time_frame>
+    <description>Central arterial stiffness (pulse wave velocity and carotid β-stiffness index) will be measured by artery applanation tonometry.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Amplitude of Low Frequency Fluctuations of Blood-Oxygen-Level-Dependent Signal (BOLD ALFF)</measure>
+    <time_frame>Baseline, 12 months, 24 months</time_frame>
+    <description>BOLD ALFF will be measured by resting state functional MRI (rs-fMRI).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in White Matter Hyperintensity Volume</measure>
+    <time_frame>Baseline, 12 months, 24 months</time_frame>
+    <description>White matter hyperintensity volume will be measured by MRI using 3D T2 FLAIR sequence .</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Brain Neural Network Connectivity</measure>
+    <time_frame>Baseline, 12 months, 24 months</time_frame>
+    <description>Brain neural network connectivity will be measured by rs-fMRI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Neurocognitive Function</measure>
+    <time_frame>Baseline, 12 months, 24 months</time_frame>
+    <description>A composite z score will be obtained by conversion of individual test scores of the Preclinical Alzheimer Cognitive Composite (PACC) and the NIH Toolbox Cognition Battery to standardized z scores, then averaged to assess changes in global cognitive function. Domain-specific z scores will be used to assess specific domains of cognitive function (i.e., memory, executive function, language etc.).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Cognitively Normal Older Adults</condition>
+  <condition>Hypertension</condition>
+  <condition>Subjective Cognitive Decline</condition>
+  <condition>Family History of Dementia</condition>
+  <arm_group>
+    <arm_group_label>Intensive Treatment (IT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Lowering SBP &lt; 120 mmHG</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care (UC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will follow their PCP's recommendations for BP control</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Angiotensin II Receptor Blockers (ARBs, losartan) and Calcium Channel Blockers (CCB, amlodipine)</intervention_name>
+    <description>Angiotensin II Receptor Blockers (ARBs, losartan) and Calcium Channel Blockers (CCB, amlodipine) will be used to treat high blood pressure. Additional antihypertensive medications may be used if needed.</description>
+    <arm_group_label>Intensive Treatment (IT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PCP</intervention_name>
+    <description>Participants will follow their PCP's recommendations for BP control.</description>
+    <arm_group_label>Usual Care (UC)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 60-80, all races/ethnicities, and both sexes are eligible;&#xD;
+&#xD;
+          -  a) A positive family history of dementia defined as having at least one first-degree&#xD;
+             relative with a history of AD or other type of dementia or&#xD;
+&#xD;
+          -  b) having subjective memory complaints defined as a positive answer to BOTH of the&#xD;
+             following questions:&#xD;
+&#xD;
+               1. &quot;Are you worried about your memory or thinking abilities?&#xD;
+&#xD;
+                  a) Not at all, b) A little bit, c) A lot&quot;; B and C - includes&#xD;
+&#xD;
+               2. &quot;Do you feel you have difficulty with your memory or thinking that is worse than&#xD;
+                  in the past?&quot; b) Yes or No; Yes - includes&#xD;
+&#xD;
+          -  Mini-Mental State Exam (MMSE) ≥ 26 to exclude gross dementia; based on clinical&#xD;
+             judgment, may be rescreened in ≥ 7 days;&#xD;
+&#xD;
+          -  Individuals with SBP ≥ 130 and SBP ≤ 180; Those on antihypertensives are eligible. If&#xD;
+             an individual, not treated for HTN, has a SBP ≥ 125 mmHg, consider rescreening after&#xD;
+             24 hours;&#xD;
+&#xD;
+          -  Willingness to be randomized into the treatment groups and ability to return to clinic&#xD;
+             for follow-up visits over 24 months;&#xD;
+&#xD;
+          -  Fluency in English or Spanish or both, adequate visual and auditory acuity to allow&#xD;
+             neuropsychological testing;&#xD;
+&#xD;
+          -  Participants must have a regular healthcare provider.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinically documented history of stroke, focal neurological signs or other major&#xD;
+             cerebrovascular diseases based on clinical judgment or MRI/CT scans such as evidence&#xD;
+             of infection, infarction, or other brain lesions;&#xD;
+&#xD;
+          -  Diagnosis of AD or other type of dementia, or significant neurologic diseases such as&#xD;
+             Parkinson's disease, seizure disorder, multiple sclerosis, history of severe head&#xD;
+             trauma or normal pressure hydrocephalus;&#xD;
+&#xD;
+          -  Evidence of severe major depression (GDS ≥ 12, may be rescreened after 12 weeks or&#xD;
+             longer if evidence of reactive depression or temporary mood disturbances) or&#xD;
+             clinically significant psychopathology, (e.g., psychosis and schizophrenia); if&#xD;
+             hospitalized in past year, can be rescreened in 6 months; or presence of a major&#xD;
+             psychiatric disorder that in the investigator's opinion, could interfere with&#xD;
+             adherence to research assessments or procedures.&#xD;
+&#xD;
+          -  Unstable heart disease based on clinical judgment (e.g., heart attack/cardiac arrest,&#xD;
+             cardiac bypass procedures within previous 6 months and congestive heart failure), or&#xD;
+             other severe medical conditions;&#xD;
+&#xD;
+          -  History of atrial fibrillation and evidence on ECG with any of the following: active&#xD;
+             symptoms of persistent palpitation, dizziness, history of syncope, chest pain,&#xD;
+             dyspnea, orthopnea, shortness of breath at rest, or paroxysmal nocturnal dyspnea&#xD;
+             within the past 6 months; resting heart rate of &lt; 30 or &gt; 110 bpm; taking class I or&#xD;
+             III antiarrhythmic drugs including flecainide, propafenone, dronedarone, sotalol,&#xD;
+             dofetilide, and amiodarone; or clinical concerns for safely participating in lowering&#xD;
+             blood pressure.&#xD;
+&#xD;
+          -  Systolic BP equal or greater than 180 mmHg and/or diastolic BP equal or greater than&#xD;
+             110 mmHg, may be rescreened in 1 week.&#xD;
+&#xD;
+          -  Orthostatic hypotension, defined as the third standing SBP &lt; 100mmHg, may be&#xD;
+             rescreened after 2 weeks;&#xD;
+&#xD;
+          -  History of significant autoimmune disorders such as systemic lupus erythematosus,&#xD;
+             rheumatoid arthritis or polymyalgia rheumatica;&#xD;
+&#xD;
+          -  Significant history of alcoholism or drug abuse within the last five years;&#xD;
+&#xD;
+          -  Uncontrolled diabetes mellitus, defined as hemoglobin A1C &gt; 6.5%, or requiring insulin&#xD;
+             treatment;&#xD;
+&#xD;
+          -  Clinically diagnosed and untreated sleep apnea;&#xD;
+&#xD;
+          -  Regularly smoking cigarettes within the past year;&#xD;
+&#xD;
+          -  Pacemaker or other medical device of metal that precludes performing MRI;&#xD;
+&#xD;
+          -  Women with a potential for pregnancy, lactation/childbearing (2 year post-menopausal&#xD;
+             or surgically sterile to be considered not childbearing potential);&#xD;
+&#xD;
+          -  Participant enrolled in another investigational drug or device study, either currently&#xD;
+             or within the past 2 months;&#xD;
+&#xD;
+          -  Severe obesity with BMI &gt; 40 ; clinical judgment should be applied in all cases to&#xD;
+             assess patient safety and anticipated compliance;&#xD;
+&#xD;
+          -  Allergy to angiotensin receptor blockers (ARBs), i.e., drugs that have a suffix&#xD;
+             &quot;-sartan&quot;; allergy to amlodipine;&#xD;
+&#xD;
+          -  Abnormal screening laboratory tests (e.g., liver ALT and AST &gt; 3 x ULN, GFR &lt; 30 or&#xD;
+             Hct &lt; 28%); may be rescreened after 2 weeks or longer;&#xD;
+&#xD;
+          -  A medical condition likely to limit survival to less than 3 years;&#xD;
+&#xD;
+          -  Participant has any condition(s) judged by the study investigator to be medically&#xD;
+             inappropriate, risky or likely to cause poor study compliance. For example:&#xD;
+&#xD;
+               1. Plans to move outside the clinic catchment area in the next 2 years;&#xD;
+&#xD;
+               2. Significant concerns about participation in the study from spouse, significant&#xD;
+                  other, or family members;&#xD;
+&#xD;
+               3. Lack of support from primary health care provider;&#xD;
+&#xD;
+               4. Residence too far from the study clinic site such that transportation is a&#xD;
+                  barrier including persons who require transportation assistance provided by the&#xD;
+                  study clinic funds for screening or randomization visits;&#xD;
+&#xD;
+               5. Residence in a nursing home; persons residing in an assisted living or retirement&#xD;
+                  community are eligible if they meet the other criteria;&#xD;
+&#xD;
+               6. Other medical, psychiatric, or behavioral factors that, in the judgment of the&#xD;
+                  site PI or clinician, may interfere with study participation or the ability to&#xD;
+                  follow the study Protocol.&#xD;
+&#xD;
+               7. Couples or significant partners who live together cannot be enrolled or&#xD;
+                  participate simultaneously in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rong Zhang, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas Southwestern Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Wanpen Vongpatanasin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Texas Southwestern Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David Zhu, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Michigan State University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tristyn Hall-Curtis, MBA</last_name>
+    <phone>2143454245</phone>
+    <email>TristynHall@texashealth.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tristyn Hall-Curtis, MBA</last_name>
+      <phone>214-345-4245</phone>
+      <email>TristynHall@texashealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Rong Zhang, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Wanpen Vongpatanasin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>April 8, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 8, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 15, 2022</study_first_posted>
+  <last_update_submitted>October 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Texas Southwestern Medical Center</investigator_affiliation>
+    <investigator_full_name>Rong Zhang</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Dementia</keyword>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Cognitive Function</keyword>
+  <keyword>Blood Pressure</keyword>
+  <keyword>Amyloid</keyword>
+  <keyword>Tau</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Losartan</mesh_term>
+    <mesh_term>Amlodipine</mesh_term>
+    <mesh_term>Calcium Channel Blockers</mesh_term>
+    <mesh_term>Angiotensin II</mesh_term>
+    <mesh_term>Giapreza</mesh_term>
+    <mesh_term>Calcium</mesh_term>
+    <mesh_term>Angiotensin Receptor Antagonists</mesh_term>
+    <mesh_term>Angiotensinogen</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>At the time of publication of the primary results or within 9 months of the database lock whichever comes first.</ipd_time_frame>
+    <ipd_access_criteria>The Study Steering Committee (SC) will review and approve the Data and Resource Sharing (DRS) requests from qualified investigators. A Material Transfer Agreement (MTA) and Data Use Agreement (DUA) will be in place with any academic group or scientists before any transfer of bio-samples or other data. Investigators receiving the data and/or samples will be required to abide by the conditions of these agreements. We will make the data and associated documentation available to other investigators only under a data-sharing agreement that provides for: (1) a commitment to using the data only for research purposes and not to identify any individual participant; (2) a commitment to securing the data using appropriate technology; and (3) a commitment to destroying or returning the data after analyses are completed.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

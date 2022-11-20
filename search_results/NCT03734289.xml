@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2715">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03734289</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-160819003</org_study_id>
+    <secondary_id>W81XWH-16-1-0527</secondary_id>
+    <nct_id>NCT03734289</nct_id>
+  </id_info>
+  <brief_title>Improving Family Quality of Life Through Training to Reduce Care-Resistant Behaviors by People With AD and TBI</brief_title>
+  <official_title>Improving Family Quality of Life Through Training to Reduce Care-Resistant Behaviors by People With Alzheimer Dementia and Traumatic Brain Injury (NeuroNS) Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To reduce care resistant behaviors (CRB) among people with dementia residing in nursing&#xD;
+      homes, to a distance-learning education, training, and coaching program for family caregivers&#xD;
+      of people with dementia or TBI; assess the efficacy of the intervention for reducing&#xD;
+      frequency or severity of CRB-triggered symptoms of agitation, aggression, and irritability;&#xD;
+      assess the efficacy of the intervention for improving quality of life of patients,&#xD;
+      caregivers, and families; and determine how patient and caregiver characteristics influence&#xD;
+      the effectiveness of the intervention.&#xD;
+&#xD;
+      5. Evaluate how the intervention affects the health care costs of people with dementia or&#xD;
+      TBI.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To address the previously unanswered question of whether theoretically-driven caregiver&#xD;
+      education and coaching in nonpharmacologic approaches to reduce care resistant behaviors as a&#xD;
+      trigger of behavioral and psychiatric symptoms of dementia (BPSD) and neuropsychiatric&#xD;
+      symptoms after Traumatic Brain Injury (NPTBI) will improve caregiver burden, quality of life&#xD;
+      (QOL), and related outcomes of patients with these conditions and their family members. The&#xD;
+      intervention of interest is the Neurobehavioral Non-Pharmacologic Supportive Strategies for&#xD;
+      Family Caregivers of Persons with Dementia or TBI (NeuroNS-Care). Behavioral symptoms in&#xD;
+      dementia and following TBI vary considerably over time, with a tendency toward spontaneous&#xD;
+      regression to the mean. Additionally, caregivers often develop idiosyncratic strategies in&#xD;
+      response to adverse behaviors that might be either adaptive or maladaptive. In order to&#xD;
+      separate the effects of time alone from the effects of the coaching intervention, one group&#xD;
+      will be randomized to delayed intervention following a 6 week wait time. This will allow the&#xD;
+      investigative team the opportunity to compare the natural history of the outcome variables in&#xD;
+      an &quot;untrained&quot; portion of the sample to the effects of training over a similar time period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 1, 2017</start_date>
+  <completion_date type="Actual">August 31, 2021</completion_date>
+  <primary_completion_date type="Actual">August 21, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Caregivers will be randomized in a 1:1 ratio for immediate intervention vs. a 6 week delayed intervention</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Zarit Burden Interview</measure>
+    <time_frame>Change from baseline to 6-month follow-up</time_frame>
+    <description>A measure of caregiver burden</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Dementia Quality of Life (DEMQOL/DEMQOL proxy)</measure>
+    <time_frame>Change from baseline through 6-month follow-up</time_frame>
+    <description>Measures of quality of life for the person with dementia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neuropsychiatric Inventory</measure>
+    <time_frame>Change from baseline through 6-month follow-up</time_frame>
+    <description>Measure of behavioral symptomsand caregiver distress</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Family Quality of Life (Dementia or TBI versions)</measure>
+    <time_frame>Change from baseline through 6-month follow-up</time_frame>
+    <description>Measures of family function and family-based quality of life</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Connor-Davidson Resilience Scale (CD-RISC)</measure>
+    <time_frame>Change from baseline through 6-month follow-up</time_frame>
+    <description>Measure of caregiver resilience</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">88</enrollment>
+  <condition>Dementia</condition>
+  <condition>Traumatic Brain Injury</condition>
+  <arm_group>
+    <arm_group_label>Immediate Coaching</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Immediately following randomization, online coaching sessions will occur weekly for 6 weeks. Web-based courses containing instructional materials that deal with preventing and reducing care resistant behavior (CRB) within intimate care (dressing, bathing, toileting) and treatment regimens (medication, therapeutic activities) after the initial study visit. The NeuroNS-Care intervention is an innovative distance-learning , internet based, family caregiver coaching program; one for the caregivers of persons with dementia and one for the caregivers of persons recovering from TBI. It will be delivered using Instructure's Canvas™ web-based platform.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Delayed Coaching</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>6 weeks following the initial visit, online coaching sessions will occur weekly for 6 weeks. Web-based courses containing instructional materials that deal with preventing and reducing care resistant behavior (CRB) within intimate care (dressing, bathing, toileting) and treatment regimens (medication, therapeutic activities) after the initial study visit. The NeuroNS-Care intervention is an innovative distance-learning , internet based, family caregiver coaching program; one for the caregivers of persons with dementia and one for the caregivers of persons recovering from TBI. It will be delivered using Instructure's Canvas™ web-based platform.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Caregiver Coaching</intervention_name>
+    <description>Online coaching sessions will occur weekly for 6 weeks. Web-based courses containing instructional materials that deal with preventing and reducing care resistant behavior (CRB) within intimate care (dressing, bathing, toileting) and treatment regimens (medication, therapeutic activities) after the initial study visit. The NeuroNS-Care intervention is an innovative distance-learning , internet based, family caregiver coaching program; one for the caregivers of persons with dementia and one for the caregivers of persons recovering from TBI. It will be delivered using Instructure's Canvas™ web-based platform.</description>
+    <arm_group_label>Delayed Coaching</arm_group_label>
+    <arm_group_label>Immediate Coaching</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        50 participants with possible or probable Alzheimer's disease dementia (of all severity&#xD;
+        stages) as defined by the NIA-Alzheimer's Association 2011 criteria will be enrolled, along&#xD;
+        with a family (i.e., unpaid) caregiver. A second cohort of 25 participants who have&#xD;
+        sustained moderate to severe TBI as diagnosed by UAB-TBIMS standards (generally Glasgow&#xD;
+        Coma Scale score of 12 or less at admission, cranial imaging with evidence of acute&#xD;
+        intracranial trauma, and/or post-traumatic amnesia duration of greater than 24 hours) ≥6&#xD;
+        months prior to study entry (and their caregivers) will be enrolled.&#xD;
+&#xD;
+        Entry is dependent on caregiver ratings on at least one of three behavioral domains of the&#xD;
+        Neuropsychiatric Inventory (NPI): 1) Agitation/Aggression, 2) Disinhibition, 3)&#xD;
+        Irritability /Lability. Based on standard scoring of the NPI, the caregiver must report all&#xD;
+        of these for at least one domain:&#xD;
+&#xD;
+          -  Frequency of &quot;Often&quot; (several times per week but less than every day) or more,&#xD;
+&#xD;
+          -  Severity of &quot;Moderate&quot; (stressful and upsetting; may require specific management) or&#xD;
+             higher&#xD;
+&#xD;
+          -  Distress of &quot;Moderate&quot; (fairly distressing, not always easy to cope with) or higher&#xD;
+&#xD;
+        The caregiver must also report that the adverse behavior is triggered by resistance to&#xD;
+        care-related activities, e.g., bathing, taking medications, attending health-care&#xD;
+        appointments, etc.&#xD;
+&#xD;
+        Additional inclusion criteria.&#xD;
+&#xD;
+          -  Age ranges AD: ≥ 50 years; TBI ≥ 19; Caregiver ≥18&#xD;
+&#xD;
+          -  Sex distribution: both men and women.&#xD;
+&#xD;
+          -  Race: any.&#xD;
+&#xD;
+          -  Health: generally healthy and ambulatory or ambulatory-aided (i.e., walker or cane).&#xD;
+             Vision and hearing (hearing aid permissible) sufficient for compliance with testing&#xD;
+             procedures, or participants who per clinician criteria are deemed eligible to&#xD;
+             participate in the study. .&#xD;
+&#xD;
+          -  Cognitive function and spoken/written English language skills sufficient to provide&#xD;
+             valid results on neuropsychological testing, or participants who per clinician&#xD;
+             criteria are deemed eligible to participate in the study.&#xD;
+&#xD;
+          -  Concomitant medications: Subjects may be on stable doses of any psycho-active agents&#xD;
+             for ≥30 days prior to screening and randomization.&#xD;
+&#xD;
+          -  Caregiver: unpaid person who provides support or supervision for at least 1&#xD;
+             instrumental activity of daily living for the affected person, with direct contact&#xD;
+             averaging ≥5 of every 7 days, and ≥21 hours weekly.&#xD;
+&#xD;
+          -  Access to high-speed/broad band internet service through home computer capable of&#xD;
+             operating &quot;Go-to-Meeting&quot; or equivalent conferencing software.&#xD;
+&#xD;
+        Exclusion criteria.&#xD;
+&#xD;
+          -  Absence of a reliable caregiver who is willing to participate and comply with protocol&#xD;
+             responsibilities (described below).&#xD;
+&#xD;
+          -  Evidence of other psychiatric/neurologic disorders sufficient to be the primary source&#xD;
+             of cognitive impairment (i.e., stroke, idiopathic Parkinson's disease, schizophrenia,&#xD;
+             bipolar or unipolar depression, seizure disorder).&#xD;
+&#xD;
+          -  Psychotic features (delusions or hallucinations) not adequately treated or not on&#xD;
+             stable medical therapy for these conditions 30 days prior to enrollment.&#xD;
+&#xD;
+          -  Current or recent (within the past 2 years) history of alcoholism or drug misuse.&#xD;
+&#xD;
+          -  Subject and/or caregivers who are unwilling or unable to fulfill the requirements of&#xD;
+             the study.&#xD;
+&#xD;
+          -  Any condition which would make the subject or the caregiver, in the opinion of the&#xD;
+             investigator, unsuitable for the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Geldmacher, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>October 9, 2018</study_first_submitted>
+  <study_first_submitted_qc>November 6, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 7, 2018</study_first_posted>
+  <last_update_submitted>October 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>David Geldmacher</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Brain Injuries</mesh_term>
+    <mesh_term>Brain Injuries, Traumatic</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

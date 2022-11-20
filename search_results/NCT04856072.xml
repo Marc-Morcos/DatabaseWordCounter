@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="185">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04856072</url>
+  </required_header>
+  <id_info>
+    <org_study_id>14-8162</org_study_id>
+    <nct_id>NCT04856072</nct_id>
+  </id_info>
+  <brief_title>Deep Brain Stimulation in Alzheimer's Disease: Biomarkers and Dose Optimization</brief_title>
+  <official_title>Deep Brain Stimulation of the Fornix in Alzheimer's Disease: Investigations Into Clinical and Imaging Biomarkers and Dose Optimization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Title:&#xD;
+&#xD;
+      Deep Brain Stimulation of the Fornix in Alzheimer's Disease: Investigating clinical and&#xD;
+      imaging biomarkers and dose optimization&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      To evaluate the influence of deep brain stimulation in Alzheimer's Disease (AD)on markers of&#xD;
+      AD pathology in cerebrospinal fluid (CSF) and on neuroimaging with positron emission&#xD;
+      tomography (PET) and to optimize electrical stimulation parameters.&#xD;
+&#xD;
+      Population size:&#xD;
+&#xD;
+      Twelve (12) patients will be recruited and enrolled in this study.&#xD;
+&#xD;
+      Study design:&#xD;
+&#xD;
+      This is a prospective, open-label trial designed to study the effect of brain stimulation on&#xD;
+      CSF and brain amyloid pathology in AD. In addition, patients will undergo neuropsychological&#xD;
+      testing at various stimulation settings to help determine optimal stimulation parameters.&#xD;
+&#xD;
+      Study duration:&#xD;
+&#xD;
+      Patients will complete screening and baseline assessments before undergoing DBS implantation&#xD;
+      surgery, after which they will be followed-up for 12 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background/Rationale:&#xD;
+&#xD;
+      Despite years of recognition and attempts at treatment, Alzheimer's Disease (AD) remains a&#xD;
+      pervasive and challenging condition, with an inexorable progression to severe disability and&#xD;
+      death once a diagnosis is made. The latest attempts at pharmacologic have yielded, at best,&#xD;
+      very modest results. There exists, therefore, no treatment for AD that significantly slows&#xD;
+      down its progression, and alters the metabolic milieu of AD brains.&#xD;
+&#xD;
+      We have conducted and published the world's first phase I safety and feasibility trial of&#xD;
+      deep brain stimulation (DBS) for early Alzheimer's Disease and the first Phase II randomized,&#xD;
+      placebo-controlled study of DBS in the same population. These trials have had the following&#xD;
+      three objectives: 1) establishing the safety of DBS in AD, 2) studying the possible slowing&#xD;
+      of cognitive decline in AD, and 3) studying the relationship between focal brain stimulation&#xD;
+      and metabolic changes in regions known to be affected by AD neurodegeneration.&#xD;
+&#xD;
+      With this background, we now want to continue and expand our DBS for AD trials. The rationale&#xD;
+      of the currently proposed study is to optimize patient selection and stimulation parameter&#xD;
+      dose for DBS for AD. We will measure the effects of DBS on brain amyloid load, on&#xD;
+      cerebrospinal fluid (CSF) Alzheimer protein metabolites and will screen various stimulation&#xD;
+      parameter settings for their acute effects on memory function. The latter will be used in an&#xD;
+      attempt to define the optimal stimulation dose.&#xD;
+&#xD;
+      The significance of this study is two-fold: 1) A possible demonstration that DBS may directly&#xD;
+      influence brain pathology in AD as measured by amyloid imaging and CSF protein changes, hence&#xD;
+      providing a mechanism of action for its clinical effects, and 2) the first study to&#xD;
+      empirically determine, using a memory task, the optimal stimulation parameters for DBS&#xD;
+      patients to improve memory function.&#xD;
+&#xD;
+      Study Objectives:&#xD;
+&#xD;
+        1. Influence of DBS on AD Pathology&#xD;
+&#xD;
+           Early results suggest that DBS may influence cognitive and memory functions in patients&#xD;
+           with early Alzheimer's Disease (AD). It is not clear, however, whether DBS can directly&#xD;
+           influence pathology in AD, such as CSF protein biomarkers and amyloid plaque load in the&#xD;
+           brain. The objective of this study is to analyze CSF and brain plaque load prior to and&#xD;
+           after surgery to determine whether DBS influences central nervous systems pathology&#xD;
+           associated with AD.&#xD;
+&#xD;
+        2. Dose Optimization&#xD;
+&#xD;
+      Currently, selecting the optimal stimulation dose for patients with non-motor conditions&#xD;
+      (i.e. Alzheimer's Disease, depression, obsessive-compulsive disorder) is performed largely&#xD;
+      arbitrarily, and borrows heavily from settings used in motor conditions (i.e. Parkinson's&#xD;
+      Disease, Tremor). The objective of this study is to establish a clinically meaningful dose&#xD;
+      optimization test that will use the patients' performance on an experimental memory task to&#xD;
+      determine the optimal stimulation settings.&#xD;
+&#xD;
+      Study Hypotheses:&#xD;
+&#xD;
+      Our study has the following exploratory hypotheses:&#xD;
+&#xD;
+      i. DBS may lead to changes in CSF biomarkers of AD pathology, including tau, phosphorylated&#xD;
+      tau, and beta amyloid, consistent with plaque clearance ii. DBS may lead to reductions in&#xD;
+      plaque burden, demonstrated by amyloid PET imaging iii. The optimal dose of brain&#xD;
+      stimulation, which maximizes benefits and minimizes adverse events, can be selected using an&#xD;
+      acute memory task performed in the post-operative period.&#xD;
+&#xD;
+      Design and Methodology:&#xD;
+&#xD;
+      This is an open-label, prospective trial designed to measure the influence of DBS on AD brain&#xD;
+      pathology and to optimize stimulation parameter selection post-operatively. Twelve (12)&#xD;
+      patients will be enrolled and operated, and followed in an open-label fashion. All subjects&#xD;
+      will be followed to a common closing date, which will be at the time the last subject&#xD;
+      enrolled is followed for 12 months.&#xD;
+&#xD;
+      Patient selection and enrollment:&#xD;
+&#xD;
+        1. Pre-treatment procedures&#xD;
+&#xD;
+           The schedule for individual subjects is outlined below in table format and is displayed&#xD;
+           in Figure 1 as a flowchart. This study is divided into four phases: screening, baseline,&#xD;
+           surgery, and on-stimulation. All patients will be recruited through the memory clinic at&#xD;
+           Toronto Western Hospital and local advertisements. Patients meeting inclusion/exclusion&#xD;
+           criteria will be approached for participation. There will be two distinct periods of&#xD;
+           informed consent in this study: the first, to allow study investigators to screen&#xD;
+           patients for study inclusion, and the second, to formally enroll patients into the&#xD;
+           study. Figure 1 outlines the process that will take place for identified patients and&#xD;
+           the estimated number of individual subjects at each stage.&#xD;
+&#xD;
+           Once patients are identified by the study neurologist, screening consent will be&#xD;
+           obtained. This consent will signal entrance into the first phase of the study, and&#xD;
+           indicates that the patient meets inclusion/exclusion criteria. During the screening&#xD;
+           visit, patients will undergo a medical history and general physical examination,&#xD;
+           medication screening, electrocardiogram, relevant pre-operative blood work,&#xD;
+           neuropsychological testing and psychiatric screening: the Alzheimer's Disease Assessment&#xD;
+           Scale-Cognitive Subscale(ADAS-Cog) Clinical Dementia Rating (CDR) scale,&#xD;
+           Neuropsychiatric Inventory (NPI), Columbia Suicide Severity Rating Scale (C-SSRS),&#xD;
+           Cornell Scale for Depression in Dementia (CSDD), Young Mania Rating Scale (YMRS), which&#xD;
+           will be used to classify participants by inclusion/exclusion criteria. Once the&#xD;
+           screening is complete, patients will be discussed by the study team to determine whether&#xD;
+           they should continue in the trial, and progress to the baseline stage.&#xD;
+&#xD;
+           The baseline stage will require an additional informed consent, as this stage signals&#xD;
+           entry into the formal trial. Baseline investigations will commence within 2 months of&#xD;
+           signing baseline consent, and can take place up to within 1 day of surgery&#xD;
+           (&quot;implantation&quot;). Baseline investigations will include all tests and examinations done&#xD;
+           during Screening (excepting the ECG), with the addition of: the Alzheimer's Disease&#xD;
+           Cooperative Study Activities of Daily Living Inventory 23-item Scale (ADCS-ADL23), the&#xD;
+           Hopkins Verbal Learning Test (HVLT), neuroimaging (MRI and Amyloid PET) as well as a&#xD;
+           lumbar puncture (LP) for AD protein markers. Participants will also complete acute&#xD;
+           experimental memory tasks that will be used in the 'dosing' phase, to familiarize them&#xD;
+           with the procedure. For these memory tasks, patients will view stimuli (e.g., objects,&#xD;
+           faces, scenes, words), and then be asked to remember them. In addition, an experimental&#xD;
+           visual associative recognition task, which is a simplified version of the one that was&#xD;
+           critical in identifying memory-specific effects in the sentinel case (Hamani et al&#xD;
+           2008), will be introduced at this stage.&#xD;
+&#xD;
+           Once all baseline investigations are complete, patients will be scheduled for surgery&#xD;
+           and implantation.&#xD;
+&#xD;
+        2. Treatment procedures - DBS surgery&#xD;
+&#xD;
+           DBS surgery will be performed as is done routinely and has been performed on the&#xD;
+           previous 18 patients with AD at our centre. Patients will arrive on the morning of&#xD;
+           surgery at the Toronto Western Hospital medical imaging department. They will have a&#xD;
+           small part of their head shaved and then have a stereotactic frame attached directly to&#xD;
+           their skull, after infiltration with local anaesthesia. The frame allows precise&#xD;
+           co-ordinates to be acquired so that deep brain structures can be targeted with implanted&#xD;
+           electrodes. The patient will then undergo an MRI scan (for surgical planning) with the&#xD;
+           frame in place, followed by transport directly to the operating room. The anaesthesia&#xD;
+           team will insert an intravenous line followed by induction and initiation of general&#xD;
+           anaesthesia (GA). The entire case, including electrode implantation and implantation of&#xD;
+           the pulse generator, will be done under general anaesthesia with the patient fully&#xD;
+           asleep. In the operating room the patient's head, via the frame, will be attached to the&#xD;
+           operating room table, and their scalp infiltrated with additional local anaesthetic. A&#xD;
+           skin incision will be made and two 2.5 mm diameter burr holes drilled through the skull.&#xD;
+           A DBS electrode will be delivered at the fornix target as identified on the MRI scan&#xD;
+           obtained earlier in the morning. The patient will be monitored throughout the entire&#xD;
+           case. Once implanted, the second stage of the operation with begin (about 30 min)&#xD;
+           whereby the electrodes are connected to a battery placed under the right collarbone.&#xD;
+           With the patient asleep, the electrodes are tunneled to the battery, and connected. Both&#xD;
+           the head and chest incisions are then closed and the patient transferred to the recovery&#xD;
+           room. Following surgery, the patient will be transferred to the neurosurgical ward for&#xD;
+           recovery. On the first post-op day, they will undergo an MRI of their brain to confirm&#xD;
+           the electrode location. Should the electrodes be in a suboptimal location (e.g. nearby&#xD;
+           but not within the target), patients will be offered several options: re-operation for&#xD;
+           lead repositioning, leave the system in place and turn device on, leave the system in&#xD;
+           place and keep device off, or removal of the system completely.&#xD;
+&#xD;
+           Recovery following surgery should take 1-2 days, and patients will be discharged home on&#xD;
+           post-op day 2, with the stimulator in the off position. Patients will return to the&#xD;
+           neurosurgical clinic two weeks after discharge to check the wound, remove staples, and&#xD;
+           for routine post-op follow-up.&#xD;
+&#xD;
+        3. Other Procedures&#xD;
+&#xD;
+      Beta-Amyloid Positron Emission Tomography (PET) scans. Beta-Amyloid PET scans will be used to&#xD;
+      estimate amyloid burden in the brains of the patients and to probe whether DBS has an impact&#xD;
+      on this process. Flutemetamol (GE Healthcare) is an FDA-approved amyloid PET radiotracer that&#xD;
+      has been approved by Health Canada for research use. PET scans will be performed on a Siemens&#xD;
+      HRRT scanner. During radiotracer uptake, patients will be maintained in a quiet, dimly lit&#xD;
+      room, with eyes open and ears unoccluded. Ninety minutes after a 5mCi ± 10% radiotracer&#xD;
+      injection, patients will be positioned in the scanner, and a 20-minute emission scan will be&#xD;
+      obtained, followed by a transmission scan.&#xD;
+&#xD;
+      Lumbar Puncture (LP) for protein analysis. The procedure is done with patients lying on their&#xD;
+      side. The skin is washed with sterilizing solution; 3 ml of local anesthetic is injected in&#xD;
+      the skin and subcutaneous tissue at the lumbar 4/5 level. 6 ml of CSF is removed and&#xD;
+      distributed in aliquots. The samples are immediately frozen and stored at -80C. CSF levels of&#xD;
+      Tau, phosphoTau and beta amyloid are determined by standard protein analysis. The analysis&#xD;
+      will be performed as per the Alzheimer's Disease Neuroimaging Initiative (ADNI) guidelines.&#xD;
+&#xD;
+      Stimulation dose finding studies. At the patient visits, the DBS will be programmed to test&#xD;
+      the effects of various stimulus settings on memory performance. Testing sessions will last up&#xD;
+      to 2.5 hours or less if, the patient becomes tired. Settings will be adjusted to ensure that&#xD;
+      the patients do not feel or experience adverse effects. Heart rate will be monitored during&#xD;
+      programming. Patients will be asked to perform a memory task at each of the tested settings&#xD;
+      to determine optimal setting during subsequent visits. This setting will remain stable until&#xD;
+      the next visit, at which time settings will again be evaluated and may be changed. For the&#xD;
+      memory tasks, patients will view stimuli (e.g., objects, faces, scenes, words), and will then&#xD;
+      be asked to remember the stimuli. Each test will last approximately 5-10 minutes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">December 19, 2014</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Group of 12 patients will be implanted with a deep brain stimulation system and followed up for a 12-month post-operative period.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Alzheimer's Disease Assessment Scale-Cognitive Subscale (ADAS-Cog)</measure>
+    <time_frame>Screening, Baseline, Post-Operative Months 1, 3, 6, 9, 12</time_frame>
+    <description>Cognitive abilities</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Clinical Dementia Rating (CDR) Scale</measure>
+    <time_frame>Screening, Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>Dementia staging, Minimum score of 0 (better) and Maximum score of 3 (worse)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in PET scan</measure>
+    <time_frame>Baseline, Post-Operative Months 6, 12</time_frame>
+    <description>Levels of amyloid beta in brain</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Cerebrospinal fluid (CSF) biomarkers for Alzheimer's disease</measure>
+    <time_frame>Baseline, Post-Operative Months 6, 12</time_frame>
+    <description>Levels of amyloid beta, tau proteins in CSF</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in MRI scan</measure>
+    <time_frame>Baseline, Post-Operative Months 6, 12</time_frame>
+    <description>Volumes of specified brain areas</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study Activities of Daily Living Inventory 23-item Scale (ADCS-ADL23)</measure>
+    <time_frame>Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>Ability to perform basic and instrumental daily activities, Minimum score of 0 (worse) and Maximum score of 78 (better)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hopkins Verbal Learning Test (HVLT)</measure>
+    <time_frame>Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>Memory for words</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Association Memory Test</measure>
+    <time_frame>Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>Memory for visual stimuli</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>Screening, Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>Evaluates level of neuropsychiatric symptoms</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Cornell Scale for Depression in Dementia (CSDD)</measure>
+    <time_frame>Screening, Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>Evaluates symptoms of major depressive disorder; qualitative (presence/absence of symptoms); Minimum score of 0 (better) and Maximum score of 2 (severe)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Columbia Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>Screening, Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>This scale is intended to be used by individuals who have received training in its administration. The questions contained in the Columbia-Suicide Severity Rating Scale are suggested probes. Ultimately, the determination of the presence of suicidal ideation or behavior depends on the judgment of the individual administering the scale.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Young Mania Rating Scale (YMRS)</measure>
+    <time_frame>Screening, Baseline, Post-Operative Months 3, 6, 9, 12</time_frame>
+    <description>Evaluates symptoms of mania. The scale contains 4 items rated from 0 to 8 points and 7 items rated from 0 to 4 points. Minimum score = 0 (better), maximum score = 60 (worse).</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will be implanted with a deep brain stimulation system and will receive personalized fornix stimulation; parameters will be selected based on the dose finding cognitive tests.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Deep Brain Stimulation</intervention_name>
+    <description>Personalized Deep Brain Stimulation of Fornix</description>
+    <arm_group_label>Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Informed consent signed by the subject AND a reliable caregiver&#xD;
+&#xD;
+          2. 45-85 years of age (inclusive)&#xD;
+&#xD;
+          3. Probable Alzheimer's disease according to the National Institute of Aging Alzheimer's&#xD;
+             disease Association criteria.&#xD;
+&#xD;
+          4. Clinical Dementia Rating (CDR) global rating of 0.5 or 1 at screening.&#xD;
+&#xD;
+          5. ADAS-cog-11 score of 12-30 inclusive at screening AND baseline (with a score ≥ 4 on&#xD;
+             ADAS-cog item 1) or a Mini Mental State Examination (MMSE) of 16-28.&#xD;
+&#xD;
+          6. If female, post-menopausal, surgically sterile or willing to use birth control methods&#xD;
+             for the duration of the study.&#xD;
+&#xD;
+          7. The patient has an available caregiver or other appropriate knowledgeable informant&#xD;
+             who can reliably report on daily activities and function and signs the informed&#xD;
+             consent for participation as such.&#xD;
+&#xD;
+          8. Patient is living at home and likely to remain at home for the study duration.&#xD;
+&#xD;
+          9. General Medical Health Rating (GMHR) ≥ 3 (good or excellent general health).&#xD;
+&#xD;
+         10. Patient must be a good surgical candidate for placement of a deep brain stimulator as&#xD;
+             judged by the DBS surgical team.&#xD;
+&#xD;
+         11. Fluency (oral and written) in the language in which standardized tests will be&#xD;
+             administered.&#xD;
+&#xD;
+         12. The patient is taking a stable dose of cholinesterase inhibitor (AChEI) medication&#xD;
+             (donepezil, galantamine, or rivastigmine) for at least 60 days prior to signing the&#xD;
+             informed consent form and there is no intention to modify the dose over the course of&#xD;
+             the study (NOTE: These medications may NOT be initiated, discontinued or modified&#xD;
+             after study initiation for the length of study participation).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Neuropsychiatric Inventory (NPI) total score ≥ 10 or score ≥ 4 in any NPI domain&#xD;
+             (clinically significant neuropsychiatric symptoms). Apathy score ≥ 4 acceptable.&#xD;
+&#xD;
+          2. Subjects at risk for suicide in the opinion of the investigator or the subject answers&#xD;
+             &quot;yes&quot; to &quot;Suicidal Ideation&quot; Item 4 or 5 on the C-SSRS (at time of evaluation) at the&#xD;
+             screening or baseline visit.&#xD;
+&#xD;
+          3. Cornell Scale for Depression and Dementia (CSDD) score &gt; 10 at the screening visit&#xD;
+&#xD;
+          4. Young Mania Rating Scale (YMRS) ≥ 11 at the screening visit&#xD;
+&#xD;
+          5. Current major psychiatric disorder such as schizophrenia, bipolar disorder or major&#xD;
+             depressive disorder based on psychiatric consult at screening visit&#xD;
+&#xD;
+          6. The subject has attempted suicide in the 2 years prior to signing the consent to&#xD;
+             participate in the study.&#xD;
+&#xD;
+          7. In the judgment of the investigator, the subject is at significant risk for suicidal&#xD;
+             behavior during the course of his/her participation in the study&#xD;
+&#xD;
+          8. History of head trauma in the 2 years prior to signing the consent to participate in&#xD;
+             the study&#xD;
+&#xD;
+          9. History of brain tumor, subdural hematoma, or other clinically significant (in the&#xD;
+             judgment of the investigator) space-occupying lesion on CT or MRI&#xD;
+&#xD;
+         10. Active psychiatric disorder&#xD;
+&#xD;
+         11. Mental retardation&#xD;
+&#xD;
+         12. Current alcohol or substance abuse as defined by Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR)&#xD;
+&#xD;
+         13. Contraindications for PET scanning (e.g., insulin dependent diabetes)&#xD;
+&#xD;
+         14. Contraindications for MRI scanning, including implanted metallic devices (e.g.&#xD;
+             non-MRI-safe cardiac pacemaker or neurostimulator; some artificial joints metal pins;&#xD;
+             surgical clips; or other implanted metal parts), or claustrophobia or discomfort in&#xD;
+             confined spaces.&#xD;
+&#xD;
+         15. Radiation exposure in the 1 year prior to signing the informed consent form that, in&#xD;
+             combination with the radiation exposure from this study, would exceed 5 rem.&#xD;
+&#xD;
+         16. Abnormal lab results that, in the opinion of the investigator and/or enrollment review&#xD;
+             committee, would preclude participation in the study.&#xD;
+&#xD;
+         17. Abnormal cardiovascular or neurovascular disorder that, in the opinion of the&#xD;
+             investigator and/or enrollment review committee, would preclude participation in the&#xD;
+             study.&#xD;
+&#xD;
+         18. Unstable dose of any medication prescribed for the treatment of memory loss or&#xD;
+             Alzheimer's disease.&#xD;
+&#xD;
+         19. Currently prescribed any non-AD medications that, in the opinion of the investigator&#xD;
+             and/or enrollment review committee, would preclude participation in the study.&#xD;
+&#xD;
+         20. Is unable or unwilling to comply with protocol follow-up requirements.&#xD;
+&#xD;
+         21. Has a life expectancy of &lt; 1 year.&#xD;
+&#xD;
+         22. Is actively enrolled in another concurrent clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andres Lozano, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Toronto Western Hospital, University Health Network</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5T 2S8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <reference>
+    <citation>Laxton AW, Tang-Wai DF, McAndrews MP, Zumsteg D, Wennberg R, Keren R, Wherrett J, Naglie G, Hamani C, Smith GS, Lozano AM. A phase I trial of deep brain stimulation of memory circuits in Alzheimer's disease. Ann Neurol. 2010 Oct;68(4):521-34. doi: 10.1002/ana.22089.</citation>
+    <PMID>20687206</PMID>
+  </reference>
+  <reference>
+    <citation>Lozano AM, Fosdick L, Chakravarty MM, Leoutsakos JM, Munro C, Oh E, Drake KE, Lyman CH, Rosenberg PB, Anderson WS, Tang-Wai DF, Pendergrass JC, Salloway S, Asaad WF, Ponce FA, Burke A, Sabbagh M, Wolk DA, Baltuch G, Okun MS, Foote KD, McAndrews MP, Giacobbe P, Targum SD, Lyketsos CG, Smith GS. A Phase II Study of Fornix Deep Brain Stimulation in Mild Alzheimer's Disease. J Alzheimers Dis. 2016 Sep 6;54(2):777-87. doi: 10.3233/JAD-160017.</citation>
+    <PMID>27567810</PMID>
+  </reference>
+  <reference>
+    <citation>Hamani C, McAndrews MP, Cohn M, Oh M, Zumsteg D, Shapiro CM, Wennberg RA, Lozano AM. Memory enhancement induced by hypothalamic/fornix deep brain stimulation. Ann Neurol. 2008 Jan;63(1):119-23. doi: 10.1002/ana.21295.</citation>
+    <PMID>18232017</PMID>
+  </reference>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>April 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2021</study_first_posted>
+  <last_update_submitted>May 16, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 16, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 17, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Health Network, Toronto</investigator_affiliation>
+    <investigator_full_name>Andres M. Lozano</investigator_full_name>
+    <investigator_title>Neurosurgeon</investigator_title>
+  </responsible_party>
+  <keyword>Deep Brain Stimulation</keyword>
+  <keyword>Biomarkers</keyword>
+  <keyword>Memory</keyword>
+  <keyword>Beta Amyloid</keyword>
+  <keyword>Limbic System</keyword>
+  <keyword>Fornix</keyword>
+  <keyword>Tau</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>As required for publication in a scientific journal.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

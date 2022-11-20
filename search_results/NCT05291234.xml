@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="67">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05291234</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M22-721</org_study_id>
+    <secondary_id>2022-500691-59-00</secondary_id>
+    <nct_id>NCT05291234</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess Safety of ABBV-916 and How Intravenous ABBV-916 Moves Through Body and Affects Brain Amyloid Plaque Clearance in Adult Participants (Aged 50-90 Years) With Early Alzheimer's Disease</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety, Efficacy, Pharmacokinetics and Pharmacodynamics of ABBV-916 in Subjects With Early Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease (AD) is a progressive, irreversible neurological disorder and is the most&#xD;
+      common cause of dementia in the elderly population. Clinical symptoms of the disease may&#xD;
+      begin with occasional forgetfulness such as misplacement of items, forgetting important dates&#xD;
+      or events, and may progress to noticeable memory loss, increased confusion and agitation, and&#xD;
+      eventually, loss of independence and non-responsiveness. This study will assess how safe and&#xD;
+      effective ABBV-916 is in treating early AD. Adverse events, change in disease activity, and&#xD;
+      how ABBV-916 moves through body of participants will be assessed.&#xD;
+&#xD;
+      ABBV-916 is an investigational drug being developed for the treatment of early AD. This study&#xD;
+      is conducted in 2 stages. Stage A is a multiple ascending dose study. There is a 1 in 4&#xD;
+      chance that participants are assigned to receive placebo. Stage B is a proof-of-concenpt&#xD;
+      study. In Stage B, there is a 1 in 5 chance that participants will be assigned to receive&#xD;
+      placebo. The first 6 months of this study are &quot;double-blind,&quot; which means that neither the&#xD;
+      trial participant nor the study doctors know which treatments will be given. This will be&#xD;
+      followed by a 2-year extension period in which all participants will receive ABBV-916.&#xD;
+      Approximately 195 participants aged 50-90 years will be enrolled in about 90 sites across the&#xD;
+      world.&#xD;
+&#xD;
+      Participants will receive intravenous (IV) doses of ABBV-916 or placebo once every 4 weeks&#xD;
+      (Q4W) for 24 weeks and will be followed for an additional 16 weeks.&#xD;
+&#xD;
+      There may be higher treatment burden for participants in this trial compared to their&#xD;
+      standard of care. Participants will attend regular visits during the study at a hospital or&#xD;
+      clinic. The effect of the treatment will be checked by medical assessments, magnetic&#xD;
+      resonance imaging (MRI), blood tests, checking for side effects and completing&#xD;
+      questionnaires.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 15, 2022</start_date>
+  <completion_date type="Anticipated">December 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Experiencing Adverse Events (AEs)</measure>
+    <time_frame>Up to approximately 160 weeks</time_frame>
+    <description>An adverse event (AE) is defined as any untoward medical occurrence in a clinical investigation participant administered a pharmaceutical product which does not necessarily have a causal relationship with this treatment. The investigator assesses the relationship of each event to the use of study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Maximum Observed Serum Concentration (Cmax) for Multiple Ascending Dose of ABBV-916</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>Cmax of ABBV-916 will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Time to Cmax (Tmax) for Multiple Ascending Dose of ABBV-916</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>Tmax of ABBV-916 will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Apparent Terminal Phase Elimination Rate Constant (β) of ABBV-916</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>Apparent terminal phase elimination rate constant (β) of ABBV-916 will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Terminal Phase Elimination Half-Life (t1/2) of ABBV-916</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>T1/2 of ABBV-916 will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Trough Serum Concentration (Ctrough) of ABBV-916 at the End of a Dosing Interval</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>Ctrough of ABBV-916 will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Area Under the Concentration-Time Curve (AUC) of ABBV-916</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>AUC of ABBV-916 will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Clearance (CL) of ABBV-916</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>Clearance (CL) of ABBV-916 will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Cerebrospinal Fluid (CSF) Concentration as a Measure of ABBV-916 Crossing the Blood Brain Barrier</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>The central value for ratio of ABBV-916 concentration in cerebrospinal fluid (CSF) to that in serum will be estimated for evaluation of the fraction of ABBV-916 crossing the blood brain barrier.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage A: Percentage of Participants With Antidrug Antibodies (ADA) as a Measure of Immunogenicity Following Multiple Ascending Dose of ABBV-916</measure>
+    <time_frame>Up to approximately 24 weeks</time_frame>
+    <description>Antidrug antibody (ADA) classification and titers for positive ADA samples will be determined.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Stage B: Change in Brain Amyloid Plaque Deposition (Amyloid Centiloid Value)</measure>
+    <time_frame>Baseline (Week 0) through Week 24</time_frame>
+    <description>Change from baseline in brain amyloid plaque deposition (amyloid centiloid value) is measured by amyloid positron emission tomography (PET) scan.</description>
+  </primary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">195</enrollment>
+  <condition>Alzheimer's Disease (AD)</condition>
+  <arm_group>
+    <arm_group_label>Stage A: ABBV-916</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive the same dose of ABBV-916 for 24 weeks. Participants at the end of 24 weeks will have the option of participating in the 2-year Extension Period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage A: Placebo for ABBV-916</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive Placebo for 24 weeks. Participants at the end of 24 weeks will have the option of participating in the 2-year Extension Period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage B: ABBV-916 Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-916 Dose A for 24 weeks. Participants at the end of 24 weeks will have the option of participating in the 2-year Extension Period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage B: Placebo for ABBV-916 Dose A</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive Placebo for 24 weeks. Participants at the end of 24 weeks will have the option of participating in the 2-year Extension Period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage B: ABBV-916 Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive ABBV-916 Dose B for 24 weeks. Participants at the end of 24 weeks will have the option of participating in the 2-year Extension Period.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stage B: Placebo for ABBV-916 Dose B</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive Placebo for 24 weeks. Participants at the end of 24 weeks will have the option of participating in the 2-year Extension Period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ABBV-916</intervention_name>
+    <description>Intravenous administration</description>
+    <arm_group_label>Stage A: ABBV-916</arm_group_label>
+    <arm_group_label>Stage B: ABBV-916 Dose A</arm_group_label>
+    <arm_group_label>Stage B: ABBV-916 Dose B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intravenous administration</description>
+    <arm_group_label>Stage A: Placebo for ABBV-916</arm_group_label>
+    <arm_group_label>Stage B: Placebo for ABBV-916 Dose A</arm_group_label>
+    <arm_group_label>Stage B: Placebo for ABBV-916 Dose B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Stage 3 or Stage 4 Alzheimer's disease (AD) based on the 2018 National&#xD;
+             Institute on Aging (NIA)-Alzheimer's Association (AA) Research Framework Criteria.&#xD;
+&#xD;
+               -  Mini-Mental State Examination (MMSE) score of 20 to 28, inclusive, at Screening.&#xD;
+&#xD;
+               -  Plasma Aβ42/Aβ40 value consistent with increased likelihood of positive amyloid&#xD;
+                  positron emission tomography (PET).&#xD;
+&#xD;
+          -  Amyloid PET scan results consistent with amyloid pathology.&#xD;
+&#xD;
+          -  Stage B: Participants must have a study partner who spends a minimum average of 10&#xD;
+             hours per week with the participant.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant pathological findings on brain MRI at screening including, but not limited&#xD;
+             to, evidence of vasogenic edema, 4 or more microhemorrhages, any macrohemorrhages, any&#xD;
+             superficial siderosis, or severe white matter disease.&#xD;
+&#xD;
+          -  Receiving anticoagulant therapy.&#xD;
+&#xD;
+          -  Presence of any superficial siderosis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>ABBVIE INC.</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ABBVIE CALL CENTER</last_name>
+    <phone>844-663-3742</phone>
+    <email>abbvieclinicaltrials@abbvie.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Barrow Neurological Institute /ID# 240388</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013-4407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tucson Neuroscience Research /ID# 244957</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85710-6152</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Research Center /ID# 245476</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92805</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Irvine Clinical Research /ID# 239469</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hoag Memorial Hospital Presbyterian - Newport Beach /ID# 244449</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Artemis Institute for Clinical Research - San Diego /ID# 244508</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103-2204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Research Network, Inc. /ID# 244083</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Syrentis Clinical Research /ID# 239682</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>California Neuroscience Research Medical Group, Inc. /ID# 245147</name>
+      <address>
+        <city>Sherman Oaks</city>
+        <state>California</state>
+        <zip>91403-2109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Medicine Neurology - Fairfield /ID# 245241</name>
+      <address>
+        <city>Fairfield</city>
+        <state>Connecticut</state>
+        <zip>06824-5340</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Aventura Neurological Associates /ID# 243892</name>
+      <address>
+        <city>Aventura</city>
+        <state>Florida</state>
+        <zip>33180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Coordinator</last_name>
+      <phone>833-732-2484</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research /ID# 239648</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research and Health Cen /ID# 245050</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012-4170</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research - Lady Lake /ID# 244657</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159-6340</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Coordinator</last_name>
+      <phone>352-268-7200</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>JEM Research Institute /ID# 239122</name>
+      <address>
+        <city>Lake Worth</city>
+        <state>Florida</state>
+        <zip>33462-1141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>K2 Medical Research /ID# 243919</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751-5669</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud - Maitland /ID# 244507</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ClinCloud LLC - Viera/Melbourne /ID# 240635</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Florida</state>
+        <zip>32940-8288</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Merritt Island Medical Research /ID# 239495</name>
+      <address>
+        <city>Merritt Island</city>
+        <state>Florida</state>
+        <zip>32952-3616</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Clinical Research Institute /ID# 244341</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Optimus U /ID# 245868</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125-4013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Finlay Medical Research /ID# 245996</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Allied Biomedical Res Inst Inc /ID# 244823</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Renstar Medical Research /ID# 240153</name>
+      <address>
+        <city>Ocala</city>
+        <state>Florida</state>
+        <zip>34470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>K2 Medical Research - Ocoee /ID# 246849</name>
+      <address>
+        <city>Ocoee</city>
+        <state>Florida</state>
+        <zip>34761-4547</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Headlands Research - Orlando /ID# 239119</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Coordinator</last_name>
+      <phone>407-705-3471</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Associates Ormond Beach /ID# 245527</name>
+      <address>
+        <city>Ormond Beach</city>
+        <state>Florida</state>
+        <zip>32174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Coordinator</last_name>
+      <phone>386-673-2500</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IMIC Inc. Medical Research /ID# 245900</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Research and Treatment Center - Stuart /ID# 245477</name>
+      <address>
+        <city>Stuart</city>
+        <state>Florida</state>
+        <zip>34997-5765</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimer's Research and Treatment Center - Wellington /ID# 245201</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <zip>33414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Site Coordinator</last_name>
+      <phone>5612092400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Premiere Research Institute - Palm Beach /ID# 240108</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407-3209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Site Partners (CSP) - Orlando /ID# 245127</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789-4681</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Conquest Research /ID# 243916</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research - Winter Park /ID# 244778</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32792-6707</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbus Memory Center /ID# 245054</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31909-1693</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CenExel iResearch, LLC /ID# 244037</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030-3440</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Coordinator</last_name>
+      <phone>404-537-1281</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>QUEST Research Institute /ID# 239459</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334-2977</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Arch Clinical Trials /ID# 245160</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63125-2408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Memory Research Institute of NJ /ID# 239533</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755-5043</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Bio Behavioral Health, Inc /ID# 244353</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755-6434</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neurological Associates of Albany /ID# 239493</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208-3464</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Syracuse /ID# 244550</name>
+      <address>
+        <city>East Syracuse</city>
+        <state>New York</state>
+        <zip>13057-9305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Site Coordinator</last_name>
+      <phone>315-760-5905</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AMC Research - NC /ID# 246113</name>
+      <address>
+        <city>Matthews</city>
+        <state>North Carolina</state>
+        <zip>28105-8335</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Diagnostics - South /ID# 244916</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45459-4296</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IPS Research Company /ID# 239471</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Central States Research /ID# 245352</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Keystone Clinical Studies LLC /ID# 239973</name>
+      <address>
+        <city>Plymouth Meeting</city>
+        <state>Pennsylvania</state>
+        <zip>19462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital /ID# 244386</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Neurology /ID# 244502</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas, Inc /ID# 244917</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Re:Cognition Health - Fairfax VA /ID# 239501</name>
+      <address>
+        <city>Fairfax</city>
+        <state>Virginia</state>
+        <zip>22031-5207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>National Clinical Research /ID# 244384</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwest Clinical Research Center /ID# 244294</name>
+      <address>
+        <city>Bellevue</city>
+        <state>Washington</state>
+        <zip>98007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Okanagan Clinical Trials /ID# 248023</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1Y 1Z9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centricity Research /ID# 247935</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3S 1N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Parkwood Institute /ID# 247919</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6C 0A7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Memory Program /ID# 244513</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B 2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AOU di Modena /ID# 246869</name>
+      <address>
+        <city>Modena</city>
+        <state>Emilia-Romagna</state>
+        <zip>41126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria Policlinico Umberto I /ID# 246956</name>
+      <address>
+        <city>Rome</city>
+        <state>Lazio</state>
+        <zip>00161</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Raffaele IRCCS /ID# 246951</name>
+      <address>
+        <city>Milan</city>
+        <state>Lombardia</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Spedali civili di Brescia /ID# 246876</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Istituto Centro San Giovanni di Dio Fatebenefratelli /ID# 246865</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Ca Granda Ospedale Maggiore Policlinico /ID# 246870</name>
+      <address>
+        <city>Milan</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Paolo Giaccone /ID# 246947</name>
+      <address>
+        <city>Palermo</city>
+        <zip>90127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Fatebenefratelli /Id# 246867</name>
+      <address>
+        <city>Roma</city>
+        <zip>00186</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital da Senhora da Oliveira Guimaraes, EPE /ID# 244639</name>
+      <address>
+        <city>Guimaraes</city>
+        <state>Braga</state>
+        <zip>4835-044</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CCA Braga - Hospital de Braga /ID# 244643</name>
+      <address>
+        <city>Braga</city>
+        <zip>4710-243</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro Hospitalar e Universitario de Coimbra, EPE /ID# 244633</name>
+      <address>
+        <city>Coimbra</city>
+        <zip>3000-075</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Unidade Local de Saúde de Matosinhos, EPE /ID# 244635</name>
+      <address>
+        <city>Matosinhos</city>
+        <zip>4464-513</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Campus Neurologico Senior Torres Vedras /ID# 244641</name>
+      <address>
+        <city>Torres Vedras</city>
+        <zip>2560-280</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari General de Catalunya /ID# 246726</name>
+      <address>
+        <city>Sant Cugat del Vallès</city>
+        <state>Barcelona</state>
+        <zip>08195</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Policlínica Gipuzkoa /ID# 246741</name>
+      <address>
+        <city>Donostia</city>
+        <state>Guipuzcoa</state>
+        <zip>20014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Quironsalud Madrid /ID# 246744</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Atención Especializada Oroitu /ID# 246732</name>
+      <address>
+        <city>Getxo</city>
+        <state>Vizcaya</state>
+        <zip>48993</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacio ACE /ID# 246689</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona /ID# 246743</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinico Universitario San Carlos /ID# 246730</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 de Octubre /ID# 246727</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Salamanca /ID# 246733</name>
+      <address>
+        <city>Salamanca</city>
+        <zip>37711</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Victoria Eugenia /ID# 248848</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Italy</country>
+    <country>Portugal</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>March 21, 2022</study_first_submitted>
+  <study_first_submitted_qc>March 21, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 22, 2022</study_first_posted>
+  <last_update_submitted>November 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease (AD)</keyword>
+  <keyword>Early Alzheimer's Disease</keyword>
+  <keyword>ABBV-916</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>AbbVie is committed to responsible data sharing regarding the clinical trials we sponsor. This includes access to anonymized, individual and trial-level data (analysis data sets), as well as other information (e.g., protocols, analyses plans, clinical study reports), as long as the trials are not part of an ongoing or planned regulatory submission. This includes requests for clinical trial data for unlicensed products and indications.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>For details on when studies are available for sharing visit https://vivli.org/ourmember/abbvie/</ipd_time_frame>
+    <ipd_access_criteria>Access to this clinical trial data can be requested by any qualified researchers who engage in rigorous independent scientific research, and will be provided following review and approval of a research proposal and statistical analysis plan and execution of a data sharing statement. Data requests can be submitted at any time after approval in the US and/or EU and a primary manuscript is accepted for publication. For more information on the process, or to submit a request, visit the following link https://www.abbvieclinicaltrials.com/hcp/data-sharing/</ipd_access_criteria>
+    <ipd_url>https://vivli.org/ourmember/abbvie/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

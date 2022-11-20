@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1413">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04602624</url>
+  </required_header>
+  <id_info>
+    <org_study_id>718-CNA-201</org_study_id>
+    <nct_id>NCT04602624</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety and Tolerability of SAGE-718 in Participants With Mild Cognitive Impairment or Mild Dementia Due to Alzheimer's Disease (AD)</brief_title>
+  <official_title>An Open-Label Evaluation of the Safety and Tolerability of SAGE-718 in Participants With Mild Cognitive Impairment or Mild Dementia Due to Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sage Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sage Therapeutics</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of this study is to evaluate the safety and tolerability of SAGE-718 and&#xD;
+      its effects on cognitive and neuropsychiatric symptoms in participants with mild cognitive&#xD;
+      impairment (MCI) or mild dementia due to Alzheimer's disease (AD).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 2, 2021</start_date>
+  <completion_date type="Actual">September 21, 2021</completion_date>
+  <primary_completion_date type="Actual">September 21, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Treatment-Emergent Adverse Events (TEAE)</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product that does not necessarily have a causal relationship with this treatment. A TEAE is an AE that occurs after the first administration of a study drug.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Clinically Significant Changes in Vital Signs Measurements</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Clinically Significant Changes in Laboratory Assessments</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Clinically Significant Changes in Electrocardiogram (ECG) Measurements</measure>
+    <time_frame>Up to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Change From Baseline Responses on the Columbia Suicide Severity Rating Scale (C-SSRS)</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>The C-SSRS scale consists of a baseline evaluation that assesses the lifetime experience of participants with suicidal ideation (SI) and suicidal behavior (SB) and a postbaseline evaluation that focuses on suicidality since the last study visit. The C-SSRS includes 'yes' or 'no' responses for assessment of suicidal ideation and behavior as well as numeric ratings for severity of ideation, if present (from 1 to 5, with 5 being the most severe).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Cognitive Dysfunction</condition>
+  <condition>Mild Dementia</condition>
+  <arm_group>
+    <arm_group_label>SAGE-718</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single dose of SAGE-718 oral tablets, once daily in the morning for 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SAGE-718</intervention_name>
+    <description>SAGE-718 oral tablets.</description>
+    <arm_group_label>SAGE-718</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Participant meets the following criteria for MCI or mild dementia due to AD at&#xD;
+             Screening: has a memory complaint, has clinical dementia rating (CDR) score of 0.5 to&#xD;
+             1.0 (inclusive) with a memory box score ≥0.5, has essentially preserved activities of&#xD;
+             daily living&#xD;
+&#xD;
+          2. Participant has a score of 15 to 24 (inclusive) on the Montreal Cognitive Assessment&#xD;
+             at Screening&#xD;
+&#xD;
+          3. Participant has normal premorbid intelligence quotient (IQ) at Screening&#xD;
+&#xD;
+          4. Participant has a study partner who is reliable, competent, at least 18 years of age,&#xD;
+             willing to be available to the study center by phone, support study-specific&#xD;
+             activities, and accompany the participant to study visits as needed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participant has any medical or neurological condition (other than AD) that might be&#xD;
+             contributing to the participant's cognitive impairment or history of cognitive decline&#xD;
+&#xD;
+          2. Participant has a history of brain surgery, deep brain stimulation, a significant head&#xD;
+             injury causing loss of consciousness greater than 30 minutes, or hospitalization due&#xD;
+             to a brain injury&#xD;
+&#xD;
+          3. Participant has a history, presence, and/or current evidence of a&#xD;
+             clinically-significant intracranial abnormality (eg, stroke, hemorrhage,&#xD;
+             space-occupying lesion) that could account for the observed cognitive impairment&#xD;
+             (excluding abnormalities consistent with underlying AD pathology)&#xD;
+&#xD;
+          4. Participant has a history of possible or probable cerebral amyloid angiopathy,&#xD;
+             according to the Boston Criteria&#xD;
+&#xD;
+          5. Participant has a history of seizures or epilepsy, with the exception of a single&#xD;
+             episode of febrile seizures in childhood&#xD;
+&#xD;
+          6. Participant has current or recent suicidality&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Redlands</city>
+        <state>California</state>
+        <zip>92374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Gaithersburg</city>
+        <state>Maryland</state>
+        <zip>20877</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sage Investigational Site</name>
+      <address>
+        <city>North Canton</city>
+        <state>Ohio</state>
+        <zip>44720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>October 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2020</study_first_posted>
+  <disposition_first_submitted>September 21, 2022</disposition_first_submitted>
+  <disposition_first_submitted_qc>September 21, 2022</disposition_first_submitted_qc>
+  <disposition_first_posted type="Actual">September 28, 2022</disposition_first_posted>
+  <last_update_submitted>September 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Data sharing will be consistent with the results submission policy of ClinicalTrials.gov.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted, but a results disposition has been submitted           -->
+</clinical_study>
+

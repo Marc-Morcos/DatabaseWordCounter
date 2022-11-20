@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="517">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04994847</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIH-APOE-R01-001</org_study_id>
+    <nct_id>NCT04994847</nct_id>
+  </id_info>
+  <brief_title>APOE in the Predisposition to, Protection From, and Prevention of Alzheimer's Disease</brief_title>
+  <official_title>APOE in the Predisposition to, Protection From, and Prevention of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Banner Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Banner Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to track changes in the brain related to Alzheimer's disease.&#xD;
+      The results from this study will be used to develop new approaches to prevent or delay the&#xD;
+      onset of memory and thinking problems associated with Alzheimer's.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aims to establish, use, and extensively share a comprehensive longitudinal&#xD;
+      resource of genetic, non-genetic, and cognitive data, brain imaging and fluid biomarker&#xD;
+      measurements of amyloid-β, tau pathophysiology, neurodegeneration, and inflammation and&#xD;
+      biological samples to advance the study of cognitively unimpaired older adults at six levels&#xD;
+      of genetic risk for Alzheimer's disease due to their APOE genotype including understudied&#xD;
+      APOE2 and APOE4 homozygotes (HMs) at the lowest and highest risk and those APOE4 HMs and&#xD;
+      heterozygotes (HTs) who remain unimpaired at older ages due to unknown protective factors and&#xD;
+      spared pathophysiological effects despite their genetic risk.&#xD;
+&#xD;
+      Each participant will provide blood samples for clinical lab analysis, DNA, RNA, plasma,&#xD;
+      serum, and peripheral blood mononuclear cells (PBMCs) every 12 months; amyloid and tau PET&#xD;
+      scans, a nearly one hour battery of MRIs, a lumbar puncture (LP) for the collection of CSF&#xD;
+      samples, and a comprehensive battery of cognitive, behavioral, risk factor, and other&#xD;
+      assessments every 24 months. Extracted DNA will be used to characterize the participant's&#xD;
+      APOE genotype, screen for rare APOE variants that might make them eligible for other studies,&#xD;
+      and perform whole genome sequencing (WGS) and genome-wide genotyping.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2026</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Amyloid PET Scan</measure>
+    <time_frame>5 years</time_frame>
+    <description>The study will acquire NAV4694, a radiotracer specific to amyloid, PET scans to monitor total amyloid levels in the brain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tau PET Scan</measure>
+    <time_frame>5 years</time_frame>
+    <description>The study will acquire MK6240, a radiotracer specific to Tau, PET scans to monitor total tau levels in the brain.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI</measure>
+    <time_frame>5 years</time_frame>
+    <description>The study will acquire 3T MRI to look at brain volume</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>APOE Unimpaired Observational Trial</arm_group_label>
+    <description>300 participants who are cognitively unimpaired; Yearly procedures: blood draw Every Two Year Procedures: cognitive and clinical assessments, CSF collection, MRI, and Tau and Amyloid PET scans</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amyloid and Tau PET</intervention_name>
+    <description>NAV4694 and MK6240 PET scans completed every two years</description>
+    <arm_group_label>APOE Unimpaired Observational Trial</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood will be collected annually and CSF collected every two years.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        For the Arizona APOE Cohort, we will establish a new longitudinal cohort of 300 cognitively&#xD;
+        unimpaired males and non-pregnant females, 50-90 years of age at the time of enrollment who&#xD;
+        will be enrolled based on their APOE genotype, age, other eligibility criteria, consent to&#xD;
+        participate in virtually all study procedures, and consent to provide a shared resource of&#xD;
+        anonymized data and biological samples for the research community. Participants will&#xD;
+        include 50 individuals with each of the six common APOE genotypes (known as 2/2, 2/3, 3/3,&#xD;
+        2/4, 3/4, and 4/4) who are matched by age decile, sex, and educational level. Participants&#xD;
+        will not receive information about their APOE genotype from this project97 and will be&#xD;
+        studied under the auspicious of a single Institutional Review Board (IRB).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female age 50 to 90 years old in good general health with no diseases expected&#xD;
+             to interfere with the study.&#xD;
+&#xD;
+          -  Willing to undergo health and cognitive assessments, brain imaging sessions (MRI and&#xD;
+             PET), and collection and banking of blood with venipuncture and CSF by lumbar puncture&#xD;
+             for genetic research, biomarker research, and DNA banking.&#xD;
+&#xD;
+          -  Determined to be cognitively unimpaired by PI (mechanisms may include verbal&#xD;
+             interview, participant or study partner reports or specific scores on cognitive&#xD;
+             assessments)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with significant health issues or medical diseases that may interfere&#xD;
+             with participation, including infectious diseases that pose a risk to study personnel.&#xD;
+&#xD;
+          -  For PET or MRI: Female participant who is pregnant, lactating, or of childbearing&#xD;
+             potential without a negative pregnancy test or being two years postmenopausal or&#xD;
+             surgically sterile.&#xD;
+&#xD;
+          -  For MRI: Any contraindication for MRI including, but not limited to, pacemaker,&#xD;
+             aneurysm clips, artificial heart valves, ear implants, metal fragments or foreign&#xD;
+             objects in the eyes, skin, or body.&#xD;
+&#xD;
+          -  For CSF collection: Medical or surgical contraindication for lumbar puncture (e.g. on&#xD;
+             anti-coagulant therapy or had prior lumbar spinal surgery).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jennifer Craig-Muller</last_name>
+    <phone>602.839.6538</phone>
+    <email>jennifer.craig-muller@bannerhealth.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katie DeMarco</last_name>
+      <phone>602-839-2033</phone>
+      <email>Kathryn.DeMarco@bannerhealth.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>June 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 6, 2021</study_first_posted>
+  <last_update_submitted>July 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Disease Susceptibility</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

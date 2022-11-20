@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1330">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05569083</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20RSVB</org_study_id>
+    <nct_id>NCT05569083</nct_id>
+  </id_info>
+  <brief_title>PRedicting the EVolution of SubjectIvE Cognitive Decline to Alzheimer's Disease With Machine Learning</brief_title>
+  <acronym>PREVIEW</acronym>
+  <official_title>PRedicting the EVolution of SubjectIvE Cognitive Decline to Alzheimer's Disease With Machine Learning</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Azienda Ospedaliero-Universitaria Careggi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Fondazione Don Carlo Gnocchi Onlus</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Florence</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Scuola Superiore Sant'Anna di Pisa</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Azienda Ospedaliero-Universitaria Careggi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease (AD) has a presymptomatic course which can last from several years to&#xD;
+      decades. Identification of subjects at an early stage is crucial for therapeutic intervention&#xD;
+      and possible prevention of cognitive decline. Current research is focused on identifying&#xD;
+      characteristics of the early stages of AD and several concepts have been developed to that&#xD;
+      end.&#xD;
+&#xD;
+      Subjective cognitive decline (SCD) is defined as a self-experienced persistent decline in&#xD;
+      cognitive capacity in comparison with the subject's previously normal status, during which&#xD;
+      the subject has normal age-, gender-, and education-adjusted performance on standardized&#xD;
+      cognitive tests. SCD is not related to current cognitive impairment, however it has been&#xD;
+      considered for its potential role as risk factors for AD.&#xD;
+&#xD;
+      The aim of this study is to evaluate, through machine learning tools, the accuracy data,&#xD;
+      neuropsychological assessment, personality traits, cognitive reserve, genetic factors,&#xD;
+      cerebrospinal fluid (CSF) neurodegeneration biomarkers, EEG and Event Related Potential&#xD;
+      recordings in predicting conversion from SCD condition, to Mild Cognitive Impairment (MCI)&#xD;
+      and AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Regional Reference Center for Alzheimer's Disease and Cognitive Disorders of Careggi&#xD;
+      Hospital, Florence, started about 25 years ago to collect clinical, neuropsychological,&#xD;
+      personality and lifestyles data for patients with of Subjective Cognitive Decline (SCD).&#xD;
+      Starting from these data the aim of the present study is to increase the number of variables&#xD;
+      collected on SCD subjects and expand the clinical follow-up to delineate more accurate&#xD;
+      pathway of disease and to identify very early subject at risk of conversion in Alzheimer's&#xD;
+      Disease (AD).&#xD;
+&#xD;
+      The advantages of detection of cognitive impairment at the early stages are critical. Such&#xD;
+      detection has traditionally been performed manually by one or more clinicians based on&#xD;
+      reports and test results. Machine learning algorithms offer a method of detection that may&#xD;
+      provide an automated process and valuable insights into diagnosis and classification. With&#xD;
+      this tool clinicians could design optimal screenings to predict, already at the stage of SCD,&#xD;
+      possible evolutions of the patient's conditions, and, through decisional protocols, establish&#xD;
+      the degree of appropriateness of the investigations/exam to perform for each patient, based&#xD;
+      on current state of risk.&#xD;
+&#xD;
+      The aim of this study is to evaluate, through machine learning tools, the accuracy of&#xD;
+      clinical data, neuropsychological assessment, personality traits, cognitive reserve, genetic&#xD;
+      factors, cerebrospinal fluid (CSF) neurodegeneration biomarkers and features from EEG and&#xD;
+      event-related potentials (ERP) in predicting conversion from SCD condition, to Mild Cognitive&#xD;
+      Impairment (MCI) and AD.&#xD;
+&#xD;
+      All participants will undergo a comprehensive familial and clinical history, general and&#xD;
+      neurological examination, extensive neuropsychological battery (about 19 tests exploring all&#xD;
+      cognitive domains: memory, attention, executive functions, language, praxis), estimation of&#xD;
+      premorbid intelligence (TIB - Test di Intelligenza Breve, an Italian version of the National&#xD;
+      Adult Reading Test - NART), personality traits (Big Five Factors Questionnaire - BFFQ), and&#xD;
+      leisure activities evaluation (structured interviewed regarding participation in&#xD;
+      intellectual, sporting and social activities) as well as assessment of depression (Hamilton&#xD;
+      Depression Rating Scale - HDRS). Moreover, all patients will undergo a CSF analysis to assess&#xD;
+      established biomarkers (Aβ42, total tau, p-tau) and blood samples for DNA analysis will be&#xD;
+      collected to identify the Apolipoprotein E (APOE) and brain-derived neurotrophic factor&#xD;
+      (BDNF) genotypes. In particular, will be analyzed three different single nucleotide&#xD;
+      polymorphisms (SNPs):&#xD;
+&#xD;
+        -  BDNF SNP Val66Met (valine-methionine substitution) was already associated with poorer&#xD;
+           episodic memory and abnormal hippocampal activation assayed with MRI&#xD;
+&#xD;
+        -  APOE gene rs429358 and rs7412 that are involved in the Amyloid plaque formation Only&#xD;
+           clinical and neuropsychological assessment are repeated yearly in order to evaluate&#xD;
+           progression of decline.&#xD;
+&#xD;
+      The sub-sample will be selected including all new cases of SCD included in the study (about&#xD;
+      50), all subjects converted to MCI (about 25), and all patients, already studied, who report&#xD;
+      a subjective cognitive disorder for less than 10 years (about 75).&#xD;
+&#xD;
+      This selected sub-sample will also perform additional investigations: CSF biomarkers, resting&#xD;
+      state EEG recordings and ERP registration.&#xD;
+&#xD;
+      For about 150 subject the EEG activity will be recorded. The participants will be&#xD;
+      administered an ERP test battery with concurrently recorded EEG. Analysis of EEG data, in&#xD;
+      particular, will start with a standardized early-stage EEG processing pipeline (PREP&#xD;
+      Pipeline) focusing on high-filtering at 1 Hz, the identification of bad channels and the&#xD;
+      calculation of a robust average reference. The investigators will perform signal epoching&#xD;
+      using fixed length epochs for resting state measurements, and stimulus-locked epochs for&#xD;
+      signals acquired during tasks. Epochs containing artifactual signal will be removed with a&#xD;
+      semi-automatic procedure. The investigators will then apply independent component analysis&#xD;
+      (ICA) to the data, followed by a semiautomatic detection of artifactual components based on&#xD;
+      measures of autocorrelation, correlation with EOG electrode, focal channel topography and&#xD;
+      quality of mono-source dipole fitting. Finally, the investigators will compute power features&#xD;
+      at the sensor space, i.e. frequency bands powers, and linear/non-linear functional&#xD;
+      connectivity metrics, i.e. direct transfer function and mutual information, at the source&#xD;
+      level after a source reconstruction procedure, i.e. Low Resolution Brain Electromagnetic&#xD;
+      Tomography (LORETA) method (Pascual-Marqui et, al 2002).&#xD;
+&#xD;
+      Machine learning analysis will proceed as follows. The first analysis will include all the&#xD;
+      patients that were diagnosed with SCD in the preliminary work. The investigators will define&#xD;
+      a set of multi-modal features including all the 19 neuropsychological tests, a selection of&#xD;
+      the personality assessments and the genetic profile. The investigators will define a common&#xD;
+      metrics based on the dispersion of each single dimension of the profile and then they will&#xD;
+      train a machine learning algorithm to associate each profile &quot;vector&quot; to the associated&#xD;
+      evolution of the disease after a fixed time (at first the possible categories will be only&#xD;
+      SCD, MCI, AD with no further sublevels, but this can be improved in further rounds). First,&#xD;
+      the investigators will perform this classification with standard machine learning procedures&#xD;
+      as support vector machine (SVM, using binary decisions trees) and k-nearest neighbors (kNN).&#xD;
+      Then they will exploit the fact that neurophysiological assessments are repeated yearly (see&#xD;
+      above) to use the SuStaIn algorithm previously applied to neuroimaging data (see state of the&#xD;
+      art and Young 2018). Briefly, the algorithm z-scores each dimension of the profile and models&#xD;
+      with a piece-wise linear function the different paths of accumulations of each marker, i.e.&#xD;
+      the progression from healthy to abnormal values. This approach does not only outperform&#xD;
+      standard algorithms in predicting the final condition of the subjects based on the starting&#xD;
+      profile but highlight the different paths that can lead to the same outcome. In a separate&#xD;
+      set of analysis, the investigators will follow a deep learning approach, using exactly the&#xD;
+      same subject profiles to train a multi-level feedforward artificial neural network (ANN)&#xD;
+      predicting the condition of the patient after a fixed time. The networks will be trained with&#xD;
+      standard gradient descent and backpropagation techniques and by means of dropout and batch&#xD;
+      normalization procedures the investigators will obtain robust automatic classification&#xD;
+      results. Comparing SuStaIn and ANN classification performance they will decide the most&#xD;
+      convenient approach for the task. Moreover, they will apply standard dimensionality reduction&#xD;
+      techniques to extract the most salient features and repeat the procedure described above to&#xD;
+      assess whether it is possible to achieve the same results with a subset of the screenings.&#xD;
+&#xD;
+      The selected approach will be then repeated to the novel patients recruited during PREVIEW&#xD;
+      and those undergoing follow up analysis during the project. The only difference will be the&#xD;
+      novel set of factors included in the analysis, including all the data used in the first&#xD;
+      version but also BDNF, CSF biomarkers, and the novel features extracted from resting state&#xD;
+      EEG recordings and ERP. This will require defining a second multi-modal metrics across all&#xD;
+      features, and a consequent reshaping and retraining of the machine learning network. As&#xD;
+      described above, even for the second version of the algorithm the investigators will aim at&#xD;
+      defining the minimal set of features achieving the optimal performance. The final outcome of&#xD;
+      the algorithm will provide a prediction of the evolution of the condition for each patient&#xD;
+      based on his/her complete profile.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Anticipated">March 30, 2024</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical diagnosis of MCI in patients diagnosed with SCD</measure>
+    <time_frame>three years</time_frame>
+    <description>Patients diagnosed with SCD at baseline will be followed-up every six months by neurological evaluation and every twelve months by neuropsychological examination in order to detect progression to MCI according to National Institute on Aging and Alzheimer's Association (NIA-AA) criteria (Albert et al. 2011)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical diagnosis of AD in patients diangosed with SCD and MCI</measure>
+    <time_frame>three years</time_frame>
+    <description>Patients diagnosed with SCD or MCI at baseline will be followed-up every six months by neurological evaluation and every twelve months by neuropsychological examination in order to detect progression to AD according to NIA-AA criteria (Mc Khann et al. 2011)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Variations in neuropsychological scores</measure>
+    <time_frame>three years</time_frame>
+    <description>All included patients will be evaluated every 12 months by extensive neuropsychological examinations in order to identify variations in cognitive performances.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">350</enrollment>
+  <condition>Cognitive Decline</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+    <description>Patients complaining about cognitive decline with normal functioning on the activities of daily living and unsatisfied criteria for MCI or dementia at baseline.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <description>Patients diagnosed with MCI</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy controls</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Genetic analysis of APOE and BDNF genes.</intervention_name>
+    <description>The three SNPs (rs429358, rs7412 and rs6265 on APOE and BDNF genes respectively) will be analyzed by the polymerase chain reaction (PCR) on genomic DNA and with the analysis of melting curves (HRMA) using the Rotor-Gene 6,000 (Rotor-Gene, Corbett Research, Mortlake, Australia).</description>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>EEG recording</intervention_name>
+    <description>The EEG activity will be recorded continuously from 19 sites by using electrodes set in an elastic cap and positioned according to the 10-20 international system. The recording will be referenced to the common average of all electrodes, excluding Fp1 and Fp2. Re-referencing will be done prior to the EEG artifact detection and analysis. Data will be recorded with a band-pass filter of 0.3-70 Hz and digitized at a sampling rate of 512 Hz and analogue-digital precision was 16 bits (Gal-Nt, EbNeuro®, Florence, Italy). Horizontal and vertical eye movements will be detected by electrooculogram (EOG). Subjects will be sat in a reclined chair for approximately 20 min. Data will be collected at a sampling rate of 256 Hz, with a common mode rejection ratio of 105 dB (decibel), and the following band pass characteristics: 0.1 Hz high-pass filter, 100 Hz fifth order low-pass filter.</description>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>CSF collection and AD biomarker measurement</intervention_name>
+    <description>The CSF samples will be collected by lumbar puncture, immediately centrifuged and stored at -80 °C until performing the analysis. Aβ42, Aβ42/Aβ40 ratio, t-tau, and p-tau will be measured using a chemiluminescent enzyme immunoassay (CLEIA) analyzer LUMIPULSE® G600 (Fujirebio, Tokyo, Japan).</description>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Neuropsychological evaluation</intervention_name>
+    <description>For extensive neuropsychological evaluation the investigators will use the following tools: global measurements (MMSE, Information-Memory-Concentration Test), tasks exploring verbal and spatial short- and long-term memory (Digit Span, Corsi Tapping Test, Five Words and Paired Words Acquisition and Recall after 10 min and 24 hr, Short Story Immediate and Delayed Recall), prospective memory (Rivermead Behavioral Memory Test), attention (Trail Making Test A, Dual Task), language (Token Test, naming pictures, Category Fluency Task, Phonemic Fluency Task), constructional praxis (Copying Drawings and Rey-Osterrieth complex figure) and executive function (Trail Making Test B, Stroop Test, Frontal Assessment Battery, Weigl Test).&#xD;
+To assess independent living skills, the investigators will use two structured interview: Activities of Daily Living Scale (ADL) and Instrumental Activities of Daily Living Scale (IADL).</description>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Assessment of cognitive reserve, depression, personality traits and leisure activities</intervention_name>
+    <description>In order to estimate premorbid intelligence, all cases will perform TIB test (Test di Intelligenza Breve), an Italian version of the National Adult Reading Test (NART).&#xD;
+To assess personality traits of the subjects, the investigators will use the Big Five Factors Questionnaire (BFFQ), that measures the five factors of emotional stability, energy, conscientiousness, agreeableness and openness to culture and experience.&#xD;
+For cognitive reserve. subjects will perform structured interviewed regarding participation in intellectual, sporting and social activities, in the course of their life.&#xD;
+The presence of depressive symptoms will be evaluated by means of the 22-item Hamilton Depression Rating Scale (HDRS).</description>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Clinical-neuropsychological follow-up</intervention_name>
+    <description>For follow-up assessment, each subject will perform a complete clinical evaluation, an extensive neuropsychological evaluation (27 test), assessment of independent living skills (ADL and IADL), estimation of premorbid intelligence (TIB test) and scale for depression (Hamilton Depression Rating Scale - HDRS).</description>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ERP recording</intervention_name>
+    <description>For ERP acquisition the same EEG system that was used for EEG data acquisition will be used. The participants will be administered an ERP test battery with concurrently recorded EEG consisting of a 3-choice vigilance task (3CVT) designed to evaluate sustained attention and standard image recognition memory task (SIR) designed to evaluate attention, encoding, and image recognition memory. In the SIR, images will be chosen as stimuli to distinguish short term from semantic memory loss and extend previous results of image recognition ERP effects.</description>
+    <arm_group_label>Healthy controls</arm_group_label>
+    <arm_group_label>Patients with Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Patients with Subjective Cognitive Decline</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      CSF biomarkers, whole blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The investigators will include in the study, consecutive spontaneous subjects who&#xD;
+        self-referred to the Centre for Alzheimer's Disease and Adult Cognitive Disorders of&#xD;
+        Careggi Hospital in Florence.&#xD;
+&#xD;
+        The investigators will include in the study 300 patients with SCD already selected and&#xD;
+        evaluated one time (baseline) or more (follow-up) in our clinic, and they will increase the&#xD;
+        baseline sample by adding new subjects with SCD or MCI.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Complaining of cognitive decline with a duration of ≥ 6 months;&#xD;
+&#xD;
+          -  Normal functioning on the Activities of Daily Living and the Instrumental Activities&#xD;
+             of Daily Living scales (Lawton and Brody, 1969);&#xD;
+&#xD;
+          -  Unsatisfied criteria for dementia at baseline (DSM-V, American Psychiatric&#xD;
+             Association, 2013).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - History of head injury, current neurological and/or systemic disease, symptoms of&#xD;
+        psychosis, major depression, alcoholism or other substance abuse&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Valentina Bessi, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Research and Innovation Centre for Dementia-CRIDEM, AOU Careggi, Florence, Italy</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Valentina Bessi, MD, PhD</last_name>
+    <phone>+393496096308</phone>
+    <email>valentina.bessi@unifi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sonia Padiglioni, Psy, PhD</last_name>
+    <phone>+393488512232</phone>
+    <email>padiglionis@aou-careggi.toscana.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>AOU Careggi</name>
+      <address>
+        <city>Florence</city>
+        <state>Tuscany Region</state>
+        <zip>50134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Valentina Bessi, MD, PhD</last_name>
+      <phone>+393496096308</phone>
+      <email>valentina.bessi@unifi.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Salvatore Mazzeo, MD</last_name>
+      <phone>+393477219137</phone>
+      <email>salvatore.mazzeo@unifi.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Valentina Bessi, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Salvatore Mazzeo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sonia Padiglioni, Psy, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Valentina Moschini, Psy</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carmen Morinelli, Psy</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Giulia Giacomucci, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Filippo Emiliani, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Giulia Galdo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Juri Balestrini, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Don Gnocchi</name>
+      <address>
+        <city>Florence</city>
+        <zip>50143</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonello Grippo, MD, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sandro Sorbi, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rachele Buralli</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antonello Grippo, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Neuroscience, Psychology, Drug Research and Child Health, University of Florence</name>
+      <address>
+        <city>Florence</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benedetta Nacmias, PhD</last_name>
+      <phone>055/7948910</phone>
+      <email>nacmias@unifi.it</email>
+    </contact>
+    <investigator>
+      <last_name>Benedetta Nacmias, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Silvia Bagnoli, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Assunta Ingannato</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto di Biorobotica e Dipartimento di Eccellenza in Robotica e AI, Scuola Superiore Sant'Anna</name>
+      <address>
+        <city>Pisa</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alberto Mazzoni, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alberto Mazzoni</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael Lassi</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alberto Vergani</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Silvestro Micera</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Giacomucci G, Mazzeo S, Bagnoli S, Casini M, Padiglioni S, Polito C, Berti V, Balestrini J, Ferrari C, Lombardi G, Ingannato A, Sorbi S, Nacmias B, Bessi V. Matching Clinical Diagnosis and Amyloid Biomarkers in Alzheimer's Disease and Frontotemporal Dementia. J Pers Med. 2021 Jan 14;11(1). pii: 47. doi: 10.3390/jpm11010047.</citation>
+    <PMID>33466854</PMID>
+  </reference>
+  <reference>
+    <citation>Mazzeo S, Bessi V, Bagnoli S, Giacomucci G, Balestrini J, Padiglioni S, Tomaiuolo G, Ingannato A, Ferrari C, Bracco L, Sorbi S, Nacmias B. Dual Effect of PER2 C111G Polymorphism on Cognitive Functions across Progression from Subjective Cognitive Decline to Mild Cognitive Impairment. Diagnostics (Basel). 2021 Apr 18;11(4). pii: 718. doi: 10.3390/diagnostics11040718.</citation>
+    <PMID>33919572</PMID>
+  </reference>
+  <reference>
+    <citation>Bessi V, Balestrini J, Bagnoli S, Mazzeo S, Giacomucci G, Padiglioni S, Piaceri I, Carraro M, Ferrari C, Bracco L, Sorbi S, Nacmias B. Influence of ApoE Genotype and Clock T3111C Interaction with Cardiovascular Risk Factors on the Progression to Alzheimer's Disease in Subjective Cognitive Decline and Mild Cognitive Impairment Patients. J Pers Med. 2020 May 29;10(2). pii: E45. doi: 10.3390/jpm10020045.</citation>
+    <PMID>32485802</PMID>
+  </reference>
+  <reference>
+    <citation>Mazzeo S, Padiglioni S, Bagnoli S, Bracco L, Nacmias B, Sorbi S, Bessi V. The dual role of cognitive reserve in subjective cognitive decline and mild cognitive impairment: a 7-year follow-up study. J Neurol. 2019 Feb;266(2):487-497. doi: 10.1007/s00415-018-9164-5. Epub 2019 Jan 2.</citation>
+    <PMID>30604054</PMID>
+  </reference>
+  <reference>
+    <citation>Giacomucci G, Mazzeo S, Padiglioni S, Bagnoli S, Belloni L, Ferrari C, Bracco L, Nacmias B, Sorbi S, Bessi V. Gender differences in cognitive reserve: implication for subjective cognitive decline in women. Neurol Sci. 2022 Apr;43(4):2499-2508. doi: 10.1007/s10072-021-05644-x. Epub 2021 Oct 8.</citation>
+    <PMID>34625855</PMID>
+  </reference>
+  <reference>
+    <citation>Mazzeo S, Bessi V, Padiglioni S, Bagnoli S, Bracco L, Sorbi S, Nacmias B. KIBRA T allele influences memory performance and progression of cognitive decline: a 7-year follow-up study in subjective cognitive decline and mild cognitive impairment. Neurol Sci. 2019 Aug;40(8):1559-1566. doi: 10.1007/s10072-019-03866-8. Epub 2019 Apr 5.</citation>
+    <PMID>30953258</PMID>
+  </reference>
+  <reference>
+    <citation>Bessi V, Mazzeo S, Padiglioni S, Piccini C, Nacmias B, Sorbi S, Bracco L. From Subjective Cognitive Decline to Alzheimer's Disease: The Predictive Role of Neuropsychological Assessment, Personality Traits, and Cognitive Reserve. A 7-Year Follow-Up Study. J Alzheimers Dis. 2018;63(4):1523-1535. doi: 10.3233/JAD-171180.</citation>
+    <PMID>29782316</PMID>
+  </reference>
+  <reference>
+    <citation>Mazzeo S, Padiglioni S, Bagnoli S, Carraro M, Piaceri I, Bracco L, Nacmias B, Sorbi S, Bessi V. Assessing the effectiveness of subjective cognitive decline plus criteria in predicting the progression to Alzheimer's disease: an 11-year follow-up study. Eur J Neurol. 2020 May;27(5):894-899. doi: 10.1111/ene.14167. Epub 2020 Mar 8.</citation>
+    <PMID>32043740</PMID>
+  </reference>
+  <reference>
+    <citation>Amoroso N, Diacono D, Fanizzi A, La Rocca M, Monaco A, Lombardi A, Guaragnella C, Bellotti R, Tangaro S; Alzheimer's Disease Neuroimaging Initiative. Deep learning reveals Alzheimer's disease onset in MCI subjects: Results from an international challenge. J Neurosci Methods. 2018 May 15;302:3-9. doi: 10.1016/j.jneumeth.2017.12.011. Epub 2017 Dec 26.</citation>
+    <PMID>29287745</PMID>
+  </reference>
+  <reference>
+    <citation>Bansal D. et al. Comparative Analysis of Various Machine Learning Algorithms for Detecting Dementia - Procedia Computer Science (2018) 132: 1497-1502</citation>
+  </reference>
+  <reference>
+    <citation>Gouw AA, Alsema AM, Tijms BM, Borta A, Scheltens P, Stam CJ, van der Flier WM. EEG spectral analysis as a putative early prognostic biomarker in nondemented, amyloid positive subjects. Neurobiol Aging. 2017 Sep;57:133-142. doi: 10.1016/j.neurobiolaging.2017.05.017. Epub 2017 Jun 1.</citation>
+    <PMID>28646686</PMID>
+  </reference>
+  <reference>
+    <citation>Guillem F, Rougier A, Claverie B. Short- and long-delay intracranial ERP repetition effects dissociate memory systems in the human brain. J Cogn Neurosci. 1999 Jul;11(4):437-58.</citation>
+    <PMID>10471850</PMID>
+  </reference>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>August 24, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 3, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 6, 2022</study_first_posted>
+  <last_update_submitted>October 5, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 5, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 7, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Ospedaliero-Universitaria Careggi</investigator_affiliation>
+    <investigator_full_name>Valentina Bessi</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Dementia</keyword>
+  <keyword>Cognitive reserve</keyword>
+  <keyword>machine learning</keyword>
+  <keyword>deep learning</keyword>
+  <keyword>precision medicine</keyword>
+  <keyword>Electroencephalogram</keyword>
+  <keyword>Event Related Potential</keyword>
+  <keyword>Cerebrospinal Fluid biomarker</keyword>
+  <keyword>Apolipoprotein E</keyword>
+  <keyword>Brain-derived neurotrophic factor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>An anonymized data that support the findings of this study will be shared by request from any qualified investigator.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="263">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04592874</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AL002-2</org_study_id>
+    <nct_id>NCT04592874</nct_id>
+  </id_info>
+  <brief_title>A Phase 2 Study to Evaluate Efficacy and Safety of AL002 in Participants With Early Alzheimer's Disease</brief_title>
+  <acronym>INVOKE-2</acronym>
+  <official_title>A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Multicenter Study to Evaluate the Efficacy and Safety of AL002 in Participants With Early Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alector Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AbbVie</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Alector Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A phase 2 randomized, double blind, placebo controlled study evaluating the efficacy and&#xD;
+      safety of AL002 in participants with Early Alzheimer's Disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase 2 randomized, double blind, placebo controlled study evaluating the efficacy&#xD;
+      and safety of AL002 administered intravenously in participants with Early Alzheimer's&#xD;
+      Disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 22, 2021</start_date>
+  <completion_date type="Anticipated">January 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease progression as measured by the CDR-SB</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in MMSE score</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in RBANS score</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in ADAS-Cog13 score</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in ADCS-ADL-MCI score</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in ADCOMS score</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of safety and tolerability of AL002: Incidence of adverse events</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+    <description>Incidence of adverse events</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in brain volume as assessed by magnetic resonance imaging</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in blood based biomarkers</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in CSF biomarkers (optional)</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in amyloid burden as assessed by positron emission tomography imaging (optional)</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in tau tangles as assessed by positron emission tomography imaging (optional)</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Winterlight Language Speech Assessment score (optional)</measure>
+    <time_frame>Through study completion, up to 48 through 96 weeks</time_frame>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">265</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>AL002 Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AL002 every 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AL002 Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AL002 every 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AL002 Dose 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AL002 every 4 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo every 4 weeks</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AL002</intervention_name>
+    <description>Administered via intravenous (IV) infusion</description>
+    <arm_group_label>AL002 Dose 1</arm_group_label>
+    <arm_group_label>AL002 Dose 2</arm_group_label>
+    <arm_group_label>AL002 Dose 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered via intravenous (IV) infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of Early AD including evidence of brain amyloidosis by CSF or PET&#xD;
+&#xD;
+          -  MMSE score ≥ 22 points, CDR Global Score of 0.5 - 1.0, and RBANS score on the DMI ≤85.&#xD;
+&#xD;
+          -  Study partner who consents to study participation and who cares for/visits the&#xD;
+             participant at least 10 hours a week&#xD;
+&#xD;
+          -  Written informed consent must be obtained and documented (from the participant or,&#xD;
+             where jurisdictions allow it, from their legal decision maker).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Dementia due to a condition other than AD including, but not limited to, FTD,&#xD;
+             Parkinson's disease, dementia with Lewy bodies, Huntington disease, or vascular&#xD;
+             dementia.&#xD;
+&#xD;
+          -  Known history of severe allergic, anaphylactic, or other hypersensitivity reactions to&#xD;
+             chimeric, human, or humanized antibodies or fusion proteins.&#xD;
+&#xD;
+          -  Current uncontrolled hypertension, diabetes mellitus or thyroid disease. Clinically&#xD;
+             significant heart disease, liver disease or kidney disease.&#xD;
+&#xD;
+          -  History or evidence of clinically significant brain disease other than AD.&#xD;
+&#xD;
+          -  Females who are pregnant or breastfeeding, or planning to conceive within the study&#xD;
+             period.&#xD;
+&#xD;
+          -  Any experimental vaccine or gene therapy.&#xD;
+&#xD;
+          -  History of unresolved cancer.&#xD;
+&#xD;
+          -  Current use of anticoagulant medications.&#xD;
+&#xD;
+          -  Residence in a skilled nursing facility, convalescent home, or long term care facility&#xD;
+             at screening; or requires continuous nursing care.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>TBD TBD</last_name>
+    <role>Principal Investigator</role>
+  </overall_official>
+  <overall_contact>
+    <last_name>Study Lead</last_name>
+    <phone>650-826-2454</phone>
+    <email>clinicaltrials@alector.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Woodlands Research Network, LLC - ERG</name>
+      <address>
+        <city>Rogers</city>
+        <state>Arkansas</state>
+        <zip>72758</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>ATP Clinical Research</name>
+      <address>
+        <city>Costa Mesa</city>
+        <state>California</state>
+        <zip>92626</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bobby Shih</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Irvine Center For Clinical Research</name>
+      <address>
+        <city>Irvine</city>
+        <state>California</state>
+        <zip>92614-9403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Memory and Aging Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94158</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>South Florida Neurology Associates</name>
+      <address>
+        <city>Boca Raton</city>
+        <state>Florida</state>
+        <zip>33487</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Matters Research - ERG</name>
+      <address>
+        <city>Delray Beach</city>
+        <state>Florida</state>
+        <zip>33445</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Charter Research</name>
+      <address>
+        <city>Lady Lake</city>
+        <state>Florida</state>
+        <zip>32159</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Sletten</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Suncoast Clinical Research, Inc</name>
+      <address>
+        <city>New Port Richey</city>
+        <state>Florida</state>
+        <zip>34652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Progressive Medical Research</name>
+      <address>
+        <city>Port Orange</city>
+        <state>Florida</state>
+        <zip>32127-5170</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc - The Villages</name>
+      <address>
+        <city>The Villages</city>
+        <state>Florida</state>
+        <zip>32162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Alzheimers Research and Treatment Center</name>
+      <address>
+        <city>Wellington</city>
+        <state>Florida</state>
+        <zip>33449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Conquest Clinical Research (Winter Park)</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NeuroStudies</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AMITA Health Clinical Research Institute</name>
+      <address>
+        <city>Elk Grove Village</city>
+        <state>Illinois</state>
+        <zip>60007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeanine Pilat</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Center for Memory</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02459</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hattiesburg Clinic</name>
+      <address>
+        <city>Hattiesburg</city>
+        <state>Mississippi</state>
+        <zip>39401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Clinical Institute</name>
+      <address>
+        <city>Neptune</city>
+        <state>New Jersey</state>
+        <zip>07753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Victoria Dioguardi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University College of Physicians and Surgeons</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032-3725</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Summit Research Network</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rachel Wirth</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Cognitive Health</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97225-5031</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Neurologic Associates</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Keystone Clinical Studies LLC</name>
+      <address>
+        <city>Plymouth Meeting</city>
+        <state>Pennsylvania</state>
+        <zip>19462-7401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trial Network</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77074-2085</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Italiano de Buenos Aires</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1030</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>CENydET S.R.L.</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1058 AAJ</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Kremer</name>
+      <address>
+        <city>Córdoba</city>
+        <zip>X5004AOA</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Psiquiatría Biológica Instituto Senecta</name>
+      <address>
+        <city>Mendoza</city>
+        <zip>5500</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>KaRa Institute of Neurological Disease</name>
+      <address>
+        <city>Macquarie Park</city>
+        <state>New South Wales</state>
+        <zip>2113</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Swan</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Box Hill Hospital</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claire McCarthy</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Alfred Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SMarT Minds WA</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Okanagan Clinical Trials</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1Y 1Z9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naomi Mison</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research - Halifax</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3S 1N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research - New Minas</name>
+      <address>
+        <city>New Minas</city>
+        <state>Nova Scotia</state>
+        <zip>B4N 3R7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Parkwood Institute</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6C 0A7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bruyère Research Institute</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1N 5C8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kawartha Regional Memory Clinic</name>
+      <address>
+        <city>Peterborough</city>
+        <state>Ontario</state>
+        <zip>K9H 2P4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Memory Clinic</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M3B 2S7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda Schlesinger</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baycrest Health Sciences</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>Ontario</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Neurosearch Developments Inc</name>
+      <address>
+        <city>Greenfield Park</city>
+        <state>Quebec</state>
+        <zip>J4V 2J2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de L'enfant Jesus</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <zip>G1J 1Z4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hopitaux de La Timone</name>
+      <address>
+        <city>Marseille</city>
+        <state>Bouches-du-Rhône</state>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Roger Salengro</name>
+      <address>
+        <city>Lille</city>
+        <state>Nord</state>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Lariboisiere</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital de la Pitié Salpétrière</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Toulouse</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gerontopole</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charité - Universitätsmedizin Berlin (CBF)</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12203</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charite Campus Buch</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Clinic Heidelberg</name>
+      <address>
+        <city>Mannheim</city>
+        <zip>68159</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>LMU Klinikum der Universität München</name>
+      <address>
+        <city>München</city>
+        <zip>81377</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum rechts der Isa der Technischen Universitaet Muenchen</name>
+      <address>
+        <city>München</city>
+        <zip>81675</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <zip>89081</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione Policlinico Universitario A Gemelli</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Policlinico Umberto I</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00185</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale S Giovanni Calibita Fatebenefratelli</name>
+      <address>
+        <city>Roma</city>
+        <state>Lazio</state>
+        <zip>00186</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS - Centro S. Giovanni di Dio Fatebenefratelli</name>
+      <address>
+        <city>Brescia</city>
+        <state>Lombardia</state>
+        <zip>25125</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ASST degli Spedali Civili di Brescia - Spedali Civili di Brescia</name>
+      <address>
+        <city>Brescia</city>
+        <zip>25123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milano</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Di Rilievo Nazionale Istituto Nazionale Neurologico Carlo Besta</name>
+      <address>
+        <city>Milano</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile di Baggiovara</name>
+      <address>
+        <city>Modena</city>
+        <zip>41126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale degli Infermi</name>
+      <address>
+        <city>Ponderano</city>
+        <zip>13875</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center Den Bosch</name>
+      <address>
+        <city>'s-Hertogenbosch</city>
+        <state>Noord-Brabant</state>
+        <zip>5223 GV</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center Zwolle B.V</name>
+      <address>
+        <city>Zwolle</city>
+        <state>Overijssel</state>
+        <zip>8025 AZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Brain Research Center Amsterdam</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1081 GN</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CGM Research Trust</name>
+      <address>
+        <city>Christchurch</city>
+        <zip>8083</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZOZ Wroclawskie Centrum Alzheimerowskie</name>
+      <address>
+        <city>Wrocław</city>
+        <state>Dolnoslaskie</state>
+        <zip>53-110</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centrum Medyczne NeuroProtect</name>
+      <address>
+        <city>Warszawa</city>
+        <state>Mazowieckie</state>
+        <zip>01-684</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Podlaskie Centrum Psychogeriatrii</name>
+      <address>
+        <city>Białystok</city>
+        <state>Podlaskie</state>
+        <zip>15-756</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wielospecjalistyczna Poradnia Lekarska Synapsis</name>
+      <address>
+        <city>Katowice</city>
+        <state>Slaskie</state>
+        <zip>40-123</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>EUROMEDIS Sp. z o.o.</name>
+      <address>
+        <city>Szczecin</city>
+        <state>Zachodniopomorskie</state>
+        <zip>70-111</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SOMED CR</name>
+      <address>
+        <city>Warsaw</city>
+        <zip>01-737</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de La Santa Creu i Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Cataluña</state>
+        <zip>08041</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion CITA Alzheimer Fundazioa</name>
+      <address>
+        <city>Donostia</city>
+        <state>Guipuzcoa</state>
+        <zip>20009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Atencion Especializada Oroitu</name>
+      <address>
+        <city>Getxo</city>
+        <state>Pais Vasco</state>
+        <zip>48993</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion ACE Instituto Catalan de Neurociencias</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08028</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramon y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Doctor Peset</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46017</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari i Politecnic La Fe de Valencia</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46026</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Viamed Montecanal</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50012</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ninewells Hospital &amp; Medical School</name>
+      <address>
+        <city>Dundee</city>
+        <state>Dundee City</state>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Re:Cognition Health London</name>
+      <address>
+        <city>London</city>
+        <zip>W1G 9JF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The National Hospital for Neurology and Neurosurgery</name>
+      <address>
+        <city>London</city>
+        <zip>WC1N 3BG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University College London</name>
+      <address>
+        <city>London</city>
+        <zip>WC1N 3BG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Greater Manchester Mental Health NHS Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M8 5RB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Glasgow Memory Clinic</name>
+      <address>
+        <city>Motherwell</city>
+        <zip>ML1 4UF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Newcastle University</name>
+      <address>
+        <city>Newcastle Upon Tyne</city>
+        <zip>NE3 3XT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Re:Cognition Health Plymouth</name>
+      <address>
+        <city>Plymouth</city>
+        <zip>Pl6 8BT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>September 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>July 21, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 21, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 25, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

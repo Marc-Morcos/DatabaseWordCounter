@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2876">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05460494</url>
+  </required_header>
+  <id_info>
+    <org_study_id>21-1264</org_study_id>
+    <secondary_id>1K01AG076888-01</secondary_id>
+    <nct_id>NCT05460494</nct_id>
+  </id_info>
+  <brief_title>Reduce Loneliness in Care Partners of Persons With AD/ADRD</brief_title>
+  <official_title>Increasing Meaning to Reduce Loneliness in Care Partners of Persons With AD/ADRD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwell Health</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      More than 60% of care partners of persons with AD/ADRD report feeling lonely. Building on the&#xD;
+      existing evidence that increasing meaning and purpose in life is a strong predictor of&#xD;
+      decreased loneliness, interventions to reduce loneliness in this population may be&#xD;
+      strengthened by incorporating concepts from Meaning-Centered Psychotherapy (MCP). Thus, the&#xD;
+      overall goal of the proposed project is to reduce loneliness in care partners of patients&#xD;
+      with AD/ADRD through increasing their sense of meaning and purpose in life using concepts&#xD;
+      from MCP, delivered via a web-based platform, RELOAD-C (REducing LOneliness in Alzeheimer's&#xD;
+      Disease-Care Partners). This will be achieved through three Specific Aims. Aim 1 consists of&#xD;
+      three phases (preparatory work, stakeholder involvement with N=15 AD/ADRD care partners, and&#xD;
+      adaptation of the existing web-based platform) to produce RELOAD-C, which centralizes: 1) 6&#xD;
+      brief videos portraying an MCP expert delivering MCP concepts; 2) links to 7 virtual group&#xD;
+      meetings (6 weekly + 1 booster) to discuss MCP concepts (of note, the support groups utilized&#xD;
+      in this study exist only as part of this research); and 3) written content expanding on the&#xD;
+      material from the MCP videos. Aim 2 evaluates usability/acceptability of RELOAD-C (defined as&#xD;
+      a task success rate ≥ 78%, and scores ≥ 68 on the System Usability Scale) with N=20 care&#xD;
+      partners of persons with AD/ADRD. Aim 3 proposes a pilot RCT to evaluate the preliminary&#xD;
+      efficacy of the RELOAD-C components (MCP videos vs. MCP-focused group discussions) in&#xD;
+      reducing loneliness and feasibility of conducting a future, large-scale RCT. N=96 AD/ADRD&#xD;
+      care partners will be randomized to: usual care, n=32; MCP videos alone via RELOAD-C, n=32;&#xD;
+      or MCP videos + weekly groups via RELOAD-C, n=32. Care partners' outcomes will be assessed at&#xD;
+      baseline, and 6-weeks and 3-months post-baseline. The investigators expect the effect sizes&#xD;
+      will be in the moderate range (.3). Feasibility is defined as: ≥ 75% consented, ≤ 30%&#xD;
+      drop-out, and 80% engagement with intervention. Reducing loneliness among care partners is of&#xD;
+      high public health significance and incorporating MCP in loneliness interventions is highly&#xD;
+      innovative. In sum, the investigators will enroll 15 care partners during Aim 1, 20 care&#xD;
+      partners during Aim 2, and 96 care partners during Aim 3.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Loneliness is common in care partners of persons with Alzheimer's Disease (AD) and AD-related&#xD;
+      dementias (ADRD). In the United States, more than 6 million people have AD/ADRD. This number&#xD;
+      is expected to reach 13 million by 2050, increasing the number of care partners&#xD;
+      proportionately. More than 60% of care partners of persons with AD/ADRD are lonely, defined&#xD;
+      as the distressing experience when one's relationships are poorer in quantity and quality&#xD;
+      than desired. This is not surprising given the unique experience of caring for a person with&#xD;
+      AD/ADRD, characterized by declines in intellectually stimulating conversation, loss of mutual&#xD;
+      support, and avoidance of social outings. Already elevated, care partners' loneliness is&#xD;
+      among the problems exacerbated by the COVID-19 pandemic. Loneliness is associated with a 26%&#xD;
+      increased risk of mortality, and physical and mental morbidity. In longitudinal studies,&#xD;
+      loneliness significantly predicts heart attack, diabetes, depression, anxiety, and distress.&#xD;
+      Studies of care partners show that loneliness is associated with poorer quality of&#xD;
+      relationships, and burden, as well as negative patient outcomes. Therefore, there is an&#xD;
+      urgent need for effective evidence-based interventions to reduce loneliness in care partners&#xD;
+      of persons with AD/ADRD. Existing interventions for care partners of persons with AD/ADRD&#xD;
+      demonstrate limited efficacy in reducing loneliness. Existing interventions focus on&#xD;
+      providing education, decision support, skills training, and stress management. In all these&#xD;
+      cases, the intervention did not significantly reduce loneliness at follow-up. Existing&#xD;
+      interventions have not attempted to reduce loneliness through increasing care partners' sense&#xD;
+      of meaning and purpose in life, despite strong evidence that increased meaning in life&#xD;
+      predicts reduced loneliness. A qualitative analysis of 119 loneliness interventions&#xD;
+      demonstrated that their limited efficacy is due to a lack of content focused on meaning in&#xD;
+      life. Several empirical studies indicate a strong, inverse relationship between meaning and&#xD;
+      loneliness. Macia et al. 2021 found that meaning in life was the most important predictor of&#xD;
+      loneliness, and the authors recommend targeting meaning in life in future interventions.&#xD;
+      Folker et al. 2021 theorize that meaning in life promotes a better ability to cope with&#xD;
+      loneliness. Interventions to reduce loneliness in AD/ADRD care partners may be strengthened&#xD;
+      by incorporating concepts from Meaning-Centered Psychotherapy (MCP). MCP focuses on exploring&#xD;
+      sources of meaning in life and is based on the premise that finding meaning and purpose in&#xD;
+      one's existence is a primary force of motivation. Examination into the mechanism of change in&#xD;
+      MCP demonstrated significant mediation effects via a sense of meaning and purpose in life on&#xD;
+      outcomes of improved quality of life, and decreased depression, hopelessness and desire for&#xD;
+      hastened death. Yet, the impact of MCP on loneliness has not yet been systematically&#xD;
+      evaluated. MCP, originally found to increase a sense of meaning and purpose in life in&#xD;
+      patients with advanced cancer, has since been adapted for many populations, including care&#xD;
+      partners. The MCP adaptation for care partners was led by Dr. Allison Applebaum&#xD;
+      (consultant),and focuses on finding meaning and purpose in life through one's role as a care&#xD;
+      partner, regardless of the illness the care recipient has. Dr. Applebaum found MCP to be&#xD;
+      efficacious in increasing meaning and purpose in life in cancer care partners when delivered&#xD;
+      via brief videos. Therefore, the overall goal of the proposed project is to reduce AD/ADRD&#xD;
+      care partners' loneliness through increasing their meaning and purpose in life using concepts&#xD;
+      from MCP. The investigators expect that reducing loneliness will reduce care partners'&#xD;
+      negative outcomes, such as depression, anxiety, distress, and burden. These MCP concepts will&#xD;
+      be delivered via RELOAD-C (REducing LOneliness in Alzeheimer's Disease-Care Partners), a&#xD;
+      web-based platform that centralizes 6 brief videos of an MCP expert (Dr. Applebaum)&#xD;
+      discussing sources of meaning, links to virtual group meetings facilitated by a social worker&#xD;
+      trained in MCP to promote discussion of MCP concepts, and written content providing guidance&#xD;
+      on homework and exercises referenced in the MCP videos. The investigators currently do not&#xD;
+      know the effect of MCP videos on increasing meaning and purpose in life in AD/ADRD care&#xD;
+      partners, though they expect these videos to be efficacious as they were with cancer care&#xD;
+      partners. It remains unclear whether watching these MCP videos, which lacks bi-directional&#xD;
+      interaction, is sufficient to also reduce loneliness in care partners of persons with&#xD;
+      AD/ADRD. Interventions that show promise in reducing loneliness in care partners of persons&#xD;
+      with AD/ADRD, based on evaluations in small samples, are those that focus on increasing&#xD;
+      opportunities for communication through group meetings. Building off the strengths of the&#xD;
+      existing literature, then, the investigators expect that adding virtual group meetings&#xD;
+      focused on discussion of MCP concepts will produce a comparatively larger reduction in&#xD;
+      loneliness than watching MCP videos alone. Thus, to advance the field, the investigators will&#xD;
+      conduct a pilot randomized controlled trial (RCT) to preliminarily evaluate the strength of&#xD;
+      each RELOAD-C component (MCP videos, MCP virtual weekly group discussions) on care partners'&#xD;
+      loneliness. The software platform that the investigators will be adapting to produce RELOAD-C&#xD;
+      was developed by Dr. Michael Diefenbach (primary mentor) to deliver intervention content&#xD;
+      through videos and interactive features to bladder cancer patients and their care partners.&#xD;
+      Care partners of persons with AD/ADRD experience barriers to participating in in-person&#xD;
+      interventions, including unique concerns (e.g. they cannot leave the patient alone). Thus,&#xD;
+      delivering intervention content via a web-based platform maximizes reach whilst obtaining&#xD;
+      comparable clinical effectiveness as traditional in-person interventions. Overview of the&#xD;
+      research design. Aim 1a: Preparatory Work: the study team will modify the script from Dr.&#xD;
+      Applebaum's videos of MCP for cancer care partners to ensure the language is suitable for&#xD;
+      AD/ADRD care partners (i.e. remove references to cancer and cancer-specific challenges), Aim&#xD;
+      1b: Stakeholder Involvement: The study team will circulate these scripts/drafts created in&#xD;
+      Aim 1a to N=15 care partners of persons with AD/ADRD to obtain feedback. This will occur in&#xD;
+      two rounds, the first of which is dedicated to obtaining feedback and the second of which is&#xD;
+      dedicated to soliciting final comments after the feedback from the first round has been&#xD;
+      integrated. Aim 1c: Adaptation of an existing web-based delivery platform: Michael Diefenbach&#xD;
+      (primary mentor) developed a web-based platform to deliver and reinforce intervention content&#xD;
+      to patients with bladder cancer. The study team will adapt this existing platform by&#xD;
+      replacing the bladder cancer content with MCP content prepared and revised during Aims 1a-1b,&#xD;
+      producing RELOAD-C. Aim 2: Usability and Acceptability Testing Phase of RELOAD-C will be&#xD;
+      achieved through a mixed-methods design and the Think Aloud method a direct observation&#xD;
+      method of user testing that involves asking users to think out loud as they are performing a&#xD;
+      task, with N=20 AD/ADRD care partners. Aim 3: Pilot RCT: Using a modified cluster RCT design&#xD;
+      with two-step randomization, N=96 care partners will be randomized to usual care (n=32), MCP&#xD;
+      videos delivered via RELOAD-C (n=32), or MCP videos plus virtual group meetings delivered via&#xD;
+      RELOAD-C (n=32). Care partner outcomes will be assessed at baseline, and 6-weeks and 3-months&#xD;
+      post-baseline.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">June 1, 2024</start_date>
+  <completion_date type="Anticipated">May 31, 2027</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2026</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Modified cluster randomized controlled trial with two-step randomization</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Study participants will be blinded to which arm they are randomized to.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Care Partners' Loneliness between pre-randomization and 3 months post-randomization</measure>
+    <time_frame>This measure will be given at consent as a screening measure, at baseline (pre-randomization) and 6 weeks and 3 months post-randomization.</time_frame>
+    <description>Our primary outcome is care partners' loneliness, defined as the distressing experience that occurs when a person's social relationships are perceived by that person to be less in quantity, and especially in quality, than desired. Care partners' loneliness will be evaluated with the 6-item De Jong Gierveld Loneliness Scale, a reliable and valid continuous measure for overall, emotional and social loneliness. Sample item: &quot;I miss having people around me&quot;.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Depression and Anxiety between pre-randomization and 3 months post-randomization</measure>
+    <time_frame>This measure will be administered to care partners at baseline (pre-randomization) and 6 weeks and 3 months post-randomization.</time_frame>
+    <description>Secondary outcomes include care partners' depression (a common but serious mood disorder that causes symptoms that affect how you feel, think and handle daily activities) and anxiety (a persistent feeling of anxiety or dread that can interfere with daily life), which will be evaluated by the Patient Health Questionnaire (PHQ) 4-item version, a brief and accurate measurement of the core symptoms/signs of depression and anxiety.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Distress between pre-randomization and 3 months post-randomization</measure>
+    <time_frame>This measure will be administered to care partners at baseline (pre-randomization) and 6 weeks and 3 months post-randomization.</time_frame>
+    <description>Distress, defined as an unpleasant emotion, feeling, thought, condition or behavior, will be evaluated with the Distress Thermometer, a screening tool to identify distress. Individuals are asked to indicate their level of distress ranging from 0 (no distress) to 10 (extreme distress). We will also assess to what extent distress is related to the role as a care partner.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Care partner burden between pre-randomization and 3 months post-randomization</measure>
+    <time_frame>This measure will be administered to care partners at baseline (pre-randomization) and 6 weeks and 3 months post randomization.</time_frame>
+    <description>Care partner burden, defined as the strain or load borne by a person who cares for a chronically ill, disabled or elderly family member, will be evaluated with the Caregiver Reaction Assessment, a 24-item measure, rated on a 5-point scale, of the reactions of family members to caring for older adult relatives.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory outcome: Change in Behavioral and Psychological Symptoms of Dementia between pre-randomization and 3 months post-randomization</measure>
+    <time_frame>This measure will be administered to care partners at baseline (pre-randomization) and 6 weeks and 3 months post randomization.</time_frame>
+    <description>Care partners' perception of patients' behavioral and psychological symptoms of dementia will be measured with the Neuropsychiatric Inventory (NPI), a reliable and valid measure administered to care partners to evaluate patients' dementia-related behavioral symptoms across 12 domains.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Demographic and Clinical History</measure>
+    <time_frame>This will be completed at baseline (pre-randomization)</time_frame>
+    <description>Demographic and clinical history will be assessed with our Sociodemographic Questionnaire that collects care partners' age, gender, race/ethnicity, level of income and education, clinical and psychiatric comorbidities. We will also collect data from the care partner on the patients' diagnoses, level of cognitive impairment, relationship between care partner and patient, time since assuming the role of care partner, and number and role of other care partners for this patient.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Meaning in Life between pre-randomization and 3 months post-randomization.</measure>
+    <time_frame>This measure will be administered to care partners at baseline (pre-randomization) and 6 weeks and 3 months post randomization.</time_frame>
+    <description>Meaning in Life will be evaluated with the 10-item Meaning in Life Questionnaire. Sample item: &quot;My life has no clear purpose&quot;.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feasibility of conducting a future RCT: percent consented</measure>
+    <time_frame>This will be documented throughout the study and calculated in the last month of the study.</time_frame>
+    <description>% consented will be calculated as care partners consented over eligible and approached.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feasibility of conducting a future RCT: percent drop-out</measure>
+    <time_frame>This will be documented throughout the study and calculated in the last month of the study.</time_frame>
+    <description>% drop-out at baseline, 6 wks. and 3 mos. will be calculated as non-starters over consenters, or non-completers of the 6-week or 3-month assessment over consenters.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Feasibility of conducting a future RCT: Engagement in RELOAD-C</measure>
+    <time_frame>This will be documented throughout the study and calculated in the last month of the study.</time_frame>
+    <description>This outcome will be determined by Google Analytics data in the domains of number of virtual groups attended (for intervention arm 2 only), videos viewed (both intervention arms), and homework/experiential exercises completed (both intervention arms).</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">96</enrollment>
+  <condition>Loneliness</condition>
+  <arm_group>
+    <arm_group_label>Usual Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Usual care for AD/ADRD care partners consists of a screen for stress and burden, an evaluation of needs for resources to support the patients, and a referral to AD/ADRD support agencies.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MCP videos alone. Care partners randomized to intervention arm 1 during Step 2 randomization will receive usual care + RELOAD-C, consisting of: 1) 6 brief (~5 minute) videos of Dr. Allison Applebaum introducing concepts from MCP for care partners of persons with AD/ADRD; and 2) written content associated with the videos, such as directions for homework assignments. The tab with links to the virtual group meetings will be removed. Participants in this arm use RELOAD-C on their own and do not have interaction with other care partners while using the platform. One video will become available for viewing each week for the first 6 weeks after step 2 randomization, and each care partner will have a unique user ID/login.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MCP videos + MCP-focused virtual groups. In addition to the components that the intervention arm 1 participants receive (usual care content, 6 MCP videos, written text), the RELOAD-C platform for the intervention arm 2 participants will include links to the virtual group meetings (7 in total). The first 6 group meetings will occur weekly, during the first 6 weeks after participants are randomized in step 2. Each of the first 6 group meetings will facilitate discussion of the MCP concepts introduced in that week's video, as participants receive access to each video ~3 days prior to the group meeting. The 7th virtual meeting will be used as a &quot;booster&quot; in week 9 after step 2 randomization, and will focus on sharing how participants are using the MCP concepts in their daily lives. All meetings will be facilitated by our social worker, Katherine Henthorne, LCSW.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>RELOAD-C</intervention_name>
+    <description>RELOAD-C is a web-based platform that centralizes 6 brief videos of our MCP expert (Dr. Applebaum) discussing sources of meaning, links to virtual group meetings facilitated by a social worker trained in MCP to promote discussion of MCP concepts, and written content providing guidance on homework and exercises referenced in the MCP videos</description>
+    <arm_group_label>Intervention Arm 1</arm_group_label>
+    <arm_group_label>Intervention Arm 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  • Self-identify as the primary care partner of a community-dwelling (i.e. does not&#xD;
+             live in a nursing home or facility) person with AD/ADRD (diagnosis confirmed via the&#xD;
+             patients' electronic health record)&#xD;
+&#xD;
+               -  report that their role as a care partner is not related to their employment (i.e.&#xD;
+                  they are a family member or friend of the patient)&#xD;
+&#xD;
+               -  age 18 or older&#xD;
+&#xD;
+               -  English-speaking&#xD;
+&#xD;
+               -  competency to participate&#xD;
+&#xD;
+               -  access to a telephone, computer, Internet and email&#xD;
+&#xD;
+               -  care partners must be lonely, defined as scoring ≥3 on the De Jong Gierveld&#xD;
+                  Loneliness Scale&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to communicate in English&#xD;
+&#xD;
+          -  Under the age of 18&#xD;
+&#xD;
+          -  only one care partner per patient will be allowed to participate&#xD;
+&#xD;
+          -  could not have participated in previous Aims (1 or 2) of this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Allison Marziliano, PhD</last_name>
+    <phone>516-600-1440</phone>
+    <email>amarzilian@northwell.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Michael Diefenbach, PhD</last_name>
+    <phone>516-600-1440</phone>
+    <email>mdiefenbach@northwell.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwell Health, Institute of Health System Science</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>10022</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Allison Marziliano, PhD</last_name>
+      <email>amarzilian@northwell.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>June 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 12, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 15, 2022</study_first_posted>
+  <last_update_submitted>July 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Care Partners</keyword>
+  <keyword>Loneliness</keyword>
+  <keyword>Web-based</keyword>
+  <keyword>Meaning</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Principal Investigator (PI), Dr. Allison Marziliano, will share information about the study, including de-identified data, on the following data sharing website: https://cos.io/. The Open Science Framework is a free, open-source web application built to provide researchers with a free platform for data and materials sharing. There will be no identifiable data posted to this website or used in future studies, if data are shared internally for future research purposes. In addition, a summary of research results will be available on http://www.Clinical Trials.gov , as required by U.S. Law.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>required by U.S. Law. This Web site will not include information that can identify participants. We will make the data available to other researchers by the on-line publication date, unless the NIA requests an earlier date.</ipd_time_frame>
+    <ipd_access_criteria>only the research team that is on the IRB-approved protocol can access identifiable data. Any data that is publicly accessible will be de-identified.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

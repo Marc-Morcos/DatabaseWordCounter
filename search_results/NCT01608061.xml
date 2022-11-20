@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="58">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01608061</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FNMI-001</org_study_id>
+    <nct_id>NCT01608061</nct_id>
+  </id_info>
+  <brief_title>ADvance DBS-f in Patients With Mild Probable Alzheimer's Disease</brief_title>
+  <acronym>ADvance</acronym>
+  <official_title>A Twelve Month Double-blind Randomized Controlled Feasibility Study to Evaluate the Safety, Efficacy and Tolerability of Deep Brain Stimulation of the Fornix (DBS-f) in Patients With Mild Probable Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Functional Neuromodulation Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Functional Neuromodulation Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this feasibility study is to evaluate the safety of DBS-f in&#xD;
+      patients with mild Alzheimer's disease by assessing all device and/or therapy related adverse&#xD;
+      events. The secondary objective is to preliminarily estimate the treatment effect size on the&#xD;
+      outcomes of interest at 12 months post-randomization. The objectives do not involve formal&#xD;
+      tests of hypotheses.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 2012</start_date>
+  <completion_date type="Actual">September 2018</completion_date>
+  <primary_completion_date type="Actual">June 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acute Safety</measure>
+    <time_frame>30 days post implant</time_frame>
+    <description>Acute safety will be assessed by estimating the rate of serious device (pulse generator or lead) or procedure related adverse events from the date of implant through the date of randomization, plus serious procedure related events through 30 days post-implant. All subjects undergoing an implant procedure will be included in these rate estimates. The rate and 95% confidence interval will be presented. Analysis is of a timepoint prior to randomization and thus all subjects are analyzed together.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Long Term Safety. Not Based on Formal Hypotheses.</measure>
+    <time_frame>12 month</time_frame>
+    <description>Long-term safety will be assessed by the rate of serious device or therapy related adverse events from the date of randomization through the date of the Month 12 visit. The rate and 95% confidence interval will be presented by randomization group. All subjects randomized will be included.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ADAS-Cog 13</measure>
+    <time_frame>Baseline and 12 months</time_frame>
+    <description>The mean change from baseline (pre-implant) to 12 months will be calculated in each treatment group. The differences between randomized groups in mean change will be calculated, along with corresponding 2-sided, 95% confidence intervals.&#xD;
+Instrument is Alzheimer's Disease Assessment Scale - Cognitive subscale. Scores range from 0 to 85 with higher scores meaning worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CDR-SB</measure>
+    <time_frame>Baseline and 12 months</time_frame>
+    <description>The mean change from baseline (pre-implant) to 12 months will be calculated in each treatment group. The differences between randomized groups in mean change will be calculated, along with corresponding 2-sided, 95% confidence intervals.&#xD;
+The scale used is the Clinical Dementia Rating Scale and the score used is the sum of boxes. The scores for this measure range from 0 to 18 with a higher score indicating a worse outcome.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>DBS-f on</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>DBS-f on</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DBS-f off</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>DBS-f off</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>DBS-f on</intervention_name>
+    <description>deep brain stimulation of the fornix</description>
+    <arm_group_label>DBS-f on</arm_group_label>
+    <other_name>DBS-f system includes:</other_name>
+    <other_name>*Medtronic Activa PC Model 37601 Implantable Neurostimulator (INS)</other_name>
+    <other_name>*Medtronic Model 3387 DBS Lead</other_name>
+    <other_name>*Medtronic Model 37085 DBS Extension Kit</other_name>
+    <other_name>*Medtronic Model 3708660 DBS Extension Kit</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>DBS-f off</intervention_name>
+    <description>deep brain stimulation of the fornix turned off</description>
+    <arm_group_label>DBS-f off</arm_group_label>
+    <other_name>DBS-f system includes:</other_name>
+    <other_name>*Medtronic Activa PC Model 37601 Implantable Neurostimulator (INS)</other_name>
+    <other_name>*Medtronic Model 3387 DBS Lead</other_name>
+    <other_name>*Medtronic Model 37085 DBS Extension Kit</other_name>
+    <other_name>*Medtronic Model 3708660 DBS Extension Kit</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 45-85 years of age (inclusive)&#xD;
+&#xD;
+          2. Probable Alzheimer's disease according to the National Institute of Aging Alzheimer's&#xD;
+             disease Association criteria.&#xD;
+&#xD;
+          3. Must meet certain criteria on cognitive and behavioral rating scales&#xD;
+&#xD;
+          4. If female, subjects who are post-menopausal or surgically sterile or willing to use&#xD;
+             birth control methods for the duration of the study.&#xD;
+&#xD;
+          5. An available caregiver willing to participate.&#xD;
+&#xD;
+          6. Subject is living at home and likely to remain at home for the study duration.&#xD;
+&#xD;
+          7. The subject is currently taking a stable dose of cholinesterase inhibitor (AChEI)&#xD;
+             medication for at least 60 days&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Must meet certain criteria on cognitive and behavioral rating scales&#xD;
+&#xD;
+          2. Current major psychiatric disorder such as schizophrenia, bipolar disorder or major&#xD;
+             depressive disorder based on psychiatric consult at screening visit&#xD;
+&#xD;
+          3. History of head trauma in the 2 years prior to signing the consent to participate in&#xD;
+             the study&#xD;
+&#xD;
+          4. History of brain tumor, subdural hematoma, or other clinically significant (in the&#xD;
+             judgment of the investigator) space-occupying lesion on CT or MRI&#xD;
+&#xD;
+          5. Active psychiatric disorder&#xD;
+&#xD;
+          6. Mental retardation&#xD;
+&#xD;
+          7. Current alcohol or substance abuse as defined by Diagnostic and Statistical Manual of&#xD;
+             Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR)&#xD;
+&#xD;
+          8. Contraindications for PET scanning (e.g., insulin dependent diabetes)&#xD;
+&#xD;
+          9. Contraindications for MRI scanning, including implanted metallic devices (e.g.&#xD;
+             non-MRI-safe cardiac pacemaker or neurostimulator; some artificial joints metal pins;&#xD;
+             surgical clips; or other implanted metal parts), or claustrophobia or discomfort in&#xD;
+             confined spaces.&#xD;
+&#xD;
+         10. Abnormal lab results that, in the opinion of the investigator and/or enrollment review&#xD;
+             committee, would preclude participation in the study.&#xD;
+&#xD;
+         11. Abnormal cardiovascular or neurovascular disorder that, in the opinion of the&#xD;
+             investigator and/or enrollment review committee, would preclude participation in the&#xD;
+             study.&#xD;
+&#xD;
+         12. Unstable doses of any medication prescribed for the treatment of memory loss or&#xD;
+             Alzheimer's disease.&#xD;
+&#xD;
+         13. Currently prescribed any non-AD medications that, in the opinion of the investigator&#xD;
+             and/or enrollment review committee, would preclude participation in the study.&#xD;
+&#xD;
+         14. Is unable or unwilling to comply with protocol follow-up requirements.&#xD;
+&#xD;
+         15. Has a life expectancy of &lt; 1 year.&#xD;
+&#xD;
+         16. Is actively enrolled in another concurrent clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andres Lozano, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Constantine G Lyketsos, MD, MHS, DFAPA, FAPM</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Banner Alzheimer's Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Banner Research Institute at Sun City</name>
+      <address>
+        <city>Sun City</city>
+        <state>Arizona</state>
+        <zip>85351</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida at Gainesville</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Bayview</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital of the University of Pennsylvania: Penn Memory Clinic</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Brown University</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Western Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5T 2S8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.advancestudy4ad.com</url>
+    <description>Study Informational Website</description>
+  </link>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>May 21, 2012</study_first_submitted>
+  <study_first_submitted_qc>May 29, 2012</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 30, 2012</study_first_posted>
+  <results_first_submitted>February 18, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 21, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 31, 2020</results_first_posted>
+  <last_update_submitted>August 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mild probable Alzheimer's Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>DBS-f on</title>
+          <description>DBS-f on&#xD;
+DBS-f on: deep brain stimulation of the fornix</description>
+        </group>
+        <group group_id="P2">
+          <title>DBS-f Off</title>
+          <description>DBS-f off&#xD;
+DBS-f off: deep brain stimulation of the fornix turned off</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Blinded Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Long Term Follow-Up</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="21"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="7"/>
+                <participants group_id="P2" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Extension Period</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="16"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="14"/>
+                <participants group_id="P2" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>DBS-f on</title>
+          <description>DBS-f on&#xD;
+DBS-f on: deep brain stimulation of the fornix</description>
+        </group>
+        <group group_id="B2">
+          <title>DBS-f Off</title>
+          <description>DBS-f off&#xD;
+DBS-f off: deep brain stimulation of the fornix turned off</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="21"/>
+            <count group_id="B2" value="21"/>
+            <count group_id="B3" value="42"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68.1" lower_limit="51.1" upper_limit="79.7"/>
+                    <measurement group_id="B2" value="71.3" lower_limit="48.0" upper_limit="78.0"/>
+                    <measurement group_id="B3" value="69.9" lower_limit="48.0" upper_limit="79.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="41"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>ADAS-Cog 11</title>
+          <description>Alzheimer's Disease Assessment Scale-Cognitive Subscale 11 (ADAS-Cog 11). The cognitive subscale (ADAS-Cog) includes 11 tasks that include both subject-completed tests and observer-based assessments.Together these tasks assess the cognitive domains of memory, language, and praxis. Single scale from 0 to 70 where a higher score indicates more advanced disease.</description>
+          <units>units on a scale</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17" lower_limit="13" upper_limit="22"/>
+                    <measurement group_id="B2" value="17" lower_limit="12" upper_limit="21"/>
+                    <measurement group_id="B3" value="17" lower_limit="12" upper_limit="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>CDR</title>
+          <description>Clinical Dementia Rating scale (CDR). The CDR is a 5-point scale used to characterize six domains of cognitive and functional performance applicable to Alzheimer disease and related dementias: Memory, Orientation, Judgment &amp; Problem Solving, Community Affairs, Home &amp; Hobbies, and Personal Care. The necessary information to make each rating is obtained through a semi-structured interview of the patient and a reliable informant or collateral source (e.g., family member). Range is 0 to 3 with a higher score indicating more advanced disease.</description>
+          <units>Participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>0.5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>1.0</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Acute Safety</title>
+        <description>Acute safety will be assessed by estimating the rate of serious device (pulse generator or lead) or procedure related adverse events from the date of implant through the date of randomization, plus serious procedure related events through 30 days post-implant. All subjects undergoing an implant procedure will be included in these rate estimates. The rate and 95% confidence interval will be presented. Analysis is of a timepoint prior to randomization and thus all subjects are analyzed together.</description>
+        <time_frame>30 days post implant</time_frame>
+        <population>All implanted subjects are used in this analysis. This analysis is of the entire population prior to randomization and thus cannot be analyzed per arm.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All Implanted Subject</title>
+            <description>All implanted subjects are included in this group.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Acute Safety</title>
+          <description>Acute safety will be assessed by estimating the rate of serious device (pulse generator or lead) or procedure related adverse events from the date of implant through the date of randomization, plus serious procedure related events through 30 days post-implant. All subjects undergoing an implant procedure will be included in these rate estimates. The rate and 95% confidence interval will be presented. Analysis is of a timepoint prior to randomization and thus all subjects are analyzed together.</description>
+          <population>All implanted subjects are used in this analysis. This analysis is of the entire population prior to randomization and thus cannot be analyzed per arm.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2" lower_limit="0.6" upper_limit="16.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Long Term Safety. Not Based on Formal Hypotheses.</title>
+        <description>Long-term safety will be assessed by the rate of serious device or therapy related adverse events from the date of randomization through the date of the Month 12 visit. The rate and 95% confidence interval will be presented by randomization group. All subjects randomized will be included.</description>
+        <time_frame>12 month</time_frame>
+        <population>All randomized subjects are included.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DBS-f on</title>
+            <description>DBS-f on&#xD;
+DBS-f on: deep brain stimulation of the fornix</description>
+          </group>
+          <group group_id="O2">
+            <title>DBS-f Off</title>
+            <description>DBS-f off&#xD;
+DBS-f off: deep brain stimulation of the fornix turned off</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Long Term Safety. Not Based on Formal Hypotheses.</title>
+          <description>Long-term safety will be assessed by the rate of serious device or therapy related adverse events from the date of randomization through the date of the Month 12 visit. The rate and 95% confidence interval will be presented by randomization group. All subjects randomized will be included.</description>
+          <population>All randomized subjects are included.</population>
+          <units>participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0" upper_limit="16.1"/>
+                    <measurement group_id="O2" value="1" lower_limit="0.1" upper_limit="23.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ADAS-Cog 13</title>
+        <description>The mean change from baseline (pre-implant) to 12 months will be calculated in each treatment group. The differences between randomized groups in mean change will be calculated, along with corresponding 2-sided, 95% confidence intervals.&#xD;
+Instrument is Alzheimer's Disease Assessment Scale - Cognitive subscale. Scores range from 0 to 85 with higher scores meaning worse outcome.</description>
+        <time_frame>Baseline and 12 months</time_frame>
+        <population>All randomized subjects</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DBS-f on</title>
+            <description>DBS-f on&#xD;
+DBS-f on: deep brain stimulation of the fornix</description>
+          </group>
+          <group group_id="O2">
+            <title>DBS-f Off</title>
+            <description>DBS-f off&#xD;
+DBS-f off: deep brain stimulation of the fornix turned off</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ADAS-Cog 13</title>
+          <description>The mean change from baseline (pre-implant) to 12 months will be calculated in each treatment group. The differences between randomized groups in mean change will be calculated, along with corresponding 2-sided, 95% confidence intervals.&#xD;
+Instrument is Alzheimer's Disease Assessment Scale - Cognitive subscale. Scores range from 0 to 85 with higher scores meaning worse outcome.</description>
+          <population>All randomized subjects</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="21"/>
+                <count group_id="O2" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.0" spread="2.2"/>
+                    <measurement group_id="O2" value="8.0" spread="1.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>CDR-SB</title>
+        <description>The mean change from baseline (pre-implant) to 12 months will be calculated in each treatment group. The differences between randomized groups in mean change will be calculated, along with corresponding 2-sided, 95% confidence intervals.&#xD;
+The scale used is the Clinical Dementia Rating Scale and the score used is the sum of boxes. The scores for this measure range from 0 to 18 with a higher score indicating a worse outcome.</description>
+        <time_frame>Baseline and 12 months</time_frame>
+        <population>All randomized subjects with available data. Two subjects in the ON group had missing CDR at 12 months.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>DBS-f on</title>
+            <description>DBS-f on&#xD;
+DBS-f on: deep brain stimulation of the fornix</description>
+          </group>
+          <group group_id="O2">
+            <title>DBS-f Off</title>
+            <description>DBS-f off&#xD;
+DBS-f off: deep brain stimulation of the fornix turned off</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CDR-SB</title>
+          <description>The mean change from baseline (pre-implant) to 12 months will be calculated in each treatment group. The differences between randomized groups in mean change will be calculated, along with corresponding 2-sided, 95% confidence intervals.&#xD;
+The scale used is the Clinical Dementia Rating Scale and the score used is the sum of boxes. The scores for this measure range from 0 to 18 with a higher score indicating a worse outcome.</description>
+          <population>All randomized subjects with available data. Two subjects in the ON group had missing CDR at 12 months.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Error</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="19"/>
+                <count group_id="O2" value="21"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.5" spread="0.4"/>
+                    <measurement group_id="O2" value="2.6" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse events were collected from the time of consent until study exit for each subject. Maximum duration was 48 months.</time_frame>
+      <desc>An independent Clinical Events Committee (CEC) reviewed all reported adverse events. The CEC was responsible for conducting a review of all adverse events reported for study subjects. The CEC will adjudicate and classify all events for relatedness to the study system, study procedure and study requirements. The CEC will determine if any serious device-related adverse event is an unanticipated adverse device effect (UADE).</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>DBS-f on</title>
+          <description>DBS-f on&#xD;
+DBS-f on: deep brain stimulation of the fornix</description>
+        </group>
+        <group group_id="E2">
+          <title>DBS-f Off</title>
+          <description>DBS-f off&#xD;
+DBS-f off: deep brain stimulation of the fornix turned off</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>myocardial infarction with stent</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea and vomiting</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>UTI</sub_title>
+                <description>Urinary tract infection</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Skin infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Bacteremia</sub_title>
+                <description>suspected aortic valve endocarditis</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Device infection</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Increased rigidity</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Altered mental status</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Agitation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Confusion</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Suicidal Ideation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Abnormal MRI</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Subdural hematoma</sub_title>
+                <description>bilateral subacute and chronic</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Lead misplacement</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="19" subjects_at_risk="21"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Fecal Incontinence</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="17" subjects_affected="5" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="21"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="6" subjects_at_risk="21"/>
+                <counts group_id="E2" events="7" subjects_affected="7" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Lethargy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Migraine</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="21"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Shortness of Breath</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory Infection</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="5" subjects_at_risk="21"/>
+                <counts group_id="E2" events="6" subjects_affected="4" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neck Pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Agitation</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="4" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="6" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Confusion</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="7" subjects_affected="6" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="2" subjects_at_risk="21"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Change in Mental Status</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Delerium</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="21"/>
+                <counts group_id="E2" events="6" subjects_affected="4" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Paranoid Ideation</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>visual Hallucinations</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="5" subjects_affected="3" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary Tract Infection</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Urinary Retention</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Urinary Incontenance</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Basal Cell Carcinoma</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="21"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="21"/>
+              </event>
+              <event>
+                <sub_title>Contact Dermatitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="21"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="21"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>While this feasibility trial was randomized it was not designed with formal hypotheses nor was it powered for analyses.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Todd Langevin</name_or_title>
+      <organization>Functional Neuromodulation</organization>
+      <phone>7636071214</phone>
+      <email>todd@fxneuromod.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

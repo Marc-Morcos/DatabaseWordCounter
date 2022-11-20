@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="956">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04663854</url>
+  </required_header>
+  <id_info>
+    <org_study_id>971659</org_study_id>
+    <nct_id>NCT04663854</nct_id>
+  </id_info>
+  <brief_title>Mycose AdminiStration for HealIng Alzheimer NEuropathy (MASHIANE)</brief_title>
+  <acronym>MASHIANE</acronym>
+  <official_title>Evaluation of the Therapeutic Effects of Trehalose in Patients With Alzheimer Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mashhad University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mashhad University of Medical Sciences</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease (AD) is an irreversible, progressive brain disorder that slowly destroys&#xD;
+      memory and thinking skills, and, eventually, the ability to function independently. Despite&#xD;
+      the significant effort to understand the basic biology of the disease and pharmaceutical&#xD;
+      advances to develop drugs, there is no effective therapy available to treat AD or slow the&#xD;
+      disease progression.&#xD;
+&#xD;
+      β-amyloid accumulation outside brain cells and abnormal accumulations of tau protein inside&#xD;
+      neurons are taught to be two main changes in the brain that lead to AD. Progressive&#xD;
+      accumulation of β-amyloid interferes with the neuron-to-neuron communication at synapses,&#xD;
+      contributing to neural cell death. Also, tau tangles block the transport of nutrients and&#xD;
+      other essential molecules into the neurons. Many molecules have been shown to inhibit amyloid&#xD;
+      aggregation. The anti-amyloidogenic activity of trehalose was confirmed in both in vitro and&#xD;
+      in vivo studies and its inhibitory effects on β-amyloid formation in AD have also been&#xD;
+      demonstrated. Trehalose is a non-toxic disaccharide and no dose-dependent adverse effects&#xD;
+      were seen in any of the safety studies. It can act as a chemical chaperone and stabilizes the&#xD;
+      natively folded structure of protein and also trehalose has been identified as an autophagy&#xD;
+      inducer and promotes the clearance of aggregated proteins. Therefore, trehalose could be a&#xD;
+      valuable candidate for the treatment and prevention of amyloid-related disease. Based on the&#xD;
+      proposed hypothesis, this study aim to investigate the potential efficacy of trehalose&#xD;
+      administration in patients with AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Purpose of the study: A randomized, triple-blind, pilot clinical trial has been designed to&#xD;
+      evaluate the effectiveness of trehalose on reducing the symptoms in AD patients. Study&#xD;
+      intervention: twenty patients with Alzheimer's disease were randomly divided into an&#xD;
+      intervention and a control group. Trehalose will be administrated intravenously (15 g/week)&#xD;
+      for 12 weeks in the intervention group and the control group will be received normal saline&#xD;
+      as a placebo.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 20, 2020</start_date>
+  <completion_date type="Anticipated">August 20, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 20, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes of Mini-Mental State Exam (MMSE)</measure>
+    <time_frame>From baseline to 12 weeks</time_frame>
+    <description>Global cognition will be assessed by MMSE test, which will be conducted at baseline and week 12.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Clinical Dementia Rating Scale (CDR)</measure>
+    <time_frame>From baseline to 12 weeks</time_frame>
+    <description>Clinical Dementia Rating Scale (CDR) has six different cognitive and behavioral domains such as memory, orientation, judgment and problem solving, community affairs, home and hobbies performance, and personal care, which will be conducted at baseline and week 12.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Trehalose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Trehalose Participants will be received intravenous trehalose infusion weekly (15 g/week) for a period of 12 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will be received equal volume of normal saline weekly for a period of 12 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trehalose</intervention_name>
+    <description>Trehalose is a natural disaccharide sugar found extensively among miscellaneous organisms including bacteria, plants, insects, yeast, fungi, and invertebrates. By preventing protein denaturation, it plays various protective roles against stress conditions such as heat, freeze, oxidation, desiccation and dehydration. Owing to this capacity, trehalose is an FDA-approved pharmaceutical excipient that is used as a stabilizer in numerous medicines including parenteral products. In this study, all injections will be conducted by a trained nurse in the presence of a specialist physician at a duration of 45-90 minutes.</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>Trehalose</arm_group_label>
+    <other_name>Mycose</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) score range from 10 to 23&#xD;
+&#xD;
+          -  Not having other cognitive disorders&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  MMSE score higher than 23 or lower than 10&#xD;
+&#xD;
+          -  The presence of other cognitive disorders which will be evaluated by clinical&#xD;
+             assessment and brain imaging&#xD;
+&#xD;
+          -  The presence of factors affecting cognitive impairment such as depression&#xD;
+&#xD;
+          -  Vascular dementia and Lewy body dementia&#xD;
+&#xD;
+          -  Previous history of head trauma&#xD;
+&#xD;
+          -  Use of alcohol and other drugs that affect cognitive functioning&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Amirhossien Sahebkar, PhD</last_name>
+    <phone>+985138002299</phone>
+    <email>SahebkarA@mums.ac.ir</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ghaem Educational, Research and Treatment Center</name>
+      <address>
+        <city>Mashhad</city>
+        <state>Razavi Khorasan</state>
+        <zip>9919991766</zip>
+        <country>Iran, Islamic Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amirhossein Sahebkar, PharmD, PhD</last_name>
+      <phone>+989151221496</phone>
+      <email>sahebkara@mums.ac.ir</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Iran, Islamic Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Prince M, Comas-Herrera A, Knapp M, Guerchet M, Karagiannidou M. World Alzheimer report 2016: improving healthcare for people living with dementia: coverage, quality and costs now and in the future.</citation>
+  </reference>
+  <reference>
+    <citation>Prince M, Bryce R, Albanese E, Wimo A, Ribeiro W, Ferri CP. The global prevalence of dementia: a systematic review and metaanalysis. Alzheimers Dement. 2013 Jan;9(1):63-75.e2. doi: 10.1016/j.jalz.2012.11.007. Review.</citation>
+    <PMID>23305823</PMID>
+  </reference>
+  <reference>
+    <citation>Alzheimer's Association. 2015 Alzheimer's disease facts and figures. Alzheimers Dement. 2015 Mar;11(3):332-84.</citation>
+    <PMID>25984581</PMID>
+  </reference>
+  <reference>
+    <citation>Cohen FE, Kelly JW. Therapeutic approaches to protein-misfolding diseases. Nature. 2003 Dec 18;426(6968):905-9. Review.</citation>
+    <PMID>14685252</PMID>
+  </reference>
+  <reference>
+    <citation>Teplow DB. Structural and kinetic features of amyloid beta-protein fibrillogenesis. Amyloid. 1998 Jun;5(2):121-42. Review.</citation>
+    <PMID>9686307</PMID>
+  </reference>
+  <reference>
+    <citation>Villemagne VL, Burnham S, Bourgeat P, Brown B, Ellis KA, Salvado O, Szoeke C, Macaulay SL, Martins R, Maruff P, Ames D, Rowe CC, Masters CL; Australian Imaging Biomarkers and Lifestyle (AIBL) Research Group. Amyloid β deposition, neurodegeneration, and cognitive decline in sporadic Alzheimer's disease: a prospective cohort study. Lancet Neurol. 2013 Apr;12(4):357-67. doi: 10.1016/S1474-4422(13)70044-9. Epub 2013 Mar 8.</citation>
+    <PMID>23477989</PMID>
+  </reference>
+  <reference>
+    <citation>Izmitli A, Schebor C, McGovern MP, Reddy AS, Abbott NL, de Pablo JJ. Effect of trehalose on the interaction of Alzheimer's Aβ-peptide and anionic lipid monolayers. Biochim Biophys Acta. 2011 Jan;1808(1):26-33. doi: 10.1016/j.bbamem.2010.09.024. Epub 2010 Oct 1.</citation>
+    <PMID>20920466</PMID>
+  </reference>
+  <reference>
+    <citation>Du J, Liang Y, Xu F, Sun B, Wang Z. Trehalose rescues Alzheimer's disease phenotypes in APP/PS1 transgenic mice. J Pharm Pharmacol. 2013 Dec;65(12):1753-6. doi: 10.1111/jphp.12108. Epub 2013 Aug 5.</citation>
+    <PMID>24236985</PMID>
+  </reference>
+  <reference>
+    <citation>Arora A, Ha C, Park CB. Inhibition of insulin amyloid formation by small stress molecules. FEBS Lett. 2004 Apr 23;564(1-2):121-5.</citation>
+    <PMID>15094052</PMID>
+  </reference>
+  <reference>
+    <citation>Tanaka M, Machida Y, Niu S, Ikeda T, Jana NR, Doi H, Kurosawa M, Nekooki M, Nukina N. Trehalose alleviates polyglutamine-mediated pathology in a mouse model of Huntington disease. Nat Med. 2004 Feb;10(2):148-54. Epub 2004 Jan 18.</citation>
+    <PMID>14730359</PMID>
+  </reference>
+  <reference>
+    <citation>Yoshizane C, Mizote A, Yamada M, Arai N, Arai S, Maruta K, Mitsuzumi H, Ariyasu T, Ushio S, Fukuda S. Glycemic, insulinemic and incretin responses after oral trehalose ingestion in healthy subjects. Nutr J. 2017 Feb 6;16(1):9. doi: 10.1186/s12937-017-0233-x.</citation>
+    <PMID>28166771</PMID>
+  </reference>
+  <reference>
+    <citation>Richards AB, Krakowka S, Dexter LB, Schmid H, Wolterbeek AP, Waalkens-Berendsen DH, Shigoyuki A, Kurimoto M. Trehalose: a review of properties, history of use and human tolerance, and results of multiple safety studies. Food Chem Toxicol. 2002 Jul;40(7):871-98. Review.</citation>
+    <PMID>12065209</PMID>
+  </reference>
+  <reference>
+    <citation>Ohtake S, Wang YJ. Trehalose: current use and future applications. J Pharm Sci. 2011 Jun;100(6):2020-53. doi: 10.1002/jps.22458. Epub 2011 Feb 18. Review.</citation>
+    <PMID>21337544</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 11, 2020</study_first_posted>
+  <last_update_submitted>December 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mashhad University of Medical Sciences</investigator_affiliation>
+    <investigator_full_name>Amirhossein Sahebkar</investigator_full_name>
+    <investigator_title>Associate Professor at Mashhad University of Medical Sciences</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Trehalose</keyword>
+  <keyword>Clinical Trial</keyword>
+  <keyword>Autophagy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

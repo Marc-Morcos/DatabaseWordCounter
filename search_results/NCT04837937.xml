@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1420">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04837937</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R01AG068421-01</org_study_id>
+    <secondary_id>1R01AG068421-01</secondary_id>
+    <nct_id>NCT04837937</nct_id>
+  </id_info>
+  <brief_title>Negotiation Training for Caregiver Communication in AD</brief_title>
+  <official_title>Negotiation Training to Optimize Caregiver Communication in Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to design a Negotiation and Dispute Resolution (NDR) training&#xD;
+      intervention to improve communication and address resolution of conflicts that family&#xD;
+      caregivers of patients with cognitive impairment and/or Alzheimer's Disease (AD) frequently&#xD;
+      experience.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this study is to design a Negotiation and Dispute Resolution (NDR) training&#xD;
+      intervention to improve communication and address resolution of conflicts that family&#xD;
+      caregivers of patients with cognitive impairment and/or Alzheimer's Disease (AD) frequently&#xD;
+      experience. Specifically this study will:&#xD;
+&#xD;
+      Aim 1: Employ a caregiver (user)-centered design approach to modify and tailor a negotiations&#xD;
+      and dispute resolution (NDR) training intervention to support communication skills of family&#xD;
+      caregivers of adults with AD.&#xD;
+&#xD;
+      Aim 2: Utilizing Multiphase Optimization Strategy (MOST), conduct a randomized controlled&#xD;
+      trial of the NDR intervention that targets better communication between caregivers and health&#xD;
+      teams to determine the feasibility of delivering the intervention, and derive estimates of&#xD;
+      the effect of 3 intervention components on changes in patient-centered outcomes at&#xD;
+      post-intervention and follow-up.&#xD;
+&#xD;
+      Exploratory Aim 3: Explore if intervention components (lectures/exercises) interact to change&#xD;
+      communication between caregivers and health care teams at post-intervention and follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">March 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>The randomized controlled clinical trial has a full factorial testing 3 components at 2 levels each (on and off).&#xD;
+Individuals will be randomized to 1 of 8 experimental conditions. Participants can be assigned to intervention (&quot;Yes&quot;) or control (&quot;No&quot;) conditions for each component. All participants will receive a &quot;caregiver-patient&quot; negotiation exercise so that no participant gets an inactive placebo.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Well-being</measure>
+    <time_frame>1 months post-baseline</time_frame>
+    <description>Caregiver well-being as measured by the Positive Affect and Well-being scale for the Neurology Quality of Life (Neuro-QOL)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>PROMIS Ca Adult Item Bank Emotional distress-Anxiety.&#xD;
+The PROMIS Anxiety instruments measure self-reported fear (fearfulness, panic), anxious misery (worry, dread), and hyper-arousal (tension, nervousness, restlessness).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver strain</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Caregiver Strain Index&#xD;
+The Modified Caregiver Strain Index (MCSI) is a 13-question validated tool that measures strain related to care provision. It measures the following major domains: Financial, Physical, Psychological, Social and Personal. This instrument can be used to assess individuals of any age who have assumed the caregiving role for an older adult.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiver burden</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Burden Scale for Family Caregivers (BSFC-s): a 10-item short version of the Burden Scale for Family Caregivers that detects the amount of burden perceived by the family caregiver.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>PROMIS Fatigue&#xD;
+The PROMIS Fatigue instruments evaluate a range of self-reported symptoms, from mild subjective feelings of tiredness to an overwhelming, debilitating, and sustained sense of exhaustion that likely decreases one's ability to execute daily activities and function normally in family or social roles.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>General self-efficacy</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>PROMIS General Self-Efficacy - Short Form</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caregiving self-efficacy</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>PROMIS Care-giving Self Efficacy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Emotional support</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>PROMIS Emotional Support - Short Form.&#xD;
+The PROMIS Emotional Support item bank assesses perceived feelings of being cared for and valued as a person; having confidant relationships.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Informational support</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>PROMIS Informational Support - Short Form.&#xD;
+The PROMIS Informational Support item bank assesses perceived availability of helpful information or advice.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction with Social Roles/Activities</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>PROMIS Satisfaction with Social Roles/Activities</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Intervention Feasibility: Recruitment</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Measuring the feasibility of the intervention by collecting study recruitment rates (# of people)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Intervention Feasibility: Retention</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Measuring the feasibility of the intervention by collecting study participant retention rates (# of people)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Intervention Feasibility: Usability</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Measuring the feasibility of the intervention by measuring the usability of the intervention as measured by the System Usability Scale (SUS), a 10-item measure of usability.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Intervention Feasibility: Acceptability</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Measuring the feasibility and acceptability of the intervention using the USE Scale, a 30-item measure of usefulness, satisfaction, ease of use, and ease of learning.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Intervention Feasibility: Completion</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Measuring the feasibility of the intervention by assessing completion of negotiation training exercises.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Negotiation and Conflict</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Caregiver negotiation processes and communication will be assessed using the Dutch Test for Conflict Handling (DUTCH), a widely used tool that measures aspects of conflict resolution pertaining to the negotiator.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Negotiation Knowledge</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Survey measuring caregiver knowledge of negotiation strategies</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Negotiation Utilization</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Survey measuring caregiver utilization of negotiation strategies</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Program Assessment</measure>
+    <time_frame>3 months post-baseline</time_frame>
+    <description>Survey measuring the perception of the assigned intervention program, satisfaction, progress. Likert scale. Open-ended questions to obtain qualitative data on subjects' perception.</description>
+  </other_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Condition 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' conflict negotiation/dispute resolution exercise. All participants will complete this exercise; it will serve as the constant.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Condition 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' conflict negotiation/dispute resolution exercise; (2) 'Caregiver vs. Patient [Advanced]' ' conflict negotiation/dispute resolution exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Condition 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' conflict negotiation/dispute resolution exercise; (2) 'Caregiver vs. Physician' conflict negotiation/dispute resolution exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Condition 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' conflict negotiation/dispute resolution exercise; (2) 'Caregiver vs. Physician' conflict negotiation/dispute resolution exercise; (3) 'Caregiver vs. Patient [Advanced]' conflict negotiation/dispute resolution exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Condition 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' conflict negotiation/dispute resolution exercise; (2) 'Caregiver vs. Caregiver' conflict negotiation/dispute resolution exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Condition 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' conflict negotiation/dispute resolution exercise; (2) 'Caregiver vs. Caregiver' conflict negotiation/dispute resolution exercise; (3) 'Caregiver vs. Patient [Advanced]' conflict negotiation/dispute resolution exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Condition 7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' negotiation/dispute resolution exercise; (2) 'Caregiver vs. Caregiver' conflict negotiation/dispute resolution exercise; (3) 'Caregiver vs. Physician' conflict negotiation/dispute resolution exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Condition 8</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(1) 'Caregiver vs. Patient [Beginner]' conflict negotiation/dispute resolution exercise; (2) 'Caregiver vs. Caregiver' conflict negotiation/dispute resolution exercise; (3) 'Caregiver vs. Physician' conflict negotiation/dispute resolution exercise; (4) 'Caregiver vs. Patient [Advanced]' conflict negotiation/dispute resolution exercise</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Caregiver vs. Patient [Beginner]</intervention_name>
+    <description>Participants will be assigned a 'Caregiver vs. Patient' [Beginner] online negotiation exercise. All participants will complete this exercise, so it will serve as the constant.</description>
+    <arm_group_label>Condition 1</arm_group_label>
+    <arm_group_label>Condition 2</arm_group_label>
+    <arm_group_label>Condition 3</arm_group_label>
+    <arm_group_label>Condition 4</arm_group_label>
+    <arm_group_label>Condition 5</arm_group_label>
+    <arm_group_label>Condition 6</arm_group_label>
+    <arm_group_label>Condition 7</arm_group_label>
+    <arm_group_label>Condition 8</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Caregiver vs. Caregiver</intervention_name>
+    <description>Participants will be assigned a 'Caregiver vs. Caregiver' online negotiation exercise.</description>
+    <arm_group_label>Condition 5</arm_group_label>
+    <arm_group_label>Condition 6</arm_group_label>
+    <arm_group_label>Condition 7</arm_group_label>
+    <arm_group_label>Condition 8</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Caregiver vs. Physician</intervention_name>
+    <description>Participants will be assigned a 'Caregiver vs. Physician' online negotiation exercise.</description>
+    <arm_group_label>Condition 3</arm_group_label>
+    <arm_group_label>Condition 4</arm_group_label>
+    <arm_group_label>Condition 7</arm_group_label>
+    <arm_group_label>Condition 8</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Caregiver vs. Patient [Advanced]</intervention_name>
+    <description>Participants will be assigned a 'Caregiver vs. Patient [Difficult]' online negotiation exercise. This exercise is &quot;advanced&quot; compared to the constant since it involves negotiating more than one conflict.</description>
+    <arm_group_label>Condition 2</arm_group_label>
+    <arm_group_label>Condition 4</arm_group_label>
+    <arm_group_label>Condition 6</arm_group_label>
+    <arm_group_label>Condition 8</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Speak/read English;&#xD;
+&#xD;
+          -  Currently provide care-giving support (e.g. emotional, social, physical, task-related)&#xD;
+             to an adult over the age of 65;&#xD;
+&#xD;
+          -  Currently provide care-giving support at least 2 hours per week (e.g. may include&#xD;
+             grocery shopping, scheduling appointments, and transportation);&#xD;
+&#xD;
+          -  Currently involved in any decision-making related to the healthcare and support of&#xD;
+             this adult over the age of 65;&#xD;
+&#xD;
+          -  Score &gt;2 on the 8-item Informant Interview to Differentiate Aging and Dementia (AD8);&#xD;
+             and&#xD;
+&#xD;
+          -  Access to and the ability to use the internet to complete a series of online&#xD;
+             activities&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Less than 21 years old&#xD;
+&#xD;
+          -  Unable to speak and read English&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Vanessa Ramirez-Zohfeld, MPH</last_name>
+    <phone>312-503-3916</phone>
+    <email>vanessa-ramirez-0@northwestern.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lee A Lindquist, MD MPH MBA</last_name>
+    <email>lal425@northwestern.edu</email>
+  </overall_contact_backup>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>April 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 8, 2021</study_first_posted>
+  <last_update_submitted>September 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Lee Lindquist</investigator_full_name>
+    <investigator_title>Associate Professor of Medicine, Chief - Geriatrics</investigator_title>
+  </responsible_party>
+  <keyword>Family caregiver</keyword>
+  <keyword>Negotiation</keyword>
+  <keyword>Dispute resolution</keyword>
+  <keyword>Conflict communication</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

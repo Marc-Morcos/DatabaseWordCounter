@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="207">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05068830</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018/702</org_study_id>
+    <secondary_id>2018-000148-24</secondary_id>
+    <nct_id>NCT05068830</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of Plasma Transfusion From Exercise-trained Donors in Patients With Early Alzheimer's Disease</brief_title>
+  <acronym>ExPlas</acronym>
+  <official_title>Safety and Efficacy of Plasma Transfusion From Exercise-trained Donors in Patients With Early Alzheimer's Disease: The ExPlas Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Norwegian University of Science and Technology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>St. Olavs Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Norwegian University of Science and Technology</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction Given that exercise training reduces the risk of developing Alzheimer's disease&#xD;
+      (AD), induces changes in the blood composition and has widespread systemic benefits, it is&#xD;
+      reasonable to hypothesize that exercised plasma may have rejuvenative properties. The main&#xD;
+      objective is to test safety and tolerability of transfusing exercised plasma (ExPlas) from&#xD;
+      young, healthy, fit adults to patients with early AD. The study is a pilot for a future&#xD;
+      efficacy study. The key secondary objectives are examining the effect of plasma transfusions&#xD;
+      on cognitive function, fitness level, vascular risk profile, assessment of cerebral blood&#xD;
+      flow and hippocampal volume, quality of life, functional connectivity assessed by resting&#xD;
+      state functional MRI and biomarkers in blood and cerebrospinal fluid.&#xD;
+&#xD;
+      Methods and analysis ExPlas is a double-blinded, randomized controlled clinical single center&#xD;
+      trial. Patients aged 50-75 years with diagnosis mild cognitive impairment or early AD will be&#xD;
+      recruited from two Norwegian hospitals. ExPlas is plasma drawn by plasmapheresis once a month&#xD;
+      for 4 months, from a total of 30 donors (aged 18-40, BMI ≤27 kg/m2 and VO2max &gt;50 mL/kg/min).&#xD;
+      All units will be virus inactivated by the Intercept method in accordance with procedures at&#xD;
+      St. Olavs Hospital. Comparison with isotonic saline allows differentiation from a non-blood&#xD;
+      product. The main study consists of 6 rounds of examinations in addition to 12 plasma&#xD;
+      transfusions divided over three 4-weeks periods during study year-1. Follow-up examinations&#xD;
+      after 2 and 5 years after baseline is also planned.&#xD;
+&#xD;
+      Ethics and dissemination Written informed consent will be obtained from all participants and&#xD;
+      participation is voluntary. All participants have a next of kin who will follow them&#xD;
+      throughout the study and represent the patient's interest. The study is approved by the&#xD;
+      Regional Committee for Medical and Health Research Ethics (REK 2018/702) and the Norwegian&#xD;
+      Medicines Agency (EudraCT No. 2018-000148-24).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 17, 2021</start_date>
+  <completion_date type="Anticipated">September 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 2024</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double blinded, randomized controlled clinical phase II trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients with adverse events</measure>
+    <time_frame>1 year</time_frame>
+    <description>as a measure for safety and tolerability of the treatment</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of subjects who comply with the research protocol</measure>
+    <time_frame>1 year</time_frame>
+    <description>as a measure for feasibility</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CERAD-test</measure>
+    <time_frame>1, 2 and 5 years</time_frame>
+    <description>Change in performance in the CERAD (The Consortium to Establish a Registry for Alzheimer's Disease) Ten word Test. CERAD Word List consists of three test parts; immediate recall, delayed recall and recognition. The scoring range for immediate recall is 0-30, for delayed recall 0-10 and for recognition 0-20. Higher scores indicate better learning performance, memory performance and recognition performance.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MMSE</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in the Mini-Mental State Examination Score. An MMSE score of ≥20 is criteria for inclusion. Higher scores &gt;28 indicate normal cognitive function. Scores in the middle range 25-27 may indicate cognitive impairment. Lower scores &lt;24 indicate cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Trail-Making test A and B</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in performance in Trail-Making test A and B. The Trail Making Tests are scored by how long it takes to complete the tests. Norms for completion time variate with age and educational level. Longer completion time indicates impaired visual attention, processing speed and executive function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clock Drawing Test</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in scores in the Clock Drawing Test. The Clock Drawing Test has a scoring range 0-5. Higher scores indicate normal cognitive function. Lower scores &lt;4 may indicate cognitive impairment, spatial dysfunction or neglect.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Controlled Oral Word Association Test (COWAT)-FAS</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in scores in Controlled Oral Word Association Test (COWAT)-FAS. Scoring is based on how many words the person produces within 1 minute. The minimum score is 0, and there is no maximum score. Higher scores indicate better verbal fluency. Scoring norms are based on the persons age and education level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual Object and Space Perception (VOSP) Silhouettes</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in scores in Visual Object and Space Perception (VOSP) Silhouettes. Visual Object and Space Perception (VOSP) Silhouettes has a scoring range 0-30. Higher scores &gt; 20 indicate normal visuospatial function, and lower scores &lt; 20 indicate visuospatial dysfunction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Dementia Rating Scale Global score and Sum of Boxes</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in Clinical Dementia Rating Scale Global score and Sum of Boxes. Clinical Dementia Rating Scale (CDR) is a clinical scale for the staging of dementia. The Global Score ranges dementia severity from 0-3. The Sum of Boxes ranges dementia severity from 0-18. Higher scores indicate more severe disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Lawton Instrumental Activities of Daily Living Scale (IADL)</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in The Lawton Instrumental Activities of Daily Living Scale (IADL). The Lawton Instrumental Activities of Daily Living Scale (IADL) evaluates the person's ability to perform complex everyday activities. The score ranges from 8-31. Higher scores indicate lower functional level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6 minutes' walk test</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in 6 minutes' walk-test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Functional MRI</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in/Reduced hippocampal atrophy and preservation of functional connectivity assessed by resting state functional MRI. A secondary aim is to identify any effect of treatment group on MRI markers of both neurodegenerative and cerebrovascular disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SF-36</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Quality of Life SF-36 Questionnaire. Computer-based scoring services for the SF-36v2 are available through QualityMetric™ or its licensed certified vendors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker profile in blood</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in biomarkers in blood (APOE). As there exist no single ideal biomarker of AD this endpoint is partly exploratory. Biological material will be stored for future analysis in the search for new biomarkers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Biomarker profile in cerebrospinal fluid</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Change in biomarkers in cerebrospinal fluid (Amyloid Beta 1-42, Amyloid Beta 1-40, phosphor tau and total tau). As there exist no single ideal biomarker of AD this endpoint is partly exploratory. Biological material will be stored for future analysis in the search for new biomarkers.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Cardiac dimensions - Left ventricular end diastolic diameter</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in cardiac dimensions - left ventricular end diastolic diameter (mm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Cardiac dimensions - Right ventricular dimension</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in cardiac dimensions - right ventricular dimension (mm).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Cardiac volumes - Left ventricular and diastolic volume.</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in cardiac volumes - left ventricular and diastolic volume (mL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Cardiac volumes - Right ventricular volume</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in cardiac volumes. Right ventricular volume (mL).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Functional indices - Ejection fraction</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in functional indices - ejection fraction (%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Functional indices - Left ventricular strain</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in functional indices - left ventricular strain (%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Functional indices - Ventricular velocity</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in functional indices - ventricular velocity (cm/s).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Functional indices - Right ventricular strain</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in functional indices - right ventricular strain (%).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Echocardiography - Functional indices - Left ventricular stiffness</measure>
+    <time_frame>1, 2, and 5 years</time_frame>
+    <description>Changes in functional indices - left ventricular stiffness.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Exercised plasma (ExPlas)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosage: 200 mL at every time point Dosage form: Solution for intravenous infusion Frequency of administration: 12 ExPlas transfusions during the time span of one year (weekly transfusions in 3 four-week periods)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Octaplasma</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Dosage: 200 mL at every time point Dosage form: Solution for intravenous infusion Frequency of administration: 12 Octaplasma transfusions during the time span of one year (weekly transfusions in 3 four-week periods)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Dosage: 200 mL at every time point Dosage form: Solution for intravenous infusion Frequency of administration: 12 saline infusions during the time span of one year (weekly transfusions in 3 four-week periods)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ExPlas</intervention_name>
+    <description>ExPlas (plasma from fit donors) is a Investigational Medicinal Product. ExPlas is plasma drawn by plasmapheresis once a month for 4 months, from a total of 30 donors (aged 18-40, BMI ≤27 kg/m2 and VO2max &gt;50 mL/kg/min) at the Blood Bank at St. Olavs Hospital. All unites will be virus inactivated by the Intercept method (Cerus corporation, US) in accordance with the procedures at Blood Bank at St. Olavs Hospital.&#xD;
+The transfusion volume will be 200 mL at every time point.&#xD;
+The main study consists of 6 rounds of examinations in addition to 12 plasma transfusions during the time span of one year (weekly transfusions in 3 four-week periods) and one round of examinations 2 years after baseline. A follow-up visit is also planned 5 years after baseline.</description>
+    <arm_group_label>Exercised plasma (ExPlas)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Octaplasma</intervention_name>
+    <description>Octaplasma is defined as a Investigational Medicinal Product. Octaplasma is human pooled plasma produced by Octapharma (Lachen, Switzerland). The transfusion volume will be 200 mL at every time point .&#xD;
+The main study consists of 6 rounds of examinations in addition to 12 plasma transfusions during the time span of one year (weekly transfusions in 3 four-week periods) and one round of examinations 2 years after baseline. A follow-up visit is also planned 5 years after baseline.</description>
+    <arm_group_label>Octaplasma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>Saline is provided by the hospital pharmacies in Central Norway. The infusion volume will be 200 mL at every time point.&#xD;
+The main study consists of 6 rounds of examinations in addition to 12 saline infusions during the time span of one year (weekly transfusions in 3 four-week periods) and one round of examinations 2 years after baseline. A follow-up visit is also planned 5 years after baseline.</description>
+    <arm_group_label>Saline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patient inclusion criteria:&#xD;
+&#xD;
+          -  Diagnosis AD in early phase according to the IWG-2 criteria.&#xD;
+&#xD;
+          -  Mini-Mental State Examination (MMSE) Score ≥20.&#xD;
+&#xD;
+          -  In-vivo evidence of Alzheimer´s pathology (one of the following):&#xD;
+&#xD;
+               -  Decreased Aβ42 together with increased t-tau or p-tau in CSF.&#xD;
+&#xD;
+               -  Increased tracer retention on amyloid PET.&#xD;
+&#xD;
+          -  Availability of a next of kin who knows the patient well and is willing to accompany&#xD;
+             the subject to all trial visits and give information about the patients functional&#xD;
+             level.&#xD;
+&#xD;
+          -  Signed informed consent.&#xD;
+&#xD;
+          -  The patient is judged fitted for the study and capable to cooperate in treatment and&#xD;
+             follow-up.&#xD;
+&#xD;
+          -  Ability to communicate in Norwegian or another Scandinavian language.&#xD;
+&#xD;
+        Patient exclusion criteria:&#xD;
+&#xD;
+          -  Pregnancy or unwilling to use adequate birth control for the duration of and 6 months&#xD;
+             beyond study participation. Defined according to Clinical Trial Facilitation Group&#xD;
+             document &quot;Recommendations related to contraception and pregnancy testing in clinical&#xD;
+             trials&quot;.&#xD;
+&#xD;
+          -  Positive for Hepatitis B, Hepatitis C or HIV at screening.&#xD;
+&#xD;
+          -  Not qualified to give consent at inclusion.&#xD;
+&#xD;
+          -  Any other condition judged to interfere with the safety of the patient or the intent&#xD;
+             and conduct of the study.&#xD;
+&#xD;
+        Related to medical history:&#xD;
+&#xD;
+          -  Stroke&#xD;
+&#xD;
+          -  Anaphylaxis&#xD;
+&#xD;
+          -  Prior adverse reaction to any human blood product&#xD;
+&#xD;
+          -  Any history of a blood coagulation disorder or hypercoagulability&#xD;
+&#xD;
+          -  Congestive heart failure, defined as any previous heart failure hospitalization, or&#xD;
+             current symptomatic heart failure in New York heart Association class ≥II with&#xD;
+             reduced, mid-range or preserved ejection fraction.&#xD;
+&#xD;
+          -  Coagulation defect or hypercoagulopathy&#xD;
+&#xD;
+          -  Uncontrolled hypertension&#xD;
+&#xD;
+          -  Renal failure&#xD;
+&#xD;
+          -  Prior intolerance to intravenous fluids&#xD;
+&#xD;
+          -  Recent history of uncontrolled atrial fibrillation&#xD;
+&#xD;
+          -  Bone marrow transplant&#xD;
+&#xD;
+          -  IgA deficiency&#xD;
+&#xD;
+          -  Severe protein S deficiency&#xD;
+&#xD;
+          -  Thrombocytopenia (platelets &lt; 40 x 10 to the power of 9/L)&#xD;
+&#xD;
+          -  Contraindication for Octaplasma&#xD;
+&#xD;
+        Related to medications or other treatments:&#xD;
+&#xD;
+          -  Any concurrent use of anticoagulant therapy, clopidogrel or acetylsalicylic&#xD;
+             acid/Dipyridamol in combination.&#xD;
+&#xD;
+          -  Initiation or change in the dosage of a acetylcholine esterase inhibitor (AChEI) or&#xD;
+             memantine during the trial (week 0-52). Participants will be urged to start on AChEI&#xD;
+             when diagnosis is communicated, and must be on a stable dose for at least one month&#xD;
+             prior to screening.&#xD;
+&#xD;
+          -  Concurrent participation in another treatment trial for AD. If there was prior&#xD;
+             participation, the last dose of the investigational agent must have been given at&#xD;
+             least 6 months prior to screening, except if the patient received placebo medication.&#xD;
+&#xD;
+          -  Treatment with any human blood product, including intravenous immunoglobulin, during&#xD;
+             the 6 months prior to screening or during the trial.&#xD;
+&#xD;
+          -  Concurrent daily treatment with benzodiazepines, typical or atypical antipsychotics,&#xD;
+             long-acting opioids, or other medications that is judged to interfere with cognition.&#xD;
+             Intermittent treatment with short-acting benzodiazepines or atypical antipsychotics&#xD;
+             may be permitted, provided that no dose is administered within 72 hours prior to&#xD;
+             cognitive assessment.&#xD;
+&#xD;
+        Related to magnetic resonance imaging:&#xD;
+&#xD;
+          -  Claustrophobia&#xD;
+&#xD;
+          -  Any metallic surgical implant, like a pacemaker or clip that is incompatible with MRI.&#xD;
+&#xD;
+        Certain metallic implants like joint replacements may be permitted, provided that specific&#xD;
+        manufacturer specifications are available, and that the device is known to be safe for 7T&#xD;
+        MRI. In case a patient is not eligible for the 7T scanner, the 3T scanner will be used.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ulrik Wisløff, PhD, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cardiac Exercise Research Group at the Department of Circulation and Medical Imaging, NTNU</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sigrid Botne Sando, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Neurology and Clinical Neurophysiology, St. Olavs University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Atefe R. Tari</last_name>
+    <phone>+47 48079041</phone>
+    <email>atefe.r.tari@ntnu.no</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Neurology and Clinical Neurophysiology, St Olavs Hospital</name>
+      <address>
+        <city>Trondheim</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sigrid Botne Sando, MD, PhD</last_name>
+      <email>sigrid.b.sando@ntnu.no</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>September 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 6, 2021</study_first_posted>
+  <last_update_submitted>September 30, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Exercise therapy</keyword>
+  <keyword>Blood transfusion</keyword>
+  <keyword>Plasma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>To be decided</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>After study completion</ipd_time_frame>
+    <ipd_access_criteria>Collaborative research projects</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

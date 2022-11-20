@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2452">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04726527</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STU00044931</org_study_id>
+    <nct_id>NCT04726527</nct_id>
+  </id_info>
+  <brief_title>Clinical Evaluation of Florbetapir in Primary Progressive Aphasia</brief_title>
+  <acronym>PPA</acronym>
+  <official_title>Clinical Evaluation of Florbetapir F 18 (18F-AV-45) / Determinants of Neurodegenerative Decline in Primary Progressive Aphasia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research is to better understand how dementia affects activity in&#xD;
+      different parts of the brain.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is being done to examine the usefulness of Positron Emission Tomography (PET)&#xD;
+      imaging with florbetapir F 18 as a biomarker in the identification of amyloid-ß peptide (Aß)&#xD;
+      in the brain. Amyloid-ß peptide (Aß) accumulates in the brains of patients with Alzheimer's&#xD;
+      disease. Florbetapir F 18 sticks to the amyloid plaques in the brain and emits a low level of&#xD;
+      gamma rays which can be detected by a PET camera. The development of biomarker and imaging&#xD;
+      studies that track the development of PPA and reflect the change in people's bodies may help&#xD;
+      other people who have a similar medical problem in the future.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 15, 2012</start_date>
+  <completion_date type="Actual">February 28, 2017</completion_date>
+  <primary_completion_date type="Actual">September 2, 2015</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Detecting amyloid burden in subjects with neurodegenerative diseases</measure>
+    <time_frame>4 years</time_frame>
+    <description>The study will provide standardized conditions for florbetapir F 18 use, amyloid binding as measured by PET imaging, and long-term outcome in cognitively normal volunteers, patients with Alzheimer's Disease, patients with Mild Cognitive Impairment, and patients with other neurodegenerative diseases. It will also facilitate evaluation of subject's amyloid burden in companion studies such as longitudinal studies of aging, studies of progressive cognitive impairment, and studies of imaging and blood/cerebrospinal fluid biomarkers of neurodegenerative disease.</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">48</enrollment>
+  <condition>Primary Progressive Aphasia</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>Florbetapir F 18 Recipients</arm_group_label>
+    <description>Participants in this arm of the study will receive a 10 mCi (370 MBq) bolus injection of florbetapir F 18 and then be scanned in a PET scanner for brain imaging.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Florbetapir F 18</intervention_name>
+    <description>A single injection of 10 mCi (370 MBq) florbetapir F 18 will be administered by intravenous bolus injection.</description>
+    <arm_group_label>Florbetapir F 18 Recipients</arm_group_label>
+    <other_name>trade name Amyvid</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Positron Emission Tomography</intervention_name>
+    <description>PET Scan for brain imaging</description>
+    <arm_group_label>Florbetapir F 18 Recipients</arm_group_label>
+    <other_name>PET</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants will be recruited from other research projects at Northwestern's Mesulam&#xD;
+        Center. Some of these projects recruit participants from the local Chicagoland area and&#xD;
+        others recruit participants from across the United States.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who, in the opinion of the investigator, can tolerate the PET scan procedures&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinically significant cardiovascular disease&#xD;
+&#xD;
+          -  clinically significant hepatic, renal, pulmonary, metabolic, or endocrine disturbances&#xD;
+&#xD;
+          -  Pregnant&#xD;
+&#xD;
+          -  Breastfeeding&#xD;
+&#xD;
+          -  Women of childbearing potential who are not surgically sterile, not refraining from&#xD;
+             sexual activity or not using reliable methods of contraception.&#xD;
+&#xD;
+          -  History of relevant severe drug allergy or hypersensitivity&#xD;
+&#xD;
+          -  Patients who have received an investigational medication under an FDA Investigational&#xD;
+             New Drug (IND) protocol within the last 30 days.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Emily Rogalski, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cognitive Neurology and Alzheimer's Disease Center - Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 22, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2021</study_first_posted>
+  <last_update_submitted>February 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Emily Rogalski</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's Disease</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Primary Progressive Aphasia</keyword>
+  <keyword>Neurocognitive Disorders</keyword>
+  <keyword>Speech Disorders</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Aphasia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

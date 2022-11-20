@@ -1,0 +1,2598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="736">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02788513</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1346.23</org_study_id>
+    <secondary_id>2015-005438-24</secondary_id>
+    <nct_id>NCT02788513</nct_id>
+  </id_info>
+  <brief_title>BI 425809 in Patients With Cognitive Impairment Due to Alzheimer's Disease.</brief_title>
+  <official_title>A Multi-centre, Double-blind, Parallel-group, Randomised Controlled Study to Investigate Efficacy and Safety of Orally Administered BI 425809 During a 12-week Treatment Period Compared to Placebo in Patients With Cognitive Impairment Due to Alzheimer's Disease.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is designed to compare the effects of BI 425809 compared to placebo in patients&#xD;
+      with cognitive impairment due to Alzheimer's Disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 11, 2016</start_date>
+  <completion_date type="Actual">October 11, 2019</completion_date>
+  <primary_completion_date type="Actual">September 12, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change From Baseline in Alzheimer's Disease Assessment Scale-Cognitive Subscale 11 Item (ADAS-Cog11) Total Score After 12 Weeks of Treatment</measure>
+    <time_frame>On day 1 (visit 2, baseline) and day 85 (end of trial)</time_frame>
+    <description>The ADAS-Cog11 is an 11-item cognitive subscale that objectively measures memory, language, orientation and praxis with a total score range of 0 to 70, with lower scores indicating less severe impairment. A negative change indicates an improvement from baseline.&#xD;
+Multiple comparison procedures and modelling (MCPmod) in combination with mixed model repeated measures (MMRM) is used for primary analysis of the primary endpoint.&#xD;
+MMRM included fixed, categorical covariates of treatment, visit, baseline Mini Mental State Examination MMSE (&gt;=20, &lt;20) and treatment-by-visit interaction, as well as the continuous fixed covariates of baseline and baseline-by-visit interaction. Patient was considered as random effect. The unstructured covariance structure was used to model the within patient measurements. The same MMRM model used in the primary analysis is used for the secondary analysis of the primary endpoint.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in the Alzheimer's Disease Cooperative Study/Activities of Daily Living (ADCS-ADL) Score After 12 Weeks of Treatment</measure>
+    <time_frame>On day 1 (visit 2, baseline) and day 85 (end of trial)</time_frame>
+    <description>Change from baseline in the ADCS-ADL score after 12 weeks of treatment is presented.&#xD;
+The ADCS-ADL is a rating scale used to assess basic and instrumental activities of daily living. In the full version of the scale, 23 items are rated by the investigator using information supplied by the caregiver. Each item has a score range varying from 0-3 to 0-5. The sum score could range from 0 to 78, with higher scores indicating less severe impairment. A positive change indicates an improvement from baseline.&#xD;
+Abbreviation: MMSE = Mini Mental State Examination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinician's Interview-Based Impression of Change (CIBIC+) Score After 12 Weeks of Treatment</measure>
+    <time_frame>On day 1 (visit 2, baseline) and day 85 (end of trial)</time_frame>
+    <description>Clinician's Interview-Based Impression of Change (CIBIC+) score is based on semi-structured interview covering domains of function and cognition. It additionally requires the assessment of psychiatric signs and symptoms. The patient and their caregiver are interviewed and questioned by the clinician. Change rate is based on an unanchored 7-point scale (with 0 being not assessed, 1-3 being very much improved to minimally improved, 4 being no change, and 5-7 being minimally worse to very much worse).&#xD;
+For the ANCOVA model, the baseline value for CIBIC+ is represented by CIBIS which is clinician's interview-based impression of severity score (scores range from 0-7, with 0 being not assessed, 1 being normal, and 7 being most extremely ill) in order to adjust for potential baseline heterogeneity.&#xD;
+Abbreviation: MMSE = Mini Mental State Examination</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Actual">611</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>BI 425809 dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BI 425809 dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BI 425809 dose 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BI 425809 dose 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 425809 dose 1</intervention_name>
+    <arm_group_label>BI 425809 dose 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 425809 dose 2</intervention_name>
+    <arm_group_label>BI 425809 dose 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 425809 dose 3</intervention_name>
+    <arm_group_label>BI 425809 dose 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 425809 dose 4</intervention_name>
+    <arm_group_label>BI 425809 dose 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>BI 425809 dose 1</arm_group_label>
+    <arm_group_label>BI 425809 dose 2</arm_group_label>
+    <arm_group_label>BI 425809 dose 3</arm_group_label>
+    <arm_group_label>BI 425809 dose 4</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Patients with early signs of dementia of Alzheimer Type&#xD;
+&#xD;
+          -  Male and female patients with an age of at least 55 years&#xD;
+&#xD;
+          -  Concomitant use of acetylcholinesterase inhibitors (AChEIs) is allowed but not&#xD;
+             required. Patients who are currently taking AChEIs are eligible as long as they have&#xD;
+             been using a stable dose for at least 3 months prior to screening and no change is&#xD;
+             foreseen for the duration of the study. This dose must be consistent with the product&#xD;
+             label in the concerned country. Patients who are not currently taking AChEIs but have&#xD;
+             taken them in the past are also eligible if AChEIs were stopped at least 3 months&#xD;
+             prior to screening.&#xD;
+&#xD;
+          -  Patients must have at least 6 years of formal education and fluency in the test&#xD;
+             language as verbally confirmed by the patient and documented by the study&#xD;
+             investigator.&#xD;
+&#xD;
+          -  Patients must have a reliable study partner (per investigator judgement, for instance&#xD;
+             a family member, partner etc., guardian)&#xD;
+&#xD;
+          -  Further inclusion criteria apply&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Cognitive impairment or dementia with any etiology other than Alzheimer's Dementia&#xD;
+             (AD)&#xD;
+&#xD;
+          -  Substantial concomitant cerebrovascular disease (defined by a history of a stroke /&#xD;
+             intracranial haemorrhagia) temporally related to the onset of worsening of cognitive&#xD;
+             impairment per investigator judgement&#xD;
+&#xD;
+          -  Medical history or diagnosis of any of symptomatic and unstable/uncontrolled&#xD;
+             conditions per investigator judgement&#xD;
+&#xD;
+          -  Patients receiving prescribed drugs for treatment of dementia of Alzheimer Type (other&#xD;
+             than Acetylcholine Esterase Inhibitors) at screening or within 3 months prior to&#xD;
+             screening&#xD;
+&#xD;
+          -  Previous participation in investigational drug studies of dementia of Alzheimer's Type&#xD;
+             within three months prior to screening. Patients having received any active treatment&#xD;
+             in studies targeting disease modification of AD are excluded. Previous participation&#xD;
+             in studies with non-prescription medications, vitamins or other nutritional&#xD;
+             formulations is allowed.&#xD;
+&#xD;
+          -  Clinically significant uncompensated hearing loss in the judgment of the investigator.&#xD;
+             Use of hearing aids is allowed.&#xD;
+&#xD;
+          -  Further exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Boehringer Ingelheim</last_name>
+    <role>Study Chair</role>
+    <affiliation>Boehringer Ingelheim</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Axiom Research LLC</name>
+      <address>
+        <city>Colton</city>
+        <state>California</state>
+        <zip>92324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Wellness</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anderson Clinical Research</name>
+      <address>
+        <city>Redlands</city>
+        <state>California</state>
+        <zip>92374</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CITrials</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Clinical</name>
+      <address>
+        <city>Hallandale Beach</city>
+        <state>Florida</state>
+        <zip>33009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Galiz Research</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Premier Clinical Research Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Jewish Health System</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33137</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stedman Clinical Trials</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bioclinica Research</name>
+      <address>
+        <city>The Villages</city>
+        <state>Florida</state>
+        <zip>32162</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuro Trials Research Incorporated</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Millennium Psychiatric Associates LLC</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ANI Neurology, PLLC, dba Alzheimer's Memory Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28270</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tulsa Clinical Research, LLC</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northeastern Pennsylvania Memory and Alzheimer Center</name>
+      <address>
+        <city>Plains</city>
+        <state>Pennsylvania</state>
+        <zip>18705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roper St. Francis Healthcare</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Memory Clinic</name>
+      <address>
+        <city>Bennington</city>
+        <state>Vermont</state>
+        <zip>05201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LKH-Univ. Hospital Graz</name>
+      <address>
+        <city>Graz</city>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of Innsbruck</name>
+      <address>
+        <city>Innsbruck</city>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SALK Christian-Doppler-Klinik,Paracel.Med.Privatuni.f.Neurol</name>
+      <address>
+        <city>Salzburg</city>
+        <zip>5020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Private Practice for Psychiatry and Neurology</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1130</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Medical Arts Health Research Group</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <zip>V1Y 4N7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research Halifax, Inc.</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3S 1M7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>True North Clinical Research Kentville, Inc.</name>
+      <address>
+        <city>Kentville</city>
+        <state>Nova Scotia</state>
+        <zip>B4N 4K9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bluewater Clinical Research</name>
+      <address>
+        <city>Sarnia</city>
+        <state>Ontario</state>
+        <zip>N7T 4X3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Neuro-Outaouais</name>
+      <address>
+        <city>Gatineau</city>
+        <state>Quebec</state>
+        <zip>J8Y 1W2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Diex Recherche</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 0H8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Orton</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>FI-00280</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Eastern Finland, Brain Research Unit</name>
+      <address>
+        <city>Kuopio</city>
+        <zip>70210</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Terveystalo Lahti</name>
+      <address>
+        <city>Lahti</city>
+        <zip>15110</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>OYS, Neurologian tutkimusyksikkö</name>
+      <address>
+        <city>Oulu</city>
+        <zip>90220</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CRST - Clinical Research Services Turku</name>
+      <address>
+        <city>Turku</city>
+        <zip>20520</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP Pellegrin</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP Pierre Wertheimer</name>
+      <address>
+        <city>Bron</city>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP Roger Salengro</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP Gui de Chauliac</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP Nord Laënnec</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP La Pitié Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <zip>75651</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU La Grave-Casselardit - Cité de la Santé</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31052</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP Brabois</name>
+      <address>
+        <city>Vandoeuvre les Nancy</city>
+        <zip>54500</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOP des Charpennes</name>
+      <address>
+        <city>Villeurbanne</city>
+        <zip>69100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zentrum für klinische Forschung Dr. med. Irma Schöll &amp; Kollegen</name>
+      <address>
+        <city>Bad Homburg</city>
+        <zip>61348</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Praxis Dr. med. Volker Schumann</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10245</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charité - Universitätsmedizin Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>12200</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Charité - Universitätsmedizin Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Praxis Dr. Oehlwein</name>
+      <address>
+        <city>Gera</city>
+        <zip>07551</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Köln (AöR)</name>
+      <address>
+        <city>Köln</city>
+        <zip>50937</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmakologisches Studienzentrum Chemnitz</name>
+      <address>
+        <city>Mittweida</city>
+        <zip>09648</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut für Psychogerontologie</name>
+      <address>
+        <city>Nürnberg</city>
+        <zip>90408</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Neuropraxis München Süd, Unterhaching</name>
+      <address>
+        <city>Unterhaching</city>
+        <zip>82008</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Naval Hospital of Athens</name>
+      <address>
+        <city>Athens</city>
+        <zip>11521</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Eginition Hospital</name>
+      <address>
+        <city>Athens</city>
+        <zip>11528</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University General Hospital Attikon</name>
+      <address>
+        <city>Athens</city>
+        <zip>124 62</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Athens Medical Center</name>
+      <address>
+        <city>Athens</city>
+        <zip>15125</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University General Hospital of Thessaloniki AHEPA</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>54621</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University General Hospital of Thessaloniki AHEPA</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>54636</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Semmelweis University</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CRU Ltd, Neurology Dept., Miskolc</name>
+      <address>
+        <city>Miskolc</city>
+        <zip>3526</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Szeged</name>
+      <address>
+        <city>Szeged</city>
+        <zip>6725</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Fondazione Ospedale Maggiore</name>
+      <address>
+        <city>Milano</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. San Gerardo di Monza</name>
+      <address>
+        <city>Monza (MB)</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria di Padova</name>
+      <address>
+        <city>Padova</city>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera Universitaria Pisana</name>
+      <address>
+        <city>Pisa</city>
+        <zip>56126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fujita Health University Hospital</name>
+      <address>
+        <city>Aichi, Toyoake</city>
+        <zip>470-1192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Inage Neurology and Memory Clinic</name>
+      <address>
+        <city>Chiba, Chiba</city>
+        <zip>263-0043</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sapporo Medical University Hospital</name>
+      <address>
+        <city>Hokkaido, Sapporo</city>
+        <zip>060-8543</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kagawa University Hospital</name>
+      <address>
+        <city>Kagawa, Kita-gun</city>
+        <zip>761-0793</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kawashima Neurology Clinic</name>
+      <address>
+        <city>Kanagawa, Fujisawa</city>
+        <zip>251-0038</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ishikawa Clinic</name>
+      <address>
+        <city>Kyoto, Kyoto</city>
+        <zip>606-0851</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nara Medical University Hospital</name>
+      <address>
+        <city>Nara, Kashihara</city>
+        <zip>634-8522</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Katayama Medical Clinic</name>
+      <address>
+        <city>Okayama, Kurashiki</city>
+        <zip>710-0813</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Hospital Organization Hizen Psychiatric Center</name>
+      <address>
+        <city>Saga, Kanzaki-gun</city>
+        <zip>842-0192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Center Neurology and Psychiatry</name>
+      <address>
+        <city>Tokyo, Kodaira</city>
+        <zip>187-8551</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nozomi Memory Clinic</name>
+      <address>
+        <city>Tokyo, Mitaka</city>
+        <zip>181-0013</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Showa University East Hospital</name>
+      <address>
+        <city>Tokyo, Shinagawa</city>
+        <zip>142-0054</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oslo Universitetssykehus HF, Hukommelsesklinikken</name>
+      <address>
+        <city>Oslo</city>
+        <zip>N-0450</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Olavs Hospital, Universitetssykehuset i Trondheim</name>
+      <address>
+        <city>Trondheim</city>
+        <zip>N-7030</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Podlassian Center of Psychogeriatry, Bialystok</name>
+      <address>
+        <city>Bialystok</city>
+        <zip>15-732</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Non-Public Outpat. Clinic &quot;Dom Sue Ryder&quot;, PALLMED Sp. z o.o</name>
+      <address>
+        <city>Bydgoszcz</city>
+        <zip>85-023</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Non-Public Outpatient Clinic Neuro-Kard Ilkowski &amp; Partners</name>
+      <address>
+        <city>Poznan</city>
+        <zip>61-853</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>EUROMEDIS Sp. z o.o., Szczecin</name>
+      <address>
+        <city>Szczecin</city>
+        <zip>70-111</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clin.Research Centre Clinsante SC Ewa Galczak-Nowak,Torun</name>
+      <address>
+        <city>Torun</city>
+        <zip>87-100</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sant Joan de Deu de Manresa</name>
+      <address>
+        <city>Manresa</city>
+        <zip>08423</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari General de Catalunya</name>
+      <address>
+        <city>Sant Cugat del Vallès</city>
+        <zip>08190</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Marqués de Valdecilla</name>
+      <address>
+        <city>Santander</city>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Viamed Montecanal</name>
+      <address>
+        <city>Zaragoza</city>
+        <zip>50012</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Cornhill Hospital</name>
+      <address>
+        <city>Aberdeen</city>
+        <zip>AB25 2ZH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fulbourn Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <zip>CB21 5EF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ninewells Hospital &amp; Medical School</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD2 1SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Western General Hospital</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth University Hospital</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G51 4TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Warneford Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7JX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sheffield Memory Service</name>
+      <address>
+        <city>Sheffield</city>
+        <zip>S10 3TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Canada</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Norway</country>
+    <country>Poland</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.boehringer-ingelheim.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>May 27, 2016</study_first_submitted>
+  <study_first_submitted_qc>May 27, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 2, 2016</study_first_posted>
+  <results_first_submitted>September 10, 2020</results_first_submitted>
+  <results_first_submitted_qc>October 16, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 6, 2020</results_first_posted>
+  <last_update_submitted>October 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>BI 425809</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 12, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/13/NCT02788513/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 4, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/13/NCT02788513/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>This is a multi-centre, double-blind, parallel-group, randomised controlled study to investigate efficacy and safety of orally administered BI 425809 during a 12-week treatment period compared to placebo in patients with cognitive impairment due to Alzheimer's Disease.</recruitment_details>
+      <pre_assignment_details>Subjects were screened prior to participation and attended a specialist site which ensured that they strictly met all inclusion/exclusion criteria. Subjects were not to be allocated to a treatment group if any of the criteria were violated.&#xD;
+One subject was randomized by error via Interactive Response Technology (IRT) but never took a drug.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>2 mg BI 425809</title>
+          <description>Participants in dose group 1 were orally administered 2 tablets of 1 milligrams (mg) of BI 425809 (Total: 2 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="P2">
+          <title>5 mg BI 425809</title>
+          <description>Participants in dose group 2 were orally administered 1 tablet of 5 mg of BI 425809 together with 1 tablet of 1 mg / 5 mg and 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="P3">
+          <title>10 mg BI 425809</title>
+          <description>Participants in dose group 3 were orally administered 2 tablets of 5 mg of BI 425809 (Total: 10 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="P4">
+          <title>25 mg BI 425809</title>
+          <description>Participants in dose group 4 were orally administered 1 tablet of 25 mg of BI 425809 together with 2 tablets of 1 mg / 5 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="P5">
+          <title>Placebo Group</title>
+          <description>Participants in the placebo group were orally administered 2 tablets of 1 mg / 5 mg and 1 tablet of 25 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="123"/>
+                <participants group_id="P2" count="122"/>
+                <participants group_id="P3" count="122"/>
+                <participants group_id="P4" count="123"/>
+                <participants group_id="P5" count="120"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="114"/>
+                <participants group_id="P2" count="114"/>
+                <participants group_id="P3" count="114"/>
+                <participants group_id="P4" count="117"/>
+                <participants group_id="P5" count="115"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="8"/>
+                <participants group_id="P3" count="8"/>
+                <participants group_id="P4" count="6"/>
+                <participants group_id="P5" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="3"/>
+                <participants group_id="P5" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="8"/>
+                <participants group_id="P3" count="4"/>
+                <participants group_id="P4" count="2"/>
+                <participants group_id="P5" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Subject decided to stop taking treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Decision by the study team</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Treated set (TS): the TS included all patients treated with at least one dose of trial medication. Patients in the treated set were analysed based on the actual treatment received at the randomisation. The TS was used for safety analyses.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>2 mg BI 425809</title>
+          <description>Participants in dose group 1 were orally administered 2 tablets of 1 milligrams (mg) of BI 425809 (Total: 2 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="B2">
+          <title>5 mg BI 425809</title>
+          <description>Participants in dose group 2 were orally administered 1 tablet of 5 mg of BI 425809 together with 1 tablet of 1 mg / 5 mg and 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="B3">
+          <title>10 mg BI 425809</title>
+          <description>Participants in dose group 3 were orally administered 2 tablets of 5 mg of BI 425809 (Total: 10 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="B4">
+          <title>25 mg BI 425809</title>
+          <description>Participants in dose group 4 were orally administered 1 tablet of 25 mg of BI 425809 together with 2 tablets of 1 mg / 5 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="B5">
+          <title>Placebo Group</title>
+          <description>Participants in the placebo group were orally administered 2 tablets of 1 mg / 5 mg and 1 tablet of 25 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="B6">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="123"/>
+            <count group_id="B2" value="122"/>
+            <count group_id="B3" value="122"/>
+            <count group_id="B4" value="123"/>
+            <count group_id="B5" value="120"/>
+            <count group_id="B6" value="610"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="123"/>
+                    <count group_id="B2" value="122"/>
+                    <count group_id="B3" value="122"/>
+                    <count group_id="B4" value="123"/>
+                    <count group_id="B5" value="120"/>
+                    <count group_id="B6" value="610"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72.3" spread="7.5"/>
+                    <measurement group_id="B2" value="72.5" spread="8.2"/>
+                    <measurement group_id="B3" value="74.4" spread="6.9"/>
+                    <measurement group_id="B4" value="72.9" spread="7.7"/>
+                    <measurement group_id="B5" value="72.4" spread="7.9"/>
+                    <measurement group_id="B6" value="72.9" spread="7.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="123"/>
+                    <count group_id="B2" value="122"/>
+                    <count group_id="B3" value="122"/>
+                    <count group_id="B4" value="123"/>
+                    <count group_id="B5" value="120"/>
+                    <count group_id="B6" value="610"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                    <measurement group_id="B2" value="62"/>
+                    <measurement group_id="B3" value="66"/>
+                    <measurement group_id="B4" value="64"/>
+                    <measurement group_id="B5" value="64"/>
+                    <measurement group_id="B6" value="324"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                    <measurement group_id="B2" value="60"/>
+                    <measurement group_id="B3" value="56"/>
+                    <measurement group_id="B4" value="59"/>
+                    <measurement group_id="B5" value="56"/>
+                    <measurement group_id="B6" value="286"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="123"/>
+                    <count group_id="B2" value="122"/>
+                    <count group_id="B3" value="122"/>
+                    <count group_id="B4" value="123"/>
+                    <count group_id="B5" value="120"/>
+                    <count group_id="B6" value="610"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="11"/>
+                    <measurement group_id="B4" value="16"/>
+                    <measurement group_id="B5" value="20"/>
+                    <measurement group_id="B6" value="86"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="101"/>
+                    <measurement group_id="B2" value="98"/>
+                    <measurement group_id="B3" value="106"/>
+                    <measurement group_id="B4" value="103"/>
+                    <measurement group_id="B5" value="94"/>
+                    <measurement group_id="B6" value="502"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="6"/>
+                    <measurement group_id="B6" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="123"/>
+                    <count group_id="B2" value="122"/>
+                    <count group_id="B3" value="122"/>
+                    <count group_id="B4" value="123"/>
+                    <count group_id="B5" value="120"/>
+                    <count group_id="B6" value="610"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="12"/>
+                    <measurement group_id="B4" value="14"/>
+                    <measurement group_id="B5" value="11"/>
+                    <measurement group_id="B6" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="2"/>
+                    <measurement group_id="B6" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="4"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="8"/>
+                    <measurement group_id="B6" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="97"/>
+                    <measurement group_id="B2" value="103"/>
+                    <measurement group_id="B3" value="100"/>
+                    <measurement group_id="B4" value="102"/>
+                    <measurement group_id="B5" value="93"/>
+                    <measurement group_id="B6" value="495"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="6"/>
+                    <measurement group_id="B6" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>ADASCOG baseline cognitive assessment data</title>
+          <description>The Alzheimer's Disease Assessment Scale-Cognitive subscale 11 item (ADAS-Cog11) is an 11-item cognitive subscale that objectively measures memory, language, orientation and praxis with a total score range of 0 to 70, with lower scores indicating less severe impairment. A negative change indicates an improvement from baseline.</description>
+          <population>Treated set (TS): the TS included all patients treated with at least one dose of trial medication. Patients in the treated set were analysed based on the actual treatment received at the randomisation. The TS was used for safety analyses. One placebo subject was without baseline measures due to study was put on hold.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="123"/>
+                    <count group_id="B2" value="122"/>
+                    <count group_id="B3" value="122"/>
+                    <count group_id="B4" value="123"/>
+                    <count group_id="B5" value="119"/>
+                    <count group_id="B6" value="609"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18.8" spread="7.9"/>
+                    <measurement group_id="B2" value="18.8" spread="7.4"/>
+                    <measurement group_id="B3" value="19.6" spread="7.8"/>
+                    <measurement group_id="B4" value="19.6" spread="7.3"/>
+                    <measurement group_id="B5" value="18.2" spread="8.0"/>
+                    <measurement group_id="B6" value="19.0" spread="7.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Alzheimer's Disease Assessment Scale-Cognitive Subscale 11 Item (ADAS-Cog11) Total Score After 12 Weeks of Treatment</title>
+        <description>The ADAS-Cog11 is an 11-item cognitive subscale that objectively measures memory, language, orientation and praxis with a total score range of 0 to 70, with lower scores indicating less severe impairment. A negative change indicates an improvement from baseline.&#xD;
+Multiple comparison procedures and modelling (MCPmod) in combination with mixed model repeated measures (MMRM) is used for primary analysis of the primary endpoint.&#xD;
+MMRM included fixed, categorical covariates of treatment, visit, baseline Mini Mental State Examination MMSE (&gt;=20, &lt;20) and treatment-by-visit interaction, as well as the continuous fixed covariates of baseline and baseline-by-visit interaction. Patient was considered as random effect. The unstructured covariance structure was used to model the within patient measurements. The same MMRM model used in the primary analysis is used for the secondary analysis of the primary endpoint.</description>
+        <time_frame>On day 1 (visit 2, baseline) and day 85 (end of trial)</time_frame>
+        <population>Full analysis set (FAS): all randomised patients who were treated with at least one dose of trial medication and had a baseline and at least one corresponding post-baseline on-treatment efficacy assessment for any efficacy endpoint. FAS was used for efficacy analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>2 mg BI 425809</title>
+            <description>Participants in dose group 1 were orally administered 2 tablets of 1 milligrams (mg) of BI 425809 (Total: 2 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O2">
+            <title>5 mg BI 425809</title>
+            <description>Participants in dose group 2 were orally administered 1 tablet of 5 mg of BI 425809 together with 1 tablet of 1 mg / 5 mg and 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O3">
+            <title>10 mg BI 425809</title>
+            <description>Participants in dose group 3 were orally administered 2 tablets of 5 mg of BI 425809 (Total: 10 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O4">
+            <title>25 mg BI 425809</title>
+            <description>Participants in dose group 4 were orally administered 1 tablet of 25 mg of BI 425809 together with 2 tablets of 1 mg / 5 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O5">
+            <title>Placebo Group</title>
+            <description>Participants in the placebo group were orally administered 2 tablets of 1 mg / 5 mg and 1 tablet of 25 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Alzheimer's Disease Assessment Scale-Cognitive Subscale 11 Item (ADAS-Cog11) Total Score After 12 Weeks of Treatment</title>
+          <description>The ADAS-Cog11 is an 11-item cognitive subscale that objectively measures memory, language, orientation and praxis with a total score range of 0 to 70, with lower scores indicating less severe impairment. A negative change indicates an improvement from baseline.&#xD;
+Multiple comparison procedures and modelling (MCPmod) in combination with mixed model repeated measures (MMRM) is used for primary analysis of the primary endpoint.&#xD;
+MMRM included fixed, categorical covariates of treatment, visit, baseline Mini Mental State Examination MMSE (&gt;=20, &lt;20) and treatment-by-visit interaction, as well as the continuous fixed covariates of baseline and baseline-by-visit interaction. Patient was considered as random effect. The unstructured covariance structure was used to model the within patient measurements. The same MMRM model used in the primary analysis is used for the secondary analysis of the primary endpoint.</description>
+          <population>Full analysis set (FAS): all randomised patients who were treated with at least one dose of trial medication and had a baseline and at least one corresponding post-baseline on-treatment efficacy assessment for any efficacy endpoint. FAS was used for efficacy analyses.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="121"/>
+                <count group_id="O2" value="120"/>
+                <count group_id="O3" value="121"/>
+                <count group_id="O4" value="119"/>
+                <count group_id="O5" value="118"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.026" spread="4.864"/>
+                    <measurement group_id="O2" value="0.175" spread="4.471"/>
+                    <measurement group_id="O3" value="0.699" spread="4.313"/>
+                    <measurement group_id="O4" value="-0.174" spread="4.044"/>
+                    <measurement group_id="O5" value="0.138" spread="4.939"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Multiple comparison procedures and modelling (MCPmod) techniques for mixed model repeated measures (MMRM) was used.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.9931</p_value>
+            <p_value_desc>An alpha of 0.05 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.</p_value_desc>
+            <method>MCPMod Beta model fit.</method>
+            <method_desc>Model assumption: 75% of max effect is achieved at 2 mg, 87.5% at 5 mg, 25% at 25 mg, max effect achieved at 10 mg of BI 425809, scalar parameter = 26</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Multiple comparison procedures and modelling (MCPmod) techniques for mixed model repeated measures (MMRM) was used.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.9225</p_value>
+            <p_value_desc>An alpha of 0.05 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.</p_value_desc>
+            <method>MCPMod Emax model fit.</method>
+            <method_desc>Model assumption: 20% of the maximum effect is achieved at 2 mg</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Multiple comparison procedures and modelling (MCPmod) techniques for mixed model repeated measures (MMRM) was used.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.9287</p_value>
+            <p_value_desc>An alpha of 0.05 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.</p_value_desc>
+            <method>MCPMod Sigmoidal Emax model fit.</method>
+            <method_desc>Model assumption: 25% of max effect achieved at 5 mg and 75% of max effect achieved at 10 mg of BI 425809.</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Multiple comparison procedures and modelling (MCPmod) techniques for mixed model repeated measures (MMRM) was used.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.7646</p_value>
+            <p_value_desc>An alpha of 0.05 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.</p_value_desc>
+            <method>MCPMod linear model fit.</method>
+            <method_desc>No assumption needed.</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Multiple comparison procedures and modelling (MCPmod) techniques for mixed model repeated measures (MMRM) was used.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.9335</p_value>
+            <p_value_desc>An alpha of 0.05 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.</p_value_desc>
+            <method>MCPMod linear in log model fit.</method>
+            <method_desc>No assumption needed.</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+              <group_id>O3</group_id>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Multiple comparison procedures and modelling (MCPmod) techniques for mixed model repeated measures (MMRM) was used.</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.8199</p_value>
+            <p_value_desc>An alpha of 0.05 was used for one-sided test. The MCPMod procedure adjusts for multiplicity.</p_value_desc>
+            <method>MCPMod logistic model fit.</method>
+            <method_desc>Model assumption: 10% of max effect achieved at 5 mg and 50% of max effect achieved at 10 mg of BI 425809.</method_desc>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Mixed model repeated measures (MMRM)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.9340</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>MMRM</method>
+            <method_desc>MMRM information is described in the description section.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.05</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.58</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.09</ci_lower_limit>
+            <ci_upper_limit>1.18</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Mixed model repeated measures (MMRM)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.6041</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>MMRM</method>
+            <method_desc>MMRM information is described in the description section.</method_desc>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>0.30</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.58</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.84</ci_lower_limit>
+            <ci_upper_limit>1.44</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Mixed model repeated measures (MMRM)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.1926</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>MMRM</method>
+            <method_desc>MMRM information is described in the description section.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.76</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.58</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.38</ci_lower_limit>
+            <ci_upper_limit>1.90</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Mixed model repeated measures (MMRM)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.9739</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>MMRM</method>
+            <method_desc>MMRM information is described in the description section.</method_desc>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>-0.02</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.58</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.16</ci_lower_limit>
+            <ci_upper_limit>1.12</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change From Baseline in the Alzheimer's Disease Cooperative Study/Activities of Daily Living (ADCS-ADL) Score After 12 Weeks of Treatment</title>
+        <description>Change from baseline in the ADCS-ADL score after 12 weeks of treatment is presented.&#xD;
+The ADCS-ADL is a rating scale used to assess basic and instrumental activities of daily living. In the full version of the scale, 23 items are rated by the investigator using information supplied by the caregiver. Each item has a score range varying from 0-3 to 0-5. The sum score could range from 0 to 78, with higher scores indicating less severe impairment. A positive change indicates an improvement from baseline.&#xD;
+Abbreviation: MMSE = Mini Mental State Examination</description>
+        <time_frame>On day 1 (visit 2, baseline) and day 85 (end of trial)</time_frame>
+        <population>Full analysis set (FAS): all randomised patients who were treated with at least one dose of trial medication and had a baseline and at least one corresponding post-baseline on-treatment efficacy assessment for any efficacy endpoint. FAS was used for efficacy analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>2 mg BI 425809</title>
+            <description>Participants in dose group 1 were orally administered 2 tablets of 1 milligrams (mg) of BI 425809 (Total: 2 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O2">
+            <title>5 mg BI 425809</title>
+            <description>Participants in dose group 2 were orally administered 1 tablet of 5 mg of BI 425809 together with 1 tablet of 1 mg / 5 mg and 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O3">
+            <title>10 mg BI 425809</title>
+            <description>Participants in dose group 3 were orally administered 2 tablets of 5 mg of BI 425809 (Total: 10 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O4">
+            <title>25 mg BI 425809</title>
+            <description>Participants in dose group 4 were orally administered 1 tablet of 25 mg of BI 425809 together with 2 tablets of 1 mg / 5 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O5">
+            <title>Placebo Group</title>
+            <description>Participants in the placebo group were orally administered 2 tablets of 1 mg / 5 mg and 1 tablet of 25 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in the Alzheimer's Disease Cooperative Study/Activities of Daily Living (ADCS-ADL) Score After 12 Weeks of Treatment</title>
+          <description>Change from baseline in the ADCS-ADL score after 12 weeks of treatment is presented.&#xD;
+The ADCS-ADL is a rating scale used to assess basic and instrumental activities of daily living. In the full version of the scale, 23 items are rated by the investigator using information supplied by the caregiver. Each item has a score range varying from 0-3 to 0-5. The sum score could range from 0 to 78, with higher scores indicating less severe impairment. A positive change indicates an improvement from baseline.&#xD;
+Abbreviation: MMSE = Mini Mental State Examination</description>
+          <population>Full analysis set (FAS): all randomised patients who were treated with at least one dose of trial medication and had a baseline and at least one corresponding post-baseline on-treatment efficacy assessment for any efficacy endpoint. FAS was used for efficacy analyses.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="113"/>
+                <count group_id="O2" value="111"/>
+                <count group_id="O3" value="110"/>
+                <count group_id="O4" value="116"/>
+                <count group_id="O5" value="111"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.283" spread="6.805"/>
+                    <measurement group_id="O2" value="0.577" spread="5.852"/>
+                    <measurement group_id="O3" value="-1.145" spread="4.764"/>
+                    <measurement group_id="O4" value="-1.828" spread="7.034"/>
+                    <measurement group_id="O5" value="0.261" spread="4.842"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.979</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Analysis of Covariance model included baseline value for the secondary endpoint measure, MMSE stratification (&gt;=20, &lt;20) at baseline and treatment.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.02</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.76</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.48</ci_lower_limit>
+            <ci_upper_limit>1.52</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.521</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Analysis of Covariance model included baseline value for the secondary endpoint measure, MMSE stratification (&gt;=20, &lt;20) at baseline and treatment.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.49</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.77</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.01</ci_lower_limit>
+            <ci_upper_limit>2.00</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.047</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Analysis of Covariance model included baseline value for the secondary endpoint measure, MMSE stratification (&gt;=20, &lt;20) at baseline and treatment.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-1.53</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.77</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-3.04</ci_lower_limit>
+            <ci_upper_limit>-0.02</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.005</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>Analysis of Covariance model included baseline value for the secondary endpoint measure, MMSE stratification (&gt;=20, &lt;20) at baseline and treatment.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-2.16</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.76</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-3.65</ci_lower_limit>
+            <ci_upper_limit>-0.67</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinician's Interview-Based Impression of Change (CIBIC+) Score After 12 Weeks of Treatment</title>
+        <description>Clinician's Interview-Based Impression of Change (CIBIC+) score is based on semi-structured interview covering domains of function and cognition. It additionally requires the assessment of psychiatric signs and symptoms. The patient and their caregiver are interviewed and questioned by the clinician. Change rate is based on an unanchored 7-point scale (with 0 being not assessed, 1-3 being very much improved to minimally improved, 4 being no change, and 5-7 being minimally worse to very much worse).&#xD;
+For the ANCOVA model, the baseline value for CIBIC+ is represented by CIBIS which is clinician's interview-based impression of severity score (scores range from 0-7, with 0 being not assessed, 1 being normal, and 7 being most extremely ill) in order to adjust for potential baseline heterogeneity.&#xD;
+Abbreviation: MMSE = Mini Mental State Examination</description>
+        <time_frame>On day 1 (visit 2, baseline) and day 85 (end of trial)</time_frame>
+        <population>Full analysis set (FAS): all randomised patients who were treated with at least one dose of trial medication and had a baseline and at least one corresponding post-baseline on-treatment efficacy assessment for any efficacy endpoint. FAS was used for efficacy analyses.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>2 mg BI 425809</title>
+            <description>Participants in dose group 1 were orally administered 2 tablets of 1 milligrams (mg) of BI 425809 (Total: 2 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O2">
+            <title>5 mg BI 425809</title>
+            <description>Participants in dose group 2 were orally administered 1 tablet of 5 mg of BI 425809 together with 1 tablet of 1 mg / 5 mg and 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O3">
+            <title>10 mg BI 425809</title>
+            <description>Participants in dose group 3 were orally administered 2 tablets of 5 mg of BI 425809 (Total: 10 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O4">
+            <title>25 mg BI 425809</title>
+            <description>Participants in dose group 4 were orally administered 1 tablet of 25 mg of BI 425809 together with 2 tablets of 1 mg / 5 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+          <group group_id="O5">
+            <title>Placebo Group</title>
+            <description>Participants in the placebo group were orally administered 2 tablets of 1 mg / 5 mg and 1 tablet of 25 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinician's Interview-Based Impression of Change (CIBIC+) Score After 12 Weeks of Treatment</title>
+          <description>Clinician's Interview-Based Impression of Change (CIBIC+) score is based on semi-structured interview covering domains of function and cognition. It additionally requires the assessment of psychiatric signs and symptoms. The patient and their caregiver are interviewed and questioned by the clinician. Change rate is based on an unanchored 7-point scale (with 0 being not assessed, 1-3 being very much improved to minimally improved, 4 being no change, and 5-7 being minimally worse to very much worse).&#xD;
+For the ANCOVA model, the baseline value for CIBIC+ is represented by CIBIS which is clinician's interview-based impression of severity score (scores range from 0-7, with 0 being not assessed, 1 being normal, and 7 being most extremely ill) in order to adjust for potential baseline heterogeneity.&#xD;
+Abbreviation: MMSE = Mini Mental State Examination</description>
+          <population>Full analysis set (FAS): all randomised patients who were treated with at least one dose of trial medication and had a baseline and at least one corresponding post-baseline on-treatment efficacy assessment for any efficacy endpoint. FAS was used for efficacy analyses.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="114"/>
+                <count group_id="O2" value="112"/>
+                <count group_id="O3" value="110"/>
+                <count group_id="O4" value="116"/>
+                <count group_id="O5" value="112"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.000" spread="0.941"/>
+                    <measurement group_id="O2" value="4.080" spread="0.773"/>
+                    <measurement group_id="O3" value="4.209" spread="0.679"/>
+                    <measurement group_id="O4" value="4.224" spread="0.781"/>
+                    <measurement group_id="O5" value="4.080" spread="0.829"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.343</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>ANCOVA included MMSE stratification (&gt;=20, &lt;20) at baseline (BL) and treatment, CIBIS is included as BL adjustment term.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-0.10</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.11</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.32</ci_lower_limit>
+            <ci_upper_limit>0.11</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.645</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>ANCOVA included MMSE stratification (&gt;=20, &lt;20) at baseline (BL) and treatment, CIBIS is included as BL adjustment term.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>-0.05</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.11</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.26</ci_lower_limit>
+            <ci_upper_limit>0.16</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.448</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>ANCOVA included MMSE stratification (&gt;=20, &lt;20) at baseline (BL) and treatment, CIBIS is included as BL adjustment term.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.08</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.11</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.13</ci_lower_limit>
+            <ci_upper_limit>0.30</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O4</group_id>
+              <group_id>O5</group_id>
+            </group_id_list>
+            <groups_desc>Analysis of Covariance (ANCOVA)</groups_desc>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>0.340</p_value>
+            <p_value_desc>p-values are nominal without multiplicity adjustment.</p_value_desc>
+            <method>ANCOVA</method>
+            <method_desc>ANCOVA included MMSE stratification (&gt;=20, &lt;20) at baseline (BL) and treatment, CIBIS is included as BL adjustment term.</method_desc>
+            <param_type>Mean Difference (Final Values)</param_type>
+            <param_value>0.10</param_value>
+            <dispersion_type>Standard Error of the Mean</dispersion_type>
+            <dispersion_value>0.11</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.11</ci_lower_limit>
+            <ci_upper_limit>0.32</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From first dose of study drug until end of treatment + 28 days of follow-up, up to 16 weeks.</time_frame>
+      <desc>Treated set (TS): the TS included all patients treated with at least one dose of trial medication. Patients in the treated set were analysed based on the actual treatment received at the randomisation.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>2 mg BI 425809</title>
+          <description>Participants in dose group 1 were orally administered 2 tablets of 1 milligrams (mg) of BI 425809 (Total: 2 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="E2">
+          <title>5 mg BI 425809</title>
+          <description>Participants in dose group 2 were orally administered 1 tablet of 5 mg of BI 425809 together with 1 tablet of 1 mg / 5 mg and 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="E3">
+          <title>10 mg BI 425809</title>
+          <description>Participants in dose group 3 were orally administered 2 tablets of 5 mg of BI 425809 (Total: 10 mg) together with 1 tablet of 25 mg placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="E4">
+          <title>25 mg BI 425809</title>
+          <description>Participants in dose group 4 were orally administered 1 tablet of 25 mg of BI 425809 together with 2 tablets of 1 mg / 5 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+        <group group_id="E5">
+          <title>Placebo Group</title>
+          <description>Participants in the placebo group were orally administered 2 tablets of 1 mg / 5 mg and 1 tablet of 25 mg of placebo match once daily (qd) during 12 weeks. The tablets were to be taken with water in the morning at approximately the same time every day with or without food.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA 22.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="4" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="4" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="5" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Atrial flutter</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cataract</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Glaucoma</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pancreatitis acute</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholecystitis acute</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Drug-induced liver injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Gingivitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection bacterial</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Head injury</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Skin laceration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Hypoglycaemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Torticollis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Pancreatic neoplasm</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dementia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Syncope</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Transient ischaemic attack</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory distress</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA 22.1</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="22" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="14" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="19" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="12" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="8" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="2" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="3" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="6" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="2" subjects_at_risk="120"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="122"/>
+                <counts group_id="E3" subjects_affected="7" subjects_at_risk="122"/>
+                <counts group_id="E4" subjects_affected="5" subjects_at_risk="123"/>
+                <counts group_id="E5" subjects_affected="5" subjects_at_risk="120"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>Boehringer Ingelheim (BI) acknowledges that investigators have the right to publish the study results. Investigators shall provide BI with a copy of any publication or presentation for review prior to any submission. Such review will be done with regard to proprietary information, information related to patentable inventions, medical, scientific, and statistical accuracy within 60 days. BI may request a delay of the publication in order to protect BI's intellectual property rights.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Boehringer Ingelheim, Call Center</name_or_title>
+      <organization>Boehringer Ingelheim</organization>
+      <phone>1-800-243-0127</phone>
+      <email>clintriage.rdg@boehringer-ingelheim.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

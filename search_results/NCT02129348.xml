@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1434">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02129348</url>
+  </required_header>
+  <id_info>
+    <org_study_id>#6915</org_study_id>
+    <secondary_id>1R01AG047146-01</secondary_id>
+    <nct_id>NCT02129348</nct_id>
+  </id_info>
+  <brief_title>Treatment of Psychosis and Agitation in Alzheimer's Disease</brief_title>
+  <official_title>Treatment of Psychosis and Agitation in Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York State Psychiatric Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Clinically, many patients with AD show no response or minimal response to antipsychotics for&#xD;
+      symptoms of agitation/aggression or psychosis, or they have intolerable side effects on these&#xD;
+      medications. Antipsychotics have a wide range of side effects, including the risk of&#xD;
+      increased mortality (60-70% higher rate of death on antipsychotic compared to placebo) that&#xD;
+      led to an FDA black box warning for patients with dementia; a more recent review and&#xD;
+      meta-analysis showed a 54% increased risk of mortality. In addition, some patients show only&#xD;
+      partial response to antipsychotics and symptoms persist. For these reasons, the investigators&#xD;
+      need to study alternative treatment strategies. Currently, there is no FDA-approved&#xD;
+      medication for the treatment of psychosis or agitation in AD.&#xD;
+&#xD;
+      The investigators innovative project will examine the efficacy and side effects of low dose&#xD;
+      lithium treatment of agitation/aggression with or without psychosis in 80 patients with AD in&#xD;
+      a randomized, doubleblind, placebo-controlled, 12-week trial (essentially a Phase II trial).&#xD;
+      The results will determine the potential for a large-scale clinical trial (Phase III) to&#xD;
+      establish the utility of lithium in these patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Symptoms of psychosis or agitation are common in Alzheimer's disease. These symptoms are&#xD;
+      associated with distress for the patient, an increased burden for caregivers, more rapid&#xD;
+      cognitive decline, greater risk of institutionalization and mortality, and increased health&#xD;
+      care costs. In a recent meta-analysis, caregiver education and behavior modification studies&#xD;
+      revealed a small to medium effect size in treating agitation in these patients. However, none&#xD;
+      of these studies were double-blind (difficult to achieve in such studies) and none had a&#xD;
+      control group that received the same amount of staff time as the intervention group, thereby&#xD;
+      biasing the results toward the active intervention.&#xD;
+&#xD;
+      Among the psychotropic medications that have been studied, only antipsychotics have shown&#xD;
+      superiority over placebo for the treatment of psychosis and agitation in patients with&#xD;
+      dementia.&#xD;
+&#xD;
+      However, most studies show only moderate superiority for antipsychotic over placebo and a few&#xD;
+      studies have been negative. The side effects of antipsychotic medications include sedation,&#xD;
+      extrapyramidal signs, tardive dyskinesia, weight gain, and the metabolic syndrome. A pooled&#xD;
+      analysis from 17 short-term trials showed that the mortality rate in patients with dementia&#xD;
+      receiving antipsychotic medications was 1.6 to 1.7 times as high (60-70% increase in&#xD;
+      mortality rate) as the mortality rate in patients receiving placebo. These findings led the&#xD;
+      FDA to issue a black-box warning for antipsychotic medication use in patients with dementia;&#xD;
+      a more recent meta-analysis reported a slightly lower odds ratio of 1.54 (54% increase in&#xD;
+      mortality rate).&#xD;
+&#xD;
+      Lithium has several different actions from anticonvulsants, though both are effective in&#xD;
+      bipolar disorder, especially mania. Lithium is not being proposed here to treat mania in AD&#xD;
+      though the investigators will monitor symptoms on the Young Mania Rating Scale. In patients&#xD;
+      with AD, lithium has been studied for its putative cognitive enhancing effects. A few reports&#xD;
+      suggest that chronic lithium use reduces the risk of dementia, but other data show increased&#xD;
+      dementia risk with lithium use. A placebo-controlled, single-blind lithium trial showed no&#xD;
+      cognitive effects in patients with AD, but a recent trial of lithium in 45 patients with mild&#xD;
+      cognitive impairment (MCI, which often leads to clinically diagnosable AD) showed a small&#xD;
+      advantage for lithium (n=24) over placebo (n=21) in attention and other cognitive domains.&#xD;
+      None of these studies with lithium were intended to treat psychosis or agitation in AD, and&#xD;
+      patients with these symptoms typically were excluded in these clinical trials.&#xD;
+&#xD;
+      There has been no systematic placebo-controlled trial of lithium to treat&#xD;
+      agitation/aggression with or without psychosis in AD even though lithium is a highly&#xD;
+      effective treatment for mania with psychosis and symptoms of agitation or aggression.&#xD;
+      Nonetheless, the published studies of lithium to treat cognitive decline in older patients&#xD;
+      show that low-dose lithium is safe in patients with MCI or AD.&#xD;
+&#xD;
+      Specific Aims and Hypotheses Specific Aim 1. To compare changes in agitation/aggression with&#xD;
+      or without psychosis in patients with AD who receive 12 weeks of randomized, double-blind&#xD;
+      treatment with lithium or placebo.&#xD;
+&#xD;
+      Primary Hypothesis. Over these 12 weeks, the agitation/aggression domain score on the&#xD;
+      Neuropsychiatric Inventory (NPI) will decrease significantly more on lithium than placebo.&#xD;
+&#xD;
+      Secondary Hypothesis. Over these 12 weeks, the proportion of responders on lithium will be&#xD;
+      significantly greater than the proportion of responders on placebo. Response is defined as a&#xD;
+      30% decrease in NPI core score (defined as the sum of domains for agitation/aggression,&#xD;
+      delusions and hallucinations) plus a CGI Change score of much improved or very much improved&#xD;
+      (CGI based on these behavioral symptoms only). Exploratory hypothesis. Over these 12 weeks,&#xD;
+      the psychosis score, measured by the sum of the NPI domain scores for delusions and&#xD;
+      hallucinations, will decrease significantly more on lithium than placebo. Specific Aim 2. To&#xD;
+      evaluate the tolerability of low dose lithium by assessing emergent somatic side effects over&#xD;
+      the course of the 12-week trial on lithium compared to placebo. Specific Aim 3. To explore&#xD;
+      associations between improvement on lithium (decrease in agitation/aggression and psychosis&#xD;
+      scores) and serum brain-derived neurotrophic factor (BDNF) levels (baseline, 12 weeks), a SNP&#xD;
+      in intron 1 of the ACCN1 gene, and variation at the 7q11.2 gene locus, because these indices&#xD;
+      are associated with lithium response in bipolar disorder. The investigators do not postulate&#xD;
+      a specific mechanism of action for lithium in the investigators trial, but will evaluate&#xD;
+      these three potential predictors of lithium response with the aim of improving patient&#xD;
+      selection for personalized treatment. The investigators will examine BDNF serum levels as a&#xD;
+      biomarker correlate of lithium treatment by correlating change in BDNF levels with change in&#xD;
+      NPI agitation/aggression and psychosis scores.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>June 2014</start_date>
+  <completion_date type="Actual">January 2020</completion_date>
+  <primary_completion_date type="Actual">January 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants were outpatients and recruited primarily from memory clinics and physician referrals at all four sites. Salient inclusion criteria were a diagnosis of possible or probable Alzheimer's disease by National Institute on Aging (NIA) criteria, score ≥4 on the Neuropsychiatric Inventory (NPI) domain score for agitation/aggression, Folstein Mini Mental State Exam (MMSE) range 5-26, and availability of an informant. Patients with current major depression or suicidality, alcohol/substance dependence in the prior 6 months, bipolar or other psychotic disorder, and specific neurological disorders were excluded.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Patients were randomized to lithium or placebo, 1:1, stratified by site, for 12 weeks. Randomization, developed by the statistician and executed by the NYSPI pharmacy, was stratified within each site by the presence of psychosis (NPI score ≥4 on delusions or hallucinations) with randomization sequences balanced in blocks of four.&#xD;
+All study personnel and patients were masked to treatment assignment. After the final study visit, a psychiatrist independent of the study was unmasked and clinically treated the patient while study personnel remained blind.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain Score</measure>
+    <time_frame>Assessed at screening, Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+    <description>Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain is the measure used that combines symptoms of agitation and aggression. Frequency X Severity rating score, range 0-12. Higher score indicates more agitation and aggressive behavior.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Responder Defined as a 30% Decrease in NPI Core Score (Sum Score of NPI Domains of Agitation/Aggression, Delusions and Hallucinations) Together With a Clinical Global Impression (CGI) Behavior Change Score of 1 or 2</measure>
+    <time_frame>Week 12</time_frame>
+    <description>The patient is classified as a responder (score=1) if both criteria are met or as a non-responder (score=0) if both criteria are not met. The first criterion to determine responder status, NPI core score, has a scoring range 0-36; each of the three component scores for symptoms of agitation/aggression, delusions and hallucinations has a scoring range 0-12. For each symptom and the total score, higher score indicates more symptoms. The second criterion to determine responder status, Clinical Global Impression (CGI), is used to assess change in overall behavior; scoring range 1-7 with higher scores indicating worsening over time and lower scores indicating improvement over time. Only patients who met both criteria, assessed as change compared to baseline, were counted as responders; all other patients were non-responders. Patients that demonstrated improvement at week 12 were reported; scores for earlier weeks were only used to assess progress throughout the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Global Impression (CGI) Behavior Change</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Clinical Global Impression (CGI) Behavior Change score is the measure used to assess change in overall behavior; scoring range 1-7 with higher scores indicating worsening over time and lower scores indicating improvement over time. Scores ranging from 1-3 indicate improvement. Only patients that demonstrated improvement at week 12 were reported; scores for earlier weeks were only used to assess progress throughout the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Young Mania Rating Scale</measure>
+    <time_frame>Assessed at Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+    <description>Young Mania Rating Scale total score is the measure used to assess symptoms that occur in mania; each item is a symptom that is rated for severity. Scoring range 0-60; higher scores indicate more severe symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment Emergent Signs and Symptoms</measure>
+    <time_frame>Assessed at Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+    <description>Treatment Emergent Symptom Scale that covers 26 somatic symptoms, each rated as present (score=1) or absent (score=0). Total score is the measure used with scoring range 0-26; higher scores indicate more somatic symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Simpson-Angus Scale</measure>
+    <time_frame>Assessed at Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+    <description>Simpson Angus Scale for Extrapyramidal Sign requires in-person examination to assess gait, arm dropping, shoulder shaking, elbow rigidity, wrist rigidity, leg pendulousness, head dropping, glabella tap, tremor, and salivation. Total score is the measure used, range 0-40; higher scores indicate increased severity of signs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Basic Activities of Daily Living (BADL)</measure>
+    <time_frame>Assessed at Week 0, Week2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+    <description>Basic Activities of Daily Living with items for 6 functions: bathing, dressing, toileting, transferring, continence, and feeding. Each item is scored as unimpaired=1, impaired=0. Total score is the measure used, range 0-6; higher scores indicate better functioning.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Zarit Caregiver Burden Interview</measure>
+    <time_frame>Assessed at Week 0, Week 4, Week 8, Week 10, Week 12</time_frame>
+    <description>Zarit Caregiver Burden Interview with the caregiver asked to rank 22 items on a scale with responses for each item from 'never' (score 0) to 'nearly always' (score 4). Total score is the measure used; range 0-88 with higher scores indicating greater caregiver burden.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Folstein Mini-Mental Status Exam</measure>
+    <time_frame>Assessed at Screening, Week 12</time_frame>
+    <description>30 item questionnaire used to assess degree of cognitive impairment. Orientation, registration, attention/calculation, recall, language, repetitions and commands are assessed. Total score is the measure used; range 0-30, higher scores indicate better global cognitive function.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Severe Impairment Battery</measure>
+    <time_frame>Assessed at Week 0, Week 12</time_frame>
+    <description>Neuropsychological test used to assess a patient's cognitive ability. The patient is asked to complete small tasks such as drawing shapes and printing their name. They are also asked to remember certain names and objects, such as a cup and a spoon, and the evaluator's first name. Total score is the measure used; range 0-100, higher scores indicate better cognition.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">77</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <condition>Psychosis</condition>
+  <condition>Agitation</condition>
+  <arm_group>
+    <arm_group_label>Lithium Treatment Group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lithium</intervention_name>
+    <arm_group_label>Lithium Treatment Group</arm_group_label>
+    <other_name>lithium carbonate</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male and female adults.&#xD;
+&#xD;
+          2. Diagnosis of possible or probable AD by standard NIA criteria (McKahnn et al, 1984;&#xD;
+             McKhann et all, 2011)&#xD;
+&#xD;
+          3. Folstein MMSE 5-26 out of 30&#xD;
+&#xD;
+          4. Neuropsychiatric Inventory (NPI) agitation/aggression subscale score &gt; 4. On each&#xD;
+             subscale (frequency X severity), a score higher than 4 represents moderate to severe&#xD;
+             symptoms.&#xD;
+&#xD;
+          5. Female patients need to be post-menopausal&#xD;
+&#xD;
+          6. Availability of informant; patients without an informant will not be recruited.&#xD;
+             Patients who lack capacity must have a surrogate.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Medical contraindication to lithium treatment or prior history of intolerability to&#xD;
+             lithium treatment.&#xD;
+&#xD;
+             Contraindications to lithium in this study include: resting tremor causing functional&#xD;
+             impairment, history of falls in the last month, untreated thyroid disease or any&#xD;
+             abnormal thyroid function test (T3, T4, or TSH), creatinine level greater than 1.5&#xD;
+             mg/100ml or a glomerular filtration rate less than 44ml/min/ 1.73m2; blood pressure &gt;&#xD;
+             150/90 mm Hg; heart rate &lt; 50 bpm; unstable cardiac disease based on history, physical&#xD;
+             examination, and ECG.&#xD;
+&#xD;
+          2. Medications, in combination with lithium, known to have adverse renal effects,&#xD;
+             including therapeutic or higher doses of diuretics, i.e. hydrochlorothiazide greater&#xD;
+             than 25mg daily or furosemide greater than 10mg daily. Whenever feasible, patients&#xD;
+             receiving concomitant antidepressants or antipsychotics will be washed off these&#xD;
+             medications for at least 24 hours before starting lithium. Patients who do not wish to&#xD;
+             discontinue antipsychotics or antidepressants, typically because of family&#xD;
+             member/caregiver objection, will be allowed to enter the trial provided there is no&#xD;
+             contraindication to concomitant lithium use with that specific psychotropic&#xD;
+             medication. During the trial, patients will be permitted to receive lorazepam as&#xD;
+             needed up to 1 mg/day for anxiety/insomnia, and non-benzodiazepine hypnotics, e.g.,&#xD;
+             zolpidem.&#xD;
+&#xD;
+          3. Current clinical diagnosis of schizophrenia, schizoaffective disorder, other&#xD;
+             psychosis, or bipolar 1 disorder (DSM-IV TR criteria).&#xD;
+&#xD;
+          4. Current or recent (past 6 months) alcohol or substance dependence (DSM-IV TR&#xD;
+             criteria).&#xD;
+&#xD;
+          5. Current major depression or suicidality as assessed by the study psychiatrist.&#xD;
+&#xD;
+          6. Suicidal behavior or dangerous behavior with serious safety risk or risk of physical&#xD;
+             harm to self or others.&#xD;
+&#xD;
+          7. Parkinson's disease, Lewy body disease, multiple sclerosis, CNS infection,&#xD;
+             Huntington's disease, amyotrophic lateral sclerosis, other major neurological&#xD;
+             disorder.&#xD;
+&#xD;
+          8. Clinical stroke with residual neurological deficits. MRI findings of cerebrovascular&#xD;
+             disease (small infarcts, lacunes, periventricular disease) in the absence of clinical&#xD;
+             stroke with residual neurological deficits will not lead to exclusion.&#xD;
+&#xD;
+          9. Acute, severe, unstable medical illness. For cancer, patients with active illness or&#xD;
+             metastases will be excluded, but past history of successfully treated cancer will not&#xD;
+             lead to exclusion.&#xD;
+&#xD;
+         10. QTc interval &gt; 460 ms at the time of baseline EKG is an exclusion criterion for&#xD;
+             treatment.&#xD;
+&#xD;
+         11. Hypernatremia as determined by serum sodium level &gt; 150 meq/L.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>DP Devanand, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Miami Miller School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McLean Hospital</name>
+      <address>
+        <city>Belmont</city>
+        <state>Massachusetts</state>
+        <zip>02478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York State Psychiatric Institute</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/34059401/</url>
+    <description>Low Dose Lithium Treatment of Behavioral Complications in Alzheimer's Disease: Lit-AD Randomized Clinical Trial</description>
+  </link>
+  <reference>
+    <citation>Devanand DP, Marder K, Michaels KS, Sackeim HA, Bell K, Sullivan MA, Cooper TB, Pelton GH, Mayeux R. A randomized, placebo-controlled dose-comparison trial of haloperidol for psychosis and disruptive behaviors in Alzheimer's disease. Am J Psychiatry. 1998 Nov;155(11):1512-20.</citation>
+    <PMID>9812111</PMID>
+  </reference>
+  <reference>
+    <citation>Camins A, Verdaguer E, Junyent F, Yeste-Velasco M, Pelegrí C, Vilaplana J, Pallás M. Potential mechanisms involved in the prevention of neurodegenerative diseases by lithium. CNS Neurosci Ther. 2009 Winter;15(4):333-44. doi: 10.1111/j.1755-5949.2009.00086.x. Review.</citation>
+    <PMID>19889130</PMID>
+  </reference>
+  <reference>
+    <citation>Devanand DP, Mintzer J, Schultz SK, Andrews HF, Sultzer DL, de la Pena D, Gupta S, Colon S, Schimming C, Pelton GH, Levin B. Relapse risk after discontinuation of risperidone in Alzheimer's disease. N Engl J Med. 2012 Oct 18;367(16):1497-507. doi: 10.1056/NEJMoa1114058. Erratum in: N Engl J Med. 2012 Dec 20;367(25):2458.</citation>
+    <PMID>23075176</PMID>
+  </reference>
+  <reference>
+    <citation>Dunn N, Holmes C, Mullee M. Does lithium therapy protect against the onset of dementia? Alzheimer Dis Assoc Disord. 2005 Jan-Mar;19(1):20-2.</citation>
+    <PMID>15764867</PMID>
+  </reference>
+  <reference>
+    <citation>Fahy S, Lawlor BA. Lithium use in octogenarians. Int J Geriatr Psychiatry. 2001 Oct;16(10):1000-3.</citation>
+    <PMID>11607946</PMID>
+  </reference>
+  <reference>
+    <citation>Forlenza OV, Diniz BS, Radanovic M, Santos FS, Talib LL, Gattaz WF. Disease-modifying properties of long-term lithium treatment for amnestic mild cognitive impairment: randomised controlled trial. Br J Psychiatry. 2011 May;198(5):351-6. doi: 10.1192/bjp.bp.110.080044.</citation>
+    <PMID>21525519</PMID>
+  </reference>
+  <reference>
+    <citation>Haddad P, Wieck A, Yarrow M, Denham P. 1999. The Lithium Side Effects Rating Scale (LISERS); development of a self-rating instrument. Eur Neuropsychopharmacol 9(s5): 231-232.</citation>
+  </reference>
+  <reference>
+    <citation>Hampel H, Ewers M, Bürger K, Annas P, Mörtberg A, Bogstedt A, Frölich L, Schröder J, Schönknecht P, Riepe MW, Kraft I, Gasser T, Leyhe T, Möller HJ, Kurz A, Basun H. Lithium trial in Alzheimer's disease: a randomized, single-blind, placebo-controlled, multicenter 10-week study. J Clin Psychiatry. 2009 Jun;70(6):922-31.</citation>
+    <PMID>19573486</PMID>
+  </reference>
+  <reference>
+    <citation>Janowsky DS, Buneviciute J, Hu Q, Davis JM. Lithium-induced renal insufficiency: a longitudinal study of creatinine increases in intellectually disabled adults. J Clin Psychopharmacol. 2011 Dec;31(6):769-73. doi: 10.1097/JCP.0b013e31823607db.</citation>
+    <PMID>22020353</PMID>
+  </reference>
+  <reference>
+    <citation>Jefferson JW. A clinician's guide to monitoring kidney function in lithium-treated patients. J Clin Psychiatry. 2010 Sep;71(9):1153-7. doi: 10.4088/JCP.09m05917yel. Review.</citation>
+    <PMID>20923621</PMID>
+  </reference>
+  <reference>
+    <citation>Katz I, de Deyn PP, Mintzer J, Greenspan A, Zhu Y, Brodaty H. The efficacy and safety of risperidone in the treatment of psychosis of Alzheimer's disease and mixed dementia: a meta-analysis of 4 placebo-controlled clinical trials. Int J Geriatr Psychiatry. 2007 May;22(5):475-84.</citation>
+    <PMID>17471598</PMID>
+  </reference>
+  <reference>
+    <citation>Kessing LV, Søndergård L, Forman JL, Andersen PK. Lithium treatment and risk of dementia. Arch Gen Psychiatry. 2008 Nov;65(11):1331-5. doi: 10.1001/archpsyc.65.11.1331.</citation>
+    <PMID>18981345</PMID>
+  </reference>
+  <reference>
+    <citation>Macdonald A, Briggs K, Poppe M, Higgins A, Velayudhan L, Lovestone S. A feasibility and tolerability study of lithium in Alzheimer's disease. Int J Geriatr Psychiatry. 2008 Jul;23(7):704-11. doi: 10.1002/gps.1964.</citation>
+    <PMID>18181229</PMID>
+  </reference>
+  <reference>
+    <citation>McKnight RF, Adida M, Budge K, Stockton S, Goodwin GM, Geddes JR. Lithium toxicity profile: a systematic review and meta-analysis. Lancet. 2012 Feb 25;379(9817):721-8. doi: 10.1016/S0140-6736(11)61516-X. Epub 2012 Jan 20. Review.</citation>
+    <PMID>22265699</PMID>
+  </reference>
+  <reference>
+    <citation>Nunes PV, Forlenza OV, Gattaz WF. Lithium and risk for Alzheimer's disease in elderly patients with bipolar disorder. Br J Psychiatry. 2007 Apr;190:359-60.</citation>
+    <PMID>17401045</PMID>
+  </reference>
+  <reference>
+    <citation>Rej S, Abitbol R, Looper K, Segal M. Chronic renal failure in lithium-using geriatric patients: effects of lithium continuation versus discontinuation--a 60-month retrospective study. Int J Geriatr Psychiatry. 2013 May;28(5):450-3. doi: 10.1002/gps.3841. Epub 2012 Jun 4.</citation>
+    <PMID>22674617</PMID>
+  </reference>
+  <reference>
+    <citation>Schneider LS, Dagerman K, Insel PS. Efficacy and adverse effects of atypical antipsychotics for dementia: meta-analysis of randomized, placebo-controlled trials. Am J Geriatr Psychiatry. 2006 Mar;14(3):191-210.</citation>
+    <PMID>16505124</PMID>
+  </reference>
+  <reference>
+    <citation>Schneider LS, Dagerman KS, Insel P. Risk of death with atypical antipsychotic drug treatment for dementia: meta-analysis of randomized placebo-controlled trials. JAMA. 2005 Oct 19;294(15):1934-43.</citation>
+    <PMID>16234500</PMID>
+  </reference>
+  <reference>
+    <citation>Shulman KI, Sykora K, Gill SS, Mamdani M, Anderson G, Marras C, Wodchis WP, Lee PE, Rochon P. New thyroxine treatment in older adults beginning lithium therapy: implications for clinical practice. Am J Geriatr Psychiatry. 2005 Apr;13(4):299-304.</citation>
+    <PMID>15845755</PMID>
+  </reference>
+  <reference>
+    <citation>Tariot PN, Schneider LS, Cummings J, Thomas RG, Raman R, Jakimovich LJ, Loy R, Bartocci B, Fleisher A, Ismail MS, Porsteinsson A, Weiner M, Jack CR Jr, Thal L, Aisen PS; Alzheimer's Disease Cooperative Study Group. Chronic divalproex sodium to attenuate agitation and clinical progression of Alzheimer disease. Arch Gen Psychiatry. 2011 Aug;68(8):853-61. doi: 10.1001/archgenpsychiatry.2011.72.</citation>
+    <PMID>21810649</PMID>
+  </reference>
+  <reference>
+    <citation>Tredget J, Kirov A, Kirov G. Effects of chronic lithium treatment on renal function. J Affect Disord. 2010 Nov;126(3):436-40. doi: 10.1016/j.jad.2010.04.018. Epub 2010 May 16.</citation>
+    <PMID>20483164</PMID>
+  </reference>
+  <reference>
+    <citation>Wong YW, Tam S, So KF, Chen JY, Cheng WS, Luk KD, Tang SW, Young W. A three-month, open-label, single-arm trial evaluating the safety and pharmacokinetics of oral lithium in patients with chronic spinal cord injury. Spinal Cord. 2011 Jan;49(1):94-8. doi: 10.1038/sc.2010.69. Epub 2010 Jun 8.</citation>
+    <PMID>20531359</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang X, Heng X, Li T, Li L, Yang D, Zhang X, Du Y, Doody RS, Le W. Long-term treatment with lithium alleviates memory deficits and reduces amyloid-β production in an aged Alzheimer's disease transgenic mouse model. J Alzheimers Dis. 2011;24(4):739-49. doi: 10.3233/JAD-2011-101875.</citation>
+    <PMID>21321394</PMID>
+  </reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>April 29, 2014</study_first_submitted>
+  <study_first_submitted_qc>May 1, 2014</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 2, 2014</study_first_posted>
+  <results_first_submitted>March 18, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 21, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 16, 2021</results_first_posted>
+  <last_update_submitted>April 20, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 20, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 22, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>New York State Psychiatric Institute</investigator_affiliation>
+    <investigator_full_name>Davangere P. Devanand</investigator_full_name>
+    <investigator_title>Professor of Clinical Psychiatry and Neurology</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>psychosis</keyword>
+  <keyword>agitation</keyword>
+  <keyword>aggression</keyword>
+  <keyword>Lithium</keyword>
+  <keyword>delusions</keyword>
+  <keyword>hallucinations</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Psychomotor Agitation</mesh_term>
+    <mesh_term>Psychotic Disorders</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lithium Carbonate</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>March 2, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/48/NCT02129348/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 18, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/48/NCT02129348/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Lithium Treatment Group</title>
+          <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo Group</title>
+          <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="38"/>
+                <participants group_id="P2" count="39"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="29"/>
+                <participants group_id="P2" count="29"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="10"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Lithium Treatment Group</title>
+          <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo Group</title>
+          <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="38"/>
+            <count group_id="B2" value="39"/>
+            <count group_id="B3" value="77"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="36"/>
+                    <measurement group_id="B3" value="70"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="75.6" spread="8.3"/>
+                    <measurement group_id="B2" value="74.3" spread="6.9"/>
+                    <measurement group_id="B3" value="74.9" spread="7.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="23"/>
+                    <measurement group_id="B3" value="46"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="37"/>
+                    <measurement group_id="B3" value="72"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="34"/>
+                    <measurement group_id="B3" value="67"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="38"/>
+                    <measurement group_id="B2" value="39"/>
+                    <measurement group_id="B3" value="77"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Neuropsychiatric Inventory (NPI) Agitation/Agression Domain</title>
+          <description>The primary outcome of Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain was assessed at baseline, as were all secondary outcome measures.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7.7" spread="3.1"/>
+                    <measurement group_id="B2" value="7.8" spread="2.9"/>
+                    <measurement group_id="B3" value="7.75" spread="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Change in Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain Score</title>
+        <description>Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain is the measure used that combines symptoms of agitation and aggression. Frequency X Severity rating score, range 0-12. Higher score indicates more agitation and aggressive behavior.</description>
+        <time_frame>Assessed at screening, Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain Score</title>
+          <description>Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain is the measure used that combines symptoms of agitation and aggression. Frequency X Severity rating score, range 0-12. Higher score indicates more agitation and aggressive behavior.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.2" lower_limit="1.7" upper_limit="4.6"/>
+                    <measurement group_id="O2" value="2.5" lower_limit="1.1" upper_limit="4.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Lithium will significantly reduce agitation/aggression compared to placebo. In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.53</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>0.7</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.4</ci_lower_limit>
+            <ci_upper_limit>2.7</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Responder Defined as a 30% Decrease in NPI Core Score (Sum Score of NPI Domains of Agitation/Aggression, Delusions and Hallucinations) Together With a Clinical Global Impression (CGI) Behavior Change Score of 1 or 2</title>
+        <description>The patient is classified as a responder (score=1) if both criteria are met or as a non-responder (score=0) if both criteria are not met. The first criterion to determine responder status, NPI core score, has a scoring range 0-36; each of the three component scores for symptoms of agitation/aggression, delusions and hallucinations has a scoring range 0-12. For each symptom and the total score, higher score indicates more symptoms. The second criterion to determine responder status, Clinical Global Impression (CGI), is used to assess change in overall behavior; scoring range 1-7 with higher scores indicating worsening over time and lower scores indicating improvement over time. Only patients who met both criteria, assessed as change compared to baseline, were counted as responders; all other patients were non-responders. Patients that demonstrated improvement at week 12 were reported; scores for earlier weeks were only used to assess progress throughout the study.</description>
+        <time_frame>Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Responder Defined as a 30% Decrease in NPI Core Score (Sum Score of NPI Domains of Agitation/Aggression, Delusions and Hallucinations) Together With a Clinical Global Impression (CGI) Behavior Change Score of 1 or 2</title>
+          <description>The patient is classified as a responder (score=1) if both criteria are met or as a non-responder (score=0) if both criteria are not met. The first criterion to determine responder status, NPI core score, has a scoring range 0-36; each of the three component scores for symptoms of agitation/aggression, delusions and hallucinations has a scoring range 0-12. For each symptom and the total score, higher score indicates more symptoms. The second criterion to determine responder status, Clinical Global Impression (CGI), is used to assess change in overall behavior; scoring range 1-7 with higher scores indicating worsening over time and lower scores indicating improvement over time. Only patients who met both criteria, assessed as change compared to baseline, were counted as responders; all other patients were non-responders. Patients that demonstrated improvement at week 12 were reported; scores for earlier weeks were only used to assess progress throughout the study.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Change in both NPI core score (≥30% versus &lt;30%) and CGI behavior change (1 or 2 versus ≥3) were required for response; these two measures were then analyzed separately. A x² test was used to identify whether there was a change in NPI core scores and CGI scores from baseline to week 12.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.26</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Chi-squared</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>2.11</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.73</ci_lower_limit>
+            <ci_upper_limit>6.13</ci_upper_limit>
+            <estimate_desc>Odds ratio and its 95% confidence interval were computed.</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Global Impression (CGI) Behavior Change</title>
+        <description>Clinical Global Impression (CGI) Behavior Change score is the measure used to assess change in overall behavior; scoring range 1-7 with higher scores indicating worsening over time and lower scores indicating improvement over time. Scores ranging from 1-3 indicate improvement. Only patients that demonstrated improvement at week 12 were reported; scores for earlier weeks were only used to assess progress throughout the study.</description>
+        <time_frame>Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Global Impression (CGI) Behavior Change</title>
+          <description>Clinical Global Impression (CGI) Behavior Change score is the measure used to assess change in overall behavior; scoring range 1-7 with higher scores indicating worsening over time and lower scores indicating improvement over time. Scores ranging from 1-3 indicate improvement. Only patients that demonstrated improvement at week 12 were reported; scores for earlier weeks were only used to assess progress throughout the study.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>CGI behavior change scores were categorized into responders versus non-responders (1 or 2 versus ≥3) using the last variable observation for drop-outs. A x² test was used to identify the percentage of participants in each group, lithium versus placebo, that improved from baseline to week 12.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.25</p_value>
+            <p_value_desc>The threshold of statistical significance was p = 0.05.</p_value_desc>
+            <method>Chi-squared</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>1.79</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.64</ci_lower_limit>
+            <ci_upper_limit>5.04</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Young Mania Rating Scale</title>
+        <description>Young Mania Rating Scale total score is the measure used to assess symptoms that occur in mania; each item is a symptom that is rated for severity. Scoring range 0-60; higher scores indicate more severe symptoms.</description>
+        <time_frame>Assessed at Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Young Mania Rating Scale</title>
+          <description>Young Mania Rating Scale total score is the measure used to assess symptoms that occur in mania; each item is a symptom that is rated for severity. Scoring range 0-60; higher scores indicate more severe symptoms.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.1" lower_limit="0.9" upper_limit="5.3"/>
+                    <measurement group_id="O2" value="1.1" lower_limit="-1.1" upper_limit="3.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.21</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>2.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.1</ci_lower_limit>
+            <ci_upper_limit>5.1</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Treatment Emergent Signs and Symptoms</title>
+        <description>Treatment Emergent Symptom Scale that covers 26 somatic symptoms, each rated as present (score=1) or absent (score=0). Total score is the measure used with scoring range 0-26; higher scores indicate more somatic symptoms.</description>
+        <time_frame>Assessed at Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Treatment Emergent Signs and Symptoms</title>
+          <description>Treatment Emergent Symptom Scale that covers 26 somatic symptoms, each rated as present (score=1) or absent (score=0). Total score is the measure used with scoring range 0-26; higher scores indicate more somatic symptoms.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.6" lower_limit="-1.3" upper_limit="2.4"/>
+                    <measurement group_id="O2" value="0.7" lower_limit="-1.1" upper_limit="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.91</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>-0.1</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-2.6</ci_lower_limit>
+            <ci_upper_limit>2.4</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Simpson-Angus Scale</title>
+        <description>Simpson Angus Scale for Extrapyramidal Sign requires in-person examination to assess gait, arm dropping, shoulder shaking, elbow rigidity, wrist rigidity, leg pendulousness, head dropping, glabella tap, tremor, and salivation. Total score is the measure used, range 0-40; higher scores indicate increased severity of signs.</description>
+        <time_frame>Assessed at Week 0, Week 2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Simpson-Angus Scale</title>
+          <description>Simpson Angus Scale for Extrapyramidal Sign requires in-person examination to assess gait, arm dropping, shoulder shaking, elbow rigidity, wrist rigidity, leg pendulousness, head dropping, glabella tap, tremor, and salivation. Total score is the measure used, range 0-40; higher scores indicate increased severity of signs.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.0" lower_limit="-1.1" upper_limit="1.0"/>
+                    <measurement group_id="O2" value="0.0" lower_limit="-1.0" upper_limit="1.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.94</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>0.1</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.5</ci_lower_limit>
+            <ci_upper_limit>1.4</ci_upper_limit>
+            <estimate_desc>Effect size (d)= -0.02 (Cohen's D)</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Basic Activities of Daily Living (BADL)</title>
+        <description>Basic Activities of Daily Living with items for 6 functions: bathing, dressing, toileting, transferring, continence, and feeding. Each item is scored as unimpaired=1, impaired=0. Total score is the measure used, range 0-6; higher scores indicate better functioning.</description>
+        <time_frame>Assessed at Week 0, Week2, Week 4, Week 6, Week 8, Week 10, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Basic Activities of Daily Living (BADL)</title>
+          <description>Basic Activities of Daily Living with items for 6 functions: bathing, dressing, toileting, transferring, continence, and feeding. Each item is scored as unimpaired=1, impaired=0. Total score is the measure used, range 0-6; higher scores indicate better functioning.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.3" lower_limit="-0.1" upper_limit="0.7"/>
+                    <measurement group_id="O2" value="0.1" lower_limit="-0.3" upper_limit="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.63</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>0.2</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.4</ci_lower_limit>
+            <ci_upper_limit>0.8</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Zarit Caregiver Burden Interview</title>
+        <description>Zarit Caregiver Burden Interview with the caregiver asked to rank 22 items on a scale with responses for each item from 'never' (score 0) to 'nearly always' (score 4). Total score is the measure used; range 0-88 with higher scores indicating greater caregiver burden.</description>
+        <time_frame>Assessed at Week 0, Week 4, Week 8, Week 10, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Zarit Caregiver Burden Interview</title>
+          <description>Zarit Caregiver Burden Interview with the caregiver asked to rank 22 items on a scale with responses for each item from 'never' (score 0) to 'nearly always' (score 4). Total score is the measure used; range 0-88 with higher scores indicating greater caregiver burden.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.8" lower_limit="-1.1" upper_limit="6.6"/>
+                    <measurement group_id="O2" value="-0.4" lower_limit="-4.2" upper_limit="3.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.24</p_value>
+            <p_value_desc>The threshold of statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>3.2</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-2.1</ci_lower_limit>
+            <ci_upper_limit>8.4</ci_upper_limit>
+            <estimate_desc>Effect size (d)= 0.44 (Cohen's D)</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Folstein Mini-Mental Status Exam</title>
+        <description>30 item questionnaire used to assess degree of cognitive impairment. Orientation, registration, attention/calculation, recall, language, repetitions and commands are assessed. Total score is the measure used; range 0-30, higher scores indicate better global cognitive function.</description>
+        <time_frame>Assessed at Screening, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Folstein Mini-Mental Status Exam</title>
+          <description>30 item questionnaire used to assess degree of cognitive impairment. Orientation, registration, attention/calculation, recall, language, repetitions and commands are assessed. Total score is the measure used; range 0-30, higher scores indicate better global cognitive function.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" lower_limit="-0.3" upper_limit="2.2"/>
+                    <measurement group_id="O2" value="0.9" lower_limit="-0.4" upper_limit="2.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.96</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>0.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.7</ci_lower_limit>
+            <ci_upper_limit>1.8</ci_upper_limit>
+            <estimate_desc>Cohen's d=0.01</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Severe Impairment Battery</title>
+        <description>Neuropsychological test used to assess a patient's cognitive ability. The patient is asked to complete small tasks such as drawing shapes and printing their name. They are also asked to remember certain names and objects, such as a cup and a spoon, and the evaluator's first name. Total score is the measure used; range 0-100, higher scores indicate better cognition.</description>
+        <time_frame>Assessed at Week 0, Week 12</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Lithium Treatment Group</title>
+            <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo Group</title>
+            <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Severe Impairment Battery</title>
+          <description>Neuropsychological test used to assess a patient's cognitive ability. The patient is asked to complete small tasks such as drawing shapes and printing their name. They are also asked to remember certain names and objects, such as a cup and a spoon, and the evaluator's first name. Total score is the measure used; range 0-100, higher scores indicate better cognition.</description>
+          <units>score on a scale</units>
+          <param>Least Squares Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="38"/>
+                <count group_id="O2" value="39"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.1" lower_limit="-1.1" upper_limit="5.4"/>
+                    <measurement group_id="O2" value="-0.0" lower_limit="-3.3" upper_limit="3.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>In intent-to-treat analyses, linear mixed effect models (MEM) were used to estimate means of change scores (baseline versus 12 weeks) by treatment group, lithium versus placebo, for continuous outcomes. The MEM method was used to incorporate all time-points of assessment and deal with missing data for participants who did not reach the 12-week time-point.</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.35</p_value>
+            <p_value_desc>The threshold for statistical significance was p = 0.05.</p_value_desc>
+            <method>Mixed Models Analysis</method>
+            <param_type>Treatment Effect Difference</param_type>
+            <param_value>2.2</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-2.3</ci_lower_limit>
+            <ci_upper_limit>6.6</ci_upper_limit>
+            <estimate_desc>Cohen's d=0.35</estimate_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>12 weeks.</time_frame>
+      <desc>Adverse events were based on self-report and caregiver report. Treatment Emergent Symptom Scale (TESS) total score was the measure for somatic side effects.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Lithium Treatment Group</title>
+          <description>The patient will be started on lithium 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on lithium blood level. Blood will be drawn at each study visit. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Lithium</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo Group</title>
+          <description>The patient will be started on placebo 150mg/day, with subsequent dose titration to 300mg/day at the 2-week visit, 450mg/day at the 4-week visit, and 600mg/day (maximum daily dose) if tolerated and based on sham lithium blood level. Blood will be drawn for sham lithium levels at weeks 2, 4, 6, 8, and 12. This upward dose titration will occur only if clinically indicated (absence of response at lower doses without intolerable side effects).&#xD;
+Patients who develop side effects, e.g., tremor, falls, will have their dose reduced.&#xD;
+Placebo</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypernatremia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Hyponatremia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypoglycemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Stomach Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Myoclonus</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Altered Mental Status</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Increased Agitation</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="38"/>
+                <counts group_id="E2" events="5" subjects_affected="5" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Urinary Tract Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Upper Respiratory Tract Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>2.6</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="38"/>
+                <counts group_id="E2" subjects_affected="33" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="38"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Abdominal Pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fall</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="38"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Muscle Pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gait Instability</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Myoclonus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Increased Agitation</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="38"/>
+                <counts group_id="E2" events="11" subjects_affected="11" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Increased Anxiety</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Increased Confusion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Reduced Kidney Function</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="38"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Urinary Tract Infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+              <event>
+                <sub_title>Upper Respiratory Tract Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="38"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Contact Dermatitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="38"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="39"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Davangere Devanand, MD</name_or_title>
+      <organization>New York State Psychiatric Institute</organization>
+      <phone>646.774.8656</phone>
+      <email>dpd3@cumc.columbia.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2899">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04937452</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EudraCT 2019-002997-30</org_study_id>
+    <nct_id>NCT04937452</nct_id>
+  </id_info>
+  <brief_title>Dopaminergic Therapy for Frontotemporal Dementia Patients</brief_title>
+  <official_title>Dopaminergic Therapy for Frontotemporal Dementia Patients: an Interventional, Multi-site, Randomized, Double-blind, Placebo-controlled Study on the Efficacy and Safety of RTG Treatment in Patients With Behavioral FTD</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>I.R.C.C.S. Fondazione Santa Lucia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Alzheimer's Drug Discovery Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>I.R.C.C.S. Fondazione Santa Lucia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase IIa 24-week randomized, double-blind, placebo-controlled study. The study is&#xD;
+      designed to evaluate the efficacy and safety of Rotigotine (RTG) transdermal administration&#xD;
+      at the dosage of 4 mg or 6 mg per day versus Placebo (PLC) in newly diagnosed behavioural&#xD;
+      Frontotemporal Dementia (bvFTD) patients. 75 patients with a diagnosis of probable bvFTD will&#xD;
+      be randomly allocated to the 3 treatment arms (RTG 4mg/day, RTG 6mg/day or PLC), with 25&#xD;
+      patients per group. Clinical and neurophysiological measurements and brain metabolism via&#xD;
+      FDG-PET will be collected before and after drug administration.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The current study has the ambition to provide the first-time evidence of the clinical impact,&#xD;
+      at cognitive and behavioral level, of a dopamine-based treatment in newly diagnosed bvFTD&#xD;
+      patients.&#xD;
+&#xD;
+      To evaluate the cognitive and behavioral effects of RTG administration, the investigators&#xD;
+      will employ a battery of tests assessing global cognition, executive functions, language and&#xD;
+      behavior.&#xD;
+&#xD;
+      The battery will include: Neuropsychiatric Inventory (NPI) and Frontal Behavioral Inventory&#xD;
+      (FBI) to evaluate behavior, Clinical Dementia Rating Scale-Frontotemporal Dementia Sum Of&#xD;
+      Boxes (CDR-FTD SOB) to evaluate global disease severity, Frontal Assessment Battery (FAB) to&#xD;
+      evaluate frontal functions, Screening for aphasia in Neurodegeneration (SAND) to evaluate&#xD;
+      language functions, Alzheimer's Disease Cooperative Study - Activities of Daily Living&#xD;
+      (ADCS-ADL) to evaluate activities of daily living, the Addenbrooke's Cognitive Examination&#xD;
+      Revised (ACE-R) to evaluate global cognition.&#xD;
+&#xD;
+      To evaluate changes in brain metabolism the investigators will perform 2 FDG-PET scans before&#xD;
+      starting the treatment and at the end of week 24.&#xD;
+&#xD;
+      Neurophysiological investigations will be performed to identify quantifiable biomarkers&#xD;
+      underlying the effects induced by dopamine agonist on the bvFTD brain. In particular, the&#xD;
+      investigators will use multimodal neurophysiological tools based on TMS-EMG and TMS-EEG. More&#xD;
+      specifically, different paired-pulse TMS protocols will be used to evaluate in vivo the&#xD;
+      activity of different intracortical circuits, such as short intracortical inhibition (SICI),&#xD;
+      reflecting GABA(A)-ergic neurotransmission; long intracortical inhibition (LICI), evaluating&#xD;
+      GABA(B)-ergic neurotransmission; short afferent inhibition (SAI) evaluating cholinergic&#xD;
+      neurotransmission and intermittent theta burst stimulation (iTBS) probing cortical plasticity&#xD;
+      mechanisms, such as long- term potentiation (LTP). The effects of these protocols will be&#xD;
+      evaluated by means of motor-evoked potentials, recordable with EMG. TMS-EEG will be used to&#xD;
+      measure the effects of RTG on frontal and parieto-temporal cortical activity, in terms of&#xD;
+      cortical excitability, oscillatory activity and connectivity. The investigators will evaluate&#xD;
+      the effects of the DA drug on brain activity and plasticity by analyzing MEPs and TEPs before&#xD;
+      and after the treatment. The investigators expect to find modulations in the high EEG&#xD;
+      frequencies (beta and gamma oscillatory activities) and/or in the indexes of cortical&#xD;
+      reactivity and plasticity (amplitude of TEPs and MEPs) that correlate with improvement in&#xD;
+      clinical assessment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 3, 2021</start_date>
+  <completion_date type="Anticipated">April 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frontal Assessment Battery (FAB)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Battery to evaluate executive functions. The scores range from 0-18 with a higher score meaning less cognitive impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neuropsychiatric Inventory (NPI) scale</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Battery to assess behavioral changes. The scores range from 0-144 with a higher score meaning more severe behavioural disturbances.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frontal Behavioural Inventory (FBI)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Battery to assess behavioral changes. The scores range from 0-72 with a higher score meaning more severe behavioural disturbances.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Dementia Rating scale-Frontotemporal dementia Sum Of Boxes (CDR-FTDSOB)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Battery to evaluate global disease severity. The scores range from 0-24 with a higher score meaning higher disease severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Screening for aphasia in Neurodegeneration (SAND) scale</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Battery to evaluate language functions. The scores range from 0-84 with a higher score meaning less severe language deficits.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mini Mental State Examination (MMSE)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>battery to evaluate global cognition. The scores range from 0-30 with a higher score meaning less cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Addenbrooke's Cognitive Examination Revised (ACE-R)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>battery to evaluate global cognition. The scores range from 0-100 with a higher score meaning less cognitive impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alzheimer's Disease Cooperative Study - Activities of Daily Living (ADCS-ADL)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>battery to evaluate activities of daily living. The scores range from 0-78 with lower scores indicating more severe functional impairment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CGIC questionnaire</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>questionnaire to evaluate clinically meaningful change</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>18F-FDG CT/PET</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>Change in brain glucose metabolism will be measured via FDG-PET</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long intracortical inhibition (LICI)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>TMS protocol to evaluate GABA(B)ergic transmission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short intracortical inhibition (SICI)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>TMS protocol to evaluate GABA(B)ergic transmission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Short-Latency Afferent Inhibition (SAI)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>TMS protocol to evaluate cholinergic transmission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intermittent Theta Burst Stimulation (iTBS)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>TMS protocol to evaluate cortical plasticity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TMS-EEG</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>power in beta-gamma band to evaluate prefrontal cortical oscillatory activity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nature, frequency and severity of adverse events (AEs)</measure>
+    <time_frame>24 weeks</time_frame>
+    <description>To assess the safety and tolerability</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">75</enrollment>
+  <condition>Frontotemporal Dementia</condition>
+  <condition>Dementia</condition>
+  <condition>Aphasia, Primary Progressive</condition>
+  <condition>Pick Disease of the Brain</condition>
+  <condition>Brain Diseases</condition>
+  <condition>Central Nervous System Diseases</condition>
+  <condition>Nervous System Diseases</condition>
+  <condition>Neurocognitive Disorders</condition>
+  <condition>Mental Disorders</condition>
+  <condition>Neurodegenerative Diseases</condition>
+  <condition>Frontotemporal Lobar Degeneration</condition>
+  <condition>TDP-43 Proteinopathies</condition>
+  <condition>Proteostasis Deficiencies</condition>
+  <condition>Metabolic Disease</condition>
+  <condition>Aphasia</condition>
+  <condition>Speech Disorders</condition>
+  <condition>Language Disorders</condition>
+  <condition>Communication Disorders</condition>
+  <condition>Neurobehavioral Manifestations</condition>
+  <condition>Neurologic Manifestations</condition>
+  <arm_group>
+    <arm_group_label>Rotigotine 4 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rotigotine 4 mg/24 hours transdermal patch administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rotigotine 6 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rotigotine 6 mg/24 hours transdermal patch administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo transdermal patch administration</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rotigotine 4Mg/24Hrs Patch</intervention_name>
+    <description>Rotigotine 4 mg/24Hrs administration for 24 weeks</description>
+    <arm_group_label>Rotigotine 4 mg</arm_group_label>
+    <other_name>Neupro</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rotigotine 6Mg/24Hrs Patch</intervention_name>
+    <description>Rotigotine 6 mg/24Hrs administration for 24 weeks</description>
+    <arm_group_label>Rotigotine 6 mg</arm_group_label>
+    <other_name>Neupro</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administration for 24 weeks</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. The patient has a diagnosis of probable Frontotemporal dementia behavioural variant&#xD;
+             (bv-FTD) based on the International consensus clinical diagnostic criteria described&#xD;
+             by Rascovsky et al., 2011.&#xD;
+&#xD;
+          2. The patient is a man or a woman, aged from 40 to 80 years.&#xD;
+&#xD;
+          3. The patient has a Clinical Dementia Rating-FTD (CDR-FTD) total score of ≤2 at&#xD;
+             Screening.&#xD;
+&#xD;
+          4. The patient has not been treated with acetylcholinesterase inhibitor (AChEI), i.e.,&#xD;
+             donepezil, galantamine, or rivastigmine, at the time of screening.&#xD;
+&#xD;
+          5. The patient is able to comply with the study procedures in the view of the&#xD;
+             investigator.&#xD;
+&#xD;
+          6. Evidence of frontotemporal hypometabolism at PET imaging.&#xD;
+&#xD;
+          7. Evidence of amyloid markers excluding Alzheimer's disease (cerebrospinal fluid&#xD;
+             Abeta/Tau dosages or amyloid PET imaging).&#xD;
+&#xD;
+          8. Signature and date of written ICF prior to entering in the study&#xD;
+&#xD;
+          9. Female patient must be neither pregnant nor breastfeeding. Women of childbearing&#xD;
+             potential should be willing to use contraception while receiving Rotigotine and for&#xD;
+             six months after its last assumption&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Significant neurodegenerative disorder of the central nervous system other than FTD&#xD;
+             e.g., Alzheimer's disease, Lewy body dementia, Parkinson's disease, multiple&#xD;
+             sclerosis, progressive supranuclear palsy, normal pressure hydrocephalus, Huntington's&#xD;
+             disease, any condition directly or indirectly caused by Transmissible Spongiform&#xD;
+             Encephalopathy (TSE), Creutzfeldt-Jakob Disease (CJD), variant Creutzfeldt-Jakob&#xD;
+             Disease (vCJD), or new variant Creutzfeldt-Jakob Disease (nvCJD)&#xD;
+&#xD;
+          2. Significant intracranial focal or vascular pathology seen on brain MRI scan within a&#xD;
+             maximum of 6 months before Baseline leading to a diagnosis other than probable FTD.&#xD;
+&#xD;
+          3. The patients has history of seizure (with the exception of febrile seizures in&#xD;
+             childhood).&#xD;
+&#xD;
+          4. Metal implants in the head (except dental), pacemaker, cochlear implants, or any other&#xD;
+             non-removable items that are contraindications to MR imaging.&#xD;
+&#xD;
+          5. Treatment currently or within 3 months before Baseline with any of the following&#xD;
+             medications: Typical and Atypical antipsychotics (i.e., Clozapine, Olanzapine);&#xD;
+             Antiepileptics drugs (i.e., Carbamazepine, Primidone, Pregabalin, Gabapentin);&#xD;
+             Antidepressants (i.e., Citalopram, Duolxetine, Paroxetine).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giacomo Koch, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Santa Lucia Foundation IRCCS</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Martina Assogna, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Santa Lucia Foundation IRCCS</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alessandro Martorana, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Tor Vergata</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Department of Neurology, University of Brescia</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Giacomo Koch</name>
+      <address>
+        <city>Rome</city>
+        <zip>00179</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Lucia Foundation</name>
+      <address>
+        <city>Rome</city>
+        <zip>00179</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>June 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>June 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 24, 2021</study_first_posted>
+  <last_update_submitted>July 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 11, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>I.R.C.C.S. Fondazione Santa Lucia</investigator_affiliation>
+    <investigator_full_name>Giacomo Koch</investigator_full_name>
+    <investigator_title>Prof</investigator_title>
+  </responsible_party>
+  <keyword>dopamine</keyword>
+  <keyword>frontal cortex</keyword>
+  <keyword>FTD</keyword>
+  <keyword>Rotigotine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Aphasia</mesh_term>
+    <mesh_term>Nervous System Diseases</mesh_term>
+    <mesh_term>Neurodegenerative Diseases</mesh_term>
+    <mesh_term>Brain Diseases</mesh_term>
+    <mesh_term>Central Nervous System Diseases</mesh_term>
+    <mesh_term>Frontotemporal Dementia</mesh_term>
+    <mesh_term>Aphasia, Primary Progressive</mesh_term>
+    <mesh_term>Pick Disease of the Brain</mesh_term>
+    <mesh_term>Language Disorders</mesh_term>
+    <mesh_term>Neurologic Manifestations</mesh_term>
+    <mesh_term>Speech Disorders</mesh_term>
+    <mesh_term>Frontotemporal Lobar Degeneration</mesh_term>
+    <mesh_term>Neurobehavioral Manifestations</mesh_term>
+    <mesh_term>Communication Disorders</mesh_term>
+    <mesh_term>TDP-43 Proteinopathies</mesh_term>
+    <mesh_term>Metabolic Diseases</mesh_term>
+    <mesh_term>Proteostasis Deficiencies</mesh_term>
+    <mesh_term>Disease</mesh_term>
+    <mesh_term>Mental Disorders</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Rotigotine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

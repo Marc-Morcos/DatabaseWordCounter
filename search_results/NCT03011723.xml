@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2652">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03011723</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UBergen 2016/1374</org_study_id>
+    <nct_id>NCT03011723</nct_id>
+  </id_info>
+  <brief_title>Tailored Music Therapy for Dementia</brief_title>
+  <official_title>Positive Emotions, Communication and Quality of Life in Dementia: A Tailored Music Therapy Intervention</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Bergen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NKS Olaviken Alderspsykiatriske sykehus</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Bergen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluates the effect and process of individualized music therapy for home-dwelling&#xD;
+      persons with mild to moderate dementia. The music therapy is administered individually and&#xD;
+      includes a close caregiver. Memory of familiar music is found to be retained in persons with&#xD;
+      dementia. It is assumed to facilitate autobiographical memories and stimulate interaction&#xD;
+      with significant others. Based on time series analyses we will use statistical process&#xD;
+      control to evaluate when and how change occur.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dementia is often followed by complicating symptoms such as anxiety, depression, agitation,&#xD;
+      hallucination and sleep disorders. The progression of dementia can threaten the relationship&#xD;
+      between the person with dementia (PWD) and their relatives. One reason is the possible loss&#xD;
+      of reciprocity and a mutual supportive relationship. This may influence the quality of life&#xD;
+      in both the PWD and their relatives and increase the caregiver-burden. The music therapy in&#xD;
+      this intervention is focusing on increasing positive emotions, increasing reciprocity and&#xD;
+      stimulating communication.&#xD;
+&#xD;
+      The 1st, 5th and 10th music therapy-session is video-recorded. The first 5 recorded minutes&#xD;
+      before the sessions will provide a baseline of the observed primary outcomes throughout the&#xD;
+      session. Videos are analyzed to examine changes in social communication behavior and&#xD;
+      emotional well-being. Time-series analysis of the observations will be conducted, enabling us&#xD;
+      to evaluate potential effects of the therapeutic interventions and to find out when, why and&#xD;
+      to what extent changes unfold in real time. The pre-post measures are secondary. The project&#xD;
+      is a merging and further development of two recent music therapy designs. (Articles cited in&#xD;
+      the references.)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 2017</start_date>
+  <completion_date type="Actual">December 2019</completion_date>
+  <primary_completion_date type="Actual">November 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in social interaction behavior throughout the music therapy session compared to baseline(Verbal and Nonverbal Interaction Scale (VNVIS))</measure>
+    <time_frame>Baseline (the first 5 videorecorded minutes before the music therapy) up to 45 minutes with music therapy intervention. The 1st, 5th and 10th session is videorecorded. Observation-interval is 30 seconds.</time_frame>
+    <description>Verbal and nonverbal interaction scale(VNVIS) is a standardized observational instrument for assessing prosocial and nonsocial verbal and nonverbal communication behavior between a person with dementia and their close caregiver. The scale is measuring both prosocial and nonsocial behavior, 26 items, 13 pr subscale. The person can score from 0-13 points on prosocial items pr timepoint, higher score indicates more prosocial behavior is present. The same holds for nonsocial behavior, the higher score indicates more nonsocial behavior observed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Observable signs of well being (OSWDS)</measure>
+    <time_frame>Baseline (the first 5 videorecorded minutes before the music therapy) up to 45 minutes with music therapy intervention. The 1st, 5th and 10th session is videorecorded. Observation-interval is 30 seconds.</time_frame>
+    <description>The observable signs of wellbeing in dementia- scale (OSWDS) is a scale for proxy-rated well being in persons with dementia. The scale is under development, and is tested during the intervention. It consists of 10 items measuring from 0-10 points. Each item is rated as present or non-present during the time interval. Higher score indicates higher levels of observed wellbeing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in self reported mood before and after the music therapy session (Visual Analogue Mood Scale (VAMS))</measure>
+    <time_frame>Assessment before and after every music therapy session (10 weeks) and before and after every musical activity with the relative (10 weeks)</time_frame>
+    <description>VAMS is a standardized visual analogue scale tailored to persons with cognitive impairment measuring 8 self reported mood states. Each state is scored by marking on a 10 cm line by the person with dementia. The score is calculated by measuring the point on the line in mm, and the range is 0-100, were 100 indicates maximum emotional experience.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neuropsychiatric symptoms (NPI-Q)</measure>
+    <time_frame>Baseline and post-treatment (up to two weeks after the intervention period)</time_frame>
+    <description>NPI-Q is a standardized measure of common neuropsychiatric symptoms following dementia. The scale consists of 12 items rated from 0-3. Items are summed, and the range is 0-36. Higher score means more severe neuropsychiatric symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of life in Alzheimer Dementia (QoL-AD)</measure>
+    <time_frame>Baseline and post-treatment (up to two weeks after the intervention period)</time_frame>
+    <description>QoL-AD is a standardized interview designed to measure items concerning the experienced quality of life in persons with dementia. The scale consists of 15 items from 1-4. The items are summed, and the range is 15-60. Higher score means higher self-reported quality of life.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Relative Stress Scale (RSS)</measure>
+    <time_frame>Baseline and post-treatment (up to two weeks after the intervention period)</time_frame>
+    <description>RSS is a standardized measure of self-reported caregiver burden in carers of PWD. 15 items are scored from 0-4, giving a range from 0-60. A higher score indicates more severe stress for the caregiver.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Music in Dementia Assessment Scales (MiDAS)</measure>
+    <time_frame>Before and after every music therapy session (10 weeks)</time_frame>
+    <description>MiDAS is a standardized music therapy outcome scale measuring clinical response to the intervention. The scale consists of 5 items on a visual analogue scale, and the music therapist score the items for the 5 first minutes and for the 5 most significant minutes in the session. Each item has a range from 0-100, were a higher score means a higher level of involvement in the music therapy. The 5 items are reviewed separately.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Mini Mental Status Examination (MMSE)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Screening instrument for cognitive impairment. The scale consists of 30 questions and tasks. The range is 0-30 points, were a higher score indicates higher cognitive functions.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">11</enrollment>
+  <condition>Alzheimer Dementia</condition>
+  <condition>Dementia, Vascular</condition>
+  <condition>Dementia, Lewy Body</condition>
+  <condition>Dementia Parkinson's Disease</condition>
+  <arm_group>
+    <arm_group_label>Music therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>10 weekly sessions of in-home music therapy for PWDs and a caregiver, including weekly practicing of the interventions with the caregiver between the sessions. The treatment is administered individually.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Resource oriented music therapy</intervention_name>
+    <description>10 weeks of tailored individual music therapy for PWD and a caregiver. Pre and post assessment in addition.&#xD;
+The music therapy consists of one or more of the following activities:&#xD;
+Singing&#xD;
+Listening to live music&#xD;
+Listening to recorded music&#xD;
+Dancing&#xD;
+Conversations about memories/reminiscence&#xD;
+Exercising to music&#xD;
+Breathing exercises and relaxing exercises&#xD;
+The treatment is following the principles of resource oriented music therapy as described by Rolvsjord et al (2005)</description>
+    <arm_group_label>Music therapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The patient is diagnosed with Dementia of the Alzheimer's type, Vascular Dementia,&#xD;
+             Dementia with Lewy bodies, Parkinsons's Disease Dementia (ICD-10 criteria)&#xD;
+&#xD;
+          -  The severity of the cognitive impairment is within the range of 0,5 - 2 when assessed&#xD;
+             with The Clinical Dementia Rating Scale (CDR)&#xD;
+&#xD;
+          -  A caregiver chosen by the patient commits to involvement in the treatment as a&#xD;
+             collateral (i.e. spouse, child, grandchild, sibling, close friend)&#xD;
+&#xD;
+          -  Use of psychotropic medication has been stable during the past 2 weeks&#xD;
+&#xD;
+          -  The PWD is able to answer simple self-report questionnaires on their own or when&#xD;
+             interviewed by a trained professional&#xD;
+&#xD;
+          -  Informed consent is obtained from patients and caregiver&#xD;
+&#xD;
+          -  The PWD's are living in their home, in assisted living facilities or only periodical&#xD;
+             living in care homes.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe dementia(a score of 3&gt; on CDR).&#xD;
+&#xD;
+          -  Severe aphasia&#xD;
+&#xD;
+          -  Frontotemporal dementia&#xD;
+&#xD;
+          -  Comorbid diagnosis of bipolar disorder, diagnosis of schizophrenia and related&#xD;
+             disorders&#xD;
+&#xD;
+          -  Changes in psychotropic medications in the past 2 weeks. If so, the medication needs&#xD;
+             to be stable before pre-assessment is undertaken&#xD;
+&#xD;
+          -  Severe psychotic symptoms or serious risk of suicide&#xD;
+&#xD;
+          -  Permanent living arrangement in nursing home, or planned temporary stay during the&#xD;
+             treatment period&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Inger Hilde Nordhus, Professor, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Bergen</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>NKS Olaviken Alderspsykiatriske sykehus</name>
+      <address>
+        <city>Bergen</city>
+        <zip>5009</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Norway</country>
+  </location_countries>
+  <reference>
+    <citation>Shall A, Haberstroh J, Pantel J. Time series analysis of individual music therapy in dementia. Effects on communication behavior and emotional well-being. Gero Psych 28 (3): 113-122, 2015</citation>
+  </reference>
+  <reference>
+    <citation>Baker FA, Grocke D, Pachana NA, Clair AA. Connecting through music: a study of a spousal caregiver-directed music intervention designed to prolong fulfilling relationships in couples where one person has dementia. Australian Journal of Music Therapy, 23: 4-21, 2012.</citation>
+  </reference>
+  <reference>
+    <citation>Rolvsjord R, Gold C, Stige B. Research rigour and therapeutic flexibility: Rationale for a therapy manual developed for a randomised controlled trial. Nordic Journal of Music Therapy 14(1), 15-32, 2005.</citation>
+  </reference>
+  <verification_date>September 2019</verification_date>
+  <study_first_submitted>December 12, 2016</study_first_submitted>
+  <study_first_submitted_qc>January 4, 2017</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 5, 2017</study_first_posted>
+  <last_update_submitted>November 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia, Vascular</mesh_term>
+    <mesh_term>Lewy Body Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

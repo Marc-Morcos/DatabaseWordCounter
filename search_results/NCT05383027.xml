@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="783">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05383027</url>
+  </required_header>
+  <id_info>
+    <org_study_id>000141913</org_study_id>
+    <nct_id>NCT05383027</nct_id>
+  </id_info>
+  <brief_title>Examining the Feasibility of Implementation, Patterns of Association, and Outcomes in HRV Biofeedback (HRVB) Intervention and Music Listening Control (MLC) on Alzheimer's Disease (AD) Family Caregivers (FCGs) Public Title: Caring Relationship Expression Study</brief_title>
+  <acronym>CARES</acronym>
+  <official_title>Examining the Feasibility of Implementation, Patterns of Association, and Outcomes in HRV Biofeedback (HRVB) Intervention and Music Listening Control (MLC) on Alzheimer's Disease (AD) Family Caregivers (FCGs) Public Title: Caring Relationship Expression Study(CARES)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Arizona State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Arizona State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In a remotely delivered nationwide pilot study, we will be examining a novel 8-week heart&#xD;
+      rate variability biofeedback (HRVB) intervention vs music listening control (MLC) for 30&#xD;
+      family caregivers 18 years and older (FCGs) of Alzheimer's disease (AD) (and related&#xD;
+      dementias: ADRD) patients to examine feasibility (acceptability/adherence, satisfaction) and&#xD;
+      direction of change in caregiver burden, stress, resilience, anxiety, self-compassion, and&#xD;
+      relationship quality.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2022</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Perceived Stress Scale-10</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>Measure of stress</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Zarit Burden Interview</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>Measures participant burden</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Brief Resilience Scale</measure>
+    <time_frame>13 weeks</time_frame>
+    <description>Measures participant resillience</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Alzheimer's Disease and Related Dementias Family Caregivers</condition>
+  <arm_group>
+    <arm_group_label>Music Listening Control(MLC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Heart Focused Breathing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Music Listening Control (MLC)</intervention_name>
+    <description>MLC participants will engage in assigned music listening in the presence of their loved one with ADRD via a selected online platform (pandora or Spotify) for 10 minutes a day 5-7 days a week.</description>
+    <arm_group_label>Music Listening Control(MLC)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Heart Focused Breathing</intervention_name>
+    <description>Heart-focused breathing participants will engage in heart-focused breathing using the inner balance device (shipped to their home), they will be asked to do this in the presence of their loved one with ADRD for 10 minutes a day 5-7 days per week.</description>
+    <arm_group_label>Heart Focused Breathing</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years and above&#xD;
+&#xD;
+          -  primary, unpaid family caregiver for ADRD patient for 6 months or more&#xD;
+&#xD;
+          -  owns and operates a smartphone with a data plan&#xD;
+&#xD;
+          -  greater than of equal to 4 on caregiver burden scale&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  regular mind-body practice&#xD;
+&#xD;
+          -  under 18 years old&#xD;
+&#xD;
+          -  pacemaker&#xD;
+&#xD;
+          -  conditions or medications that interfere with heart rate variability&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Linda K Larkey, PhD</last_name>
+    <phone>6028212366</phone>
+    <email>linda.larkey@asu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dara James, PhD</last_name>
+    <phone>2074791440</phone>
+    <email>dara.james@asu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Arizona State University</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda K Larkey, PhD</last_name>
+      <phone>602-821-2366</phone>
+      <email>linda.larkey@asu.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>May 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 17, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 19, 2022</study_first_posted>
+  <last_update_submitted>May 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 19, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

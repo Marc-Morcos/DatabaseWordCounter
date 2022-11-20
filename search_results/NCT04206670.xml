@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2352">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04206670</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R44AG059458-03</org_study_id>
+    <secondary_id>R44AG059458</secondary_id>
+    <nct_id>NCT04206670</nct_id>
+  </id_info>
+  <brief_title>In-Home Technology for Caregivers of People With Dementia and Mild Cognitive Impairment</brief_title>
+  <official_title>Developing and Evaluating In-Home Supportive Technology for Caregivers of People With Dementia and Mild Cognitive Impairment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, Berkeley</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>People Power Company</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, Berkeley</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to develop and evaluate new in-home supportive technology that is designed to&#xD;
+      alleviate anxiety, burden, and loneliness in spousal and familial caregivers of individuals&#xD;
+      with Alzheimer's disease, other dementias, or mild cognitive impairment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aims to develop, refine, and evaluate a new hardware/software system designed to&#xD;
+      integrate in-home sensors and devices, Internet-of-Things technologies (i.e., devices that&#xD;
+      can be controlled and communicated with via the internet), and social networking to create a&#xD;
+      more safe and supportive home environment for caregivers and people who have Alzheimer's&#xD;
+      disease, other dementias, or mild cognitive impairment. The system monitors troublesome&#xD;
+      behaviors in people with dementia or mild cognitive impairment (e.g., wandering), and targets&#xD;
+      mechanisms (e.g., worry, social isolation) thought to link behavioral symptoms in people with&#xD;
+      dementia or mild cognitive impairment with adverse caregiver outcomes (declines in health and&#xD;
+      well-being). The system is designed to minimize demands on caregivers' limited time and&#xD;
+      energy and to provide a platform for data collection that can be used by researchers and care&#xD;
+      professionals.&#xD;
+&#xD;
+      Hypotheses:&#xD;
+&#xD;
+        1. Caregivers in the full operation condition will have fewer negative effects of&#xD;
+           caregiving (lower burden, better mental and physical health, higher well-being) than&#xD;
+           those in the control condition.&#xD;
+&#xD;
+        2. Greater use of the social networking features of the system will be associated with&#xD;
+           fewer caregiver depressive symptoms.&#xD;
+&#xD;
+        3. Greater utilization of the home safety features of the system will be associated with&#xD;
+           fewer caregiver anxiety symptoms.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 10, 2020</start_date>
+  <completion_date type="Actual">December 8, 2021</completion_date>
+  <primary_completion_date type="Actual">December 8, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Investigator)</masking>
+    <masking_description>Participants are randomly assigned to treatment arms by People Power. All participants complete the same questionnaires at the same intervals. University of California, Berkeley investigators are blind as to participants' treatment arm assignment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>3 Months Assessment for Center for Epidemiological Studies Depression Scale (CES-D)</measure>
+    <time_frame>3 months after baseline</time_frame>
+    <description>Questionnaire to measure depression (Radloff, 1977). 20 items are rated on a 0-3 scale and summed (range = 0-60). There are no subscales. Higher scores represent worse outcomes. The clinical cut-off is usually set at a score of 16.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6 Months Assessment for Center for Epidemiological Studies Depression Scale (CES-D)</measure>
+    <time_frame>6 months after baseline</time_frame>
+    <description>Questionnaire to measure depression (Radloff, 1977). 20 items are rated on a 0-3 scale and summed (range = 0-60). There are no subscales. Higher scores represent worse outcomes. The clinical cut-off is usually set at a score of 16.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3 Months Assessment for Zarit Burden Interview-Short Form</measure>
+    <time_frame>3 months after baseline</time_frame>
+    <description>Questionnaire to measure caregiver burden (Zarit, Reever, &amp; Bach-Peterson, 1980). 12 items are rated on 0-4 scale. Range: 0-48. No subscales. Higher scores represent worse outcomes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6 Months Assessment for Zarit Burden Interview-Short Form</measure>
+    <time_frame>6 months after baseline</time_frame>
+    <description>Questionnaire to measure caregiver burden (Zarit, Reever, &amp; Bach-Peterson, 1980). 12 items are rated on 0-4 scale. Range: 0-48. No subscales. Higher scores represent worse outcomes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3 Months Assessment for Beck Anxiety Inventory (BAI)</measure>
+    <time_frame>3 months after baseline</time_frame>
+    <description>Questionnaire to measure anxiety (Beck, Epstein, Brown, &amp; Steer, 1988). 20 items are rated on a 0-3 scale and summed (range= 0-60). Higher scores indicate worse outcomes. There are no subscales. A score greater than 36 is considered to be clinically significant.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6 Months Assessment for Beck Anxiety Inventory (BAI)</measure>
+    <time_frame>6 months after baseline</time_frame>
+    <description>Questionnaire to measure anxiety (Beck, Epstein, Brown, &amp; Steer, 1988). 20 items are rated on a 0-3 scale and summed (range= 0-60). Higher scores indicate worse outcomes. There are no subscales. A score greater than 36 is considered to be clinically significant.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>3 Months Assessment for Satisfaction With Life Scale</measure>
+    <time_frame>3 months after baseline</time_frame>
+    <description>Questionnaire measuring overall life satisfaction and well-being (Diener, Emmons, Larsen, &amp; Griffin, 1985). 5 items scored on a 1-7 scale and summed (Range = 5-35). Lower scores indicate worse outcomes. A score of 20 is considered neutral with higher scores considered increasingly more satisfied and lower scores considered increasingly more dissatisfied.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>6 Months Assessment for Satisfaction With Life Scale</measure>
+    <time_frame>6 months after baseline</time_frame>
+    <description>Questionnaire measuring overall life satisfaction and well-being (Diener, Emmons, Larsen, &amp; Griffin, 1985). 5 items scored on a 1-7 scale and summed (Range = 5-35). Lower scores indicate worse outcomes. A score of 20 is considered neutral with higher scores considered increasingly more satisfied and lower scores considered increasingly more dissatisfied.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">216</enrollment>
+  <condition>Dementia</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>In-Home Technology System</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Waiting Control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants will be assigned a date for receiving and installing the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) six months after they enter the study. During that six-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). At the end of the six-month period, participants will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional six-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>In-Home Technology System and Questionnaires</intervention_name>
+    <description>Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+    <arm_group_label>In-Home Technology System</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Waiting Control In-Home Technology System and Questionnaires</intervention_name>
+    <description>Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+    <arm_group_label>Waiting Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Caregivers are fluent/literate in English&#xD;
+&#xD;
+          -  Caregivers currently reside with spouse/family member who has received a diagnosis of&#xD;
+             Alzheimer's disease, other dementias, or mild cognitive impairment&#xD;
+&#xD;
+          -  Caregivers primarily use a smartphone (e.g., iPhone, Android)&#xD;
+&#xD;
+          -  Caregiver has wireless internet in home&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with known non-neurodegenerative conditions&#xD;
+             affecting behavior and cognition&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with longstanding Axis I psychiatric&#xD;
+             disorder&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with metabolic disorder or major organ&#xD;
+             dysfunction&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with alcohol abuse or dependence (within 5&#xD;
+             years of dementia onset)&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with head trauma with loss of consciousness&#xD;
+             greater than 30 minutes&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with contraindications to MRI imaging&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with large confluent white matter lesions&#xD;
+&#xD;
+          -  Caregivers providing care for individuals with significant systemic medical illness&#xD;
+&#xD;
+          -  Caregivers providing care for individuals who use a medication likely to affect&#xD;
+             central nervous system functions adversely&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert W Levenson, Ph.D.</last_name>
+    <role>Study Director</role>
+    <affiliation>University of California, Berkeley</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of California, Berkeley</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://research.presencefamily.com/</url>
+    <description>Presence Caregiver Research Website</description>
+  </link>
+  <reference>
+    <citation>Chen KH, Wells JL, Otero MC, Lwi SJ, Haase CM, Levenson RW. Greater Experience of Negative Non-Target Emotions by Patients with Neurodegenerative Diseases Is Related to Lower Emotional Well-Being in Caregivers. Dement Geriatr Cogn Disord. 2017;44(5-6):245-255. doi: 10.1159/000481132. Epub 2017 Dec 8.</citation>
+    <PMID>29216633</PMID>
+  </reference>
+  <reference>
+    <citation>Lwi SJ, Ford BQ, Casey JJ, Miller BL, Levenson RW. Poor caregiver mental health predicts mortality of patients with neurodegenerative disease. Proc Natl Acad Sci U S A. 2017 Jul 11;114(28):7319-7324. doi: 10.1073/pnas.1701597114. Epub 2017 Jun 27.</citation>
+    <PMID>28655841</PMID>
+  </reference>
+  <reference>
+    <citation>Otero MC, Levenson RW. Lower Visual Avoidance in Dementia Patients Is Associated with Greater Psychological Distress in Caregivers. Dement Geriatr Cogn Disord. 2017;43(5-6):247-258. doi: 10.1159/000468146. Epub 2017 Apr 11.</citation>
+    <PMID>28395276</PMID>
+  </reference>
+  <reference>
+    <citation>Brown CL, Lwi SJ, Goodkind MS, Rankin KP, Merrilees J, Miller BL, Levenson RW. Empathic Accuracy Deficits in Patients with Neurodegenerative Disease: Association with Caregiver Depression. Am J Geriatr Psychiatry. 2018 Apr;26(4):484-493. doi: 10.1016/j.jagp.2017.10.012. Epub 2017 Dec 27.</citation>
+    <PMID>29289452</PMID>
+  </reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>December 10, 2019</study_first_submitted>
+  <study_first_submitted_qc>December 19, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 20, 2019</study_first_posted>
+  <results_first_submitted>March 9, 2022</results_first_submitted>
+  <results_first_submitted_qc>April 14, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 10, 2022</results_first_posted>
+  <last_update_submitted>April 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, Berkeley</investigator_affiliation>
+    <investigator_full_name>Robert Levenson</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Caregivers</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>In-Home Technology</keyword>
+  <keyword>Alzheimer Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Because health and other protected data are involved, we need to consult with our institutional review board and other collaborators concerning which data can be shared.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 14, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/70/NCT04206670/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 14, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/70/NCT04206670/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>Note that outcomes are only assessed regarding caregiver health and well-being. Patients did not provide any information; therefore, all information reported for demographics and measures is only regarding caregivers.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>In-Home Technology System</title>
+          <description>Participants will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+        </group>
+        <group group_id="P2">
+          <title>Waiting Control</title>
+          <description>Participants will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="148"/>
+                <participants group_id="P2" count="68"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="124"/>
+                <participants group_id="P2" count="65"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>In-Home Technology System</title>
+          <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+        </group>
+        <group group_id="B2">
+          <title>Waiting Control</title>
+          <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="148"/>
+            <count group_id="B2" value="68"/>
+            <count group_id="B3" value="216"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="63.7" spread="11.8"/>
+                    <measurement group_id="B2" value="64.6" spread="9.8"/>
+                    <measurement group_id="B3" value="63.9" spread="11.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="90"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="141"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="58"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Black or African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>East Asian, South Asian, Southeast Asian, or Indian American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Latino or Hispanic American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Native Hawaiian or Pacific Islander</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Non-Hispanic White or European American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="108"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="159"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="5"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Beck Anxiety Inventory</title>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7.36" spread="8.23"/>
+                    <measurement group_id="B2" value="9.46" spread="7.12"/>
+                    <measurement group_id="B3" value="8.02" spread="7.94"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Zarit Burden Inventory</title>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20.04" spread="8.71"/>
+                    <measurement group_id="B2" value="21.35" spread="8.13"/>
+                    <measurement group_id="B3" value="20.45" spread="8.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Satisfaction with Life</title>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="20.99" spread="7.24"/>
+                    <measurement group_id="B2" value="18.81" spread="6.85"/>
+                    <measurement group_id="B3" value="20.30" spread="7.18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Center for Epidemiologic Studies Depression Scale</title>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15.14" spread="10.04"/>
+                    <measurement group_id="B2" value="17.90" spread="10.44"/>
+                    <measurement group_id="B3" value="16.01" spread="10.22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>3 Months Assessment for Center for Epidemiological Studies Depression Scale (CES-D)</title>
+        <description>Questionnaire to measure depression (Radloff, 1977). 20 items are rated on a 0-3 scale and summed (range = 0-60). There are no subscales. Higher scores represent worse outcomes. The clinical cut-off is usually set at a score of 16.</description>
+        <time_frame>3 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>3 Months Assessment for Center for Epidemiological Studies Depression Scale (CES-D)</title>
+          <description>Questionnaire to measure depression (Radloff, 1977). 20 items are rated on a 0-3 scale and summed (range = 0-60). There are no subscales. Higher scores represent worse outcomes. The clinical cut-off is usually set at a score of 16.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="125"/>
+                <count group_id="O2" value="61"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16.05" spread="10.30"/>
+                    <measurement group_id="O2" value="18.39" spread="10.27"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>6 Months Assessment for Center for Epidemiological Studies Depression Scale (CES-D)</title>
+        <description>Questionnaire to measure depression (Radloff, 1977). 20 items are rated on a 0-3 scale and summed (range = 0-60). There are no subscales. Higher scores represent worse outcomes. The clinical cut-off is usually set at a score of 16.</description>
+        <time_frame>6 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=100) will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>6 Months Assessment for Center for Epidemiological Studies Depression Scale (CES-D)</title>
+          <description>Questionnaire to measure depression (Radloff, 1977). 20 items are rated on a 0-3 scale and summed (range = 0-60). There are no subscales. Higher scores represent worse outcomes. The clinical cut-off is usually set at a score of 16.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="122"/>
+                <count group_id="O2" value="64"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.98" spread="11.61"/>
+                    <measurement group_id="O2" value="17.17" spread="9.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>3 Months Assessment for Zarit Burden Interview-Short Form</title>
+        <description>Questionnaire to measure caregiver burden (Zarit, Reever, &amp; Bach-Peterson, 1980). 12 items are rated on 0-4 scale. Range: 0-48. No subscales. Higher scores represent worse outcomes.</description>
+        <time_frame>3 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=100) will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>3 Months Assessment for Zarit Burden Interview-Short Form</title>
+          <description>Questionnaire to measure caregiver burden (Zarit, Reever, &amp; Bach-Peterson, 1980). 12 items are rated on 0-4 scale. Range: 0-48. No subscales. Higher scores represent worse outcomes.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="121"/>
+                <count group_id="O2" value="61"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.40" spread="9.19"/>
+                    <measurement group_id="O2" value="21.31" spread="8.63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>6 Months Assessment for Zarit Burden Interview-Short Form</title>
+        <description>Questionnaire to measure caregiver burden (Zarit, Reever, &amp; Bach-Peterson, 1980). 12 items are rated on 0-4 scale. Range: 0-48. No subscales. Higher scores represent worse outcomes.</description>
+        <time_frame>6 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=100) will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>6 Months Assessment for Zarit Burden Interview-Short Form</title>
+          <description>Questionnaire to measure caregiver burden (Zarit, Reever, &amp; Bach-Peterson, 1980). 12 items are rated on 0-4 scale. Range: 0-48. No subscales. Higher scores represent worse outcomes.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="116"/>
+                <count group_id="O2" value="61"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="20.93" spread="9.17"/>
+                    <measurement group_id="O2" value="21.87" spread="8.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>3 Months Assessment for Beck Anxiety Inventory (BAI)</title>
+        <description>Questionnaire to measure anxiety (Beck, Epstein, Brown, &amp; Steer, 1988). 20 items are rated on a 0-3 scale and summed (range= 0-60). Higher scores indicate worse outcomes. There are no subscales. A score greater than 36 is considered to be clinically significant.</description>
+        <time_frame>3 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=100) will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>3 Months Assessment for Beck Anxiety Inventory (BAI)</title>
+          <description>Questionnaire to measure anxiety (Beck, Epstein, Brown, &amp; Steer, 1988). 20 items are rated on a 0-3 scale and summed (range= 0-60). Higher scores indicate worse outcomes. There are no subscales. A score greater than 36 is considered to be clinically significant.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="125"/>
+                <count group_id="O2" value="63"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.06" spread="7.71"/>
+                    <measurement group_id="O2" value="9.29" spread="7.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>6 Months Assessment for Beck Anxiety Inventory (BAI)</title>
+        <description>Questionnaire to measure anxiety (Beck, Epstein, Brown, &amp; Steer, 1988). 20 items are rated on a 0-3 scale and summed (range= 0-60). Higher scores indicate worse outcomes. There are no subscales. A score greater than 36 is considered to be clinically significant.</description>
+        <time_frame>6 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=100) will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>6 Months Assessment for Beck Anxiety Inventory (BAI)</title>
+          <description>Questionnaire to measure anxiety (Beck, Epstein, Brown, &amp; Steer, 1988). 20 items are rated on a 0-3 scale and summed (range= 0-60). Higher scores indicate worse outcomes. There are no subscales. A score greater than 36 is considered to be clinically significant.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="122"/>
+                <count group_id="O2" value="65"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.81" spread="8.44"/>
+                    <measurement group_id="O2" value="8.71" spread="6.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>3 Months Assessment for Satisfaction With Life Scale</title>
+        <description>Questionnaire measuring overall life satisfaction and well-being (Diener, Emmons, Larsen, &amp; Griffin, 1985). 5 items scored on a 1-7 scale and summed (Range = 5-35). Lower scores indicate worse outcomes. A score of 20 is considered neutral with higher scores considered increasingly more satisfied and lower scores considered increasingly more dissatisfied.</description>
+        <time_frame>3 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=100) will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>3 Months Assessment for Satisfaction With Life Scale</title>
+          <description>Questionnaire measuring overall life satisfaction and well-being (Diener, Emmons, Larsen, &amp; Griffin, 1985). 5 items scored on a 1-7 scale and summed (Range = 5-35). Lower scores indicate worse outcomes. A score of 20 is considered neutral with higher scores considered increasingly more satisfied and lower scores considered increasingly more dissatisfied.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="125"/>
+                <count group_id="O2" value="63"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.26" spread="6.96"/>
+                    <measurement group_id="O2" value="18.68" spread="7.11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>6 Months Assessment for Satisfaction With Life Scale</title>
+        <description>Questionnaire measuring overall life satisfaction and well-being (Diener, Emmons, Larsen, &amp; Griffin, 1985). 5 items scored on a 1-7 scale and summed (Range = 5-35). Lower scores indicate worse outcomes. A score of 20 is considered neutral with higher scores considered increasingly more satisfied and lower scores considered increasingly more dissatisfied.</description>
+        <time_frame>6 months after baseline</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>In-Home Technology System</title>
+            <description>Participants (N=300) will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Waiting Control</title>
+            <description>Participants (N=100) will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>6 Months Assessment for Satisfaction With Life Scale</title>
+          <description>Questionnaire measuring overall life satisfaction and well-being (Diener, Emmons, Larsen, &amp; Griffin, 1985). 5 items scored on a 1-7 scale and summed (Range = 5-35). Lower scores indicate worse outcomes. A score of 20 is considered neutral with higher scores considered increasingly more satisfied and lower scores considered increasingly more dissatisfied.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="121"/>
+                <count group_id="O2" value="65"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="21.28" spread="7.51"/>
+                    <measurement group_id="O2" value="18.66" spread="7.06"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Baseline to 6 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>In-Home Technology System</title>
+          <description>Participants will receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) in their homes. Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over a six month period with questionnaires (e.g., health and well-being) administered 3 times (at the time of installation and every 3 months thereafter).&#xD;
+In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes after enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+        </group>
+        <group group_id="E2">
+          <title>Waiting Control</title>
+          <description>Participants will be assigned to receive and install the full system (sensors for entry, activity, temperature, water leak; voice control; digital display; local router) after they enter the study. During a 6-month period, questionnaires (e.g., health and well-being) will be administered 3 times (at the start of the study and every 3 months thereafter). Remote assistance will be provided to help with the installation. Sensors, warnings, messaging, and social networking features will be activated remotely. Participation will extend over an additional 6-month period with questionnaires (e.g., health and well-being) administered 2 times (every 3 months following installation).&#xD;
+Waiting Control In-Home Technology System and Questionnaires: Participants self-install the in-home technology system in their homes six months after their enrollment in the study (i.e., consent procedures and initial questionnaire). Intelligent bots monitor the in-home sensors, learn typical patterns, and provide caregivers with text messages via cell phone and alerts via the tablet when worrisome behaviors occur. Social contact is encouraged using caregiver resources and a trusted circle of friends and family who are encouraged to stay in contact with the caregiver and person with dementia or mild cognitive impairment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="148"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="68"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="148"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="68"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="148"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="68"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study intended to recruit 400 participants, however at the start of enrollment, COVID-19 shutdowns occurred and caregivers were less likely to enroll in the study because they were at home (i.e., not out in public) more often, thus not needing to remotely monitor the individuals that they were providing care for. Thus the final number of installations was 216. Due to selective attrition the final active control ratio was approximately 2:1.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Robert W. Levenson</name_or_title>
+      <organization>University of California, Berkeley</organization>
+      <phone>510-643-8952</phone>
+      <email>boblev@berkeley.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1573">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05164536</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Plasma P-tau 2017</org_study_id>
+    <nct_id>NCT05164536</nct_id>
+  </id_info>
+  <brief_title>Plasma P-tau2017 and Quantitative Amyloid PET Imaging</brief_title>
+  <official_title>Plasma P-tau2017 and Quantitative Amyloid PET Imaging in a Cognitively Normal Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Invicro</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Invicro</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall goal of this protocol is to compare amyloid burden assessed by amyloid PET to&#xD;
+      plasma P-tau217 levels.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The overall goal of this protocol is to compare amyloid burden assessed by amyloid PET to&#xD;
+      plasma P-tau217 levels. Other relevant AD-related investigational biomarkers may also be&#xD;
+      assessed in the provided samples. Apolipoprotein E (ApoE) genetic status will be evaluated&#xD;
+      with a serum sample.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 27, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Creation of a database of brain amyloid deposition by region using PET signal-to-noise ratio, SUVr .</measure>
+    <time_frame>1 year</time_frame>
+    <description>Amyloid PET imaging will be used to measure regional brain amyloid deposition in each subject.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Creation of a database of blood P-tau217 and other blood biomarkers.</measure>
+    <time_frame>1 year</time_frame>
+    <description>Blood will be analyzed at Eli Lilly for P-tau217 and ApoE genotype. The analysis will be described in a separate analysis plan.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>[18F]Florbetapir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will undergo amyloid PET imaging with an approved amyloid radiotracer (ie, [18F]Florbetapir (Amyvid™)) to assess β-amyloid neuritic plaque density.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amyvid</intervention_name>
+    <description>All participants will undergo a single β-amyloid PET scan with Amyvid.</description>
+    <arm_group_label>[18F]Florbetapir</arm_group_label>
+    <other_name>[18F]Florbetapir</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (for all participants):&#xD;
+&#xD;
+          -  Signed and dated written informed consent obtained from the subject.&#xD;
+&#xD;
+          -  Male participants with partners of childbearing potential must commit to the use of 2&#xD;
+             methods of contraception, one of which is a barrier method for male participants for&#xD;
+             the study duration.&#xD;
+&#xD;
+          -  Male participants must not donate sperm for the study duration.&#xD;
+&#xD;
+          -  Willing and able to cooperate with study procedures.&#xD;
+&#xD;
+          -  Males and females.&#xD;
+&#xD;
+          -  Participants aged ≥ 70, inclusive, at the time of Screening.&#xD;
+&#xD;
+          -  Judged to be cognitively normal by an Investigator based on clinical judgment.&#xD;
+&#xD;
+        Exclusion Criteria (for all participants):&#xD;
+&#xD;
+          -  Subject has received an investigational drug or device within 30 days of enrollment,&#xD;
+             unless in the opinion of the Investigator such medication or device will not impair&#xD;
+             subject safety or scientific integrity of the data.&#xD;
+&#xD;
+          -  Contraindication to amyloid PET imaging or blood sampling.&#xD;
+&#xD;
+          -  Have ever received an experimental or approved medication targeting amyloid or tau.&#xD;
+&#xD;
+          -  Prior participation in other research protocols or clinical care in the last year that&#xD;
+             would result in radiation exposure exceeding the acceptable annual limit established&#xD;
+             by the U.S. Federal Guidelines (effective dose of 50 mSv, including the procedures in&#xD;
+             this clinical protocol).&#xD;
+&#xD;
+          -  Pregnancy, lactating or breastfeeding.&#xD;
+&#xD;
+          -  Evidence of clinically significant gastrointestinal, cardiovascular, hepatic, renal,&#xD;
+             hematological, neoplastic, endocrine, alternative neurological, immunodeficiency,&#xD;
+             pulmonary, or other disorder or disease that in the Investigator's judgment may&#xD;
+             interfere with the objectives of the study.&#xD;
+&#xD;
+          -  Unsuitable veins for venipuncture.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>70 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Russell</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Invicro</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lianne Ramia</last_name>
+    <phone>203-401-4300</phone>
+    <email>recruitment@invicro.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Invicro</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Russell, M.D., Ph.D</last_name>
+      <phone>203-401-4300</phone>
+    </contact>
+    <investigator>
+      <last_name>David Russell, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Joyce Gibbons, PA-C</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amy Knorr, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://invicro.com</url>
+    <description>Related Information</description>
+  </link>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>October 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 20, 2021</study_first_posted>
+  <last_update_submitted>December 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>AD</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

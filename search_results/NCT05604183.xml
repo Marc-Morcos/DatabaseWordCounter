@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1352">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05604183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MANTIS_2022_08_CrossSect_B</org_study_id>
+    <secondary_id>CIV-22-06-039726</secondary_id>
+    <nct_id>NCT05604183</nct_id>
+  </id_info>
+  <brief_title>Hyperspectral Retinal Observations for the Cross-sectional Detection of Alzheimer's Disease</brief_title>
+  <official_title>Hyperspectral Retinal Observations for the Cross-sectional Detection of Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mantis Photonics AB</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Blekinge Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Blekinge County Council Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mantis Photonics AB</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Two devices will be tested in this research:&#xD;
+&#xD;
+        1. Mantis Photonics' hyperspectral camera for non-invasive retinal examination (i.e., a&#xD;
+           hardware medical device under investigation).&#xD;
+&#xD;
+        2. Blekinge CoGNIT cognitive ability test (i.e., an assessment).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Worldwide, millions of people are affected by neurodegenerative diseases (e.g., Alzheimer's&#xD;
+      disease, dementia). Those diseases are having a tremendous socio-economic impact on our&#xD;
+      society. The cost associated with treating and caring for those diseases is enormous.&#xD;
+      Overwhelming evidence indicates how selective lifestyle changes (e.g., reducing exposure to&#xD;
+      known risk factors) can sometimes significantly decrease the probability of developing the&#xD;
+      disease or delay its onset. However, the diseases must be diagnosed early for them to be&#xD;
+      effective. There is a lack of accessible, inexpensive, and non-invasive practices that would&#xD;
+      allow for an early diagnosis of different diseases, even at the primary physician's office.&#xD;
+      Mantis Photonics and Blekinge Tekniska Högskola (Institustionen för Hälsa) aim to fill this&#xD;
+      urgent unmet medical need.&#xD;
+&#xD;
+      Strong indications of the possibility of classifying Alzheimer's status based on&#xD;
+      hyperspectral scans of the retina have been published by different researchers. These results&#xD;
+      were obtained based on images taken with hyperspectral cameras with a different working&#xD;
+      principle than the Mantis Photonics camera. The working principle of the Mantis Photonics&#xD;
+      camera allows making a hyperspectral retinoscopy with the same spectral range and comparable&#xD;
+      or better spectral resolution with a machine that is more modular and lower in cost. There is&#xD;
+      thus reason to hypothesize retinal scans taken with the Mantis Photonics camera can be used&#xD;
+      for the same classification task.&#xD;
+&#xD;
+      Previous studies on the automated tablet computer cognitive test CoGNIT have established&#xD;
+      validity, reliability and sensitivity for testing patients with Normal Pressure Hydrocephalus&#xD;
+      (NPH) . Recently feasibility of testing in Mild Cognitive Impairment (MCI) was affirmed&#xD;
+      (Behrens, Berglund, &amp; Anderberg, CoGNIT Automated Tablet Computer Cognitive Testing in&#xD;
+      Patients With Mild Cognitive Impairment: Feasibility Study, 2022). In NPH patients, CoGNIT&#xD;
+      was more sensitive to cognitive impairment at baseline and cognitive improvement after shunt&#xD;
+      surgery than the Mini-Mental State Examination (MMSE).&#xD;
+&#xD;
+      Blood tests for amyloid-β and other biomarkers related to Alzheimer's disease are being&#xD;
+      investigated for clinical practice, but the technique is not accepted as a standard test.&#xD;
+      Research has shown that renal function influences amyloid-β clearance from the body. Also,&#xD;
+      analytical errors influence test results. Therefore, one can question the influence of normal&#xD;
+      repeatability of the blood test result.&#xD;
+&#xD;
+      The aim of this investigation is the evaluation, (further) development and comparison of&#xD;
+      non-invasive techniques for the evaluation of patients suffering mild cognitive impairment,&#xD;
+      in particular, the Mantis Photonics hyperspectral camera with classification machine learning&#xD;
+      model in combination with the CoGNIT test of Dr Behrens (Blekinge Tekniska Högskola). These&#xD;
+      techniques will be compared to the result of cerebrospinal fluid analysis (CSF), the&#xD;
+      reference biological diagnostic technique for Alzheimer's disease.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2022</start_date>
+  <completion_date type="Anticipated">December 29, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 29, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>The diagnosis of Amyloidosis (biomarker of Alzheimer's disease) is made based on the normal patient care consisting of the neurologist assessment and the Cerebro-Spinal Fluid analysis.&#xD;
+This diagnosis is used as golden standard for the model based on retinal images and cognitive test results.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy (Statistical metric) retinal image classification model</measure>
+    <time_frame>within 2 months after last patient procedure</time_frame>
+    <description>Performance metric of the retinal image classification model: model accuracy [percent]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the Curve (statistical metrics) retinal image classification model</measure>
+    <time_frame>within 2 months after last patient procedure</time_frame>
+    <description>Performance metric of the retinal image classification model: Area under the Curve (AuC) [0 &lt; AuC &lt; 1]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Sensitivity (Statistical metric) retinal image classification model</measure>
+    <time_frame>within 2 months after last patient procedure</time_frame>
+    <description>Performance metrics of the retinal image classification model: Sensitivity [percent]</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CoGNIT test diagnostic accuracy</measure>
+    <time_frame>within 2 months after last patient procedure</time_frame>
+    <description>Accuracy [percent] of diagnosis based on the CoGNIT test data</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Accuracy: Metrics combination model</measure>
+    <time_frame>within 3 months after last patient procedure</time_frame>
+    <description>A combination model of both non-invasive techniques will be evaluated based on the same metrics as the single-technique model (see primary objectives) and evaluated based on the comparison of said metrics: accuracy [percent] for the optimal choice of threshold.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve: Metrics combination model</measure>
+    <time_frame>within 3 months after last patient procedure</time_frame>
+    <description>A combination model of both non-invasive techniques will be evaluated based on the same metrics as the single-technique model (see primary objectives) and evaluated based on the comparison of said metrics: Area Under the Curve [0&lt;AUC&lt;1] for the optimal choice of threshold.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sensitivity: Metrics combination model</measure>
+    <time_frame>within 3 months after last patient procedure</time_frame>
+    <description>A combination model of both non-invasive techniques will be evaluated based on the same metrics as the single-technique model (see primary objectives) and evaluated based on the comparison of said metrics: sensitivity [percent] for the optimal choice of threshold.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non invasive test variability compared to reference</measure>
+    <time_frame>within 3 months after last patient procedure</time_frame>
+    <description>The variability [relative and normalized: percent] between the first and the second hyperspectral retinoscopy result will be compared to the variability between the blood analysis at the first and the second appointment [relative and normalized: percent]. The blood test variability will be used as a reference in this study.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Adverse effect</measure>
+    <time_frame>Immediately after the retinoscopy procedure</time_frame>
+    <description>Measurement:&#xD;
+Percentage [percent] of patients who report adverse effects such as transient 'imprint' of the flash or other adverse effects.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Serious adverse effect</measure>
+    <time_frame>Immediately after the retinoscopy procedure</time_frame>
+    <description>Occurence of serious adverse effects due to the procedure.&#xD;
+Any patient who suffers serious harm due to the procedure is a study outcome and a study endpoint.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Alzheimer Disease, Early Onset</condition>
+  <condition>Cognitive Impairment</condition>
+  <condition>Cognitive Decline</condition>
+  <arm_group>
+    <arm_group_label>Subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>On all subjects included in the study (see inclusion / exclusion criteria and informed consent) both procedures will be performed.&#xD;
+The result of these procedures (retinal scan, result from cognitive test and blood sample) will be used to build diagnostic classification models.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>non-invasive hyperspectral retinoscopy</intervention_name>
+    <description>The Principal Investigator or a trained medical nurse (under the supervision of the principal investigator) will take an image of the retina of the patient with the Mantis Photonics hyperspectral retinoscopy camera.</description>
+    <arm_group_label>Subjects</arm_group_label>
+    <other_name>eye-scan</other_name>
+    <other_name>fundus image (of the eye)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>blood sample</intervention_name>
+    <description>The Principle Investigator or a trained medical nurse (under the supervision of the Principal Investigator) will draw a small blood sample according to the standard medical procedures for drawing blood samples.</description>
+    <arm_group_label>Subjects</arm_group_label>
+    <other_name>draw blood</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Test of cognitive ability on tablet computer with CoGNIT software</intervention_name>
+    <description>The Principle Investigator or a trained medical nurse (under the supervision of the Principal Investigator) will give the patient to perform the digital cognitive test on a commercial tablet computer. The Principal Investigator or the medical nurse will be available for the patient to ask questions while the test is ongoing.</description>
+    <arm_group_label>Subjects</arm_group_label>
+    <other_name>CoGNIT test</other_name>
+    <other_name>Cognitive test</other_name>
+    <other_name>Mental ability test</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  subject age over 18 years old&#xD;
+&#xD;
+          -  The subject has undergone a lumbar puncture an cerebrospinal fluid analysis as part of&#xD;
+             the standard care.&#xD;
+&#xD;
+          -  The subject has at least one healthy eye.&#xD;
+&#xD;
+          -  The subject is applicable for taking a blood sample for the blood analysis test.&#xD;
+&#xD;
+          -  The informed consent is provided, explained and understood by the person. The person&#xD;
+             has consented to the informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  There are contra-indications for lumbar puncture (eg: brain tumor with suspicion of&#xD;
+             raised intracranial pressure, coagulopathies or ongoing anticoagulant medications)&#xD;
+             will be excluded from the study.&#xD;
+&#xD;
+          -  When the subject suffers from excessive visual or auditive impairment, the he/she will&#xD;
+             be excluded from the CoGNIT track.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anders Behrens, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Blekinge Tekniska Högskola</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anders Behrens, MD, PhD</last_name>
+    <phone>+460702034496</phone>
+    <email>anders.behrens@regionblekinge.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jan Alexander, Master</last_name>
+    <phone>0478779156</phone>
+    <email>jan.alexander@mantis-photonics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Blekinge Tekniska Högskola</name>
+      <address>
+        <city>Karlskrona</city>
+        <state>Blekine Län</state>
+        <zip>37141</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anders Behrens, MD, Phd</last_name>
+      <phone>+460702034496</phone>
+      <email>anders.behrens@regionblekinge.se</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Blekinge Hospital</name>
+      <address>
+        <city>Karlskrona</city>
+        <state>Blekinge Län</state>
+        <zip>37141</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anders Behrens, MD, PhD</last_name>
+      <phone>+460702034496</phone>
+      <email>anders.behrens@regionblekinge.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <link>
+    <url>https://www.alzint.org/resource/world-alzheimer-report-2022/</url>
+    <description>World Alzheimer Report 2022 - Alzheimer's disease international</description>
+  </link>
+  <reference>
+    <citation>Behrens A, Berglund JS, Anderberg P. CoGNIT Automated Tablet Computer Cognitive Testing in Patients With Mild Cognitive Impairment: Feasibility Study. JMIR Form Res. 2022 Mar 11;6(3):e23589. doi: 10.2196/23589.</citation>
+    <PMID>35275064</PMID>
+  </reference>
+  <reference>
+    <citation>Behrens A, Eklund A, Elgh E, Smith C, Williams MA, Malm J. A computerized neuropsychological test battery designed for idiopathic normal pressure hydrocephalus. Fluids Barriers CNS. 2014 Sep 25;11:22. doi: 10.1186/2045-8118-11-22. eCollection 2014.</citation>
+    <PMID>25279138</PMID>
+  </reference>
+  <reference>
+    <citation>Behrens A, Elgh E, Leijon G, Kristensen B, Eklund A, Malm J. The Computerized General Neuropsychological INPH Test revealed improvement in idiopathic normal pressure hydrocephalus after shunt surgery. J Neurosurg. 2019 Feb 8;132(3):733-740. doi: 10.3171/2018.10.JNS18701.</citation>
+    <PMID>30738407</PMID>
+  </reference>
+  <reference>
+    <citation>Budelier MM, Bateman RJ. Biomarkers of Alzheimer Disease. J Appl Lab Med. 2020 Jan 1;5(1):194-208. doi: 10.1373/jalm.2019.030080.</citation>
+    <PMID>31843944</PMID>
+  </reference>
+  <reference>
+    <citation>Hadoux X, Hui F, Lim JKH, Masters CL, Pébay A, Chevalier S, Ha J, Loi S, Fowler CJ, Rowe C, Villemagne VL, Taylor EN, Fluke C, Soucy JP, Lesage F, Sylvestre JP, Rosa-Neto P, Mathotaarachchi S, Gauthier S, Nasreddine ZS, Arbour JD, Rhéaume MA, Beaulieu S, Dirani M, Nguyen CTO, Bui BV, Williamson R, Crowston JG, van Wijngaarden P. Non-invasive in vivo hyperspectral imaging of the retina for potential biomarker use in Alzheimer's disease. Nat Commun. 2019 Sep 17;10(1):4227. doi: 10.1038/s41467-019-12242-1.</citation>
+    <PMID>31530809</PMID>
+  </reference>
+  <reference>
+    <citation>Rasmussen J, Langerman H. Alzheimer's Disease - Why We Need Early Diagnosis. Degener Neurol Neuromuscul Dis. 2019 Dec 24;9:123-130. doi: 10.2147/DNND.S228939. eCollection 2019.</citation>
+    <PMID>31920420</PMID>
+  </reference>
+  <reference>
+    <citation>Teunissen CE, Verberk IMW, Thijssen EH, Vermunt L, Hansson O, Zetterberg H, van der Flier WM, Mielke MM, Del Campo M. Blood-based biomarkers for Alzheimer's disease: towards clinical implementation. Lancet Neurol. 2022 Jan;21(1):66-77. doi: 10.1016/S1474-4422(21)00361-6. Epub 2021 Nov 24. Review.</citation>
+    <PMID>34838239</PMID>
+  </reference>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>October 20, 2022</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2022</study_first_posted>
+  <last_update_submitted>October 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Retinoscopy</keyword>
+  <keyword>Non-invasive</keyword>
+  <keyword>Accessible healthcare</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No Individual Participant Data (IPD) sharing to third parties. Data of individual participants will be used for this study only.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

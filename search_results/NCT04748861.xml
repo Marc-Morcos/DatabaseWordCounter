@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1844">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04748861</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Version 1 28OCT2020</org_study_id>
+    <secondary_id>1R01AG070736-01</secondary_id>
+    <nct_id>NCT04748861</nct_id>
+  </id_info>
+  <brief_title>CYCLE-AD (CYcling to Cease or Limit the Effects of Alzheimer's Disease)</brief_title>
+  <acronym>CYCLE AD</acronym>
+  <official_title>CYCLE-AD: Randomized Controlled Trial to Assess the Efficacy of Indoor Cycling in Slowing Disease Progression in Healthy Older Persons at Genetic Risk for Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The Cleveland Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Maryland, College Park</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The Cleveland Clinic</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall goal of the CYCLE-AD trial is to determine the role of long-term, high intensity&#xD;
+      exercise in slowing or delaying the onset of cognitive and AD-related brain changes in e4&#xD;
+      carriers. Successful translation and demonstration of the effectiveness of a scalable&#xD;
+      home-based exercise intervention capable of slowing or delaying disease onset will transform&#xD;
+      AD treatment, improve patient outcomes and quality of life, and reduce health care costs.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The apolipoprotein E epsilon 4 (APOE e4) allele is the most important genetic risk factor for&#xD;
+      late onset Alzheimer's disease (AD). A recent review by the World Health Organization&#xD;
+      highlighted the potential protective role of physical activity and exercise against cognitive&#xD;
+      decline, all-cause dementia, AD, and vascular dementia in healthy individuals. In an 18-month&#xD;
+      longitudinal observational study, investigators showed that sedentary e4 carriers experience&#xD;
+      significant declines in episodic memory and hippocampal volume compared to 4 carriers who&#xD;
+      engaged in moderate PA. Importantly, among 4 non-carriers, no significant longitudinal&#xD;
+      changes in cognition and brain imaging were observed whether the non-carriers were sedentary&#xD;
+      or engaged in moderate PA, suggesting that PA has a specific neuroprotective role in delaying&#xD;
+      the progression of AD in e4 carriers. Based on the results, a pragmatic, randomized&#xD;
+      controlled trial with blinded clinical and imaging outcomes is proposed to determine the&#xD;
+      impact of a home based, high intensity exercise intervention in healthy, cognitively intact&#xD;
+      e4 carriers between the ages of 65 and 80 years. The CYCLE-AD (CYcling to Cease or Limit the&#xD;
+      Effects of Alzheimer's Disease) trial will recruit otherwise healthy sedentary carriers&#xD;
+      randomized to one of two groups (n=75 each): 1) an Indoor Cycling (IC) group that&#xD;
+      participates in high-intensity interval training (HIIT; 60-90% of heart rate reserve) in&#xD;
+      their home via the commercially available Peloton® cycling system or 2) a Usual and Customary&#xD;
+      Care (UCC) group, in which participants engage in their habitual level of PA. Investigators&#xD;
+      hypothesize that an 18-month high-intensity aerobic exercise regimen will slow AD-related&#xD;
+      disease progression in sedentary elders at genetic risk for AD. Participants in the&#xD;
+      intervention group will engage in exercise 3x/week (minimum 90 minutes/week) for 18 months.&#xD;
+      Primary outcome measures, obtained at study entry and at 18 months, will include&#xD;
+      comprehensive cognitive testing and brain MR imaging to assess disease progression and a&#xD;
+      comprehensive PA/fitness assessment to measure the degree of change in physical fitness due&#xD;
+      to high intensity aerobic exercise.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 20, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2025</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2025</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A pragmatic, randomized controlled trial with blinded clinical and imaging outcomes</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rey Auditory Verbal Learning Test Total Recall Trials 1-5 (RAVLT1-5).</measure>
+    <time_frame>18 months</time_frame>
+    <description>Determine the effects of an IC intervention on cognitive functioning</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Total Hippocampal Volume (THV)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Determine the effects of an IC intervention on MR brain imaging</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>V̇O2max</measure>
+    <time_frame>18 months</time_frame>
+    <description>Determine the effects of an IC intervention on PA/fitness testing</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>High Intensity Exercise</condition>
+  <condition>Normal Cognition</condition>
+  <condition>Exercise Intervention</condition>
+  <arm_group>
+    <arm_group_label>Indoor Cycling (IC)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will engage in high-intensity interval training (HIIT; 60-90% of heart rate reserve) in their home via the commercially available Peloton® cycling system or 2) 3x/week (minimum 90 minutes/week) for 18 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual and Customary Care (UCC)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants engage in their habitual level of physical activity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Indoor Cycling (IC)</intervention_name>
+    <description>Participants will ride a Peloton bike 3x/week for 18 months.</description>
+    <arm_group_label>Indoor Cycling (IC)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Healthy elders, ages 65-80 years, inclusive&#xD;
+&#xD;
+          2. No cognitive impairment based on screening examination&#xD;
+&#xD;
+          3. APOE ε4 genotype&#xD;
+&#xD;
+          4. Inactive; defined as exercising less than 3x per week at moderate-vigorous intensity&#xD;
+&#xD;
+          5. Fluent in English (a requirement for neurocognitive testing)&#xD;
+&#xD;
+          6. Does not plan to travel for more than weeks over the course of the study&#xD;
+&#xD;
+          7. Demonstrate ability to safely mount and dismount Peloton stationary cycle&#xD;
+&#xD;
+          8. In-home Wi-Fi (Peloton system requires Wi-Fi to transmit exercise data; Wi-Fi access&#xD;
+             rates exceed 80% in Cuyahoga county, Ohio households)&#xD;
+&#xD;
+          9. Medical clearance by their health care provider to participate in exercise program&#xD;
+&#xD;
+         10. Participant must meet Peloton height and weight safety requirements&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any significant neurologic disease, including dementia, mild cognitive impairment,&#xD;
+             Parkinson's disease, Huntington's disease, normal pressure hydrocephalus, brain tumor,&#xD;
+             progressive supranuclear palsy, seizure disorder, subdural hematoma, stroke, multiple&#xD;
+             sclerosis, or history of significant head trauma with a reported loss of consciousness&#xD;
+             for greater than 30 minutes.&#xD;
+&#xD;
+          2. Significant medical illnesses/conditions (lung or kidney disease, cancer).&#xD;
+&#xD;
+          3. History of schizophrenia or bipolar disorder.&#xD;
+&#xD;
+          4. Major Depression within the past year.&#xD;
+&#xD;
+          5. History of alcohol or substance abuse or dependence within the past 2 years.&#xD;
+&#xD;
+          6. Current use of Alzheimer's disease medications, including cholinesterase inhibitors&#xD;
+             and memantine.&#xD;
+&#xD;
+          7. Any unstable or severe cardiovascular disease or asthmatic condition.&#xD;
+&#xD;
+          8. History of imaging confirmed transient ischemic attack or a score of &gt;4 on the&#xD;
+             modified Hachinski ischemic scale.&#xD;
+&#xD;
+          9. Significant abnormalities in laboratory blood tests (complete blood count (CBC) with&#xD;
+             differential, B12, complete metabolic panel (CMP), LIPID PANEL, Westergren&#xD;
+             Sedimentation Rate, C-Reactive Proteins).&#xD;
+&#xD;
+         10. Exclusion criteria specific to MR scanning (weight inappropriate for height, ferrous&#xD;
+             objects within the body, pregnancy, and a history of claustrophobia).&#xD;
+&#xD;
+         11. A musculoskeletal issue (arthritis, osteoporosis, back problem) that would limit one's&#xD;
+             ability to engage in exercise&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen Rao, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jay Alberts, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stephen Rao, PhD</last_name>
+    <phone>216-444-1025</phone>
+    <email>raos2@ccf.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen Rao, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>February 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 9, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 10, 2021</study_first_posted>
+  <last_update_submitted>October 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>APOE ε4 allele</keyword>
+  <keyword>indoor cycling</keyword>
+  <keyword>exercise intervention</keyword>
+  <keyword>healthy elders</keyword>
+  <keyword>genetic risk for Alzheimer's Disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

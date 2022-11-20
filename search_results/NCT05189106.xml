@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1428">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05189106</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NADALS</org_study_id>
+    <nct_id>NCT05189106</nct_id>
+  </id_info>
+  <brief_title>Neurodegenerative Alzheimer's Disease and Amyotrophic Lateral Sclerosis (NADALS) Basket Trial</brief_title>
+  <acronym>NADALS</acronym>
+  <official_title>Neurodegenerative Alzheimer's Disease and Amyotrophic Lateral Sclerosis (NADALS) Basket Proof of Concept Trial Including Asymptomatic Individuals Using Baricitinib</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, biomarker-driven basket trial of baricitinib in people with subjective&#xD;
+      cognitive disorder, mild cognitive impairment, Alzheimer's disease (AD), Amyotrophic lateral&#xD;
+      sclerosis (ALS), or asymptomatic carriers of an ALS-related gene, such as a hexanucleotide&#xD;
+      expansion in the C9ORF72 gene, with evidence of abnormal inflammatory signaling in&#xD;
+      cerebrospinal fluid (CSF) at baseline. Each participant will be treated with baricitinib for&#xD;
+      24 weeks; no placebo will be given. Participants will receive baricitinib 2 mg per day by&#xD;
+      mouth for the first 8 weeks and baricitinib 4 mg per day by mouth for the remaining 16 weeks.&#xD;
+      This proof of concept trial will ascertain whether baricitinib at 2 mg per day, 4 mg per day,&#xD;
+      or both reaches therapeutic levels in the CSF and suppresses inflammatory biomarkers&#xD;
+      associated with type I interferon signaling among the study participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Overview of Clinical Trial: Many age-associated neurodegenerative diseases, including&#xD;
+      Alzheimer's disease (AD) and amyotrophic lateral sclerosis (ALS), are associated with&#xD;
+      increased inflammatory signaling in the central nervous system. While there is growing&#xD;
+      evidence that activation of inflammatory signaling leads to neuronal death in cell-based&#xD;
+      models and leads to signs and symptoms of neurodegeneration in animal models, no disease&#xD;
+      modifying anti-inflammatory drugs for AD or ALS have been found to date. Recent observational&#xD;
+      studies of anti-inflammatory drugs used to treat rheumatoid arthritis suggest the potential&#xD;
+      of these drugs to prevent a diagnosis of AD.&#xD;
+&#xD;
+      This is an open-label, biomarker-driven basket trial of baricitinib in individuals with mild&#xD;
+      cognitive impairment (MCI), subjective cognitive decline (SCD), AD, ALS, or asymptomatic&#xD;
+      carriers of an ALS causative gene, such as a hexanucleotide expansion in the C9ORF72 gene.&#xD;
+      Baricitinib at 2 mg per day is approved by the FDA in the United States (US) for rheumatoid&#xD;
+      arthritis. Baricitinib at 4 mg per day is approved has emergency use authorization by the FDA&#xD;
+      for COVID-19 in the US. Each participant will be treated with open-label baricitinib for 24&#xD;
+      weeks. No patient will receive a placebo. Participants will receive baricitinib 2 mg per day&#xD;
+      by mouth for the first 8 weeks and baricitinib 4 mg per day by mouth for the remaining 16&#xD;
+      weeks. Participants will have a lumbar puncture (LP) at screening and cerebrospinal fluid&#xD;
+      (CSF) will be examined for study eligibility. Participants will be enrolled if their CSF&#xD;
+      level inflammatory biomarker meets threshold requirements and if they meet all other&#xD;
+      eligibility criteria. All enrolled participants must have received a first dose of&#xD;
+      recombinant zoster vaccine (RZV; also known as Shingrix) within 4 years prior to treatment&#xD;
+      initiation. Over the course of 32-week trial, there will be a total of 8 visits. Blood will&#xD;
+      be collected at 7 visits, urine and CSF will be collected at 4 visits. Clinical outcomes will&#xD;
+      be measured at 2 visits.&#xD;
+&#xD;
+      Rationale: Converging evidence reveals inflammatory signaling is robustly active within the&#xD;
+      central nervous system of subsets of patients with AD and ALS, both in autopsied brains and&#xD;
+      profiles of CSF of living patients. Moreover, investigators find biomarkers of inflammatory&#xD;
+      signaling in the CSF of a subset of patients with AD and ALS. Baricitinib, an FDA-approved&#xD;
+      drug for rheumatoid arthritis, rescued inflammatory biomarkers and neural cell death in a&#xD;
+      human neural cell culture model of inflammatory-mediated death in a dose-dependent manner.&#xD;
+      Independently, in computational biology studies of gene expression profiles of AD brains&#xD;
+      termed DRIAD (drug repurposing in AD), baricitinib was among the leading drugs that reversed&#xD;
+      the actions of AD. Investigators have characterized a signature of inflammatory signaling in&#xD;
+      the brains and CSF of AD and ALS patients that is specific for this inflammatory mechanism of&#xD;
+      neuronal death.&#xD;
+&#xD;
+      This work has laid the foundation for the design of a mechanistic, biomarker-driven trial. In&#xD;
+      this trial, investigators will evaluate the FDA-approved JAK inhibitor baricitinib using an&#xD;
+      escalating dose design. Baricitinib is an oral medication FDA-approved for rheumatoid&#xD;
+      arthritis at a 2-mg daily dosage and FDA emergency use authorized for COVID-19 at a 4 mg&#xD;
+      daily dosage. The trial will determine whether baricitinib at 2 mg per day 4 mg per day, or&#xD;
+      both enters the cerebrospinal fluid and attains therapeutic levels, as well as whether it&#xD;
+      reduces inflammatory biomarkers in the CSF of patients at risk for or with AD and at risk for&#xD;
+      or with ALS. If this Phase I/II trial demonstrates that baricitinib is safe in AD and ALS&#xD;
+      patients and achieves therapeutic levels in the CSF as determined by drug concentration and&#xD;
+      pharmacodynamic biomarkers, then a Phase III clinical trial powered to assess clinical&#xD;
+      outcomes in AD patients, ALS patients, or both would be warranted.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 7, 2022</start_date>
+  <completion_date type="Anticipated">October 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2024</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CSF Concentration of baricitinib</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>Total levels of baricitinib in the CSF of participants 2 hours after 2 mg and 4 mg oral dosing of baricitinib.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CSF CCL2 Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The inflammatory biomarker CCL2 quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CSF protein-kinase R (PKR) Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The inflammatory biomarker PKR protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF phospho-PKR (pPKR) Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The inflammatory biomarker phospho-PKR protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF pPKR/PKR ratio Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The ratio of the inflammatory biomarkers pPKR/PKR quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF C-X-C motif chemokine ligand 10 (CXCL10) Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The inflammatory biomarker CXCL10 protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF interferon gamma (IFNG) Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The inflammatory biomarker IFNG protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF interleukin-6 (IL-6) Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The inflammatory biomarker IL-6 protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TAR DNA-binding protein 43 (TDP-43) Plasma Levels</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The TDP-43 protein quantified in the plasma of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF neurofilament light chain (NfL) Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The neuronal death biomarker NfL protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF tau Concentration</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The neuronal death biomarker Tau protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CSF phospho-tau (pTau)</measure>
+    <time_frame>Measured at baseline, 8 weeks and 16 weeks, results reported at the completion of the study</time_frame>
+    <description>The neuronal death biomarker pTau protein quantified in the CSF of participants after 2 mg of 4 mg oral dose relative to baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Adverse Effects</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Investigators will quantify the occurrence of treatment-emergent adverse events, treatment-emergent serious adverse events, and treatment-emergent clinically significant abnormalities in clinical and laboratory values both overall and among AD and ALS participants separately. AEs will be coded to system organ class and preferred terms from a consistent version of the MedDRA library and summarized as counts of events and proportions of participants experiencing a given type of event. The distribution of severity, relationship to the study intervention, action taken with respect to study intervention, and outcome of all treatment emergent adverse effects will be tabulated. The rate of adverse effects in trial participants will be compared to the frequency of adverse effects documented in the package insert.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Amyotrophic Lateral Sclerosis</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Baricitinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Baricitinib 2mg administered by mouth once daily for the first 8 weeks, followed by baricitinib 4mg administered by mouth once daily for 16 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Baricitinib</intervention_name>
+    <description>Each participant will be treated with open-label baricitinib for 24 weeks. Participants will receive 2 mg baricitinib by mouth daily for the first 8 weeks and 4 mg baricitinib by mouth daily for the remaining 16 weeks.</description>
+    <arm_group_label>Baricitinib</arm_group_label>
+    <other_name>Olumiant</other_name>
+    <other_name>INCB28050</other_name>
+    <other_name>LY3009104</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Study participants meeting all of the following criteria will be allowed to enroll in the&#xD;
+        study:&#xD;
+&#xD;
+          1. Must be 55-90 years old, inclusive and have one of the following:&#xD;
+&#xD;
+               -  Subjective cognitive decline(SCD)&#xD;
+&#xD;
+               -  Minor neurocognitive disorder(mild cognitive impairment(MCI))&#xD;
+&#xD;
+               -  Major neurocognitive disorder(possible or probable AD) OR&#xD;
+&#xD;
+             Must be 18-80 years old, inclusive and have one of the following:&#xD;
+&#xD;
+               -  Sporadic or familial ALS diagnosed as possible, laboratory-supported probable,&#xD;
+                  probable, or definite as defined by the revised El Escorial criteria&#xD;
+&#xD;
+               -  Asymptomatic carrier of an ALS-causative mutation per CLIA-certified genetic&#xD;
+                  testing results (MGH site only)&#xD;
+&#xD;
+          2. Screening CSF level of CCL2 level ≥ 250 pg/mL&#xD;
+&#xD;
+          3. Up-to-date immunization records per CDC guidelines&#xD;
+&#xD;
+               -  Routine vaccinations should be administered at a minimum of 14 days prior to any&#xD;
+                  study visit with an LP&#xD;
+&#xD;
+          4. Must have received the Recombinant Zoster Vaccine (RZV, also known as Shingrix) within&#xD;
+             4 years prior to enrollment. Note: Only one dose of RZV is needed prior to the&#xD;
+             Baseline Visit.&#xD;
+&#xD;
+          5. Must be fully vaccinated for COVID-19 per CDC guidelines&#xD;
+&#xD;
+               -  If a participant is planning to receive a COVID-19 booster shot, should be&#xD;
+                  administered a minimum of 14 days prior to the Screening LP.&#xD;
+&#xD;
+          6. For participants with ALS:&#xD;
+&#xD;
+               -  Must either not be taking or be on a stable dose of any FDA approved treatment&#xD;
+                  for ALS for at least 30 days or at least 1 cycle prior to screening&#xD;
+&#xD;
+               -  ALSFRS-R score ≥ 27&#xD;
+&#xD;
+               -  Must be ambulatory, defined as able to walk at least within the home every day.&#xD;
+                  Use of gait assistive devices is allowed. Some use of a wheelchair is also&#xD;
+                  allowed.&#xD;
+&#xD;
+               -  Greater than 12-month life expectancy in the opinion of the investigator&#xD;
+&#xD;
+             For participants with AD:&#xD;
+&#xD;
+               -  MoCA score ≥ 8&#xD;
+&#xD;
+               -  The participant must have a study partner that can accompany them to every visit&#xD;
+                  and co-sign any informed consent document.&#xD;
+&#xD;
+               -  Must either not be taking or be on a stable dose of any FDA approved treatment&#xD;
+                  for AD for at least 30 days prior to screening. Participants cannot be taking&#xD;
+                  Aducanumab(see exclusion criterion #15).&#xD;
+&#xD;
+          7. Ability to medically undergo LP in the opinion of the investigator (e.g., no bleeding&#xD;
+             disorder, allergy to local anesthetics, prior lumbar surgery which might make LP&#xD;
+             difficult, a skin infection at or near the LP site, evidence of high intracranial&#xD;
+             pressure, or anticipated difficulty getting into position for LP).&#xD;
+&#xD;
+          8. Capable of providing informed consent and following study procedures.&#xD;
+&#xD;
+               -  In the case that a participant lacks the ability to provide informed consent,&#xD;
+                  informed consent will be obtained from the participant's surrogate representative&#xD;
+                  and assent obtained from the participant.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Study participants meeting any of the following criteria during screening evaluations will&#xD;
+        be excluded from entry into the study:&#xD;
+&#xD;
+          1. Women who are pregnant, breastfeeding, or planning to become pregnant during the trial&#xD;
+&#xD;
+          2. Any unstable clinically significant medical condition other than ALS or AD (e.g.,&#xD;
+             within six months of baseline, including but not limited to myocardial infarction,&#xD;
+             angina pectoris, congestive heart failure, or neoplasm undergoing active treatment).&#xD;
+&#xD;
+          3. Active cancer or history of cancer, except for the following: basal cell carcinoma,&#xD;
+             cervical carcinoma in situ, prostatic carcinoma in situ, or other malignancies&#xD;
+             curatively treated and with no evidence of disease recurrence for at least 5 years.&#xD;
+             Active cancer includes cancers with current disease manifestations or therapy that&#xD;
+             could adversely affect participant safety and longevity, create the potential for&#xD;
+             drug-drug interactions, or compromise the interpretation of study results.&#xD;
+&#xD;
+          4. History of diverticulitis or bowel perforation.&#xD;
+&#xD;
+          5. Active ulcerative colitis, Crohn's disease, and history of peptic ulcer disease within&#xD;
+             the past 5 years or after the age of 65.&#xD;
+&#xD;
+          6. Active, serious infection, including localized infection in the opinion of the&#xD;
+             investigator.&#xD;
+&#xD;
+          7. Positive for latent or active tuberculosis (TB). Note: Patients with a history of&#xD;
+             latent or active TB must have had an adequate course of treatment documented prior to&#xD;
+             study participation.&#xD;
+&#xD;
+          8. Evidence of active hepatitis B or C infection.&#xD;
+&#xD;
+          9. History of severe hepatic or renal impairment.&#xD;
+&#xD;
+         10. eGFR &lt; 60 mL/min/1.73 m2&#xD;
+&#xD;
+         11. Have any of the following specific abnormalities on screening laboratory tests:&#xD;
+&#xD;
+               -  ALT or AST &gt;2.5x upper limits of normal (ULN)&#xD;
+&#xD;
+               -  Alkaline phosphatase (ALP) ≥2x ULN&#xD;
+&#xD;
+               -  Total bilirubin ≥1.5x ULN, Note: patients with elevated bilirubin secondary to&#xD;
+                  Gilbert's disease are eligible to participate in the study.&#xD;
+&#xD;
+               -  Hemoglobin &lt;10 g/dL (100.0 g/L)&#xD;
+&#xD;
+               -  Total white blood cell count &lt;3000 cells/μL (&lt;3.00 x 103/μL or &lt;3.00 billion/L)&#xD;
+&#xD;
+               -  Neutropenia (absolute neutrophil count [ANC] &lt;1500 cells/μL) (&lt;1.50 x 103/μL or&#xD;
+                  &lt;1.50 billion/L)&#xD;
+&#xD;
+               -  Lymphopenia (lymphocyte count &lt;1000 cells/μL) (&lt;1.00 x 103/μL or &lt;1.00 billion/L)&#xD;
+&#xD;
+               -  Thrombocytopenia (platelets &lt;100,000 cells/μL) (&lt;100 x 103/μL or &lt;100 billion/L)&#xD;
+&#xD;
+               -  Laboratory abnormalities in vitamin B12, thyroid stimulating hormone (TSH), or&#xD;
+                  other common laboratory parameters that might contribute to cognitive dysfunction&#xD;
+&#xD;
+         12. Personal history of pulmonary embolus (provoked or unprovoked) or deep vein&#xD;
+             thrombosis, or a history of unprovoked pulmonary embolus in a first-degree family&#xD;
+             member.&#xD;
+&#xD;
+         13. Treatment with anticoagulants that, in the opinion of the investigator, would&#xD;
+             compromise the safety of the participant.&#xD;
+&#xD;
+         14. Previous therapy with baricitinib.&#xD;
+&#xD;
+         15. Current use of strong Organic Anion Transporter 3(OAT3) inhibitors (e.g., probenecid)&#xD;
+             or other prohibited medication (refer to Section 6.7.1) within 5.5 half-lives or 30&#xD;
+             days of screening, whichever is longer.&#xD;
+&#xD;
+               -  For participants with AD: Current use of Aducanumab or within 30 days of&#xD;
+                  screening.&#xD;
+&#xD;
+         16. Receiving other experimental interventions for AD or ALS within 5.5 half-lives or 30&#xD;
+             days of screening, whichever is longer.&#xD;
+&#xD;
+         17. Use of permanent assisted ventilation (invasive ventilation via tracheostomy, or &gt;22&#xD;
+             hours of non-invasive ventilation per day, e.g., via BiPAP).&#xD;
+&#xD;
+         18. Have had any major surgery within 8 weeks prior to screening or will require major&#xD;
+             surgery during the study that, in the opinion of the investigator, would pose an&#xD;
+             unacceptable risk to the patient. Note: Placement of a gastrostomy tube and an&#xD;
+             intravenous port are not considered major surgery.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark W Albers, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lia M Tamburello</last_name>
+    <phone>617-724-2609</phone>
+    <email>lmtamburello@mgh.harvard.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Taylor Stimpson</last_name>
+    <email>tkstimpson@mgh.harvard.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital - ALS Site</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kylie Graves</last_name>
+      <phone>617-643-7912</phone>
+      <email>klgraves@mgh.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Darshana Hari</last_name>
+      <email>dhari@mgh.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Doreen T Ho, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital - AD Site</name>
+      <address>
+        <city>Charlestown</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ashley Kupferschmid</last_name>
+      <phone>617-726-4026</phone>
+      <email>AKUPFERSCHMID@mgh.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Trevor Ragas</last_name>
+      <phone>(617) 643-7581</phone>
+      <email>TRAGAS@mgh.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Steven E Arnold, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Rodriguez S, Sahin A, Schrank BR, Al-Lawati H, Costantino I, Benz E, Fard D, Albers AD, Cao L, Gomez AC, Evans K, Ratti E, Cudkowicz M, Frosch MP, Talkowski M, Sorger PK, Hyman BT, Albers MW. Genome-encoded cytoplasmic double-stranded RNAs, found in C9ORF72 ALS-FTD brain, propagate neuronal loss. Sci Transl Med. 2021 Jul 7;13(601). pii: eaaz4699. doi: 10.1126/scitranslmed.aaz4699.</citation>
+    <PMID>34233951</PMID>
+  </reference>
+  <reference>
+    <citation>Rodriguez S, Hug C, Todorov P, Moret N, Boswell SA, Evans K, Zhou G, Johnson NT, Hyman BT, Sorger PK, Albers MW, Sokolov A. Machine learning identifies candidates for drug repurposing in Alzheimer's disease. Nat Commun. 2021 Feb 15;12(1):1033. doi: 10.1038/s41467-021-21330-0.</citation>
+    <PMID>33589615</PMID>
+  </reference>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>November 30, 2021</study_first_submitted>
+  <study_first_submitted_qc>December 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 12, 2022</study_first_posted>
+  <last_update_submitted>October 13, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 13, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Mark W Albers</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Amyotrophic Lateral Sclerosis</keyword>
+  <keyword>Alzheimer Disease</keyword>
+  <keyword>Mild Cognitive Impairment</keyword>
+  <keyword>Baricitinib</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>C9ORF72</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Motor Neuron Disease</mesh_term>
+    <mesh_term>Amyotrophic Lateral Sclerosis</mesh_term>
+    <mesh_term>Sclerosis</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All IPD that underlie results in a publication.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>De-identified data set will be made available to researchers after completion and full publication of the trial.</ipd_time_frame>
+    <ipd_access_criteria>All requests for sharing will be reviewed by the NADALS Steering Committee.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

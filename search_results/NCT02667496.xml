@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1245">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02667496</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACT14019</org_study_id>
+    <secondary_id>U1111-1163-0793</secondary_id>
+    <secondary_id>1UF1AG046143</secondary_id>
+    <nct_id>NCT02667496</nct_id>
+  </id_info>
+  <brief_title>Safety Study of Sargramostim in Treating Patients With Mild Cognitive Impairment Due to Alzheimer's Disease</brief_title>
+  <official_title>A Study Examining the Safety and Activity of Innate Immune System Stimulation With Leukine® (Sargramostim) to Reduce Brain Amyloid Load in Patients With Mild Cognitive Impairment Due to Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Objective:&#xD;
+&#xD;
+      To compare the effect of repeat doses of Leukine to placebo administered subcutaneously (SC)&#xD;
+      on established cortical amyloid load in patients with mild cognitive impairment (MCI) due to&#xD;
+      Alzheimer's disease (AD).&#xD;
+&#xD;
+      Secondary Objective:&#xD;
+&#xD;
+        -  To evaluate safety and tolerability of Leukine versus placebo.&#xD;
+&#xD;
+        -  To explore the effect of Leukine versus placebo on cognitive performance.&#xD;
+&#xD;
+        -  To collect biospecimens for future biomarker research.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The total duration of study period per patient is up to 28 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    Slow recruitment&#xD;
+  </why_stopped>
+  <start_date>November 2016</start_date>
+  <completion_date type="Actual">March 31, 2017</completion_date>
+  <primary_completion_date type="Actual">March 31, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from baseline in standardized uptake value ratio as measured by PET using florbetapir F18 (Amyvid)</measure>
+    <time_frame>From baseline to Week 24</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients experiencing treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in CSF analysis</measure>
+    <time_frame>Prior to first injection on Day 1 to serve as a baseline for any necessary follow-up, and optional assessment at Day 155</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRI to assess for emergence of amyloid related imaging abnormalities (ARIA)</measure>
+    <time_frame>At Screening and Days 43, 85, and 155</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of antidrug antibody levels</measure>
+    <time_frame>At Days 1, 29, 57, 85, and 155</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Dementia Alzheimer's Type</condition>
+  <arm_group>
+    <arm_group_label>Leukine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administered SC in treatment cycles up to 24 weeks&#xD;
+Florbetapir administered for PET scans to examine baseline brain imaging pathology and changes on treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Administered SC in treatment cycles up to 24 weeks&#xD;
+Florbetapir administered for PET scans to examine baseline brain imaging pathology and changes on treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sargramostim GZ402664</intervention_name>
+    <description>Pharmaceutical form:solution Route of administration: subcutaneous</description>
+    <arm_group_label>Leukine</arm_group_label>
+    <other_name>Leukine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Pharmaceutical form:solution Route of administration: subcutaneous</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Florbetapir F18</intervention_name>
+    <description>Pharmaceutical form:solution Route of administration: intravenous</description>
+    <arm_group_label>Leukine</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Men and women ≥40 years and ≤80 years with a diagnosis of MCI due to AD according to&#xD;
+             the National Institutes of Aging Alzheimer's Association (NIA-AA) criteria&#xD;
+             (intermediate or high likelihood) with sporadic or familial inheritance pattern. Mild&#xD;
+             cognitive impairment AD is defined as:&#xD;
+&#xD;
+          -  Evidence of concern about change in cognition, in comparison with person's previous&#xD;
+             level (subjective memory complaint/decline during the past year for more than 6 months&#xD;
+             and/or confirmed by informant and/or clinician), and&#xD;
+&#xD;
+          -  Objective impairment of memory function documented by an error score on the delayed&#xD;
+             recall section of the Alzheimer's Disease Assessment Scale-cognitive subscale&#xD;
+             (ADAS-cog) ≥1.5 standard deviations (SD) from the age-stratified mean; ie,&#xD;
+&#xD;
+          -  Age 55-69 years: ≥6 errors&#xD;
+&#xD;
+          -  Age 70-74 years: ≥7 errors&#xD;
+&#xD;
+          -  Age 75+ years: ≥8 errors&#xD;
+&#xD;
+          -  But no definite impairment(s) in activities of daily living (ADLs), in the&#xD;
+             Investigator's view as assessed by the Alzheimer's Disease Cooperative Study (ADCS)&#xD;
+             ADL adapted to MCI, and&#xD;
+&#xD;
+          -  Evidence of elevated cortical amyloid by positron emission tomography (PET) using&#xD;
+             florbetapir F18 (Amyvid) (a positive scan) by qualitative assessment according to the&#xD;
+             product label.&#xD;
+&#xD;
+          -  Have a dedicated partner/caregiver informant who can assist the patient with the study&#xD;
+             procedures and administration of study medication, and is in the company of the&#xD;
+             patient at least 12 hours a week.&#xD;
+&#xD;
+          -  Willing and able to provide signed informed consent.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Any technical/administrative reason that makes it impossible to randomize the patient&#xD;
+             in the study.&#xD;
+&#xD;
+          -  Prior treatment with an investigational anti-amyloid therapy.&#xD;
+&#xD;
+          -  Contraindication for lumbar puncture, or contraindication or inability to complete&#xD;
+             magnetic resonance imaging (MRI) or having past or planned exposure to ionizing&#xD;
+             radiation that would, together with the radiation resulting from the administrations&#xD;
+             of the PET tracer used in this study, exceed applicable institutional, local, or&#xD;
+             national recommendations for annual or lifetime exposure.&#xD;
+&#xD;
+          -  Modified Hachinski Ischemic Score &gt;4.&#xD;
+&#xD;
+          -  Other neurological or psychiatric condition (other than AD) which can impair&#xD;
+             cognition; or, computerized tomography (CT)/MRI evidence of potentially significant&#xD;
+             intracranial abnormalities not related to AD (eg, evidence of major stroke or lacune&#xD;
+             in an area critical to cognition, infections, cancer, hydrocephalus, multiple&#xD;
+             sclerosis etc.); or abnormal cerebrospinal fluid (CSF) not consistent with AD.&#xD;
+&#xD;
+          -  MRI evidence of &gt;4 microhemorrhages: patients who may be prone to spontaneous&#xD;
+             amyloid-related imaging abnormalities (ARIA-H) and/or may be more susceptible to&#xD;
+             adverse effects of the ARIA-H.&#xD;
+&#xD;
+          -  Untreated or unstable medical condition that could interfere with the study&#xD;
+             assessments in the opinion of the Investigator or may require immune-stimulating,&#xD;
+             immune-suppressive, or immune-modulating treatment(s) during the conduct of the study;&#xD;
+             eg, immunoglobulin, therapeutic vaccines, cytokines, anti-cytokine monoclonal&#xD;
+             antibodies. History of asplenia, hyposplenia, or splenectomy (whatever the surgical&#xD;
+             reasons).&#xD;
+&#xD;
+          -  Current mood or anxiety disorder, and/or a psychotic disorder, and/or a&#xD;
+             substance-related disorder according to Diagnostic and Statistical Manual of&#xD;
+             Psychiatric Disorders, Edition IV, text revision (DSM-IV-TR) or DSM-V; or considered&#xD;
+             suicidal or shows suicidal ideation as assessed by the Investigator.&#xD;
+&#xD;
+          -  Laboratory abnormalities indicative of an untreated medical or hematologic condition&#xD;
+             that could increase risk or interfere with study assessments including untreated hypo-&#xD;
+             or hyperthyroidism, vitamin B12 deficiency, hyperleukocytic syndrome (including but&#xD;
+             not restricted to chronic myelogenous leukemia, Hodgkin and non-Hodgkin lymphoma),&#xD;
+             monoclonal gammopathy, and thrombocythemia.&#xD;
+&#xD;
+          -  Known renal dysfunction or serum creatinine &gt;150 µmol/L.&#xD;
+&#xD;
+          -  Known hepatic dysfunction (apart from Gilbert's syndrome) or serum alanine&#xD;
+             aminotransferase (ALT) ≥3 times the upper limit of normal (ULN).&#xD;
+&#xD;
+          -  Pregnant or breastfeeding woman.&#xD;
+&#xD;
+          -  Presence or history of drug hypersensitivity; or known hypersensitivity to&#xD;
+             sargramostim, yeast-derived products, any other component of the product, or benzyl&#xD;
+             alcohol (present in bacteriostatic water or saline for infusion).&#xD;
+&#xD;
+          -  Evidence of fluid retention (clinical or radiological), respiratory symptoms (eg,&#xD;
+             dyspnea), cardiovascular symptoms or electrocardiographic evidence of cardiac disease&#xD;
+             which warrant therapeutic intervention (eg, supraventricular arrhythmia).&#xD;
+&#xD;
+          -  History of deep vein thrombosis (DVT) or pulmonary embolism or familial predisposition&#xD;
+             for DVT or pulmonary embolism.&#xD;
+&#xD;
+          -  Women and female partners of childbearing potential and not protected by highly&#xD;
+             effective contraceptive methods of birth control (ie, oral or depot contraceptives or&#xD;
+             intrauterine device [IUD] or subject was surgically sterilized) and/or unwilling or&#xD;
+             unable to be tested for pregnancy; or are pregnant or lactating.&#xD;
+&#xD;
+          -  Recipient of an investigational drug within prior 60 days, or within 5 times the&#xD;
+             elimination half-life of that drug, whichever is the longest.&#xD;
+&#xD;
+          -  History of latex allergy or yeast allergy.&#xD;
+&#xD;
+          -  Any patient who:&#xD;
+&#xD;
+          -  Is likely to be noncompliant, leave the area, or separate from the designated&#xD;
+             caregiver/informant for more than 3 days during the study,&#xD;
+&#xD;
+          -  Unable to cooperate because of a language problem or poor mental development,&#xD;
+&#xD;
+          -  Oversees or implements any aspect of the study, or&#xD;
+&#xD;
+          -  Is employed by Sanofi or its affiliates or subsidiaries (eg, Genzyme, Sanofi-Pasteur,&#xD;
+             Merial).&#xD;
+&#xD;
+        The above information is not intended to contain all considerations relevant to a patient's&#xD;
+        potential participation in a clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigational Site Number 840001</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2017</verification_date>
+  <study_first_submitted>January 26, 2016</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 29, 2016</study_first_posted>
+  <last_update_submitted>April 5, 2017</last_update_submitted>
+  <last_update_submitted_qc>April 5, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 7, 2017</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sargramostim</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

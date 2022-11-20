@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="551">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05477862</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00215983</org_study_id>
+    <nct_id>NCT05477862</nct_id>
+  </id_info>
+  <brief_title>Neural Mechanisms of Clinically Designed Improvisatory Music for Alzheimer's Disease</brief_title>
+  <official_title>Neural Mechanisms of Induced Calmness After Listening to Improvisatory Music: An Investigation for Healthy Individuals and Persons With Alzheimer's Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Clinically Designed Improvisatory Music (CDIM) is a form of improvised music based on&#xD;
+      calm-inducing sound parameters which brought relief to our cohort of neurology patients. As a&#xD;
+      direct sound-based approach, CDIM does not rely on autobiographical memory and may have wider&#xD;
+      applicability and generalizability. We wish to examine if CDIM decreases anxiety in 15&#xD;
+      cognitively healthy individuals and 15 Alzheimer Disease patients with anxiety (AD-A).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this study is to identify the neural mechanisms of induced calmness through live&#xD;
+      clinically designed improvisatory music (CDIM) in cognitively healthy individuals and persons&#xD;
+      with Alzheimer's dementia suffering from agitation. This study is novel as most music&#xD;
+      interventions for dementia use familiar music and the underlying neural mechanism of calmness&#xD;
+      induced by music is not well known. We plan to investigate changes in 3 major large-scale&#xD;
+      brain networks using functional magnetic resonance imaging (fMRI). The major questions we&#xD;
+      plan to answer are as follows: 1. How does improvisatory music change the connectivity within&#xD;
+      brain emotion related networks in neurotypical individuals? 2. Does improvisatory music&#xD;
+      induce a state of calmness in individuals with Alzheimer's dementia and how? Based on&#xD;
+      objective evidence provided by this study we can justify further usage of music for patients&#xD;
+      with Alzheimer's, in particular, in the form of improvisation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 15, 2022</start_date>
+  <completion_date type="Anticipated">January 15, 2026</completion_date>
+  <primary_completion_date type="Anticipated">October 15, 2025</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>15 individuals with Alzheimer Disease (AD) and 15 cognitively healthy individuals.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Neuropsychiatric Inventory (NPI) [NPI-1: pre-intervention; NPI-2: post-intervention]</measure>
+    <time_frame>Through study completion (3 years)</time_frame>
+    <description>Change in NPI (NPI-2 minus NPI-1)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Beck Anxiety Inventory [BAI-1: pre-intervention; BAI-2: post-intervention]</measure>
+    <time_frame>Through study completion (3 years)</time_frame>
+    <description>Change in BAI (BAI-2 minus BAI-1)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Systolic Blood Pressure [SBP-1: pre-intervention; SBP-2: post-intervention]</measure>
+    <time_frame>Through study completion (3 years)</time_frame>
+    <description>Change in SBP (SBP-2 minus SBP-1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Heart rate [HR-1: pre-intervention; HR-2: post-intervention]</measure>
+    <time_frame>Through study completion (3 years)</time_frame>
+    <description>Change in HR (HR-2 minus HR-1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change Respiratory Rate [RR-1: pre-intervention; RR-2: post-intervention]</measure>
+    <time_frame>Through study completion (3 years)</time_frame>
+    <description>Change in RR (RR-2 minus RR-1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Skin conductance [SC-1: pre-intervention; SC-2: post-intervention]</measure>
+    <time_frame>Through study completion (3 years)</time_frame>
+    <description>Change in SC (SC-2 minus SC-1)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Resting state functional connectivity MRI</measure>
+    <time_frame>Through study completion (3 years)</time_frame>
+    <description>Functional Connectivity within three resting state networks: Change in Default Network (DN), Change in Salience Network (SN), and Change in Reward Network (RN).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Alzheimer Disease (AD)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cognitively Healthy (CH)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Clinically Designed Improvisatory Music</intervention_name>
+    <description>Clinically Designed Improvisatory Music (CDIM) is a form of improvised music based on calm-inducing sound parameters which brought relief to our cohort of neurology patients.</description>
+    <arm_group_label>Alzheimer Disease (AD)</arm_group_label>
+    <arm_group_label>Cognitively Healthy (CH)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Cognitively healthy individuals&#xD;
+&#xD;
+             Cognitively healthy control participants evaluated through the Northwestern Mesulam&#xD;
+             Center. BAI &gt; 8.&#xD;
+&#xD;
+             Exclusion Criteria: hearing loss&#xD;
+&#xD;
+          2. Individuals with mild to moderate Alzheimer's disease&#xD;
+&#xD;
+        This group will similarly be recruited through the Mesulam Center. All individuals&#xD;
+        recruited by the research Core at the center are well characterized tests standardized&#xD;
+        across all NIH funded Alzheimer Centers across the nation. Individuals with mild to&#xD;
+        moderate neurocognitive disorder due to AD will have an MMSE greater than &gt;15 and Clinical&#xD;
+        Dementia Rating (CDR) between 0.5 and 2.. They will also have a history of&#xD;
+        neurocognitive-related agitation/anxiety, and a Beck Anxiety Index (BAI) greater than 8,&#xD;
+        suggestive of at least a mild level of anxiety.&#xD;
+&#xD;
+        Exclusion criteria: MMSE&lt;15, CDR&gt;2, hearing loss&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Borna Bonakdarpour, MD, FAAN</last_name>
+    <phone>3125035170</phone>
+    <email>bbk@northwestern.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Clara Takarabe, BA, CMP</last_name>
+    <phone>3128521282</phone>
+    <email>clara.takarabe@northwestern.edu</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Bonakdarpour B, McFadden A, Zlotkowski S, Huang D, Shaker M, Shibata B, Haben W, Brashear C, Sandoval A, Breitenbach C, Rodriguez C, Viamille J, Porter M, Galic K, Schaeve M, Thatcher D, Takarabe C. Neurology Telemusic Program at the Time of the COVID-19 Pandemic: Turning Hospital Time Into Aesthetic Time During Crisis. Front Neurol. 2021 Dec 13;12:749782. doi: 10.3389/fneur.2021.749782. eCollection 2021.</citation>
+    <PMID>34966344</PMID>
+  </reference>
+  <reference>
+    <citation>Lyketsos CG, Carrillo MC, Ryan JM, Khachaturian AS, Trzepacz P, Amatniek J, Cedarbaum J, Brashear R, Miller DS. Neuropsychiatric symptoms in Alzheimer's disease. Alzheimers Dement. 2011 Sep;7(5):532-9. doi: 10.1016/j.jalz.2011.05.2410.</citation>
+    <PMID>21889116</PMID>
+  </reference>
+  <reference>
+    <citation>Baird A, Samson S. Music and dementia. Prog Brain Res. 2015;217:207-35. doi: 10.1016/bs.pbr.2014.11.028. Epub 2015 Jan 31. Review.</citation>
+    <PMID>25725917</PMID>
+  </reference>
+  <reference>
+    <citation>Assal F, Cummings JL. Neuropsychiatric symptoms in the dementias. Curr Opin Neurol. 2002 Aug;15(4):445-50. Review.</citation>
+    <PMID>12151841</PMID>
+  </reference>
+  <reference>
+    <citation>Seeley WW, Menon V, Schatzberg AF, Keller J, Glover GH, Kenna H, Reiss AL, Greicius MD. Dissociable intrinsic connectivity networks for salience processing and executive control. J Neurosci. 2007 Feb 28;27(9):2349-56.</citation>
+    <PMID>17329432</PMID>
+  </reference>
+  <verification_date>July 2022</verification_date>
+  <study_first_submitted>July 17, 2022</study_first_submitted>
+  <study_first_submitted_qc>July 26, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 28, 2022</study_first_posted>
+  <last_update_submitted>July 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>July 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Borna Bonakdarpour</investigator_full_name>
+    <investigator_title>Associate Professor of Neurology</investigator_title>
+  </responsible_party>
+  <keyword>Anxiety</keyword>
+  <keyword>Alzheimer</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Agitation</keyword>
+  <keyword>Irritability</keyword>
+  <keyword>Music Intervention</keyword>
+  <keyword>Music Medicine</keyword>
+  <keyword>Music Improvisation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1011">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02002819</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NEUR-2017-25879</org_study_id>
+    <secondary_id>PCTRB-13-288476</secondary_id>
+    <nct_id>NCT02002819</nct_id>
+  </id_info>
+  <brief_title>Levetiracetam for Alzheimer's Disease-Associated Network Hyperexcitability</brief_title>
+  <acronym>LEV-AD</acronym>
+  <official_title>Phase 2a Levetiracetam Trial for AD-Associated Network Hyperexcitability</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients with Alzheimer's disease (AD) can have seizures in addition to losing their memory&#xD;
+      and other mental functions (referred to as cognitive functions). The seizures, and other&#xD;
+      examples of overactive electrical activity in the brain that is not noticeable, contribute to&#xD;
+      the loss of cognitive function. Studies in animal models of AD suggest that a drug that&#xD;
+      prevents seizures called levetiracetam may reduce neuronal over-excitation and improve&#xD;
+      cognition. Based on this evidence, the investigators propose to determine if levetiracetam&#xD;
+      can be used to treat patients with AD. The investigators developed novel instruments for this&#xD;
+      population that will also be used in future large-scale clinical trials.&#xD;
+&#xD;
+      The current study will last for 12 weeks and will involve people with AD. Participants will&#xD;
+      be initially examined with an overnight brain wave study to assess for silent epileptic&#xD;
+      (seizure-like) activity. Presence of epileptic activity on the screening exam is not required&#xD;
+      to enter the trial. Participants will then be assigned to groups in a randomized manner. One&#xD;
+      group will receive levetiracetam for 4 weeks, then no drug for 4 weeks, and then placebo for&#xD;
+      4 weeks. For another group, the order of treatments will be reversed. The cognitive abilities&#xD;
+      of participants will be retested every 4 weeks and compared to those at the beginning. The&#xD;
+      cognitive tests include a virtual-reality navigation test of memory and computerized tests of&#xD;
+      mental flexibility and problem solving. The participants will be monitored with a&#xD;
+      magnetoencephalogram (MEG) with simultaneous EEG (M/EEG) at each visit. M/EEG is a highly&#xD;
+      effective non-invasive method for identifying brain regions of epileptic activity. The&#xD;
+      investigators will need to recruit 36 randomized participants to test the study hypotheses.&#xD;
+      This study will take place at the University of California, San Francisco (UCSF) and the&#xD;
+      University of Minnesota.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      For a more detailed explanation of the study and what our results were, please read our&#xD;
+      publication at https://jamanetwork.com/journals/jamaneurology/fullarticle/2784539&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 16, 2014</start_date>
+  <completion_date type="Actual">July 21, 2020</completion_date>
+  <primary_completion_date type="Actual">July 21, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in Executive Function as Measured by the NIH EXAMINER Computer Battery</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Changes in executive function were measured using the NIH EXAMINER, a 1-hour computer-based battery of various executive function tasks. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change. The Examiner assessment consists of the following scales: antisaccade , set shifting , flanker task, dot counting, spatial 1-back, category fluency, and letter fluency. Scores for this task have an indefinite range. Higher scores however do indicate better performance. Scores for this scale were generated using item response theory. For this study, scores with SEs greater than 0.55 were classified as unreliable and excluded from analysis. Composite scores from 2 participants were excluded on this basis.The EXAMINER ranges for the participants in the study were -2.59 to 1.33.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Stroop Interference Naming</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Stroop Test - The Stroop Test (Stroop 1935) will be used to assess executive functions including selective attention, cognitive flexibility and processing speed. Subtasks include Stroop color naming and Stroop interference naming, and each subtask is restricted to 1 minute. The minimum score is 0 and the maximum score is 126. The higher the score the better a participant does.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in ADAS-cog</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-cog) - The ADAS-cog rating instrument (Rosen et al. 1984) will be used to evaluate the global cognitive functioning. The ADAS-cog is a 70-point scale that includes an assessment of verbal memory, language, orientation, reasoning, and praxis.The score is derived from adding point values from each of its subsections. The higher your score on the ADAS-cog, the better you do.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Dementia Rating Sum of Boxes (CDR-SOB)</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Clinical Dementia Rating Sum of Boxes (CDR-SOB) - The CDR will be used as a global measure of dementia severity (Morris 1993). The CDR consists of questions addressed to the caregiver/informant. The lowest score one can receive is a 0 and the highest is a 3. Score is measured by getting the mean of the individual scores in each category. Lower scores equate to less dementia severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Behavior and Level of Disability - ADCS-ADL</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Alzheimer's Disease Cooperative Study Activities of Daily Living Scale (ADCS-ADL) - The ADCS-ADL rating instrument (Galasko et al. 1997) will be used to evaluate functional capacity. The ADCS-ADL is a caregiver rated questionnaire. Scores on the 24-item ADCS-ADL range from 0 to 78. A higher score indicates less severity while a lower score indicates greater severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Behavior and Level of Disability - ADCS-CGIC</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>ADCS-Clinical Global Impression of Change (ADCS-CGIC) - The ADCS-CGIC is a seven-point scale that gives a global rating of change from baseline (Schneider et al. 1997). The baseline and follow up assessments are based on interviews with the subject and the informant. The ADCS-CGIC is a clinician-rated measure of: global severity at baseline scored from 1 (normal, not at all ill) to 7 (among the most extremely ill patients); and global change at follow-up scored from 1 (marked improvement) to 7 (marked worsening), where 4 indicates no change.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Behavior and Level of Disability - Neuropsychiatric Inventory (NPI)</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Neuropsychiatric Inventory (NPI) - The NPI (Cummings et al. 1994) will be used to evaluate the severity of behavioral symptoms. The severity scale has scores ranging from 1 to 3 points (1=mild; 2=moderate; and 3=severe) and the scale for assessing caregiver distress has scores ranging from 0 to 5 points (0=no distress; 1=minimal distress; 2=mild distress; 3=moderate distress; 4=severe distress; and 5=extreme distress).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Epileptiform Events</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Epileptiform activity will be measured using a 1-hr resting magnetoencephalogram/electroencephalogram (M/EEG). M/EEG can detect abnormal epileptiform findings called &quot;spikes&quot;. The M/EEG will be read by an epileptologist with specialized training to assess whether there are any spikes. If spikes are observed during the M/EEG they will be counted to determine their frequency (e.g., 5 spikes per 1 hour recording). The frequency of spikes will then be compared to baseline values from before beginning the study treatment, using statistical tests to determine if the frequency changed with treatment.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Stroop Interference in AD With Epileptiform Activity</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Stroop Test - The Stroop Test (Stroop 1935) will be used to assess executive functions including selective attention, cognitive flexibility and processing speed. Subtasks include Stroop color naming and Stroop interference naming, and each subtask is restricted to 1 minute. The minimum score is 0 and the maximum score is 126. The higher the score the better a participant does. The mean below represents the average change in score between the timepoints for all participants.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>ADAS-cog in AD With Epileptiform Activity</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-cog) - The ADAS-cog rating instrument (Rosen et al. 1984) will be used to evaluate the global cognitive functioning. The ADAS-cog is a 70-point scale that includes an assessment of verbal memory, language, orientation, reasoning, and praxis.The score is derived from adding point values from each of its subsections. The higher your score on the ADAS-cog, the better you do.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in Cognitive Function as Measured by a Virtual Route Learning Test</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>A 20-minute computer-based virtual navigation test will be used to assess how well a subject can navigate a virtual community to reach a goal destination. The subjects will then be measured on their ability to accurately navigate the virtual community after a period of a few hours. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Standardized Assessments of Clinical Fluctuations -The Clinician Assessment of Fluctuation</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Two standardized methods will be used to quantitate fluctuations of dementia symptoms: The Clinician Assessment of Fluctuation and the One Day Fluctuation Assessment Scale (Walker et al. 2000). : The Clinician Assessment of Fluctuation (score range,0-12 points, with higher scores indicating more fluctuations),26 the One Day Fluctuation Assessment Scale (score range,0-21 points, with higher scores indicatingmore fluctuations).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Blood Serum Prolactin Level</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Blood samples intended for Quest Diagnostics LEV and prolactin serum levels (one 6 mL tube) will be processed in the following manner, as outlined in the Quest Diagnostics lab manual. The whole blood will be allowed to clot for 60 minutes and centrifuged at 2200 - 2500 revolutions per minute (RPM) for at least 15 minutes. The resulting serum will be split into 2 cryovials which will be stored at -20°C and immediately shipped for external assessment of LEV and prolactin levels. Prolactin will be assessed via immunoassay. The concentration of LEV in serum will be measured using validated liquid chromatography/tandem mass spectrometry (LC/MS-MS) methods.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>NIH EXAMINER in AD With Epileptiform Activity</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Changes in executive function will be measured using the NIH EXAMINER, a 1-hour computer-based battery of various executive function tasks. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change. The Examiner assessment consists of the following scales: NIH EXAMINER - antisaccade , NIH EXAMINER - set shifting , NIH EXAMINER - flanker task, NIH EXAMINER - dot counting, NIH EXAMINER - spatial 1-back, NIH EXAMINER - category fluency, and NIH EXAMINER - letter fluency. Scores for this task have an indefinite range. Higher scores however do indicate better performance. Scores for this scale were generated using item response theory (Kramer et al. J Int Neuropsychol Soc. 2014;20(1):11-19. doi:10.1017/S1355617713001094).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Standardized Assessments of Clinical Fluctuations - One Day Fluctuation Assessment Scale</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>The One Day Fluctuation Assessment Scale will be used to quantitate fluctuations of dementia symptoms (Walker et al. 2000). The One Day Fluctuation Assessment Scale has a score range of 0-21 points,with higher scores indicatingmore fluctuations.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>MEG Power Spectrum Measures</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>The power spectral density for different frequency bands will be measured via resting-state magnetoencephalography (MEG). A 60-second artifact-free recording segment from the first 10 minutes of recording (prior to sleep onset) will be manually selected for analysis. In participants who are able to complete additional tests, the investigators will measure dynamics of neural responses during cognitive tasks such as speech preparation and execution.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>MEG Functional Connectivity Measures</measure>
+    <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+    <description>Whole-brain alpha-band functional connectivity will be derived from MEG-imaging (MEG-I) using the 60-second artifact-free recording epoch that is selected for the MEG spectral analysis. MEG-I uses MEG sensor data with millisecond precision and applies source reconstruction algorithms to overlay cortical oscillatory activity onto structural brain images. Source-space MEG-I reconstructions and functional connectivity metrics will be computed with the NUTMEG software suite (http://nutmeg.berkeley.edu). The investigators will compute imaginary coherence, which is a reliable metric for functional connectivity with MEG reconstruction. Functional connectivity will measure the strength of coherence between a given region and the rest of the brain. The investigators will perform an unbiased search for MEG-I functional connectivity deficits that correlate with specific cognitive, behavioral, and functional deficits. Hinkley et al. 2011 provides details of the methodology.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Alzheimer's Disease</condition>
+  <arm_group>
+    <arm_group_label>Levetiracetam-Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group receives levetiracetam for 4 weeks twice daily, then has a break where no treatment is given for 4 weeks, and then receives placebo for 4 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo-Levetiracetam</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group receives placebo for 4 weeks twice daily, then has a break where no treatment is given for 4 weeks, and then receives levetiracetam for 4 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>levetiracetam</intervention_name>
+    <arm_group_label>Levetiracetam-Placebo</arm_group_label>
+    <arm_group_label>Placebo-Levetiracetam</arm_group_label>
+    <other_name>Keppra</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        To be included in the trial all of the following inclusion criteria must be met:&#xD;
+&#xD;
+        Ability to obtain written informed consent from the patient or caregiver as a surrogate;&#xD;
+        Meets National Institute on Aging-Alzheimer's Association Workgroups criteria for probable&#xD;
+        AD dementia (McKhann et al. 2011); Age ≤ 80 years at time of screening; Willing and able&#xD;
+        caregiver who has daily contact with the subject; Mini-Mental State Examination (MMSE)&#xD;
+        score ≥ 18 and/or Clinical Dementia Rating (CDR) &lt; 2 at the initial screening assessment;&#xD;
+        Subjects and caregivers must be able to comply with prescribed regime of study treatment&#xD;
+        throughout the course of the study, and meet the required time commitment of four days of&#xD;
+        in-person visits; Any concurrent treatment for AD approved by the Food and Drug&#xD;
+        Administration (FDA), such as donepezil, galantamine, or rivastigmine, and memantine, must&#xD;
+        be stable for at least 30 days prior to screening and at least 60 days prior to study day&#xD;
+        1. Other medications (except those listed under exclusion criteria) are allowed as long as&#xD;
+        the dose is stable for 30 days prior to screening.&#xD;
+&#xD;
+        The following criteria are considered grounds for exclusion:&#xD;
+&#xD;
+        Any conditions which could account for cognitive deficits in addition to AD, including but&#xD;
+        not limited to Vitamin B12 or folate deficiency, abnormal thyroid function, posttraumatic&#xD;
+        conditions, syphilis, multiple sclerosis or another neuroinflammatory disorder, Parkinson's&#xD;
+        disease, vascular or multi-infarct dementia, Huntington's disease, normal pressure&#xD;
+        hydrocephalus, central nervous system (CNS) tumor, progressive supranuclear palsy, subdural&#xD;
+        hematoma, etc.; Previous history of a seizure disorder, excepting cases where the first&#xD;
+        seizure or detection of epileptiform activity was within 5 years of screening and the&#xD;
+        patient is not prescribed an anticonvulsant; Significant systemic medical illnesses; Use of&#xD;
+        medications likely to affect CNS functions (e.g., benzodiazepines, narcotics); Severe renal&#xD;
+        dysfunction with creatine clearance &lt; 30 ml/min, which would affect serum LEV levels;&#xD;
+        Participation in another AD clinical trial within 3 months of Screening, or any AD clinical&#xD;
+        trial, such as a vaccine, that has potential long-term effects; Treatment with another&#xD;
+        study drug or investigational drug within 30 days of Screening; Pregnant or lactating; Any&#xD;
+        other medical condition which is determined by the investigators to potentially create an&#xD;
+        undue risk for an adverse effect; Biomarker evidence unsupportive of a diagnosis of AD.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Keith A Vossel, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCSF</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94158</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://memory.ucsf.edu</url>
+    <description>Memory &amp; Aging Center Website</description>
+  </link>
+  <reference>
+    <citation>Verret L, Mann EO, Hang GB, Barth AM, Cobos I, Ho K, Devidze N, Masliah E, Kreitzer AC, Mody I, Mucke L, Palop JJ. Inhibitory interneuron deficit links altered network activity and cognitive dysfunction in Alzheimer model. Cell. 2012 Apr 27;149(3):708-21. doi: 10.1016/j.cell.2012.02.046.</citation>
+    <PMID>22541439</PMID>
+  </reference>
+  <reference>
+    <citation>Sanchez PE, Zhu L, Verret L, Vossel KA, Orr AG, Cirrito JR, Devidze N, Ho K, Yu GQ, Palop JJ, Mucke L. Levetiracetam suppresses neuronal network dysfunction and reverses synaptic and cognitive deficits in an Alzheimer's disease model. Proc Natl Acad Sci U S A. 2012 Oct 16;109(42):E2895-903. doi: 10.1073/pnas.1121081109. Epub 2012 Aug 6.</citation>
+    <PMID>22869752</PMID>
+  </reference>
+  <reference>
+    <citation>Roberson ED, Scearce-Levie K, Palop JJ, Yan F, Cheng IH, Wu T, Gerstein H, Yu GQ, Mucke L. Reducing endogenous tau ameliorates amyloid beta-induced deficits in an Alzheimer's disease mouse model. Science. 2007 May 4;316(5825):750-4.</citation>
+    <PMID>17478722</PMID>
+  </reference>
+  <reference>
+    <citation>Bakker A, Krauss GL, Albert MS, Speck CL, Jones LR, Stark CE, Yassa MA, Bassett SS, Shelton AL, Gallagher M. Reduction of hippocampal hyperactivity improves cognition in amnestic mild cognitive impairment. Neuron. 2012 May 10;74(3):467-74. doi: 10.1016/j.neuron.2012.03.023.</citation>
+    <PMID>22578498</PMID>
+  </reference>
+  <reference>
+    <citation>Vossel KA, Beagle AJ, Rabinovici GD, Shu H, Lee SE, Naasan G, Hegde M, Cornes SB, Henry ML, Nelson AB, Seeley WW, Geschwind MD, Gorno-Tempini ML, Shih T, Kirsch HE, Garcia PA, Miller BL, Mucke L. Seizures and epileptiform activity in the early stages of Alzheimer disease. JAMA Neurol. 2013 Sep 1;70(9):1158-66. doi: 10.1001/jamaneurol.2013.136.</citation>
+    <PMID>23835471</PMID>
+  </reference>
+  <reference>
+    <citation>Mares P, Mikulecká A. Different effects of two N-methyl-D-aspartate receptor antagonists on seizures, spontaneous behavior, and motor performance in immature rats. Epilepsy Behav. 2009 Jan;14(1):32-9. doi: 10.1016/j.yebeh.2008.08.013. Epub 2008 Sep 30.</citation>
+    <PMID>18786655</PMID>
+  </reference>
+  <reference>
+    <citation>Molaie M, Culebras A, Miller M. Effect of interictal epileptiform discharges on nocturnal plasma prolactin concentrations in epileptic patients with complex partial seizures. Epilepsia. 1986 Nov-Dec;27(6):724-8.</citation>
+    <PMID>3780608</PMID>
+  </reference>
+  <reference>
+    <citation>Rosen WG, Mohs RC, Davis KL. A new rating scale for Alzheimer's disease. Am J Psychiatry. 1984 Nov;141(11):1356-64.</citation>
+    <PMID>6496779</PMID>
+  </reference>
+  <reference>
+    <citation>Morris JC. The Clinical Dementia Rating (CDR): current version and scoring rules. Neurology. 1993 Nov;43(11):2412-4.</citation>
+    <PMID>8232972</PMID>
+  </reference>
+  <reference>
+    <citation>Cummings JL, Mega M, Gray K, Rosenberg-Thompson S, Carusi DA, Gornbein J. The Neuropsychiatric Inventory: comprehensive assessment of psychopathology in dementia. Neurology. 1994 Dec;44(12):2308-14.</citation>
+    <PMID>7991117</PMID>
+  </reference>
+  <reference>
+    <citation>Galasko D, Bennett D, Sano M, Ernesto C, Thomas R, Grundman M, Ferris S. An inventory to assess activities of daily living for clinical trials in Alzheimer's disease. The Alzheimer's Disease Cooperative Study. Alzheimer Dis Assoc Disord. 1997;11 Suppl 2:S33-9.</citation>
+    <PMID>9236950</PMID>
+  </reference>
+  <reference>
+    <citation>Schneider LS, Olin JT, Doody RS, Clark CM, Morris JC, Reisberg B, Schmitt FA, Grundman M, Thomas RG, Ferris SH. Validity and reliability of the Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change. The Alzheimer's Disease Cooperative Study. Alzheimer Dis Assoc Disord. 1997;11 Suppl 2:S22-32.</citation>
+    <PMID>9236949</PMID>
+  </reference>
+  <reference>
+    <citation>Walker MP, Ayre GA, Cummings JL, Wesnes K, McKeith IG, O'Brien JT, Ballard CG. The Clinician Assessment of Fluctuation and the One Day Fluctuation Assessment Scale. Two methods to assess fluctuating confusion in dementia. Br J Psychiatry. 2000 Sep;177:252-6.</citation>
+    <PMID>11040887</PMID>
+  </reference>
+  <reference>
+    <citation>Hinkley LB, Vinogradov S, Guggisberg AG, Fisher M, Findlay AM, Nagarajan SS. Clinical symptoms and alpha band resting-state functional connectivity imaging in patients with schizophrenia: implications for novel approaches to treatment. Biol Psychiatry. 2011 Dec 15;70(12):1134-42. doi: 10.1016/j.biopsych.2011.06.029. Epub 2011 Sep 8.</citation>
+    <PMID>21861988</PMID>
+  </reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>October 25, 2013</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2013</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 6, 2013</study_first_posted>
+  <results_first_submitted>October 4, 2021</results_first_submitted>
+  <results_first_submitted_qc>April 22, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 16, 2022</results_first_posted>
+  <last_update_submitted>April 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 16, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alzheimer's disease</keyword>
+  <keyword>AD</keyword>
+  <keyword>Early-onset AD</keyword>
+  <keyword>EOAD</keyword>
+  <keyword>Early-onset Alzheimer's</keyword>
+  <keyword>Early-onset Alzheimer's disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Levetiracetam</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 8, 2015</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/19/NCT02002819/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Recruitment began on October 16,2014. Participants were recruited at the University of California, San Francisco, and the University of Minnesota, Twin Cities.</recruitment_details>
+      <pre_assignment_details>Participants were excluded if they were older than 80, had no diagnosis of probable AD, had a Mini-Mental State Examination score lower than 18 points or a Clinical Dementia Rating (CDR) score higher than 2 points. Patients receiving antiseizure drugs for any reason were excluded.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Levetiracetam-Placebo</title>
+          <description>This group receives levetiracetam for 4 weeks twice daily, then has a break where no treatment is given for 4 weeks, and then receives placebo for 4 weeks.&#xD;
+levetiracetam</description>
+        </group>
+        <group group_id="P2">
+          <title>Placebo-Levetiracetam</title>
+          <description>This group receives placebo for 4 weeks twice daily, then has a break where no treatment is given for 4 weeks, and then receives levetiracetam for 4 weeks.&#xD;
+levetiracetam</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+                <participants group_id="P2" count="17"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13">4 Discontinued intervention because of participant's decision</participants>
+                <participants group_id="P2" count="15">1 Discontinued intervention because of participant's decision&#xD;
+1 Excluded per protocol because of biomarkers inconsistent with AD</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Levetiracetam-Placebo</title>
+          <description>This group receives levetiracetam for 4 weeks twice daily, then has a break where no treatment is given for 4 weeks, and then receives placebo for 4 weeks.&#xD;
+levetiracetam</description>
+        </group>
+        <group group_id="B2">
+          <title>Placebo-Levetiracetam</title>
+          <description>This group receives placebo for 4 weeks twice daily, then has a break where no treatment is given for 4 weeks, and then receives levetiracetam for 4 weeks.&#xD;
+levetiracetam</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="17"/>
+            <count group_id="B2" value="17"/>
+            <count group_id="B3" value="34"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="16"/>
+                    <measurement group_id="B3" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="17"/>
+                    <measurement group_id="B3" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in Executive Function as Measured by the NIH EXAMINER Computer Battery</title>
+        <description>Changes in executive function were measured using the NIH EXAMINER, a 1-hour computer-based battery of various executive function tasks. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change. The Examiner assessment consists of the following scales: antisaccade , set shifting , flanker task, dot counting, spatial 1-back, category fluency, and letter fluency. Scores for this task have an indefinite range. Higher scores however do indicate better performance. Scores for this scale were generated using item response theory. For this study, scores with SEs greater than 0.55 were classified as unreliable and excluded from analysis. Composite scores from 2 participants were excluded on this basis.The EXAMINER ranges for the participants in the study were -2.59 to 1.33.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>THose receiving placebo treatment, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Executive Function as Measured by the NIH EXAMINER Computer Battery</title>
+          <description>Changes in executive function were measured using the NIH EXAMINER, a 1-hour computer-based battery of various executive function tasks. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change. The Examiner assessment consists of the following scales: antisaccade , set shifting , flanker task, dot counting, spatial 1-back, category fluency, and letter fluency. Scores for this task have an indefinite range. Higher scores however do indicate better performance. Scores for this scale were generated using item response theory. For this study, scores with SEs greater than 0.55 were classified as unreliable and excluded from analysis. Composite scores from 2 participants were excluded on this basis.The EXAMINER ranges for the participants in the study were -2.59 to 1.33.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.06" lower_limit="-0.24" upper_limit="0.11"/>
+                    <measurement group_id="O2" value="-0.14" lower_limit="-0.32" upper_limit="0.05"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.55</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>0.07</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.18</ci_lower_limit>
+            <ci_upper_limit>0.32</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Stroop Interference Naming</title>
+        <description>Stroop Test - The Stroop Test (Stroop 1935) will be used to assess executive functions including selective attention, cognitive flexibility and processing speed. Subtasks include Stroop color naming and Stroop interference naming, and each subtask is restricted to 1 minute. The minimum score is 0 and the maximum score is 126. The higher the score the better a participant does.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Stroop Interference Naming</title>
+          <description>Stroop Test - The Stroop Test (Stroop 1935) will be used to assess executive functions including selective attention, cognitive flexibility and processing speed. Subtasks include Stroop color naming and Stroop interference naming, and each subtask is restricted to 1 minute. The minimum score is 0 and the maximum score is 126. The higher the score the better a participant does.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="22"/>
+                <count group_id="O2" value="22"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.5" lower_limit="-1.4" upper_limit="4.3"/>
+                    <measurement group_id="O2" value="-1.4" lower_limit="-3.6" upper_limit="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.14</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>2.9</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.0</ci_lower_limit>
+            <ci_upper_limit>6.8</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in ADAS-cog</title>
+        <description>Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-cog) - The ADAS-cog rating instrument (Rosen et al. 1984) will be used to evaluate the global cognitive functioning. The ADAS-cog is a 70-point scale that includes an assessment of verbal memory, language, orientation, reasoning, and praxis.The score is derived from adding point values from each of its subsections. The higher your score on the ADAS-cog, the better you do.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <population>24 participants in this study did the ADAS-cog at both baseline and treatment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in ADAS-cog</title>
+          <description>Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-cog) - The ADAS-cog rating instrument (Rosen et al. 1984) will be used to evaluate the global cognitive functioning. The ADAS-cog is a 70-point scale that includes an assessment of verbal memory, language, orientation, reasoning, and praxis.The score is derived from adding point values from each of its subsections. The higher your score on the ADAS-cog, the better you do.</description>
+          <population>24 participants in this study did the ADAS-cog at both baseline and treatment.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.2" lower_limit="-1.8" upper_limit="1.5"/>
+                    <measurement group_id="O2" value="0.8" lower_limit="-0.7" upper_limit="2.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.43</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>-1.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-3.4</ci_lower_limit>
+            <ci_upper_limit>1.5</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Dementia Rating Sum of Boxes (CDR-SOB)</title>
+        <description>Clinical Dementia Rating Sum of Boxes (CDR-SOB) - The CDR will be used as a global measure of dementia severity (Morris 1993). The CDR consists of questions addressed to the caregiver/informant. The lowest score one can receive is a 0 and the highest is a 3. Score is measured by getting the mean of the individual scores in each category. Lower scores equate to less dementia severity.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Dementia Rating Sum of Boxes (CDR-SOB)</title>
+          <description>Clinical Dementia Rating Sum of Boxes (CDR-SOB) - The CDR will be used as a global measure of dementia severity (Morris 1993). The CDR consists of questions addressed to the caregiver/informant. The lowest score one can receive is a 0 and the highest is a 3. Score is measured by getting the mean of the individual scores in each category. Lower scores equate to less dementia severity.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" lower_limit="-0.1" upper_limit="0.3"/>
+                    <measurement group_id="O2" value="0.1" lower_limit="-0.2" upper_limit="0.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.63</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>0.1</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.2</ci_lower_limit>
+            <ci_upper_limit>0.4</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Behavior and Level of Disability - ADCS-ADL</title>
+        <description>Alzheimer's Disease Cooperative Study Activities of Daily Living Scale (ADCS-ADL) - The ADCS-ADL rating instrument (Galasko et al. 1997) will be used to evaluate functional capacity. The ADCS-ADL is a caregiver rated questionnaire. Scores on the 24-item ADCS-ADL range from 0 to 78. A higher score indicates less severity while a lower score indicates greater severity.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Behavior and Level of Disability - ADCS-ADL</title>
+          <description>Alzheimer's Disease Cooperative Study Activities of Daily Living Scale (ADCS-ADL) - The ADCS-ADL rating instrument (Galasko et al. 1997) will be used to evaluate functional capacity. The ADCS-ADL is a caregiver rated questionnaire. Scores on the 24-item ADCS-ADL range from 0 to 78. A higher score indicates less severity while a lower score indicates greater severity.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.4" lower_limit="-0.9" upper_limit="1.6"/>
+                    <measurement group_id="O2" value="0.3" lower_limit="-0.9" upper_limit="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.90</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>0.1</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.1</ci_lower_limit>
+            <ci_upper_limit>1.3</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Behavior and Level of Disability - ADCS-CGIC</title>
+        <description>ADCS-Clinical Global Impression of Change (ADCS-CGIC) - The ADCS-CGIC is a seven-point scale that gives a global rating of change from baseline (Schneider et al. 1997). The baseline and follow up assessments are based on interviews with the subject and the informant. The ADCS-CGIC is a clinician-rated measure of: global severity at baseline scored from 1 (normal, not at all ill) to 7 (among the most extremely ill patients); and global change at follow-up scored from 1 (marked improvement) to 7 (marked worsening), where 4 indicates no change.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Behavior and Level of Disability - ADCS-CGIC</title>
+          <description>ADCS-Clinical Global Impression of Change (ADCS-CGIC) - The ADCS-CGIC is a seven-point scale that gives a global rating of change from baseline (Schneider et al. 1997). The baseline and follow up assessments are based on interviews with the subject and the informant. The ADCS-CGIC is a clinician-rated measure of: global severity at baseline scored from 1 (normal, not at all ill) to 7 (among the most extremely ill patients); and global change at follow-up scored from 1 (marked improvement) to 7 (marked worsening), where 4 indicates no change.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.0" lower_limit="3.8" upper_limit="4.3"/>
+                    <measurement group_id="O2" value="4.0" lower_limit="3.7" upper_limit="4.3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.80</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>0.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.3</ci_lower_limit>
+            <ci_upper_limit>0.3</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Behavior and Level of Disability - Neuropsychiatric Inventory (NPI)</title>
+        <description>Neuropsychiatric Inventory (NPI) - The NPI (Cummings et al. 1994) will be used to evaluate the severity of behavioral symptoms. The severity scale has scores ranging from 1 to 3 points (1=mild; 2=moderate; and 3=severe) and the scale for assessing caregiver distress has scores ranging from 0 to 5 points (0=no distress; 1=minimal distress; 2=mild distress; 3=moderate distress; 4=severe distress; and 5=extreme distress).</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those doing the interview during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those doing the interview during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Behavior and Level of Disability - Neuropsychiatric Inventory (NPI)</title>
+          <description>Neuropsychiatric Inventory (NPI) - The NPI (Cummings et al. 1994) will be used to evaluate the severity of behavioral symptoms. The severity scale has scores ranging from 1 to 3 points (1=mild; 2=moderate; and 3=severe) and the scale for assessing caregiver distress has scores ranging from 0 to 5 points (0=no distress; 1=minimal distress; 2=mild distress; 3=moderate distress; 4=severe distress; and 5=extreme distress).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.8" lower_limit="-2.7" upper_limit="1.2"/>
+                    <measurement group_id="O2" value="0.2" lower_limit="-2.2" upper_limit="2.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.46</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>-1.0</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-3.6</ci_lower_limit>
+            <ci_upper_limit>1.7</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Epileptiform Events</title>
+        <description>Epileptiform activity will be measured using a 1-hr resting magnetoencephalogram/electroencephalogram (M/EEG). M/EEG can detect abnormal epileptiform findings called &quot;spikes&quot;. The M/EEG will be read by an epileptologist with specialized training to assess whether there are any spikes. If spikes are observed during the M/EEG they will be counted to determine their frequency (e.g., 5 spikes per 1 hour recording). The frequency of spikes will then be compared to baseline values from before beginning the study treatment, using statistical tests to determine if the frequency changed with treatment.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Activity measured during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Activity during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Epileptiform Events</title>
+          <description>Epileptiform activity will be measured using a 1-hr resting magnetoencephalogram/electroencephalogram (M/EEG). M/EEG can detect abnormal epileptiform findings called &quot;spikes&quot;. The M/EEG will be read by an epileptologist with specialized training to assess whether there are any spikes. If spikes are observed during the M/EEG they will be counted to determine their frequency (e.g., 5 spikes per 1 hour recording). The frequency of spikes will then be compared to baseline values from before beginning the study treatment, using statistical tests to determine if the frequency changed with treatment.</description>
+          <units>Epileptiform events</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.1" lower_limit="-0.4" upper_limit="0.1"/>
+                    <measurement group_id="O2" value="-0.2" lower_limit="-1.1" upper_limit="0.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.40</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>0.1</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.9</ci_lower_limit>
+            <ci_upper_limit>1.1</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Stroop Interference in AD With Epileptiform Activity</title>
+        <description>Stroop Test - The Stroop Test (Stroop 1935) will be used to assess executive functions including selective attention, cognitive flexibility and processing speed. Subtasks include Stroop color naming and Stroop interference naming, and each subtask is restricted to 1 minute. The minimum score is 0 and the maximum score is 126. The higher the score the better a participant does. The mean below represents the average change in score between the timepoints for all participants.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <population>Specifically, this analysis is only looking at individuals who displayed epoileptiform activity.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam (Epileptiform Activity)</title>
+            <description>Those with epileptiform activity taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.o.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo (Epileptiform Activity)</title>
+            <description>Those with epileptiform activity taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Stroop Interference in AD With Epileptiform Activity</title>
+          <description>Stroop Test - The Stroop Test (Stroop 1935) will be used to assess executive functions including selective attention, cognitive flexibility and processing speed. Subtasks include Stroop color naming and Stroop interference naming, and each subtask is restricted to 1 minute. The minimum score is 0 and the maximum score is 126. The higher the score the better a participant does. The mean below represents the average change in score between the timepoints for all participants.</description>
+          <population>Specifically, this analysis is only looking at individuals who displayed epoileptiform activity.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.7" spread="7.2"/>
+                    <measurement group_id="O2" value="-2.6" spread="5.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.046</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>7.4</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>0.2</ci_lower_limit>
+            <ci_upper_limit>14.7</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>ADAS-cog in AD With Epileptiform Activity</title>
+        <description>Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-cog) - The ADAS-cog rating instrument (Rosen et al. 1984) will be used to evaluate the global cognitive functioning. The ADAS-cog is a 70-point scale that includes an assessment of verbal memory, language, orientation, reasoning, and praxis.The score is derived from adding point values from each of its subsections. The higher your score on the ADAS-cog, the better you do.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <population>Specifically, this analysis is only looking at individuals who displayed epileptiform activity.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam (Epileptiform Activity)</title>
+            <description>Those with epileptiform activity taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo (Epileptiform Activity)</title>
+            <description>Those with epileptiform activity taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ADAS-cog in AD With Epileptiform Activity</title>
+          <description>Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-cog) - The ADAS-cog rating instrument (Rosen et al. 1984) will be used to evaluate the global cognitive functioning. The ADAS-cog is a 70-point scale that includes an assessment of verbal memory, language, orientation, reasoning, and praxis.The score is derived from adding point values from each of its subsections. The higher your score on the ADAS-cog, the better you do.</description>
+          <population>Specifically, this analysis is only looking at individuals who displayed epileptiform activity.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="9"/>
+                <count group_id="O2" value="9"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-1.0" spread="4.1"/>
+                    <measurement group_id="O2" value="1.5" spread="4.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.30</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>-2.5</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-7.8</ci_lower_limit>
+            <ci_upper_limit>2.7</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Changes in Cognitive Function as Measured by a Virtual Route Learning Test</title>
+        <description>A 20-minute computer-based virtual navigation test will be used to assess how well a subject can navigate a virtual community to reach a goal destination. The subjects will then be measured on their ability to accurately navigate the virtual community after a period of a few hours. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>No Epileptiform Activity</title>
+            <description>Those who did the task without any sign of epileptiform activity.</description>
+          </group>
+          <group group_id="O2">
+            <title>Epileptic Activity</title>
+            <description>Those who did the task who displayed epileptic activity</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Cognitive Function as Measured by a Virtual Route Learning Test</title>
+          <description>A 20-minute computer-based virtual navigation test will be used to assess how well a subject can navigate a virtual community to reach a goal destination. The subjects will then be measured on their ability to accurately navigate the virtual community after a period of a few hours. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change.</description>
+          <units>correct turns</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="7"/>
+                <count group_id="O2" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-6.0" lower_limit="-21.4" upper_limit="9.4"/>
+                    <measurement group_id="O2" value="17.4" lower_limit="-0.6" upper_limit="35.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.52</p_value>
+            <method>Cohen f</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>3.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-8.5</ci_lower_limit>
+            <ci_upper_limit>16.0</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Standardized Assessments of Clinical Fluctuations -The Clinician Assessment of Fluctuation</title>
+        <description>Two standardized methods will be used to quantitate fluctuations of dementia symptoms: The Clinician Assessment of Fluctuation and the One Day Fluctuation Assessment Scale (Walker et al. 2000). : The Clinician Assessment of Fluctuation (score range,0-12 points, with higher scores indicating more fluctuations),26 the One Day Fluctuation Assessment Scale (score range,0-21 points, with higher scores indicatingmore fluctuations).</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those doing the assessment during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those doing the activity during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Standardized Assessments of Clinical Fluctuations -The Clinician Assessment of Fluctuation</title>
+          <description>Two standardized methods will be used to quantitate fluctuations of dementia symptoms: The Clinician Assessment of Fluctuation and the One Day Fluctuation Assessment Scale (Walker et al. 2000). : The Clinician Assessment of Fluctuation (score range,0-12 points, with higher scores indicating more fluctuations),26 the One Day Fluctuation Assessment Scale (score range,0-21 points, with higher scores indicatingmore fluctuations).</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.9" spread="2.6"/>
+                    <measurement group_id="O2" value="0.1" spread="3.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.40</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>0.7</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.0</ci_lower_limit>
+            <ci_upper_limit>2.4</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Blood Serum Prolactin Level</title>
+        <description>Blood samples intended for Quest Diagnostics LEV and prolactin serum levels (one 6 mL tube) will be processed in the following manner, as outlined in the Quest Diagnostics lab manual. The whole blood will be allowed to clot for 60 minutes and centrifuged at 2200 - 2500 revolutions per minute (RPM) for at least 15 minutes. The resulting serum will be split into 2 cryovials which will be stored at -20°C and immediately shipped for external assessment of LEV and prolactin levels. Prolactin will be assessed via immunoassay. The concentration of LEV in serum will be measured using validated liquid chromatography/tandem mass spectrometry (LC/MS-MS) methods.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those who were on Leviteracetam treatment.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>THose on placebo treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Blood Serum Prolactin Level</title>
+          <description>Blood samples intended for Quest Diagnostics LEV and prolactin serum levels (one 6 mL tube) will be processed in the following manner, as outlined in the Quest Diagnostics lab manual. The whole blood will be allowed to clot for 60 minutes and centrifuged at 2200 - 2500 revolutions per minute (RPM) for at least 15 minutes. The resulting serum will be split into 2 cryovials which will be stored at -20°C and immediately shipped for external assessment of LEV and prolactin levels. Prolactin will be assessed via immunoassay. The concentration of LEV in serum will be measured using validated liquid chromatography/tandem mass spectrometry (LC/MS-MS) methods.</description>
+          <units>ng/mL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="24"/>
+                <count group_id="O2" value="24"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.1" spread="1.9"/>
+                    <measurement group_id="O2" value="0.2" spread="1.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.63</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>-0.2</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-1.1</ci_lower_limit>
+            <ci_upper_limit>0.7</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>NIH EXAMINER in AD With Epileptiform Activity</title>
+        <description>Changes in executive function will be measured using the NIH EXAMINER, a 1-hour computer-based battery of various executive function tasks. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change. The Examiner assessment consists of the following scales: NIH EXAMINER - antisaccade , NIH EXAMINER - set shifting , NIH EXAMINER - flanker task, NIH EXAMINER - dot counting, NIH EXAMINER - spatial 1-back, NIH EXAMINER - category fluency, and NIH EXAMINER - letter fluency. Scores for this task have an indefinite range. Higher scores however do indicate better performance. Scores for this scale were generated using item response theory (Kramer et al. J Int Neuropsychol Soc. 2014;20(1):11-19. doi:10.1017/S1355617713001094).</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <population>Specifically, this analysis is only looking at individuals who displayed epileptiform activity.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>No Epileptiform Activity</title>
+            <description>Those who took the test but displayed no evidence of epileptiform activity.</description>
+          </group>
+          <group group_id="O2">
+            <title>Epileptiform Activity</title>
+            <description>THose who took the test and show evidence of epileptiform activity.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>NIH EXAMINER in AD With Epileptiform Activity</title>
+          <description>Changes in executive function will be measured using the NIH EXAMINER, a 1-hour computer-based battery of various executive function tasks. The subject's performance after the study treatment will be compared with results from a baseline assessment done before the study treatment, using statistical tests to assess whether there was any significant change. The Examiner assessment consists of the following scales: NIH EXAMINER - antisaccade , NIH EXAMINER - set shifting , NIH EXAMINER - flanker task, NIH EXAMINER - dot counting, NIH EXAMINER - spatial 1-back, NIH EXAMINER - category fluency, and NIH EXAMINER - letter fluency. Scores for this task have an indefinite range. Higher scores however do indicate better performance. Scores for this scale were generated using item response theory (Kramer et al. J Int Neuropsychol Soc. 2014;20(1):11-19. doi:10.1017/S1355617713001094).</description>
+          <population>Specifically, this analysis is only looking at individuals who displayed epileptiform activity.</population>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="14"/>
+                <count group_id="O2" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="-0.01" lower_limit="-0.39" upper_limit="0.37"/>
+                    <measurement group_id="O2" value="0.22" lower_limit="-0.05" upper_limit="0.49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Standardized Assessments of Clinical Fluctuations - One Day Fluctuation Assessment Scale</title>
+        <description>The One Day Fluctuation Assessment Scale will be used to quantitate fluctuations of dementia symptoms (Walker et al. 2000). The One Day Fluctuation Assessment Scale has a score range of 0-21 points,with higher scores indicatingmore fluctuations.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Levetiracetam</title>
+            <description>Those taking the test during their Levetiracetam treatment phase, whether it be before or after the crossover.</description>
+          </group>
+          <group group_id="O2">
+            <title>Placebo</title>
+            <description>Those taking the test during their placebo treatment phase, whether before or after the crossover.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Standardized Assessments of Clinical Fluctuations - One Day Fluctuation Assessment Scale</title>
+          <description>The One Day Fluctuation Assessment Scale will be used to quantitate fluctuations of dementia symptoms (Walker et al. 2000). The One Day Fluctuation Assessment Scale has a score range of 0-21 points,with higher scores indicatingmore fluctuations.</description>
+          <units>score on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="28"/>
+                <count group_id="O2" value="28"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.3" spread="1.8"/>
+                    <measurement group_id="O2" value="-0.4" spread="1.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>.15</p_value>
+            <method>ANOVA</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>0.8</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.3</ci_lower_limit>
+            <ci_upper_limit>1.8</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>MEG Power Spectrum Measures</title>
+        <description>The power spectral density for different frequency bands will be measured via resting-state magnetoencephalography (MEG). A 60-second artifact-free recording segment from the first 10 minutes of recording (prior to sleep onset) will be manually selected for analysis. In participants who are able to complete additional tests, the investigators will measure dynamics of neural responses during cognitive tasks such as speech preparation and execution.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>MEG Functional Connectivity Measures</title>
+        <description>Whole-brain alpha-band functional connectivity will be derived from MEG-imaging (MEG-I) using the 60-second artifact-free recording epoch that is selected for the MEG spectral analysis. MEG-I uses MEG sensor data with millisecond precision and applies source reconstruction algorithms to overlay cortical oscillatory activity onto structural brain images. Source-space MEG-I reconstructions and functional connectivity metrics will be computed with the NUTMEG software suite (http://nutmeg.berkeley.edu). The investigators will compute imaginary coherence, which is a reliable metric for functional connectivity with MEG reconstruction. Functional connectivity will measure the strength of coherence between a given region and the rest of the brain. The investigators will perform an unbiased search for MEG-I functional connectivity deficits that correlate with specific cognitive, behavioral, and functional deficits. Hinkley et al. 2011 provides details of the methodology.</description>
+        <time_frame>Difference between weeks 0-4 (Baseline) and weeks 8-12 (Treatment)</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>2 years, 8 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Levetiracetam</title>
+          <description>Adverse events occurring when participants were taking Levetiracetam.</description>
+        </group>
+        <group group_id="E2">
+          <title>Placebo</title>
+          <description>Adverse events occurring when participants were taking Placebo.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal discomfort</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Irritability</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+              <event>
+                <sub_title>Tiredness</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="34"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="34"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Keith Vossel</name_or_title>
+      <organization>UCLA Mary S. Easton Center for Alzheimer's Disease Research</organization>
+      <phone>310-794-3665,</phone>
+      <email>neuroeaston@mednet.ucla.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1100">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04871074</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2018-1283</org_study_id>
+    <secondary_id>A534255</secondary_id>
+    <secondary_id>SMPH/MEDICINE/GER-AD DEV</secondary_id>
+    <secondary_id>Protocol Version 3/14/2022</secondary_id>
+    <secondary_id>R01AG062285</secondary_id>
+    <nct_id>NCT04871074</nct_id>
+  </id_info>
+  <brief_title>The Synapse Project</brief_title>
+  <official_title>SV2A PET Imaging in Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Wisconsin, Madison</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Wisconsin, Madison</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overarching goal of this project is to use [C-11]UCB-J to obtain spatial information on&#xD;
+      neuronal synapse abundance and inform Alzheimer's disease (AD) progression. The investigators&#xD;
+      propose to collect longitudinal amyloid, tau, and Synaptic vesicle glycoprotein 2A (SV2A)&#xD;
+      positron emission tomography (PET) in participants in the Wisconsin Alzheimer's Disease&#xD;
+      Research Center (ADRC) and Wisconsin Registry for Alzheimer's Prevention (WRAP) across the&#xD;
+      clinical stages of AD, including cognitively unimpaired biomarker negative, unimpaired&#xD;
+      biomarker positive, mild cognitive impairment (MCI), and dementia due to AD.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Synaptic loss is a major feature of symptomatic AD. Conversely, abundance of synapses may&#xD;
+      confer resilience to cognitive decline in the presence of AD pathology. The&#xD;
+      pathology-defining features of AD are amyloid plaques and neurofibrillary tangles and their&#xD;
+      presence and distribution can be spatially estimated in-vivo with amyloid and tau PET.&#xD;
+      Although these biomarkers can inform on the degree and location of pathology, they do not&#xD;
+      provide an indicator of their effect on collocated or extended in-network neural damage&#xD;
+      including synaptic density.&#xD;
+&#xD;
+      SV2A is expressed ubiquitously in synapses and the capability of assessing SV2A in vivo may&#xD;
+      provide a direct indicator of synaptic health. Such information would be of high importance&#xD;
+      for staging the level of synaptic loss or conversely synaptic abundance in the AD continuum&#xD;
+      and may potentially improve prognostic precision. The PET radioligand [C-11]UCB-J is a marker&#xD;
+      of SV2A.&#xD;
+&#xD;
+      The overarching goal of this project is to use [C-11]UCB-J to obtain spatial information on&#xD;
+      neuronal synapse abundance and inform upon disease progression. The investigators propose to&#xD;
+      collect longitudinal amyloid, tau, and SV2A PET in participants in the Wisconsin ADRC and&#xD;
+      WRAP across the clinical stages of AD, including cognitively unimpaired biomarker negative,&#xD;
+      unimpaired biomarker positive, MCI, and dementia due to AD.&#xD;
+&#xD;
+        -  Specific Aim 1). Determine the extent to which [C-11]UCB-J provides unique information&#xD;
+           from MRI regarding neurodegeneration. Approach: The investigators will recruit N=60&#xD;
+           cognitively unimpaired participants, N=30 MCI participants, and N=30 participants with&#xD;
+           AD dementia to undergo PET imaging with [C-11]UCB-J. MRI will include anatomic and&#xD;
+           diffusion connectivity MRI. When available, ancillary cerebrospinal fluid (CSF)&#xD;
+           indicators of neurodegeneration and synapse function will be examined for relationships&#xD;
+           with UCB-J.&#xD;
+&#xD;
+        -  Specific Aim 2). Determine the rate of synapse loss as reflected by [C-11]UCB-J signal&#xD;
+           across all participants. Rationale: Trajectories of synaptic loss are unknown in vivo.&#xD;
+           Approach: The investigators will determine the longitudinal trajectories of regional&#xD;
+           synapse loss that are observed over time among participants who undergo repeat&#xD;
+           [C-11]UCB-J (separated by two years, same participants scanned for Aim 1). The&#xD;
+           investigators will also examine trajectories by amyloid and tau load. Quantifying&#xD;
+           longitudinal synaptic loss is expected to eventually facilitate the identification of&#xD;
+           individuals who are progressing to dementia, as well as inform upon changes that are&#xD;
+           normal for age.&#xD;
+&#xD;
+        -  Specific Aim 3). Determine the extent to which [C-11]UCB-J associates with cognitive&#xD;
+           decline. Rationale: The investigators expect that lower baseline SV2A density and&#xD;
+           longitudinal decline in SV2A density in the medial temporal lobe will be associated with&#xD;
+           faster progression of cognitive decline. The investigators will also test the extent to&#xD;
+           which harboring multiple pathologies (↑amyloid, ↑tau, and ↓SV2A density) contributes to&#xD;
+           cognitive decline. Approach: The investigators will examine core indices of cognitive&#xD;
+           status and continuous measures of cognitive function from the source cohorts and utilize&#xD;
+           mixed effects models to ascertain the effect of UCB-J amyloid and tau on cognition.&#xD;
+&#xD;
+        -  Specific Aim 4). Determine factors which impact synapse loss. Rationale: Several risk&#xD;
+           factors for cognitive decline and dementia have been identified including potentially&#xD;
+           modifiable factors such as insulin resistance and vascular risk factors. Approach: The&#xD;
+           investigators will determine cross-sectional and longitudinal trajectories of regional&#xD;
+           synapse loss in relation to risk factors for cognitive decline and dementia. In order to&#xD;
+           determine insulin resistance, the investigators will perform blood draw and assess&#xD;
+           fasting glucose and insulin values to determine the Homeostatic Model Assessment of&#xD;
+           Insulin Resistance (HOMA-IR). The impact of potentially modifiable risk factors on&#xD;
+           synapse loss in vivo is currently unknown. This aim will address this gap in knowledge,&#xD;
+           results which may translate to strategies for reducing dementia risk.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2018</start_date>
+  <completion_date type="Anticipated">November 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference between ROC AUCs (MCI/AD vs cognitively unimpaired (CU)) for medial temporal lobe (MTL) UCB-J distribution volume ratio (DVR) and hippocampal volume</measure>
+    <time_frame>Baseline</time_frame>
+    <description>DeLong's method will test whether the MTL UCB-J receiver-operator characteristic (ROC) area under the curve (AUC) has better mild cognitive impairment/probable AD dementia (MCI/AD) prediction accuracy than the hippocampal volume ROC AUC.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Difference between ROC AUCs (MCI/AD vs CU) for MTL UCB-J and hippocampal cingulum neurite density index</measure>
+    <time_frame>Baseline</time_frame>
+    <description>DeLong's method will test whether the MTL UCB-J ROC AUC has better MCI/AD prediction accuracy than the hippocampal cingulum neurite density index ROC AUC.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Annual rate of change in UCB-J DVR</measure>
+    <time_frame>Baseline and 2 years</time_frame>
+    <description>Linear mixed effects regression will model UCB-J DVR as a function of time since baseline.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Baseline diagnosis group differences in annual rate of change in UCB-J DVR</measure>
+    <time_frame>baseline and 2 years</time_frame>
+    <description>Baseline diagnosis (CU vs MCI/probable AD dementia) group differences in rate of UCB-J DVR change will be estimated via group x time interaction term in a linear mixed effects model.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Amyloid positivity status differences in annual rate of change in UCB-J DVR</measure>
+    <time_frame>baseline and 2 years</time_frame>
+    <description>Amyloid positivity status differences in rate of UCB-J DVR change will be estimated via group x time interaction term in a linear mixed effects model. Amyloid positivity status will be determined from amyloid PET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tau positivity status differences in annual rate of change in UCB-J DVR</measure>
+    <time_frame>baseline and 2 years</time_frame>
+    <description>Tau positivity status differences in rate of UCB-J DVR change will be estimated via group x time interaction term in a linear mixed effects model. Tau positivity status will be determined from tau PET.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MTL UCB-J DVR baseline differences in a cognitive performance age slope in non-demented participants</measure>
+    <time_frame>baseline and 2 years</time_frame>
+    <description>Linear mixed effects will be used to model non-demented participants' MTL UCB-J DVR baseline differences in a cognitive performance age slope via an MTL UCB-J DVR baseline x age interaction term with education and sex controlled. Cognitive performance will be assessed using a cognitive composite index comprised of episodic memory, learning, and executive functioning tests.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference between ROC AUCs (MCI/AD vs CU) for medial temporal lobe (MTL) UCB-J distribution volume ratio (DVR) and cerebrospinal fluid (CSF) neurofilament light chain protein (NfL)</measure>
+    <time_frame>baseline</time_frame>
+    <description>DeLong's method will test whether the MTL UCB-J ROC AUC has better mild cognitive impairment/probable AD dementia (MCI/AD) prediction accuracy than the CSF NfL ROC AUC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference between ROC AUCs (MCI/AD vs CU) for MTL UCB-J DVR and cerebrospinal fluid (CSF) T-tau</measure>
+    <time_frame>baseline</time_frame>
+    <description>DeLong's method will test whether the MTL UCB-J ROC AUC has better MCI/AD prediction accuracy than the CSF T-tau ROC AUC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference between ROC AUCs (MCI/AD vs CU) for MTL UCB-J and CSF neurogranin</measure>
+    <time_frame>baseline</time_frame>
+    <description>DeLong's method will test whether the MTL UCB-J ROC AUC has better MCI/AD prediction accuracy than the CSF neurogranin ROC AUC.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sex differences in annual rate of change in UCB-J DVR</measure>
+    <time_frame>baseline and 2 years</time_frame>
+    <description>Sex differences in rate of UCB-J DVR change will be estimated via group x time interaction term in a linear mixed effects model.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Age differences in annual rate of change in UCB-J DVR</measure>
+    <time_frame>baseline and 2 years</time_frame>
+    <description>Age differences in rate of UCB-J DVR change will be estimated in a linear mixed effects model.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>APOE4 allele status differences in annual rate of change in UCB-J DVR</measure>
+    <time_frame>baseline and 2 years</time_frame>
+    <description>APOE4 allele status differences in rate of UCB-J DVR change will be estimated via group x time interaction term in a linear mixed effects model.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Cognitively unimpaired</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Results of most recent testing with the source cohort indicate the participant is cognitively unimpaired as judged by consensus or expert review.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Cognitive Impairment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Abnormal cognitive status of MCI as judged by consensus or expert review using NIA-AA 2018 criteria.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild dementia</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Abnormal cognitive status of dementia as judged by consensus or expert review using NIA-AA 2018 criteria.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>UCB-J</intervention_name>
+    <description>PET imaging with UCB-J</description>
+    <arm_group_label>Cognitively unimpaired</arm_group_label>
+    <arm_group_label>Mild Cognitive Impairment</arm_group_label>
+    <arm_group_label>Mild dementia</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Cognitively unimpaired adults-&#xD;
+&#xD;
+               -  Aged 55 - 89&#xD;
+&#xD;
+               -  Normal cognition (results of most recent testing with the source cohort indicate&#xD;
+                  the participant is cognitively unimpaired as judged by consensus or expert&#xD;
+                  review)&#xD;
+&#xD;
+               -  In good general health with no conditions/medications affecting cognition or&#xD;
+                  imaging&#xD;
+&#xD;
+               -  Willing to undergo [C-11]UCB-J, [C-11]PiB, and [F-18]MK6240 PET scans&#xD;
+&#xD;
+               -  An adequate MRI exam within 12 months prior to baseline. An MRI will be performed&#xD;
+                  if not already available.&#xD;
+&#xD;
+          -  Mild dementia and amnestic Mild Cognitive Impairment-&#xD;
+&#xD;
+               -  Aged 50 years or older&#xD;
+&#xD;
+               -  Abnormal cognitive status of MCI or dementia as judged by consensus or expert&#xD;
+                  review using NIA-AA 2018 criteria&#xD;
+&#xD;
+               -  MCI's must be affected in the memory domain but may also have other affected&#xD;
+                  domains&#xD;
+&#xD;
+               -  Willing to undergo [C-11]UCB-J, [C-11]PiB, and [F-18]MK6240 PET scans&#xD;
+&#xD;
+               -  An adequate MRI exam within 12 months prior to baseline. This MRI exam will come&#xD;
+                  from ADRC/WRAP studies. Clinical MRI's (ones obtained outside of the research&#xD;
+                  program) will not be adequate. An MRI will be performed if not already available&#xD;
+                  from within the research program.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  For women, pregnant, lactating or breastfeeding, or intention to become pregnant&#xD;
+&#xD;
+          -  Evidence of unstable or untreated clinically significant gastrointestinal,&#xD;
+             cardiovascular, hepatic, renal, hematological, neoplastic, endocrine, alternative&#xD;
+             neurological, immunodeficiency, pulmonary, or other disorder or disease.&#xD;
+&#xD;
+          -  Stable, treated chronic medical conditions like hypertension, hypercholesterolemia,&#xD;
+             diabetes mellitus, non-metastatic dermatologic or prostatic cancer, etc. are&#xD;
+             acceptable as long as they do not, in the study investigator's opinion, contribute to&#xD;
+             cognitive dysfunction or limit participation in study procedures.&#xD;
+&#xD;
+          -  Any illness or other consideration that makes it unlikely that the subject will be&#xD;
+             able to complete the 24-month study.&#xD;
+&#xD;
+          -  Current or prior history (within past 5 years) of significant alcohol or substance&#xD;
+             abuse as determined by the investigator.&#xD;
+&#xD;
+          -  Psychiatric disorders that may interfere with the study including current major Axis I&#xD;
+             DSM-V disorders including but not limited to severe Major depression, current or&#xD;
+             history of bipolar I disorder, or schizophrenia.&#xD;
+&#xD;
+          -  Current use of the anti-seizure medication Levetiracetam, also known as Keppra,&#xD;
+             Spritam or Roweepra&#xD;
+&#xD;
+          -  MRI exclusion criteria include findings from previous MRI's within the ADRC/WRAP&#xD;
+             research program that may be responsible for neurologic status of the subject such as&#xD;
+             evidence of cerebrovascular disease with multiple infarcts, infectious disease,&#xD;
+             space-occupying lesion, normal pressure hydrocephalus, CNS trauma, or any other&#xD;
+             structural abnormality that may impact cognition or image analysis, as judged by the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  MRI-incompatible implants or devices such as certain cardiac pacemakers or&#xD;
+             defibrillators, insulin pumps, cochlear implants, metallic ocular foreign body,&#xD;
+             implanted neural stimulators, CNS aneurysm clips and other medical implants that have&#xD;
+             not been certified for MRI, or history of claustrophobia in MRI that prevents&#xD;
+             completion of MRI protocol.&#xD;
+&#xD;
+          -  Lack of decisional capacity at the time of informed consent&#xD;
+&#xD;
+          -  Lumbar puncture exclusion criteria include: previous lumbar spine surgery, currently&#xD;
+             taking blood-thinning anti-platelet medications, taking immunosuppressive medications,&#xD;
+             currently being treated or were recently treated for an infection or virus within the&#xD;
+             last 2 to 3 months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Barbara Bendlin, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Wisconsin, Madison</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mary-Elizabeth Pasquesi</last_name>
+    <phone>(608) 262-7399</phone>
+    <email>mpasquesi@wisc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Wisconsin</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary-Elizabeth Pasquesi</last_name>
+      <phone>608-262-7399</phone>
+      <email>mpasquesi@wisc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Barbara Bendlin, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Brad Christian, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sterling Johnson, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>April 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>April 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 4, 2021</study_first_posted>
+  <last_update_submitted>April 27, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 27, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 28, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

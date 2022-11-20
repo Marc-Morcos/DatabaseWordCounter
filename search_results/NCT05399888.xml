@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="948">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05399888</url>
+  </required_header>
+  <id_info>
+    <org_study_id>247AD201</org_study_id>
+    <secondary_id>2022-501644-15-00</secondary_id>
+    <nct_id>NCT05399888</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess if BIIB080 Can Change Clinical Dementia Rating-Sum of Boxes Scores, and BIIB080 Safety and Tolerability When Injected Into the Cerebrospinal Fluid of Participants With Mild Cognitive Impairment Due to Alzheimer's Disease (AD) or Mild AD Dementia Between 50 to 80 Years of Age</brief_title>
+  <acronym>CELIA</acronym>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study to Assess the Efficacy, Safety, and Tolerability of BIIB080 in Subjects With Mild Cognitive Impairment Due to Alzheimer's Disease or Mild Alzheimer's Disease Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Biogen</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Biogen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, researchers will learn more about a study drug called BIIB080. The study will&#xD;
+      focus on participants with mild cognitive impairment or mild dementia due to AD.&#xD;
+&#xD;
+      The main question researchers are trying to answer is if BIIB080 can slow the worsening of AD&#xD;
+      more than placebo. It will focus on what dose of BIIB080 slows worsening of AD the most.&#xD;
+&#xD;
+      To help answer this question, researchers will use the Clinical Dementia Rating-Sum of Boxes,&#xD;
+      also known as the CDR-SB.&#xD;
+&#xD;
+        -  Clinicians use the CDR-SB to measure several categories of dementia symptoms.&#xD;
+&#xD;
+        -  The results for each category are added together for a total score. Lower scores are&#xD;
+           better.&#xD;
+&#xD;
+      Researchers will also learn more about the safety of BIIB080.&#xD;
+&#xD;
+      A description of how the study will be done is given below.&#xD;
+&#xD;
+        -  Participants will receive either a low dose or high dose of BIIB080 or a placebo as an&#xD;
+           injection into the fluid around the spinal cord. A placebo looks like the study drug but&#xD;
+           contains no real medicine.&#xD;
+&#xD;
+        -  The fluid around the spinal cord is called the cerebrospinal fluid.&#xD;
+&#xD;
+        -  Participants will be in the study for 105 weeks, or a little over 2 years. This includes&#xD;
+           the screening and follow-up periods.&#xD;
+&#xD;
+        -  Participants will be given BIIB080 or placebo once every 12 weeks for a total of 72&#xD;
+           weeks.&#xD;
+&#xD;
+        -  Participants can continue to take certain medications for AD. Participants must be on&#xD;
+           the same dose of medication for at least 8 weeks before the screening period.&#xD;
+&#xD;
+        -  After the screening period, most participants will visit the clinic every 6 weeks.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BIIB080 is an investigational antisense therapy designed to target microtubule-associated&#xD;
+      protein tau (MAPT) mRNA and prevent production of tau protein.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 24, 2022</start_date>
+  <completion_date type="Anticipated">December 14, 2026</completion_date>
+  <primary_completion_date type="Anticipated">December 14, 2026</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-response in Change From Baseline to Week 76 on the CDR-SB</measure>
+    <time_frame>Baseline to Week 76</time_frame>
+    <description>The Clinical Dementia Rating (CDR) scale is a clinician-rated dementia staging system that tracks the progression of cognitive impairment in 6 categories (memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care). Each category is scored on a 5-point scale in which None=0, Questionable=0.5, Mild=1, Moderate=2, and Severe=3. The global CDR score is established by clinical scoring rules and has values of 0 (no dementia), 0.5, (questionable dementia), 1 (mild dementia), 2 (moderate dementia), and 3 (severe dementia). The CDR-SB is obtained by adding the ratings in each of the 6 categories and ranges from 0 to 18 with higher scores indicative of greater impairment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline to Week 76 on the CDR-SB</measure>
+    <time_frame>Baseline to Week 76</time_frame>
+    <description>The CDR scale is a clinician-rated dementia staging system that tracks the progression of cognitive impairment in 6 categories (memory, orientation, judgment and problem solving, community affairs, home and hobbies, and personal care). Each category is scored on a 5-point scale in which None=0, Questionable=0.5, Mild=1, Moderate=2, and Severe=3. The global CDR score is established by clinical scoring rules and has values of 0 (no dementia), 0.5, (questionable dementia), 1 (mild dementia), 2 (moderate dementia), and 3 (severe dementia). The CDR-SB is obtained by adding the ratings in each of the 6 categories and ranges from 0 to 18 with higher scores indicative of greater impairment. Positive change from baseline indicates clinical decline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline to Week 76 on the Alzheimer's Disease Cooperative Study Activities of Daily Living for Mild Cognitive Impairment (ADCS-ADL-MCI)</measure>
+    <time_frame>Baseline to Week 76</time_frame>
+    <description>The ADCS-ADL-MCI consists of 17 instrumental items (e.g., shopping, preparing meals, using household appliances) and 1 basic item (getting dressed). Ratings reflect caregiver observations about the participant's actual functioning and provide an assessment of change in the functional state of the participant over time. The total score ranges from 0 to 53, with lower values over time reflecting functional deterioration. Positive change from baseline indicates clinical improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline to Week 76 on the Alzheimer's Disease Assessment Scale Cognitive Subscale (ADAS-Cog 13)</measure>
+    <time_frame>Baseline to Week 76</time_frame>
+    <description>ADAS-Cog13 comprises both cognitive tasks and clinical ratings of cognitive performance. The scale items capture word recall, ability to follow commands, the ability to correctly copy or draw an image, naming, the ability to interact with everyday objects, orientation, word recognition, memory, comprehension of spoken language, word-finding, and language ability, with a measure for delayed word recall and concentration/distractibility. The total score ranges from 0 to 85. An increase in score over time indicates increasing cognitive impairment. Positive change from baseline indicates clinical decline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline to Week 76 on the Mini Mental State Examination (MMSE)</measure>
+    <time_frame>Baseline to Week 76</time_frame>
+    <description>The MMSE is a widely used performance-based test of global cognitive status. It consists of 11 tasks that assess orientation, word recall, attention and calculation, language abilities, and visuospatial functions. The scores from the 11 tests are combined to obtain the total score, which ranges from 0 to 30, with lower scores over time indicating increasing cognitive impairment. Positive change from baseline indicates clinical improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline to Week 76 on the Modified Integrated Alzheimer's Disease Rating Scale (iADRS)</measure>
+    <time_frame>Baseline to Week 76</time_frame>
+    <description>iADRS is a composite and is calculated as a linear combination of total scores of ADAS-Cog13 and Alzheimer's Disease Cooperative Study Instrumental Activities of Daily Living Inventory (ADCS-iADL) that measures cognition and daily function. ADCS-iADL is calculated from a subset of questions from ADCS-ADL. Range for ADCS-iADL is 0-59 and higher scores reflect better performance. ADAS-Cog13 comprises cognitive tasks and clinical ratings of cognitive performance. Scale items capture word recall, ability to follow commands, ability to correctly copy/draw, naming, ability to interact with everyday objects, orientation, word recognition, memory, spoken language comprehension, word-finding, and language ability, with a measure for delayed word recall and concentration/distractibility. Score ranges from 0 to 85 with higher scores reflecting cognitive impairment. iADRS score range is 0-144 and higher scores indicate greater impairment. Positive change from baseline indicates clinical decline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline to Week 76 on the Alzheimer's Disease Composite Score (ADCOMS)</measure>
+    <time_frame>Baseline to Week 76</time_frame>
+    <description>ADCOMS is a composite score comprised of ADAS-cog (4 items), MMSE (2 items) and CDR-SB (6 items). The total scores on the scale range from 0 to 1.97 with higher scores indicating greater impairment. Positive change from baseline indicates clinical decline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Treatment-Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>Up to 105 weeks</time_frame>
+    <description>An AE is any untoward medical occurrence in a patient or clinical investigation participant administered a pharmaceutical product and that does not necessarily have a causal relationship with this treatment. An AE can therefore be any unfavorable and unintended sign (including abnormal laboratory finding), symptom, or disease temporally associated with use of a medicinal (investigational) product, whether or not related to medicinal (investigational) product. TEAE is any AE that started or worsened on or after the administration of the first dose of study drug through the end of follow-up period. SAE is any untoward medical occurrence that at any dose results in death, in the view of investigator, places the participant at immediate risk of death (life-threatening event), requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, results in congenital anomaly/birth defect or is medically important event.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">735</enrollment>
+  <condition>Mild Cognitive Impairment Due to Alzheimer's Disease</condition>
+  <condition>Alzheimer's Disease Dementia</condition>
+  <arm_group>
+    <arm_group_label>Placebo Q12W</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive BIIB080-matching placebo, intrathecal (IT) injection, once on Day 1 and then once every 12 weeks (Q12W) for up to 72 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BIIB080 Low Dose Q24W</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a low dose of BIIB080, IT injection, once every 24 weeks (Q24W) from Week 1 up to 72 weeks and BIIB080-matching placebo, IT injection, once at Weeks 12, 36 and 60.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BIIB080 High Dose Q24W</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a high dose of BIIB080, IT injection, Q24W from Week 1 up to 72 weeks and BIIB080-matching placebo, IT injection, once at Weeks 12, 36 and 60.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BIIB080 High Dose Q12W</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a high dose of BIIB080, IT injection, once on Day 1 and then Q12W for up to 72 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BIIB080</intervention_name>
+    <description>Administered as specified in the treatment arm.</description>
+    <arm_group_label>BIIB080 High Dose Q12W</arm_group_label>
+    <arm_group_label>BIIB080 High Dose Q24W</arm_group_label>
+    <arm_group_label>BIIB080 Low Dose Q24W</arm_group_label>
+    <other_name>ISIS 814907</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BIIB080-matching placebo</intervention_name>
+    <description>Administered as specified in the treatment arm.</description>
+    <arm_group_label>BIIB080 High Dose Q24W</arm_group_label>
+    <arm_group_label>BIIB080 Low Dose Q24W</arm_group_label>
+    <arm_group_label>Placebo Q12W</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Must meet all the clinical staging criteria for MCI due to AD (Stage 3) or mild AD&#xD;
+             dementia (Stage 4) according to the National Institute on Aging at National Institutes&#xD;
+             of Health and the Alzheimer's Association (NIA-AA) and must have the following at&#xD;
+             Screening Visit 1:&#xD;
+&#xD;
+               1. Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)&#xD;
+                  Delayed Memory Index score of ≤85, indicative of objective evidence of memory&#xD;
+                  impairment&#xD;
+&#xD;
+               2. CDR global score of 0.5 for MCI due to AD or 0.5 or 1 for mild AD dementia&#xD;
+&#xD;
+               3. MMSE score of 22 to 30 (inclusive)&#xD;
+&#xD;
+               4. CDR Memory Box score of ≥0.5&#xD;
+&#xD;
+          -  Evidence of amyloid pathology as measured by positive emission tomography (PET) or&#xD;
+             cerebrospinal fluid (CSF) sampling&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Known allergy to BIIB080 or a history of hypersensitivity to any of the inactive&#xD;
+             ingredients in the drug product&#xD;
+&#xD;
+          -  Previous participation in this study or previous studies with BIIB080&#xD;
+&#xD;
+          -  Use of non-disease-modifying AD medications (including but not limited to donepezil,&#xD;
+             rivastigmine, galantamine, tacrine, and memantine) at doses that have not been stable&#xD;
+             for at least 8 weeks prior to Screening Visit 1 and during the screening period up to&#xD;
+             Study Day 1&#xD;
+&#xD;
+          -  Prior participation in any active or passive immunotherapy study targeting Aβ, unless&#xD;
+             documentation of receipt of placebo is available&#xD;
+&#xD;
+          -  Prior participation in any passive immunotherapy study targeting tau, unless the last&#xD;
+             administration occurred 6 months or 5 half-lives, whichever is sooner, prior to&#xD;
+             Screening or documentation of receipt of placebo is available&#xD;
+&#xD;
+          -  Participation in any study involving an investigational treatment targeting tau that&#xD;
+             is not an immunotherapy, unless documentation of receipt of placebo is available&#xD;
+&#xD;
+          -  Participation in a study of any other agent(s) [including gene therapy] not included&#xD;
+             in exclusion criteria 4, 5, and 6 with a purported disease-modifying effect in AD,&#xD;
+             unless documentation of receipt of placebo is available&#xD;
+&#xD;
+          -  Current use or previous use of medications with a purported disease-modifying effect&#xD;
+             in AD, outside of investigational studies&#xD;
+&#xD;
+          -  Any vaccination given within 10 days prior to Day -1. Coronavirus disease 2019&#xD;
+             (COVID-19) vaccinations using RNA or deoxyribonucleic acid (DNA) technology are&#xD;
+             allowed during the study, as well as other types of immunization/vaccination/booster,&#xD;
+             except during the 10 days before and after clinic visits&#xD;
+&#xD;
+          -  Contraindications to having a brain magnetic resonance imaging (MRI) [e.g.,&#xD;
+             MRI-incompatible pacemaker; MRI-incompatible aneurysm clips, artificial heart valves,&#xD;
+             or other metal foreign body; claustrophobia that cannot be medically managed]. If the&#xD;
+             MRI compatibility of implanted devices is unknown, the participant must be excluded&#xD;
+             from the study&#xD;
+&#xD;
+          -  Current enrollment or a plan to enroll in any interventional clinical study in which&#xD;
+             an investigational treatment or approved therapy for investigational use is&#xD;
+             administered within 52 weeks prior to the Baseline Visit&#xD;
+&#xD;
+        NOTE: Other protocol defined Inclusion/Exclusion criteria may apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Biogen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>US Biogen Clinical Trial Center</last_name>
+    <phone>866-633-4636</phone>
+    <email>clinicaltrials@biogen.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Global Biogen Clinical Trial Center</last_name>
+    <email>clinicaltrials@biogen.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>K2 Medical Research, LLC</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>407-670-5833</phone>
+    </contact>
+    <investigator>
+      <last_name>Sheila Baez-Torres</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AMC Research, LLC</name>
+      <address>
+        <city>Matthews</city>
+        <state>North Carolina</state>
+        <zip>28105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Butler Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Neurology Consultants of Dallas, PA</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kingfisher Cooperative, LLC</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>509-747-5615</phone>
+    </contact>
+    <investigator>
+      <last_name>David Greeley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>May 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 27, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 1, 2022</study_first_posted>
+  <last_update_submitted>October 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>In accordance with Biogen's Clinical Trial Transparency and Data Sharing Policy on http://clinicalresearch.biogen.com/</ipd_description>
+    <ipd_url>https://vivli.org</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

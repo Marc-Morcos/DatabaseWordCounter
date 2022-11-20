@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="614">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04823819</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RNN/246/20/KE</org_study_id>
+    <nct_id>NCT04823819</nct_id>
+  </id_info>
+  <brief_title>Assessment of Effectiveness and Safety of Transcranial Magnetic Stimulation (rTMS) Combined With Transcranial Direct Current Stimulation (tDCS) in Dementia Treatment in Alzheimer's Disease</brief_title>
+  <official_title>Assessment of Effectiveness and Safety of Transcranial Magnetic Stimulation (rTMS) Combined With Transcranial Direct Current Stimulation (tDCS) in Dementia Treatment in Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Lodz</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of Lodz</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease is the most common disease responsible for dementia, accounting for&#xD;
+      40-70% of all dementia cases. Alzheimer's disease is characterized by a gradual and slow&#xD;
+      decline in memory and other cognitive functions and activities.&#xD;
+&#xD;
+      The medications currently used in Alzheimer's disease were introduced in the 1990s and&#xD;
+      exhibit insufficient effectiveness. Despite their use, the disease rapidly progresses,&#xD;
+      leading to complete loss of independence and death. There are conducted numerous studies on&#xD;
+      new molecules, however none of them has been successfully accomplished so far. Transcranial&#xD;
+      magnetic stimulation (TMS) is one of the youngest electrophysiological methods, enabling&#xD;
+      non-invasive and painless stimulation of the central and peripheral nervous system. Another&#xD;
+      non-invasible neurophysiological method that is utilized in treating patients with&#xD;
+      neurological dysfunctions and mental disorders is Transcranial direct current stimulation&#xD;
+      (tDCS). Clinical trials conducted with isolated usage of rTMS and tDCS showed a positive&#xD;
+      effect of these methods on the enhancement of cognitive functions in patients with&#xD;
+      Alzheimer's disease.&#xD;
+&#xD;
+      The aim of the project is to evaluate the effectiveness and safety of the combination of&#xD;
+      Repetitive Transcranial Magnetic Resonance (rTMS) with Transcranial direct current&#xD;
+      stimulation in the treatment of Alzheimer's dementia. The primary goal of the project is to&#xD;
+      assess whether the use of combined tDCS and rTMS therapies in patients diagnosed with mild to&#xD;
+      moderate Alzheimer's disease improves patients' cognitive functions, including memory,&#xD;
+      attention, thinking, executive and language functions. The research hypothesis assumes that&#xD;
+      the combination of rTMS and tDCS therapy is an effective method of Alzheimer's disease&#xD;
+      therapy that can improve cognitive functions and functioning of patients, both in the short&#xD;
+      and long term.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MMSE Scale</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Assessment conducted on baseline, up to 1 week after end of the procedure and after 12 weeks.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ADAS-Cog Scale</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Assessment conducted on baseline, up to 1 week after end of the procedure and after 12 weeks.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>NPI Scale</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Assessment conducted on baseline, up to 1 week after end of the procedure and after 12 weeks.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ADCS</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Assessment conducted on baseline, up to 1 week after end of the procedure and after 12 weeks.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GDS</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Assessment conducted on baseline, up to 1 week after end of the procedure and after 12 weeks.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Zarit Burden Interview</measure>
+    <time_frame>up to 12 weeks</time_frame>
+    <description>Assessment conducted on baseline, up to 1 week after end of the procedure and after 12 weeks.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>rTMS stimulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>20 sessions of stimulation with increasing intensity, reaching maximum in the 4th session.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>tDCS stimulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The stimulation time will be 20 minutes, the current intensity will be 2mA.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham rTMS stimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>20 sessions of stimulation, but without current.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham tDCS stimulation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>The stimulation time will be 20 minutes, but without current.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Magnetic Stimulator DuoMag</intervention_name>
+    <description>Stimulation of the left dorsolateral prefrontal cortex</description>
+    <arm_group_label>Sham rTMS stimulation</arm_group_label>
+    <arm_group_label>rTMS stimulation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>neuroConn DC-STIMULATOR</intervention_name>
+    <description>One electrode (anode) will be placed on the left dorsolateral prefrontal cortex, the other (cathode) on the right temporal lobe.</description>
+    <arm_group_label>Sham tDCS stimulation</arm_group_label>
+    <arm_group_label>tDCS stimulation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with mild to moderate dementia in Alzheimer's disease, diagnosed using DSM-5&#xD;
+             criteria.&#xD;
+&#xD;
+          -  MMSE score from 12 to 26 points&#xD;
+&#xD;
+          -  ADAS-Cog over 17 points&#xD;
+&#xD;
+          -  Voluntary consent to participate in the study&#xD;
+&#xD;
+          -  there is a related person or legal guardian who consented to assist the patient in the&#xD;
+             course of the study&#xD;
+&#xD;
+          -  Minimum 8 years of education.&#xD;
+&#xD;
+          -  It is allowed to use cholinesterase inhibitors and / or memantine for at least 3&#xD;
+             months prior to study entry and at a stable dose for at least 60 days prior to study&#xD;
+             entry.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe agitation&#xD;
+&#xD;
+          -  Intellectual Disability&#xD;
+&#xD;
+          -  Informed consent is not possible&#xD;
+&#xD;
+          -  Unstable somatic condition&#xD;
+&#xD;
+          -  Use of benzodiazepines or barbiturates 2 weeks prior to screening&#xD;
+&#xD;
+          -  Participation in a clinical trial with coinciding factors within 6 months prior to the&#xD;
+             start of the trial&#xD;
+&#xD;
+          -  Seizures&#xD;
+&#xD;
+          -  Contraindications to rTMS treatment according to the rTMS questionnaire attached to&#xD;
+             the protocol&#xD;
+&#xD;
+          -  Contraindications to tDCS treatment according to the tDCS questionnaire attached to&#xD;
+             the protocol&#xD;
+&#xD;
+          -  Patients with depression, bipolar, or psychotic disorders, or any other neurological&#xD;
+             or psychiatric condition (current or past) that the Investigator considers to be&#xD;
+             interfering with the study&#xD;
+&#xD;
+          -  Alcoholism or drug addiction as defined by DSM-5 in the last 5 years (addicted for&#xD;
+             more than a year and or in remission for less than 3 years)&#xD;
+&#xD;
+          -  Patients with any medical condition that the Investigator considers to be an exclusion&#xD;
+             criterion from the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jakub Kazmierski, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Lodz, Poland</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Emilia Frankowska</last_name>
+    <phone>0048781927677</phone>
+    <email>emilia.mielczarek1@stud.umed.lodz.pl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Old Age Psychiatry and Psychotic Disorders Medical University of Lodz</name>
+      <address>
+        <city>Lodz</city>
+        <zip>92-213</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emilia Frankowska, MD</last_name>
+      <phone>0048781927677</phone>
+      <email>emilia.mielczarek1@stud.umed.lodz.pl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jakub Kaźmierski, PhD</last_name>
+      <phone>0048426757232</phone>
+      <email>jakub.kazmierski@umed.lodz.pl</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>March 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>March 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2021</study_first_posted>
+  <last_update_submitted>May 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Lodz</investigator_affiliation>
+    <investigator_full_name>Jakub Kazmierski</investigator_full_name>
+    <investigator_title>PhD</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

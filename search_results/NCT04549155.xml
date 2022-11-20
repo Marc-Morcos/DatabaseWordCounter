@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1954">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04549155</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00106545</org_study_id>
+    <nct_id>NCT04549155</nct_id>
+  </id_info>
+  <brief_title>Network-guided TMS in Early Alzheimer's Disease</brief_title>
+  <acronym>NetTMS</acronym>
+  <official_title>Using Network-guided TMS to Ameliorate Memory Deficits in Early Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The proposed research will test a novel network-based neurostimulation approach using&#xD;
+      MRI-derived measures of brain connectivity to establish target sites for neurostimulation and&#xD;
+      test for the enhancement of memory function beyond a sham stimulation condition. This will be&#xD;
+      tested in cohort of MCI adults using network-based transcranial magnetic stimulation (TMS) to&#xD;
+      assess for behavioral improvement due to the controlled intervention. This study will provide&#xD;
+      important evidence towards the efficacy of neuromodulatory treatments for memory decline and&#xD;
+      will accelerate the discovery of potent non-invasive treatments to remediate cognitive&#xD;
+      decline in cognitively impaired older adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Dementia due to Alzheimer's disease (AD) is a leading public health concern in the US with&#xD;
+      tremendous care costs and no effective pharmacotherapy despite multiple clinical trials.&#xD;
+      Numerous studies have shown mild cognitive impairment (MCI) to be a precursor to AD and&#xD;
+      potentially amenable to nonpharmacological intervention. Transcranial magnetic stimulation&#xD;
+      (TMS) is a promising non-invasive therapeutic approach that has been shown to increase brain&#xD;
+      plasticity and enhance cognitive functions that are impaired across the AD spectrum. Yet,&#xD;
+      while TMS has shown benefits in normative populations, there is still a need to show efficacy&#xD;
+      in AD-related populations.&#xD;
+&#xD;
+      Most previous neurostimulation research on AD and MCI has focused on effects of stimulation&#xD;
+      at one brain region, however the cognitive processes underlying successful memory are&#xD;
+      mediated by a complex whole-brain network. Neurostimulation affects multiple sites within a&#xD;
+      cortical network, but these more global effects have not been used as targets for stimulation&#xD;
+      because of limited knowledge about what influence of a single site on more widespread&#xD;
+      cortical changes. The novelty of the current proposal is that the investigators use&#xD;
+      information about the network control structure of the affected brain areas by considering&#xD;
+      the influence of neuromodulation on global changes in brain state or connectivity and the&#xD;
+      underlying vascular changes mediating long-term consequences for behavior. This network-based&#xD;
+      TMS is informed by functional connectivity and neurovascular as mediators of the behavioral&#xD;
+      response as a means to specifically tailor the TMS treatment to the neuropathology of each&#xD;
+      MCI patient, thus individualizing the treatment to achieve better therapeutic effects.&#xD;
+&#xD;
+      To address this problem, the investigators will use multimodal neuroimaging and network&#xD;
+      modeling during an episodic memory task to demonstrate how focal neurostimulation evokes&#xD;
+      changes in neural function and behavior in MCI. These goals will be addressed in two specific&#xD;
+      aims. First, the investigators will use network-based TMS to optimize the activation of a&#xD;
+      memory success network (MSN) in a group of MCI patients, targeting a TMS site that focused on&#xD;
+      the controllability of a stimulation site to provide the maximum benefit to memory&#xD;
+      performance. Second, the study team will assess longitudinal change in structural and&#xD;
+      neurovascular factors affecting the efficacy of individualized network-based TMS across&#xD;
+      multiple sessions of concurrent TMS-fMRI. By creating a multimodal model of these&#xD;
+      neurovascular deficits related to MCI, the investigators will systematically adjust&#xD;
+      network-based TMS to demonstrate how the MCI brain might compensate for these neural&#xD;
+      deficits. The proposed work will be the first of its kind to estimate the utility of network&#xD;
+      controllability as a TMS target for memory enhancement in AD-related syndromes, and the first&#xD;
+      to assess the short-term neuroplastic effects of neuromodulation in such rich detail. The&#xD;
+      knowledge gained by this project may therefore lead to novel and innovative biometrics for&#xD;
+      gauging pharmacological and nonpharmacological treatment response or for targeted and&#xD;
+      enriched clinical trials in AD and related disorders.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 8, 2022</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>The study has two Aims, and thus two models. For Aim 1, the primary outcome measure is the difference in memory accuracy between TMS conditions, based on a mixed-effects design consisting of 4 repeated measurements per subject (2 memory conditions [successful, unsuccessful] x 2 TMS targeting [network-based, standard]).&#xD;
+For Aim 2, the primary outcome measure comprises longitudinal changes in both memory performance, as well as brain imaging measures of functional and structural connectivity, and neurovascular change. For the behavioral estimates, we analyze the TMS Condition x Session interaction, which comprised 4 sessions of TMS with longitudinal estimates of behavior in 30 older adults.</intervention_model_description>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Episodic Memory Task Performance (accuracy and response time)</measure>
+    <time_frame>Baseline + 2 followup sessions on subsequent days (Day 1, Day 2, Day 3)</time_frame>
+    <description>The primary outcome measure is the difference in memory accuracy between TMS conditions (active vs. sham) on a word memory task. We will rely on a validated EM task that has shown (1) reliable activation of the Memory Success Network (MSN), and (2) reliable deficits in MCIs. During each block of the Encoding phase, participants read a list of 120 English words and perform a domain judgement (living/nonliving) during both network-based and standard TMS targets. Active and sham TMS trials are intermixed within a block. During the Retrieval phase (post-scan), participants perform a recognition memory task including a mix of old words and new words, and memory is then subsequently assessed as a function of Targeting and TMS condition.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in neurovascular reactivity, as measured by resting-state fluctuations in activity (RSFA)</measure>
+    <time_frame>During 3 followup sessions (Day 2, Day 3, Day 4)</time_frame>
+    <description>Our measure of neurovascular reactivity, resting-state fluctuations in activity (RSFA) is collected during resting- state fMRI scans, in absence of any explicit cognitive task.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in structural connectivity, as measured by fractional anisotropy (FA)</measure>
+    <time_frame>During 3 followup sessions (Day 2, Day 3, Day 4)</time_frame>
+    <description>Diffusion-weighted imaging data will be used to generate connectomes representing structural connections between all cortical regions in the Harvard-Oxford Atlas. For structural connection matrices, network edges are defined by the number of tractography streamlines between each pair of nodes.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Mild Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>Network-guided TMS</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study comprises one arm of five sessions. In Day 1 (~1.5 hr session), participants fill forms, complete a neuropsychological test battery (NIH Toolbox, NACC UDS, BDI), and provide a saliva sample to be banked for future APOE genotype determination. On Day 2 (~1 hr session), subjects will perform an initial MRI scanning session. In this session, MRI, RSFA, DWI, and fMRI are collected so they can be used for network-based targeting. In Days 3-5 (each comprising a ~2.5 hr session) a few days later participants will undergo combined TMS-fMRI sessions. In the scanner, participants complete four fMRI runs: 2 runs using either a network-based or standard target location, counterbalanced across participants. Active and Sham TMS trials are intermixed within each run.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transcranial Magnetic Stimulation</intervention_name>
+    <description>Transcranial magnetic stimulation (TMS) is a noninvasive procedure that uses magnetic fields to stimulate nerve cells in the brain to improve a variety of cognitive conditions, and to probe the dynamics of normal brain function.</description>
+    <arm_group_label>Network-guided TMS</arm_group_label>
+    <other_name>TMS, rTMS</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Elderly: age between 55-80&#xD;
+&#xD;
+          -  English speaking&#xD;
+&#xD;
+          -  Willing to provide consent&#xD;
+&#xD;
+          -  Signed HIPAA authorization&#xD;
+&#xD;
+          -  Use of effective method of birth control for women of childbearing capacity&#xD;
+&#xD;
+          -  Clinical Consensus for MCI&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of any Axis I DSM-IV disorder&#xD;
+&#xD;
+          -  Current or past history of substance abuse or dependence (excluding nicotine)&#xD;
+&#xD;
+          -  Women who are pregnant or breast feeding&#xD;
+&#xD;
+          -  Intracranial implants (e.g. aneurysms clips, shunts, stimulators, cochlear implants,&#xD;
+             or electrodes), cardiac pacemakers, or vagus Nerve stimulation device&#xD;
+&#xD;
+          -  Increased risk of seizure for any reason, including prior diagnosis of epilepsy,&#xD;
+             seizure disorder, increased intracranial pressure, or history of significant head&#xD;
+             trauma with loss of consciousness for ≥ 30 minutes.&#xD;
+&#xD;
+          -  Neurological disorder including, but not limited to: space occupying brain lesion; any&#xD;
+             history of seizures, history of cerebrovascular accident; fainting, cerebral aneurysm,&#xD;
+&#xD;
+          -  Dementia, Hungtington chorea; Multiple Sclerosis.&#xD;
+&#xD;
+          -  Current use of medications known to lower the seizure threshold and/or affect working&#xD;
+             memory&#xD;
+&#xD;
+          -  Current or past history of substance abuse or dependence (excluding nicotine)&#xD;
+&#xD;
+          -  Women who are pregnant or breast feeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>55 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Simon W Davis, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Simon W Davis, PhD</last_name>
+    <phone>9196841243</phone>
+    <email>simon.davis@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Margaret McAllister, BA</last_name>
+    <phone>828-371-0480</phone>
+    <email>margaret.mcallister@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 16, 2020</study_first_posted>
+  <last_update_submitted>June 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 6, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

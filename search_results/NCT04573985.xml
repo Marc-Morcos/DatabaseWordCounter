@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2030">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04573985</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-AOI-09</org_study_id>
+    <nct_id>NCT04573985</nct_id>
+  </id_info>
+  <brief_title>Impact of the Eurékoi Serious Game on Family Caregivers of Patients With a Major Neurocognitive Disorder</brief_title>
+  <official_title>Impact of the Eurékoi Serious Game on Family Caregivers of Patients With a Major Neurocognitive Disorder</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nice</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nice</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to assess the effectiveness of serious EUREKOI gambling on the anxiety of&#xD;
+      family caregivers of patients with newly diagnosed Alzheimer's disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Recruiting</last_known_status>
+  <start_date type="Actual">September 23, 2020</start_date>
+  <completion_date type="Anticipated">August 23, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 23, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacity of the serious game Eurekoi on anxiety of familial caregiver of patient with Alzheimer Disease</measure>
+    <time_frame>3 months</time_frame>
+    <description>Auto-evaluation of anxiety using Spielberger inventory (score between 20 and 80 ; the higher the score, the greater the anxiety)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change of knowledge of familial caregiver about cognitive troubles</measure>
+    <time_frame>3 months</time_frame>
+    <description>Multiple choice questionary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate satisfaction of the familial caregivers about the session with the game EUREKOI</measure>
+    <time_frame>3 months</time_frame>
+    <description>questionary of satisfaction</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Family Caregiver of Patient With Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Serious Game Eurekoi intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 session in group using the serious game eurekoi</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>no intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Serious game Eurekoi intervention</intervention_name>
+    <description>1 session in group using the serious game eurekoi</description>
+    <arm_group_label>Serious Game Eurekoi intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men or women over 18 years old;&#xD;
+&#xD;
+          -  Primary caregiver of a patient with a mild-stage major neurocognitive disorder newly&#xD;
+             diagnosed according to the DSM 5 criteria;&#xD;
+&#xD;
+          -  Signature of informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject not speaking French, not reading French&#xD;
+&#xD;
+          -  Subject with visual impairment&#xD;
+&#xD;
+          -  Subject under tutorship or curatorship.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Philippe ROBERT, PU-PH</last_name>
+    <phone>0492034762</phone>
+    <email>robert.ph@chu-nice.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julie BROUSSE</last_name>
+    <phone>0492034762</phone>
+    <phone_ext>0033</phone_ext>
+    <email>brousse.j@chu-nice.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU de Nice</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philippe ROBERT</last_name>
+      <email>robert.ph@chu-nice.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>September 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2020</study_first_posted>
+  <last_update_submitted>October 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

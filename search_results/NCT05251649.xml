@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="188">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05251649</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ChinaPLAGH_LY</org_study_id>
+    <nct_id>NCT05251649</nct_id>
+  </id_info>
+  <brief_title>Transcranial Alternating Current Stimulation Combined With 40Hz Sound Stimulation for Treatment Alzheimer's Disease</brief_title>
+  <official_title>Transcranial Alternating Current Stimulation Combined With 40Hz Sound Stimulation for Treatment of Mild to Moderate Alzheimer's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese PLA General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese PLA General Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Alzheimer's disease is characterized by progressive cognitive decline, and cognition is&#xD;
+      associated with cerebral concussion. Previous studies have found reduced gamma energy in the&#xD;
+      brain of AD patients. Therefore, modulation of gamma activity in AD patients may help improve&#xD;
+      cognitive function.&#xD;
+&#xD;
+      The purpose of this study was to investigate the safety and tolerability of transcranial&#xD;
+      alternating current stimulation (tACS) combined with 40Hz sound stimulation in patients with&#xD;
+      mild to moderate Alzheimer's disease (AD); to compare the effects of tACS combined with sound&#xD;
+      stimulation, tACS, and 40Hz sound stimulation on cognition in AD patients; and the effects of&#xD;
+      tACS combined with sound stimulation, tACS, and 40Hz sound stimulation on brain network&#xD;
+      connectivity in AD patients before and after tACS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The number of people with Alzheimer's disease is increasing every year, but the available&#xD;
+      drugs are not effective. Both transcranial alternating current stimulation (tACS) and sound&#xD;
+      stimulation are non-invasive methods to modulate Central Nervous System excitability. tACS&#xD;
+      has been shown to modulate cognitive processes by affecting intrinsic oscillatory&#xD;
+      manipulation and entrainment in the brain. And 40 Hz sound stimulation reduces Aβ amyloid&#xD;
+      deposition in the hippocampus of AD mice.&#xD;
+&#xD;
+      Sixty patients with mild-to-moderate AD will be recruited in this randomized, double-blind,&#xD;
+      controlled study. The researchers will evaluate whether tACS (40Hz) to the DLPFC region or&#xD;
+      40Hz sound stimulation to both ears improves cognition in patients with mild to moderate AD.&#xD;
+      The study will also investigate which stimulation method has a more pronounced and sustained&#xD;
+      improvement in cognition in the following three groups of patients.&#xD;
+&#xD;
+      Subjects will be randomized into three groups, with the first group receiving tACS combined&#xD;
+      with sound stimulation, the second group receiving tACS alone, and the third group receiving&#xD;
+      sound stimulation alone. All will receive three weeks (15 sessions) of treatment. Patients&#xD;
+      will be assessed by neuropsychological testing at baseline, post-treatment (21 days) and at&#xD;
+      the 3-month follow-up. Subjects will be compared by functional MRI at baseline and&#xD;
+      post-treatment for brain network connectivity before and after treatment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 23, 2021</start_date>
+  <completion_date type="Anticipated">January 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Alzheimer's Disease Assessment Scale cognitive subscale scores</measure>
+    <time_frame>up to 21 days (end of intervention) ,3 months</time_frame>
+    <description>ADAS-cog 11 scale ranges from 0 to 70, and higher value represents a worse outcome. This study will use ADAS-cog to assess changes in the global cognitive function after intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Montreal Cognitive Assessment scores</measure>
+    <time_frame>up to 21 days (end of intervention) ,3 months</time_frame>
+    <description>Montreal Cognitive Assessment (MoCA) will be used to evaluate the general cognitive function. MoCA ranges from 0 to 30, and higher value represents a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Mini-mental State Examination scores</measure>
+    <time_frame>up to 21 days (end of intervention) ,3 months</time_frame>
+    <description>Mini-mental State Examination (MMSE) will be used to evaluate the general cognitive function. MMSE ranges from 0 to 30, and higher value represents a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Clinical Dementia Rating scores</measure>
+    <time_frame>up to 21 days (end of intervention) ,3 months</time_frame>
+    <description>Clinical Dementia Rating(CDR) will be used to evaluate the level of dementia in AD patients. Mild dementia CDR: 1.0; Moderate dementia CDR: 2.0; Severe dementia CDR: 3.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Auditory Verbal Learning Test scores</measure>
+    <time_frame>up to 21 days (end of intervention) ,3 months</time_frame>
+    <description>auditory verbal learning test（AVLT）will be used to evaluate the memory function. AVLT ranges from 0 to 36, and higher values representing better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Boston Naming Test scores</measure>
+    <time_frame>up to 21 days (end of intervention), 3 months</time_frame>
+    <description>Boston Naming Test（BNT-30） will be used to assess language function. It ranges from 0 to 30, and higher value represents a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neuropsychiatric Inventory (NPI) scores</measure>
+    <time_frame>up to 21 days (end of intervention), 3 months</time_frame>
+    <description>The Neuropsychiatric Inventory will be used to measure neuropsychiatric symptoms. It ranges from 0 to 144, and higher value represents a worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Activities of Daily Living scores</measure>
+    <time_frame>up to 21 days (end of intervention), 3 months</time_frame>
+    <description>Activities of Daily Living (ADL) scale will be used to assess the change of life quality. It ranges from 20 to 80. The &quot;20&quot; represents normal life ability and the higher score presents the worse life ability.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Magnetic Resonance Imaging performance</measure>
+    <time_frame>up to 21 days (end of intervention), 3 months</time_frame>
+    <description>Function Magnetic Resonance Imaging (fMRI) will be used to measure changes in brain connectivity；Structural Magnetic Resonance Imaging (sMRI) will be used to measures structural changes in the brain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of tACS Adverse events</measure>
+    <time_frame>up to 21 days (end of intervention), 3 months</time_frame>
+    <description>Adverse Events as a result of tACS stimulation will be reported.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>tACS combined with 40 Hz sound stimulation group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 daily (Monday-Friday) 20min sessions of tACS combined with 40 Hz sound stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>tACS group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 daily (Monday-Friday) 20min sessions of tACS stimulation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>40 Hz sound stimulation group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 daily (Monday-Friday) 20min sessions of 40 Hz sound stimulation</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>tACS combined with 40 Hz sound stimulation</intervention_name>
+    <description>The tACS instrument (model: XPNS208-B). Two electrodes are placed in the dorsolateral prefrontal cortex and the contralateral supraorbital area. and connected to the tACS device via a thin cable. The intervention will be performed using tACS (40 Hz, 1.5 mA) for 15 sessions of 20 min over 3 weeks (21 days).&#xD;
+Sound stimulation apparatus: Two sponge earplugs were placed in the ears and the sound stimulator was set to (40Hz, 60dB). Sound stimulation was turned on simultaneously at the beginning of tACS. The duration of sound stimulation was set to 5 min stimulation, 5 min rest, 5 min stimulation, 1 min rest, and continued stimulation until the end of electrical stimulation while sound stimulation was turned off.</description>
+    <arm_group_label>tACS combined with 40 Hz sound stimulation group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Transcranial alternating current stimulation</intervention_name>
+    <description>The tACS instrument (model: XPNS208-B). Two electrodes are placed in the dorsolateral prefrontal cortex and the contralateral supraorbital area. and connected to the tACS device via a thin cable. The intervention will be performed using tACS (40 Hz, 1.5 mA) for 15 sessions of 20 min over 3 weeks (21 days).</description>
+    <arm_group_label>tACS group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>40 Hz sound stimulation</intervention_name>
+    <description>Sound stimulation apparatus: Two sponge earplugs were placed in the ears and the sound stimulator was set to (40Hz, 60dB). The duration of the sound stimulation was set to stimulate for 5 min, rest for 5 min, stimulate for 5 min, rest for 1 min, and last for a total of 20 min. 15 sessions of 20 min were performed over a period of 3 weeks (21 days).</description>
+    <arm_group_label>40 Hz sound stimulation group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 40-80 years, male or female;&#xD;
+&#xD;
+          2. Meet the diagnosis AD formulated by the National Institute on Aging and the&#xD;
+             Alzheimer's Association (NIA-AA) dementia diagnostic criteria;&#xD;
+&#xD;
+          3. Clinical Dementia Rating Scale (CDR) =1.0 or 2.0;&#xD;
+&#xD;
+          4. MMSE score ≤ 24;&#xD;
+&#xD;
+          5. Able to move freely or with the aid of a walker or crutches;&#xD;
+&#xD;
+          6. Good vision and hearing, able to cooperate with examination and treatment;&#xD;
+&#xD;
+          7. Subjects voluntarily joined and had a guardian to sign the informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. The presence of preoperative structural brain abnormalities (such as tumors, cerebral&#xD;
+             infarction, hydrocephalus or intracranial hemorrhage);&#xD;
+&#xD;
+          2. The presence of other neurological disorders such as multiple sclerosis, epilepsy,&#xD;
+             Parkinson's disease, etc;&#xD;
+&#xD;
+          3. Psychiatric system disorders: such as anxiety disorders, affective disorders such as&#xD;
+             depression, or pharmacogenic psychiatric disorders;&#xD;
+&#xD;
+          4. Severe medical illness, current use of respiratory medications, cardiovascular&#xD;
+             medications, anticonvulsants or psychoactive drugs and clinically significant&#xD;
+             gastrointestinal, renal, hepatic, respiratory, infectious, endocrine or cardiovascular&#xD;
+             disease, cancer, alcoholism or drug addiction;&#xD;
+&#xD;
+          5. Severe hearing and visual impairment;&#xD;
+&#xD;
+          6. Patients with clinical comorbidities with a life expectancy of less than 2 years;&#xD;
+&#xD;
+          7. Patients who have undergone cranial surgery;&#xD;
+&#xD;
+          8. Contraindications to undergoing magnetic resonance imaging or receiving transcranial&#xD;
+             alternating current stimulation (pacemakers, post DBS surgery);&#xD;
+&#xD;
+          9. Eczema or sensitive skin;&#xD;
+&#xD;
+         10. Familial Alzheimer's disease;&#xD;
+&#xD;
+         11. Presence of other types of dementia: vascular dementia, Lewy body dementia,&#xD;
+             frontotemporal dementia, infectious dementia, etc;&#xD;
+&#xD;
+         12. Other conditions that, in the opinion of the investigator, may not be suitable for&#xD;
+             this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zhiqi Mao, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Chinese PLA General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zhiqi Mao, Ph.D</last_name>
+    <phone>8618910155994</phone>
+    <email>markmaoqi@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Chinese PLA General Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <zip>100853</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zhiqi Mao, Ph.D</last_name>
+      <phone>8618910155994</phone>
+      <email>markmaoqi@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Zhiqi Mao, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>January 19, 2022</study_first_submitted>
+  <study_first_submitted_qc>February 22, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 23, 2022</study_first_posted>
+  <last_update_submitted>February 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese PLA General Hospital</investigator_affiliation>
+    <investigator_full_name>Zhiqi Mao</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

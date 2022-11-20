@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="357">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03902548</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JH-147896</org_study_id>
+    <nct_id>NCT03902548</nct_id>
+  </id_info>
+  <brief_title>Initial Investigation of [18F]P16-129 in Alzheimer's Disease Patients and Healthy Volunteers</brief_title>
+  <official_title>A Positron Emission Tomography (PET) Study to Compare the [18F]P16-129 and [18F]Florbetapir for Investigations of Amyloid β Pathology in Subjects With Alzheimer's Disease and Investigate the Biokinetics, Radiation Dosimetry, and Safety of [18F]P16-129 in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Five Eleven Pharma, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Five Eleven Pharma, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates the initial safety profile of [18F]P16-129 in healthy volunteers&#xD;
+      including dosimetry determination, and compares the uptake and kinetics of [18F]P16-129 with&#xD;
+      the FDA approved drug [18F]florbetapir in the brains of Alzheimer's disease patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 21, 2018</start_date>
+  <completion_date type="Actual">November 2, 2019</completion_date>
+  <primary_completion_date type="Actual">November 2, 2019</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Regional brain uptake of [18F]P16-129 and [18F]florbetapir</measure>
+    <time_frame>30 - 90 minutes post injection</time_frame>
+    <description>Quantitative estimates of amyloid distribution in brain - SUV and SUVR</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cumulative organ [18F]P16-129 activity for estimates of radiation absorbed dose and effective dose</measure>
+    <time_frame>0 - 240 min post injection</time_frame>
+    <description>dosimetry</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">14</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Brain uptake and kinetics in Alzheimer's patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dosimetry in healthy volunteers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]P16-129</intervention_name>
+    <description>Injection of &lt; 10 mCi [18F]P16-129 followed by PET/CT scanning</description>
+    <arm_group_label>Brain uptake and kinetics in Alzheimer's patients</arm_group_label>
+    <arm_group_label>Dosimetry in healthy volunteers</arm_group_label>
+    <other_name>[18F]D3FSP</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Part I - Brain uptake in Alzheimer's patients&#xD;
+&#xD;
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Signed and dated written informed consent. Capacity for consent will be determined&#xD;
+             using the Alzheimer's Association Guidelines, developed at Johns Hopkins and described&#xD;
+             in Alzheimer's Association&#xD;
+&#xD;
+             Consensus Recommendation: Research consent for cognitively impaired adults:&#xD;
+&#xD;
+             Guidelines for Institutional Review Boards and Investigators (Alzheimer's Association&#xD;
+             2004).&#xD;
+&#xD;
+          2. Have a study partner able to accompany the subject to all visits and answer questions&#xD;
+             about the subject.&#xD;
+&#xD;
+          3. Male or female, &gt; 50 years of age&#xD;
+&#xD;
+          4. Have a diagnosis of probable AD, according to the National Institute of Neurological&#xD;
+             and Communicative Disorders and Stroke/Alzheimer's Disease and Related Disorders&#xD;
+             Association criteria&#xD;
+&#xD;
+          5. The patient has a Mini Mental State Examination (MMSE) score at screening of at least&#xD;
+             15 and no greater than 26.&#xD;
+&#xD;
+          6. Female patients must have had her last natural menstruation at least ≥24 months prior&#xD;
+             to the Screening Visit or have been surgically sterilized prior to the Screening&#xD;
+             Visit. Male patients must use two methods of contraception in combination if his&#xD;
+             female partner is of childbearing potential; OR have been surgically sterilized prior&#xD;
+             to the Screening Visit.&#xD;
+&#xD;
+          7. In the opinion of the investigator based on medical history and physical examination,&#xD;
+             can safely tolerate tracer administration and the scanning procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History or presence of a significant neurological diagnosis (other than AD) that may&#xD;
+             influence the outcome or analysis of the scan results; examples include but are not&#xD;
+             limited to stroke, traumatic brain injury, space occupying lesions, major head trauma,&#xD;
+             and Parkinson's disease.&#xD;
+&#xD;
+          2. History or presence of any clinically relevant hematological, hepatic, respiratory,&#xD;
+             cardiovascular, renal, metabolic, endocrine, or CNS disease or other medical&#xD;
+             conditions that are not well controlled, may put the subject at risk, could interfere&#xD;
+             with the objectives of the study, or make the subject unsuitable for participation in&#xD;
+             the study for any other reason in the opinion of the principal investigator.&#xD;
+&#xD;
+          3. The patient has a history of seizures, with the exception of childhood febrile&#xD;
+             seizures.&#xD;
+&#xD;
+          4. History of positive HIV, hepatitis B surface antigen (HBsAg), or hepatitis C virus /&#xD;
+             antibodies (anti-HCV)&#xD;
+&#xD;
+          5. Clinically relevant pathological findings in physical examination, ECG, vital signs,&#xD;
+             or laboratory values at the screening assessment that could interfere with the&#xD;
+             objectives of the study.&#xD;
+&#xD;
+          6. Have current clinically significant cardiovascular disease. The patient has, at the&#xD;
+             Screening Visit: an abnormal ECG that is, in the investigator's opinion, clinically&#xD;
+             significant, a QTcF &gt; 470 ms.&#xD;
+&#xD;
+          7. Has had or is planning to have exposure to ionizing radiation that in combination with&#xD;
+             the study-related tracer administrations and scanning procedures would result in a&#xD;
+             cumulative exposure that exceeds recommended exposure limits.&#xD;
+&#xD;
+          8. Contraindications of MRI. Incidental findings on MRI scans that are pathognomonic for&#xD;
+             an active disease or pathological process which requires medical intervention will be&#xD;
+             exclusionary.&#xD;
+&#xD;
+          9. History of, or suffers from, claustrophobia or feels that he or she will be unable to&#xD;
+             lie still on their back in the MRI or PET scanner.&#xD;
+&#xD;
+         10. Patients who have received an investigational medication within the last 30 days.&#xD;
+             Additionally, the time between the last dose of the previous experimental medication&#xD;
+             and enrollment (completion of screening assessments) must be at least equal to 5 times&#xD;
+             the terminal half-life of the previous experimental medication.&#xD;
+&#xD;
+        Part II - Dosimetry in Healthy Volunteers&#xD;
+&#xD;
+        Inclusion Criteria&#xD;
+&#xD;
+          1. Healthy non-smoking males and females, as determined by medical history, physical&#xD;
+             examination, vital signs, clinical laboratory tests, and an electrocardiogram.&#xD;
+&#xD;
+             1.1 Male subjects and their child bearing potential partners must be willing to use a&#xD;
+             reliable method of birth control for the duration of the study.&#xD;
+&#xD;
+             1.2 Female subjects who are of childbearing potential must agree to use an adequate&#xD;
+             method of contraception for the duration of the study.&#xD;
+&#xD;
+          2. Between 18-45 years old, inclusive.&#xD;
+&#xD;
+          3. BMI between 18-30 kg/m2 inclusive.&#xD;
+&#xD;
+          4. Have clinical laboratory test results within the reference ranges for the population&#xD;
+             or results within acceptable deviations that are not considered by the investigator to&#xD;
+             be clinically significant.&#xD;
+&#xD;
+          5. All subjects and their partners of childbearing potential must commit to use two&#xD;
+             methods of contraception, one of which must be a barrier method, from the time of&#xD;
+             screening and throughout the study and until follow-up.&#xD;
+&#xD;
+          6. Less than 195 cm (6 feet and 5 inches) tall in order to accommodate the whole body&#xD;
+             scanning.&#xD;
+&#xD;
+          7. Have sufficient venous access.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Are currently enrolled in or discontinued within the last 30 days from a clinical&#xD;
+             trial involving an investigational drug or device (other than the study drug) or are&#xD;
+             currently enrolled in any other type of medical research.&#xD;
+&#xD;
+          2. Are currently experiencing neuropsychiatric illness or severe systemic disease based&#xD;
+             on history and physical exam.&#xD;
+&#xD;
+          3. Have participated in other research protocols in the last year such that radiation&#xD;
+             exposure would exceed the annual limits.&#xD;
+&#xD;
+          4. Pregnant or nursing women.&#xD;
+&#xD;
+          5. History of head trauma with prolonged loss of consciousness (&gt;10 minutes) or any&#xD;
+             neurological condition including stroke or seizure (excluding childhood febrile&#xD;
+             seizure) or history of migraine headache.&#xD;
+&#xD;
+          6. History of any clinically relevant hematological, hepatic, respiratory,&#xD;
+             cardiovascular, renal or CNS disease or other medical condition that is capable of&#xD;
+             constituting a risk factor when taking the study drug.&#xD;
+&#xD;
+          7. Suffer from claustrophobia and would be unable to undergo PET scanning.&#xD;
+&#xD;
+          8. Any confirmed significant allergic reactions against any drug, or multiple allergies.&#xD;
+&#xD;
+          9. Currently uses prescription medications, over-the-counter drugs or herbal remedies&#xD;
+             such as St. Johns Wort) which cannot be discontinued 14 days (or &lt; 5 half-lives,&#xD;
+             whichever is longer), prior to the PET scan and throughout the study. Exceptions&#xD;
+             include daily multiple vitamins.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Johns Hopkins Medical Institutions</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>April 2, 2019</study_first_submitted>
+  <study_first_submitted_qc>April 3, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 4, 2019</study_first_posted>
+  <last_update_submitted>July 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2011">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05207397</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00144303</org_study_id>
+    <secondary_id>1R01AG062548</secondary_id>
+    <nct_id>NCT05207397</nct_id>
+  </id_info>
+  <brief_title>Lactate for Energy and Neurocognition</brief_title>
+  <acronym>LEAN</acronym>
+  <official_title>Lactate for Energy and Neurocognition</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Kansas Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Kansas Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigator has shown that improved cardiorespiratory fitness following an aerobic&#xD;
+      exercise program elicits cognitive benefit in elderly subjects and memory improvement in&#xD;
+      Alzheimer's disease (AD). The physiological mechanism may be related to exercise-mediated&#xD;
+      change in circulating factors that permeate the brain. The response to each individual bout&#xD;
+      of exercise (i.e. the acute exercise response) may differ between subjects and be key to&#xD;
+      driving brain benefit. In young populations, the acute response to exercise can last hours&#xD;
+      and affect brain glucose metabolism. However, the field knows little about this acute&#xD;
+      exercise response in AD. Most exercise intervention trials designed to prevent and slow AD,&#xD;
+      including our own (AG033673; AG034614; AG043962; AG049749; AG053952), assess biomarkers at&#xD;
+      two fasting time points: pre- and post-intervention. The acute exercise response in the brain&#xD;
+      and periphery likely varies between subjects and diagnoses and provide key information&#xD;
+      regarding mechanisms of benefit. Our primary goals are to characterize the acute exercise&#xD;
+      response to exercise in the brain (glucose metabolism) and periphery (biomarker response) in&#xD;
+      aging and AD. The investigator will identify relationships between exercise-related factors&#xD;
+      (i.e. heart rate, biomarkers) and change in brain metabolism and cognition. Understanding&#xD;
+      these mechanistic relationships will provide specific targets that can be used in future&#xD;
+      trials to develop individualized exercise prescriptions and maximize benefit.&#xD;
+&#xD;
+      Accumulating evidence suggests that the exercise-related metabolite lactate is an&#xD;
+      understudied effector of brain health. Lactate is an essential fuel for neuronal function. It&#xD;
+      is supplied to neurons through glucose metabolism in nearby glia and from peripheral blood,&#xD;
+      since the brain is permeable to lactate. A drop in cerebral glucose metabolism is a marker of&#xD;
+      AD. Thus, supplying neurons directly with lactate for oxidation may supplement energy&#xD;
+      requirements in AD, as has been suggested with ketones. Importantly, circulating lactate&#xD;
+      levels rise during exercise. Repeated increases in systemic lactate (acute exercise response)&#xD;
+      may transiently spare glucose by providing an alternative fuel. With routine exercise, acute&#xD;
+      responses may elicit adaptations that facilitate the use of lactate beyond that which occurs&#xD;
+      during acute exercise and contribute to brain benefits observed during chronic exercise&#xD;
+      interventions. In younger populations, higher exercise intensity evokes a greater lactate&#xD;
+      response compared to lower intensities and elicits cognitive benefit. The investigator will&#xD;
+      achieve these goals through the following aim:&#xD;
+&#xD;
+      Aim 1. Examine differences in lactate metabolism between diagnosis groups and the effect of&#xD;
+      lactate on cognitive performance. Increased blood lactate can reflect increased production or&#xD;
+      decreased uptake. This has never been compared in ND and AD. The investigator will use a&#xD;
+      &quot;lactate clamp&quot; procedure, where lactate is infused to concentrations that match those found&#xD;
+      during exercise, to characterize lactate turnover. The investigator will characterize&#xD;
+      cognitive performance following lactate infusion, independent of exercise factors. The&#xD;
+      investigators hypothesize that ND subjects (n=12) will use lactate more efficiently (greater&#xD;
+      uptake) than AD individuals (n=12). The investigator further hypothesize that cognitive&#xD;
+      performance will acutely improve after lactate infusion in ND and AD subjects.&#xD;
+&#xD;
+      The overall goal is to characterize lactate metabolism, and its relationships with cognition.&#xD;
+      The KU ADC is a recognized leader in the study of exercise and metabolism in aged and AD&#xD;
+      populations, and puts the investigator in a strong position to successfully achieve these&#xD;
+      aims.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Alzheimer's disease (AD) is the most common neurodegenerative disease, affecting over 5&#xD;
+      million Americans, with this number expected to balloon to nearly 14 million by 2050. Annual&#xD;
+      health care costs associated with AD exceed 200 billion dollars which has led to the&#xD;
+      formation National Alzheimer's Project Act (NAPA). Goals of NAPA include the creation of a&#xD;
+      national plan to overcome AD, development of treatments to prevent, halt, or reverse AD, and&#xD;
+      improvements in early diagnosis and care of AD patients.&#xD;
+&#xD;
+      Our team has been at the forefront research to characterize the impact of exercise on AD&#xD;
+      prevention and progression. The investigator has shown that an exercise program improves&#xD;
+      cognitive (primarily executive) function in nondemented (ND) subjects in an exercise&#xD;
+      dose-dependent manner. The investigator has further shown that there is a positive&#xD;
+      relationship between cardiorespiratory fitness change and memory change in individuals with&#xD;
+      AD who participate in 6 months of aerobic exercise and are currently investigating these&#xD;
+      effects in subjects with preclinical AD (ClinicalTrials.gov ID NCT02000583). However, not all&#xD;
+      individuals benefit from exercise, and the precise mechanisms by which exercise elicits a&#xD;
+      beneficial effect are unclear. The investigator is currently exploring a variety of&#xD;
+      approaches ranging from molecular to neuroimaging studies to investigate these effects. One&#xD;
+      of the great knowledge gaps, however, is how little the field knows about the acute effects&#xD;
+      of exercise in AD. Most clinical trials, including our own, have been designed to assess&#xD;
+      metabolic outcomes at two fasting timepoints, before and after the intervention. However, the&#xD;
+      effects of each acute exercise bout on brain metabolism, and potential mechanisms by which&#xD;
+      cognition and memory may be affected, remain unclear. The investigator will explore these&#xD;
+      factors in the current application. Few groups are as well-positioned as ours to integrate&#xD;
+      cardiorespiratory fitness measures, acute exercise interventions, and advanced neuroimaging&#xD;
+      techniques.&#xD;
+&#xD;
+      Exercise benefits the brain: rationale for understanding the acute exercise response in AD&#xD;
+      Longitudinal observational studies show a relationship between self-reported exercise and&#xD;
+      cognitive decline, and higher physical activity in midlife and late life is associated with a&#xD;
+      reduced risk of developing late-onset AD. Furthermore, intervention studies have shown&#xD;
+      cognitive improvement following exercise in ND and MCI subjects. Cardiorespiratory fitness&#xD;
+      decline tracks with brain atrophy and progression of dementia severity in AD and hippocampal&#xD;
+      volume has improved with a physical activity intervention in some studies of older adults. In&#xD;
+      our recent study of exercise in AD subjects, the investigator did not see an overall&#xD;
+      improvement in memory in the intervention group but change in cardiorespiratory fitness was&#xD;
+      positively correlated with change in memory. The finding that cardiorespiratory fitness&#xD;
+      change is important in achieving memory effects in AD is consistent with work that shows a&#xD;
+      positive relationship between exercise-related cardiorespiratory fitness change and markers&#xD;
+      of cortical thickness and brain volume in ND, MCI, and AD subjects. It is also consistent&#xD;
+      with work from our group and others that shows physical activity and fitness levels are&#xD;
+      associated with larger brain volume.&#xD;
+&#xD;
+      Importantly, the investigator postulate that cardiorespiratory fitness change is likely&#xD;
+      driven by the repeated, acute effects of each single, acute exercise bout that is additive&#xD;
+      over time. These acute effects include changes in peripheral biomarkers that readily cross&#xD;
+      the blood brain barrier but return to normal within a few hours. However, the effects of&#xD;
+      acute exercise on the brain are not well understood, especially in aged and AD populations,&#xD;
+      and at the intensities that are often used in exercise intervention programs. This presents a&#xD;
+      knowledge gap in the study of the beneficial effects of exercise in aging and dementia&#xD;
+      populations.&#xD;
+&#xD;
+      Why study lactate? The terms &quot;lactate&quot; and &quot;lactic acid&quot; are often used interchangeably and&#xD;
+      differ by only one proton. Lactic acid is still considered by some to be a waste product&#xD;
+      generated during exercise, and although controversy still remains regarding the role of&#xD;
+      lactic acid in muscle acidification, there is substantial evidence that lactate plays a&#xD;
+      critical and beneficial role in a variety of tissues. The production of lactate from pyruvate&#xD;
+      generates NAD+, a necessary intermediate for glycolysis. Peripheral lactate is transported to&#xD;
+      the liver for regeneration of pyruvate via the Cori cycle; however, lactate is transported&#xD;
+      throughout the entire body, and during physical exercise, lactate provides a key source of&#xD;
+      energy for muscle and brain. Because lactate is used efficiently by the brain even at rest,&#xD;
+      the investigator hypothesize that lactate is a critical energy source for the brain, and that&#xD;
+      generation of lactate during acute exercise directly impacts glucose metabolism in the brain.&#xD;
+      The investigator will explore the effects of acute exercise on brain glucose metabolism as&#xD;
+      well as the dynamics of acute exercise biomarkers, including lactate and related substances&#xD;
+      that may affect brain metabolism.&#xD;
+&#xD;
+      In 1994, it was shown that that glucose use, lactate production, and lactate release&#xD;
+      increased with brain activation. This spurred the &quot;lactate shuttle hypothesis&quot; which posits&#xD;
+      that astrocytes primarily metabolize glucose to lactate, which is shuttled to neurons for use&#xD;
+      in oxidative phosphorylation. The concept of metabolic compartmentalization between brain&#xD;
+      cells is supported by expression of specific monocarboxylate transporter (MCT) isoforms,&#xD;
+      which transport lactate, in neurons compared to glia. Neurons express MCT2, which is&#xD;
+      characterized by a high affinity for lactate and limited expression profile, while astrocytes&#xD;
+      primarily express MCT4, which has low lactate affinity and is implicated in efflux of&#xD;
+      lactate. It is suggested that astrocytes rely more heavily on glycolysis than neurons.&#xD;
+      Glycolytic enzyme fructose biosphosphatase is degraded in neurons, suggesting a limited&#xD;
+      ability of neurons to increase glycolysis and further suggests increased shunting of glucose&#xD;
+      metabolism towards the pentose phosphate pathway. In short, glycolysis in neurons may be more&#xD;
+      critical for regeneration of antioxidants like glutathione, rather than generation of&#xD;
+      pyruvate for oxidation within mitochondria. Finally, studies of mice using FRET technology&#xD;
+      have shown that lactate can permeate both astrocytes and neurons, with evidence of an&#xD;
+      astrocyte-neuron lactate gradient. Lactate injection has been shown to increase neuronal&#xD;
+      lactate uptake relative to astrocytes. Taken together, this molecular evidence suggests that&#xD;
+      interventions which increase peripheral lactate, such as aerobic exercise, may increase flux&#xD;
+      into neuronal cells.&#xD;
+&#xD;
+      Lactate dynamics and exercise In humans, there is a linear relationship between systemic&#xD;
+      lactate concentration and brain lactate uptake at physiological concentrations and lactate&#xD;
+      can contribute to as much as 60% of cerebral metabolism when transporters are saturated. The&#xD;
+      kinetics of lactate entry into brain indicate the blood brain barrier is about half as&#xD;
+      permeable to lactate as glucose, but that intracellular uptake of lactate is greater. Recent&#xD;
+      evidence suggests that the FDG signal is driven by glial glucose use, and that increased&#xD;
+      supply of peripheral lactate may reduce the FDG-PET signal. Regardless of source, increased&#xD;
+      lactate supply should drop the FDG signal due to increased availability to both cell types.&#xD;
+&#xD;
+      Human studies: To date, most human studies of lactate and the brain have used lactate&#xD;
+      infusion and/or exercise, and were performed in healthy young men. A study using a lactate&#xD;
+      clamp and exercise showed that lactate oxidation during moderate exercise was improved by&#xD;
+      increasing lactate levels, sparing glucose and decreasing glucose production. Two other&#xD;
+      studies demonstrated that acute exercise improved cognition, and the cognitive improvement&#xD;
+      positively correlated with cerebral lactate uptake. Finally, exercise at an intensity which&#xD;
+      increased circulating lactate levels decreased cerebral glucose metabolism (FDG-PET signal),&#xD;
+      while lower intensity exercise that did not increase peripheral lactate did not. Although the&#xD;
+      decrease in cerebral glucose metabolism is proposed to be due to glucose sparing, as energy&#xD;
+      needs are met by lactate, the cellular fates of glucose and lactate have not been measured&#xD;
+      directly in humans due to technological limitations. Nonetheless, the acute changes in&#xD;
+      cerebral glucose metabolism may represent an important measure of cerebral responsiveness to&#xD;
+      exercise. It may also predict changes in resting cerebral glucose metabolism that have been&#xD;
+      observed in longer exercise intervention studies. However, the effects of acute exercise on&#xD;
+      brain glucose metabolism have not been assessed in ND elderly or AD populations.&#xD;
+&#xD;
+      Potential roles of related exercise biomarkers Although a lactate-specific relationship with&#xD;
+      cerebral glucose metabolism will be our focus for Aim 1, the investigator will also examine&#xD;
+      five additional exercise-related biomarkers that affect the brain. These biomarkers will&#xD;
+      include brain-derived neurotrophic factor (BDNF), vascular endothelial growth factor (VEGF),&#xD;
+      transforming growth factor beta (TGF), irisin, and glucose. Our rationale for the selection&#xD;
+      of these specific exercise-related biomarkers follows. BDNF is a potential mediator of&#xD;
+      exercise-related brain benefit, but its acute response has not been analyzed in AD. Studies&#xD;
+      in human cell lines suggest that short-term lactate exposure increases BDNF expression in&#xD;
+      both cortical astrocytes and SY5Y cells. Lactate is positively linked to both BDNF and VEGF&#xD;
+      levels following exercise, although it is unclear whether lactate drives these responses. In&#xD;
+      addition, in rodents, exercise-induced elevation of blood lactate increases TGF in brain CSF.&#xD;
+      This may be of relevance as TGF is implicated in the mobilization of fat-related energy&#xD;
+      substrates. The investigators have indirect evidence that energy substrate use during fitness&#xD;
+      tests may differ based on AD diagnosis, which is discussed later. Furthermore, in rodents,&#xD;
+      inhibition of TGF signaling decreased memory performance and long-term potentiation. Another&#xD;
+      modulator of fat metabolism and signaling is irisin. Irisin is a relatively newly-recognized&#xD;
+      hormone that is induced during moderate intensity exercise and has been linked to cognition&#xD;
+      in older adults at risk for dementia. The investigators and others have linked glucose to&#xD;
+      progression of AD and AD-related neuropathology, and in pilot studies the investigators have&#xD;
+      observed that glucose and insulin are both acutely responsive to exercise, with large&#xD;
+      variation between individuals. Quantification of these important exercise- and cognition-&#xD;
+      related biomarkers will enhance our understanding of the acute exercise response in aged and&#xD;
+      AD populations. The investigators will quantify them during the lactate clamp procedure. This&#xD;
+      will allow the investigator to determine if lactate itself is performing a function as a&#xD;
+      signaling molecule and affecting levels of other exercise related biomarkers, or if&#xD;
+      exercise-mediated change in these biomarkers occurs through other pathways.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2022</start_date>
+  <completion_date type="Anticipated">January 2025</completion_date>
+  <primary_completion_date type="Anticipated">January 2024</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Metabolic Clearance Rate (MCR)</measure>
+    <time_frame>2 hours</time_frame>
+    <description>units of lactate cleared per minute (mg/kg×min)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Performace</measure>
+    <time_frame>2 hours</time_frame>
+    <description>Calculate change in global cognition composite score between fasting and lactate-infused states</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Healthy Aging</condition>
+  <condition>Alzheimer Disease</condition>
+  <arm_group>
+    <arm_group_label>Healthy Control</arm_group_label>
+    <description>Lactate clamp: The unlabeled lactate infusion cocktail (30% L(+)-lactic acid solution (Sigma) with 2N NaOH, pH4.8) and stable isotope infusions. After insertion of the catheters, and prior to isotope infusion, a background blood and breath sample (ParvoMedics TrueOne 2400) will be obtained. The investigator will then administer priming doses of 57.5 mg [3-13C]lactate, 250 mg D2-glucose and 136 mg H13CO3- followed by continuous infusions of [3-13C]lactate at 10 mg/min and D2-glucose at 2 mg/min. Along with the continuous isotope infusion the investigator will begin infusion of the Na-lactate at approximately 2.6mg/kg·min. Based upon readings from blood samples during the infusion, this rate will be adjusted as needed to maintain the target lactate concentration of approximately 4mM. Blood samples will be drawn at 10, 20, 30, 45, 60, 75, 90 and 120 minutes, while breath samples will be collected at 60, 75, 90 and 120 minutes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild Cognitive Impairment</arm_group_label>
+    <description>Lactate clamp: The unlabeled lactate infusion cocktail (30% L(+)-lactic acid solution (Sigma) with 2N NaOH, pH4.8) and stable isotope infusions. After insertion of the catheters, and prior to isotope infusion, a background blood and breath sample (ParvoMedics TrueOne 2400) will be obtained. The investigator will then administer priming doses of 57.5 mg [3-13C]lactate, 250 mg D2-glucose and 136 mg H13CO3- followed by continuous infusions of [3-13C]lactate at 10 mg/min and D2-glucose at 2 mg/min. Along with the continuous isotope infusion the investigator will begin infusion of the Na-lactate at approximately 2.6mg/kg·min. Based upon readings from blood samples during the infusion, this rate will be adjusted as needed to maintain the target lactate concentration of approximately 4mM. Blood samples will be drawn at 10, 20, 30, 45, 60, 75, 90 and 120 minutes, while breath samples will be collected at 60, 75, 90 and 120 minutes.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      whole blood, plasma&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The investigator will leverage the KU ADC Outreach and Recruitment (OR) Core, which reaches&#xD;
+        more than 2000 individuals annually. The OR Core supports and maintains Eligibility&#xD;
+        Database, which contains demogrpahic and health information for all individuals who contact&#xD;
+        the ADC or are referred from clinic (n&gt;7000, ~5000 without cognitive complaints).&#xD;
+        Recruitment will also leverage the ADC Clinical Cohort, which is comprised of 400&#xD;
+        individuals who are characterized annually with clinical and cognitive testing.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 60 and older&#xD;
+&#xD;
+          -  Stable medication doses (&gt;1month)&#xD;
+&#xD;
+          -  Post-menopausal&#xD;
+&#xD;
+          -  Diagnosis of either Nondemented (CDR 0) or Probable AD (CDR 0.5 or 1 only)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to provide consent&#xD;
+&#xD;
+          -  Diagnosis of insulin-dependent (Type 1) Diabetes Mellitus&#xD;
+&#xD;
+          -  Anti-platelet medication (Plavix), Warfarin, and other anticoagulants (Eliquis,&#xD;
+             Pradaxa, and Xarelto)&#xD;
+&#xD;
+          -  Recent ischemic heart disease (&lt;2 years)&#xD;
+&#xD;
+          -  Diagnosis of a clinically significant chronic disease including CVD, other metabolic&#xD;
+             diseases (e.g., thyroid), cancer, HIV, or acquired immunodeficiency syndrome&#xD;
+&#xD;
+          -  Any Neurological disorders that have the potential to impair cognition or brain&#xD;
+             metabolism (e.g., Parkinson's disease, stroke defined as a clinical episode with&#xD;
+             neuroimaging evidence in an appropriate area to explain the symptoms).&#xD;
+&#xD;
+          -  Clinically significant depressive symptoms that may impair cognition, abnormalities in&#xD;
+             B12, RPR, or thyroid function that may impair cognition, use of psychoactive and&#xD;
+             investigational medications, and significant visual or auditory impairment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jill Morris, PhD</last_name>
+    <phone>913-945-7675</phone>
+    <email>jmorris2@kumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Casey John</last_name>
+    <phone>913-945-7672</phone>
+    <email>cjohn@kumc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Univeristy of Kansas Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jill Morris</last_name>
+      <phone>913-945-7675</phone>
+      <email>jmorris2@kumc.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2022</verification_date>
+  <study_first_submitted>August 9, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2022</study_first_posted>
+  <last_update_submitted>November 1, 2022</last_update_submitted>
+  <last_update_submitted_qc>November 1, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

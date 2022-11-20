@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2252">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05352529</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CARINGKIND</org_study_id>
+    <nct_id>NCT05352529</nct_id>
+  </id_info>
+  <brief_title>Assistive Technology and Reduced Caregiver Burden</brief_title>
+  <acronym>ck</acronym>
+  <official_title>Utilizing Assistive Technology to Reduce Caregiver Burden and Enhance Quality of Life in Individuals Living With Alzheimer's Disease and Related Dementias</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>MapHabit, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>CaringKind</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>MapHabit, Inc.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study investigated a six-week randomized controlled trial study in a small cohort of 16&#xD;
+      family caregivers of individuals living with Alzheimer's disease and related dementias.&#xD;
+      Family caregivers used assistive technology in the form of visual mapping software on smart&#xD;
+      devices in the experimental condition to support their care recipients in carrying out&#xD;
+      activities of daily living. Family caregivers in the control condition viewed educational&#xD;
+      videos about dementia care on their devices in supporting their individuals. The intervention&#xD;
+      was implemented for a total of 6 weeks. The investigators hypothesized that compared to the&#xD;
+      caregivers using educational videos, the caregivers using assistive technology will report&#xD;
+      improved quality of life and completion of activities of daily living for their care&#xD;
+      recipients, all the while reducing caregiver's burden and stress.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">February 2, 2021</start_date>
+  <completion_date type="Actual">September 1, 2021</completion_date>
+  <primary_completion_date type="Actual">August 15, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This randomized controlled trial assigned participants to two conditions: the experimental condition that implemented the assistive technology intervention and the control condition that implemented educational videos</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Statistical analyses of all data were carried out independently of investigators by a biostatistical resource department of an academic health center for validation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Alzheimer's Disease Cooperative Study - Activities of Daily Living Inventory (ADCS-ADL) from baseline at 6 weeks</measure>
+    <time_frame>Pre-Post: The assessment was administered at the beginning and end of the study's duration (6-week study).</time_frame>
+    <description>Assesses an individual with dementia's ability to carry out activities of daily living. The total score ranges from 0-53, with a higher score representing better performance in completing activities of daily living by the individual with dementia.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Margaret Blenkner Research Center (MBRC) Caregiver Strain instrument from baseline at 6 weeks</measure>
+    <time_frame>Pre-Post: The assessment was administered at the beginning and end of the study's duration (6-week study).</time_frame>
+    <description>14-item questionnaire assessing the various stresses caregivers experienced related to caring for an individual with cognitive impairment. The total score ranges from 0-42, with a higher score reflecting higher stress and burden on the caregiver.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of Life - 18 (QoL-18)</measure>
+    <time_frame>The instrument was administered to the participants after the completion of the study duration (6-week study</time_frame>
+    <description>18-item quality-of-life questionnaire (QoL-18) evaluated a range of participants' behaviors, including mood, engagement, and memory at the end of the study compared to before the use of the MHS. The instrument is scored on a Likert Scale, ranging from 1-5. A higher number indicates better outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>2-item Satisfaction Scale (SS-2)</measure>
+    <time_frame>The instrument was administered to the participants after the completion of the study duration (6-week study</time_frame>
+    <description>quantified caregivers' endorsements to two survey questions: How satisfied were they with the MHS? Would they recommend MHS to others?</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">16</enrollment>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <condition>Caregiver Burden</condition>
+  <condition>Quality of Life</condition>
+  <condition>Activities of Daily Living</condition>
+  <arm_group>
+    <arm_group_label>Experimental condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This condition implemented the assistive technology in question: the MapHabit System (MHS). The MapHabit System (MHS) is a commercially available visual mapping software application that utilize visual, audio, and text media to create step-by-step visual guides to assist individuals and their caregivers in structuring and accomplishing activities of daily living (ADLs). The application was made available to families through compatible tablets.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control condition</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control condition acted as the active comparator to the experimental condition. This condition implemented educational videos focused on Alzheimer's disease, dementia care, and caregiver support. The videos were made available to caregivers through compatible tablets.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>The MapHabit system</intervention_name>
+    <description>The MapHabit System (MHS) is a commercially available visual mapping software application that utilize visual, audio, and text media to create step-by-step visual guides to assist individuals and their caregivers in structuring and accomplishing activities of daily living (ADLs). The goal of the application is to develop and facilitate habits and routines using structured visual and auditory stimuli that can be customized by the user and can include educational and lesson-based material in addition to ADLs. The application was made available to families through compatible smartphones and tablets.&#xD;
+The MHS is a general wellness product and there is no regulatory oversight of the MapHabit System mapping functionality. This functionality is not a regulated medical device.</description>
+    <arm_group_label>Experimental condition</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Dementia educational videos</intervention_name>
+    <description>Investigators collected publicly available educational videos regarding dementia-related caregiving and support. The videos were made available to participants through compatible tablets.</description>
+    <arm_group_label>Control condition</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Individual diagnosed with Alzheimer's disease or other related dementia (ADRD)&#xD;
+&#xD;
+          -  Participating caregiver of individual with dementia must be the primary caregiver&#xD;
+&#xD;
+          -  Proficient in English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individual not diagnosed with ADRD&#xD;
+&#xD;
+          -  Participating caregiver of individual with dementia is NOT the primary caregiver&#xD;
+&#xD;
+          -  Not proficient in English&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stuart Zola, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>MapHabit, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>MapHabit, Inc.</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Boatman F, Golden M, Jin J, Kim Y, Law S, Lu A, Merriam N, Zola S. Assistive technology: Visual mapping combined with mobile software can enhance quality of life and ability to carry out activities of daily living in individuals with impaired memory. Technol Health Care. 2020;28(2):121-128. doi: 10.3233/THC-191980.</citation>
+    <PMID>31796718</PMID>
+  </reference>
+  <reference>
+    <citation>Kelleher J, Zola S, Cui X, Chen S, Gerber C, Parker MW, Davis C, Law S, Golden M, Vaughan CP. Personalized Visual Mapping Assistive Technology to Improve Functional Ability in Persons With Dementia: Feasibility Cohort Study. JMIR Aging. 2021 Oct 19;4(4):e28165. doi: 10.2196/28165.</citation>
+    <PMID>34269690</PMID>
+  </reference>
+  <reference>
+    <citation>Parker MW, Davis C, White K, Johnson D, Golden M, Zola S. Reduced care burden and improved quality of life in African American family caregivers: Positive impact of personalized assistive technology. Technol Health Care. 2022;30(2):379-387. doi: 10.3233/THC-213049.</citation>
+    <PMID>34334439</PMID>
+  </reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>April 25, 2022</study_first_submitted>
+  <study_first_submitted_qc>April 25, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 29, 2022</study_first_posted>
+  <last_update_submitted>April 25, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 25, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 29, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>MapHabit, Inc.</investigator_affiliation>
+    <investigator_full_name>Stuart Zola</investigator_full_name>
+    <investigator_title>Chief Scientific Officer</investigator_title>
+  </responsible_party>
+  <keyword>Alzheimer disease</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Caregiver burden</keyword>
+  <keyword>activities of daily living</keyword>
+  <keyword>Assistive technology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Caregiver Burden</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual participant data collected during the trial, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>mmediately following publication. No end date.</ipd_time_frame>
+    <ipd_access_criteria>Researchers who provide a methodologically sound proposal. Proposals should be directed to szola@maphabit.com. To gain access, data requestors will need to sign a data access agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

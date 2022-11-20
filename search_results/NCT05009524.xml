@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2444">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05009524</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NIA1R44AG071063</org_study_id>
+    <nct_id>NCT05009524</nct_id>
+  </id_info>
+  <brief_title>The Interactive Physical and Cognitive Exercise System (v3) for Mild Cognitive Impairment (MCI)</brief_title>
+  <acronym>iPACES</acronym>
+  <official_title>The Interactive Physical and Cognitive Exercise System (iPACES v3) to Benefit Brain Health in Mild Cognitive Impairment (MCI): A Randomized Clinical Trial of Neuro-exergaming Pedal-to-play (iPACES) vs Pedal-while-play (PACE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>iPACES LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pacific Brain Health Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>1st Playable Productions</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Adirondack Neuropsychological Associates</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Albany Medical College</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>iPACES LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary purpose of this study is to attempt to replicate and extend promising pilot&#xD;
+      findings regarding the cognitive benefits of in-home neuro-exergaming with iPACES&#xD;
+      (interactive Physical and Cognitive Exercise System v3) for persons with mild cognitive&#xD;
+      impairment (MCI). Participants will include persons with MCI and their co-residing partner&#xD;
+      who both exercise at home 3-5 times per week for at least 6 months and are followed through&#xD;
+      one year. All participation is &quot;remote&quot; (completed at home), with all equipment (pedaler,&#xD;
+      tablet, etc.) supplied directly to the home, and with all study measures completed via&#xD;
+      videoconference and mail.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A specific aim is to evaluate the potentially unique contribution of combining mental and&#xD;
+      physical exercise in an interactive way: &quot;pedal-to-play&quot; (iPACES), as compared with&#xD;
+      non-interactive, but simultaneous: &quot;pedal-while-play&quot; (PACE).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 23, 2021</start_date>
+  <completion_date type="Anticipated">August 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>participants are randomly assigned to either iPACES (&quot;pedal-to-play&quot;) or PACE (&quot;pedal-while-play&quot;) exergaming interventions to be completed 3-5x/wk for 6 months, then PACE crosses over to iPACES and all followed out to 1-year mark</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>executive function</measure>
+    <time_frame>change from baseline to 6 months</time_frame>
+    <description>cognitive function composite score from neuropsychological tests (e.g., Stroop)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>everyday function</measure>
+    <time_frame>change from baseline to 6 months</time_frame>
+    <description>subjective cognitive function in everyday living (e.g., Ecological Validity Scale)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>biomarker</measure>
+    <time_frame>change from baseline to 6 months</time_frame>
+    <description>biomarker (dried blood spot samples; DBSS) linking exercise to cognitive function (e.g., Brain Derived Neurotrophic Factor)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>MCI</condition>
+  <condition>Mild Cognitive Impairment</condition>
+  <condition>Alzheimer Disease</condition>
+  <condition>Dementia</condition>
+  <arm_group>
+    <arm_group_label>iPACES (interactive Physical and Cognitive Exercise System)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>iPACES (interactive Physical and Cognitive Exercise System) involves a &quot;pedal-to-play&quot; neuro-exergame in which physical and mental exercise are combined in an interactive way. In this condition a person will pedal to control forward motion in a tablet-based game, such as when pedaling along a virtual path and steering to different assigned errand locations.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PACE (physical and cognitive exercise)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>PACE (Physical and Cognitive Exercise) involves a &quot;pedal-while-play&quot; experience in which physical and mental exercise are combined in a simultaneous, but not fully interactive way. In this condition a person will pedal while also separately steering in a tablet-based game, such as when pedaling while automatically progressing along a virtual path to different assigned errand locations.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>iPACES (interactive Physical and Cognitive Exercise System)</intervention_name>
+    <description>iPACES involves a &quot;pedal-to-play&quot; neuro-exergame in which physical and mental exercise are combined in an interactive way. In this condition a person will pedal to control forward motion in a tablet-based game, such as when pedaling along a virtual path and steering to different assigned errand locations.</description>
+    <arm_group_label>iPACES (interactive Physical and Cognitive Exercise System)</arm_group_label>
+    <other_name>neuro-exergame</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>PACE (Physical and Cognitive Exercise)</intervention_name>
+    <description>PACE involves a &quot;pedal-while-play&quot; experience in which physical and mental exercise are combined in a simultaneous, but not fully interactive way. In this condition a person will pedal while also separately steering in a tablet-based game, such as when pedaling while automatically progressing along a virtual path to different assigned errand locations.</description>
+    <arm_group_label>PACE (physical and cognitive exercise)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 50 years of age or older&#xD;
+&#xD;
+          2. co-residing study partner (spouse, adult child, roommate in same home) willing to&#xD;
+             participate in the study as an exercising participant as well&#xD;
+&#xD;
+          3. self or partner meets criteria for MCI (per site staff/MD/neuropsychologist and&#xD;
+             confirmed by study-administered Montreal Cognitive Assessment; MoCA; score = between&#xD;
+             16-26, non-inclusive; Milani, 2018)&#xD;
+&#xD;
+          4. available for participation for one year (tablet surveys, videoconference evaluations)&#xD;
+&#xD;
+          5. willing and able to exercise 3-5 times per week for at least 6 months&#xD;
+&#xD;
+          6. can pedal an under-table elliptical&#xD;
+&#xD;
+          7. can read off of a small tablet screen&#xD;
+&#xD;
+          8. proficient in English (speaking and reading for completion of interview, surveys,&#xD;
+             game)&#xD;
+&#xD;
+          9. can participate in testing and read and operate tablet touch screen (adequate hearing,&#xD;
+             vision, speech)&#xD;
+&#xD;
+         10. written approval from primary care physician and cardiologist (if applicable) to&#xD;
+             participate in exercise for this study&#xD;
+&#xD;
+         11. can provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. already exercising at recommended levels (45 min of moderate intensity aerobic&#xD;
+             exercise 5-7x/wk)&#xD;
+&#xD;
+          2. significant history of cardiovascular problems&#xD;
+&#xD;
+          3. significant history of stroke&#xD;
+&#xD;
+          4. significant history of memory problems (e.g., dementia/Alzheimer's)&#xD;
+&#xD;
+          5. significant history of other neurological condition (e.g., seizures, Parkinson's,&#xD;
+             etc.)&#xD;
+&#xD;
+          6. tremor (idiopathic) such that would interfere with touch-screen use required&#xD;
+             throughout the study (surveys, game-play, etc.)&#xD;
+&#xD;
+          7. not prone to cybersickness (e.g., &quot;car sickness&quot; or problems with &quot;screen time&quot;)&#xD;
+&#xD;
+          8. cannot provide informed consent (i.e., when phone screened with the Impaired Decision&#xD;
+             Making Capacity screen)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cay Anderson-Hanley, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>iPACES LLC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>IreLee Clinical Research Coordinator</last_name>
+    <phone>737-747-2237</phone>
+    <email>support@myipaces.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>self-enrollment option www.myipaces.org</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>remote trial conducted via video-conference/mail in-home all locations in the continental USA</name>
+      <address>
+        <city>Clifton Park</city>
+        <state>New York</state>
+        <zip>12065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>IreLee Clinical Research Coordinator</last_name>
+      <phone>737-747-2237</phone>
+      <email>support@myipaces.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Wall K, Stark J, Schillaci A, Saulnier ET, McLaren E, Striegnitz K, Cohen BD, Arciero PJ, Kramer AF, Anderson-Hanley C. The Enhanced Interactive Physical and Cognitive Exercise System (iPACES(TM) v2.0): Pilot Clinical Trial of an In-Home iPad-Based Neuro-Exergame for Mild Cognitive Impairment (MCI). J Clin Med. 2018 Aug 30;7(9). pii: E249. doi: 10.3390/jcm7090249.</citation>
+    <PMID>30200183</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Anderson-Hanley C, Stark J, Wall KM, VanBrakle M, Michel M, Maloney M, Barcelos N, Striegnitz K, Cohen BD, Kramer AF. The interactive Physical and Cognitive Exercise System (iPACES™): effects of a 3-month in-home pilot clinical trial for mild cognitive impairment and caregivers. Clin Interv Aging. 2018 Sep 4;13:1565-1577. doi: 10.2147/CIA.S160756. eCollection 2018.</citation>
+    <PMID>30233154</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Anderson-Hanley C, Barcelos NM, Zimmerman EA, Gillen RW, Dunnam M, Cohen BD, Yerokhin V, Miller KE, Hayes DJ, Arciero PJ, Maloney M, Kramer AF. The Aerobic and Cognitive Exercise Study (ACES) for Community-Dwelling Older Adults With or At-Risk for Mild Cognitive Impairment (MCI): Neuropsychological, Neurobiological and Neuroimaging Outcomes of a Randomized Clinical Trial. Front Aging Neurosci. 2018 May 4;10:76. doi: 10.3389/fnagi.2018.00076. eCollection 2018.</citation>
+    <PMID>29780318</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Anderson-Hanley C, Arciero PJ, Brickman AM, Nimon JP, Okuma N, Westen SC, Merz ME, Pence BD, Woods JA, Kramer AF, Zimmerman EA. Exergaming and older adult cognition: a cluster randomized clinical trial. Am J Prev Med. 2012 Feb;42(2):109-19. doi: 10.1016/j.amepre.2011.10.016.</citation>
+    <PMID>22261206</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Anderson-Hanley C, Maloney M, Barcelos N, Striegnitz K, Kramer A. Neuropsychological Benefits of Neuro-Exergaming for Older Adults: A Pilot Study of an Interactive Physical and Cognitive Exercise System (iPACES). J Aging Phys Act. 2017 Jan;25(1):73-83. doi: 10.1123/japa.2015-0261. Epub 2016 Aug 24.</citation>
+    <PMID>27337738</PMID>
+  </results_reference>
+  <verification_date>November 2021</verification_date>
+  <study_first_submitted>July 23, 2021</study_first_submitted>
+  <study_first_submitted_qc>August 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 17, 2021</study_first_posted>
+  <last_update_submitted>November 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ADRD</keyword>
+  <keyword>exercise</keyword>
+  <keyword>exergame</keyword>
+  <keyword>physical activity</keyword>
+  <keyword>neuro-exergaming</keyword>
+  <keyword>neuropsychological</keyword>
+  <keyword>cognitive</keyword>
+  <keyword>dual-task</keyword>
+  <keyword>interactive</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>de-identified data will be made available in downloadable form</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>1-3 years depending upon pace of enrollment</ipd_time_frame>
+    <ipd_access_criteria>IPD sharing access may be requested at support@myipaces.org</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

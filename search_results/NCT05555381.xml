@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2873">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05555381</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Young-D</org_study_id>
+    <nct_id>NCT05555381</nct_id>
+  </id_info>
+  <brief_title>Anxiety, Stress and Sleep Problems in People With Early Onset Dementia</brief_title>
+  <acronym>Young-D</acronym>
+  <official_title>Anxiety, Stress and Sleep Problems in People With Early Onset Dementia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>KU Leuven</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Odisee University college for applied sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>KU Leuven</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to&#xD;
+&#xD;
+        -  detect and assess needs of people with early onset dementia regarding anxiety, stress&#xD;
+           and sleep&#xD;
+&#xD;
+        -  implement a 6 week intervention pilot study in wich weekly (hourly) sessions are&#xD;
+           implemented in day care settings in order to decrease anxiety, stress and sleep problems&#xD;
+           in people with early onset dementia&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. needs detection by means of survey and interviews&#xD;
+&#xD;
+        2. implementation of a 6 week program in day care facilities&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2022</start_date>
+  <completion_date type="Anticipated">September 30, 2025</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2024</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>anxiety (GAD7 validated questionnaire)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is a subjective survey that measures the level of anxiety in daily life. It is a score of 7 items with a min of 0 and a max of 21. A higher score indicates a higher anxiety.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>stress (perceived stress scale, PSS, validated questionnaire)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is a subjective survey that measures the level of stress in daily life. It is a score of 10 items with a min of 0 and a max of 40. A higher score indicates a higher stress level.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>sleep (Insomnia severity index, ISI, validated questionnaire)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is a subjective survey that measures the level of insomnia. It is a score of 7 items with a min of 0 and a max of 28. A higher score indicates a worse level of insomnia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>sleep (actigraph)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is an objective measurement that measures the sleep quantity</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>emotional well being (WEMWBS, Warwick emotional mental wellbeing scale)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is a subjective survey that measures the level of emotional well being in daily life. It is a score of14 items with a min of 0 and a max of 77. A higher score indicates a better wellbeing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>quality of life (QoL) (quality of life in dementia, QUALIDEM)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is a subjective survey that measures the level of QoL in daily life. It is a score of 40 items with a min of 0 and a max of 160. Per (7) subscales the scores are cumulated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>heart rate variance (HRV)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is an objective measurement that measures level of HRV in daily life, using (non-invasive photoplethysmography)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression (Patient Health Questionnaire PHQ-9, validated questionnaire)</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>this is a subjective survey that measures the level of depression in daily life. It is a score of 10 items with a min of 0 and a max of 27. A higher score indicates a more severe level of depression</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Early Onset Dementia</condition>
+  <condition>Young Onset Dementia</condition>
+  <condition>Stress</condition>
+  <condition>Distress, Emotional</condition>
+  <condition>Anxiety</condition>
+  <condition>Sleep Problem</condition>
+  <condition>Sleep</condition>
+  <condition>Insomnia</condition>
+  <arm_group>
+    <arm_group_label>Intervention group (pilot study)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>needs detection by means of survey and interviews (mixed-methods)&#xD;
+6 week program (1 hour) on a weekly basis including cognitive behavioural therapy, sleep/stress hygiene education, heart coherence exercises, mindfulness and relaxation exercises</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>young-D program</intervention_name>
+    <description>needs detection by means of survey and interviews (mixed-methods)&#xD;
+6 week program (1 hour) on a weekly basis including cognitive behavioural therapy, sleep/stress hygiene education, heart coherence exercises, mindfulness and relaxation exercises</description>
+    <arm_group_label>Intervention group (pilot study)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  diagnosed with early onset dementia before age of 65Y&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  severe dementia&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julie Vanderlinden, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Odisee University of Applied Sciences</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Odisee University of Applied Sciences</name>
+      <address>
+        <city>Brussel</city>
+        <state>Flanders</state>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Julie Vanderlinden, phd</last_name>
+      <phone>+3253727170</phone>
+      <email>julie.vanderlinden@odisee.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Familiezorg Oost Vlaanderen</name>
+      <address>
+        <city>Gent</city>
+        <state>Oost-Vlaanderen</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Julie Vanderlinden</last_name>
+      <phone>0478916956</phone>
+      <email>julie.vanderlinden@odisee.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>September 2022</verification_date>
+  <study_first_submitted>June 2, 2022</study_first_submitted>
+  <study_first_submitted_qc>September 23, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 26, 2022</study_first_posted>
+  <last_update_submitted>September 23, 2022</last_update_submitted>
+  <last_update_submitted_qc>September 23, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 26, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>KU Leuven</investigator_affiliation>
+    <investigator_full_name>Julie Vanderlinden</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Alzheimer Disease</mesh_term>
+    <mesh_term>Dyssomnias</mesh_term>
+    <mesh_term>Parasomnias</mesh_term>
+    <mesh_term>Sleep Wake Disorders</mesh_term>
+    <mesh_term>Anxiety Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
