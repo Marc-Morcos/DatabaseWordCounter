@@ -41,6 +41,8 @@ def getSectionsWeWant(filepath):
         sectionText = sectionText[0].text
         text += "\n" + sectionText
     
+    assert(text!="")
+    
     return text
     
 
@@ -63,6 +65,8 @@ def preProcessItem(inputItem):
 def main():
     startTime = time.time()
     print("Starting")
+
+    wordsWeWant = None#["loneliness","depression","anxiety","distress"] #["the","alzheimer","disease","diseases","patient","patients"]
 
     #change directory to current file path
     abspath = os.path.abspath(__file__)
@@ -93,7 +97,7 @@ def main():
         if status not in statuses:
             statuses[status] = dict()
         if year not in statuses[status]:
-            statuses[status][year] = dict()
+            statuses[status][year] = [dict(),0] #[word dict, number of studies for that year]
         
         #prepare input
         toGet.append({"year":year,
@@ -117,10 +121,16 @@ def main():
 
     #count statistics
     for study in results:
-        yearDict = statuses[study["status"]][study["year"]]
+        yearArr = statuses[study["status"]][study["year"]]
+        yearDict = yearArr[0]
+        yearArr[1] = yearArr[1]+1
         wordsFoundInCurrentStudy = set()
         currentWordlist = study["words"]
         for word in currentWordlist:
+            #filter only words we want
+            if wordsWeWant is not None and (word not in wordsWeWant):
+                continue
+
             #word already found in year
             if word in yearDict:
                 yearDict[word][0] = yearDict[word][0]+1
@@ -142,23 +152,25 @@ def main():
         #count max words
         maxWords = 0
         for yearVal in statusVal.values():
-            maxWords = max(maxWords,len(yearVal))
+            maxWords = max(maxWords,len(yearVal[0]))
         
         shape = (maxWords+2,colsPerYear*len(statusVal))
         output =np.full(shape, "", dtype="object", order='C')
 
         sortedYears = sorted(statusVal.items(), key=lambda item: int(item[0]) if item[0].isdecimal() else 99999999)
-        for yearInd,(yearKey,yearVal) in enumerate(sortedYears):
+        for yearInd,(yearKey,yearValArr) in enumerate(sortedYears):
+            yearVal = yearValArr[0]
             #titles
             col = yearInd*colsPerYear
             output[0,col] = yearKey
+            output[0,col+1] = "Num studies:"+str(yearValArr[1])
             output[1,col:col+colsPerYear]=["word","number of mentions","Avg percent of mentions per study"]
 
             #values
             sortedWords = sorted(yearVal.items(), key=lambda item: item[1][0],reverse =True)
             for row,(wordKey,wordVal) in enumerate(sortedWords):
-                #average second entry (Average percent of word in respective text)
-                avgPercent = str(sum(wordVal[1])/len(wordVal[1]))
+                #for average, divide by number of studies in group (not len(wordVal[1]) since wordVal[1] has no entries of 0%)
+                avgPercent = str(sum(wordVal[1])/yearValArr[1])
                 output[row+2,col:col+colsPerYear]=[wordKey,wordVal[0],avgPercent+"%"]
     
         #save the excel sheet with name of status
