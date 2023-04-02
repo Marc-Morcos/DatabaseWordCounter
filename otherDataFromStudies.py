@@ -131,7 +131,7 @@ def main():
             countValue("allocation",allocation,results[item["year"]])        
 
             #intervention_mode
-            intervention_mode=  getSingularAttribute("allocation",study_design_info)
+            intervention_mode=  getSingularAttribute("intervention_mode",study_design_info)
             countValue("intervention_mode",intervention_mode,results[item["year"]])
 
             #masking
