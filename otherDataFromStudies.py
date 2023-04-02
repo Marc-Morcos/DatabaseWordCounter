@@ -159,8 +159,8 @@ def main():
         
     print("Results")
     print("Total Studies",len(inputDF))
-    print("Num studies after applying filters:", statusesWeWant)
-    print("Num studies in sections we want",len(toGet))
+    print("Sections we want:", statusesWeWant)
+    print("Num studies after applying filters:",len(toGet))
     print("Sections we dont want", statusesExcluded)
     print(json.dumps(results, indent=4))
 
