@@ -40,12 +40,14 @@ def main():
         yearKeyToLookFor = "Start Date"
         year = row[yearKeyToLookFor]
         if(type(year) != str):
-            year = "No Start Date"
+            continue #filter out studies with no start date
         else:
             year=year[-4:]
             assert(year.isnumeric())
-            if(int(year)<2020):
-                year = "pre2020"
+            if(int(year)<1995):
+                continue #filter out studies before 1995
+            elif(int(year)<2020):
+                year = "[1995,2020)"
             else:
                 year = "2020AndBeyond"
 
@@ -65,15 +67,12 @@ def main():
 
 
     results = {
-        "pre2020": {
+        "[1995,2020)": {
             "enrollmentNotIncludingNonSpecified": []
             },
         "2020AndBeyond": {
             "enrollmentNotIncludingNonSpecified": []
-            },
-        "No Start Date": {
-            "enrollmentNotIncludingNonSpecified": []
-            },
+            }
     }
     #read all the xml files and get stats
     for item in toGet:
@@ -160,7 +159,7 @@ def main():
         
     print("Results")
     print("Total Studies",len(inputDF))
-    print("Sections we want", statusesWeWant)
+    print("Num studies after applying filters:", statusesWeWant)
     print("Num studies in sections we want",len(toGet))
     print("Sections we dont want", statusesExcluded)
     print(json.dumps(results, indent=4))
