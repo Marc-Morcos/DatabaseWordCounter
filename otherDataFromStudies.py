@@ -130,9 +130,9 @@ def main():
             allocation = getSingularAttribute("allocation",study_design_info)
             countValue("allocation",allocation,results[item["year"]])        
 
-            #intervention_mode
-            intervention_mode=  getSingularAttribute("intervention_mode",study_design_info)
-            countValue("intervention_mode",intervention_mode,results[item["year"]])
+            #intervention_model
+            intervention_model=  getSingularAttribute("intervention_model",study_design_info)
+            countValue("intervention_model",intervention_model,results[item["year"]])
 
             #masking
             masking=  getSingularAttribute("masking",study_design_info)
@@ -146,7 +146,7 @@ def main():
             countValue("primary_purpose",primary_purpose,results[item["year"]])
         else:
             countValue("allocation","Not Specified",results[item["year"]])        
-            countValue("intervention_mode","Not Specified",results[item["year"]])
+            countValue("intervention_model","Not Specified",results[item["year"]])
             countValue("masking","Not Specified",results[item["year"]])
             countValue("primary_purpose","Not Specified",results[item["year"]])
 
