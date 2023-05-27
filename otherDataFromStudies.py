@@ -44,8 +44,8 @@ def main():
         else:
             year=year[-4:]
             assert(year.isnumeric())
-            elif(int(year)<2020):
-                year = "[1995,2020)"
+            if(int(year)<2020):
+                year = "2020<"
             else:
                 year = "2020AndBeyond"
 
