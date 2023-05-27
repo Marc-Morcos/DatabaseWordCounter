@@ -44,8 +44,6 @@ def main():
         else:
             year=year[-4:]
             assert(year.isnumeric())
-            if(int(year)<1995):
-                continue #filter out studies before 1995
             elif(int(year)<2020):
                 year = "[1995,2020)"
             else:
