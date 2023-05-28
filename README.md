@@ -5,6 +5,6 @@ To run, extract search_results.zip into a folder called "search_results", instal
 ```
 cd <path where you checked out this repository>
 pip install pandas numpy tqdm
-python alzheimerDatabaseWordCounter.py
+python databaseWordCounter.py
 ```
 
