@@ -66,7 +66,8 @@ def main():
     startTime = time.time()
     print("Starting")
 
-    wordsWeWant = None#["loneliness","depression","anxiety","distress"] #["the","alzheimer","disease","diseases","patient","patients"]
+    wordsWeWant = ["ptsd","loneliness","depression","anxiety"] 
+    wordsWeWant = [wordInList.lower() for wordInList in wordsWeWant] #lowercase
 
     #change directory to current file path
     abspath = os.path.abspath(__file__)
@@ -135,18 +136,21 @@ def main():
             if word in yearDict:
                 yearDict[word][0] = yearDict[word][0]+1
             else:
-                yearDict[word] = [1,[]] #[word count, list of percent of word in respective text]
+                yearDict[word] = [1,[],0] #[word count, list of percent of word in respective text,num studies in year mentioning word]
             
             #word not already found in block
-            #percent of word in respective text
             if(word not in wordsFoundInCurrentStudy):
+                #percent of word in respective text
                 wordsFoundInCurrentStudy.add(word)
                 percentOfWord = 100.0*currentWordlist.count(word)/len(currentWordlist)
                 yearDict[word][1].append(percentOfWord)
+                #count num studies in year mentioning word
+                yearDict[word][2]+=1
     
     
     #format data
-    colsPerYear = 3
+    colTitles = ["word","number of mentions","Avg percent of mentions per study","num studies in year mentioning word"]
+    colsPerYear = len(colTitles)
     for statusKey,statusVal in statuses.items():
 
         #count max words
@@ -164,14 +168,14 @@ def main():
             col = yearInd*colsPerYear
             output[0,col] = yearKey
             output[0,col+1] = "Num studies:"+str(yearValArr[1])
-            output[1,col:col+colsPerYear]=["word","number of mentions","Avg percent of mentions per study"]
+            output[1,col:col+colsPerYear]=colTitles
 
             #values
             sortedWords = sorted(yearVal.items(), key=lambda item: item[1][0],reverse =True)
             for row,(wordKey,wordVal) in enumerate(sortedWords):
                 #for average, divide by number of studies in group (not len(wordVal[1]) since wordVal[1] has no entries of 0%)
                 avgPercent = str(sum(wordVal[1])/yearValArr[1])
-                output[row+2,col:col+colsPerYear]=[wordKey,wordVal[0],avgPercent+"%"]
+                output[row+2,col:col+colsPerYear]=[wordKey,wordVal[0],avgPercent+"%",wordVal[2]]
     
         #save the excel sheet with name of status
         with open(os.path.join(outputDir,statusKey+'.csv'), 'w', newline='', encoding="utf-8-sig") as fp:

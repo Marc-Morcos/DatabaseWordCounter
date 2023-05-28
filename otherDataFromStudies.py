@@ -45,14 +45,14 @@ def main():
             year=year[-4:]
             assert(year.isnumeric())
             if(int(year)<2020):
-                year = "2020<"
+                year = "before2020"
             else:
                 year = "2020AndBeyond"
 
         status = row["Status"]
         NCTNum = row["NCT Number"]
 
-        #exclude statuses we dont want
+        #filter statuses we dont want
         if status not in statusesWeWant:
             if status not in statusesExcluded:
                 statusesExcluded.append(status)
@@ -65,7 +65,7 @@ def main():
 
 
     results = {
-        "[1995,2020)": {
+        "before2020": {
             "enrollmentNotIncludingNonSpecified": []
             },
         "2020AndBeyond": {
