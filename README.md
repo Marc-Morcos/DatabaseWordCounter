@@ -16,4 +16,4 @@ You can also get some extra data needed for the study using
 ```
 python otherDataFromStudies.py
 ```
-and the outputs will also appear under "Output/otherData" 
+and the outputs will appear under "Output/otherData" 
