@@ -9,7 +9,7 @@ python alzheimerDatabaseWordCounter.py
 ```
 The results will appear in a folder called "Output"
 
-You can also get some extra data needed for the study into the console using
+You can also get some extra data needed for the study using
 ```
 python otherDataFromStudies.py
 ```
