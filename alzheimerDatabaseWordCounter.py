@@ -67,7 +67,9 @@ def main():
     print("Starting")
 
     wordsWeWant = None#["loneliness","depression","anxiety","distress"] #["the","alzheimer","disease","diseases","patient","patients"]
-
+    if(wordsWeWant is not None):
+        wordsWeWant = [wordInList.lower() for wordInList in wordsWeWant] #lowercase
+        
     #change directory to current file path
     abspath = os.path.abspath(__file__)
     dname = os.path.dirname(abspath)
@@ -75,7 +77,7 @@ def main():
 
     #check for old output and create output folder
     outputDir = os.path.abspath("./Output")
-    os.makedirs(outputDir, exist_ok = False)
+    os.makedirs(outputDir, exist_ok = True)
 
     #read original csv
     statuses = dict()

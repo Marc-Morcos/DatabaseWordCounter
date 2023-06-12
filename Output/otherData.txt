@@ -1,0 +1,108 @@
+Results
+Total Studies2985
+Sections we want:['Recruiting', 'Enrolling by invitation', 'Active, not recruiting', 'Completed']
+Num studies after applying filters:2241
+Sections we dont want['Unknown status', 'Not yet recruiting', 'Terminated', 'Withdrawn', 'Suspended']
+{
+    "[1995,2020)": {
+        "enrollmentNotIncludingNonSpecified": {
+            "MEAN": 1811.1784232365146,
+            "STDDEV": 22403.24667685635
+        },
+        "Country": {
+            "Other": 648,
+            "USA": 799,
+            "Not Specified": 117,
+            "USA+Other": 139
+        },
+        "gender": {
+            "All": 1636,
+            "Female": 17,
+            "Male": 50
+        },
+        "allocation": {
+            "Not Specified": 331,
+            "Randomized": 967,
+            "N/A": 210,
+            "Non-Randomized": 195
+        },
+        "intervention_model": {
+            "Not Specified": 337,
+            "Parallel Assignment": 907,
+            "Single Group Assignment": 327,
+            "Crossover Assignment": 98,
+            "Sequential Assignment": 15,
+            "Factorial Assignment": 19
+        },
+        "masking": {
+            "Not Specified": 333,
+            "Single": 173,
+            "Quadruple": 288,
+            "None": 501,
+            "Double": 271,
+            "Triple": 137
+        },
+        "primary_purpose": {
+            "Not Specified": 363,
+            "Prevention": 91,
+            "Treatment": 838,
+            "Supportive Care": 80,
+            "Diagnostic": 146,
+            "Other": 51,
+            "Device Feasibility": 4,
+            "Screening": 8,
+            "Basic Science": 88,
+            "Health Services Research": 34
+        }
+    },
+    "2020AndBeyond": {
+        "enrollmentNotIncludingNonSpecified": {
+            "MEAN": 1465.3568773234201,
+            "STDDEV": 13523.123858734005
+        },
+        "Country": {
+            "Other": 184,
+            "USA": 315,
+            "USA+Other": 39
+        },
+        "gender": {
+            "All": 530,
+            "Female": 6,
+            "Male": 2
+        },
+        "allocation": {
+            "Not Specified": 111,
+            "Randomized": 287,
+            "Non-Randomized": 46,
+            "N/A": 94
+        },
+        "intervention_model": {
+            "Not Specified": 110,
+            "Parallel Assignment": 262,
+            "Crossover Assignment": 33,
+            "Sequential Assignment": 23,
+            "Single Group Assignment": 101,
+            "Factorial Assignment": 9
+        },
+        "masking": {
+            "Not Specified": 110,
+            "Triple": 45,
+            "Double": 57,
+            "Single": 65,
+            "Quadruple": 74,
+            "None": 187
+        },
+        "primary_purpose": {
+            "Not Specified": 110,
+            "Treatment": 227,
+            "Supportive Care": 65,
+            "Diagnostic": 38,
+            "Prevention": 26,
+            "Basic Science": 22,
+            "Health Services Research": 17,
+            "Device Feasibility": 2,
+            "Other": 29,
+            "Screening": 2
+        }
+    }
+}

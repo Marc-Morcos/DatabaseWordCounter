@@ -156,13 +156,18 @@ def main():
             "STDDEV":np.std(results[key]["enrollmentNotIncludingNonSpecified"])
         }
         results[key]["enrollmentNotIncludingNonSpecified"] = stats
-        
-    print("Results")
-    print("Total Studies",len(inputDF))
-    print("Sections we want:", statusesWeWant)
-    print("Num studies after applying filters:",len(toGet))
-    print("Sections we dont want", statusesExcluded)
-    print(json.dumps(results, indent=4))
+    
+    outputDir = os.path.abspath("./Output")
+    os.makedirs(outputDir, exist_ok = True)
+    with open(os.path.join(outputDir,"otherData.txt"), 'w') as f:
+        f.writelines([\
+        "Results",\
+        "\nTotal Studies"+str(len(inputDF)),\
+        "\nSections we want:"+str(statusesWeWant),\
+        "\nNum studies after applying filters:"+str(len(toGet)),\
+        "\nSections we dont want"+str(statusesExcluded),\
+        "\n"+json.dumps(results, indent=4),\
+        ])
 
 
 if __name__ == "__main__":
