@@ -5,7 +5,7 @@ From this search, I downloaded the summary of the results in a csv file (SearchR
 To run, extract search_results.zip into a folder called "search_results", install python 3.11 and in the terminal, run
 ```
 cd <path where you checked out this repository>
-pip install pandas numpy tqdm
+python -m pip install pandas==1.5.2 numpy==1.24.1 tqdm==4.64.1
 python databaseWordCounter.py
 ```
 The results will appear in a folder called "Output"
