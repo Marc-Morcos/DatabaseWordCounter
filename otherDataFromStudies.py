@@ -156,7 +156,7 @@ def main():
         results[key]["enrollmentNotIncludingNonSpecified"] = stats
     
     outputDir = os.path.abspath("./Output")
-    os.makedirs(outputDir, exist_ok = False)
+    os.makedirs(outputDir, exist_ok = True)
     with open(os.path.join(outputDir,"otherData.txt"), 'w') as f:
         f.writelines([\
         "Results",\

@@ -67,7 +67,8 @@ def main():
     print("Starting")
 
     wordsWeWant = ["ptsd","loneliness","depression","anxiety"] 
-    wordsWeWant = [wordInList.lower() for wordInList in wordsWeWant] #lowercase
+    if(wordsWeWant is not None):
+        wordsWeWant = [wordInList.lower() for wordInList in wordsWeWant] #lowercase
 
     #change directory to current file path
     abspath = os.path.abspath(__file__)
