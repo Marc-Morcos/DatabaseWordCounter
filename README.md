@@ -1,5 +1,5 @@
 # Alzheimer Database Word Counter
-Script to analyze word usage in the U.S. National Library of Medicine ClinicalTrials.gov database. The keyword used was “Alzheimer Disease”. From this search, I downloaded the summary of the results in a csv file (SearchResults_1.csv), then the details of each study as xml files (search_results folder).
+Script to analyze word usage in the U.S. National Library of Medicine ClinicalTrials.gov database. The keyword used was “Alzheimer Disease”. From this search, we downloaded the summary of the results in a csv file (SearchResults_1.csv), then the details of each study as xml files (search_results folder).
 
 To run, install python 3.11. Then, in the terminal, run
 ```
