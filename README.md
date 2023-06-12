@@ -1,6 +1,6 @@
 # Breast Cancer Database Word Counter
-Script to analyze word usage in the U.S. National Library of Medicine ClinicalTrials.gov database. The keyword used was “Breast Cancer”. We also prefiltered it for studies with the following statusses: ["Recruiting","Enrolling by invitation","Active, not recruiting","Completed"]
-From this search, I downloaded the summary of the results in a csv file (SearchResults_1.csv), then the details of each study as xml files (search_results.zip).
+Script to analyze word usage in the U.S. National Library of Medicine ClinicalTrials.gov database. The keyword used was “Breast Cancer”. From this search, we downloaded the summary of the results in a csv file (SearchResults_1.csv), then the details of each study as xml files (search_results.zip). We also prefiltered it for studies with the following statusses: ["Recruiting","Enrolling by invitation","Active, not recruiting","Completed"]
+
 
 To run, extract search_results.zip into a folder called "search_results", install python 3.11 and in the terminal, run
 ```
