@@ -4,7 +4,7 @@ Script to analyze word usage in the U.S. National Library of Medicine ClinicalTr
 To run, install python 3.11. Then, in the terminal, run
 ```
 cd <path where you checked out this repository>
-pip install pandas numpy tqdm
+python -m pip install pandas==1.5.2 numpy==1.24.1 tqdm==4.64.1
 python alzheimerDatabaseWordCounter.py
 ```
 The results will appear in a folder called "Output"
