@@ -154,8 +154,10 @@ def main():
             "STDDEV":np.std(results[key]["enrollmentNotIncludingNonSpecified"])
         }
         results[key]["enrollmentNotIncludingNonSpecified"] = stats
-        
-    with open(os.path.join(os.path.abspath("./Output"),"otherData.txt"), 'w') as f:
+    
+    outputDir = os.path.abspath("./Output")
+    os.makedirs(outputDir, exist_ok = False)
+    with open(os.path.join(outputDir,"otherData.txt"), 'w') as f:
         f.writelines([\
         "Results",\
         "\nTotal Studies"+str(len(inputDF)),\
