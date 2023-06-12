@@ -7,4 +7,10 @@ cd <path where you checked out this repository>
 pip install pandas numpy tqdm
 python databaseWordCounter.py
 ```
+The results will appear in a folder called "Output"
 
+You can also get some extra data needed for the study into the console using
+```
+python otherDataFromStudies.py
+```
+and the outputs will also appear in the "Output" folder
