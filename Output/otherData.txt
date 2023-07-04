@@ -1,109 +1,110 @@
-Results
-Total Studies9304
-Sections we want:['Recruiting', 'Enrolling by invitation', 'Active, not recruiting', 'Completed']
-Num studies after applying filters:9282
-Sections we dont want[]
+_Results_
+Total Studies: 13049
+Sections we want: ['RECRUITING', 'ENROLLING_BY_INVITATION', 'ACTIVE_NOT_RECRUITING', 'COMPLETED']
+Num studies after applying filters: 9431
+Sections we dont want: ['WITHDRAWN', 'UNKNOWN', 'TERMINATED', 'NOT_YET_RECRUITING', 'SUSPENDED', 'APPROVED_FOR_MARKETING', 'NO_LONGER_AVAILABLE']
 {
     "before2020": {
         "enrollmentNotIncludingNonSpecified": {
-            "MEAN": 4297.602388581416,
-            "STDDEV": 138671.9153133743
+            "MEAN": 4284.15156769253,
+            "STDDEV": 138128.8028546486
         },
         "Country": {
-            "Other": 2772,
-            "USA": 3234,
-            "Not Specified": 392,
-            "USA+Other": 597
+            "Other": 2791,
+            "USA": 3260,
+            "Not Specified": 398,
+            "USA+Other": 602
         },
-        "gender": {
-            "Female": 4589,
-            "All": 2389,
-            "Male": 17
+        "sex": {
+            "FEMALE": 4607,
+            "ALL": 2418,
+            "MALE": 19,
+            "Not Specified": 7
         },
         "allocation": {
-            "Not Specified": 1615,
-            "Randomized": 2687,
-            "N/A": 1792,
-            "Non-Randomized": 901
+            "RANDOMIZED": 2693,
+            "NA": 1816,
+            "Not Specified": 1632,
+            "NON_RANDOMIZED": 910
         },
-        "intervention_model": {
-            "Not Specified": 1708,
-            "Parallel Assignment": 2684,
-            "Single Group Assignment": 2254,
-            "Crossover Assignment": 130,
-            "Sequential Assignment": 145,
-            "Factorial Assignment": 74
+        "interventionModel": {
+            "PARALLEL": 2695,
+            "SINGLE_GROUP": 2284,
+            "FACTORIAL": 74,
+            "Not Specified": 1725,
+            "SEQUENTIAL": 143,
+            "CROSSOVER": 130
         },
         "masking": {
-            "Not Specified": 1634,
-            "Single": 380,
-            "None": 4274,
-            "Double": 339,
-            "Triple": 162,
-            "Quadruple": 206
+            "NONE": 4311,
+            "TRIPLE": 162,
+            "SINGLE": 380,
+            "DOUBLE": 341,
+            "Not Specified": 1650,
+            "QUADRUPLE": 207
         },
-        "primary_purpose": {
-            "Not Specified": 1501,
-            "Supportive Care": 620,
-            "Diagnostic": 338,
-            "Health Services Research": 111,
-            "Treatment": 3674,
-            "Screening": 89,
-            "Prevention": 412,
-            "Basic Science": 70,
-            "Other": 164,
-            "Device Feasibility": 14,
-            "Educational/Counseling/Training": 2
+        "primaryPurpose": {
+            "BASIC_SCIENCE": 71,
+            "TREATMENT": 3699,
+            "SUPPORTIVE_CARE": 622,
+            "PREVENTION": 412,
+            "Not Specified": 1517,
+            "DIAGNOSTIC": 344,
+            "OTHER": 168,
+            "SCREENING": 91,
+            "HEALTH_SERVICES_RESEARCH": 111,
+            "DEVICE_FEASIBILITY": 14,
+            "ECT": 2
         }
     },
     "2020AndBeyond": {
         "enrollmentNotIncludingNonSpecified": {
-            "MEAN": 5166.671622212505,
-            "STDDEV": 209151.60374153804
+            "MEAN": 4971.705042016807,
+            "STDDEV": 205026.46364586233
         },
         "Country": {
-            "USA": 777,
-            "Other": 1345,
-            "USA+Other": 165
+            "Other": 1402,
+            "USA": 807,
+            "USA+Other": 171
         },
-        "gender": {
-            "Female": 1259,
-            "All": 1020,
-            "Male": 8
+        "sex": {
+            "FEMALE": 1303,
+            "ALL": 1068,
+            "MALE": 9
         },
         "allocation": {
-            "Not Specified": 473,
-            "Non-Randomized": 307,
-            "N/A": 675,
-            "Randomized": 832
+            "Not Specified": 500,
+            "NA": 698,
+            "RANDOMIZED": 866,
+            "NON_RANDOMIZED": 316
         },
-        "intervention_model": {
-            "Not Specified": 473,
-            "Parallel Assignment": 902,
-            "Single Group Assignment": 676,
-            "Sequential Assignment": 190,
-            "Factorial Assignment": 17,
-            "Crossover Assignment": 29
+        "interventionModel": {
+            "Not Specified": 500,
+            "SINGLE_GROUP": 698,
+            "PARALLEL": 937,
+            "SEQUENTIAL": 198,
+            "CROSSOVER": 30,
+            "FACTORIAL": 17
         },
         "masking": {
-            "Not Specified": 473,
-            "None": 1429,
-            "Single": 151,
-            "Triple": 59,
-            "Quadruple": 58,
-            "Double": 117
+            "Not Specified": 500,
+            "NONE": 1479,
+            "QUADRUPLE": 58,
+            "DOUBLE": 125,
+            "SINGLE": 154,
+            "TRIPLE": 64
         },
-        "primary_purpose": {
-            "Not Specified": 473,
-            "Treatment": 1111,
-            "Other": 95,
-            "Supportive Care": 235,
-            "Prevention": 137,
-            "Health Services Research": 59,
-            "Diagnostic": 103,
-            "Basic Science": 27,
-            "Screening": 43,
-            "Device Feasibility": 4
+        "primaryPurpose": {
+            "Not Specified": 500,
+            "DIAGNOSTIC": 110,
+            "SUPPORTIVE_CARE": 241,
+            "TREATMENT": 1150,
+            "HEALTH_SERVICES_RESEARCH": 62,
+            "SCREENING": 46,
+            "PREVENTION": 141,
+            "OTHER": 98,
+            "BASIC_SCIENCE": 28,
+            "DEVICE_FEASIBILITY": 4
         }
     }
 }
