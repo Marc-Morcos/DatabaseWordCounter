@@ -150,7 +150,7 @@ def main():
     
     
     #format data
-    colTitles = ["word","number of mentions","Avg percent of mentions per study","num studies in year mentioning word"]
+    colTitles = ["word","number of mentions","Avg percent of mentions per study","percent of studies in year mentioning word"]
     colsPerYear = len(colTitles)
     for statusKey,statusVal in statuses.items():
 
@@ -175,8 +175,7 @@ def main():
             sortedWords = sorted(yearVal.items(), key=lambda item: item[1][0],reverse =True)
             for row,(wordKey,wordVal) in enumerate(sortedWords):
                 #for average, divide by number of studies in group (not len(wordVal[1]) since wordVal[1] has no entries of 0%)
-                avgPercent = str(sum(wordVal[1])/yearValArr[1])
-                output[row+2,col:col+colsPerYear]=[wordKey,wordVal[0],avgPercent+"%",wordVal[2]]
+                output[row+2,col:col+colsPerYear]=[wordKey,wordVal[0],str(sum(wordVal[1])/yearValArr[1])+"%",str(wordVal[2]/yearValArr[1])+"%"]
     
         #save the excel sheet with name of status
         with open(os.path.join(outputDir,statusKey+'.csv'), 'w', newline='', encoding="utf-8-sig") as fp:
