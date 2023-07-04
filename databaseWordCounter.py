@@ -53,7 +53,7 @@ def main():
     startTime = time.time()
     print("Starting")
 
-    wordsWeWant = "Depression,dysthymia,anxiety,stress,distress,PTSD" #None
+    wordsWeWant = "ptsd,loneliness,depression,anxiety”" #None
     
     if(wordsWeWant is not None):
         wordsWeWant = getWords(wordsWeWant)
