@@ -120,7 +120,7 @@ def main():
     output =np.full(shape, "", dtype="object", order='C')
 
     #populate rows for each study
-    covidYears = ["2021","2022","2023"]
+    covidYears = ["2020","2021","2022","2023"]
     for rowInd,study in enumerate(results):
         currRow = [None]*numCols
         currRow[0] = study["year"]
