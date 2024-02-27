@@ -21,3 +21,9 @@ You can also get some extra data needed for the study using
 python otherDataFromStudies.py
 ```
 and the outputs will appear under "Output/otherData" 
+
+More raw data can be found by running
+```
+python Analysis2.py
+```
+with outputs appearing in the "Output2" folder
