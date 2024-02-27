@@ -69,6 +69,9 @@ def main():
     wordsWeWant = ["depression","anxiety","loneliness","distress"] #["the","alzheimer","disease","diseases","patient","patients"]
     if(wordsWeWant is not None):
         wordsWeWant = [wordInList.lower().strip() for wordInList in wordsWeWant] #lowercase
+    
+    statusesWeWant = ["Recruiting","Enrolling by invitation","Active, not recruiting","Completed"]
+    statusesExcluded = set()
         
     #change directory to current file path
     abspath = os.path.abspath(__file__)
@@ -94,6 +97,10 @@ def main():
         status = row["Status"]
         NCTNum = row["NCT Number"]
 
+        if(status not in statusesWeWant): #filter by status
+            statusesExcluded.add(status)
+            continue
+
         #prepare input
         toGet.append({"year":year,
                        "status":status,
@@ -101,6 +108,7 @@ def main():
 
 
     print("Starting file reads, total current runtime:",time.time()-startTime)
+    print("statuses excluded",statusesExcluded)
     #read all the xml files and get word lists
     numThreads = 4
     with ThreadPoolExecutor(numThreads) as executor:
