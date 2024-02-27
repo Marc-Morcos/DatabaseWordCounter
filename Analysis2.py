@@ -153,6 +153,8 @@ def main():
         indOffset += len(wordsWeWant)+1
         currRow[indOffset] = int(totalBoolMention)
 
+        assert(None not in currRow)
+
         output[rowInd,:] = currRow
 
     #sort rows
@@ -160,7 +162,7 @@ def main():
     indices = (-output[:, sortCol]).astype(int).argsort()
     output = output[indices]
 
-    # col titles
+    # column titles
     colTitles = ["Start Year", "IsCovidYear","is completed","total words"]
     colTitles+= [currWord + " percent" for currWord in wordsWeWant]
     colTitles+= ["any word we want percent"]
@@ -168,6 +170,7 @@ def main():
     colTitles+= ["any word we want num mentions"]
     colTitles+= [currWord + " is mentioned" for currWord in wordsWeWant]
     colTitles+= ["any word we want is mentioned"]
+    assert(len(colTitles) == numCols)
     
     #save the excel sheet with name of status
     with open(os.path.join(outputDir,'output.csv'), 'w', newline='', encoding="utf-8-sig") as fp:
