@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-from concurrent.futures import ThreadPoolExecutor
 import re
 import csv
 import os
@@ -46,7 +45,6 @@ def getSectionsWeWant(filepath):
     return text
     
 
-#what each thread will do
 #get a nice word list of the sections we want from an xml file
 def preProcessItem(inputItem):
         try:
@@ -109,15 +107,7 @@ def main():
 
     print("Starting file reads, total current runtime:",time.time()-startTime)
     #read all the xml files and get word lists
-    numThreads = 4
-    with ThreadPoolExecutor(numThreads) as executor:
-        toWaitFor = []
-        for item in toGet:
-            toWaitFor.append(executor.submit(preProcessItem,item))
-        
-        results = []
-        for item in tqdm(toWaitFor,desc= "Reading files and doing some preprocessing", leave=True):
-            results.append(item.result())
+    results = [preProcessItem(item) for item in tqdm(toGet,desc= "Reading files and doing some preprocessing", leave=True)]
     
     print("Starting Finalization:",time.time()-startTime)
 
